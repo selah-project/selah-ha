@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Bari in tsallaka, in ga ⟨את⟩ ƙasar da ke kyau wadda ke a ƙetaren Yarden, wannan taron da ke kyau, da ⟨kuma⟩ Lebanon.",
+  "tokens": [
+    {
+      "surface": "אֶעְבְּרָה",
+      "gloss": "Bari in tsallaka"
+    },
+    {
+      "surface": "נָּא",
+      "gloss": "in"
+    },
+    {
+      "surface": "וְאֶרְאֶה",
+      "gloss": "in ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "הַטּוֹבָה",
+      "gloss": "da ke kyau"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wadda ke"
+    },
+    {
+      "surface": "בְּעֵבֶר",
+      "gloss": "a ƙetaren"
+    },
+    {
+      "surface": "הַיַּרְדֵּן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "הָהָר",
+      "gloss": "wannan taron"
+    },
+    {
+      "surface": "הַטּוֹב",
+      "gloss": "da ke kyau"
+    },
+    {
+      "surface": "הַזֶּה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "וְהַלְּבָנוֹן",
+      "gloss": "da ⟨kuma⟩ Lebanon"
+    }
+  ],
+  "timestamp": "2026-08-12T04:57:08.447585760Z",
+  "model": "glm-5.2"
+}

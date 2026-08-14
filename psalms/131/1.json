@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 131,
+  "translation": "Waƙar hawa, na Dawida. Yahweh, ba ya girma ⟨ne⟩ zuciyata, kuma idanuna ba su tashi, kuma ba na tafiya cikin abubuwa masu girma, ko cikin abubuwa ban mamaki da ⟨su⟩ wuce gare ni.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Waƙar"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na Dawida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ya girma"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "su tashi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "idanuna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "na tafiya"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "cikin abubuwa masu girma"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "ko cikin abubuwa ban mamaki"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "da ⟨su⟩ wuce gare ni"
+    }
+  ],
+  "timestamp": "2026-08-12T20:48:29.108554055Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 32:31",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Kuma Mosheh ya koma zuwa Yahweh, ya ce: \"Ah, wannan mutum ya zunubi zunubi babba, kuma suka yi musu alloli na zinari.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Kuma ya koma"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ya zunubi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wannan mutum"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "zunubi"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "babba"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "kuma suka yi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "alloli"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "na zinari"
+    }
+  ],
+  "timestamp": "2026-08-12T01:27:15.167154144Z",
+  "model": "glm-5.2"
+}

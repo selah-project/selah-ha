@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 9:4",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "⟨Shi ne⟩ mai hikimar zuciya, kuma mai ƙarfin ƙarfi — wa ya yi tauri a gare shi ya sami lafiya?",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "mai hikima"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "zuciya"
+    },
+    {
+      "surface": "ואמיץ",
+      "gloss": "kuma mai ƙarfin"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ƙarfi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ya yi tauri"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a gare shi"
+    },
+    {
+      "surface": "וישלם",
+      "gloss": "ya sami lafiya"
+    }
+  ],
+  "timestamp": "2026-08-13T02:31:17.422506981Z",
+  "model": "glm-5.2"
+}

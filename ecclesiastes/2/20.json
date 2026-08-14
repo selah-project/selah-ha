@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma na juya ni, in sa ⟨את⟩ zuciyata ta yi baƙin ciki, saboda duka ħajatar da na ħjata a karkashin rana.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "kuma na juya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "in sa ta yi baƙin ciki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuciyata"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "ħajatar"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "da na ħjata"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a karkashin"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rana"
+    }
+  ],
+  "timestamp": "2026-08-12T22:43:21.165692125Z",
+  "model": "glm-5.2"
+}

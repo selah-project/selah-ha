@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 135,
+  "translation": "Ku masu tsayawa a cikin gidan Yahweh, a cikin ƙofofin gidan Elohim mu!",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "ku masu tsayawa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a cikin gidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "a cikin ƙofofin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim mu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:51:30.021313587Z",
+  "model": "glm-5.2"
+}

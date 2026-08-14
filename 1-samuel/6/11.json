@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma suka sanya ⟨את⟩ akwatin Yahweh a kan motar, ⟨kuma⟩ ⟨את⟩ akwatin, ⟨kuma⟩ ⟨את⟩ zaben zinari, ⟨kuma⟩ ⟨את⟩ mutum-mutumin tudanjensu.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "Kuma suka sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "motar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨kuma⟩ ⟨את⟩",
+      "marks": "akwatin"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨kuma⟩ ⟨את⟩",
+      "marks": "zaben"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "zaben"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zinari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨kuma⟩ ⟨את⟩",
+      "marks": "mutum-mutumin"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "mutum-mutumin"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "tudanjensu"
+    }
+  ],
+  "timestamp": "2026-08-12T08:39:18.278270301Z",
+  "model": "glm-5.2"
+}

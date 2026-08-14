@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Paroh ya ce: \"Wane ne Yahweh sai in saurara muryaSa don in saki ⟨את⟩ Yisra'el? Ba na san Yahweh, kuma ⟨את⟩ Yisra'el ma ba zan saki ba.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wane ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sai"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "in saurara"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "muryaSa"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "don in saki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "na san"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "zan saki"
+    }
+  ],
+  "timestamp": "2026-08-12T00:37:07.550036315Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Gonar da Avraham ya saya daga ⟨את⟩ gajiyar ɗan Chet; can ne aka binne Avraham da ⟨את⟩ Sarah matarsa.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "Gonar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ya saya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "daga ⟨את⟩",
+      "marks": "gajiyar ɗan Chet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "gajiyar"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ɗan Chet"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "can"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "aka binne"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "da Sarah",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "matarsa"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:00.690991896Z",
+  "model": "glm-5.2"
+}

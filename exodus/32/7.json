@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Yahweh ya yi magana da Mosheh: \"Ka tafi, ka sauka, domin mutanenka da ka fitar daga ƙasar Mitsrayim sun lalace.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ya yi magana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka tafi"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ka sauka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "sun lalace"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mutanenka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "ka fitar"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T01:27:31.475049457Z",
+  "model": "glm-5.2"
+}

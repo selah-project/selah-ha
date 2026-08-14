@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma ⟨את⟩ na biyu ya miƙa shi ɔfitar da wuta, kamar yadda doka ta tanada, kuma kohen ya yi gafararsa game da ɗábbõbinsa da ya keta, a gafarta masa.",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "na biyu"
+    },
+    {
+      "surface": "הַשֵּׁנִ֛י",
+      "gloss": "na biyu"
+    },
+    {
+      "surface": "יַעֲשֶׂ֥ה",
+      "gloss": "ya miƙa shi"
+    },
+    {
+      "surface": "עֹלָ֖ה",
+      "gloss": "ɔfitar da wuta"
+    },
+    {
+      "surface": "כַּמִּשְׁפָּ֑ט",
+      "gloss": "kamar yadda doka ta tanada"
+    },
+    {
+      "surface": "וְכִפֶּ֨ר",
+      "gloss": "kuma ya yi gafararsa"
+    },
+    {
+      "surface": "עָלָ֧יו",
+      "gloss": "game da shi"
+    },
+    {
+      "surface": "הַכֹּהֵ֛ן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מֵחַטָּאת֥וֹ",
+      "gloss": "game da ɗábbõbinsa"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "da"
+    },
+    {
+      "surface": "חָטָ֖א",
+      "gloss": "ya keta"
+    },
+    {
+      "surface": "וְנִסְלַ֥ח",
+      "gloss": "a gafarta"
+    },
+    {
+      "surface": "לֽוֹ",
+      "gloss": "masa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:54:24.327279880Z",
+  "model": "glm-5.2"
+}

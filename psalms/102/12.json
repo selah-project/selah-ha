@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 102,
+  "translation": "Kwanākina kamar inuwa ⟨ce⟩ ta bātsa, kuma ni kamar ciyā ta bushē ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "kwanakina"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "kaman inuwa"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "ta batsa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "kaman ciya"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "ta bushe"
+    }
+  ],
+  "timestamp": "2026-08-12T20:24:44.092624587Z",
+  "model": "glm-5.2"
+}

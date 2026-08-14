@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 60,
+  "translation": "Ka girgiza ƙasa, ka tsaga ta, ka warha gyaranta, domin tana girgizawa.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Ka girgiza"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "ka tsaga ta"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "ka warha"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "gyaranta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tana girgizawa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:55:20.443616108Z",
+  "model": "glm-5.2"
+}

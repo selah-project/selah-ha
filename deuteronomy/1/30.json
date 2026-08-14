@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Yahweh, Elohim ku, mai tafiya a gaban ku, shi ⟨ne⟩ zai yaƙa don ku, gwargwadon dukan abin da ya yi ⟨את⟩ ku a Mitsrayim a gaban idon ku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ku"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "mai tafiya"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "a gaban ku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "zai yaƙa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "don ku"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "gwargwadon dukan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku",
+      "marks": "ku"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "a Mitsrayim"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "a gaban idan ku"
+    }
+  ],
+  "timestamp": "2026-08-12T04:52:46.587256844Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma Mosheh ya kusantar da ⟨את⟩ shari'arsu a gaban Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ya kusantar da"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shari'arsu"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "shari'arsu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-13T01:53:10.470470303Z",
+  "model": "glm-5.2"
+}

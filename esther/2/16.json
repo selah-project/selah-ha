@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 2:16",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma aka ɗauki Ester zuwa wurin sarki Achashverosh, zuwa gidan mulkinsa, a wata na goma, shi ⟨ne⟩ watan Tevet, a shekara ta bakwai na mulkinsa.",
+  "tokens": [
+    {
+      "surface": "ותלקח",
+      "gloss": "aka ɗauki"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wurin sarki"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "mulkinsa"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "a wata"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "na goma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "watan"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "Tevet"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "a shekara"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ta bakwai"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "na mulkinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:55:45.484635340Z",
+  "model": "glm-5.2"
+}

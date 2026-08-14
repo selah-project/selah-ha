@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Har zuwa ƙarshe, Yahweh, za ka manta da ni? A har abada za ka ɓoye ⟨את⟩ fuskarka daga gare ni?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Har zuwa"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ƙarshe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "za ka manta da ni"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "A har abada"
+    },
+    {
+      "surface": "עד",
+      "gloss": "za ka"
+    },
+    {
+      "surface": "אנה",
+      "gloss": ""
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ɓoye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuskarka"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuskarka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daga gare ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:21:44.872486879Z",
+  "model": "glm-5.2"
+}

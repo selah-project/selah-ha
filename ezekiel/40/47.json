@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezekiel 40:47",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ya auna ⟨את⟩ tsakar gida, tsawon ɗari lika, faɗin ɗari lika, murabba'i; kuma sallar tana gaban gida.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Kuma ya auna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsakar gida"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "tsakar gida"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "tsawon"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "lika"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "faɗin"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "lika"
+    },
+    {
+      "surface": "מרבעת",
+      "gloss": "murabba'i"
+    },
+    {
+      "surface": "והמזבח",
+      "gloss": "kuma sallar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "tana gaban"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "gida"
+    }
+  ],
+  "timestamp": "2026-08-12T17:56:10.243445190Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 144,
+  "translation": "Daɗi ga mutanen da haka ⟨take⟩ musu; daɗi ga mutanen da Yahweh Elohim ⟨ne⟩!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "daɗi ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "haka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "musu"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "daɗi ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "da Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T20:57:08.863647042Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 39:39",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "⟨את⟩ babban gidan hadaya na ƙarfe, da ⟨את⟩ kyallen ƙarafen da yake da shi, ⟨את⟩ sandunansa, da ⟨את⟩ dukkan kayan sa, ⟨את⟩ kwandon wanka da ⟨את⟩ ƙafarsa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babban gidan hadaya"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "babban gidan hadaya"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "na ƙarfe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kyallensa"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "kyalle"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "na ƙarfen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yake da shi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandunansa"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "sandunansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukkan kayan sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kayan sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kwandon wanka"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "kwandon wanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙafarsa"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ƙafarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:40:22.284933451Z",
+  "model": "glm-5.2"
+}

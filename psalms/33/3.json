@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Ku rera wa ⟨shí⟩ waƙa sabuwa; ku gyara famarin ku da kururuwa.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Ku rera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wa ⟨shí⟩"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "waƙa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "sabuwa"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "ku gyara"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "farin"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ku da kururuwa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:37:50.304289306Z",
+  "model": "glm-5.2"
+}

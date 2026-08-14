@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 124,
+  "translation": "lällãi ruwan da ya gudãnu, tashin ruwa ya wuce a kan rãyunmu,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "lällãi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "da ya gudãnu"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "tashin ruwa"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ya wuce"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "rãyunmu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:48:55.925102007Z",
+  "model": "glm-5.2"
+}

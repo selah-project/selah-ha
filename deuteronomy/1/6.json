@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Yahweh, Elohimimu, Ya yi magana da mu a Horev, yana cewa: Ya isa ku, zaunuwar ku a wannan dutsen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ya yi magana"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "da mu"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "a Horev"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Ya isa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "zaunuwar"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a dutsen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-12T04:54:32.872440999Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kai, Yahweh, zaka kiyaye su; zaka tsare su daga wannan zuriyar ⟨mutāne⟩ har abadā.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "zaka kiyaye su"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "zaka tsare su"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "wannan zuriyar"
+    },
+    {
+      "surface": "זו",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abadā"
+    }
+  ],
+  "timestamp": "2026-08-12T19:19:35.658105134Z",
+  "model": "glm-5.2"
+}

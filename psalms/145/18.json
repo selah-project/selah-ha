@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 145,
+  "translation": "Kusa Yahweh ⟨yake⟩ ga duk waɗanda suke kiranSa, ga duk wanda yake kiranSa a gaskiya.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "kusa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ga duk"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "waɗanda suke kiranSa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ga duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "yake kiranSa"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "a gaskiya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:58:30.061986310Z",
+  "model": "glm-5.2"
+}

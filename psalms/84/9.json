@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 84,
+  "translation": "Yahweh, Elohim na ṣaba'u, ka ji addu'a ta! Saurari, ya Elohim na Ya'ƙub! Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "na ṣaba'u"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ka ji"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "addu'a ta"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "saurari"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ya Elohim na"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'ƙub"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-12T20:14:44.127858530Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "ƙasar da Yahweh, Elohim ka, ke nema ⟨את⟩ ta kullum, idanun Yahweh, Elohim ka, suna a kanta daga farkon shekara har zuwa ƙarshen shekara.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ka"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ke nema"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ta"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kullum"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "idanun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ka"
+    },
+    {
+      "surface": "בה",
+      "gloss": "suna a kanta"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "daga farkon"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ƙarshen"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    }
+  ],
+  "timestamp": "2026-08-12T05:10:43.393765795Z",
+  "model": "glm-5.2"
+}

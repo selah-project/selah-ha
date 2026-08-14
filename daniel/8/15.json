@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 8:15",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ya faru, a lokacin da ni, Daniyel, na ga ⟨את⟩ al'amarin gani, kuma nakan nemi fahimtar, ⟨sa'an nan⟩ ga tsayawa a gabanina kamar kamannin mutum.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya faru"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "a lokacin da na ga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alar gani"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "alar gani"
+    },
+    {
+      "surface": "ואבקשה",
+      "gloss": "kuma na nema"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "fahimta"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "tsayuwa"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "a gabanina"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "kamar kamanni"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "na mutum"
+    }
+  ],
+  "timestamp": "2026-08-12T23:16:16.444208328Z",
+  "model": "glm-5.2"
+}

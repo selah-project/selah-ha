@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "har yadda ba a duhu ba rana da haske da wata da taurari, kuma gajimare su koma a baya bayan ruwan sama,",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "har yadda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba a"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "duhu ba"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rana"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "da haske"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "da wata"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "da taurari"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "kuma su koma"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "gajimare"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "a baya"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "bayan ruwan sama"
+    }
+  ],
+  "timestamp": "2026-08-12T22:50:53.654228265Z",
+  "model": "glm-5.2"
+}

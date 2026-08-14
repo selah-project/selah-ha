@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 3:7",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ya tafi, ya aika zuwa Yehoshafat sarkin Yahuda, yana cewa: Sarkin Mowabi ya tayar da bishiya ⟨a⟩ ni, shin za ka tafi ⟨את⟩ ⟨tare da⟩ ni zuwa Mowabi don yaki? Kuma ⟨shi⟩ ya ce: Zan hawa, ina kamar kai ne, mutanena kamar mutanenka ne, dawakaina kamar dawakanka ne.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Kuma ya tafi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ya aika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Sarkin"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowabi"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ya tayar da bishiya"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨a⟩ ni"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "za ka tafi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ⟨tare da⟩ ni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowabi"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "don yaki"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ⟨shi⟩ ya ce"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "Zan hawa"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "ina kamar"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kai"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "mutanena kamar"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "mutanenka"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "dawakaina kamar"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "dawakanka"
+    }
+  ],
+  "timestamp": "2026-08-12T11:57:21.562290372Z",
+  "model": "glm-5.2"
+}

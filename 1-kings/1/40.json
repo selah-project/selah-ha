@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 1:40",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Dukkan mutanen sun biyo ⟨shì⟩, mutanen suna busa busa-busar, suna yin murna da girman farin ciki, har ƙasa ta tsinke da muryarsu.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "sun biyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Dukkan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "⟨shì⟩"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "suna busa"
+    },
+    {
+      "surface": "בחללים",
+      "gloss": "busa-busar"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "suna yin murna"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "da girman farin ciki"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "har"
+    },
+    {
+      "surface": "ותבקע",
+      "gloss": "ƙasa ta tsinke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "da"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "muryarsu"
+    }
+  ],
+  "timestamp": "2026-08-12T10:52:06.628218252Z",
+  "model": "glm-5.2"
+}

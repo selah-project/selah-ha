@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Suka saki ⟨את⟩ Rivka ƙanarsu, da ⟨את⟩ mai shayar da ita, da ⟨את⟩ bawan Avraham, da ⟨את⟩ mutanensa.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "suka saki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "ƙanarsu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "mai shayar da ita"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "mai shayar da ita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "bawan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "bawan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "mutanensa"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "mutanensa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:45:27.382984871Z",
+  "model": "glm-5.2"
+}

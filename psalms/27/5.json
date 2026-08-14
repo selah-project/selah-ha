@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Domin zai ɓoye ni cikin mafaka, a ranar ɓala'i, ya rufe ni cikin ɓoyen tzahalarsa, akan dutsen ya ɗauke ni tsaye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "zai ɓoye ni"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "cikin mafaka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a ranar"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ɓala'i"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "ya rufe ni"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "cikin ɓoyen"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "tzahalarsa"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "akan dutsen"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "ya ɗauke ni tsaye"
+    }
+  ],
+  "timestamp": "2026-08-12T19:31:36.981647739Z",
+  "model": "glm-5.2"
+}

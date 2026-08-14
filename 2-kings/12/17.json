@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 12:17",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Azabar laifufa da azabar zunubi ba a kawo shi gidan Yahweh ba; na kohanim ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "azabar"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "laifufa"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "da azabar"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "zunubi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "a kawo shi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "na kohanim"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨ne⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T12:22:53.130280530Z",
+  "model": "glm-5.2"
+}

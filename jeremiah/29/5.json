@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Ku gina gidäju kuma ku zauna, kuma ku shuka gänyäyëki, kuma ku ci ⟨את⟩ 'ya'yan itacensa.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "Ku gina"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "gidäju"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "kuma ku zauna"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "kuma ku shuka"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "gänyäyëki"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "kuma ku ci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'ya'yan itacensa"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "'ya'yan itacensa"
+    }
+  ],
+  "timestamp": "2026-08-12T15:55:32.754847796Z",
+  "model": "glm-5.2"
+}

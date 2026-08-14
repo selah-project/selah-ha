@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Ya jira wasu kwanaki bakwai ⟨sauran⟩, ya sake tura ⟨את⟩ jijiyar gagga daga cikin jirgin.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ya jira"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wasu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "bakwai"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "⟨sauran⟩"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ya sake"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "tura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jijiyar gagga"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "jijiyar gagga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga cikin"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "jirgin"
+    }
+  ],
+  "timestamp": "2026-08-13T01:43:41.159378105Z",
+  "model": "glm-5.2"
+}

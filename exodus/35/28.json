@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Da ⟨את⟩ ƙanshi da ⟨את⟩ man, don haske, da ⟨don⟩ man shafa, da ⟨don⟩ turaren kamshi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Da ⟨את⟩",
+      "marks": "ƙanshi"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "ƙanshi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "man"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "man"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "don haske"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "da ⟨don⟩ man"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "shafa"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "da ⟨don⟩ turaren"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "kamshi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:29:20.772769857Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 29:36",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma sa (na zunubi) za ka yi kowace rana don kafarori, kuma za ka tsarkake ⟨את⟩ bagaden a lokacin da kake yi masa kafara a kansa, kuma za ka shafa ⟨את⟩ shi don tsarkake shi.",
+  "tokens": [
+    {
+      "surface": "ופר",
+      "gloss": "kuma sa"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "(na zunubi)"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "za ka yi"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kowace rana"
+    },
+    {
+      "surface": "על",
+      "gloss": "don"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "kafarori"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "kuma za ka tsarkake"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "⟨a⟩ bagaden"
+    },
+    {
+      "surface": "בכפרך",
+      "gloss": "a lokacin da kake yi masa kafara"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "kuma za ka shafa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "don tsarkake shi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:14:05.624439313Z",
+  "model": "glm-5.2"
+}

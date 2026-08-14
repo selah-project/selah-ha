@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 7:15",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "kuma zân jefa ⟨את⟩ ku daga gaban fuskata, kamar yadda na jefa ⟨את⟩ dukkan 'yan'uwanku, ⟨את⟩ dukkan zuriyar Efrayim.",
+  "tokens": [
+    {
+      "surface": "והשלכתי",
+      "gloss": "kuma zân jefa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskata"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "na jefa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "'yan'uwanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zuriyar"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T15:06:43.629133473Z",
+  "model": "glm-5.2"
+}

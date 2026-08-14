@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 74,
+  "translation": "Kuma Elohim sarkin ne na tsawon lokaci, yana aiyuka da ceto a tsakkin ƙasar.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "kuma Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sarkin na"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "na dā"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "yana aiyuka"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ceto"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "a tsakkin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    }
+  ],
+  "timestamp": "2026-08-12T20:05:01.124427473Z",
+  "model": "glm-5.2"
+}

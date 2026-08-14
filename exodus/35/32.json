@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "don tsara zane-zane don yin aiki a zinari, da azurfa, da tagulla.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "don tsara"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "zane-zane"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "don yin"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "a zinari"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "da azurfa"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "da tagulla"
+    }
+  ],
+  "timestamp": "2026-08-12T01:29:50.790469349Z",
+  "model": "glm-5.2"
+}

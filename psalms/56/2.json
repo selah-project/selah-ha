@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 56,
+  "translation": "Ka nuna mini alheri, ya Elohim, domin mutum mai mutuwa yana shaƙe ni; dukan ⟨yini⟩ yana yaƙa yana matsa min ƙarin.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ka nuna mini alheri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "yana shaƙe ni"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mutum mai mutuwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨yini⟩"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "yana yaƙa"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "yana matsa min ƙarin"
+    }
+  ],
+  "timestamp": "2026-08-12T19:52:27.011225013Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Zunuwarka da fitarka da shigarka na san, da ⟨את⟩ tashinkãka a gare ni.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "Zunuwarka"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "da fitarka"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "da shigarka"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "na san"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tashinkãka"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "tashinkãka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a gare ni"
+    }
+  ],
+  "timestamp": "2026-08-12T12:39:31.671046561Z",
+  "model": "glm-5.2"
+}

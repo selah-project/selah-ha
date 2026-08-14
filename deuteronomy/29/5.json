@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Buɗaɗɗe ba ku ci, giya da barasa ba ku sha, domin ku sani cewa ni ni Yahweh Elohim ku.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "Buɗaɗɗe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "ku ci"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "giya"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "da barasa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "ku sha"
+    },
+    {
+      "surface": "למען",
+      "gloss": "domin"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "ku sani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ku"
+    }
+  ],
+  "timestamp": "2026-08-12T05:49:05.828819398Z",
+  "model": "glm-5.2"
+}

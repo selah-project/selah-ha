@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 3:6",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma Yahweh ya ƙara kira Shamuwel sau ɗaya. Shamuwel ya tashi, ya tafi zuwa gare Eli, ya ce: \"Ina nan, domin ka kira ni.\" Sai ya ce: \"Ban kira ba, ɗana, koma ka kwanta.\"",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "kuma ya ƙara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kira"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sau ɗaya"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuwel"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ya tashi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuwel"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa gare"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ina nan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ka kira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sai ya ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ban"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "kira"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗana"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "koma"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ka kwanta"
+    }
+  ],
+  "timestamp": "2026-08-12T08:32:49.603407498Z",
+  "model": "glm-5.2"
+}

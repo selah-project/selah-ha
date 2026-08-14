@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Ga ni, ina tada a kansu ⟨את⟩ Madai, waɗanda ba su ƙidaya azurfa, kuma zinari ba su so a cikinta.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Ga ni"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ina tada"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "a kansu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Madai"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "azurfa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "suka ƙidaya"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "kuma zinari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "suka so"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a cikinta"
+    }
+  ],
+  "timestamp": "2026-08-12T13:13:26.969520478Z",
+  "model": "glm-5.2"
+}

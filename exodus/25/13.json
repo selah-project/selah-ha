@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma kana yi sanduna na itacen shiṭṭah, kuma kana rufewa ⟨את⟩ su da zinari.",
+  "tokens": [
+    {
+      "surface": "וְעָשִׂ֥יתָ",
+      "gloss": "Kuma kana yi"
+    },
+    {
+      "surface": "בַדֵּ֖י",
+      "gloss": "sanduna"
+    },
+    {
+      "surface": "עֲצֵ֣י",
+      "gloss": "na itacen"
+    },
+    {
+      "surface": "שִׁטִּ֑ים",
+      "gloss": "shiṭṭah"
+    },
+    {
+      "surface": "וְצִפִּיתָ֥",
+      "gloss": "kuma kana rufewa"
+    },
+    {
+      "surface": "אֹתָ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "זָהָֽב",
+      "gloss": "da zinari"
+    }
+  ],
+  "timestamp": "2026-08-13T01:46:13.419776685Z",
+  "model": "glm-5.2"
+}

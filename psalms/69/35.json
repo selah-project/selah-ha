@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Sama da ƙasa su yabi Shi, teku da duk abin da ke tafiya a cikinsu.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "su yabi Shi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "da ƙasa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da duk"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "abin da ke tafiya"
+    },
+    {
+      "surface": "בם",
+      "gloss": "a cikinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:59:33.436622586Z",
+  "model": "glm-5.2"
+}

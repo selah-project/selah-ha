@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Sai dai ⟨את⟩ zinari da ⟨את⟩ azurfa, ⟨את⟩ tagulla, ⟨את⟩ ƙarfe, ⟨את⟩ qarfe, da ⟨את⟩ gargaɗe:",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sai dai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zinari"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zinari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "azurfa"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "azurfa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tagulla"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tagulla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙarfe"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ƙarfe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qarfe"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "qarfe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "gargaɗe"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "gargaɗe"
+    }
+  ],
+  "timestamp": "2026-08-12T04:36:37.321254576Z",
+  "model": "glm-5.2"
+}

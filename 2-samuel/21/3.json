@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Dawudu ya ce wa Gibe'onawa: Me zan yi muku? Kuma da me zan yafe? Ku albarkaci ⟨את⟩ gado ⟨na⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawudu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "Gibe'onawa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Me"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "zan yi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "muku"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "Kuma da me"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "zan yafe"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "Ku albarkaci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gado"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "gado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T10:33:01.660059224Z",
+  "model": "glm-5.2"
+}

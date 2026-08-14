@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 86,
+  "translation": "A rana damuwa ta, ni na kiran ka, domin ka amsa ni.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "damuwa ta"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "ni na kiran ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ka amsa ni"
+    }
+  ],
+  "timestamp": "2026-08-12T20:16:37.198194858Z",
+  "model": "glm-5.2"
+}

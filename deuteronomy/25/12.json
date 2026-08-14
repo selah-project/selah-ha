@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "to ka yanke ⟨את⟩ hannunta — idanunka ba ya tausata mata.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "to ka yanke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannunta"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "hannunta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ya tausata"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "idãnka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:39:55.909532045Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 17:22",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma Dawuda ya saje ⟨את⟩ kayan daga kansa wurin hannun mai gadi kayan, kuma ya gudu zuwa fuka-fukin yaƙi, kuma ya zo, kuma ya tambayi 'yan'uwansa game da salama.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "Kuma ya saje"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kayan"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "kayan"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "daga kansa"
+    },
+    {
+      "surface": "על",
+      "gloss": "wurin"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hannun"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "mai gadi"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "kayan"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "kuma ya gudu"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "zuwa fuka-fukin yaƙi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kuma ya zo"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "kuma ya tambayi"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "'yan'uwansa"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "game da salama"
+    }
+  ],
+  "timestamp": "2026-08-12T09:08:31.032448139Z",
+  "model": "glm-5.2"
+}

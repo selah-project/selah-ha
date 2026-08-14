@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 92,
+  "translation": "Dõmin ya bayyana cẽwa Yahweh tsariya ne, dutsenã ni, kuma babu wata ãdalci a cikinsa.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "dõmin ya bayyana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cẽwa"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "tsariya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "dutsenã"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ãdalci"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a cikinsa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:28.259739569Z",
+  "model": "glm-5.2"
+}

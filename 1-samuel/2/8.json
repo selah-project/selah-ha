@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 2:8",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Yana tada matalauci daga ƙura, daga turɓace yana ɗaukar miskini, domin ya zaɗar su ⟨tare⟩ da sarakuna, kuma kujerar girma ya gadar musu; domin na Yahweh ne ginshiƙan ƙasa, kuma ya ajiye duniya a kansu.",
+  "tokens": [
+    {
+      "surface": "מֵקִ֨ים",
+      "gloss": "yana tada"
+    },
+    {
+      "surface": "מֵעָפָ֜ר",
+      "gloss": "daga ƙura"
+    },
+    {
+      "surface": "דָּ֗ל",
+      "gloss": "matalauci"
+    },
+    {
+      "surface": "מֵֽאַשְׁפֹּת֙",
+      "gloss": "daga turɓace"
+    },
+    {
+      "surface": "יָרִ֣ים",
+      "gloss": "yana ɗaukar"
+    },
+    {
+      "surface": "אֶבְי֔וֹן",
+      "gloss": "miskini"
+    },
+    {
+      "surface": "לְהוֹשִׁיב֙",
+      "gloss": "domin ya zaɗar su"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "⟨tare⟩ da"
+    },
+    {
+      "surface": "נְדִיבִ֔ים",
+      "gloss": "sarakuna"
+    },
+    {
+      "surface": "וְכִסֵּ֥א",
+      "gloss": "kuma kujerar"
+    },
+    {
+      "surface": "כָב֖וֹד",
+      "gloss": "girma"
+    },
+    {
+      "surface": "יַנְחִלֵ֑ם",
+      "gloss": "ya gadar musu"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לַֽיהוָה֙",
+      "gloss": "na Yahweh ne"
+    },
+    {
+      "surface": "מְצֻ֣קֵי",
+      "gloss": "ginshiƙan"
+    },
+    {
+      "surface": "אֶ֔רֶץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "וַיָּ֥שֶׁת",
+      "gloss": "kuma ya ajiye"
+    },
+    {
+      "surface": "עֲלֵיהֶ֖ם",
+      "gloss": "a kansu"
+    },
+    {
+      "surface": "תֵּבֵֽל",
+      "gloss": "duniya"
+    }
+  ],
+  "timestamp": "2026-08-12T08:21:01.546276899Z",
+  "model": "glm-5.2"
+}

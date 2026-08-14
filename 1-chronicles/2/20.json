@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma Chur ya haifa ⟨את⟩ Uri, kuma Uri ya haifa ⟨את⟩ Betsalel.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Kuma Chur"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "kuma Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betsalel"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    }
+  ],
+  "timestamp": "2026-08-12T23:57:07.512447330Z",
+  "model": "glm-5.2"
+}

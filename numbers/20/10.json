@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 20:10",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Sa'an nan Mosheh da Aharon suka taru ⟨את⟩ taron a gaban dutsen, ya ce musu: Ku saurara ⟨na roƙe ku⟩, masu tawaye! Shin daga wannan dutsen za mu fitar wa ku ruwa?",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "Sa'an nan suka taru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "da Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taron"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "taron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "פני",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "dutsen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Ku saurara"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨na roƙe ku⟩"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "masu tawaye"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Shin daga"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "dutsen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "נוציא",
+      "gloss": "za mu fitar"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wa ku"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    }
+  ],
+  "timestamp": "2026-08-12T04:11:27.429659287Z",
+  "model": "glm-5.2"
+}

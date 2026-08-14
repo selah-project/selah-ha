@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 37:23",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Shaddai, ba mu same shi ba; yana da ƙarfi mai girma, kuma shari'a da yalwa na adalci, ba zai tauye ba.",
+  "tokens": [
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מצאנהו",
+      "gloss": "mu same shi"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "mai girma"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ƙarfi"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "kuma shari'a"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "da yalwa"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "na adalci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "zai tauye"
+    }
+  ],
+  "timestamp": "2026-08-12T22:15:18.674614316Z",
+  "model": "glm-5.2"
+}

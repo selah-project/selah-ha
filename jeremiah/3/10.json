@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 3:10",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma duk da duka wannan, bai koma gare ni da gaskiya ⟨ba⟩, ƙanwar ta mai yaudari Yehuda, da dukan zuciyarta, amma da ƙarya — ⟨bo⟩ maganar Yahweh.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kuma duk da"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "ta koma"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "mai yaudari"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "ƙanwar ta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "da dukan"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "zuciyarta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨→⟩"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "da ƙarya"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "⟨bo⟩ maganar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T14:54:45.758343039Z",
+  "model": "glm-5.2"
+}

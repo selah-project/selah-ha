@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kalmar da ⟨ta⟩ kasance ⟨tana⟩ zuwa Yirmeyahu daga ⟨את⟩ Yahweh, ⟨ana cewa⟩:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Kalmar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kasance"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "daga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ana cewa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T15:17:34.464167856Z",
+  "model": "glm-5.2"
+}

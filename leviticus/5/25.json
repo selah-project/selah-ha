@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma da ⟨את⟩ ⟨ne⟩ laifinsa zai kawo wa Yahweh — dunkuwar \\langledunkuwar\\rangle da cikakkiya daga garken, a cikin ƙimarƙa, don babban laifi, ga kohens.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "laifinsa"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "laifinsa"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "zai kawo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "איל",
+      "gloss": "dunkuwar"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "da cikakkiya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "garken"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "a cikin ƙimarƙa"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "don babban laifi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohens"
+    }
+  ],
+  "timestamp": "2026-08-12T01:50:17.255968812Z",
+  "model": "glm-5.2"
+}

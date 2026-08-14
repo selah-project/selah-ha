@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Sa'an nan Elohim ya yi ⟨את⟩ hasken babba biyu, ⟨את⟩ hasken babba don mulkin rana, da ⟨את⟩ hasken ƙarama don mulkin dare, da ⟨את⟩ taurari.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "sa'an nan ⟨ya yi⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasken babba biyu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "hasken"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "babba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasken babba"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "hasken"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "babba"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "don mulkin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "hasken ƙarama"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "hasken"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ƙarama"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "don mulkin"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "dare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "taurari"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "taurari"
+    }
+  ],
+  "timestamp": "2026-08-11T23:19:07.925436869Z",
+  "model": "glm-5.2"
+}

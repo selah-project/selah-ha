@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma Avraham ya tafi tafiya daga can zuwa ƙasar negev, ya kuma zauna tsakanin Kadesh da Shur, ya kuma yi ƙwadago a Gerar.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "ya tafi tafiya"
+    },
+    {
+      "surface": "משם",
+      "gloss": "daga can"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "zuwa ƙasar"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "negev"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ya kuma zauna"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "ya kuma yi ƙwadago"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "a Gerar"
+    }
+  ],
+  "timestamp": "2026-08-11T23:43:28.004328136Z",
+  "model": "glm-5.2"
+}

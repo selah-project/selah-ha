@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 75,
+  "translation": "Gama ba daga gabas ⟨ce⟩ kuma ba daga yamma, kuma ba daga jeji tuddanin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "daga gabas"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "kuma daga yamma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "daga jeji"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tuddanin"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:09.168829954Z",
+  "model": "glm-5.2"
+}

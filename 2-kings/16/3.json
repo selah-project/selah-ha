@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 16:3",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma ya tafi a hanyar sarakunan Yisra'el; har ma ⟨את⟩ ɗansa ya sa ya wuce cikin wuta, a cewar abubuwan da a ƙi na al'umomin da Yahweh ya kore ⟨את⟩ ⟨daga gaba⟩ ga ɗiyayen Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Kuma ya tafi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "a hanyar"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sarakunan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "har ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗansa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗansa"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "ya sa ya wuce"
+    },
+    {
+      "surface": "באש",
+      "gloss": "cikin wuta"
+    },
+    {
+      "surface": "כתעבות",
+      "gloss": "a cewar abubuwan da a ƙi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "na al'umomin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "ya kore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨daga gaba⟩",
+      "marks": "mᵢp̄nê → daga gaba (alamar kwatanta)"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ga ɗiyayen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T12:29:29.967804373Z",
+  "model": "glm-5.2"
+}

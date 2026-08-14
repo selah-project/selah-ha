@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 23:10",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Su suka bayyana tsirararta; 'ya'yanta maza da 'ya'yanta mata suka ɗauka, kuma ⟨את⟩ ta da takobi suka kashe, ta koma suna ⟨a tsakanin⟩ mata, kuma suka yi hukunci a cikin ta.",
+  "tokens": [
+    {
+      "surface": "הֵמָּה֮",
+      "gloss": "su"
+    },
+    {
+      "surface": "גִּלּ֣וּ",
+      "gloss": "suka bayyana"
+    },
+    {
+      "surface": "עֶרְוָתָהּ֒",
+      "gloss": "tsirararta"
+    },
+    {
+      "surface": "בָּנֶ֤יהָ",
+      "gloss": "'ya'yanta maza"
+    },
+    {
+      "surface": "וּבְנוֹתֶ֨יהָ֙",
+      "gloss": "da 'ya'yanta mata"
+    },
+    {
+      "surface": "לָקָ֔חוּ",
+      "gloss": "suka ɗauka"
+    },
+    {
+      "surface": "וְאֹתָ֖הּ",
+      "gloss": "⟨את⟩",
+      "marks": "ta"
+    },
+    {
+      "surface": "בַּחֶ֣רֶב",
+      "gloss": "da takobi"
+    },
+    {
+      "surface": "הָרָ֑גוּ",
+      "gloss": "suka kashe"
+    },
+    {
+      "surface": "וַתְּהִי֙",
+      "gloss": "ta koma"
+    },
+    {
+      "surface": "שֵׁ֔ם",
+      "gloss": "suna"
+    },
+    {
+      "surface": "לַנָּשִׁ֖ים",
+      "gloss": "a tsakanin mata"
+    },
+    {
+      "surface": "וּשְׁפוּטִ֖ים",
+      "gloss": "kuma hukunci"
+    },
+    {
+      "surface": "עָשׂ֥וּ",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "בָּֽהּ",
+      "gloss": "a cikin ta"
+    }
+  ],
+  "timestamp": "2026-08-12T17:24:32.754054073Z",
+  "model": "glm-5.2"
+}

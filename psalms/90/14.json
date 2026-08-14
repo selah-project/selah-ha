@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 90,
+  "translation": "Cika mu da chesed ⟨safiya⟩, mu yi reraɗiño kuma mu yi murna dukan kwanakin mu.",
+  "tokens": [
+    {
+      "surface": "שַׂבְּעֵ֣נוּ",
+      "gloss": "Cika mu"
+    },
+    {
+      "surface": "בַבֹּ֣קֶר",
+      "gloss": "safiya"
+    },
+    {
+      "surface": "חַסְדֶּ֑ךָ",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "וּֽנְרַנְּנָ֥ה",
+      "gloss": "mu yi reraɗiño"
+    },
+    {
+      "surface": "וְ֝נִשְׂמְחָ֗ה",
+      "gloss": "kuma mu yi murna"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "יָמֵֽינוּ",
+      "gloss": "kwanakin mu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:21:19.568627088Z",
+  "model": "glm-5.2"
+}

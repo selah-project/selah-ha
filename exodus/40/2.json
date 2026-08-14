@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "A rana ta farko ta watan na farko, a ɗaya ga watan, za ka tsayar da ⟨את⟩ mazaƙin gidan taro.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "A rana ta"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "watan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "farko"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "a ɗaya"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ga watan"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "za ka tsayar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazaƙin"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "mazaƙin"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "taro"
+    }
+  ],
+  "timestamp": "2026-08-12T01:43:28.244252168Z",
+  "model": "glm-5.2"
+}

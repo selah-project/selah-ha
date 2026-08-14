@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Dominator ⟨את⟩ dukkan abubuwan tzurɓatarwa waɗannan suka yi mutanen ƙasar da ⟨suke⟩ a gaban ku, kuma ƙasa ta gurɓata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "dominator"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan abubuwan tzurɓatarwa waɗannan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "abubuwan ƙyama"
+    },
+    {
+      "surface": "האל",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "a gaban ku"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "kuma ta gurɓata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:26:16.448165102Z",
+  "model": "glm-5.2"
+}

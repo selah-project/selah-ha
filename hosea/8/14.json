@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 8:14",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma Yisra'el ya manta da ⟨את⟩ Mai yinsa, kuma ya gina fadoji; kuma Yahuda ya yawaita birane masu katangu; amma Ni zan aika wuta a cikin biranensa, kuma za ta cinye ⟨את⟩ fadojinsa.",
+  "tokens": [
+    {
+      "surface": "וישכח",
+      "gloss": "Kuma ya manta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mai yinsa"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "Mai yinsa"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "kuma ya gina"
+    },
+    {
+      "surface": "היכלות",
+      "gloss": "fadoji"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "kuma Yahuda"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ya yawaita"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "birane"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "masu katangu"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "amma Ni zan aika"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "a cikin biranensa"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "kuma za ta cinye"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "fadojinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T18:14:38.695110173Z",
+  "model": "glm-5.2"
+}

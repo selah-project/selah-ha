@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma kawun Shaul ya ce, \"Faɗa min, ina rō̄ka, me Shemuʼel ya faɗa muku?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kawun"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "faɗa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ina rō̄ka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "מה",
+      "gloss": "me"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "muku"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuʼel"
+    }
+  ],
+  "timestamp": "2026-08-12T08:46:30.048136251Z",
+  "model": "glm-5.2"
+}

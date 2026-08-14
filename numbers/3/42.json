@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma Musa ya ƙira yadda Yahweh ya umarce ⟨את⟩ shi ⟨את⟩ dukan fari a cikin ƴan Isra'ila.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "kuma ya ƙira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "yadda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umarce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukan fari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "fari"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "a cikin ƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T03:15:53.522698179Z",
+  "model": "glm-5.2"
+}

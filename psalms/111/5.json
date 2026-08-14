@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 111,
+  "translation": "Abinci ya bayar wa waɗanda ke tsoron shi; zai tuna har abada ⟨da⟩ alkawarinsa.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "abinci"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya bayar"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "wa waɗanda ke tsoron shi"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "zai tuna"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "alkawarinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:36:27.646601956Z",
+  "model": "glm-5.2"
+}

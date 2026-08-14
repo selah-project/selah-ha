@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 1:15",
+  "book": "joel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Yā, dona ranar! Domin kusa ⟨ne⟩ ranar Yahweh, kuma kamar bala'i daga Shaddai ⟨zai⟩ zo.",
+  "tokens": [
+    {
+      "surface": "אהה",
+      "gloss": "Yā"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "dona ranar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "kusa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ranar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכשד",
+      "gloss": "kuma kamar bala'i"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "daga Shaddai"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "zo"
+    }
+  ],
+  "timestamp": "2026-08-12T18:22:19.138367076Z",
+  "model": "glm-5.2"
+}

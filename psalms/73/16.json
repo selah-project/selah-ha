@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 73,
+  "translation": "Kuma na yi tunani in san wannan, wahala ce a idanuwana.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "kuma na yi tunani"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "in san"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "wahala\/gwandura"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ce⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanuwana"
+    }
+  ],
+  "timestamp": "2026-08-12T20:05:06.173648354Z",
+  "model": "glm-5.2"
+}

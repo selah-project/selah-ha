@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ku, ku tashi daga kwanton, kuma ku kwace ⟨את⟩ birnin, kuma Yahweh, Elohim ku, za ya ba shi a cikin hannun ku.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Kuma ku"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "ku tashi"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "daga kwanton"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "kuma ku kwace"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birnin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "kuma za ya ba shi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ku"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "a cikin hannun ku"
+    }
+  ],
+  "timestamp": "2026-08-12T06:22:13.970333190Z",
+  "model": "glm-5.2"
+}

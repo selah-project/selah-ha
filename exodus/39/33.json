@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Kuma suka kawo ⟨את⟩ mazaunin zuwa Mosheh, ⟨את⟩ tantãni da ⟨את⟩ dukkan kayan sa — ƙugiyoyin sa, allunan sa, sandunan tsare sa, da ginshiƙan sa, da ɗugunan sa.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "Kuma suka kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazaunin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mazaunin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tantãni"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tantãni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kayan sa"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "ƙugiyoyin sa"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "allunan sa"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "sandunan tsare sa"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "da ginshiƙan sa"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "da ɗugunan sa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:38:36.118000501Z",
+  "model": "glm-5.2"
+}

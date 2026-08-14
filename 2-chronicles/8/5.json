@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ya gina ⟨את⟩ Bet-Horon Mai-Girma da ⟨את⟩ Bet-Horon Mai-Kan-Ƙasa, ⟨su ne⟩ garuruwan katanga, da ganuwa, ƙofofi da guduma.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Kuma ya gina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Horon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "Mai-Girma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Horon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "Mai-Kan-Ƙasa"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "garuruban"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "katanga"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "ganuwa"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "ƙofofi"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "da guduma"
+    }
+  ],
+  "timestamp": "2026-08-13T02:43:47.540631842Z",
+  "model": "glm-5.2"
+}

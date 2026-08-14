@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 47:19",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Don me za mu mutu a idanunka? Muna da ⟨kuma⟩ ƙasarmu tana da ⟨kuma⟩, saye ⟨את⟩ mu da ⟨את⟩ ƙasarmu da burodi, kuma mu da ƙasarmu mu zama bayi ga Fir'auna, kuma ka ba mu iri, mu rayu, kuma ba za mu mutu ba, kuma ƙasar ba za ta kasance mara kwari ba.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Don me"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "za mu mutu"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "a idanunka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Muna da ⟨kuma⟩"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tana da ⟨kuma⟩"
+    },
+    {
+      "surface": "אדמתנו",
+      "gloss": "ƙasarmu"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "saye"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ mu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙasarmu"
+    },
+    {
+      "surface": "אדמתנו",
+      "gloss": "ƙasarmu"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "da burodi"
+    },
+    {
+      "surface": "ונהיה",
+      "gloss": "kuma mu zama"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ואדמתנו",
+      "gloss": "da ƙasarmu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bayi"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ga Fir'auna"
+    },
+    {
+      "surface": "ותן",
+      "gloss": "kuma ka ba mu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "iri"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "mu rayu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "za mu mutu ba"
+    },
+    {
+      "surface": "והאדמה",
+      "gloss": "kuma ƙasar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תשם",
+      "gloss": "za ta kasance mara kwari ba"
+    }
+  ],
+  "timestamp": "2026-08-12T00:25:16.065919483Z",
+  "model": "glm-5.2"
+}

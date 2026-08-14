@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Sa'an nan ⟨sũ⟩ sun yi kira ga Yahweh a cikin matsananciyarsu, daga matsiyoyinsu Ya tsĩrar da ⟨sũ⟩.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Sa'an nan sun yi kira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "a cikin matsananciyarsu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨sũ⟩"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "daga matsiyoyinsu"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "Ya tsĩrar da ⟨sũ⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T23:55:33.710817208Z",
+  "model": "glm-5.2"
+}

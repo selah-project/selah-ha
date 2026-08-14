@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Ta aiko ⟨את⟩ ƙananniyonta, ⟨ce⟩ tana kiran daga saman mafi tsayin ⟨את⟩ birni.",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "ta aiko"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "ƙananniyonta"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "tana kiran"
+    },
+    {
+      "surface": "על",
+      "gloss": "daga"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "saman"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "mafi tsayin"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "birni"
+    }
+  ],
+  "timestamp": "2026-08-12T21:10:30.122746867Z",
+  "model": "glm-5.2"
+}

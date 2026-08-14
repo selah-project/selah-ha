@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Dominator ⟨אֵת⟩ ƙawar ɗaukarsa da ⟨אֵת⟩ sandan wuyansa, sandan mai tursasa shi, ka ƙarya su kamar ranar Midyan.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "dominator"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ƙawar ɗaukarsa"
+    },
+    {
+      "surface": "עֹ֣ל",
+      "gloss": "ƙawar"
+    },
+    {
+      "surface": "סֻבֳּל֗וֹ",
+      "gloss": "ɗaukarsa"
+    },
+    {
+      "surface": "וְאֵת֙",
+      "gloss": "⟨את⟩",
+      "marks": "sandan wuyansa"
+    },
+    {
+      "surface": "מַטֵּ֣ה",
+      "gloss": "sandan"
+    },
+    {
+      "surface": "שִׁכְמ֔וֹ",
+      "gloss": "wuyansa"
+    },
+    {
+      "surface": "שֵׁ֖בֶט",
+      "gloss": "sandan"
+    },
+    {
+      "surface": "הַנֹּגֵ֣שׂ",
+      "gloss": "mai tursasa"
+    },
+    {
+      "surface": "בּ֑וֹ",
+      "gloss": "shi"
+    },
+    {
+      "surface": "הַחִתֹּ֖תָ",
+      "gloss": "ka ƙarya"
+    },
+    {
+      "surface": "כְּי֥וֹם",
+      "gloss": "kamar ranar"
+    },
+    {
+      "surface": "מִדְיָֽן",
+      "gloss": "Midyan"
+    }
+  ],
+  "timestamp": "2026-08-12T13:09:06.859867285Z",
+  "model": "glm-5.2"
+}

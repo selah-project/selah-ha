@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 31:12",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Kuma suka kawo ⟨את⟩ terumah da ⟨את⟩ gomaɗin da abubuwa masu tsarki da aminci; kuma shugabansu shine Conanyahuw ⟨na⟩ Liviyyim, kuma Shim'i ɗan'uwansa na biyu.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "Kuma suka kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terumah"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "terumah"
+    },
+    {
+      "surface": "והמעשר",
+      "gloss": "da gomaɗin"
+    },
+    {
+      "surface": "והקדשים",
+      "gloss": "da abubuwa masu tsarki"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "da aminci"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "kuma shugabansu"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "shine"
+    },
+    {
+      "surface": "כונניהו",
+      "gloss": "Conanyahuw"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "⟨na⟩ Liviyyim"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "kuma Shim'i"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "ɗan'uwansa"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "na biyu"
+    }
+  ],
+  "timestamp": "2026-08-13T02:56:13.717623353Z",
+  "model": "glm-5.2"
+}

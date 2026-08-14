@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Haka ma, rana ba ta gan shi, kuma ba ya san ⟨komai⟩; wannan yana da hutawa fiye da ⟨wancan⟩.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "haka ma"
+    },
+    {
+      "surface": "שֶׁ֥מֶשׁ",
+      "gloss": "rana"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "רָאָ֖ה",
+      "gloss": "ta gan shi"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יָדָ֑ע",
+      "gloss": "ya san"
+    },
+    {
+      "surface": "נַ֥חַת",
+      "gloss": "hutawa"
+    },
+    {
+      "surface": "לָזֶ֖ה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "מִזֶּֽה",
+      "gloss": "fiye da wancan"
+    }
+  ],
+  "timestamp": "2026-08-12T22:47:26.886915021Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 72,
+  "translation": "Akwai yalwa noman ābinci a ƙasar, a saman dūwātsa, 'yā'ninsa zai girgizā kamar Lebanon, kuma su fure daga gāri kamar gāyā ƙasar.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "akwai"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "yalwa"
+    },
+    {
+      "surface": "בר",
+      "gloss": "noman ābinci"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "a saman"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dūwātsa"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "zai girgizā"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "kamar Lebanon"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "'yā'ninsa"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "kuma su fure"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "daga gāri"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "kamar gāyā"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    }
+  ],
+  "timestamp": "2026-08-12T20:02:54.030874869Z",
+  "model": "glm-5.2"
+}

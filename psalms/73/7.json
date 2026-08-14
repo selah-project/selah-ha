@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 73,
+  "translation": "Daga kitso idanensu ya fito, tunanin zuciyoyinsu suka wuce gona da iri.",
+  "tokens": [
+    {
+      "surface": "יָ֭צָא",
+      "gloss": "ya fito"
+    },
+    {
+      "surface": "מֵחֵ֣לֶב",
+      "gloss": "Daga kitso"
+    },
+    {
+      "surface": "עֵינֵ֑מוֹ",
+      "gloss": "idanensu"
+    },
+    {
+      "surface": "עָ֝בְר֗וּ",
+      "gloss": "suka wuce gona da iri"
+    },
+    {
+      "surface": "מַשְׂכִּיּ֥וֹת",
+      "gloss": "tunanin"
+    },
+    {
+      "surface": "לֵבָֽב",
+      "gloss": "zuciyoyinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:06:10.776547416Z",
+  "model": "glm-5.2"
+}

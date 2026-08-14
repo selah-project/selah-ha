@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Kuma ya yi ⟨את⟩ kwandon wanki ƙarfe da ⟨את⟩ ƙafarsa ƙarfe, da madubai ⟨na⟩ masu yaɗa aikin da suka yaɗa a ƙofar Ɓarin Taro.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kwandon wanki"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "kwandon wanki"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ƙarfe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙafarsa"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ƙafarsa"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ƙarfe"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "da madubai"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "⟨na⟩ masu yaɗa aikin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "suka yaɗa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "a ƙofar"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ɓarin"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Taro"
+    }
+  ],
+  "timestamp": "2026-08-12T01:30:54.476957236Z",
+  "model": "glm-5.2"
+}

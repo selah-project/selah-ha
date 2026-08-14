@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Sa'an nan ⟨sarkin⟩ ya ɗaukaka Shadrakh, Meyshakh, da Abed-Nego a lardin Babel.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "sa'an nan"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "ya ɗaukaka"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Shadrakh"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meyshakh"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "da"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Abed-Nego"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "a lardin"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    }
+  ],
+  "timestamp": "2026-08-12T23:06:15.172389658Z",
+  "model": "glm-5.2"
+}

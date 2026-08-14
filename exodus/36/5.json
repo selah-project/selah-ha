@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Kuma suka faɗa wa Mosheh, ⟨sun cewa⟩: \"Mutane suna yawaita kawo, fiye da yadda ake buƙata don aikin aikin da Yahweh ya umurci a yi ⟨את⟩ shi.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Kuma suka faɗa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨sun cewa⟩"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "suna yawaita kawo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "⟨don kawo⟩"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "fiye da yadda ake buƙata"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "don aikin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "a yi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:35:26.998745717Z",
+  "model": "glm-5.2"
+}

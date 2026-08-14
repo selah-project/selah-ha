@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Domin har ɗan kaɗan, kaɗan ne, ⟨kuma⟩ za a ƙare fushi, da fushina, a cikin halakar su.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "ע֖וֹד",
+      "gloss": "har"
+    },
+    {
+      "surface": "מְעַ֣ט",
+      "gloss": "ɗan kaɗan"
+    },
+    {
+      "surface": "מִזְעָ֑ר",
+      "gloss": "kaɗan ne"
+    },
+    {
+      "surface": "וְכָ֣לָה",
+      "gloss": "za a ƙare"
+    },
+    {
+      "surface": "זַ֔עַם",
+      "gloss": "fushi"
+    },
+    {
+      "surface": "וְאַפִּ֖י",
+      "gloss": "fushina"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a cikin"
+    },
+    {
+      "surface": "תַּבְלִיתָֽם",
+      "gloss": "halakar su"
+    }
+  ],
+  "timestamp": "2026-08-13T02:08:02.876216344Z",
+  "model": "glm-5.2"
+}

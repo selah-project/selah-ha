@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Duk majami'ar gaba ɗaya sun kasance ⟨a matsayin⟩ ɗaya: arba'in dubu, dubu biyu, ɗari uku, da sittin.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Duk"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "majami'ar"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "gaba ɗaya sun kasance ⟨a matsayin⟩ ɗaya"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "arba'in"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dubu biyu"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ɗari uku"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(ɗari)"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "da sittin"
+    }
+  ],
+  "timestamp": "2026-08-12T23:24:52.725322298Z",
+  "model": "glm-5.2"
+}

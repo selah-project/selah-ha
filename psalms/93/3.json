@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 93,
+  "translation": "Koguna suka ɗauka, Yahweh, koguna suka ɗauka muryarsu, koguna za su ɗauka bugun ruwa.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "suka ɗauka"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "koguna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "suka ɗauka"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "koguna"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "muryarsu"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "za su ɗauka"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "koguna"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "bugun ruwa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:22:05.843170288Z",
+  "model": "glm-5.2"
+}

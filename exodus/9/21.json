@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma wanda bai sa ⟨juyayinsa⟩ game da kalmar Yahweh, ya bar ⟨את⟩ bayinsa da ⟨את⟩ dabbobinsa a cikin gona.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "kuma wanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "⟨juyayinsa⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "game da"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalmar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "ya bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayinsa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bayinsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dabbobinsa"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "dabbobinsa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a cikin gona"
+    }
+  ],
+  "timestamp": "2026-08-12T00:40:43.030601911Z",
+  "model": "glm-5.2"
+}

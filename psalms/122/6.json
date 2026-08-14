@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 122,
+  "translation": "Ku nemi salama ta Urushalama; su wadata masu kaunar ⟨zuwa⟩ gare ki.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "ku nemi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salama"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Urushalama"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "su wadata"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "masu kaunar ⟨zuwa⟩ gare ki"
+    }
+  ],
+  "timestamp": "2026-08-12T20:47:54.064502816Z",
+  "model": "glm-5.2"
+}

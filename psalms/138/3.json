@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 138,
+  "translation": "A rana da na kira ka, ka amsa ni; ka ba ni ƙarfin haihuwa a cikin raina, ⟨da⟩ ƙarfi.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "da na kira ka"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "ka amsa ni"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "ka ba ni ƙarfin haihuwa"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "a cikin raina"
+    },
+    {
+      "surface": "עז",
+      "gloss": "⟨da⟩ ƙarfi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:55:46.487051927Z",
+  "model": "glm-5.2"
+}

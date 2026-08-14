@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Na ƙi waɗanda suke kula da abubuwan ɓarna na ƙarya; kuma ni ⟨a wurin⟩ Yahweh na dogara.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Na ƙi"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "waɗanda suke kula da"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "abubuwan ɓarna"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "na ƙarya"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a wurin⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "na dogara"
+    }
+  ],
+  "timestamp": "2026-08-12T19:33:03.923352504Z",
+  "model": "glm-5.2"
+}

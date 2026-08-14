@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "A'a, kabilar Lewi kada ka kidaya, ⟨את⟩ ragamar ⟨ne⟩ Lewi kada ka ɗauka, cikin 'ya'yan Isira'ila.",
+  "tokens": [
+    {
+      "surface": "אַ֣ךְ",
+      "gloss": "a'a"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kabilar"
+    },
+    {
+      "surface": "מַטֵּ֤ה",
+      "gloss": "kabilar"
+    },
+    {
+      "surface": "לֵוִי֙",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תִפְקֹ֔ד",
+      "gloss": "ka kidaya"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ragamar"
+    },
+    {
+      "surface": "רֹאשָׁ֖ם",
+      "gloss": "ragamar"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תִשָּׂ֑א",
+      "gloss": "ka ɗauka"
+    },
+    {
+      "surface": "בְּת֖וֹךְ",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Isira'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T03:11:22.051045428Z",
+  "model": "glm-5.2"
+}

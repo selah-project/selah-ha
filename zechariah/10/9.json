@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 10:9",
+  "book": "zechariah",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma zan shuka su cikin al'ummai, kuma a cikin ƙasashe masu nisa za su tuna da ni, kuma za su raya ⟨את⟩ 'ya'yansu, kuma za su koma.",
+  "tokens": [
+    {
+      "surface": "ואזרעם",
+      "gloss": "kuma zan shuka su"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "cikin al'ummai"
+    },
+    {
+      "surface": "ובמרחקים",
+      "gloss": "kuma a cikin ƙasashe masu nisa"
+    },
+    {
+      "surface": "יזכרוני",
+      "gloss": "za su tuna da ni"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "kuma za su raya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'ya'yansu"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "'ya'yansu"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "kuma za su koma"
+    }
+  ],
+  "timestamp": "2026-08-12T19:05:30.760714516Z",
+  "model": "glm-5.2"
+}

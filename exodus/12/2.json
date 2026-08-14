@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Wannan watan ⟨shine⟩ gare ku farkon watanni; shi ⟨ne⟩ farkon gare ku ga watannin shekara.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Wannan watan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨wannan⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "gare ku"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "farkon"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "watanni"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "farkon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "gare ku"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "ga watannin"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "shekara"
+    }
+  ],
+  "timestamp": "2026-08-12T00:43:47.239560722Z",
+  "model": "glm-5.2"
+}

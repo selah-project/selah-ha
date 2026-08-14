@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Gaskiya, mun tona asiri da shi, Beit Yisra'el da Beit Yehuda, inã Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gaskiya"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "mun tona asiri"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "da shi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "shi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "da Beit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "inã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T14:58:25.144510057Z",
+  "model": "glm-5.2"
+}

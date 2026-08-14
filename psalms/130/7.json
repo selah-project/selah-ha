@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 130,
+  "translation": "Ya Yisra'el, yi marmari ga Yahweh, domin tare da Yahweh akwai chesed, kuma yalwa tare da shi ⟨akwai⟩ fansa.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "yi marmari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ya Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "akwai chesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "kuma yalwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tare da shi"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "⟨akwai⟩ fansa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:27:37.884321937Z",
+  "model": "glm-5.2"
+}

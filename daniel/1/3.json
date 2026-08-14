@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 1:3",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Sarkin ya ce wa Ashpenaz, babban jami'in bāfattakansa, ya kāwo daga cikin ƴan Isra'ila, daga zuriyar masarauta, da daga cikin manyan mutane.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "לאשפנז",
+      "gloss": "wa Ashpenaz"
+    },
+    {
+      "surface": "רב",
+      "gloss": "babban"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "jami'in bāfattakansa"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ya kāwo"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "daga cikin ƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "ומזרע",
+      "gloss": "daga zuriyar"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "masarauta"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "da daga cikin"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "many[[an mutane"
+    }
+  ],
+  "timestamp": "2026-08-12T23:00:58.600319084Z",
+  "model": "glm-5.2"
+}

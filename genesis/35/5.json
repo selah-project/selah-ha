@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 35:5",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Kuma suka tafi, kuma tsoron Elohim ta kasance a kan ⟨ɗauƙa⟩ biranen da ke kewaye da su, su kuma ba su biya bayan ɗiyan Ya'aƙɔb ba.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "suka tafi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ta kasance"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "tsoron"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "biranen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da ke"
+    },
+    {
+      "surface": "סביבתיהם",
+      "gloss": "kewaye da su"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "su kuma ba su"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "biya"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aƙɔb"
+    }
+  ],
+  "timestamp": "2026-08-12T00:04:36.085611659Z",
+  "model": "glm-5.2"
+}

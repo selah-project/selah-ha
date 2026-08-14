@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 34:35",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "ʼIyov ba cikin ilimi yake magana, kuma kalmominsa ba cikin basira ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "אִ֭יּוֹב",
+      "gloss": "ʼIyov"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בְדַ֣עַת",
+      "gloss": "cikin ilimi"
+    },
+    {
+      "surface": "יְדַבֵּ֑ר",
+      "gloss": "yake magana"
+    },
+    {
+      "surface": "וּ֝דְבָרָ֗יו",
+      "gloss": "kuma kalmominsa"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בְהַשְׂכֵּֽיל",
+      "gloss": "cikin basira"
+    }
+  ],
+  "timestamp": "2026-08-12T22:12:42.587986845Z",
+  "model": "glm-5.2"
+}

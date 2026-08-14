@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 74,
+  "translation": "Sai ɗan'loka nawa, Elohim, faɗin ƙarya ne ga makiyya? Shin, maƙiyi zai zagi sunanka har abada?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sai"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ɗan'loka nawa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "zai yi wa wulaƙani"
+    },
+    {
+      "surface": "צר",
+      "gloss": "makiyya"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "zai zagi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "maƙiyi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunanka"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-12T20:05:01.123977401Z",
+  "model": "glm-5.2"
+}

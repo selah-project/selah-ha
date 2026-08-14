@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 82,
+  "translation": "Ku yi wa miskĩni da marāyu shari'a; mātalāci da tālaƙi, ku gyara musu adāla.",
+  "tokens": [
+    {
+      "surface": "שִׁפְטוּ",
+      "gloss": "Ku yi ... shari'a"
+    },
+    {
+      "surface": "דַ֥ל",
+      "gloss": "wa miskĩni"
+    },
+    {
+      "surface": "וְיָת֑וֹם",
+      "gloss": "da marāyu"
+    },
+    {
+      "surface": "עָנִ֖י",
+      "gloss": "mātalāci"
+    },
+    {
+      "surface": "וָרָ֣שׁ",
+      "gloss": "da tālaƙi"
+    },
+    {
+      "surface": "הַצְדִּֽיקוּ",
+      "gloss": "ku gyara musu adāla"
+    }
+  ],
+  "timestamp": "2026-08-12T20:14:08.819375859Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma idan bai fanse ⟨את⟩ gonar ba, kuma idan ya sayar ⟨את⟩ gonar ga wani mutum, ba za a iya fansa ba har abada.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "fanse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gonar"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "gonar"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "ya sayar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gonar"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "gonar"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ga wani mutum"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba za a iya fansa ba"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": ""
+    },
+    {
+      "surface": "עוד",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-13T01:50:13.580410512Z",
+  "model": "glm-5.2"
+}

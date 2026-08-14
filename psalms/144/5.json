@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 144,
+  "translation": "Yahweh, ka doro samaɗinka ka saƙa, ka taɓa duwatsu su yi hayaki.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הט",
+      "gloss": "ka doro"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "samaɗinka"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "ka saƙa"
+    },
+    {
+      "surface": "גע",
+      "gloss": "ka taɓa"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "su yi hayaki"
+    }
+  ],
+  "timestamp": "2026-08-12T20:57:04.861718232Z",
+  "model": "glm-5.2"
+}

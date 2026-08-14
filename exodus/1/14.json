@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "kuma suka baci ⟨את⟩ rayukansu da aikin wuyar hannu, da laka, da tubali, da dukkan aiki a cikin gona; ⟨את⟩ dukkan aikinsu, wanda suka bautar da su a ciki, da taurin kai.",
+  "tokens": [
+    {
+      "surface": "וַיְמָרְר֨וּ",
+      "gloss": "suka baci"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "rayukansu"
+    },
+    {
+      "surface": "חַיֵּיהֶ֜ם",
+      "gloss": "rayukansu"
+    },
+    {
+      "surface": "בַּעֲבֹדָ֣ה",
+      "gloss": "da aikin"
+    },
+    {
+      "surface": "קָשָׁ֗ה",
+      "gloss": "wuyar hannu"
+    },
+    {
+      "surface": "בְּחֹ֨מֶר֙",
+      "gloss": "da laka"
+    },
+    {
+      "surface": "וּבִלְבֵנִ֔ים",
+      "gloss": "da tubali"
+    },
+    {
+      "surface": "וּבְכָל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "עֲבֹדָ֖ה",
+      "gloss": "aiki"
+    },
+    {
+      "surface": "בַּשָּׂדֶ֑ה",
+      "gloss": "a cikin gona"
+    },
+    {
+      "surface": "אֵ֚ת",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "עֲבֹדָתָ֔ם",
+      "gloss": "aikinsu"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "עָבְד֥וּ",
+      "gloss": "suka bautar da su"
+    },
+    {
+      "surface": "בָהֶ֖ם",
+      "gloss": "a ciki"
+    },
+    {
+      "surface": "בְּפָֽרֶךְ",
+      "gloss": "da taurin kai"
+    }
+  ],
+  "timestamp": "2026-08-12T00:29:28.524224664Z",
+  "model": "glm-5.2"
+}

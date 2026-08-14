@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 103,
+  "translation": "Ka yi alheri, ranaña, ga ⟨את⟩ Yahweh, kada ka manta dukan kyaututtukansa.",
+  "tokens": [
+    {
+      "surface": "בָּרֲחִ֣י",
+      "gloss": "ka yi alheri"
+    },
+    {
+      "surface": "נַ֭פְשִׁי",
+      "gloss": "raña"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תִּ֝שְׁכְּחִ֗י",
+      "gloss": "ka manta"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "גְּמוּלָֽיו",
+      "gloss": "kyaututtukansa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:28:21.659585812Z",
+  "model": "glm-5.2"
+}

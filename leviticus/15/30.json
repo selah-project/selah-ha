@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma kohen ya yi ⟨את⟩ ɗayans a matsayin hadayar zunubi, kuma ⟨את⟩ ɗayans a matsayin hadayar ƙonewa, kuma kohen ya yi fansa a gabbanta a gaban Yahweh, saboda zubawar tsarkakenta.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗayans"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ɗayans"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "a matsayin hadayar zunubi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "ɗayans"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ɗayans"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "a matsayin hadayar ƙonewa"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kuma ya yi fansa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "a gabbanta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "saboda zubawar"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "tsarkakenta"
+    }
+  ],
+  "timestamp": "2026-08-12T02:25:50.484358729Z",
+  "model": "glm-5.2"
+}

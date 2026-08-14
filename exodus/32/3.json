@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Dukan mutanen suka cire ⟨את⟩ zoben zinan da ke cikin kunnuwansu, suka kawo ⟨suka⟩ ga Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "suka cire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Dukan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zoben zinan"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "zoben"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zinan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "ke cikin kunnuwansu"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "suka kawo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-13T01:47:52.138787902Z",
+  "model": "glm-5.2"
+}

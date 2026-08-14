@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 144,
+  "translation": "Wanda bakinsu ya faɗa ƙarya, hannuwansu na dãma ⟨ne⟩ hannun zagi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Wanda"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "bakinsu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ƙarya"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "hannuwansu na dãma"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "hannun"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "zagi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:57:04.862437609Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Ester ta ce ⟨don mayar da⟩ zuwa Mordecai:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ta ce"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "don mayar da"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    }
+  ],
+  "timestamp": "2026-08-12T22:52:45.562340257Z",
+  "model": "glm-5.2"
+}

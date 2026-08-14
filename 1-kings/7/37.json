@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 7:37",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kamar haka ya yi ⟨את⟩ goma na ←920, ←920 guda, ←920 guda ɗaya, siffa guda ɗaya, ga duka goma.",
+  "tokens": [
+    {
+      "surface": "כזאת",
+      "gloss": "kamar haka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goma"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "goma"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "na ←920"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "←920"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "guda"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "←920"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "guda ɗaya"
+    },
+    {
+      "surface": "קצב",
+      "gloss": "siffa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "guda ɗaya"
+    },
+    {
+      "surface": "לכלהנה",
+      "gloss": "ga duka"
+    }
+  ],
+  "timestamp": "2026-08-12T11:06:07.355128318Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 150,
+  "translation": "Yabo ga Shi da bushe ƙaho, yabo ga Shi da nabal da kinora.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "yabo ga Shi"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "da bushe"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ƙaho"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "yabo ga Shi"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "da nabal"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "da kinora"
+    }
+  ],
+  "timestamp": "2026-08-12T20:57:42.282317741Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 8:9",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ya sa ⟨את⟩ rawanin akan kan shi, kuma ya sa akan rawanin, zuwa gaban fuskar shi, ⟨את⟩ furen zinari na kambin tsarkaka, kamar yadda Yahweh ya umurci ⟨את⟩ Mosheh.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "kuma ya sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rawanin"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "rawanin"
+    },
+    {
+      "surface": "על",
+      "gloss": "akan"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kan shi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kuma ya sa"
+    },
+    {
+      "surface": "על",
+      "gloss": "akan"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "rawanin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מול",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuskar shi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "furen zinari"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "furen"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zinari"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "kambin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tsarkaka"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:57:36.298466473Z",
+  "model": "glm-5.2"
+}

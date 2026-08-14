@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Shi zai gina Mini gida, kuma zan tabbatar ⟨את⟩ kujerarsa har abadã.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Shi"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "zai gina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Mini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "kuma zan tabbatar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kujerarsa"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kujerarsa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadã"
+    }
+  ],
+  "timestamp": "2026-08-13T00:18:36.620189657Z",
+  "model": "glm-5.2"
+}

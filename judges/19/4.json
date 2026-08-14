@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma surukin sa, mahaifin yarinyar, ya riƙe shi, ya zauna ⟨tare⟩ ⟨את⟩ shi kwanaki uku, suka ci, suka sha, suka kwanta can.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ya riƙe shi da ƙarfi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "surukin sa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mahaifin"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "yarinyar"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ya zauna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "uku"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "suka ci"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "suka sha"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "suka kwanta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    }
+  ],
+  "timestamp": "2026-08-12T08:09:00.423925706Z",
+  "model": "glm-5.2"
+}

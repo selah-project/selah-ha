@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 143,
+  "translation": "Ka sa ni ji chesed dinka safe, domin gareka nā dārmā, ka sanar da ni hanya da zan tafi, domin gareka nā ɗauko rānāta.",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "Ka sa ni ji"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "safe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed dinka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "בך",
+      "gloss": "gareka"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nā dārmā"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "ka sanar da ni"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "זו",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "zan tafi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gareka"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "nā ɗauko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rānāta"
+    }
+  ],
+  "timestamp": "2026-08-12T20:56:10.434691204Z",
+  "model": "glm-5.2"
+}

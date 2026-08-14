@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 116,
+  "translation": "Gare ka zan yanka sadaka⟨ta⟩ godiya, kuma cikin sunan Yahweh zan kira.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "gare ka"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "zan yanka sadaka"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sadaka"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "godiya"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "kuma cikin sunan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "zan kira"
+    }
+  ],
+  "timestamp": "2026-08-12T20:38:57.542823743Z",
+  "model": "glm-5.2"
+}

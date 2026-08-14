@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 38:11",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "kuma na ce: \"Har nan za ka zo, kuma ba za ka ƙara ba, kuma a nan za a dora ⟨girma⟩ na igiyoyin ruwananka,\"",
+  "tokens": [
+    {
+      "surface": "וָאֹמַ֗ר",
+      "gloss": "kuma na ce"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "har"
+    },
+    {
+      "surface": "פֹּ֣ה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "תָּבֹ֗א",
+      "gloss": "za ka zo"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "תֹסִ֑יף",
+      "gloss": "za ka ƙara"
+    },
+    {
+      "surface": "וּפֹ֥ה",
+      "gloss": "kuma a nan"
+    },
+    {
+      "surface": "יָשִׁ֗ית",
+      "gloss": "za a dora"
+    },
+    {
+      "surface": "בְגֵא֥וֹן",
+      "gloss": "⟨girma⟩ na"
+    },
+    {
+      "surface": "גַלֶּֽיךָ",
+      "gloss": "igiyoyin ruwananka"
+    }
+  ],
+  "timestamp": "2026-08-12T22:15:39.171103654Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Domin kada ƙasa ta fitar ku ⟨את⟩ ⟨kai⟩ a lokacin da kuke gurɓatar da ita, kamar yadda ta fitar ⟨את⟩ waccan al'ummar da ke a gaban ku.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "domin kada"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "ta fitar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "a lokacin da kuke gurɓatar da ita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨kai⟩",
+      "marks": "ƙasa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "ta fitar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waccan al'ummar"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "waccan al'ummar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da ke"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "a gaban ku"
+    }
+  ],
+  "timestamp": "2026-08-12T02:26:16.448355165Z",
+  "model": "glm-5.2"
+}

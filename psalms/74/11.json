@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 74,
+  "translation": "Don me kake ja hannunka baya, ko da hannun dāmanka? Cire shi daga tsakkin ⟨nonuwarka⟩, kuma ka ƙare musu!",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "kake ja baya"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hannunka"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "ko da hannun dāmanka"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "daga tsakkin"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "nonuwarka"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ka ƙare musu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:05:01.124217752Z",
+  "model": "glm-5.2"
+}

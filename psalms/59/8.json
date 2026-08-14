@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 59,
+  "translation": "Ga kanta, suna feshewa da bakunsu — takuba a cikin lebbansu — domin wa ⟨ne⟩ yake sauraro?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ga kanta"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "suna feshewa"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "da bakunsu"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "takuba"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "a cikin lebbansu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yake sauraro"
+    }
+  ],
+  "timestamp": "2026-08-12T19:53:24.012748757Z",
+  "model": "glm-5.2"
+}

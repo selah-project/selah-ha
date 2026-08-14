@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "babu ⟨ne⟩ girman zobensa cikin cicirkenka; girma da ɗaukaka kana sa ⟨a kan⟩ shi.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "babu"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "girman zobensa"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "cikin cicirkenka"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "girma"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "da ɗaukaka"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "kana sa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨a kan⟩ shi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:27:52.146302890Z",
+  "model": "glm-5.2"
+}

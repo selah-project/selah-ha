@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kamar yadda Yahweh ya umarce ⟨את⟩ Moshe, haka ɗan'yan Isra'ila suka yi, suka raba ⟨את⟩ ƙasar.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Kamar yadda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umarce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗan'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "suka raba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    }
+  ],
+  "timestamp": "2026-08-12T06:41:01.480462181Z",
+  "model": "glm-5.2"
+}

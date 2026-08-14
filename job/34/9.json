@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 34:9",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Don ⟨ce⟩, ya ce: 'Ba ya amfāni mutum, idan ⟨ya⟩ nə'ima tare da Elohim.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "don"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "ya amfāni"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "ברצתו",
+      "gloss": "idan ⟨ya⟩ nə'ima"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T22:11:44.082794711Z",
+  "model": "glm-5.2"
+}

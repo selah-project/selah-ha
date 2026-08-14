@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 6:3",
+  "book": "amos",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Masu tura baya ranar āla, kuma kuke kusartar zama taron tashin hankali!",
+  "tokens": [
+    {
+      "surface": "הַמְנַדִּים",
+      "gloss": "masu tura baya"
+    },
+    {
+      "surface": "לְיוֹם",
+      "gloss": "ranar"
+    },
+    {
+      "surface": "רָע",
+      "gloss": "āla"
+    },
+    {
+      "surface": "וְתַגִּישׁוּן",
+      "gloss": "kuke kusartar"
+    },
+    {
+      "surface": "שֶׁבֶת",
+      "gloss": "zama taron"
+    },
+    {
+      "surface": "חָמָס",
+      "gloss": "tashin hankali"
+    }
+  ],
+  "timestamp": "2026-08-12T18:32:11.503130783Z",
+  "model": "glm-5.2"
+}

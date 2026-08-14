@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Domin haka ne aka umarta ⟨את⟩ ni ⟨da⟩ kalmar Yahweh, in cewa: Ba za ka ci burodi ba, kuma ba za ka sha ruwa ba, kuma ba za ka koma ⟨ta⟩ hanya da ka tafi ba.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "כֵ֣ן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "צִוָּ֣ה",
+      "gloss": "ne aka umarta"
+    },
+    {
+      "surface": "אֹתִ֗י",
+      "gloss": "⟨את⟩ ni",
+      "marks": "⟨da⟩ kalmar"
+    },
+    {
+      "surface": "בִּדְבַ֤ר",
+      "gloss": "kalmar"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לֵאמֹ֔ר",
+      "gloss": "in cewa"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "תֹ֥אכַל",
+      "gloss": "za ka ci"
+    },
+    {
+      "surface": "לֶ֖חֶם",
+      "gloss": "burodi"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "תִשְׁתֶּה",
+      "gloss": "za ka sha"
+    },
+    {
+      "surface": "מָּ֑יִם",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "תָשׁ֔וּב",
+      "gloss": "za ka koma"
+    },
+    {
+      "surface": "בַּדֶּ֖רֶךְ",
+      "gloss": "⟨ta⟩ hanya"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הָלָֽכְתָּ",
+      "gloss": "ka tafi"
+    }
+  ],
+  "timestamp": "2026-08-12T11:25:41.230371166Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 132,
+  "translation": "Idan in bai wa idanuna barci, wa gashin ido na taurin bargo,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "in bai wa"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "barci"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "idanuna"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "wa gashin ido na"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "taurin bargo"
+    }
+  ],
+  "timestamp": "2026-08-12T20:49:23.742396416Z",
+  "model": "glm-5.2"
+}

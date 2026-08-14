@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma Yahweh Elohim ya shuka gona a cikin ʿĒden, a gabas, kuma ya sa can ⟨את⟩ mutumin da ya tsāra.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "kuma ya shuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "gona"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "a cikin ʿĒden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "a gabas"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kuma ya sa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutumin"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ya tsāra"
+    }
+  ],
+  "timestamp": "2026-08-11T23:21:12.814998262Z",
+  "model": "glm-5.2"
+}

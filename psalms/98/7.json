@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 98,
+  "translation": "Teku ta yi hađari, da cikarta, ⟨ta⟩ duniya da mazaunanta.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "ta yi hađari"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Teku"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "da cikarta"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨ta⟩ duniya"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "da mazaunanta"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a cikinta"
+    }
+  ],
+  "timestamp": "2026-08-12T20:24:44.462715624Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 102,
+  "translation": "Addu'a ⟨na⟩ wanda aka cire, a lokacin da yake gudunu, kuma a gaban Yahweh yana zuba shawararsa.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "addu'a"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "⟨na⟩ wanda aka cire"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a lokacin da"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "yake gudunu"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "kuma a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "yana zuba"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "shawararsa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:26:50.366044388Z",
+  "model": "glm-5.2"
+}

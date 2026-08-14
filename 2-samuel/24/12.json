@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 24:12",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Ka tafi kuma ka yi magana da Dawuda: Haka ce Yahweh: Abubuwa uku Ni ina ɗauka a kanku, ka zaɓi ɗaya daga cikinsu, kuma Ni in aikata muku.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Ka tafi"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "kuma ka yi magana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Haka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "uku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "נוטל",
+      "gloss": "ina ɗauka"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "a kanku"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ka zaɓi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨don kanka⟩"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "daga cikinsu"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "kuma Ni in aikata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "muku"
+    }
+  ],
+  "timestamp": "2026-08-12T10:47:27.556466022Z",
+  "model": "glm-5.2"
+}

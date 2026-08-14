@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 54:7",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 54,
+  "translation": "Da ɗan lokaci kaɗan na bar ka, amma da rahama mai girma zan tara ka.",
+  "tokens": [
+    {
+      "surface": "ברגע",
+      "gloss": "Da ɗan lokaci"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "kaɗan"
+    },
+    {
+      "surface": "עזבתיך",
+      "gloss": "na bar ka"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "amma da rahama"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "mai girma"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "zan tara ka"
+    }
+  ],
+  "timestamp": "2026-08-12T14:29:10.425770618Z",
+  "model": "glm-5.2"
+}

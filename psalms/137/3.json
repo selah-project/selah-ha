@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 137,
+  "translation": "Domin can waɗanda suka kama mu a bauta sun nemi mu mu faɗa kalmomin waka, kuma waɗanda suka tsanata mu sun nemu murna, ⟨suna cewa⟩: \"Ku rera mana waƙa daga waƙoƙin Tsiyon.\"",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "sun nemu mu"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "waɗanda suka kama mu a bauta"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "waka"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "kuma waɗanda suka tsanata mu"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "murna"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Ku rera"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mana"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "daga waƙoƙin"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-12T20:56:06.167147424Z",
+  "model": "glm-5.2"
+}

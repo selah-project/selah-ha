@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 3:26",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kofar ⟨ta⟩ za ta yi rawa, kuma za ta yi makoki, kuma ⟨ita⟩ an tsabtar da ita; a ƙasa za ta zauna.",
+  "tokens": [
+    {
+      "surface": "וְאָנוּ",
+      "gloss": "kuma za ta yi rawa"
+    },
+    {
+      "surface": "וְאָבְלוּ",
+      "gloss": "kuma za ta yi makoki"
+    },
+    {
+      "surface": "פְּתָחֶיהָ",
+      "gloss": "kofar ⟨ta⟩"
+    },
+    {
+      "surface": "וְנִקָּתָה",
+      "gloss": "kuma ⟨ita⟩ an tsabtar da ita"
+    },
+    {
+      "surface": "לָאָרֶץ",
+      "gloss": "a ƙasa"
+    },
+    {
+      "surface": "תֵּשֵׁב",
+      "gloss": "za ta zauna"
+    }
+  ],
+  "timestamp": "2026-08-13T02:05:56.864470495Z",
+  "model": "glm-5.2"
+}

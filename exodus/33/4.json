@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Kuma mutãnen suka ji ⟨את⟩ maganar nan ta cuta, suka yi makoki, kuma ba wani mutum ya sa kayan ƙawunsa a jikinsa ba.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Kuma suka ji"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maganar nan ta cuta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "maganar"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ta cuta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "suka yi makoki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ya sa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wani mutum"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "kayan ƙawun sa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a jikin sa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:25:54.831086009Z",
+  "model": "glm-5.2"
+}

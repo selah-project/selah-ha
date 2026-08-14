@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 26:30",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma zan lalata ⟨את⟩ tsaffa gumakanku, kuma zan yanke ⟨את⟩ gunkin hasumanku, kuma zan jefa gawarinku a kan gawarin gummanku, kuma rana za ta ƙi ⟨את⟩ ku.",
+  "tokens": [
+    {
+      "surface": "והשמדתי",
+      "gloss": "Kuma zan lalata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsaffa gumakanku"
+    },
+    {
+      "surface": "במתיכם",
+      "gloss": "tsaffa gumakanku"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "kuma zan yanke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunkin hasumanku"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "gunkin hasumanku"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "kuma zan jefa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gawarinku"
+    },
+    {
+      "surface": "פגריכם",
+      "gloss": "gawarinku"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "gawar"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "gummanku"
+    },
+    {
+      "surface": "וגעלה",
+      "gloss": "kuma ⟨rara⟩ za ta ƙi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    }
+  ],
+  "timestamp": "2026-08-12T03:02:48.274442073Z",
+  "model": "glm-5.2"
+}

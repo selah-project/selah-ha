@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Sa'an nan kuma bawan ya sanya ⟨את⟩ hannunsa a ƙarƙashin jaḥar Avrahama maigidansa, kuma ya yi rantsuwa a gare shi game da ⟨al'amarin⟩ haka.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Sa'an nan kuma ya sanya"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "bawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannunsa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hannunsa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a ƙarƙashin"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "jaḥar"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "maigidansa"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "kuma ya yi rantsuwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a gare shi"
+    },
+    {
+      "surface": "על",
+      "gloss": "game da"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨al'amarin⟩"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "haka"
+    }
+  ],
+  "timestamp": "2026-08-11T23:44:12.381491093Z",
+  "model": "glm-5.2"
+}

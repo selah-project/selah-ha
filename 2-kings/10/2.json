@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma yanzu, idan wannan takardar ta zo muku, tare da ku ⟨ne⟩ ɗiyen ubangijinku, tare da ku ⟨ne⟩ ⟨את⟩ motoci da ⟨את⟩ dawakai, da birni mai katanga, da makami;",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kuma yanzu"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "idan ... ta zo"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "takardar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "muku"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ tare da ku",
+      "marks": "ɗiyen ubangijinku, motoci, dawakai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyen"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "ubangijinku"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ tare da ku",
+      "marks": "ɗiyen ubangijinku, motoci, dawakai"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "motoci"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "da dawakai"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "da birni"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "mai katanga"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "da makami"
+    }
+  ],
+  "timestamp": "2026-08-12T12:14:32.467543411Z",
+  "model": "glm-5.2"
+}

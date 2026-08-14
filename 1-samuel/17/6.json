@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 17:6",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma ƙafafun karɓa a kan ƙafafunsa, kuma mashi na karɓa tsakanin kampöfensa.",
+  "tokens": [
+    {
+      "surface": "וּמִצְחַ֥ת",
+      "gloss": "kuma tsafaffun ƙafafu"
+    },
+    {
+      "surface": "נְחֹ֖שֶׁת",
+      "gloss": "karɓa"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "רַגְלָ֑יו",
+      "gloss": "ƙafafunsa"
+    },
+    {
+      "surface": "וְכִיד֥וֹן",
+      "gloss": "kuma mashi"
+    },
+    {
+      "surface": "נְחֹ֖שֶׁת",
+      "gloss": "karɓa"
+    },
+    {
+      "surface": "בֵּ֥ין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "כְּתֵפָֽיו",
+      "gloss": "kampöfensa"
+    }
+  ],
+  "timestamp": "2026-08-12T09:11:42.753168749Z",
+  "model": "glm-5.2"
+}

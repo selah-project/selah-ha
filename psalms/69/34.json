@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Domi Yahweh yana sauraron matalauta, kuma ⟨את⟩ fursanin Sa ba Ya wulakanta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yana sauraro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "matalauta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fursanin Sa"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "fursanin Sa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "Ya wulakanta"
+    }
+  ],
+  "timestamp": "2026-08-12T19:59:33.436498032Z",
+  "model": "glm-5.2"
+}

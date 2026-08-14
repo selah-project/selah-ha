@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 104,
+  "translation": "Bari masu zunubi su kammala daga ƙasa, kuma miɗangari ba su kasance ⟨sai⟩. Nēmaƙe, rāna, Yahweh; ku yab̃a, Yah.",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "su kammala"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "masu zunubi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "kuma miɗangari"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sai"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ba su kasance"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "nēmaƙe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rāna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ku yab̃a"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-12T20:28:53.367963698Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Kuma Yahweh ya ce wa Mosheh: \"Ni ma ⟨את⟩ wannan maganar da ka faɗa zan yi, domin ka sami alheri a idanina, kuma na san ka da suna.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Ni ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan maganar"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "maganar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ka faɗa"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "zan yi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "ka sami"
+    },
+    {
+      "surface": "חן",
+      "gloss": "alheri"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanina"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "kuma na san ka"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "da suna"
+    }
+  ],
+  "timestamp": "2026-08-12T01:28:43.122546460Z",
+  "model": "glm-5.2"
+}

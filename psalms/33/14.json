@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Daga mazaunin zaunarsa, Ya yi tsalle-kallon duka mazauna ƙasar.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "Daga mazaunin"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "zaunarsa"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "Ya yi tsalle-kallon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mazauna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    }
+  ],
+  "timestamp": "2026-08-12T19:36:55.143775904Z",
+  "model": "glm-5.2"
+}

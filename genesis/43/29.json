@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 43:29",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Sa'an nan ya ɗaga idanunsa, ya ga ⟨את⟩ Binyamin, ɗan'uwansa, ɗan uwarsa, kuma ya ce: \"Shin wannan ne ɗan'uwanku ⟨na⟩ ƙaramin da kuka faɗa min?\" Kuma ya ce: \"Elohim ya yi maka alheri, ɗdana.\"",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ya ɗaga"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "idanunsa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ya ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Binyamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ɗan'uwansa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "uwarsa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ɗan'uwanku"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ƙaramin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "kuka faɗa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחנך",
+      "gloss": "ya yi maka alheri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗdana"
+    }
+  ],
+  "timestamp": "2026-08-12T00:17:56.217662006Z",
+  "model": "glm-5.2"
+}

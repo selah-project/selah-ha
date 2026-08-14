@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Kuma Esavu ya gudu don haɗuwa da shi, ya runɗe shi, ya faɗi a wuyansa, ya sumbace shi, suka kuma yi kuka.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "kuma ya gudu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "don haɗuwa da shi"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "ya runɗe shi"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ya faɗi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "wuyansa"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "ya sumbace shi"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "suka kuma yi kuka"
+    }
+  ],
+  "timestamp": "2026-08-12T00:00:59.753847961Z",
+  "model": "glm-5.2"
+}

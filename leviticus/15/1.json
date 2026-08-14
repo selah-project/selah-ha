@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma Yahweh ya yi magana da Mosheh da kuma da Aharonar, yana cewa:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Kuma ya yi magana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "da kuma da"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonar"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:21:08.929427954Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 89:19",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Gama na Yahweh ⟨ne⟩ garkuwarmu, kuma na Tsarkin Yisra'el ⟨ne⟩ sarkimu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gama"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "garkuwarmu"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "kuma na Tsarkin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "sarkimu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:16:47.157611474Z",
+  "model": "glm-5.2"
+}

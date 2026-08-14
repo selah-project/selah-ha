@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 81,
+  "translation": "Don kuma na bar su ⟨su je⟩ a cikin taurin kamar zuciyarsu, suna tafiya a cikin shawarar nasu.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "don kuma na bar shi"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "a cikin taurin kamar"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "zuciyarsu"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "suna tafiya"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "a cikin shawarar nasu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:12:11.485003821Z",
+  "model": "glm-5.2"
+}

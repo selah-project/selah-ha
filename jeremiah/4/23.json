@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Nã dũba ⟨את⟩ ƙasã, sai gã bomfãɗe da abu bãbu; kuma ga samã, kuma hasken su bã shi.",
+  "tokens": [
+    {
+      "surface": "רָאִ֨יתִי֙",
+      "gloss": "nã dũba"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasã"
+    },
+    {
+      "surface": "הָאָ֔רֶץ",
+      "gloss": "ƙasã"
+    },
+    {
+      "surface": "וְהִנֵּה",
+      "gloss": "sai gã"
+    },
+    {
+      "surface": "תֹ֖הוּ",
+      "gloss": "bomfãɗe"
+    },
+    {
+      "surface": "וָבֹ֑הוּ",
+      "gloss": "abu bãbu"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "kuma ga"
+    },
+    {
+      "surface": "הַשָּׁמַ֖יִם",
+      "gloss": "samã"
+    },
+    {
+      "surface": "וְאֵ֥ין",
+      "gloss": "kuma ba shi"
+    },
+    {
+      "surface": "אוֹרָֽם",
+      "gloss": "hasken su"
+    }
+  ],
+  "timestamp": "2026-08-12T14:56:48.554120892Z",
+  "model": "glm-5.2"
+}

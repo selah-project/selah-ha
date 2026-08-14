@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Yanzu zan tashi, in ce, Yahweh; yanzu zan ɗaukaka; yanzu zan ɗauke ⟨kaina⟩.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "zan tashi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "in ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "zan ɗaukaka"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "zan ɗauke"
+    }
+  ],
+  "timestamp": "2026-08-12T13:42:56.631060480Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Mafi kyau ⟨ne⟩ yaro matalauci kuma mai hikima, daga sarki tsoho wanda ⟨shi⟩ mai wāya, wanda ba ya san ⟨ya⟩ kula ⟨da kansa⟩ har abada.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mafi kyau"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "yaro"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "matalauci"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "kuma mai hikima"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "daga sarki"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "tsoho"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "wanda ⟨shi⟩ mai wāya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ya sani"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "⟨ya⟩ kula ⟨da kansa⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-13T02:34:50.822012510Z",
+  "model": "glm-5.2"
+}

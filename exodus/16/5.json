@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma zai kasance a rana ta shida, su shirya ⟨את⟩ ⟨אֵת⟩ abin da za su kawo, kuma zai zama ninki biyu a kan abin da suke tattara rana rana.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kuma zai kasance"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ta shida"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "su shirya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨אֵת⟩",
+      "marks": "abin da za su kawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "za su kawo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kuma zai zama"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ninki biyu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "suke tattara"
+    },
+    {
+      "surface": "יום",
+      "gloss": "rana"
+    },
+    {
+      "surface": "יום",
+      "gloss": "rana"
+    }
+  ],
+  "timestamp": "2026-08-12T00:57:06.860860718Z",
+  "model": "glm-5.2"
+}

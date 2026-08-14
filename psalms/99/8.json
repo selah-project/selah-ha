@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 99,
+  "translation": "Yahweh, Elohim na mu, Kai kaamsu musu; El Mai ɗauke ⟨laifi⟩, Kai ka kasance ⟨don⟩ su, kuma Mai rama ⟨a⟩ kan ayyukan su.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na mu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "ka amsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "Mai ɗauke"
+    },
+    {
+      "surface": "היית",
+      "gloss": "Ka kasance"
+    },
+    {
+      "surface": "להם",
+      "gloss": "su"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "kuma Mai rama"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "ayyukan su"
+    }
+  ],
+  "timestamp": "2026-08-12T20:25:46.967060076Z",
+  "model": "glm-5.2"
+}

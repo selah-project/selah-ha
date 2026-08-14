@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma Elohim ya yi magana ⟨את⟩ dukan waɗannan kalmomi, ⟨don ce⟩ yana cewa:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Kuma ya yi magana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kalmomi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:55:37.074145052Z",
+  "model": "glm-5.2"
+}

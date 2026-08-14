@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 7:5",
+  "book": "amos",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Sa'an nan na ce, \"Adonai Yahweh, ka daina ⟨lah⟩! Ta yaya Ya'aƙoub zai tashi? Dominion ƙanƙani ⟨ne⟩.\"",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "kuma na ce"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ka daina"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨lah⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ta yaya"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "zai tashi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aƙoub"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dominion"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "ƙanƙani"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ne⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T18:34:26.045065414Z",
+  "model": "glm-5.2"
+}

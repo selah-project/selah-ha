@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma rancin bazawara da uwargidan da aka saka, duk abin da ta ɗaure a kan raiinta zai tsaya a kanta.",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "Kuma rancin"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "bazawara"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "da uwargidan da aka saka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ta ɗaure"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "raiinta"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "zai tsaya"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "a kanta"
+    }
+  ],
+  "timestamp": "2026-08-12T04:36:51.998812789Z",
+  "model": "glm-5.2"
+}

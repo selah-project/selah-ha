@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Duba, na sa gaban ka yau ⟨את⟩ rayuwa da ⟨את⟩ abin alheri, da ⟨את⟩ mutuwa da ⟨את⟩ sharri.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "duba"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "na sa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "gaban ka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rayuwa"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "rayuwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "abin alheri"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "abin alheri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "mutuwa"
+    },
+    {
+      "surface": "המות",
+      "gloss": "mutuwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "sharri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sharri"
+    }
+  ],
+  "timestamp": "2026-08-12T05:53:28.034736337Z",
+  "model": "glm-5.2"
+}

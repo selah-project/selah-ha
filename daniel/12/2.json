@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 12:2",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma da yawa daga cikin masu barci a cikin ƙasar ƙura za su tashi, waɗannan zuwa raya ta har abada, kuma waɗannan zuwa wulakanci zuwa ƙyama ta har abada.",
+  "tokens": [
+    {
+      "surface": "ורבים",
+      "gloss": "kuma da yawa"
+    },
+    {
+      "surface": "מישני",
+      "gloss": "daga cikin masu barci"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "a cikin ƙasar"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ƙura"
+    },
+    {
+      "surface": "יקיצו",
+      "gloss": "za su tashi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "לחיי",
+      "gloss": "zuwa raya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ta har abada"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "kuma waɗannan"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "zuwa wulakanci"
+    },
+    {
+      "surface": "לדראון",
+      "gloss": "zuwa ƙyama"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ta har abada"
+    }
+  ],
+  "timestamp": "2026-08-12T23:23:15.381173896Z",
+  "model": "glm-5.2"
+}

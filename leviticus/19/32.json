@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 19:32",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "A gaban shuɗin gashi ka tashi, ka girmama farkin tsoho, kuma ka ji tsoron Elohim naka; ni ne Yahweh.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "A gaban"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "shuɗin gashi"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ka tashi"
+    },
+    {
+      "surface": "והדרת",
+      "gloss": "ka girmama"
+    },
+    {
+      "surface": "פני",
+      "gloss": "farkin"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "tsoho"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "kuma ka ji tsoron"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T02:36:19.803382035Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kada Ka nĩsa daga gare ni, domin ɗẽwa ta kusa, domin babu mai taimako.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תִּרְחַ֣ק",
+      "gloss": "Ka nĩsa"
+    },
+    {
+      "surface": "מִ֭מֶּנִּי",
+      "gloss": "daga gare ni"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "צָרָ֣ה",
+      "gloss": "ɗẽwa ta"
+    },
+    {
+      "surface": "קְרוֹבָ֑ה",
+      "gloss": "kusa"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "עוֹזֵֽר",
+      "gloss": "mai taimako"
+    }
+  ],
+  "timestamp": "2026-08-12T19:26:20.245675695Z",
+  "model": "glm-5.2"
+}

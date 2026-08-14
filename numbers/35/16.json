@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Kuma idan da kayan ƙarfe ya buge shi ya mutu, ɗan kisa ne ⟨yake⟩; da tabbaci a kashe ɗan kisan.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "da kayan"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ƙarfe"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "ya buge shi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ya mutu"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "ɗan kisa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מות",
+      "gloss": "da tabbaci a kashe"
+    },
+    {
+      "surface": "יומת",
+      "gloss": ""
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ɗan kisan"
+    }
+  ],
+  "timestamp": "2026-08-12T04:48:12.712665219Z",
+  "model": "glm-5.2"
+}

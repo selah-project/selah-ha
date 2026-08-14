@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 17:8",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma sun bi dokokin al'ummar da Yahweh ya kore ⟨daga gaban⟩ ɗiya'n Isra'ila, da kuma dokokin sarakunan Isra'ila da suka yi.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Kuma sun bi"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "dokokin"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "al'ummar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "Yahweh ya kore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiya'n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "da kuma sarakunan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "suka yi"
+    }
+  ],
+  "timestamp": "2026-08-12T12:32:05.773658072Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Saboda haka na rantsuwa ga gidan Eli: ba za a yafe laifin gidan Eli da hadaya ko kuma da gurgu har abada ba.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "saboda haka"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "na rantsuwa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ga gidan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨cewa ba za a⟩"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "a yafe"
+    },
+    {
+      "surface": "עון",
+      "gloss": "laifin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "da hadaya"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "ko kuma da gurgu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abada"
+    }
+  ],
+  "timestamp": "2026-08-12T08:33:30.523083279Z",
+  "model": "glm-5.2"
+}

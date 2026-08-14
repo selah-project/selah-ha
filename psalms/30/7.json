@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma ni na faɗa a cikin lafiya ta, ⟨cewa⟩ ba zan girgiza har abadā ba.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kuma ni"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "na faɗa"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "a cikin lafiya ta"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "zai girgiza"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abadā"
+    }
+  ],
+  "timestamp": "2026-08-12T19:32:43.220911600Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma ya umarce shi game da wannan lamari, ⟨ce⟩ kada ya bi wasu alloli; amma ba ya kiyaye ⟨את⟩ abin da Yahweh ya umarce shi.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "Kuma ya umarce shi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "על",
+      "gloss": "game da"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lamari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kada"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "ya bi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "baya ga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "alloli"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wasu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ya kiyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umarce shi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T11:17:24.318485174Z",
+  "model": "glm-5.2"
+}

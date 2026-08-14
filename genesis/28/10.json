@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Ya'aƙub ya fita daga Beer-Sheba, ya tafi ⟨zuwa⟩ Charan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ya fita"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aƙub"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "daga"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Beer-Sheba"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "⟨zuwa⟩ Charan"
+    }
+  ],
+  "timestamp": "2026-08-11T23:54:15.322218574Z",
+  "model": "glm-5.2"
+}

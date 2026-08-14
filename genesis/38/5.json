@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Kuma ta ƙara wani, kuma ta haifa ɗa, kuma ta kira ⟨את⟩ sunansa Shelah; kuma ⟨ya kasance⟩ a Chezib a lokacin da take haihuwa da ⟨את⟩ ⟨shī⟩.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "ta ƙara"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wani"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ta haifa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗa"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ta kira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunansa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shelah"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "a Chezib"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "a lokacin haihuwarta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨shī⟩",
+      "marks": "wanda aka haifa"
+    }
+  ],
+  "timestamp": "2026-08-13T01:44:09.571476417Z",
+  "model": "glm-5.2"
+}

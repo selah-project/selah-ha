@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Duk ⟨ne⟩ umarninka gaskiya ne; da ƙarya sun neme ni; ka taimake ni.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Duk"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "umarninka"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "gaskiya ne"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "da ƙarya"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "sun neme ni"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "ka taimake ni"
+    }
+  ],
+  "timestamp": "2026-08-13T02:27:33.473784235Z",
+  "model": "glm-5.2"
+}

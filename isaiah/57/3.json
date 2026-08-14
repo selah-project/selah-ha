@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 57:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 57,
+  "translation": "Kuma ku, ku kusanta nan, ku 'ya'yan mace mai sihiri, zuriyar mazin mutum, kuma ku yi karuwanci!",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "kuma ku"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ku kusanta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "mace mai sihiri"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zuriyar"
+    },
+    {
+      "surface": "מנאף",
+      "gloss": "mazimi"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "kuma ku yi karuwanci"
+    }
+  ],
+  "timestamp": "2026-08-12T14:33:25.547565002Z",
+  "model": "glm-5.2"
+}

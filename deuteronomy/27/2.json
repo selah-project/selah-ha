@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 27:2",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma zai kasance a rana da za ku ketara ⟨את⟩ Yarden, zuwa ƙasar da Yahweh Elohimka yake bayar muku, za ka tsayar da kankani manyan duwatsu, kuma ka yayyafa su da ⟨את⟩ suddi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Kuma zai kasance"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "za ku ketara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yake bayar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "muku"
+    },
+    {
+      "surface": "והקמת",
+      "gloss": "za ka tsayar da kankani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨a kankani⟩"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "manyu"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "kuma ka yayyafa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "suddi"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "da suddi"
+    }
+  ],
+  "timestamp": "2026-08-12T05:41:53.660242122Z",
+  "model": "glm-5.2"
+}

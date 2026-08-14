@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 1:11",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "don kawo ⟨את⟩ Vashti ⟨sarauniya⟩ a gaban ⟨sarkin⟩ sanye da kambin mulki, don nuna wa ⟨al'ummar⟩ da ⟨shugabannin⟩ ⟨את⟩ kyawunta, domin ita kyakkyawa ce.",
+  "tokens": [
+    {
+      "surface": "לְ֠הָבִיא",
+      "gloss": "don kawo"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Vashti"
+    },
+    {
+      "surface": "וַשְׁתִּ֧י",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "הַמַּלְכָּ֛ה",
+      "gloss": "⟨sarauniya⟩"
+    },
+    {
+      "surface": "לִפְנֵ֥י",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "הַמֶּ֖לֶךְ",
+      "gloss": "⟨sarkin⟩"
+    },
+    {
+      "surface": "בְּכֶ֣תֶר",
+      "gloss": "sanye da kambin"
+    },
+    {
+      "surface": "מַלְכֻ֑ת",
+      "gloss": "mulki"
+    },
+    {
+      "surface": "לְהַרְא֨וֹת",
+      "gloss": "don nuna wa"
+    },
+    {
+      "surface": "הָֽעַמִּ֤ים",
+      "gloss": "⟨al'ummar⟩"
+    },
+    {
+      "surface": "וְהַשָּׂרִים֙",
+      "gloss": "da ⟨shugabannin⟩"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kyawunta"
+    },
+    {
+      "surface": "יָפְיָ֔הּ",
+      "gloss": "kyawunta"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "טוֹבַ֥ת",
+      "gloss": "kyakkyawa"
+    },
+    {
+      "surface": "מַרְאֶ֖ה",
+      "gloss": "⟨ce⟩"
+    },
+    {
+      "surface": "הִֽיא",
+      "gloss": "ita"
+    }
+  ],
+  "timestamp": "2026-08-12T22:53:15.043550782Z",
+  "model": "glm-5.2"
+}

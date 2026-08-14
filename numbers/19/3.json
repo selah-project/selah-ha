@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 19:3",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma ku bā ta ⟨ga⟩ Elazār ⟨babban⟩ kāhin, kuma ya fitar da ita ⟨zuwa wajen⟩ wajen sansanin, kuma a yanka ta a gaban shi.",
+  "tokens": [
+    {
+      "surface": "ונתתם",
+      "gloss": "kuma ku bā ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ta (shājiyā)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ga⟩"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazār"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨babban⟩ kāhin"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "kuma ya fitar da ita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ita (shājiyā)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨zuwa wajen⟩"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "wajen"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "sansanin"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "kuma a yanka ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ta (shājiyā)"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "a gaban shi"
+    }
+  ],
+  "timestamp": "2026-08-12T04:16:27.139621765Z",
+  "model": "glm-5.2"
+}

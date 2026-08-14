@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Ga shugaban waƙa. Zabura na David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga shugaban waƙa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zabura"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na David"
+    }
+  ],
+  "timestamp": "2026-08-12T19:33:21.993520225Z",
+  "model": "glm-5.2"
+}

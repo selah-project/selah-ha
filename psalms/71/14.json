@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 71,
+  "translation": "Amma ni, kullum nana fatan, kuma zan ƙara wa duka gōdonkai.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Amma ni"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kullum"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "nana fatan"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "kuma zan ƙara"
+    },
+    {
+      "surface": "על",
+      "gloss": "wa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "gōdonkai"
+    }
+  ],
+  "timestamp": "2026-08-12T20:01:29.228085890Z",
+  "model": "glm-5.2"
+}

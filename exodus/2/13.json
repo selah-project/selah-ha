@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 2:13",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Sai ⟨ya⟩ fita a rana ta biyu, kuma gani, ga mutane biyu, ʿIvrim, suna fada, sai ⟨ya⟩ ce wa mai zunubi, don me kake duka abokinka?",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "⟨ya⟩ fita"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ta biyu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kuma gani"
+    },
+    {
+      "surface": "שני",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ʿIvrim"
+    },
+    {
+      "surface": "נצים",
+      "gloss": "suna fada"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "⟨ya⟩ ce"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "wa mai zunubi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "kake duka"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "abokinka"
+    }
+  ],
+  "timestamp": "2026-08-13T01:45:07.547183346Z",
+  "model": "glm-5.2"
+}

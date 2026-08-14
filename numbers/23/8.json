@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "\"Ta yaya zan iya tsinawa wanda El bai tsina ba? Kuma ta yaya zan yi fushi wanda Yahweh ba ya fushi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ta yaya"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "zan tsina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "ya tsina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Kuma ta yaya"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "zan yi fushi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ya fushi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T04:23:22.707897449Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Da yake yamma, ya ɗauki ⟨את⟩ Le'a ɗiyarsa, ya kawo ⟨את⟩ ⟨ta⟩ wajensa, ya koma wurinta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Da yake"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "yamma"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ya ɗauki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Le'a"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Le'a"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ɗiyarsa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ya kawo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨ta⟩"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "wajensa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ya koma"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "wurinta"
+    }
+  ],
+  "timestamp": "2026-08-11T23:52:09.809168052Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Zo, mu ga ubanmu giya, mu kwanta tare da shi, mu riƙe zuriya daga ubanmu.\"",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Zo"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "mu ga ... giya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubanmu"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ubanmu"
+    },
+    {
+      "surface": "יין",
+      "gloss": "giya"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "mu kwanta"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tare da shi"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "mu riƙe"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "daga ubanmu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zuriya"
+    }
+  ],
+  "timestamp": "2026-08-11T23:39:19.438182940Z",
+  "model": "glm-5.2"
+}

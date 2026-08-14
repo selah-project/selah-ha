@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Masallaci na Eitan ⟨dan⟩ Ɛzrahi.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Masallaci"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "na Eitan"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "⟨dan⟩ Ɛzrahi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:17:54.379427032Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Sarakunan al'ummai sun taru, ⟨sun zama⟩ mutanen Elohim na Avraham; domin ga Elohim ⟨ne⟩ garkuwan ƙasa, ⟨ya⟩ tashi sama da komai.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "sarakunan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "al'ummai"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "sun taru"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ga Elohim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "garkuwan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sama da komai"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "⟨ya⟩ tashi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:44:55.840950501Z",
+  "model": "glm-5.2"
+}

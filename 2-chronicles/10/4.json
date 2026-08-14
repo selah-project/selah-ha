@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Ubanka ya yi mugiya ⟨את⟩ ƙaγanmu, don haka ka sauƙaƙa daga bautar ubanka ta mugiya da kuma daga ƙaγansa mai nauyi da ya saka a mu, kuma mu bauta maka.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Ubanka"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ya yi mugiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙaγanmu"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "ƙaγanmu"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "don haka"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "ka sauƙaƙa"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "daga bautar"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ubanka"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ta mugiya"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "da kuma daga ƙaγansa"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "mai nauyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya saka"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "a mu"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "kuma mu bauta maka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:44:37.662801570Z",
+  "model": "glm-5.2"
+}

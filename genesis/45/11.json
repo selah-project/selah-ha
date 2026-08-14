@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 45:11",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Kuma ni zan ciyar da kai can, domin har yanzu akwai shekaru biyar na yunwa — domin kai, da gidanka, da duk abin da ⟨ne⟩ naka, ba ku lalace ba.",
+  "tokens": [
+    {
+      "surface": "וְכִלְכַּלְתִּי",
+      "gloss": "kuma ni zan ciyar da"
+    },
+    {
+      "surface": "אֹֽתְךָ֙",
+      "gloss": "⟨את⟩",
+      "marks": "kai"
+    },
+    {
+      "surface": "שָׁ֔ם",
+      "gloss": "can"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "ע֛וֹד",
+      "gloss": "har yanzu"
+    },
+    {
+      "surface": "חָמֵ֥שׁ",
+      "gloss": "biyar"
+    },
+    {
+      "surface": "שָׁנִ֖ים",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "רָעָ֑ב",
+      "gloss": "na yunwa"
+    },
+    {
+      "surface": "פֶּן",
+      "gloss": "domin ba... ba"
+    },
+    {
+      "surface": "תִּוָּרֵ֛שׁ",
+      "gloss": "ku lalace"
+    },
+    {
+      "surface": "אַתָּ֥ה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "וּבֵֽיתְךָ֖",
+      "gloss": "da gidanka"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "da duka"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "לָֽךְ",
+      "gloss": "naka"
+    }
+  ],
+  "timestamp": "2026-08-13T01:45:20.534072177Z",
+  "model": "glm-5.2"
+}

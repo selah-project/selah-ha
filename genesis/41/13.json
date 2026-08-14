@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Kuma ⟨ya faru⟩ yadda ya fassara mana, haka ⟨ya kasance⟩; ⟨את⟩ ni ya mayar ⟨a kan⟩ matsayina, kuma ⟨את⟩ shi ya rataye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ⟨ya faru⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "yadda"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "ya fassara"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mana"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ya kasance⟩"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "ya mayar"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨a kan⟩"
+    },
+    {
+      "surface": "כני",
+      "gloss": "matsayina"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "ya rataye"
+    }
+  ],
+  "timestamp": "2026-08-12T00:13:25.168455962Z",
+  "model": "glm-5.2"
+}

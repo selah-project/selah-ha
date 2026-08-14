@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma ⟨את⟩ Yehu ɗan Nimshi ka shafa ⟨mai⟩ ka naɗa shi saraki a kan Isra'ila; ⟨kuma⟩ ⟨את⟩ Elisha ɗan Shafat, daga Abel-Mehola, ka shafa ⟨mai⟩ ka naɗa shi annabinka a mukaminsa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Kuma ⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshi"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ka shafa...ka naɗa shi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "saraki"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨kuma⟩ ⟨את⟩",
+      "marks": "Elisha"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Shafat"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "daga"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Abel-Mehola"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ka shafa...ka naɗa shi"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "annabinka"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "a mukaminsa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:05:34.041427353Z",
+  "model": "glm-5.2"
+}

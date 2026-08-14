@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "\"Kuma ni na tabbatar da ⟨את⟩ alkawarina ⟨את⟩ ⟨a cikinsu⟩, don in ba su ⟨את⟩ ƙasar Kena'an, ⟨את⟩ ƙasar zamansu wadda suka yi baƙin haure a cikinta.\"",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "na tabbatar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alkawarina"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alkawarina"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨a cikinsu⟩"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "don in ba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "zamansu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wadda"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "suka yi baƙin haure"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a cikinta"
+    }
+  ],
+  "timestamp": "2026-08-12T00:35:42.680819432Z",
+  "model": "glm-5.2"
+}

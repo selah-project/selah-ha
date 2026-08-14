@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 53,
+  "translation": "Kuma ya saka ⟨את⟩ mugaye kabrinsa, kuma ⟨את⟩ wadāta a cikin mutuwarsa; duk da cewa zalunci ba ya aikatawa, kuma āki ba ⟨ta⟩ cikin bakinsa.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kuma ya saka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mugaye"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mugaye"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "kabrinsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "wadāta"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "wadāta"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "a cikin mutuwarsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "duk da cewa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zalunci"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya aikatawa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "āki"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "a cikin bakinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T14:30:04.899753051Z",
+  "model": "glm-5.2"
+}

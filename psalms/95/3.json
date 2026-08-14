@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 95,
+  "translation": "Domin El babba Yahweh, da Sarki babba a kan dukkan elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "babba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "da Sarki"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "babba"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T20:23:06.342245278Z",
+  "model": "glm-5.2"
+}

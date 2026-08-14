@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Ga shugaban mawaka. Waƙa ta Dawuda.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga shugaban mawaka"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "waƙa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ta Dawuda"
+    }
+  ],
+  "timestamp": "2026-08-12T19:26:07.584282983Z",
+  "model": "glm-5.2"
+}

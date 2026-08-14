@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Kada a yi musu ābinci a gare ni, masu bei ka, Adonai Yahweh Țsaba'ɔt; kuma kada a kunyata su a gare ni, masu neman ka, Elohim na Yisra'el.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "a yi musu ābinci"
+    },
+    {
+      "surface": "בי",
+      "gloss": "a gare ni"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "masu bei ka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Țsaba'ɔt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "a kunyata su"
+    },
+    {
+      "surface": "בי",
+      "gloss": "a gare ni"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "masu neman ka"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T19:59:42.610253069Z",
+  "model": "glm-5.2"
+}

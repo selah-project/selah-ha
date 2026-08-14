@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma dukan gundumar ƴan Israʼila sun gũna kãra a kan Mosheh da a kan Aharon cikin jeji.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "sun gũna kãra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "gundumar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israʼila"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da a kan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "cikin jeji"
+    }
+  ],
+  "timestamp": "2026-08-12T00:51:04.859898262Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "An lalata ⟨את⟩ shafa, ƙasa ta yi makoki, domin an lalata ⟨את⟩ hatsi; sabbin inabi sun bushe, man zaitun ya gajiyu.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "an lalata"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "shafa"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "ta yi makoki"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "an lalata"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "hatsi"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "sun bushe"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "sabbin inabi"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "ya gajiyu"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "man zaitun"
+    }
+  ],
+  "timestamp": "2026-08-12T18:22:19.321434098Z",
+  "model": "glm-5.2"
+}

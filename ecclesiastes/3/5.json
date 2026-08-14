@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Lokaci ⟨don⟩ jefar da duwatsu, da lokaci ⟨don⟩ tattara duwatsu; lokaci ⟨don⟩ runguma, da lokaci ⟨don⟩ nisanci daga runguma.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "lokaci"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "jefar da"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "da lokaci"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "tattara"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "עת",
+      "gloss": "lokaci"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "runguma"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "da lokaci"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "nisanci"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "daga runguma"
+    }
+  ],
+  "timestamp": "2026-08-12T22:40:59.130361201Z",
+  "model": "glm-5.2"
+}

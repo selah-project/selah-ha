@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Sai Avimelekh ya tafi Tevetz, ya sansa Tevetz, kuma ya kama ⟨ta⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Sai ya tafi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Tevetz"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "ya sansa"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "Tevetz"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "ya kama ta"
+    }
+  ],
+  "timestamp": "2026-08-12T07:43:33.923002084Z",
+  "model": "glm-5.2"
+}

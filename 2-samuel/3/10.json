@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "don cire mulkin daga gidan Shaul, da kuma tsayar da ⟨את⟩ kujerar Dawida a kan Yisra'el da a kan Yehudah, daga Dan har zuwa Be'er-Sheva.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "don cire"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mulkin"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "daga gidan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "da kuma tsayar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kujerar"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kujerar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da a kan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "daga Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-08-12T09:49:51.166568980Z",
+  "model": "glm-5.2"
+}

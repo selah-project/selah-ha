@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma ya tishi a bayansa Yair, ɗan Gilead, kuma ya yi shari'a ⟨את⟩ Yisra'el shekara ashirin da biyu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Kuma ya tishi"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "a bayansa"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "ɗan Gilead"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "kuma ya yi shari'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "da biyu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    }
+  ],
+  "timestamp": "2026-08-12T07:47:28.965048635Z",
+  "model": "glm-5.2"
+}

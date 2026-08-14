@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 108,
+  "translation": "A ɗaukaka, Elohim, sama; kuma girman ka sama duka ƙasa.",
+  "tokens": [
+    {
+      "surface": "ר֣וּמָה",
+      "gloss": "a ɗaukaka"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sama"
+    },
+    {
+      "surface": "שָׁמַ֣יִם",
+      "gloss": "sama"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וְעַ֖ל",
+      "gloss": "kuma sama"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "הָאָ֣רֶץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "כְּבוֹדֶֽךָ",
+      "gloss": "girman ka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:27:20.831073133Z",
+  "model": "glm-5.2"
+}

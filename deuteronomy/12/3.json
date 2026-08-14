@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Ku ruguje ⟨את⟩ bagadansu, ku yi tarkace ⟨את⟩ mazaɓansu, asherai su ku ƙone da wuta, siffõkin elohe su ku yanke, ku halaka ⟨את⟩ sunansu daga wannan wuri.",
+  "tokens": [
+    {
+      "surface": "ונתצתם",
+      "gloss": "ku ruguje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagadansu"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "bagadansu"
+    },
+    {
+      "surface": "ושברתם",
+      "gloss": "ku yi tarkace"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazaɓansu"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "mazaɓansu"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "asherai su"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "ku ƙone"
+    },
+    {
+      "surface": "באש",
+      "gloss": "da wuta"
+    },
+    {
+      "surface": "ופסילי",
+      "gloss": "siffõkin"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "elohe su"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "ku yanke"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "ku halaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunansu"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "sunansu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "wannan wuri"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wancan"
+    }
+  ],
+  "timestamp": "2026-08-12T05:13:25.439092586Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Yahweh zai aika a kai ⟨את⟩ la'anar, ⟨את⟩ rugujewar, da ⟨את⟩ tursasa, a duk abin da hannunka ya aika gaba ⟨da⟩ shi, wanda za ka yi, har aka lalata ka kuma aka hallaka ka da gaggawa, saboda munin ayyukanka, da ka bar Ni.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "zai aika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בך",
+      "gloss": "a kai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la'anar"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "la'anar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rugujewar"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "rugujewar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "tursasa"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "tursasa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "abin da...ya aika gaba"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hannunka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "za ka yi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "aka lalata ka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kuma har"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "aka hallaka ka"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "da gaggawa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "רע",
+      "gloss": "munin"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "ayyukanka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "ka bar Ni"
+    }
+  ],
+  "timestamp": "2026-08-13T01:54:41.334910744Z",
+  "model": "glm-5.2"
+}

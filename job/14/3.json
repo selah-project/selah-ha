@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Ashe, a kan wannan ⟨ne⟩ ka buɗe idananka, kuma ⟨את⟩ ni kai za ka kawo ⟨cikin⟩ shari'a tare da kai?",
+  "tokens": [
+    {
+      "surface": "אַף",
+      "gloss": "ashe"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "זֶ֭ה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "פָּקַ֣חְתָּ",
+      "gloss": "ka buɗe"
+    },
+    {
+      "surface": "עֵינֶ֑ךָ",
+      "gloss": "idananka"
+    },
+    {
+      "surface": "וְאֹ֘תִ֤י",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "תָבִ֖יא",
+      "gloss": "kai za ka kawo"
+    },
+    {
+      "surface": "בְמִשְׁפָּ֣ט",
+      "gloss": "cikin shari'a"
+    },
+    {
+      "surface": "עִמָּֽךְ",
+      "gloss": "tare da kai"
+    }
+  ],
+  "timestamp": "2026-08-12T21:51:31.039494045Z",
+  "model": "glm-5.2"
+}

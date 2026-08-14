@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Ka gwuce zuciyata, ka bishe ni da dare, ka tsare ni, ba ka sami ⟨komai⟩ ba; ni na yi niyyar ba bakina ya ketara.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Ka gwuce"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "ka bishe ni"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "da dare"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "ka tsare ni"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ka sami"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "komai"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ya ketara"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bakina"
+    }
+  ],
+  "timestamp": "2026-08-12T19:22:47.703457776Z",
+  "model": "glm-5.2"
+}

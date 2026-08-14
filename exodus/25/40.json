@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma ka duba, ka yi, bisa tsarin su, wanda ake nuna maka ⟨a⟩ cikin dutsen.",
+  "tokens": [
+    {
+      "surface": "וּרְאֵ֖ה",
+      "gloss": "kuma ka duba"
+    },
+    {
+      "surface": "וַעֲשֵׂ֑ה",
+      "gloss": "ka yi"
+    },
+    {
+      "surface": "בְּתַבְנִיתָ֔ם",
+      "gloss": "bisa tsarin su"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "אַתָּ֖ה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מָרְאֶ֥ה",
+      "gloss": "ake nuna maka"
+    },
+    {
+      "surface": "בָּהָֽר",
+      "gloss": "a cikin dutsen"
+    }
+  ],
+  "timestamp": "2026-08-12T01:07:14.814150359Z",
+  "model": "glm-5.2"
+}

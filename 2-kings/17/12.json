@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma suka bauta wa gillulim, waɗanda Yahweh ya ce musu, 'Kada ku aikata ⟨את⟩ wannan abu.'",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "suka bauta wa"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "gillulim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ku aikata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan abu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "abu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-12T12:31:05.695801053Z",
+  "model": "glm-5.2"
+}

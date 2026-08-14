@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 109,
+  "translation": "A madadin kaunata sun zẽni ni, amma ni ina addu'a.",
+  "tokens": [
+    {
+      "surface": "תַּֽחַת",
+      "gloss": "A madadin"
+    },
+    {
+      "surface": "אַהֲבָתִ֥י",
+      "gloss": "kaunata"
+    },
+    {
+      "surface": "יִשְׂטְנ֗וּנִי",
+      "gloss": "sun zẽni ni"
+    },
+    {
+      "surface": "וַאֲנִ֥י",
+      "gloss": "amma ni"
+    },
+    {
+      "surface": "תְּפִלָּֽה",
+      "gloss": "ina addu'a"
+    }
+  ],
+  "timestamp": "2026-08-12T20:36:55.128452339Z",
+  "model": "glm-5.2"
+}

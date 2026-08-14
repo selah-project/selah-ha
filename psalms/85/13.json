@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 85,
+  "translation": "Haka Yahweh zai ba ⟨da⟩ abin da ⟨ya⟩ kyau, kuma ƙasarmu za ta bada amfaninta.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "Haka"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יִתֵּ֣ן",
+      "gloss": "zai ba"
+    },
+    {
+      "surface": "הַטּ֑וֹב",
+      "gloss": "abin da ⟨ya⟩ kyau"
+    },
+    {
+      "surface": "וְ֝אַרְצֵ֗נוּ",
+      "gloss": "kuma ƙasarmu"
+    },
+    {
+      "surface": "תִּתֵּ֥ן",
+      "gloss": "za ta bada"
+    },
+    {
+      "surface": "יְבוּלָֽהּ",
+      "gloss": "amfaninta"
+    }
+  ],
+  "timestamp": "2026-08-12T20:14:10.850044167Z",
+  "model": "glm-5.2"
+}

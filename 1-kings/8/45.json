@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "kuma ka saurāra a cikin sama ⟨את⟩ addu'arsu da ⟨את⟩ roƙonsu, kuma ka yi shari'arsu.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "kuma ka saurāra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "a cikin sama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "addu'arsu"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "addu'arsu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "roƙonsu"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "roƙonsu"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "kuma ka yi"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "shari'arsu"
+    }
+  ],
+  "timestamp": "2026-08-12T11:14:27.082255733Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Kuma ⟨ya yi⟩ ⟨את⟩ ⟨miɡiyoyin⟩ itacen Mazaɓin; ⟨miɡiyoyin⟩ itacen ashirin ga sashen kudu yamma.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ⟨ya yi⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨miɡiyoyin⟩ itacen"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "⟨miɡiyoyin⟩ itacen"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mazaɓin"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "⟨miɡiyoyin⟩ itacen"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ga sashen"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "kudu"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "yamma"
+    }
+  ],
+  "timestamp": "2026-08-12T01:31:49.559837952Z",
+  "model": "glm-5.2"
+}

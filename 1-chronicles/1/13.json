@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma Kenaʿan ya haifa ⟨אַת⟩ Tsiydon ɗanɗanƙensa, ⟨את⟩ da ⟨אַת⟩ Het.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Kuma Kenaʿan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨אַת⟩",
+      "marks": "Tsiydon"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsiydon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ɗanɗanƙensa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ da ⟨אַת⟩",
+      "marks": "Het"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    }
+  ],
+  "timestamp": "2026-08-12T23:54:52.905919149Z",
+  "model": "glm-5.2"
+}

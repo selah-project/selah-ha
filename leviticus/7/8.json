@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma babban faston da ya ke gabatar da ⟨את⟩ hadayar konawa ta mutum, fatar hadayar konawar da ya gabarta, ga babban faston nasa ⟨za⟩ ⟨ya⟩ kasance.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "kuma babban faston"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "da ya ke gabatar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadayar konawa"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "hadayar konawa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ta mutum"
+    },
+    {
+      "surface": "עור",
+      "gloss": "fatar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "hadayar konawar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "ya gabarta"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ga babban faston"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nasa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨za⟩ ⟨ya⟩ kasance"
+    }
+  ],
+  "timestamp": "2026-08-12T01:54:43.278032049Z",
+  "model": "glm-5.2"
+}

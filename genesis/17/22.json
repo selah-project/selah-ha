@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma ya ƙare yin magana ⟨da⟩ ⟨את⟩ shi, sai Elohim ya hawa daga wajen Avraham.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ya ƙare"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "yin magana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "sai ya hawa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "daga wajen"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-08-11T23:35:48.003710211Z",
+  "model": "glm-5.2"
+}

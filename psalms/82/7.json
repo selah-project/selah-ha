@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 82,
+  "translation": "Lalle kamar mutum za ku mutu, kuma kamar ɗaya daga cikin shugabanni za ku fado.",
+  "tokens": [
+    {
+      "surface": "אָ֭כֵן",
+      "gloss": "lalle"
+    },
+    {
+      "surface": "כְּאָדָ֣ם",
+      "gloss": "kamar mutum"
+    },
+    {
+      "surface": "תְּמוּת֑וּן",
+      "gloss": "za ku mutu"
+    },
+    {
+      "surface": "וּכְאַחַ֖ד",
+      "gloss": "kuma kamar ɗaya"
+    },
+    {
+      "surface": "הַשָּׂרִ֣ים",
+      "gloss": "shugabanni"
+    },
+    {
+      "surface": "תִּפֹּֽלוּ",
+      "gloss": "za ku fado"
+    }
+  ],
+  "timestamp": "2026-08-12T20:13:29.426117818Z",
+  "model": "glm-5.2"
+}

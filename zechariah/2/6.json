@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Sai na ce: \"Ina kake tafiya?\" Kuma ya ce mini: \"Don auna ⟨את⟩ Yerushalaim, don ganin nawa faɗinta da nawa tsawonta.\"",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "sai na ce"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ina"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ke tafiya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mini"
+    },
+    {
+      "surface": "למד",
+      "gloss": "don auna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "don ganin"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "nawa"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "faɗinta"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "da nawa"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "tsawonta"
+    }
+  ],
+  "timestamp": "2026-08-12T19:00:28.281576218Z",
+  "model": "glm-5.2"
+}

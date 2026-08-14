@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 11:4",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma a shekara ta bakwai, Yehoyada ya aiko, ya dauki ⟨את⟩ shugabannin ɗaruruwa, na Kerawa da na gadi, ya kawo ⟨את⟩ su wurinsa, a cikin bayitin Yahweh, ya yi ⟨ne⟩ alkawari da su, ya rantsu da ⟨את⟩ su a cikin bayitin Yahweh, ya nuna musu ⟨את⟩ ɗan sarki.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Kuma a shekara"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "ta bakwai"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ya aiko"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ya dauki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shugabannin ɗaruruwa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "shugabannin"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "ɗaruruwa"
+    },
+    {
+      "surface": "לכרי",
+      "gloss": "na Kerawa"
+    },
+    {
+      "surface": "ולרצים",
+      "gloss": "da na gadi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ya kawo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ su",
+      "marks": "wurinsa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "wurinsa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a cikin bayitin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨ne⟩ da su"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alkawari"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ya rantsu da"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ su",
+      "marks": "a cikin bayitin"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a cikin bayitin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ya nuna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨ne⟩ musu",
+      "marks": "ɗan sarki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗan sarki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    }
+  ],
+  "timestamp": "2026-08-12T12:18:44.019953348Z",
+  "model": "glm-5.2"
+}

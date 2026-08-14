@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Duba maƙiyana, domin sun yawaita, kuma ƙin jinin tashin hankali sun ƙi ni.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "duba"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "maƙiyana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "sun yawaita"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "kuma ƙin jinin"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tashin hankali"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "sun ƙi ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:29:57.826865387Z",
+  "model": "glm-5.2"
+}

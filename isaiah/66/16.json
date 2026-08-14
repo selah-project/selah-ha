@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 66,
+  "translation": "Domin a cikin wuta Yahweh Zai yi shari'a, kuma da takobinsa ⟨את⟩ duka ⟨את⟩ jiki, kuma za su yawaita waɗanda Yahweh ya ciyar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "באש",
+      "gloss": "a cikin wuta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "Zai yi shari'a"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "kuma da takobinsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "jiki"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "kuma za su yawaita"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "waɗanda aka ciyar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T14:49:06.274409853Z",
+  "model": "glm-5.2"
+}

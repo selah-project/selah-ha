@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 104,
+  "translation": "Dukansu suna girmamawa zuwa gare ka, don ka bã musu abinci a cikin lokacinsa.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Dukansu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zuwa gare ka"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "suna girmamawa"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "don ka bã"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "musu abinci"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "a cikin lokacinsa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:58.883550517Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "da ⟨את⟩ Kedemot da ⟨את⟩ makiyayanta, da ⟨את⟩ Mefa'at da ⟨את⟩ makiyayanta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨da⟩ ⟨את⟩",
+      "marks": "Kedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨da⟩ ⟨את⟩",
+      "marks": "makiyayanta"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "makiyayanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨da⟩ ⟨את⟩",
+      "marks": "Mefa'at"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefa'at"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨da⟩ ⟨את⟩",
+      "marks": "makiyayanta"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "makiyayanta"
+    }
+  ],
+  "timestamp": "2026-08-13T00:05:06.732376740Z",
+  "model": "glm-5.2"
+}

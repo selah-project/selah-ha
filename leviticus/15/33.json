@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 15:33",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma ⟨ta⟩ mai jinin haila a cikin hailarta, kuma ⟨ta⟩ mai zubi ⟨את⟩ zubinsa, ga namiji da ga mace, da kuma ga mutumin da yake kwana da ⟨wata⟩ mai ba'a.",
+  "tokens": [
+    {
+      "surface": "וְהַדָּוָה",
+      "gloss": "Kuma ⟨ta⟩ mai jinin haila"
+    },
+    {
+      "surface": "בְּנִדָּתָהּ",
+      "gloss": "a cikin hailarta"
+    },
+    {
+      "surface": "וְהַזָּב",
+      "gloss": "kuma ⟨ta⟩ mai zubi"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "zubinsa"
+    },
+    {
+      "surface": "זוֹבוֹ",
+      "gloss": "zubinsa"
+    },
+    {
+      "surface": "לַזָּכָר",
+      "gloss": "ga namiji"
+    },
+    {
+      "surface": "וְלַנְּקֵבָה",
+      "gloss": "da ga mace"
+    },
+    {
+      "surface": "וּלְאִישׁ",
+      "gloss": "da kuma ga mutumin"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יִשְׁכַּב",
+      "gloss": "yake kwana"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "da"
+    },
+    {
+      "surface": "טְמֵאָה",
+      "gloss": "⟨wata⟩ mai ba'a"
+    }
+  ],
+  "timestamp": "2026-08-12T02:21:31.439550180Z",
+  "model": "glm-5.2"
+}

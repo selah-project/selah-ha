@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "maƙatanina suna faɗa ⟨ce⟩: \"mugun ⟨abu⟩ a gare ni; yaushe zai mutu kuma sunansa ya ɓace?\"",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "maƙatanina"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "suna faɗa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mugun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a gare ni"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "yaushe"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zai mutu"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "kuma ya ɓace"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:43:28.544406129Z",
+  "model": "glm-5.2"
+}

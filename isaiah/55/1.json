@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 55,
+  "translation": "Haa! Kowane mai ƙishirruwa, ku zo ruwa, kuma wanda bai saɓa babu ⟨ko da kobo⟩, ku zo, ku sayi ⟨abinci⟩, ku ci, kuma ku zo, ku sayi ⟨abinci⟩ ba tare da azurfa ba kuma ba tare da farashi ba giya da madara.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Haa!"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Kowane"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "mai ƙishirruwa"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ku zo"
+    },
+    {
+      "surface": "למים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kuma wanda"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bai saɓa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "babu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "azurfa"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ku zo"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ku sayi"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ku ci"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "kuma ku zo"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ku sayi"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "ba tare da"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "azurfa"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "kuma ba tare da"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "farashi"
+    },
+    {
+      "surface": "יין",
+      "gloss": "giya"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "madara"
+    }
+  ],
+  "timestamp": "2026-08-13T02:10:45.030613039Z",
+  "model": "glm-5.2"
+}

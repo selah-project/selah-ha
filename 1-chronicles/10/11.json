@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma duka Yavesh Gilad sun ji ⟨game da⟩ ⟨את⟩ duka abin da Filisiti suka yi wa Shaul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Kuma sun ji"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filisiti"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "wa Shaul"
+    }
+  ],
+  "timestamp": "2026-08-13T00:10:00.792034326Z",
+  "model": "glm-5.2"
+}

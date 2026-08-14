@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma Shelomah ya gina ⟨את⟩ Gezer da ⟨את⟩ Bet-Choron ƙarama.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Kuma ya gina"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "ƙarama"
+    }
+  ],
+  "timestamp": "2026-08-12T11:13:56.506491106Z",
+  "model": "glm-5.2"
+}

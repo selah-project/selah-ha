@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma na faɗa, zan tada ku daga cikin wahalar Mitsrayim, zuwa ƙasar Kena'ani, da Ḥitti, da Emori, da Perizzi, da Ḥiwwi, da Yevusi, zuwa ƙasar da ke gudan da nono da zuma.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "kuma na faɗa"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "zan tada"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku",
+      "marks": "ku"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "daga cikin wahala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kena'ani"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "da Ḥitti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "da Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "da Perizzi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "da Ḥiwwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "da Yevusi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "da ke gudan"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "nono"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "da zuma"
+    }
+  ],
+  "timestamp": "2026-08-12T00:35:17.669090764Z",
+  "model": "glm-5.2"
+}

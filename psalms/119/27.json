@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 119:27",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Ka sa ni fahimtar hanyar dokõinka, ni kuma zan yi tunani a cikin abin al'ajabinka.",
+  "tokens": [
+    {
+      "surface": "דֶּֽרֶךְ",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "פִּקּוּדֶ֥יךָ",
+      "gloss": "dokõinka"
+    },
+    {
+      "surface": "הֲבִינֵ֑נִי",
+      "gloss": "ka sa ni fahimta"
+    },
+    {
+      "surface": "וְאָשִׂ֗יחָה",
+      "gloss": "kuma zan yi tunani"
+    },
+    {
+      "surface": "בְּנִפְלְאוֹתֶֽיךָ",
+      "gloss": "a cikin abin al'ajabanka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:41:27.741674710Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 49:2",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "\"Ku taru kuma ku saurari, 'ya'yan Ya'akob; kuma ku saurari Yisra'el ubanku.\"",
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "ku taru"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "kuma ku saurari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya'yan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akob"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "kuma ku saurari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "ubanku"
+    }
+  ],
+  "timestamp": "2026-08-12T00:26:49.890710829Z",
+  "model": "glm-5.2"
+}

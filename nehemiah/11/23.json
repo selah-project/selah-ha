@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 11:23",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Gama umarnin sarki ⟨yana⟩ a kansu, kuma rabon abinci ⟨yana⟩ a kan mawaka, al'amari na rana a rana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gama"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "umarnin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "a kansu"
+    },
+    {
+      "surface": "ואמנה",
+      "gloss": "kuma rabon abinci"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "mawaka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "al'amari"
+    },
+    {
+      "surface": "יום",
+      "gloss": "na rana"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "a rana"
+    }
+  ],
+  "timestamp": "2026-08-12T23:52:26.104417918Z",
+  "model": "glm-5.2"
+}

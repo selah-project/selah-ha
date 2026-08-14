@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 115,
+  "translation": "Kunnuwa suna ⟨da su⟩, amma ba sa ji; hanci suna ⟨da shi⟩, amma ba su warin sawa.",
+  "tokens": [
+    {
+      "surface": "אָזְנַ֣יִם",
+      "gloss": "kunnuwa"
+    },
+    {
+      "surface": "לָ֭הֶם",
+      "gloss": "suna da su"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "יִשְׁמָ֑עוּ",
+      "gloss": "sa ji"
+    },
+    {
+      "surface": "אַ֥ף",
+      "gloss": "hanci"
+    },
+    {
+      "surface": "לָ֝הֶ֗ם",
+      "gloss": "suna da shi"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "יְרִיחֽוּן",
+      "gloss": "su warin sawa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:37:43.495270171Z",
+  "model": "glm-5.2"
+}

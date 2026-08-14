@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma ya rushe ⟨את⟩ gidan, ⟨את⟩ duwatsunsa da ⟨את⟩ itacen-sa da ⟨את⟩ dukan ƙura ta gida, kuma ya fitar da ⟨wannan⟩ wajen birni zuwa wuri marar-tsarki.",
+  "tokens": [
+    {
+      "surface": "וְנָתַ֣ץ",
+      "gloss": "kuma ya rushe"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "gidan"
+    },
+    {
+      "surface": "הַבַּ֗יִת",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "duwatsunsa"
+    },
+    {
+      "surface": "אֲבָנָיו֙",
+      "gloss": "duwatsunsa"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "da ⟨את⟩",
+      "marks": "itacen-sa"
+    },
+    {
+      "surface": "עֵצָ֔יו",
+      "gloss": "itacen-sa"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukan"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "עֲפַ֣ר",
+      "gloss": "ƙura"
+    },
+    {
+      "surface": "הַבָּ֑יִת",
+      "gloss": "ta gida"
+    },
+    {
+      "surface": "וְהוֹצִיא֙",
+      "gloss": "kuma ya fitar da"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מִח֣וּץ",
+      "gloss": "wajen"
+    },
+    {
+      "surface": "לָעִ֔יר",
+      "gloss": "birni"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מָק֖וֹם",
+      "gloss": "wuri"
+    },
+    {
+      "surface": "טָמֵֽא",
+      "gloss": "marar-tsarki"
+    }
+  ],
+  "timestamp": "2026-08-12T02:21:15.133074843Z",
+  "model": "glm-5.2"
+}

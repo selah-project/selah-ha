@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 62,
+  "translation": "Shi kadai ⟨ne⟩ dutsena da tsirata, katangar nishaɗi ta, ba za a gushe ni da yawa ba.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kadai"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Shi"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "dutsena"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "da tsirata,"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "katangar nishaɗi ta,"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba za a"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "gushe ni"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "da yawa ba"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:09.635275101Z",
+  "model": "glm-5.2"
+}

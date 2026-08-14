@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 121,
+  "translation": "Waƙa ta hawa. Ina ɗaukar idanuwana zuwa tsaunuka, daga ina taimakona zai ⟨zo⟩?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Waƙa"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "ta hawa"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "Ina ɗaukar"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "idanuwana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "tsaunuka"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "daga ina"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "zai ⟨zo⟩"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "taimakona"
+    }
+  ],
+  "timestamp": "2026-08-12T20:47:06.619505632Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 2:15",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "‘Ya’yan Adin, ɗari huɗu da hamsin da huɗu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "‘ya’yan"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "Adin"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "huɗu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "hamsin"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "da huɗu"
+    }
+  ],
+  "timestamp": "2026-08-12T23:20:41.005653803Z",
+  "model": "glm-5.2"
+}

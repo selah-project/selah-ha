@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Ta yi makoki, ƙasa ta ɓaci, Levanon ya ji kunya, ya bushewa, ⟨ya zama⟩ Sharom kamar jeji, kuma Bashan da Karmel sun ɓaci.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "ta yi makoki"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "ta ɓaci"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "ya ji kunya"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Levanon"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "ya bushewa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ya zama"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Sharom"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "kamar jeji"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "kuma sun ɓaci"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "da Karmel"
+    }
+  ],
+  "timestamp": "2026-08-12T13:42:56.630822875Z",
+  "model": "glm-5.2"
+}

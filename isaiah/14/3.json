@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 14:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma zai faru a ranan da Yahweh zai ba ka huta daga ciwonka, da kuma tashin hankalinka, da kuma daga bautar wadda aka yi miki, mummunar bautar",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kuma zai faru"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a ranan"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "da zai ba huta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מעצבך",
+      "gloss": "daga ciwonka"
+    },
+    {
+      "surface": "ומרגזך",
+      "gloss": "da kuma tashin hankalinka"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "da kuma daga"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "bautar"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "mummunar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wadda"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "aka yi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "miki"
+    }
+  ],
+  "timestamp": "2026-08-12T13:18:47.605611935Z",
+  "model": "glm-5.2"
+}

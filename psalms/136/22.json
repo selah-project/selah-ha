@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 136,
+  "translation": "gado ga Yisra'el bawan ⟨Shi⟩, domin har abada chesed ⟨nasa⟩.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "gado"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ga Yisra'el"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "bawan ⟨Shi⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed ⟨nasa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:52:28.491398446Z",
+  "model": "glm-5.2"
+}

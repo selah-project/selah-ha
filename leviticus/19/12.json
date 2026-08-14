@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma kada ku rantsu da sunana na ƙarya, kuma ba za ka gurbata ⟨את⟩ sunan Elohiminka ba; ni ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "Kuma kada"
+    },
+    {
+      "surface": "תִשָּׁבְע֥וּ",
+      "gloss": "ku rantsu"
+    },
+    {
+      "surface": "בִשְׁמִ֖י",
+      "gloss": "da sunana"
+    },
+    {
+      "surface": "לַשָּׁ֑קֶר",
+      "gloss": "na ƙarya"
+    },
+    {
+      "surface": "וְחִלַּלְתָּ֛",
+      "gloss": "kuma ba za ka gurbata"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sunan"
+    },
+    {
+      "surface": "שֵׁ֥ם",
+      "gloss": "sunan"
+    },
+    {
+      "surface": "אֱלֹהֶ֖יךָ",
+      "gloss": "Elohiminka"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "ni ni"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T02:25:30.364574751Z",
+  "model": "glm-5.2"
+}

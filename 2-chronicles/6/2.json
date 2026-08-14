@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma ni na gina ⟨gida⟩ na zama ⟨don⟩ kai, da wuri na zaunarwar ka har abadai.",
+  "tokens": [
+    {
+      "surface": "וַֽאֲנִ֛י",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "בָּנִ֥יתִי",
+      "gloss": "na gina"
+    },
+    {
+      "surface": "בֵית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "זְבֻ֖ל",
+      "gloss": "na zama"
+    },
+    {
+      "surface": "לָ֑ךְ",
+      "gloss": "don kai"
+    },
+    {
+      "surface": "וּמָכ֥וֹן",
+      "gloss": "da wuri"
+    },
+    {
+      "surface": "לְשִׁבְתְּךָ֖",
+      "gloss": "na zaunarwar ka"
+    },
+    {
+      "surface": "עוֹלָמִֽים",
+      "gloss": "har abadai"
+    }
+  ],
+  "timestamp": "2026-08-13T02:41:08.014160204Z",
+  "model": "glm-5.2"
+}

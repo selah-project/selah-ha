@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 137,
+  "translation": "A kan itatuwa na bãkwai a tsakiyarta muka dakatar da kayan kida na mu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "A kan"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "itatuwa na bãkwai"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "a tsakiyarta"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "muka dakatar da"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "kayan kida na mu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:56:06.166988904Z",
+  "model": "glm-5.2"
+}

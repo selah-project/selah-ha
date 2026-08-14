@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma jama'a suka amsa suka faɗa: Tsira mu, ⟨daga⟩ barin ⟨את⟩ Yahweh, don yi wa wasu abin bauta bauta!",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "suka amsa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "suka faɗa"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Tsira mu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "daga barin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "don yi wa… bauta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "abin bauta"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wasu"
+    }
+  ],
+  "timestamp": "2026-08-13T03:04:33.145187506Z",
+  "model": "glm-5.2"
+}

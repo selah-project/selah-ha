@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Yahweh ⟨yana⟩ a cikin haikalinsa mai tsarki, Yahweh ⟨yana⟩ a cikin sama ⟨ne⟩ matsayin karagarSa, idanunSa suna kallona, gashin idanunSa yana gwada ⟨ta⟩ 'ya'yan adam.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "a cikin haikali"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "mai tsarki nSa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "a cikin sama"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "karagarSa"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "idanunSa"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "suna kallona"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "gashin idanunSa"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "yana gwada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "na mutane"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-08-12T19:22:25.316575011Z",
+  "model": "glm-5.2"
+}

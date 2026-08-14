@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 3:26",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "da allunan shinge na cibiya, da ⟨את⟩ shingen ƙofar cibiyar, wanda yana akan Mafaka da akan bagad a kewaye, da ⟨את⟩ igiyoyin sa, ga dukkan aikin sa.",
+  "tokens": [
+    {
+      "surface": "וקלעי",
+      "gloss": "da allunan shinge"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "na cibiya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shingen"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "shingen"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ƙofar"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "cibiyar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "yana akan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mafaka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da akan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bagad"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewaye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "igiyoyin sa"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "igiyoyin sa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ga dukkan"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "aikin sa"
+    }
+  ],
+  "timestamp": "2026-08-12T03:17:15.892413908Z",
+  "model": "glm-5.2"
+}

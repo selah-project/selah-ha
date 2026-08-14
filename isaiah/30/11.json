@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 30:11",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Ku nesa daga hanya, ku karkata daga hanyar fita, ku sa tsayawa daga gabanmu ⟨את⟩ Tsarkin Isra'ila.",
+  "tokens": [
+    {
+      "surface": "ס֚וּרוּ",
+      "gloss": "Ku nesa"
+    },
+    {
+      "surface": "מִנֵּי",
+      "gloss": "daga"
+    },
+    {
+      "surface": "דֶ֔רֶךְ",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "הַטּ֖וּ",
+      "gloss": "Ku karkata"
+    },
+    {
+      "surface": "מִנֵּי",
+      "gloss": "daga"
+    },
+    {
+      "surface": "אֹ֑רַח",
+      "gloss": "hanyar fita"
+    },
+    {
+      "surface": "הַשְׁבִּ֥יתוּ",
+      "gloss": "Ku sa tsayawa"
+    },
+    {
+      "surface": "מִפָּנֵ֖ינוּ",
+      "gloss": "daga gabanmu"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsarkin"
+    },
+    {
+      "surface": "קְד֥וֹשׁ",
+      "gloss": "Tsarkin"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T13:43:41.901264706Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 11:12",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma zai ɗauƙa alama ga al'ummai, kuma zai tattara waɗanda aka kora na Yisra'el, kuma waɗanda aka watse na Yehuda zai kwantar, daga fuka-fukai huɗu na ƙasar.",
+  "tokens": [
+    {
+      "surface": "וְנָשָׂ֥א",
+      "gloss": "kuma zai ɗauƙa"
+    },
+    {
+      "surface": "נֵס֙",
+      "gloss": "alama"
+    },
+    {
+      "surface": "לַגּוֹיִ֔ם",
+      "gloss": "ga al'ummai"
+    },
+    {
+      "surface": "וְאָסַ֖ף",
+      "gloss": "kuma zai tattara"
+    },
+    {
+      "surface": "נִדְחֵ֣י",
+      "gloss": "waɗanda aka kora"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "na Yisra'el"
+    },
+    {
+      "surface": "וּנְפֻצ֤וֹת",
+      "gloss": "kuma waɗanda aka watse"
+    },
+    {
+      "surface": "יְהוּדָה֙",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "יְקַבֵּ֔ץ",
+      "gloss": "zai kwantar"
+    },
+    {
+      "surface": "מֵאַרְבַּ֖ע",
+      "gloss": "daga huɗu"
+    },
+    {
+      "surface": "כַּנְפ֥וֹת",
+      "gloss": "fuka-fukai"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "na ƙasar"
+    }
+  ],
+  "timestamp": "2026-08-12T13:14:57.581583712Z",
+  "model": "glm-5.2"
+}

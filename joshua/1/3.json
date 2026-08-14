@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Duk wani wuri da ƙafar ƙafānku za ta taka, gare ku nī ya bā shi, kamar yadda nīka faɗa wa Moshe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Duk"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "wani wuri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "za ta taka"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ƙafar"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "ƙafānku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨a cikinsa⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "gare ku"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "nī ya bā shi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nīka faɗa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-12T06:06:33.336686781Z",
+  "model": "glm-5.2"
+}

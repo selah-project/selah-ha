@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 136,
+  "translation": "kuma ya gamble Paroh da ⟨את⟩ rundanarsa a Tekun Reje, domin har abada chesed ⟨na⟩ sa.",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "kuma ya gamble"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "da rundanarsa"
+    },
+    {
+      "surface": "בים",
+      "gloss": "a Teku"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Reje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesd ⟨na⟩ sa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:52:37.991013218Z",
+  "model": "glm-5.2"
+}

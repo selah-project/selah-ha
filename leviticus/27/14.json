@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 27:14",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma mutum idan ya keɓance ⟨את⟩ gidansa a matsayin tsarkaka ga Yahweh, malami ya kimanta ⟨shi⟩, tsakanin mai kyau da tsakanin mummūna; kamar yadda malami ya kimanta ⟨את⟩ ⟨shi⟩, haka za ya tsaya.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Kuma mutum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "idan"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "ya keɓance"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidansa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gidansa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "a matsayin tsarkaka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "והעריכו",
+      "gloss": "ya kimanta ⟨shi⟩"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "malami"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da tsakanin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mummūna"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "יעריך",
+      "gloss": "ya kimanta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "malami"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "malami"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "za ya tsaya"
+    }
+  ],
+  "timestamp": "2026-08-12T03:04:32.943411350Z",
+  "model": "glm-5.2"
+}

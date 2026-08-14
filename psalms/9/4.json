@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "A cikin mayar da maƙiyana baya, suna fadowa suna ta daƙile, kuma suna ɓacewa daga gabanka.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "A cikin mayar da"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "maƙiyana"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "baya"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "suna fadowa suna ta daƙile"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "kuma suna ɓacewa"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "daga gabanka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:21:25.140593624Z",
+  "model": "glm-5.2"
+}

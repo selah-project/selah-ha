@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Tsawon kwanaki bakwai za ka ci burodi marasa yisti, kuma a rana ta bakwai ⟨akwai⟩ biki ga Yahweh.",
+  "tokens": [
+    {
+      "surface": "שִׁבְעַ֥ת",
+      "gloss": "Tsawon"
+    },
+    {
+      "surface": "יָמִ֖ים",
+      "gloss": "kwanaki bakwai"
+    },
+    {
+      "surface": "תֹּאכַ֣ל",
+      "gloss": "za ka ci"
+    },
+    {
+      "surface": "מַצֹּ֑ת",
+      "gloss": "burodi marasa yisti"
+    },
+    {
+      "surface": "וּבַיּוֹם֙",
+      "gloss": "kuma a rana"
+    },
+    {
+      "surface": "הַשְּׁבִיעִ֔י",
+      "gloss": "ta bakwai"
+    },
+    {
+      "surface": "חַ֖ג",
+      "gloss": "⟨akwai⟩ biki"
+    },
+    {
+      "surface": "לַיהוָֽה",
+      "gloss": "ga Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T00:45:07.889414755Z",
+  "model": "glm-5.2"
+}

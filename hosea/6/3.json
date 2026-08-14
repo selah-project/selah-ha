@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Mu ci gaba da sani, mu nufa mu san ⟨את⟩ Yahweh; fitowar sa ⟨ta⟩ tabbatacce kamar alfijir, kuma zai zo mu kamar ruwan sama, kamar ruwan ƙarshen damina wanda ke shayarwa ⟨ƙasa⟩.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "mu ci gaba da sani"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "mu nufa"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "mu san"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "kamar alfijir"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "tabbatacce"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "fitowar sa"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "kuma zai zo"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "kamar ruwan sama"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "kamar ruwan ƙarshen damina"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "wanda ke shayarwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T18:12:03.097313833Z",
+  "model": "glm-5.2"
+}

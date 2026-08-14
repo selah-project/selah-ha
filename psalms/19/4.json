@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Babu magana, kuma babu kalmomi, ba tare da ji muryarsu ba ⟨ake yi⟩.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Babu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "magana"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "kalmomi"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ba tare da"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ji"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "muryarsu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:26:07.584729758Z",
+  "model": "glm-5.2"
+}

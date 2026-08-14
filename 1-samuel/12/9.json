@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma suka manta ⟨את⟩ Yahweh, Elohim nasu, Sai ya sayar da su ⟨a⟩ hannun Sisera, shugaban sojojin Chatsor, da ⟨a⟩ hannun Filistiyawa, da ⟨a⟩ hannun sarkin Moab, suka yi musu yaki.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "suka manta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim nasu"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "Sai ya sayar da su"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "suka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "a hannun"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sojojin"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatsor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "da a hannun"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiyawa"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "da a hannun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "suka yi yaki"
+    },
+    {
+      "surface": "בם",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-08-12T08:57:19.850573283Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 8:25",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ya ɗauki ⟨את⟩ kitsen da ⟨את⟩ wutsiyar kitsen, da ⟨את⟩ dukkan kitsen da yake a kan ⟨na⟩ ciki, da ⟨את⟩ ɓangaren hanta, da ⟨את⟩ ƙwayoyin fata biyu da ⟨את⟩ kitsensu, da ⟨את⟩ yafan ⟨na⟩ dama.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kuma ya ɗauka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kitsen"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "kitsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "wutsiyar kitsen"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "wutsiyar kitsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukkan kitsen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "kitsen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "על",
+      "gloss": "yake a kan"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ciki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ɓangaren hanta"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "ɓangaren"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "hanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙwayoyin fata biyu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ƙwayoyin fata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kitsensu"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "kitsensu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "yafan dama"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "yafan"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "dama"
+    }
+  ],
+  "timestamp": "2026-08-12T02:03:16.684976028Z",
+  "model": "glm-5.2"
+}

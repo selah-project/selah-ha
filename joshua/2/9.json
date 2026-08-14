@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 2:9",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma ⟨ta⟩ ce wa ⟨силнan maza⟩, \"Na sani cewa Yahweh ya ba ku ⟨את⟩ ƙasa, kuma cewa tsoratar ku ta faɗa a kan mu, kuma cewa duk mazaunan ƙasa sun narka saboda ku.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Kuma ⟨ta⟩ ce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "an maza"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "Na sani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "kuma cewa"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "ta faɗa"
+    },
+    {
+      "surface": "אימתכם",
+      "gloss": "tsoratar ku"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "a kan mu"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "kuma cewa"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "sun narka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "saboda ku"
+    }
+  ],
+  "timestamp": "2026-08-12T06:13:18.520164058Z",
+  "model": "glm-5.2"
+}

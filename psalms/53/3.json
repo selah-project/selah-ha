@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 53,
+  "translation": "Elohim daga sama ya yi ido a kan ƴaƴan adamām, don ya ga ko akwai mai hankali, wanda yake neman ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "daga sama"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "ya yi ido"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴaƴan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adamām"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "don ya ga"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ko akwai"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mai hankali"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "wanda yake neman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T19:51:41.827813060Z",
+  "model": "glm-5.2"
+}

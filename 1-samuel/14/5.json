@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Haƙori, daya, tsayi daga arewa a gaban Mikmash, kuma daya daga kudu a gaban Geba.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "Haƙori"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "daya"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "tsayi"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "daga arewa"
+    },
+    {
+      "surface": "מול",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikmash"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "kuma daya"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "daga kudu"
+    },
+    {
+      "surface": "מול",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    }
+  ],
+  "timestamp": "2026-08-12T08:56:26.590097800Z",
+  "model": "glm-5.2"
+}

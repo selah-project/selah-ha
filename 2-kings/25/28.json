@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 25:28",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma ya yi magana ⟨tare da⟩ shi abubuwa masu kyau, ya sanya ⟨את⟩ kujerarsa sama da kujerar sarakunan da ke ⟨tare da⟩ shi a Babil.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Kuma ya yi magana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨tare da⟩ shi"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "abubuwa masu kyau"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ya sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kujerarsa"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kujerarsa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sama da"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kujerar"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "sarakinan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da ke"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨tare da⟩ shi"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "a Babil"
+    }
+  ],
+  "timestamp": "2026-08-13T02:07:32.135201556Z",
+  "model": "glm-5.2"
+}

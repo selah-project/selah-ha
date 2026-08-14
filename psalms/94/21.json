@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 94,
+  "translation": "Suna yiwa ⟨את⟩ rai na mai adalci taro a kansa, kuma ⟨akan⟩ jini marar laifi za su ayyana mugunta.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "suna yiwa taro a kansa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rai"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mai adalci"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "kuma jini"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "marar laifi"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "za su ayyana mugunta"
+    }
+  ],
+  "timestamp": "2026-08-12T20:19:15.012588815Z",
+  "model": "glm-5.2"
+}

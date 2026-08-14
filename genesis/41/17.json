@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Sa'anan Paroh ya yi magana da Yosef ⟨ce⟩: A cikin mafarkina, ga ni, ina tsaye a kan gabarin kogin.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Sa'anan ya yi magana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "A cikin mafarkina"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ga ni"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ina tsaye"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "gabarin"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "kogin"
+    }
+  ],
+  "timestamp": "2026-08-12T00:12:41.192807465Z",
+  "model": "glm-5.2"
+}

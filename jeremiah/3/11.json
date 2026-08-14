@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 3:11",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma Yahweh Ya ce gare ni: \"Ta nata adalci ⟨ce⟩ Isra'ila mai juyayi, fiye da Yehuda mai yaudari.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma Ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ta nata adalci"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "⟨ta⟩"
+    },
+    {
+      "surface": "משבה",
+      "gloss": "mai juyayi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "מבגדה",
+      "gloss": "fiye da mai yaudari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-12T14:54:45.758474035Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Zan sanya mutum ya fi tsada da zinari na tsari, kuma ɗan adam ya fi kima da tsabin zinari na Ophir.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Zan sanya ... ya fi tsada"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "da zinari na tsari"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "kuma ɗan adam"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "da tsabin zinari"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "na Ophir"
+    }
+  ],
+  "timestamp": "2026-08-12T13:12:13.556436949Z",
+  "model": "glm-5.2"
+}

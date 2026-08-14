@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 4:17",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kamar masu gadin gona, sun kasance a kanta daga ko'ina, domin ⟨את⟩ ⟨a gare ni⟩ ta tayar da tawaye, maganar Yahweh.",
+  "tokens": [
+    {
+      "surface": "כשמרי",
+      "gloss": "Kamar masu gadin"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "gona"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sun kasance"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "a kanta"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "daga ko'ina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ⟨a gare ni⟩",
+      "marks": "tayar da tawaye"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "ta tayar da tawaye"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "maganar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T14:58:13.421845463Z",
+  "model": "glm-5.2"
+}

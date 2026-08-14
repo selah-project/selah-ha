@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Idãnun Yahweh sunã a kan mũƙtalai, kuma kunãnunsa a kan rawararsu.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "idãnun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sunã a kan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "mũƙtalai"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "kuma kunãnunsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "שועת׸",
+      "gloss": "rawararsu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:36:12.485618253Z",
+  "model": "glm-5.2"
+}

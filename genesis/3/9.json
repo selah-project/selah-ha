@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Sai Yahweh Elohim ya kira ⟨ga⟩ ha-adam, kuma ya ce masa, \"ina kake?\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Sai ya kira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ga⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ha-adam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "ina kake?"
+    }
+  ],
+  "timestamp": "2026-08-13T01:43:55.309786041Z",
+  "model": "glm-5.2"
+}

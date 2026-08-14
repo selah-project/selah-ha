@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma nā kasance cikakke tāre daShi, kuma nā tsāre ranka daga laifinā.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Kuma nā kasance"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "cikakke"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tāre daShi"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "kuma nā tsāre ranka"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "daga laifinā"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:35.470896952Z",
+  "model": "glm-5.2"
+}

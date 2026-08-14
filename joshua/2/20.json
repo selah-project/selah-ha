@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma idan ka faɗa ⟨את⟩ maganarmu wannan, sai mu kasance marasa laifi game da rantsuwar ka da ka ka rantsar da mu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "ka faɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maganarmu wannan"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "maganarmu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "sai mu kasance"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "marasa laifi"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "game da rantsuwar ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "ka ka rantsar da mu"
+    }
+  ],
+  "timestamp": "2026-08-12T06:14:46.506563191Z",
+  "model": "glm-5.2"
+}

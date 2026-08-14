@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma firistoci da Livityawa sun tsarkake kansu, su kuma suka tsarkake ⟨את⟩ mutãnen da ⟨את⟩ ƙofofin da ⟨את⟩ bango.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "kuma sun tsarkake"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "firistoci"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "da Livityawa"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "suka tsarkake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutãnen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙofofin"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ƙofofin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "bango"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-08-12T23:51:33.420315961Z",
+  "model": "glm-5.2"
+}

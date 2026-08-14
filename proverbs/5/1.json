@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 5:1",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Ɗana, zuwa ga hikīmata, ka ba da kunne, zuwa ga fahīmata, ka jingina kunne⟨ka⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ɗana"
+    },
+    {
+      "surface": "לחכמתי",
+      "gloss": "zuwa ga hikīmata"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "ka ba da kunne"
+    },
+    {
+      "surface": "לתבונתי",
+      "gloss": "zuwa ga fahīmata"
+    },
+    {
+      "surface": "הט",
+      "gloss": "ka jingina"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "kunne⟨ka⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T21:05:43.538553783Z",
+  "model": "glm-5.2"
+}

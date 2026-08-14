@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "domin ana bada shi ga masu aikin, kuma suka gyara da shi ⟨את⟩ gidan Yahweh.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לְעֹשֵׂ֥י",
+      "gloss": "ga masu aikin"
+    },
+    {
+      "surface": "הַמְּלָאכָ֖ה",
+      "gloss": ""
+    },
+    {
+      "surface": "יִתְּנֻ֑הוּ",
+      "gloss": "ana bada shi"
+    },
+    {
+      "surface": "וְחִזְּקוּ",
+      "gloss": "kuma suka gyara"
+    },
+    {
+      "surface": "ב֖וֹ",
+      "gloss": "da shi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "gidan"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-14T00:15:17.347986906Z",
+  "model": "glm-5.2"
+}

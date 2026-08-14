@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 5:7",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Ba za ku ƙara ba su bai wa mutanen bushasha don yin tubali, kamar jiya da jiya-gobe; su kewaye su su tafa su su tattara wa kansu bushasha.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "תאספון",
+      "gloss": "za ku ƙara"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "su bai wa"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "bushasha"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "don yin"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "tubali"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "kamar jiya"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "da jiya-gobe"
+    },
+    {
+      "surface": "הם",
+      "gloss": "su"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "su tafa"
+    },
+    {
+      "surface": "וקששו",
+      "gloss": "su su tattara"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wa kansu"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "bushasha"
+    }
+  ],
+  "timestamp": "2026-08-13T01:46:32.242031629Z",
+  "model": "glm-5.2"
+}

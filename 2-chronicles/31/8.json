@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Yehizkiyahu da shugabanni suka zo suka duba tarin, suka yi alfahari da Yahweh, suka yi ⟨alfahari⟩ da ⟨al'um⟩marsa Isra'ila.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "suka zo"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yehizkiyahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "da shugabanni"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "suka duba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tarin"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "tarin"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "suka yi alfahari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "da Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "suka yi ⟨את⟩",
+      "marks": "⟨al'um⟩marsa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨alfahari⟩ da ⟨al'um⟩marsa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-13T02:56:22.455198027Z",
+  "model": "glm-5.2"
+}

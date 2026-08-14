@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 27:17",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Yehudah da ƙasar Yisra'el, su ne 'yan kasuwarka; da alkama ta Minnit, da Pannag, da zuma, da man shanu, da balsam, sun bada kayan kasuwarka.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "da ƙasar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "המה",
+      "gloss": "su ne"
+    },
+    {
+      "surface": "רכליך",
+      "gloss": "'yan kasuwarka"
+    },
+    {
+      "surface": "בחטי",
+      "gloss": "da alkama"
+    },
+    {
+      "surface": "מנית",
+      "gloss": "ta Minnit"
+    },
+    {
+      "surface": "ופנג",
+      "gloss": "da Pannag"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "da zuma"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "da man shanu"
+    },
+    {
+      "surface": "וצרי",
+      "gloss": "da balsam"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "sun bada"
+    },
+    {
+      "surface": "מערבך",
+      "gloss": "kayan kasuwarka"
+    }
+  ],
+  "timestamp": "2026-08-13T04:04:01.957103984Z",
+  "model": "glm-5.2"
+}

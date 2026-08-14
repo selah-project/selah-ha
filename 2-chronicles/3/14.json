@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 3:14",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ya yi ⟨את⟩ ⟨ga⟩ katanga, da shuɗi, da launin ruwan inabi, da jajaye, da auduga, kuma ya sa kerubim su hau a kanta.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katanga"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "katanga"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "da shuɗi"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "da launin ruwan inabi"
+    },
+    {
+      "surface": "וכרמיל",
+      "gloss": "da jajaye"
+    },
+    {
+      "surface": "ובוץ",
+      "gloss": "da auduga"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kuma ya sa su hau"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kanta"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubim"
+    }
+  ],
+  "timestamp": "2026-08-13T00:41:08.034659065Z",
+  "model": "glm-5.2"
+}

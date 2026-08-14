@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ya ƙira ⟨את⟩ babin ƙofar, daga cikin templi, sanda ɗaya.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Kuma ya ƙira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babin"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "babin"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ƙofar"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "daga cikin templi"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "sanda"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    }
+  ],
+  "timestamp": "2026-08-12T17:55:19.830786777Z",
+  "model": "glm-5.2"
+}

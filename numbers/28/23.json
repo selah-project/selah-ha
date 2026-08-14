@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "bisa ga hadayar wuta ta safe, wadda ke hadayar wuta ta gari-gari, ku yi ⟨את⟩ waɗannan.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "bisa ga"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "hadayar wuta"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ta safe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wadda ke"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "hadayar wuta"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "ta gari-gari"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ku yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waɗannan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    }
+  ],
+  "timestamp": "2026-08-12T04:30:41.278784333Z",
+  "model": "glm-5.2"
+}

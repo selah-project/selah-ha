@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 36:9",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Domin gani, ni ⟨ni⟩ a kanku, kuma na juya gare ku, kuma za a noma ku, kuma za a shuka ku.",
+  "tokens": [
+    {
+      "surface": "כִּ֖י",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "הִנְנִ֣י",
+      "gloss": "gani, ni ⟨ni⟩"
+    },
+    {
+      "surface": "אֲלֵיכֶ֑ם",
+      "gloss": "a kanku"
+    },
+    {
+      "surface": "וּפָנִ֣יתִי",
+      "gloss": "kuma na juya"
+    },
+    {
+      "surface": "אֲלֵיכֶ֔ם",
+      "gloss": "gare ku"
+    },
+    {
+      "surface": "וְנֶעֱבַדְתֶּ֖ם",
+      "gloss": "kuma za a noma ku"
+    },
+    {
+      "surface": "וְנִזְרַעְתֶּֽם",
+      "gloss": "kuma za a shuka ku"
+    }
+  ],
+  "timestamp": "2026-08-12T17:46:43.885532868Z",
+  "model": "glm-5.2"
+}

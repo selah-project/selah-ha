@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma ya faru a lokacin da masarauta ta ƙarfafa a kansa, ya kashe ⟨את⟩ bayinsu masu kashe ⟨את⟩ sarkin mahaifinsa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya faru"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a lokacin da"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "ta ƙarfafa"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "masarauta"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ya kashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayinsu"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bayinsu"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "masu kashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarkin mahaifinsa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "mahaifinsa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:52:40.318337699Z",
+  "model": "glm-5.2"
+}

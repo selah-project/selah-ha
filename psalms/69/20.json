@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Kai, ka san raina, wulakata da kunyata da baƙin cikina; a gaban ka duka masu tsanani ⟨suna nan⟩.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ka san"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "raina"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "da kunyata"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "da baƙin cikina"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "a gaban ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "masu tsanani"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:14.112423812Z",
+  "model": "glm-5.2"
+}

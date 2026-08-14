@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "bogaggen masu ƙarfi sun fashe, kuma waɗanda suka buɗe sun datse ƙarfi.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "bogaggen"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "masu ƙarfi"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "sun fashe"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "kuma waɗanda suka buɗe"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "sun datse"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ƙarfi"
+    }
+  ],
+  "timestamp": "2026-08-13T01:58:42.316408939Z",
+  "model": "glm-5.2"
+}

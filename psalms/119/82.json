@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Idanuwata sun ƙare ⟨don⟩ maganar ka, ⟨suna⟩ cewa, “Ya ƙarshe za ka ba ni ta'aziya?”",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "sun ƙare"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "idanuwata"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "don maganar ka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ya ƙarshe"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "za ka ba ni ta'aziya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:44:28.957843123Z",
+  "model": "glm-5.2"
+}

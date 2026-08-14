@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 28:18",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Kuma Ya'ƙuɓ ya tashi da sassafe, ya riƙe ⟨את⟩ dutse wanda ya sa a kai-gadojinsa, ya kuma sa ⟨את⟩ ta a matsayin wata masallata, ya kuma zuba man kitse a kan kainta.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ya tashi da sassafe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'ƙuɓ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "⟨da safe⟩"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ya riƙe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dutse"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "dutse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ya sa"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "a kai-gadojinsa"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ya kuma sa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ta"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "a matsayin wata masallata"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ya kuma zuba"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "man kitse"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "kainta"
+    }
+  ],
+  "timestamp": "2026-08-13T01:42:50.435404282Z",
+  "model": "glm-5.2"
+}

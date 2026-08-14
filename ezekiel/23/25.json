@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 23:25",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma zan sanya kishin‑na a kanku, su kuma za su yi maka ⟨את⟩ da fushi; suna cire hankulkanka da kununkanka, kuma sauran ku da takobi za su faɗi. Su 'ya'yanka maza da 'ya'yanku mata za su kama, kuma sauran ku wuta za ta ci.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "kuma zan sanya"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "kishina"
+    },
+    {
+      "surface": "בך",
+      "gloss": "a kanku"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "su kuma za su yi"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "da fushi"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "da fushi"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "hankulkanka"
+    },
+    {
+      "surface": "ואזניך",
+      "gloss": "da kununkanka"
+    },
+    {
+      "surface": "יסירו",
+      "gloss": "suna cire"
+    },
+    {
+      "surface": "ואחריתך",
+      "gloss": "kuma sauran ku"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "da takobi"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "za su faɗi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "su"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "'ya'yanka maza"
+    },
+    {
+      "surface": "ובנותיך",
+      "gloss": "da 'ya'yanku mata"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "za su kama"
+    },
+    {
+      "surface": "ואחריתך",
+      "gloss": "kuma sauran ku"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "za ta ci"
+    },
+    {
+      "surface": "באש",
+      "gloss": "wuta"
+    }
+  ],
+  "timestamp": "2026-08-13T03:06:06.625237281Z",
+  "model": "glm-5.2"
+}

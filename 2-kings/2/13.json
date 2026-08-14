@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 2:13",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma ya ɗauko ⟨את⟩ rigar Eliyahu wadda ta faɗi daga kansa, ya kuma juya ya tsaya a gefen Yarden.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "kuma ya ɗauko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rigar"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "rigar"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wadda"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "ta faɗi"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "daga kansa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ya kuma juya"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ya tsaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "gefen"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-12T11:56:31.463937595Z",
+  "model": "glm-5.2"
+}

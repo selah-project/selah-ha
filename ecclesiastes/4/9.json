@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Masu kyau su biyu daga ɗaya, wanda akwai musu lada mai kyau a cikin aikinsu.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "masu kyau"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "su biyu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "יש",
+      "gloss": "akwai"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "lada"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "a cikin aikinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T22:40:46.177410619Z",
+  "model": "glm-5.2"
+}

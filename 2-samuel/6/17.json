@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 6:17",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma suka kawo ⟨את⟩ akwatin Yahweh, kuma suka sa ⟨את⟩ shi a wurin sa, a tsakiyar ⟨asirin⟩ da Daudi ya baje masa, kuma Daudi ya ɗauka hadaya-ƙonewa gaba da Yahweh, da hadaya-amanwa.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "kuma suka kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויצגו",
+      "gloss": "kuma suka sa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi"
+    },
+    {
+      "surface": "במקומו",
+      "gloss": "a wurin sa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "a tsakiyar"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "asirin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ya baje"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daudi"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kuma ya ɗauka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daudi"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "hadaya-ƙonewa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gaba da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "da hadaya-amanwa"
+    }
+  ],
+  "timestamp": "2026-08-12T10:08:26.835461377Z",
+  "model": "glm-5.2"
+}

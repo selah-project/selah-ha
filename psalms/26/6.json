@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Zan wankake hannayena a cikin tsabta, kuma zan kewaye ⟨את⟩ ginshikin hadayar ka, Yahweh.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "Zan wankake"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "a cikin tsabta"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "hannayena"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "kuma zan kewaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ginshikin hadayar ka"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "ginshikin hadayar ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T19:30:50.189402765Z",
+  "model": "glm-5.2"
+}

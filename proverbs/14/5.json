@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Shaida mai aminci ba za ta yi ƙarya ba, kuma mai hurutãwar ƙarya ⟨shaida ce⟩ ta ƙarya.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "shaida"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "mai aminci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "za ta yi ƙarya"
+    },
+    {
+      "surface": "ופיח",
+      "gloss": "kuma mai hurutãwar"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ƙarya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨shaida ce⟩"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ta ƙarya"
+    }
+  ],
+  "timestamp": "2026-08-12T21:15:23.556337413Z",
+  "model": "glm-5.2"
+}

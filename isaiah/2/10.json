@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Shiga cikin dutsen, kumabo ka ɓoye a cikin ƙura, daga gaban tsoron Yahweh, da kuma daga girman ɗaukakarsa.",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "shiga"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "cikin dutsen"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "kuma ɓoye"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "a cikin ƙura"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "tsoron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "da kuma daga girman"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "ɗaukakarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:53:53.643552753Z",
+  "model": "glm-5.2"
+}

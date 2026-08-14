@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 9:17",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Elohim yai na yi musu ƙi, domin ba su saurāre ⟨shi⟩ ba, kuma za su zama masu tafiya ayā game da cikin al'ummomi.",
+  "tokens": [
+    {
+      "surface": "יִמְאָסֵ֣ם",
+      "gloss": "yai na yi musu ƙi"
+    },
+    {
+      "surface": "אֱלֹהַ֔י",
+      "gloss": "Elohim yai na"
+    },
+    {
+      "surface": "כִּ֛י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שָׁמְע֖וּ",
+      "gloss": "saurāre"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "⟨shi⟩"
+    },
+    {
+      "surface": "וְיִהְי֥וּ",
+      "gloss": "kuma za su zama"
+    },
+    {
+      "surface": "נֹדְדִ֖ים",
+      "gloss": "masu tafiya ayā"
+    },
+    {
+      "surface": "בַּגּוֹיִֽם",
+      "gloss": "game da cikin al'ummomi"
+    }
+  ],
+  "timestamp": "2026-08-12T18:14:49.680267144Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "A bakinka ⟨da⟩ ƙahon shinkafa! Kamar nasar ⟨a⟩ kan ⟨baytin⟩ Yahweh, domin sun ketare al'ɑɗin⟨na⟩, kuma ⟨a⟩ tsarina sun tayar da tawaye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "A"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "bakinka"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "ƙahon shinkafa"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "Kamar nasar"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "baytin Yahweh"
+    },
+    {
+      "surface": "יען",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "sun ketare"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "al'ɑɗin⟨na⟩"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kuma a"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "tsarina"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "sun tayar da tawaye"
+    }
+  ],
+  "timestamp": "2026-08-12T18:17:19.206286227Z",
+  "model": "glm-5.2"
+}

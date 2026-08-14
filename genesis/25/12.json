@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 25:12",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma waɗannan suke zuriyar Yishmael ɗan Avraham, wanda Hagar ɗiyar Mitsrayim, bāriyar Sarah, ta haifa wa Avraham.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kuma waɗannan"
+    },
+    {
+      "surface": "תלדת",
+      "gloss": "zuriyar"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ta haifa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "ɗiyar Mitsrayim"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "bāriyar"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "wa Avraham"
+    }
+  ],
+  "timestamp": "2026-08-11T23:47:16.943780833Z",
+  "model": "glm-5.2"
+}

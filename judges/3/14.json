@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ɗiyan Isra'ila suka bauta wa ⟨את⟩ Eglon sarkin Moabbu shekara goma sha takwas.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "Kuma suka bauta wa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabbu"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "gomon"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sha takwas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    }
+  ],
+  "timestamp": "2026-08-12T07:28:13.396700573Z",
+  "model": "glm-5.2"
+}

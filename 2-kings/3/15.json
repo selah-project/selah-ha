@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 3:15",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "\"Kuma yanzu, ku dawo da min mawāṣī.\" Kuma ya samu, a lokacin da mawāṣī yake busa, hannun Yahweh ya kasance a kansa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kuma yanzu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ku dawo da"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "mawāṣī"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kuma ya samu"
+    },
+    {
+      "surface": "כנגן",
+      "gloss": "a lokacin da"
+    },
+    {
+      "surface": "המנגן",
+      "gloss": "mawāṣī"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hannun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T11:57:12.193868911Z",
+  "model": "glm-5.2"
+}

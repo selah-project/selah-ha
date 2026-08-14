@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 65:6",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 65,
+  "translation": "Ga shi, an rubuta ⟨ta⟩ a gabanina; ba zan shirya ba, face na saka, eh, na saka a cikin junctionsɗin su.",
+  "tokens": [
+    {
+      "surface": "הִנֵּ֥ה",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "כְתוּבָ֖ה",
+      "gloss": "an rubuta"
+    },
+    {
+      "surface": "לְפָנָ֑י",
+      "gloss": "a gabanina"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אֶחֱשֶׂה֙",
+      "gloss": "zai shirya"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "face"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "⟨an gyara⟩"
+    },
+    {
+      "surface": "שִׁלַּ֔מְתִּי",
+      "gloss": "na saka"
+    },
+    {
+      "surface": "וְשִׁלַּמְתִּ֖י",
+      "gloss": "eh, na saka"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a cikin"
+    },
+    {
+      "surface": "חֵיקָֽם",
+      "gloss": "cikar junctionsɗin su"
+    }
+  ],
+  "timestamp": "2026-08-12T14:46:00.782702002Z",
+  "model": "glm-5.2"
+}

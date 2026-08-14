@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Da tabbas ka tura ⟨ce⟩ ⟨את⟩ uwar, amma ⟨את⟩ ɓaran ka riƙe domin kan ka, domin ya yi kyau a gare ka, kuma ka tsawaita kwana.",
+  "tokens": [
+    {
+      "surface": "שַׁלֵּ֤חַ",
+      "gloss": "Da tabbas"
+    },
+    {
+      "surface": "תְּשַׁלַּ֔ח֙",
+      "gloss": "ka tura"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "uwar"
+    },
+    {
+      "surface": "הָאֵ֔ם",
+      "gloss": "uwar"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "amma ⟨את⟩",
+      "marks": "ɓaran"
+    },
+    {
+      "surface": "הַבָּנִ֖ים",
+      "gloss": "ɓaran"
+    },
+    {
+      "surface": "תִּֽקַּֽח",
+      "gloss": "ka riƙe"
+    },
+    {
+      "surface": "לָ֑ךְ",
+      "gloss": "domin kan ka"
+    },
+    {
+      "surface": "לְמַ֨עַן֙",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יִ֣יטַב",
+      "gloss": "ya yi kyau"
+    },
+    {
+      "surface": "לָ֔ךְ",
+      "gloss": "a gare ka"
+    },
+    {
+      "surface": "וְהַאֲרַכְתָּ֖",
+      "gloss": "kuma ka tsawaita"
+    },
+    {
+      "surface": "יָמִֽים",
+      "gloss": "kwana"
+    }
+  ],
+  "timestamp": "2026-08-12T05:31:20.690297413Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 2:17",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma Ni zan ba ta ⟨את⟩ gonakin inabinta daga can, da ⟨את⟩ kwaryar ʿAkhor a matsayin ƙofar bege; kuma za ta amsa a can kamar kwana matasan ta, da kuma kamar ranar da ta fito daga ƙasar Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "kuma zan ba"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gonakin inabinta"
+    },
+    {
+      "surface": "כרמיה",
+      "gloss": "gonakin inabinta"
+    },
+    {
+      "surface": "משם",
+      "gloss": "daga can"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kwaryar ʿAkhor"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "kwarya"
+    },
+    {
+      "surface": "עכור",
+      "gloss": "ʿAkhor"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "a matsayin ƙofar"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "bege"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "kuma za ta amsa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "a can"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "matasan ta"
+    },
+    {
+      "surface": "וכיום",
+      "gloss": "da kuma kamar ranar"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "da ta fito"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T18:13:20.480156273Z",
+  "model": "glm-5.2"
+}

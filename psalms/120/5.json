@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 120,
+  "translation": "Yā ba niĨarãwar, cẽwa na yi zama a Meshek, inã zama tãre da ɗakunan dãki na Qedar.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "ĩyarãwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "na yi zama"
+    },
+    {
+      "surface": "משך",
+      "gloss": "a Meshek"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "inã zama"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tãre da"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "ɗakunan dãki"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Qedar"
+    }
+  ],
+  "timestamp": "2026-08-12T20:46:42.211304680Z",
+  "model": "glm-5.2"
+}

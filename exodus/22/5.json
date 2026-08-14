@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Lokacin da wuta ta fita, kuma ta sami ƙaya, aka ci gəɗashi, ko tsayayyen amfanin gona, ko gona, ⟨mai tuna wuta⟩ ya tabbatar da cewa zai biya gabaɗaya ⟨את⟩ lalacewa.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Lokacin da"
+    },
+    {
+      "surface": "תֵצֵ֨א",
+      "gloss": "ta fita"
+    },
+    {
+      "surface": "אֵ֜שׁ",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "וּמָצְאָ֤ה",
+      "gloss": "kuma ta sami"
+    },
+    {
+      "surface": "קֹצִים֙",
+      "gloss": "ƙaya"
+    },
+    {
+      "surface": "וְנֶאֱכַ֣ל",
+      "gloss": "aka ci"
+    },
+    {
+      "surface": "גָּדִ֔ישׁ",
+      "gloss": "gəɗashi"
+    },
+    {
+      "surface": "א֥וֹ",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הַקָּמָ֖ה",
+      "gloss": "tsayayyen amfanin gona"
+    },
+    {
+      "surface": "א֣וֹ",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הַשָּׂדֶ֑ה",
+      "gloss": "gona"
+    },
+    {
+      "surface": "שַׁלֵּ֣ם",
+      "gloss": "ya tabbatar da cewa zai biya gabaɗaya"
+    },
+    {
+      "surface": "יְשַׁלֵּ֔ם",
+      "gloss": "zai biya gabaɗaya"
+    },
+    {
+      "surface": "הַמַּבְעִ֖ר",
+      "gloss": "mai kunna wuta"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "lalacewa"
+    },
+    {
+      "surface": "הַבְּעֵרָֽה",
+      "gloss": "lalacewa"
+    }
+  ],
+  "timestamp": "2026-08-13T01:46:34.999196257Z",
+  "model": "glm-5.2"
+}

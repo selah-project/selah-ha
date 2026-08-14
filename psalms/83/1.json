@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 83,
+  "translation": "Waƙa, waƙar yabo ga Asaf.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Waƙa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "waƙar yabo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ga Asaf"
+    }
+  ],
+  "timestamp": "2026-08-12T20:13:07.369696184Z",
+  "model": "glm-5.2"
+}

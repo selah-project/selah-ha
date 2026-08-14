@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 62,
+  "translation": "Ɓangaren ⟨ne⟩ kawai, Elohim ⟨ne⟩, jinina na shiru ⟨a kansa⟩; daga gare shi ⟨ce⟩ tsirata.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kawai"
+    },
+    {
+      "surface": "אל",
+      "gloss": " Elohim ⟨ne⟩,"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": " Elohim ⟨ne⟩,"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "jinina na shiru ⟨a kansa⟩;"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jinina na shiru ⟨a kansa⟩;"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare shi"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "tsirata."
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:09.635094109Z",
+  "model": "glm-5.2"
+}

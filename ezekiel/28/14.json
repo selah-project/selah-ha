@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 28:14",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "⟨Kai⟩ kerub mai shafa wanda yake rufewa, na sa ka; a kan dutse mai tsarkin Elohim ka kasance, a tsakän duwatssu na wuta kana tafiya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "kai",
+      "marks": "kerub"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "ממשח",
+      "gloss": "mai shafa"
+    },
+    {
+      "surface": "הסוכך",
+      "gloss": "mai rufewa"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "na sa ka"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a kan dutse"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mai tsarki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ka kasance"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "a tsakän"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "duwatssu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "na wuta"
+    },
+    {
+      "surface": "התהלכת",
+      "gloss": "kana tafiya"
+    }
+  ],
+  "timestamp": "2026-08-14T00:02:34.047770508Z",
+  "model": "glm-5.2"
+}

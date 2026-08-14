@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Sa'an nan Paroh ya faɗa wa Ya'aƙob: \"Nawa ne kwana'on shekarun rayuwar ka?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sa'an nan ya faɗa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aƙob"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "Nawa ne"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwana'on"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shekarun"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "rayuwar ka"
+    }
+  ],
+  "timestamp": "2026-08-12T00:23:52.704368837Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 23:3",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "'Kuma ni zan tãra ⟨את⟩ ⟨אַת⟩ saura⟨⟩n tũn⟤na daga dukan ƙasãshen da na kurƙura su a can, kuma zan mayar da su zuwa mahaɗarsu, kuma sunã yãya, sunã yawaita.'",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kuma ni"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "zan tãra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨אַת⟩",
+      "marks": "saura⟨⟩n tũn⟤na"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "saura"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "tũn na"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "ƙasãshen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הדחתי",
+      "gloss": "na kurƙura su"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨אַת⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "kuma zan mayar da su"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ ⟨אַת⟩",
+      "marks": "zuwa mahaɗarsu"
+    },
+    {
+      "surface": "על",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "נוהן",
+      "gloss": "mahaɗarsu"
+    },
+    {
+      "surface": "ופרו",
+      "gloss": "kuma sunã yãya"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "sunã yawaita"
+    }
+  ],
+  "timestamp": "2026-08-12T15:38:53.706302763Z",
+  "model": "glm-5.2"
+}

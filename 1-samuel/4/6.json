@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 4:6",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma Filistawa suka ji ⟨את⟩ muryar jaɗin, suka ce, \"Mē ne wannan muryar wannan babban jaɗin a sansanin Ibraniyawa?\" Kuma suka sani cẽwa akwatin Yahweh ya zo sansani.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Kuma suka ji"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muryar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "jaɗin"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mē"
+    },
+    {
+      "surface": "קול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "jaɗin"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "babban"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "a sansanin"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ibraniyawa"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "Kuma suka sani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cẽwa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ya zo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨zuwa⟩"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "sansani"
+    }
+  ],
+  "timestamp": "2026-08-12T08:35:30.078131959Z",
+  "model": "glm-5.2"
+}

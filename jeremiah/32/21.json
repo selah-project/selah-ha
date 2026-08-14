@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 32:21",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "kuma ka fitar da ⟨את⟩ jama'arka ⟨את⟩ Yisra'el daga ƙasar Mitsrayim, da alamu da mu'jozi, da hannu mai ƙarfi, da hannuwa da aka miƙa, da tsoro mai girma;",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "kuma ka fitar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jama'arka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jama'arka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "באתות",
+      "gloss": "da alamu"
+    },
+    {
+      "surface": "ובמופתים",
+      "gloss": "da mu'jozi"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "da hannu"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "mai ƙarfi"
+    },
+    {
+      "surface": "ובאזרוע",
+      "gloss": "da hannuwa"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "da aka miƙa"
+    },
+    {
+      "surface": "ובמורא",
+      "gloss": "da tsoro"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mai girma"
+    }
+  ],
+  "timestamp": "2026-08-12T16:04:14.437426259Z",
+  "model": "glm-5.2"
+}

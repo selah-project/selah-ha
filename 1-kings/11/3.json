@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma ya kasance ⟨ga⟩ shi mata sara ɗari bakwai, da ƙwaraƙwari ɗari uku; kuma matansa suka ja ⟨את⟩ zuciyarsa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ya kasance"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ga⟩ shi"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mata"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "sara"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ɗari bakwai"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "da ƙwaraƙwari"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ɗari uku"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "suka ja"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "matansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuciyarsa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zuciyarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T11:19:33.152401429Z",
+  "model": "glm-5.2"
+}

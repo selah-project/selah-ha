@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 116,
+  "translation": "Ni na faɗa cikin gaggawata, dukan mutum ɗan ƙarya ne.",
+  "tokens": [
+    {
+      "surface": "אֲנִ֭י",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "אָמַ֣רְתִּי",
+      "gloss": "na faɗa"
+    },
+    {
+      "surface": "בְחָפְזִ֑י",
+      "gloss": "cikin gaggawata"
+    },
+    {
+      "surface": "כָּֽל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "הָאָדָ֥ם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "כֹּזֵֽב",
+      "gloss": "ɗan ƙarya ne"
+    }
+  ],
+  "timestamp": "2026-08-12T20:38:58.948862511Z",
+  "model": "glm-5.2"
+}

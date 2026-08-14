@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Tashi, Yahweh! Kada ka bari mutum ya ƙaru da ƙarfi; al'umomi su a yi musu ⟨hukunci⟩ a gaban fuskarka!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tashi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "ka bari ⟨mutum⟩ ya ƙaru da ƙarfi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "⟨mutum⟩"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "su a yi musu ⟨hukunci⟩"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "al'umomi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuskarka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:20:10.560437532Z",
+  "model": "glm-5.2"
+}

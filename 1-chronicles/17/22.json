@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 17:22",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma ka sanya ⟨את⟩ jama'arka Yisra'el, zuwa gare ka don zama jama'a har abadada, kuma kai, Yahweh, ka kasance musu don zama Elohim.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "Kuma ka sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jama'arka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jama'arka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לך",
+      "gloss": "zuwa gare ka"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "don zama jama'a"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadada"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kuma kai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ka kasance"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "don zama Elohim"
+    }
+  ],
+  "timestamp": "2026-08-13T00:18:53.377364970Z",
+  "model": "glm-5.2"
+}

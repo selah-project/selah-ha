@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 118,
+  "translation": "Kyau ⟨ya fi⟩ mafaka a cikin Yahweh ⟨kowanne⟩ dogaro da mutum.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "kyau"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "mafaka"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "a cikin Yahweh"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "⟨kowanne⟩ dogaro"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "da mutum"
+    }
+  ],
+  "timestamp": "2026-08-12T20:38:45.133849298Z",
+  "model": "glm-5.2"
+}

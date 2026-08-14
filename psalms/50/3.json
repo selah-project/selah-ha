@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "Elohim⟨mu⟩ zai zo, kuma kada ya shiru; wuta ⟨zai⟩ cinye a gabanSa, kuma a kewayenSa guguwa mai tsanani ⟨ce⟩.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "zai zo"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim⟨mu⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ya shiru"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "a gabanSa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "⟨zai⟩ cinye"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "kuma a kewayenSa"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "guguwa mai tsanani"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sauye-sauye"
+    }
+  ],
+  "timestamp": "2026-08-12T19:48:52.852246139Z",
+  "model": "glm-5.2"
+}

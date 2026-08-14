@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Ka tuna, Yahweh, me ya sameu, ka dūba, ka ga ⟨את⟩ ƙaryatamu.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ka tuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "me"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ya sameu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ka dūba"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ka ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙaryatamu"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "ƙaryatamu"
+    }
+  ],
+  "timestamp": "2026-08-12T22:40:01.404796999Z",
+  "model": "glm-5.2"
+}

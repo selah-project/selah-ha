@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Cikiin an rama wa Qayn sau bakwai, kuma wa Lamek sau saba'in da bakwai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Cikin"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "sau bakwai"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "an rama wa"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayn"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "kuma wa Lamek"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sau saba'in"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "da bakwai"
+    }
+  ],
+  "timestamp": "2026-08-11T23:21:52.862426073Z",
+  "model": "glm-5.2"
+}

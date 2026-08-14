@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma ya aiko ⟨da⟩ ⟨את⟩ samari na ɗaliban Yisra'el, suka kawo ƙorarra, suka yanka gurguntar sulhu ga Yahweh — shanu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ya aiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samari"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "samari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗaliban"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "suka kawo"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ƙorarra"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "suka yanka"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "gurguntar"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "sulhu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "shanu"
+    }
+  ],
+  "timestamp": "2026-08-12T01:04:47.299458265Z",
+  "model": "glm-5.2"
+}

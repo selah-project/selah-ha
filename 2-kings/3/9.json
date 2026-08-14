@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 3:9",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Sai sarkin Yisra'el ya tafi, da sarkin Yehuda, da sarkin Edom, suka kewaye hanyar kwana bakwai, kuma ba ruwa ⟨a kwance⟩ ga sansanin da ga dabbobin da ⟨suna⟩ a ƙafafunsu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "da sarkin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "da sarkin"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "suka kewaye"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "kwana bakwai"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "⟨na kwana⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨a kwance⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ga sansanin"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "da ga dabbobin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "ברגליהם",
+      "gloss": "a ƙafafunsu"
+    }
+  ],
+  "timestamp": "2026-08-12T11:56:51.531521029Z",
+  "model": "glm-5.2"
+}

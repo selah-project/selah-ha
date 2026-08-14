@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma suka kawo ⟨את⟩ akwatin Yahweh da ⟨את⟩ bisa-rumi na taro, da ⟨את⟩ dukkan kayin tsarkaka waɗanda suke cikin bisa-rumin; kuma firistoci da Liwiyawa suka kawo ⟨את⟩ su.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "suka kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "bisa-rumi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "bisa-rumi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "taro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kayin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tsarkaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "cikin bisa-rumin"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "suka kawo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ su"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "firistoci"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "da Liwiyawa"
+    }
+  ],
+  "timestamp": "2026-08-12T11:07:22.967008429Z",
+  "model": "glm-5.2"
+}

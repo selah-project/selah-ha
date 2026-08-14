@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 51,
+  "translation": "Ka ɓoye fuskarka daga zunubana, kuma dukkan laifufukana ka goge ⟨su⟩.",
+  "tokens": [
+    {
+      "surface": "הַסְתֵּ֣ר",
+      "gloss": "Ka ɓoye"
+    },
+    {
+      "surface": "פָּנֶיךָ",
+      "gloss": "fuskarka"
+    },
+    {
+      "surface": "מֵחֲטָאָ֑י",
+      "gloss": "daga zunubana"
+    },
+    {
+      "surface": "וְֽכָל",
+      "gloss": "kuma dukkan"
+    },
+    {
+      "surface": "עֲוֺ֖נֹתַ֣י",
+      "gloss": "laifufukana"
+    },
+    {
+      "surface": "מְחֵֽה",
+      "gloss": "ka goge"
+    }
+  ],
+  "timestamp": "2026-08-12T19:50:01.563729543Z",
+  "model": "glm-5.2"
+}

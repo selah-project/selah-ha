@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ka kiyaye ⟨את⟩ umarnin Yahweh Elohiminka, don tafiya a hanyoyinSa, da kuma tsoronSa.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Kuma ka kiyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umarnin"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "umarnin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminka"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "don tafiya"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "a hanyoyinSa"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "da kuma tsoronSa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨Sa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T05:11:40.399327175Z",
+  "model": "glm-5.2"
+}

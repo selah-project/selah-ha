@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma sarki ya rufe fuskar sa, kuma sarki ya kurata da murya babba: \"Ɗana Avshalom, Avshalom, ɗana, ɗana!\"",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "kuma sarki"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "ya rufe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuskar"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuskar sa"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "kuma ya kurata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "קול",
+      "gloss": "da murya"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "babba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗana"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗana"
+    }
+  ],
+  "timestamp": "2026-08-12T10:37:07.613456118Z",
+  "model": "glm-5.2"
+}

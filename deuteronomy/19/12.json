@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "to dattijon birninsa za su aiko, su kuma dauke shi daga can, su kuma mika ⟨את⟩ shi a hannun mai fansa jini, ya kuma mutu.",
+  "tokens": [
+    {
+      "surface": "וְשָֽׁלְחוּ֙",
+      "gloss": "za su aiko"
+    },
+    {
+      "surface": "זִקְנֵ֣י",
+      "gloss": "dattijon"
+    },
+    {
+      "surface": "עִיר֔וֹ",
+      "gloss": "birninsa"
+    },
+    {
+      "surface": "וְלָקְח֥וּ",
+      "gloss": "su kuma dauke shi"
+    },
+    {
+      "surface": "אֹת֖וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "sh"
+    },
+    {
+      "surface": "מִשָּׁ֑ם",
+      "gloss": "daga can"
+    },
+    {
+      "surface": "וְנָתְנ֣וּ",
+      "gloss": "su kuma mika"
+    },
+    {
+      "surface": "אֹת֗וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "sh"
+    },
+    {
+      "surface": "בְּיַ֛ד",
+      "gloss": "a hannun"
+    },
+    {
+      "surface": "גֹּאֵ֥ל",
+      "gloss": "mai fansa"
+    },
+    {
+      "surface": "הַדָּ֖ם",
+      "gloss": "jini"
+    },
+    {
+      "surface": "וָמֵֽת",
+      "gloss": "ya kuma mutu"
+    }
+  ],
+  "timestamp": "2026-08-12T05:27:45.356856130Z",
+  "model": "glm-5.2"
+}

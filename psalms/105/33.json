@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Kuma ya yi musu duka ⟨a⟩ inabinsu da itacen ɓauren ƙwarya nasu, kuma ya tsage itãje ⟨na⟩ iyakarsu.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "kuma ya yi musu duka"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "inabinsu"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "da itacen ɓauren ƙwarya nasu"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "kuma ya tsage"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "itãje"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "iyakarsu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:29:29.037971580Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma ya dada ⟨את⟩ gomar gaba da Yahweh, don a karɓa ⟨a madadin⟩ ku; washegarin shabbat kohen zai dada ta.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "Kuma ya dada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gomar"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "gomar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gaba da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "don a karɓa ⟨a madadin⟩ ku"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "washegarin"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "zai dada ta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    }
+  ],
+  "timestamp": "2026-08-12T02:45:13.115980148Z",
+  "model": "glm-5.2"
+}

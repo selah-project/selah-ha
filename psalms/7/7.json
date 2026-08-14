@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Tãka, Yahweh, a cikin fushinka, ka ɗaukaka kanka a kan tãƙamar fitina; wã ya wãƙa ni a kan shari'ar da ka umarta.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tãka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "a cikin fushinka"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "ka ɗaukaka kanka"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "tãƙamar fitina"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "wã ya wãƙa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "a kan shari'a"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "da ka umarta"
+    }
+  ],
+  "timestamp": "2026-08-12T19:17:23.148097543Z",
+  "model": "glm-5.2"
+}

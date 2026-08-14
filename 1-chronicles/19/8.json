@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Dawuda ya ji, ya aiko da ⟨את⟩ Yo'ab da ⟨את⟩ dukkan jama'in maharba.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ya ji"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ya aiko da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yo'ab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yo'ab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan jama'in maharba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "jama'in"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "maharba"
+    }
+  ],
+  "timestamp": "2026-08-13T00:22:52.273423308Z",
+  "model": "glm-5.2"
+}

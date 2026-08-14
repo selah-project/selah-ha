@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Ka yarda, Yahweh, don ka ceci ni; Yahweh, zuwa taimakona, yi gaggawa!",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "Ka yarda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "don ka ceci ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "zuwa taimakona"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "yi gaggawa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:41:33.953156033Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 142,
+  "translation": "Masallaci na Dawuda, a lokacin da yake cikin ⟨kogon⟩, addu'a.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Masallaci"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na Dawuda"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "a lokacin da yake"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "a cikin kogo"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "addu'a"
+    }
+  ],
+  "timestamp": "2026-08-12T20:54:48.400596698Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 140,
+  "translation": "Kada ka ba, Yahweh, ⟨a⟩ buƙatun mugun; shirin sa kada ka bayar, ⟨domin⟩ su tashi ⟨ɗaya⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ka ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "buƙatun"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mugun"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "shirin sa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada ka"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "bayar"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "su tashi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T20:53:39.718199827Z",
+  "model": "glm-5.2"
+}

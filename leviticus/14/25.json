@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 14:25",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma ya yanka ⟨את⟩ ragon laifin, kuma kohen ya ɗauko daga jinin laifin, ya sanya a kan ƙarshen kunne na dama na wanda ake tsarkake, da kuma babban yatsan hannunsa na dama, da kuma babban yatsan ƙafarsa ta dama.",
+  "tokens": [
+    {
+      "surface": "וְשָׁחַט֮",
+      "gloss": "Kuma ya yanka"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ragon laifin"
+    },
+    {
+      "surface": "כֶּ֣בֶשׂ",
+      "gloss": "ragon"
+    },
+    {
+      "surface": "הָֽאָשָׁם֒",
+      "gloss": "laifin"
+    },
+    {
+      "surface": "וְלָקַ֤ח",
+      "gloss": "kuma ya ɗauko"
+    },
+    {
+      "surface": "הַכֹּהֵן֙",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מִדַּ֣ם",
+      "gloss": "daga jinin"
+    },
+    {
+      "surface": "הָֽאָשָׁ֔ם",
+      "gloss": "laifin"
+    },
+    {
+      "surface": "וְנָתַ֛ן",
+      "gloss": "ya sanya"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "תְּנ֥וּךְ",
+      "gloss": "ƙarshen"
+    },
+    {
+      "surface": "אֹֽזֶן",
+      "gloss": "kunne"
+    },
+    {
+      "surface": "הַמִּטַּהֵ֖ר",
+      "gloss": "wanda ake tsarkake"
+    },
+    {
+      "surface": "הַיְמָנִ֑ית",
+      "gloss": "na dama"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "da kuma a kan"
+    },
+    {
+      "surface": "בֹּ֤הֶן",
+      "gloss": "babban yatsan"
+    },
+    {
+      "surface": "יָדוֹ֙",
+      "gloss": "hannunsa"
+    },
+    {
+      "surface": "הַיְמָנִ֔ית",
+      "gloss": "na dama"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "da kuma a kan"
+    },
+    {
+      "surface": "בֹּ֥הֶן",
+      "gloss": "babban yatsan"
+    },
+    {
+      "surface": "רַגְל֖וֹ",
+      "gloss": "ƙafarsa"
+    },
+    {
+      "surface": "הַיְמָנִֽית",
+      "gloss": "ta dama"
+    }
+  ],
+  "timestamp": "2026-08-13T01:49:35.220114363Z",
+  "model": "glm-5.2"
+}

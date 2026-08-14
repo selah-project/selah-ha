@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 138,
+  "translation": "Zan lalami a wurin haikalinka mai tsarki, kuma ⟨zan⟩ gode wa ⟨את⟩ sunanka, bisa chesedɗinka da kuma gaskiyarka; domin ka girbiza, a kan dukan sunanka, maganarka.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "zan lalami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a wurin"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "haikali"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "mai tsarkinka"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "kuma ⟨zan⟩ gode wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunanka"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunanka"
+    },
+    {
+      "surface": "על",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesedɗinka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da kuma"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "gaskiyarka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "ka girbiza"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunanka"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "maganarka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:55:46.486905822Z",
+  "model": "glm-5.2"
+}

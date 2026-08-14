@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 3:8",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Warkewa za ta kasance ga jikinka, kuma danshi ga kasuswanka.",
+  "tokens": [
+    {
+      "surface": "רִ֭פְאוּת",
+      "gloss": "Warkewa"
+    },
+    {
+      "surface": "תְּהִ֣י",
+      "gloss": "za ta kasance"
+    },
+    {
+      "surface": "לְשָׁרֶּ֑ךָ",
+      "gloss": "ga jikinka"
+    },
+    {
+      "surface": "וְ֝שִׁקּ֗וּי",
+      "gloss": "kuma danshi"
+    },
+    {
+      "surface": "לְעַצְמוֹתֶֽיךָ",
+      "gloss": "ga kasuswanka"
+    }
+  ],
+  "timestamp": "2026-08-12T21:01:49.416689449Z",
+  "model": "glm-5.2"
+}

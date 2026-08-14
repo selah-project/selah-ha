@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma ya gina ⟨את⟩ duwatsun a matsayin magini, cikin sunan Yahweh, kuma ya yi rijiya girman gadon saa biyu na iri, a kewayen maginin.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "Kuma ya gina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duwatsun"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "duwatsun"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "a matsayin magini"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "cikin sunan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "rijiya"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "girman gadon"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "saa biyu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "na iri"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewayen"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "maginin"
+    }
+  ],
+  "timestamp": "2026-08-12T11:40:50.056725870Z",
+  "model": "glm-5.2"
+}

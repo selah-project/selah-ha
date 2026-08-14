@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 23:21",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Ka yi hankali a gabaninsa, kuma ka saurari muryarsa, kada ka tada masa taurin kai, domin ⟨ba⟩ zai yi afuwa da laifinku ba, domin sunãNa yana cikinsa.",
+  "tokens": [
+    {
+      "surface": "הִשָּׁ֧מֶר",
+      "gloss": "Ka yi hankali"
+    },
+    {
+      "surface": "מִפָּנָ֛יו",
+      "gloss": "a gabaninsa"
+    },
+    {
+      "surface": "וּשְׁמַ֥ע",
+      "gloss": "kuma ka saurari"
+    },
+    {
+      "surface": "בְּקֹל֖וֹ",
+      "gloss": "muryarsa"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תַּמֵּ֣ר",
+      "gloss": "ka tada taurin kai"
+    },
+    {
+      "surface": "בּ֑וֹ",
+      "gloss": "wajesa"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יִשָּׂא֙",
+      "gloss": "zai yi afuwa"
+    },
+    {
+      "surface": "לְפִשְׁעֲכֶ֔ם",
+      "gloss": "da laifinku"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "שְׁמִ֖י",
+      "gloss": "sunãNa"
+    },
+    {
+      "surface": "בְּקִרְבּֽוֹ",
+      "gloss": "yana cikinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:00:17.699305807Z",
+  "model": "glm-5.2"
+}

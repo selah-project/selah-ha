@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Dukan wanda ke gudan, shi ⟨ne⟩ mai rai, zai kasance a gare ku don abinci; kamar ciyawar kore, ni na ba ku ⟨את⟩ dukan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Dukan"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "wanda ke gudan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "shi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨shi⟩"
+    },
+    {
+      "surface": "חי",
+      "gloss": "mai rai"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a gare ku"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zai kasance"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "don abinci"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ciyawar kore"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ni na ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    }
+  ],
+  "timestamp": "2026-08-11T23:26:41.591639047Z",
+  "model": "glm-5.2"
+}

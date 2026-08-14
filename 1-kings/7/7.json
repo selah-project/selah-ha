@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 7:7",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma faɗin kujerar, wanda ake yin shari'a a can, ya yi, ⟨shi ne⟩ faɗin shari'a; kuma an rufe shi da itacen ajdar, daga ƙasa har zuwa ƙasa.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "kuma faɗin"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "kujerar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ayi shari'a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "faɗin"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "shari'a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "וספון",
+      "gloss": "kuma an rufe shi"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "da itacen ajdar"
+    },
+    {
+      "surface": "מהקרקע",
+      "gloss": "daga ƙasa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:03:52.995982140Z",
+  "model": "glm-5.2"
+}

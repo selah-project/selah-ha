@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 16:25",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Mosheh ya ce: \"Ku ci shi ⟨a⟩ yau, domin shabbat ⟨ne⟩ yau don Yahweh; ⟨a⟩ yau ba za ku same shi a cikin daji ba.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אכלהו",
+      "gloss": "ku ci shi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "don Yahweh"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תמצאהו",
+      "gloss": "za ku same shi"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a cikin daji"
+    }
+  ],
+  "timestamp": "2026-08-12T00:51:25.199396197Z",
+  "model": "glm-5.2"
+}

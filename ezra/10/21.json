@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 10:21",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma daga cikin 'ya'an Charim: Maasejah, da Elyah, da Shemayah, da Yechi'el, da Uzziyah.",
+  "tokens": [
+    {
+      "surface": "וּמִבְּנֵ֖י",
+      "gloss": "Kuma daga cikin 'ya'an"
+    },
+    {
+      "surface": "חָרִ֑ם",
+      "gloss": "Charim"
+    },
+    {
+      "surface": "מַעֲשֵׂיָ֤ה",
+      "gloss": "Maasejah"
+    },
+    {
+      "surface": "וְאֵֽלִיָּה֙",
+      "gloss": "da Elyah"
+    },
+    {
+      "surface": "וּֽשְׁמַֽעְיָ֔ה",
+      "gloss": "da Shemayah"
+    },
+    {
+      "surface": "וִיחִיאֵ֖ל",
+      "gloss": "da Yechi'el"
+    },
+    {
+      "surface": "וְעֻזִּיָּֽה",
+      "gloss": "da Uzziyah"
+    }
+  ],
+  "timestamp": "2026-08-12T23:34:09.998473916Z",
+  "model": "glm-5.2"
+}

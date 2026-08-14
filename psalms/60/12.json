@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 60,
+  "translation": "Ba haka lõn, Kai, Elohim, ka ƙi mu? Kuma ba Ka fita ba, Elohim, tare da rundunoninmu?",
+  "tokens": [
+    {
+      "surface": "הֲלֹֽא",
+      "gloss": "ba haka lõn"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "אֱלֹהִ֣ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זְנַחְתָּ֑נוּ",
+      "gloss": "ka ƙi mu"
+    },
+    {
+      "surface": "וְֽלֹא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "תֵצֵ֥א",
+      "gloss": "Ka fita"
+    },
+    {
+      "surface": "אֱ֝לֹהִ֗ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בְּצִבְאֹותֵֽינוּ",
+      "gloss": "tare da rundunoninmu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:54:51.885847201Z",
+  "model": "glm-5.2"
+}

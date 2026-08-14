@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma ka ga wahalar ubanninmu a Mitsrayim, da ⟨את⟩ kuma kurumarsu ka ji a Tekun Yammaciyya.",
+  "tokens": [
+    {
+      "surface": "וַתֵּרֶא",
+      "gloss": "kuma ka ga"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "wahalar ubanninmu"
+    },
+    {
+      "surface": "עֳנִי",
+      "gloss": "wahala"
+    },
+    {
+      "surface": "אֲבֹתֵינוּ",
+      "gloss": "ubanninmu"
+    },
+    {
+      "surface": "בְּמִצְרַיִם",
+      "gloss": "a Mitsrayim"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩ kuma",
+      "marks": "kurumarsu"
+    },
+    {
+      "surface": "זַעֲקָתָם",
+      "gloss": "kurumarsu"
+    },
+    {
+      "surface": "שָׁמַעְתָּ",
+      "gloss": "ka ji"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יָם",
+      "gloss": "Tekun"
+    },
+    {
+      "surface": "סוּף",
+      "gloss": "Yammaciyya"
+    }
+  ],
+  "timestamp": "2026-08-12T23:47:23.927728782Z",
+  "model": "glm-5.2"
+}

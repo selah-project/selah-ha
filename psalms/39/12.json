@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Da tũgƙi game da zunubi Ka yi wa mutum horo, kuma Kã narkar da abin da yake so kamar tsãtsa; lalle ne fã-fãki ne duk mutum. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "Da tũgƙi"
+    },
+    {
+      "surface": "על",
+      "gloss": "game da"
+    },
+    {
+      "surface": "עון",
+      "gloss": "zunubi"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "Ka yi wa horo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "kuma Kã narkar da"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "kamar tsãtsa"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "abin da yake so"
+    },
+    {
+      "surface": "אך",
+      "gloss": "lalle ne"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "fã-fãki ne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T19:40:23.387337616Z",
+  "model": "glm-5.2"
+}

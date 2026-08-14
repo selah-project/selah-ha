@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Tarko ne ga mutum ⟨ya⟩ faɗa sa'a-sa'a: \"Tsarki ne,\" kuma daga baya ⟨don⟩ bincika gārarren kalamī.",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "tarko"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "ya faɗi sa'a-sa'a"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsarki"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "kuma daga baya"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "gārarren kalamī"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "⟨don⟩ bincika"
+    }
+  ],
+  "timestamp": "2026-08-13T02:30:11.928692887Z",
+  "model": "glm-5.2"
+}

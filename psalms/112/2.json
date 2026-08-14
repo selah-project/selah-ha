@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 112,
+  "translation": "Maɗiyya ⟨ne⟩ zai kasance a cikin ƙasar, zuriyar mâgeza za a sanyawa alɓarka.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Maɗiyya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a cikin ƙasar"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "za i kasance"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "zuriyarsa"
+    },
+    {
+      "surface": "דור",
+      "gloss": "zuriyar"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "mâgeza"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "za a sanyawa alɓarka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:37:08.320675339Z",
+  "model": "glm-5.2"
+}

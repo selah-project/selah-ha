@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "domin idananku ⟨su⟩ masu gani ⟨su ne⟩ ⟨את⟩ duka aikin Yahweh mai girma, wanda ⟨ya⟩ yi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "idananku"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "masi gani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "mai girma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    }
+  ],
+  "timestamp": "2026-08-12T05:09:04.907607418Z",
+  "model": "glm-5.2"
+}

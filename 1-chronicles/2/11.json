@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma Nachshon ya haifa ⟨את⟩ Salma, kuma Salma ya haifa ⟨את⟩ Boaz.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Kuma Nachshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salma"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "kuma Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-12T23:56:16.939113890Z",
+  "model": "glm-5.2"
+}

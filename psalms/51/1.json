@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 51,
+  "translation": "Ga shugaban mawaɗa. Waƙa ta Dawuda.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga shugaban mawaɗa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Waƙa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ta Dawuda"
+    }
+  ],
+  "timestamp": "2026-08-12T19:53:16.447945790Z",
+  "model": "glm-5.2"
+}

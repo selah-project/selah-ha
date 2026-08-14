@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Amma da yadda suke damẽ shi, haka ya yawaita, kuma haka ya bāɗi; suka ji takaici saboda ɗaya'ya'wan Yisra'ela.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "Amma da yadda"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "suke damẽ shi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shina nuni zuwa wanda ake damẽwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ya yawaita"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "kuma haka"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "ya bāɗi"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "suka ji takaici"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗaya'ya'wan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'ela"
+    }
+  ],
+  "timestamp": "2026-08-12T00:28:39.624791619Z",
+  "model": "glm-5.2"
+}

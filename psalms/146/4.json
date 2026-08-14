@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 146,
+  "translation": "Ruhunsa tana fita, yana komawa ga kasa⟨sa⟩; a wannan ranar tsarejojin⟨sa⟩ sun bace.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "tana fita"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruhunsa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yana komawa"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "ga kasa⟨sa⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a cikin rana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "waccan"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "sun bace"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "tsarejojin⟨sa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:59:01.197096497Z",
+  "model": "glm-5.2"
+}

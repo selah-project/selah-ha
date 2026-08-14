@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 20:7",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Idan ya ce hakà: 'Yã mai kyau, salama ga bawanka'; amma idan ya fushi, ka sani cẽwa mugunyar dã'a ta ƙare daga gare shi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hakà"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salama"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ga bawanka"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "amma idan"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "fushi"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "ya fushi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "דע",
+      "gloss": "ka sani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cẽwa"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "ta ƙare"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mugunyar dã'a"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "daga gare shi"
+    }
+  ],
+  "timestamp": "2026-08-12T09:21:26.966236248Z",
+  "model": "glm-5.2"
+}

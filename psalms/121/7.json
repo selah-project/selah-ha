@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 121,
+  "translation": "Yahweh zai tsare ka daga dukan sharri, zai tsare ⟨את⟩ rayuwarka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "zai tsare ka"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "daga dukan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sharri"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "zai tsare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rayuwarka"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "rayuwarka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:47:13.607104488Z",
+  "model": "glm-5.2"
+}

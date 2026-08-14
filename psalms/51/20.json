@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 51,
+  "translation": "Ka kyautata da yardarka ⟨את⟩ Tsiyon; ka gina ganuwar Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "הֵיטִיבָה",
+      "gloss": "ka kyautata"
+    },
+    {
+      "surface": "בִרְצוֹנְךָ",
+      "gloss": "da yardarka"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon"
+    },
+    {
+      "surface": "צִיּוֹן",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "תִּבְנֶה",
+      "gloss": "ka gina"
+    },
+    {
+      "surface": "חוֹמוֹת",
+      "gloss": "ganuwar"
+    },
+    {
+      "surface": "יְרוּשָׁלָיִם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-12T19:50:51.042587460Z",
+  "model": "glm-5.2"
+}

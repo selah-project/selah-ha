@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Domin bawanka ya gudanar da alkawari yana zauna a Geshur a Aram, yana cewa: 'Idan Yahweh gaskiya ya mayar da ni zuwa Yerushalaim, to in bauta wa ⟨את⟩ Yahweh.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "alkawari"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ya gudanar da"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bawanka"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "yana zauna"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "a Geshur"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "a Aram"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "gaskiya"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "ya mayar da ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "zuwa Yerushalaim"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "to in bauta wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-13T02:02:42.164144693Z",
+  "model": "glm-5.2"
+}

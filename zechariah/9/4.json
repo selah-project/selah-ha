@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 9:4",
+  "book": "zechariah",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Ga ⟨nan⟩, Adonai za ta batar da ita, kuma za ta buge sojojinta a cikin teku, kuma ita ⟨da⟩ wuta za a cinye ta.",
+  "tokens": [
+    {
+      "surface": "הִנֵּ֤ה",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אֲדֹנָי֙",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יוֹרִישֶׁ֔נָּה",
+      "gloss": "za ta batar da ita"
+    },
+    {
+      "surface": "וְהִכָּ֥ה",
+      "gloss": "kuma za ta buge"
+    },
+    {
+      "surface": "בַיָּ֖ם",
+      "gloss": "a cikin teku"
+    },
+    {
+      "surface": "חֵילָ֑הּ",
+      "gloss": "sojojinta"
+    },
+    {
+      "surface": "וְהִ֖יא",
+      "gloss": "kuma ita"
+    },
+    {
+      "surface": "בָּאֵ֥שׁ",
+      "gloss": "da wuta"
+    },
+    {
+      "surface": "תֵּאָכֵֽל",
+      "gloss": "za a cinye ta"
+    }
+  ],
+  "timestamp": "2026-08-12T19:04:46.397416753Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 6:9",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "kuma ka ceci ku daga hannun Mitsrayim, daga hannun duk masu zaluntar ku, kuma na kore su daga gabanku, kuma na ba ku ⟨את⟩ ƙasarsu.",
+  "tokens": [
+    {
+      "surface": "ואצל",
+      "gloss": "kuma ka ceci"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "לחציכם",
+      "gloss": "masa nauyin ku"
+    },
+    {
+      "surface": "ואגרש",
+      "gloss": "kuma na kore"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "daga gabanku"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "kuma na ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasarsu"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ƙasarsu"
+    }
+  ],
+  "timestamp": "2026-08-12T07:32:51.104893571Z",
+  "model": "glm-5.2"
+}

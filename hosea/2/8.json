@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Saboda haka, ga, ni ina kewaye ⟨את⟩ hanyarka da ciyawa, kuma in gina ⟨את⟩ gan kuɗa, kuma hanyoyinta ba za ta same su ba.",
+  "tokens": [
+    {
+      "surface": "לָכֵ֛ן",
+      "gloss": "Saboda haka"
+    },
+    {
+      "surface": "הִנְנִי",
+      "gloss": "ga, ni"
+    },
+    {
+      "surface": "שָׂ֥ךְ",
+      "gloss": "ina kewaye"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "hanyarka"
+    },
+    {
+      "surface": "דַּרְכֵּ֖ךְ",
+      "gloss": "hanyarka"
+    },
+    {
+      "surface": "בַּסִּירִ֑ים",
+      "gloss": "da ciyawa"
+    },
+    {
+      "surface": "וְגָֽדַרְתִּי֙",
+      "gloss": "kuma in gina"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "gan kuɗa"
+    },
+    {
+      "surface": "גְּדֵרָ֔הּ",
+      "gloss": "gan kuɗa"
+    },
+    {
+      "surface": "וּנְתִיבוֹתֶ֖יהָ",
+      "gloss": "kuma hanyoyinta"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תִמְצָֽא",
+      "gloss": "za ta same su ba"
+    }
+  ],
+  "timestamp": "2026-08-12T18:12:06.267249109Z",
+  "model": "glm-5.2"
+}

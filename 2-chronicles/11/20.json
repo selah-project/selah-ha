@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma bayan ta, ya riƙe ⟨את⟩ Ma'akha 'yar Avshalom, ta haifa masa ⟨את⟩ Aviyah da ⟨את⟩ Attay da ⟨את⟩ Ziza da ⟨את⟩ Shelomit.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "Kuma bayan ta"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ya riƙe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ma'akha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Ma'akha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "'yar"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ta haifa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aviyah"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviyah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Attay"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Attay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Ziza"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Ziza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Shelomit"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Shelomit"
+    }
+  ],
+  "timestamp": "2026-08-13T02:45:21.845407146Z",
+  "model": "glm-5.2"
+}

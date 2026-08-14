@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 83,
+  "translation": "Elohim, kada shiru ya kasance ⟨a gare⟩ Kai, kada Ka ɓoye, kuma kada Ka natsu, El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "shiru"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a gare Kai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "Ka ɓoye"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "Ka natsu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-12T20:13:07.369929722Z",
+  "model": "glm-5.2"
+}

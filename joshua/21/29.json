@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 21:29",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "⟨את⟩ Yarmut da ⟨את⟩ mahaɗanta, ⟨את⟩ En-Gannim da ⟨את⟩ mahaɗanta — birane huɗu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarmut"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "Yarmut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "mahaɗanta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mahaɗanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "En-Gannim"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "-Gannim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "mahaɗanta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mahaɗanta"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "birane"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "huɗu"
+    }
+  ],
+  "timestamp": "2026-08-12T06:59:30.899574961Z",
+  "model": "glm-5.2"
+}

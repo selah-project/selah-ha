@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Haka ce Yahweh Tsubaot ya faɗa: Na duba ⟨את⟩ abin da Amalek ya yi wa Yisra'el — yadda ya kwanta masa maɓalli a hanya a lokacin da yake hawa daga Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Haka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsubaot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "Na duba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yadda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ya kwanta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "a hanya"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "a lokacin da yake hawa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "daga Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T09:09:36.629059787Z",
+  "model": "glm-5.2"
+}

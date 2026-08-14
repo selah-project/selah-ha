@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma za ka doke ⟨את⟩ gidan Achav, shugabananka, kuma Ni zan rama jinin bayi na, annabawa, da jinin dukkan bayi na Yahweh, daga hannun Izevel.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "Kuma za ka doke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "shugabananka"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "kuma Ni zan rama"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "jinin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bayi na"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "annabawa"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "da jinin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukka"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bayi na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    }
+  ],
+  "timestamp": "2026-08-12T12:09:21.067327788Z",
+  "model": "glm-5.2"
+}

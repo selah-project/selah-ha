@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma za ka sa iyaka ga ⟨את⟩ mutãna a kewaye, ka ce musu, 'Ku nemi tsaron ku, kada ku hau ⟨a⟩ dutsen, kuma kada ku taɓa gefensa; duk wanda ya taɓa dutsen da ya mutu ana kashe shi.'",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "Kuma za ka sa iyaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutãna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãna"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewaye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka ce"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Ku nemi tsaron"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "kada ku hau"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dutsen"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "kuma kada ku taɓa"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "gegensa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "wanda ya taɓa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dutsen"
+    },
+    {
+      "surface": "מות",
+      "gloss": "da ya mutu"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ana kashe shi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:53:50.685886961Z",
+  "model": "glm-5.2"
+}

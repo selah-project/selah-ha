@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 5:16",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma ⟨א־ת⟩ abin da ya yi laifi a shi daga cikin abin tsarki sai ya biya shi, kuma ⟨א־ת⟩ guda biyar ɗinsa sai ya ƙara a kansa, kuma ya bayar ⟨את⟩ da shi ga kohen; kuma kohen yana yin aphara a kansa da ramin hadayar laifi, kuma a gafarta masa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "abin da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ya yi laifi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "cikin abin tsarki"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "sai ya biya shi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "guda biyar ɗinsa"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "guda biyar ɗinsa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "sai ya ƙara"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "kuma ya bayar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ da shi"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ga kohen"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "kuma kohen"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "yana yin aphara"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "da ramin"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "hadayar laifi"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "kuma a gafarta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:55:43.928560588Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 76,
+  "translation": "Kai, kai ne mai tɓantarwa, kuma wa zai tsaya a gabanka daga lōkacin fushinka?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "mai tɓantarwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kuma wa"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "zai tsaya"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "a gabanka"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "daga lōkacin"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "fushinka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:07:06.427053490Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Rai ⟨na⟩ mai kasala tana yin sha'awa, amma babu ⟨komai⟩; amma rai ⟨na⟩ masu himma za ta ci gajiyar.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "tana yin sha'awa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "amma babu"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "rai"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "mai kasala"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "amma rai"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "masu himma"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "za ta ci gajiyar"
+    }
+  ],
+  "timestamp": "2026-08-12T21:15:18.667992654Z",
+  "model": "glm-5.2"
+}

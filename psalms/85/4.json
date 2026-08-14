@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 85,
+  "translation": "Ka tattara dukan fushinka, ka juya daga ƙoncikar fushinka.",
+  "tokens": [
+    {
+      "surface": "אָסַ֥פְתָּ",
+      "gloss": "Ka tattara"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "עֶבְרָתֶ֑ךָ",
+      "gloss": "fushinka"
+    },
+    {
+      "surface": "הֱ֝שִׁיב֗וֹתָ",
+      "gloss": "ka juya daga"
+    },
+    {
+      "surface": "מֵחֲר֥וֹן",
+      "gloss": "ƙoncikar"
+    },
+    {
+      "surface": "אַפֶּֽךָ",
+      "gloss": "fushinka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:15:06.385824353Z",
+  "model": "glm-5.2"
+}

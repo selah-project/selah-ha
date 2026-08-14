@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 5:12",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "kuma ka ce, \"Yadda nake ƙin horo! Kuma zuciya ta tausashi wa tsafta!",
+  "tokens": [
+    {
+      "surface": "וְאָמַרְתָּ֗",
+      "gloss": "kuma ka ce"
+    },
+    {
+      "surface": "אֵ֭יךְ",
+      "gloss": "Yadda"
+    },
+    {
+      "surface": "שָׂנֵ֣אתִי",
+      "gloss": "nake ƙin"
+    },
+    {
+      "surface": "מוּסָ֑ר",
+      "gloss": "horo"
+    },
+    {
+      "surface": "וְ֝תוֹכַ֗חַת",
+      "gloss": "Kuma zuciya ta"
+    },
+    {
+      "surface": "נָאַ֥ץ",
+      "gloss": "tausashi wa"
+    },
+    {
+      "surface": "לִבִּֽי",
+      "gloss": "tsafta"
+    }
+  ],
+  "timestamp": "2026-08-12T21:03:52.985329154Z",
+  "model": "glm-5.2"
+}

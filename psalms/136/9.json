@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 136,
+  "translation": "⟨את⟩ watã da taurari don su yi mulki a daren, cẽwa har abãda chesed⟨sa⟩.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watã"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "watã"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "da taurari"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "don su yi mulki"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "a daren"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cẽwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abãda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed⟨sa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:52:24.082035066Z",
+  "model": "glm-5.2"
+}

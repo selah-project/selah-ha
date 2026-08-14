@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "obadiah 1:17",
+  "book": "obadiah",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma a cikin Dutsen Tsijon za a sami tsira, kuma ⟨zai zama⟩ tsarki, kuma gidan Ya'akob za su gaji ⟨את⟩ gadon su.",
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "Kuma a cikin Dutsen"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "za a sami"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "tsira"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kuma ⟨zai zama⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsarki"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "kuma za su gaji"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gadon su"
+    },
+    {
+      "surface": "מורשיהם",
+      "gloss": "gadon su"
+    }
+  ],
+  "timestamp": "2026-08-12T18:36:12.681826002Z",
+  "model": "glm-5.2"
+}

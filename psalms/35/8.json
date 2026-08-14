@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Bari shaidar ya same shi a ba tare sanin ba; kuma gidan ajyalarsa wanda ya ɓoye ya kamata ya kama shi; a cikin wannan shaidar ya kamata ya faɗi cikinta.",
+  "tokens": [
+    {
+      "surface": "תְּבוֹאֵ֣הוּ",
+      "gloss": "Bari ya same shi"
+    },
+    {
+      "surface": "שׁוֹאָה֮",
+      "gloss": "shaidar"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יֵ֫דָ֥ע",
+      "gloss": "sanin"
+    },
+    {
+      "surface": "וְרִשְׁתּ֣וֹ",
+      "gloss": "kuma gidan ajyalarsa"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "טָמַ֣ן",
+      "gloss": "ya ɓoye"
+    },
+    {
+      "surface": "תִּלְכְּד֑וֹ",
+      "gloss": "ya kamata ya kama shi"
+    },
+    {
+      "surface": "בְּ֝שׁוֹאָ֗ה",
+      "gloss": "a cikin wannan shaidar"
+    },
+    {
+      "surface": "יִפָּל",
+      "gloss": "ya kamata ya faɗi"
+    },
+    {
+      "surface": "בָּֽהּ",
+      "gloss": "cikinta"
+    }
+  ],
+  "timestamp": "2026-08-12T19:35:39.040237231Z",
+  "model": "glm-5.2"
+}

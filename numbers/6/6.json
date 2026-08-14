@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Duk kwanakin da yake raba wa Yahweh, bai kamai ya zo kusa da rai ⟨na⟩ wanda ya mutu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "yake raba wa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "kusa da"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rai"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wanda ya mutu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bai kamai"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ya zo"
+    }
+  ],
+  "timestamp": "2026-08-13T01:50:01.381037951Z",
+  "model": "glm-5.2"
+}

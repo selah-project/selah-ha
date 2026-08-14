@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma Yehuda ya tafi, kuma Yahweh ya ba ⟨את⟩ Kena'ani da Farizi a hannunsu, suka laka musu a Bezek, dubu goman mutane.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Kuma ya tafi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kuma ya ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kena'ani da Farizi"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kena'ani"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "da Farizi"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "a hannunsu"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "suka laka musu"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "a Bezek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "goman"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutane"
+    }
+  ],
+  "timestamp": "2026-08-12T07:17:30.452414192Z",
+  "model": "glm-5.2"
+}

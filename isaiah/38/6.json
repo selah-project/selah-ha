@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Kuma ina tsirar da ka daga hannun sarkin Ashur, da ⟨את⟩ wannan birnin; kuma ina kare wannan birnin.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "kuma daga hannun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "ina tsirar da ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wannan birnin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "kuma ina kare"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨a kan⟩"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-13T02:09:56.001260750Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma ɗiyayen Chetsron, waɗanda aka haifa masa — ⟨את⟩ Yerachme'el da ⟨את⟩ Ram da ⟨את⟩ K'lubay.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Kuma ɗiyayen"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "an haifa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerachme'el"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerachme'el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "K'lubay"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "K'lubay"
+    }
+  ],
+  "timestamp": "2026-08-12T23:56:16.938689049Z",
+  "model": "glm-5.2"
+}

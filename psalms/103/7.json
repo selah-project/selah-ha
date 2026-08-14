@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 103,
+  "translation": "Ya sanar da ⟨את⟩ hanyoyinsa ga Mosheh, ⟨את⟩ ayyukansa ga ƴan Yisra'el.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "Ya sanar da"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "hanyoyinsa"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ga Mosheh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ga ƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ayyukansa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:42.538836320Z",
+  "model": "glm-5.2"
+}

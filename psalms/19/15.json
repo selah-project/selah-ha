@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kalmomin bakina da tunanin zuciyata su kasance ⟨don⟩ a yarda, gabaɗa gabanka, Yahweh, Dutsena, kuma Mai cetonko.",
+  "tokens": [
+    {
+      "surface": "יִֽהְי֥וּ",
+      "gloss": "su kasance"
+    },
+    {
+      "surface": "לְרָצ֨וֹן",
+      "gloss": "don a yarda"
+    },
+    {
+      "surface": "אִמְרֵי",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "פִ֡י",
+      "gloss": "bakina"
+    },
+    {
+      "surface": "וְהֶגְי֣וֹן",
+      "gloss": "da tunanin"
+    },
+    {
+      "surface": "לִבִּ֣י",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "לְפָנֶ֑יךָ",
+      "gloss": "gabaɗa gabanka"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צוּרִ֥י",
+      "gloss": "Dutsena"
+    },
+    {
+      "surface": "וְגֹאֲלִֽי",
+      "gloss": "kuma Mai cetonko"
+    }
+  ],
+  "timestamp": "2026-08-12T19:23:45.161706537Z",
+  "model": "glm-5.2"
+}

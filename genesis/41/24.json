@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 41:24",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Kuma shibōlim masu ƙanƙanta suka hadiye ⟨את⟩ shibōlim guda bakwai masu kyau. Sai na fãda wa mahërtumai, amma bãbu wanda yake bayyana mini.",
+  "tokens": [
+    {
+      "surface": "ותבלען",
+      "gloss": "suka hadiye"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "shibōlim"
+    },
+    {
+      "surface": "הדקת",
+      "gloss": "masu ƙanƙanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shibōlim masu kyau"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "guda bakwai"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "shibōlim"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "masu kyau"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Sai na fãda wa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "mahërtumai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "amma bãbu"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "wanda yake bayyana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mini"
+    }
+  ],
+  "timestamp": "2026-08-13T03:01:39.923636184Z",
+  "model": "glm-5.2"
+}

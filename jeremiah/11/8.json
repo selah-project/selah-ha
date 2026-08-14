@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 11:8",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Amma ba su saurāra ba, kuma ba su juyar da ⟨את⟩ kunān su ba; amma kōwāne yā tafi a cikin taurin zuciyarsa ta mugunta. Sai na kāwo musu ⟨את⟩ dukkan kalmomin wannan alkawarin da na umurta su su aiwatar da shi, amma ba su aiwatar da shi ba.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Amma ba"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "saurāra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "juyar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kunān su"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "kunān su"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "amma yā tafi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kōwāne"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "a cikin taurin"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "zuciyarsa"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ta mugunta"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "Sai na kāwo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "alkawarin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "na umurta su"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "su aiwatar da shi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "aiwatar da shi"
+    }
+  ],
+  "timestamp": "2026-08-12T15:17:54.308553567Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 22:15",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma ta ce musu: Haka ya faɗa Yahweh, Elohin Isra'ila: Ku faɗa wa mutumin da ya aiko ⟨את⟩ ku zuwa gare ni:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Kuma ta ce"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Haka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "Ku faɗa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "wa mutumin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ya aiko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zuwa gare ni"
+    }
+  ],
+  "timestamp": "2026-08-12T12:45:25.573586140Z",
+  "model": "glm-5.2"
+}

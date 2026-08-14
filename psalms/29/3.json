@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Sauten Yahweh yana a kan ruwa; El mai girma yana yin walks, Yahweh ⟨yana⟩ a kan ruwa mai yawa.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Sauten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "yana a kan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "mai girma"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "yana yin walks"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨yana⟩ a kan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mai yawa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:32:44.504166001Z",
+  "model": "glm-5.2"
+}

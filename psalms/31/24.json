@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Ku so ⟨את⟩ Yahweh, dukkan masu ibadarsa! ⟨Su⟩ masu amincewa ne; Yahweh yana kiyaye su, kuma yana saka ⟨da⟩ yawa a kan mai yawan girman kai.",
+  "tokens": [
+    {
+      "surface": "אֶֽהֱב֥וּ",
+      "gloss": "Ku so"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כָּֽל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "חֲסִ֫ידָ֥יו",
+      "gloss": "masu ibadarsa"
+    },
+    {
+      "surface": "אֱ֭מוּנִים",
+      "gloss": "masu amincewa"
+    },
+    {
+      "surface": "נֹצֵ֣ר",
+      "gloss": "yana kiyaye"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וּמְשַׁלֵּ֥ם",
+      "gloss": "kuma yana saka"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "יֶ֝תֶר",
+      "gloss": "⟨da⟩ yawa"
+    },
+    {
+      "surface": "עֹשֵׂ֥ה",
+      "gloss": "mai"
+    },
+    {
+      "surface": "גַאֲוָֽה",
+      "gloss": "yawan girman kai"
+    }
+  ],
+  "timestamp": "2026-08-12T19:34:00.072240950Z",
+  "model": "glm-5.2"
+}

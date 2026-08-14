@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Shin mutum biyu za su tafi tare, idan ba su yi taron ⟨wasu⟩ ba?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "za su tafi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mutum biyu"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tare"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "idan ba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "su"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "yi taron"
+    }
+  ],
+  "timestamp": "2026-08-12T18:26:51.342120081Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 9:1",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Sauri, Yisra'el: kai ⟨ke⟩ tsallaka ⟨את⟩ Yarden a yau, domin shiga don raba ƙasashen waɗannan manyan mutane masu ƙarfi ⟨fiye da kai⟩, biranen da manya kuma aka katanga har sama.",
+  "tokens": [
+    {
+      "surface": "שְׁמַ֣ע",
+      "gloss": "Sauri"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֗ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אַתָּ֨ה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "עֹבֵ֤ר",
+      "gloss": "tsallaka"
+    },
+    {
+      "surface": "הַיּוֹם֙",
+      "gloss": "a yau"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הַיַּרְדֵּ֔ן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "לָבֹא֙",
+      "gloss": "domin shiga"
+    },
+    {
+      "surface": "לָרֶ֣שֶׁת",
+      "gloss": "don raba"
+    },
+    {
+      "surface": "גּוֹיִ֔ם",
+      "gloss": "ƙasashen"
+    },
+    {
+      "surface": "גְּדֹלִ֥ים",
+      "gloss": "manya"
+    },
+    {
+      "surface": "וַעֲצֻמִ֖ים",
+      "gloss": "masu ƙarfi"
+    },
+    {
+      "surface": "מִמֶּ֑ךָּ",
+      "gloss": "fiye da kai"
+    },
+    {
+      "surface": "עָרִ֛ים",
+      "gloss": "biranen"
+    },
+    {
+      "surface": "גְּדֹלֹ֥ת",
+      "gloss": "manya"
+    },
+    {
+      "surface": "וּבְצֻרֹ֖ת",
+      "gloss": "aka katanga"
+    },
+    {
+      "surface": "בַּשָּׁמָֽיִם",
+      "gloss": "har sama"
+    }
+  ],
+  "timestamp": "2026-08-12T05:10:20.424565405Z",
+  "model": "glm-5.2"
+}

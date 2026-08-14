@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma idan ka yi mini ⟨daga⟩ dutse ⟨wani⟩ matafi, kada ka gina duśen-ɗutse; domin idan ka jãrar takobinka a kansa, ka ɓata shi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "matafi"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "dutse"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ka yi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ka gina"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "duśen-ɗutse"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "duśen-ɗutse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "takobinka"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "ka jãrar"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "ka ɓata shi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:58:04.517108483Z",
+  "model": "glm-5.2"
+}

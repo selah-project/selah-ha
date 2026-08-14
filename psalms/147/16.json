@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 147,
+  "translation": "Shi mai bayar da dusar ƙanƙara kamar tsoho, kamar toka yana watsa ƙanƙara.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "shi mai bayar da"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "dusar ƙanƙara"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "kamar tsoho"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "ƙanƙara"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "kamar toka"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "yana watsa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:58:53.108570849Z",
+  "model": "glm-5.2"
+}

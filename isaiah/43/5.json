@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Kada ka ji tsoro, domin ni ⟨ne⟩ tare da ⟨את⟩ kai; daga gabas zan kawo zuriyarka, kuma daga yamma zan tara ⟨את⟩ kai.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תִּירָא",
+      "gloss": "ka ji tsoro"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אִתְּךָ",
+      "gloss": "⟨את⟩",
+      "marks": "tare da kai"
+    },
+    {
+      "surface": "אָנִי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מִמִּזְרָח",
+      "gloss": "daga gabas"
+    },
+    {
+      "surface": "אָבִיא",
+      "gloss": "zan kawo"
+    },
+    {
+      "surface": "זַרְעֶךָ",
+      "gloss": "zuriyarka"
+    },
+    {
+      "surface": "וּמִמַּעֲרָב",
+      "gloss": "kuma daga yamma"
+    },
+    {
+      "surface": "אֲקַבְּצֶךָּ",
+      "gloss": "zan tara"
+    }
+  ],
+  "timestamp": "2026-08-12T14:04:39.534861846Z",
+  "model": "glm-5.2"
+}

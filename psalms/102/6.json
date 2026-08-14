@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 102,
+  "translation": "Saboda sautin gusar na, ƙashina ya manne ga naman jikina.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "saboda sautin"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "gusar na"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "ya manne"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ƙashina"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "ga naman jikina"
+    }
+  ],
+  "timestamp": "2026-08-12T20:24:27.918029915Z",
+  "model": "glm-5.2"
+}

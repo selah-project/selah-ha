@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 23:9",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma Dawuda ya san cewa Sha'ul ⟨yana⟩ shirin masa cuta a asirce, sa'an nan ya ce wa Eviyatar ⟨babban⟩ kohen, \"Kawo ⟨nan⟩ ephod.\"",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "Kuma ya san"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "shirin"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "cuta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sa'an nan ya ce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Eviyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨babban⟩ kohen"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "Kawo"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ephod"
+    }
+  ],
+  "timestamp": "2026-08-12T09:34:04.228843338Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma zan aiko a cikinsu ⟨da⟩ ⟨את⟩ takobi, ⟨את⟩ yunwa, da ⟨את⟩ annoba, har sun ɓace daga ƙasar da na bayar musu da kuma ga ubanninsu.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Kuma zan aiko"
+    },
+    {
+      "surface": "בם",
+      "gloss": "a cikinsu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "takobi"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "takobi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yunwa"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "yunwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "annoba"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "annoba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "sun ɓace"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "daga"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "na bayar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "da kuma ga ubanninsu"
+    }
+  ],
+  "timestamp": "2026-08-12T15:38:52.357757451Z",
+  "model": "glm-5.2"
+}

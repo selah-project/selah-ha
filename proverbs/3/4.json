@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": " domin ka sami alheri da kyakkyawar fahimta a idanun Elohim da ⟨na⟩ mutum.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "domin ka sami"
+    },
+    {
+      "surface": "חן",
+      "gloss": "alheri"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "da kyakkyawar fahimta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨kyakkyawar⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "da ⟨na⟩ mutum"
+    }
+  ],
+  "timestamp": "2026-08-13T02:28:26.087002200Z",
+  "model": "glm-5.2"
+}

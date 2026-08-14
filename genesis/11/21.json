@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Sannan Reu ya rayu, bayan ya haifar da ⟨את⟩ Serug, shekara ɗari biyu da bakwai, kuma ya haifi ƴaƴa maza da ƴaƴa mata.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kuma ya rayu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ya haifar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bakwai"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "kuma ɗari biyu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "kuma ya haifi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ƴaƴa maza"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "kuma ƴaƴa mata"
+    }
+  ],
+  "timestamp": "2026-08-11T23:28:56.497810735Z",
+  "model": "glm-5.2"
+}

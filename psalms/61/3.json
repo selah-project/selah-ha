@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 61,
+  "translation": "Daga ƙarshen ƙasa zuwa gare ka zan kira, a lokacin da zuciyata ta gūra, a cikin dutse mai tsayi daga gare ni ka shigo da ni.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Daga ƙarshen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zuwa gare ka"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "zan kira"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "ta gūra"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "a cikin dutse"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "mai tsayi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daga gare ni"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ka shigo da ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:56:36.732542930Z",
+  "model": "glm-5.2"
+}

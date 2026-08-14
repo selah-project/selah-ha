@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Yana tattara ruwan teku kamar tudu; yana ajiye tekun cikin taskoki.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "Yana tattara"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "kamar tudu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yana ajiye"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "cikin taskoki"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "tekun"
+    }
+  ],
+  "timestamp": "2026-08-12T19:34:32.598204390Z",
+  "model": "glm-5.2"
+}

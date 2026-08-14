@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Kuma Mosheh ya rubuta ⟨את⟩ wannan Torah, ya kuma ba ta ga kohanim, ɗan Lewi, masu ɗaukar ⟨את⟩ akwatin alkawarin Yahweh, da kuma dattijan Isra'ila ⟨duka⟩.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "kuma ya rubuta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan Torah"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ya kuma ba ta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohanim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "masu ɗaukar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin alkawarin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwati"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alkawari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "da kuma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "dattijan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-13T03:04:13.963632883Z",
+  "model": "glm-5.2"
+}

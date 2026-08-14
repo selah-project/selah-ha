@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 18:36",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma ka ba ni garkuwar tsirar ta, damarka ta dama tana gadona, kuma tawalı'arka ta sa ni girma.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "Kuma ka ba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "garkuwar"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "tsirar ta"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "damarka ta dama"
+    },
+    {
+      "surface": "תסעדני",
+      "gloss": "tana gadona"
+    },
+    {
+      "surface": "וענותך",
+      "gloss": "kuma tawalı'arka"
+    },
+    {
+      "surface": "תרבני",
+      "gloss": "ta sa ni girma"
+    }
+  ],
+  "timestamp": "2026-08-12T19:25:14.887138744Z",
+  "model": "glm-5.2"
+}

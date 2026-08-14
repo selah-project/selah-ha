@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "sai suka tafi suka bauta wa elohim wasu, suka lalle su gare su, elohim waɗanda ba su san su ba, kuma wanda ba ya raba musu ⟨su⟩.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "suka tafi"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "suka bauta wa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wasu"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "suka lalle"
+    },
+    {
+      "surface": "להם",
+      "gloss": "su gare su"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "su san su"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ya raba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    }
+  ],
+  "timestamp": "2026-08-12T05:52:02.876736762Z",
+  "model": "glm-5.2"
+}

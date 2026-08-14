@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 31:2",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Ya ɗan adam, ka faɗa ga Paroh sarki Mitsrayim da kuma tarin sa: Wa ne ka kama da shi girmanka?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ya ɗan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka faɗa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "da kuma ga"
+    },
+    {
+      "surface": "המונו",
+      "gloss": "tarin sa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ga⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wa ne"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "ka kama da shi"
+    },
+    {
+      "surface": "בגדלך",
+      "gloss": "girmanka"
+    }
+  ],
+  "timestamp": "2026-08-12T17:38:21.000338035Z",
+  "model": "glm-5.2"
+}

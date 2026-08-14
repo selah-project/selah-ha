@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Domin bisa fushi na Yahweh ✦ya kasance a Yerushalama da Yahuda, har ya jefa ⟨את⟩ su daga gaban sa, kuma Tsidkiyahu ya tada yaƙi da sarki na Babil.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "על",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "fushi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "a Yerushalama"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "da Yahuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "ya jefa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "daga"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "gaban sa"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "kuma ya tada yaƙi"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "da sarki"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    }
+  ],
+  "timestamp": "2026-08-12T12:50:09.378313690Z",
+  "model": "glm-5.2"
+}

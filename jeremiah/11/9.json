@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 11:9",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Yahweh ya ce gare ni: \"An sami makirci a cikin mutanen Yehudah, da kuma cikin mazaunan Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "An sami"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "makirci"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "a cikin mutanen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ובישבי",
+      "gloss": "da kuma cikin mazaunan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-12T15:16:14.364775910Z",
+  "model": "glm-5.2"
+}

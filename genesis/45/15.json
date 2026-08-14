@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 45:15",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Kuma ya rungumi duka ƴan'uwansa ya yi musu kuka, kuma bayan haka ƴan'uwansa suka yi magana ⟨את⟩ shi.",
+  "tokens": [
+    {
+      "surface": "וינשק",
+      "gloss": "ya rungumi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ƴan'uwansa"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ya yi kuka"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "a kansu"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "kuma bayan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "suka yi magana"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ƴan'uwansa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:22:00.401095903Z",
+  "model": "glm-5.2"
+}

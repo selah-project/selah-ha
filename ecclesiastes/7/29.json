@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Ka duba kawai, wannan ne na samu: cewa Elohim ya yi ⟨את⟩ mutum madaidaici, amma su sun nemo ƙididdigar hujjoji da yawa.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "kawai"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ka duba"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "na samu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutum"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "madaidaici"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "amma su"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "sun nemo"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "ƙididdigar hujjoji"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "da yawa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:44:11.495582237Z",
+  "model": "glm-5.2"
+}

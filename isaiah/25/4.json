@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 25:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Domin ka kasance mafaka ga talaka, mafaka ga miskini a cikin tsanantawarsa, mafaka daga guguwa, inuwa daga zafin rana, domin iskar masu tashin hankali kamar guguwa ☰ce☰ a kan bango.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ka-kasance"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "mafaka"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "ga-talaka"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "mafaka"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "ga-miskini"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "a-cikin-tsanani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gare-shi"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "maɓoyi"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "daga-guguwa"
+    },
+    {
+      "surface": "צל",
+      "gloss": "inuwa"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "daga-zafin-rana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "iska"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "masu-tashin-hankali"
+    },
+    {
+      "surface": "כזרם",
+      "gloss": "kaman-guguwa"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-08-12T13:35:06.523412225Z",
+  "model": "glm-5.2"
+}

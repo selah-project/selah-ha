@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Da gaskiya, Yahweh, sarakunan Asshur sun lalata ⟨את⟩ al'ummomin da ⟨את⟩ ƙasarsu.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Da gaskiya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "sun lalata"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sarakunan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asshur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al'ummomin"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "al'ummomin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasarsu"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ƙasarsu"
+    }
+  ],
+  "timestamp": "2026-08-13T03:05:13.979347255Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Sa'adon mutumin da ya sanya Yahweh a matsayin dogaro⟨sa⟩, kuma bai juya zuwa mutanen girman kai ba, ko masu karkatar zuwa ƙarya.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "sa'adon"
+    },
+    {
+      "surface": "הַגֶּבֶר",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "da"
+    },
+    {
+      "surface": "שָׂם",
+      "gloss": "ya sanya"
+    },
+    {
+      "surface": "יְהֹוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מִבְטַחוֹ",
+      "gloss": "dogaro⟨sa⟩"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "פָנָה",
+      "gloss": "jiraya"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "רְהָבִים",
+      "gloss": "mutanen girman kai"
+    },
+    {
+      "surface": "וְשָׂטֵי",
+      "gloss": "ko masu karkatar"
+    },
+    {
+      "surface": "כָזָב",
+      "gloss": "zuwa ƙarya"
+    }
+  ],
+  "timestamp": "2026-08-12T19:43:09.551944851Z",
+  "model": "glm-5.2"
+}

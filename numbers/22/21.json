@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Sai Bilam ya tashi da safe, ya dora ⟨את⟩ jakinsa, ya tafi tare da sarakunan Moav.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ya tashi"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "da safe"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "ya dora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jakinsa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "jakinsa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sarakoman"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    }
+  ],
+  "timestamp": "2026-08-12T04:16:21.197541171Z",
+  "model": "glm-5.2"
+}

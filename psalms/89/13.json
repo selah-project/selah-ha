@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Arewa da kuma ⟨kudu⟩, kai ka halicce su; Tabor da kuma Hermon za su yi murna da sunanka.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "Arewa"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "da kuma ⟨kudu⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "ka halicce su"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tabor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "da kuma Hermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "da sunanka"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "za su yi murna"
+    }
+  ],
+  "timestamp": "2026-08-12T20:16:02.575840136Z",
+  "model": "glm-5.2"
+}

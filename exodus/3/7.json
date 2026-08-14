@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma Yahweh ⟨ya ce⟩: gani, na gani ⟨ne⟩ ⟨את⟩ wahalar mutanata da ke Mitsrayim, kuma ⟨את⟩ kurumtarsu na ji daga fuskar masu tilasta musu aiki; domin na san ⟨את⟩ ciwon su.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gani"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "na gani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wahalar"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wahalar"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mutanata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da ke"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "kurumtarsu"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "kurumtarsu"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "na ji"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "daga fuskar"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "masu tilasta musu aiki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "na san"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciwon su"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "ciwon su"
+    }
+  ],
+  "timestamp": "2026-08-12T00:30:35.617020005Z",
+  "model": "glm-5.2"
+}

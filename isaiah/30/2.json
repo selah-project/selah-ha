@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 30:2",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "⟨Waɗannan⟩ masu tafiya don su sauka zuwa Mitsrayim, kuma ba su tambaye bakina; don su nemi ƙarfi a cikin ƙarfin Paroh, kuma su nemi mafaka a cikin inuwar Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ההלכים",
+      "gloss": "masu tafiya"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "don su sauka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "zuwa Mitsrayim"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "kuma bakina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "su tambaye ba"
+    },
+    {
+      "surface": "לעוז",
+      "gloss": "don su nemi ƙarfi"
+    },
+    {
+      "surface": "במעוז",
+      "gloss": "a cikin ƙarfin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולחסות",
+      "gloss": "kuma su nemi mafaka"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "a cikin inuwar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T13:48:29.347128397Z",
+  "model": "glm-5.2"
+}

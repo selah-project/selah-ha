@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Bari teburinsu ya zama a gaban su ⟨a matsayin⟩ tarko, kuma ⟨ga⟩ masu salama ⟨a matsayin⟩ mahaddi.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "bari ya zama"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "teburinsu"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "a gaban su"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "⟨a matsayin⟩ tarko"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "kuma ⟨ga⟩ masu salama"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "⟨a matsayin⟩ mahaddi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:58:58.935617364Z",
+  "model": "glm-5.2"
+}

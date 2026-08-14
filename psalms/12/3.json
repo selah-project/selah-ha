@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Rugujja kowane mutum yana faɗa wa ⟨את⟩ kawayensa, leɓe masu santsi, da zuciya da zuciya ⟨suna⟩ faɗar.",
+  "tokens": [
+    {
+      "surface": "שָׁ֤וְא",
+      "gloss": "Rugujja"
+    },
+    {
+      "surface": "יְֽדַבְּרוּ֮",
+      "gloss": "suna faɗa"
+    },
+    {
+      "surface": "אִ֤ישׁ",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kawayensa"
+    },
+    {
+      "surface": "רֵ֫עֵ֥הוּ",
+      "gloss": "kawayensa"
+    },
+    {
+      "surface": "שְׂפַ֥ת",
+      "gloss": "leɓe"
+    },
+    {
+      "surface": "חֲלָק֑וֹת",
+      "gloss": "masu santsi"
+    },
+    {
+      "surface": "בְּלֵ֖ב",
+      "gloss": "da zuciya"
+    },
+    {
+      "surface": "וָלֵ֣ב",
+      "gloss": "da zuciya"
+    },
+    {
+      "surface": "יְדַבֵּֽרוּ",
+      "gloss": "⟨suna⟩ faɗar"
+    }
+  ],
+  "timestamp": "2026-08-12T19:18:38.199061251Z",
+  "model": "glm-5.2"
+}

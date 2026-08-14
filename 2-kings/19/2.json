@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma ya aiko ⟨da⟩ ⟨את⟩ Elyakim, wanda yake a kan gidan, da Shevna mai rubutu, da ⟨את⟩ dattawan kohanim, suna rufe da shāƙa, zuwa Yesha'yahu annabi, ɗan Amots.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kuma ya aiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "yake a kan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "da Shevna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "mai rubutu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dattawan kohanim"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "dattawan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohanim"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "suna rufe"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "da shāƙa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yesha'yahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-08-12T12:38:07.827933981Z",
+  "model": "glm-5.2"
+}

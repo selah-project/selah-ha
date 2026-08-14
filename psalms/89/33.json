@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Kuma zan ziyarta da sanda zunubansu, kuma da duka laifinsu.",
+  "tokens": [
+    {
+      "surface": "וּפָקַדְתִּ֣י",
+      "gloss": "Kuma zan ziyarta"
+    },
+    {
+      "surface": "בְשֵׁ֣בֶט",
+      "gloss": "da sanda"
+    },
+    {
+      "surface": "פִּשְׁעָ֑ם",
+      "gloss": "zunubansu"
+    },
+    {
+      "surface": "וּבִנְגָעִ֥ים",
+      "gloss": "kuma da duka"
+    },
+    {
+      "surface": "עֲוֺנָֽם",
+      "gloss": "laifinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:17:15.123712237Z",
+  "model": "glm-5.2"
+}

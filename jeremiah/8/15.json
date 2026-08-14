@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Ana ɗan yawaituwa da alheri, amma babu kyauta; ana jiran lokacin shan magani, sai ga tsoro!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Ana jiran"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "alheri"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "amma babu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kyauta"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "lokacin"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "shan magani"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sai ga"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "tsoro"
+    }
+  ],
+  "timestamp": "2026-08-13T23:50:08.918716087Z",
+  "model": "glm-5.2"
+}

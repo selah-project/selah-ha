@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "⟨את⟩ Yahweh Elohim-ka za ka ji tsoro, kuma ⟨את⟩⟨shi⟩ ka bauta, kuma da sunan-sa ka rantsa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohim-ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ka"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "za ka ji tsoro"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "kuma ⟨את⟩⟨shi⟩",
+      "marks": "ka bauta"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ka bauta"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "kuma da sunan-sa"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ka rantsa"
+    }
+  ],
+  "timestamp": "2026-08-13T01:53:54.901429910Z",
+  "model": "glm-5.2"
+}

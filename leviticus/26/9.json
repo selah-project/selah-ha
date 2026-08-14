@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma Zan juya ⟨a kan⟩ ku, kuma Zan yi ku 'ya'ya, kuma Zan yawaita ku, kuma Zan tsayar da ⟨את⟩ alkawarina ⟨את⟩ ⟨a tare⟩ da ku.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "Kuma Zan juya"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "⟨a kan⟩ ku"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "kuma Zan yi ku 'ya'ya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku",
+      "marks": "ku"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "kuma Zan yawaita"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku",
+      "marks": "ku"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "kuma Zan tsayar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alkawarina"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alkawarina"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨a tare⟩ da ku"
+    }
+  ],
+  "timestamp": "2026-08-12T02:57:54.646313175Z",
+  "model": "glm-5.2"
+}

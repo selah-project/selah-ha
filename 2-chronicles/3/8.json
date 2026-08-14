@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 3:8",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ya yi ⟨את⟩ gida ⟨na⟩ tsarki na tsarkaka — tsayinsa a gaban faɗin gidan ya kai ƙaf'u ashirin, kuma faɗinsa ya kai ƙaf'u ashirin, kuma ya rufe shi da zinariya mai kyau — adadin talenti dari shida.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gida na tsarki na tsarkaka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsarki"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "tsarkaka"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "tsayinsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "פני",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "faɗin"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ƙaf'u"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "ורחבו",
+      "gloss": "kuma faɗinsa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ƙaf'u"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "kuma ya rufe shi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinariya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "לככרים",
+      "gloss": "adadin talenti"
+    },
+    {
+      "surface": "שש",
+      "gloss": "shida"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dari"
+    }
+  ],
+  "timestamp": "2026-08-13T00:42:21.920785915Z",
+  "model": "glm-5.2"
+}

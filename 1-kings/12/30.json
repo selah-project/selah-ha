@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma wannan magana ta zama zunubi, kuma mutane suna tafiya a gaban ɗaya zuwa Dan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ... ta zama"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "magana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "zunubi"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "suna tafiya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-08-12T11:22:15.414907924Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "ƙarfafa ku, hannaye masu rauni, da gwiwoyi masu gurguzu, ku ɗaƙa ƙarfi!",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "ku ƙarfafa"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "hannaye"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "masu rauni"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "da gwiwoyi"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "masu gurguzu"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "ku ɗaƙa ƙarfi"
+    }
+  ],
+  "timestamp": "2026-08-12T13:52:10.795386290Z",
+  "model": "glm-5.2"
+}

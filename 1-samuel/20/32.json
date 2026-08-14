@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma Yehonatan ya amsa ⟨את⟩ Sha'ul mahaifinsa, kuma ya ce masa, \"Don me za a kashe shi? Me ya aikata?\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Kuma ⟨ya amsa⟩"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha'ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "mahaifinsa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ⟨ya ce⟩"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Don me"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "za a kashe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Me"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya aikata"
+    }
+  ],
+  "timestamp": "2026-08-12T09:23:41.965189124Z",
+  "model": "glm-5.2"
+}

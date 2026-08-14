@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma Aharon da 'ya'yansa maza za su ci ⟨את⟩ nisin ramin da ⟨את⟩ burodin da ⟨yana⟩ a cikin kwandon, a ƙofar Ohel Mo'ed.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "Kuma za su ci"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "da 'ya'yansa maza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nisin ramin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nisin"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ramin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "burodin"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "burodin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "a cikin kwandon"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "a ƙofar"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Mo'ed"
+    }
+  ],
+  "timestamp": "2026-08-13T01:48:15.588323103Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 12:42",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Da irin dare ne na tsaro ga Yahweh, don fitar da su daga ƙasar Mitsrayim; wannan shi ne dare ga Yahweh, na tsaro ga dukan 'ya'yan Yisra'el, don zabansu.",
+  "tokens": [
+    {
+      "surface": "ליל",
+      "gloss": "Da irin dare"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "na tsaro"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "להוציאם",
+      "gloss": "don fitar da su"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨shi⟩"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "dare"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "na tsaro"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ga dukan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "don zabansu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:46:00.856460644Z",
+  "model": "glm-5.2"
+}

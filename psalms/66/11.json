@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 66,
+  "translation": "Ka kawo mu cikin bishiyar-giza; ka sanya matsanancin-ƙalubale a gabansu mu.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "ka kawo mu"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "cikin bishiyar-giza"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ka sanya"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "matsanancin-ƙalubale"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "a gabansu mu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:56:20.078403133Z",
+  "model": "glm-5.2"
+}

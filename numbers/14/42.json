@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kada ku hawa, domin Yahweh bai cikin ku, domin kada a yi ku shinge a gaban maƙiyanku.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "ku hawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "cikin ku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "domin kada"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "a yi ku shinge"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "maƙiyanku"
+    }
+  ],
+  "timestamp": "2026-08-12T03:59:20.166909523Z",
+  "model": "glm-5.2"
+}

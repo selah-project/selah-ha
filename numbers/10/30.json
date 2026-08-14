@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma ⟨shi⟩ ya ce masa: \"Ba zan tafi ba; amma zuwa ƙasata da zuwa wurin haihuwata ne zan tafi.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "zan tafi"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "amma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "ƙasata"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "da zuwa"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "wurin haihuwata"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "zan tafi"
+    }
+  ],
+  "timestamp": "2026-08-12T03:44:04.604970243Z",
+  "model": "glm-5.2"
+}

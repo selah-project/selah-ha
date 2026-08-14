@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Waɗannan ⟨sũ⟩ 'ya'yan Shem, danginsu da yarukansu, a ƙasashensu, ga al'ummominsu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "danginsu"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "yarukansu"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "a ƙasashensu"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "ga al'ummominsu"
+    }
+  ],
+  "timestamp": "2026-08-11T23:28:45.076120696Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Sai suka kusanci, kuma suka ɗauke su cikin rigunansu zuwa wajen sansanin, kamar yadda Moshe ya faɗa.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "sai suka kusanci"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "kuma suka ɗauke su"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "cikin rigunansu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "wajen"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "sansanin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-12T02:04:58.488215735Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 6:8",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Ƙofar ɗakin hawan-tsakki ⟨ta kasance⟩ a gefen dama na bayin; kuma da matakala masu jujjuya ⟨suka⟩ hau zuwa tsakiya, kuma daga tsakiya zuwa na uku.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ƙofar"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "ɗakin hawan-tsakki"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "tsakiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "gefen"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bayin"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "dama"
+    },
+    {
+      "surface": "ובלולים",
+      "gloss": "kuma da matakala masu jujjuya"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "suka hau"
+    },
+    {
+      "surface": "על",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "tsakiya"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kuma daga"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "tsakiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "na uku"
+    }
+  ],
+  "timestamp": "2026-08-12T11:03:01.848585172Z",
+  "model": "glm-5.2"
+}

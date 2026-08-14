@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma lalle gaskiya na ƙetare, ⟨את⟩ kuskurena yana zaune tare da ni.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "lalle gaskiya"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "na ƙetare"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kuskurena"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "yana zaune"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "kuskurena"
+    }
+  ],
+  "timestamp": "2026-08-12T21:56:07.639299332Z",
+  "model": "glm-5.2"
+}

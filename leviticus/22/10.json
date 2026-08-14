@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma kowane baƙo ba zai ci abin tsarkakewa ba; mahaunin malami da sakatare ba za su ci abin tsarkakewa ba.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kuma kowane"
+    },
+    {
+      "surface": "זר",
+      "gloss": "baƙo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zai ci"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "abin tsarkakewa"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "mahauni"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "malami"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "da sakatare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "za su ci"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "abin tsarkakewa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:42:19.623474633Z",
+  "model": "glm-5.2"
+}

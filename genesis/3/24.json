@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ya kora ⟨את⟩ ⟨adamu⟩, kuma ya sa ⟨את⟩ ƙerubai a gabashin gonar Eden su zauna, da ⟨את⟩ walƙílar takobi mai juyawa, don su tsaron ⟨את⟩ hanyar itacen rayuwa.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "kuma ya kora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adamu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨adamu⟩"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "kuma ya sa su zauna"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "a gabashin"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "gonar"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙerubai"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ƙerubai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "walƙílar takobi"
+    },
+    {
+      "surface": "להט",
+      "gloss": "walƙílar"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "takobi"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "mai juyawa"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "don su tsaron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hanyar"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "itacen"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "rayuwa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:22:17.294314548Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ni miskini ne gaunawanne; Adonai ya yi mini lissabi: taimakona kuma mai ceto na Kai ne; Elohim na, Kada Ka jinkirta!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kuma ni"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskini"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "gaunawanne"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ya yi mini lissabi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "taimakona"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "kuma mai ceto na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "Ka jinkirta"
+    }
+  ],
+  "timestamp": "2026-08-12T19:41:11.604398967Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma Elohim ya duba ⟨את⟩ duk abin da ya yi, kuma ga shi, ⟨ya kasance⟩ mai kyau sosai. Kuma ya kasance yamma, kuma ya kasance safiya — rana ta shida.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Kuma ya duba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duk abin da ya yi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kuma ga shi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ya kasance"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "yamma"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "safiya"
+    },
+    {
+      "surface": "יום",
+      "gloss": "rana"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ta shida"
+    }
+  ],
+  "timestamp": "2026-08-11T23:18:48.831779072Z",
+  "model": "glm-5.2"
+}

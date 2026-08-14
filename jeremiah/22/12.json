@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Gama a cikin wajen da suka gudanar da shi gudun hijira, can zai mutu, kuma ⟨את⟩ wannan ƙasar ba zai sake gani ba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gama"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "a cikin wajen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "suka gudanar da shi gudun hijira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zai mutu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "wannan ƙasar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "zai sake gani"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-08-12T15:36:21.096134448Z",
+  "model": "glm-5.2"
+}

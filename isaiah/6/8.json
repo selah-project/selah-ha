@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma na ji ⟨muryar⟩ ⟨את⟩ sautīn Adonai yana cewa: \"⟨את⟩ wa zan aiko, kuma wāne zai tafi gare mu?\" Sai na ce: \"Ga ni, ka aike ni.\"",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Kuma na ji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sautīn"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sautīn"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "zan aiko"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kuma wāne"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "zai tafi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "gare mu"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Sai na ce"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ga ni"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ka aike ni"
+    }
+  ],
+  "timestamp": "2026-08-12T13:06:14.898515022Z",
+  "model": "glm-5.2"
+}

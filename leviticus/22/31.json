@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma ku kiyaye umarnaina, kuma ku yi ⟨אֵת⟩ su; ni ni ne Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Kuma ku kiyaye"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "umurnaina"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "kuma ku yi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su (umarnai)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni ne Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T02:43:40.945081883Z",
+  "model": "glm-5.2"
+}

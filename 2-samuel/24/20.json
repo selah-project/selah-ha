@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "kuma Aravnah ya duba, ya ga ⟨את⟩ sarki da ⟨את⟩ bayinsa suna wucewa a kansa; Aravnah ya fito, ya yi lalleɓe wa sarki, fuskarsa ⟨tana⟩ a ƙasa.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "kuma ya duba"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravnah"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ya ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "bayinsa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bayinsa"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "suna wucewa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ya fito"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravnah"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ya yi lalleɓe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "wa sarki"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "fuskarsa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "a ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T10:48:11.359037469Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 94,
+  "translation": "Yahweh ya kasance ⟨ne⟩ a gare ni matsuguni, kuma Elohim na zuwa dutsen mafakata.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a gare ni"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "matsuguni"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "kuma Elohim na"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "zuwa dutse"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mafakata"
+    }
+  ],
+  "timestamp": "2026-08-12T20:19:15.012872861Z",
+  "model": "glm-5.2"
+}

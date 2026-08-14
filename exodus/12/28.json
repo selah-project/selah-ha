@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Sa'an nan ɗan'isan Isra'ila suka tafi, suka aikata, kamar yadda Yahweh ya umurci ⟨את⟩ Moshe da ⟨את⟩ Aharon; haka suka aikata.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "suka tafi"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "suka aikata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗan'isan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "da Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "suka aikata"
+    }
+  ],
+  "timestamp": "2026-08-12T00:50:14.574759911Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma yanzu, ga shi, na kawo ⟨את⟩ farkon 'ya'yan itacen ƙasar da ka ba ni, Yahweh; kuma za ka ajiye shi a gaban Yahweh Elohim ka, kuma za ka lallasa ⟨kai⟩ a gaban Yahweh Elohim ka.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kuma yanzu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "na kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "farkon 'ya'yan itacen ƙasar"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "farkon"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "'ya'yan itacen"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ka ba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "kuma za ka ajiye shi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ka"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "kuma za ka lallasa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:40:17.665633708Z",
+  "model": "glm-5.2"
+}

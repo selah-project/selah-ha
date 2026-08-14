@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Sa'an nan Moshe ya sauka daga dutsen zuwa ga mutãnen, ya tsarkake ⟨את⟩ mutãnen, kuma suka wanka tufafinsu.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Sa'an nan ya sauka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dutsen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ya tsarkake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutãnen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "suka wanka"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "tufafinsu"
+    }
+  ],
+  "timestamp": "2026-08-13T01:46:21.053627248Z",
+  "model": "glm-5.2"
+}

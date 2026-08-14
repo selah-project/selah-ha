@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 94,
+  "translation": "Kuma sunā cēwa, \"Yah bā zāi gāni ba, kuma Elohim na Ya'ƙūb bā zāi fahimta ba.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "kuma sunā cēwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bā"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "zāi gāni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma bā"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "zāi fahimta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'ƙūb"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:30.220175574Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 4:16",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma ya ce, \"A lokacin da aka kayyade, kamar lokacin rai, ⟨kai⟩ za ka runɡe ɗa.\" Kuma ta ce, \"A'a, Adonai na, mutumin Elohim, kada ka ƙarya wa baiwar ka.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "A lokacin da aka kayyade"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "kamar lokacin"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "rai"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨kai⟩"
+    },
+    {
+      "surface": "חבקת",
+      "gloss": "za ka runɡe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗa"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Kuma ta ce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "A'a, kada"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai na"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada ka"
+    },
+    {
+      "surface": "תכזב",
+      "gloss": "ƙarya"
+    },
+    {
+      "surface": "בשפחתך",
+      "gloss": "wa baiwar ka"
+    }
+  ],
+  "timestamp": "2026-08-12T11:59:12.795241876Z",
+  "model": "glm-5.2"
+}

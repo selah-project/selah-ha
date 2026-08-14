@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 52,
+  "translation": "Domin haka ne Yahweh ya faɗa: ⟨a⟩ gyautattu ne aka sayar da ku, kuma ba da kuɗi ⟨ce⟩ za a fanshe ku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "כה",
+      "gloss": "haka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "⟨a⟩ gyautattu ne"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "aka sayar da ku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "da kuɗi"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "za a fanshe ku"
+    }
+  ],
+  "timestamp": "2026-08-12T14:27:29.079906340Z",
+  "model": "glm-5.2"
+}

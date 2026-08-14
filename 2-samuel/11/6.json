@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Dawuda ya aiko wa Yo'ab, ⟨yana⟩ cewa, Ka aiko min ⟨את⟩ Uriya ɗan Het, kuma Yo'ab ya aiko ⟨את⟩ Uriya zuwa Dawuda.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kuma ya aiko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yo'ab"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ka aiko"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya ɗan Het"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ɗan Het"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "kuma ya aiko"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yo'ab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    }
+  ],
+  "timestamp": "2026-08-12T10:10:12.580707602Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Ya isa muku ku kewaye ⟨את⟩ wannan dutsen; ku juya ⟨don ku⟩ kunkuɓa.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Ya isa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "muku"
+    },
+    {
+      "surface": "סב",
+      "gloss": "ku kewaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan dutsen"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dutsen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "ku juya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "don ku"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "kunkuɓa"
+    }
+  ],
+  "timestamp": "2026-08-12T04:52:14.596177527Z",
+  "model": "glm-5.2"
+}

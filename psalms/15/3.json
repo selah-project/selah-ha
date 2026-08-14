@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "(Wanda) ba ya yada muggan labari da harshensa, ba ya aikata mugunar abota ga kawunsa, ba kuɗi zagi akan maƙwabcinsa.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "רָגַל",
+      "gloss": "ya yada muggan labari"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "da"
+    },
+    {
+      "surface": "לְשֹׁנוֹ",
+      "gloss": "harshensa"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עָשָׂה",
+      "gloss": "ya aikata"
+    },
+    {
+      "surface": "לְרֵעֵהוּ",
+      "gloss": "ga kawunsa"
+    },
+    {
+      "surface": "רָעָה",
+      "gloss": "mugun abu"
+    },
+    {
+      "surface": "וְחֶרְפָּה",
+      "gloss": "kuma zagi"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נָשָׂא",
+      "gloss": "kuɗi"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "akan"
+    },
+    {
+      "surface": "קְרֹבוֹ",
+      "gloss": "maƙwabcinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:22:29.075806377Z",
+  "model": "glm-5.2"
+}

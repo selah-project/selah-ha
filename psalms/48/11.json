@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 48,
+  "translation": "Kamar sunan kai, Elohim, haka godewar kai ⟨ta kai⟩ zuwa ƙarshen ƙasa; adalci ya cika damar kai.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "kamar sunan kai"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "godarwar kai"
+    },
+    {
+      "surface": "על",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "ƙarshen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adalci"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ya cika"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "damar kai"
+    }
+  ],
+  "timestamp": "2026-08-12T19:45:32.090616281Z",
+  "model": "glm-5.2"
+}

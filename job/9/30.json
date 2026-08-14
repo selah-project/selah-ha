@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Idan na wanke kaina da dusar ƙanƙara, kuma na tsabtata ⟨את⟩ hannayena da kumfa,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "na wanke kaina"
+    },
+    {
+      "surface": "במו",
+      "gloss": "da"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "dusar ƙanƙara"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "kuma na tsabtata"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "da kumfa",
+      "marks": "⟨את⟩"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "hannayena"
+    }
+  ],
+  "timestamp": "2026-08-12T21:46:29.338222331Z",
+  "model": "glm-5.2"
+}

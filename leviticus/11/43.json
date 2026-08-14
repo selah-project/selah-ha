@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kada ku ɓata ⟨את⟩ rayukanku da dukan abin da ke rarrafe, ⟨abin⟩ da ke rarrafe, kuma kada ku taɓa mara tsabta da su, domin kuwa za ku ɓata ku da su.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kada ku"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "ɓata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rayukanku"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "rayukanku"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "da dukan"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "abin da ke rarrafe"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "⟨abin⟩ da ke rarrafe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma kada ku"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "taɓa mara tsabta"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "da su"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "domin kuwa za ku ɓata ku"
+    },
+    {
+      "surface": "בם",
+      "gloss": "da su"
+    }
+  ],
+  "timestamp": "2026-08-13T01:48:55.433381796Z",
+  "model": "glm-5.2"
+}

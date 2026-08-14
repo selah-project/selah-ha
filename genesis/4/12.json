@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Idan ka noma ⟨את⟩ ƙasar, ba za ta ƙara ba ta baka ƙarfinta; mai gudu-da- yawo kai ne za ka kasance a cikin ƙasar.\"",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ka noma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "za ta ƙara"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ta baka"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "ƙarfinta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨babu abin da ya dace⟩"
+    },
+    {
+      "surface": "נע",
+      "gloss": "mai gudu"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "da yawo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "za ka kasance"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a cikin ƙasar"
+    }
+  ],
+  "timestamp": "2026-08-11T23:22:40.582951180Z",
+  "model": "glm-5.2"
+}

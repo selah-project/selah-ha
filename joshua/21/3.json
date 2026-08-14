@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Banƙin Isra'ila suka baiwa haLeviyyim daga gadonsu, bisa maganar Yahweh, ⟨את⟩ waɗannan garuruwa da ⟨את⟩ maidaɗɗensu.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "suka baiwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "banƙin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "haLeviyyim"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "daga gadonsu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "maganar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waɗannan garuruwa"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "garuruwa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maidaɗɗensu"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "maidaɗɗensu"
+    }
+  ],
+  "timestamp": "2026-08-12T07:00:39.908571323Z",
+  "model": "glm-5.2"
+}

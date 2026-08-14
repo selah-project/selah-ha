@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma za ku ci tsofaffin abinci da daɗewa suka ajiye, kuma tsohon ku zaku fitar saboda sabon.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "Kuma za ku ci"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "tsofaffin abinci"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "da daɗewa suka ajiye"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "kuma tsohon"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "sabon"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "ku zaku fitar"
+    }
+  ],
+  "timestamp": "2026-08-12T02:57:54.646619004Z",
+  "model": "glm-5.2"
+}

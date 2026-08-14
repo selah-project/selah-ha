@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma tarin jama'a daban-daban ma sun haura ⟨tare⟩ da su, da tumaki da shanu — dabbobi da yawa sosai.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Kuma ... ma"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "tarin jama'a daban-daban"
+    },
+    {
+      "surface": "רב",
+      "gloss": "babba"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sun haura"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "da tumaki"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "da shanu"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "dabbobi"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    }
+  ],
+  "timestamp": "2026-08-12T00:44:37.191090396Z",
+  "model": "glm-5.2"
+}

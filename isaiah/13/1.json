@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Abin ɗauka na Bavel, wadda Yeshayahu ɗan Amots ya gani.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "abin ɗauka"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wadda"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ya gani"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-08-12T13:19:38.500803591Z",
+  "model": "glm-5.2"
+}

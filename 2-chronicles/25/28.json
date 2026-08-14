@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma suka ɗauke shi a kan dawakai, kuma suka binne ⟨את⟩ shi tare da ubanninsa a cikin birnin Yehuda.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "kuma suka ɗauke shi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "dawakai"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "kuma suka binne"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ubanninsa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a cikin birnin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-13T02:53:17.597437097Z",
+  "model": "glm-5.2"
+}

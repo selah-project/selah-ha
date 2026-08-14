@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Kuma duka jama'a sun ga ⟨את⟩ ajin ⟨almar⟩ gizagi yana tsayawa a ƙofar ogsan, kuma duka jama'a sun tashi, suka yini sujada, kowane mutum a ƙofar ogsansa.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "kuma sun ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ajin gizagi"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "ajin"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "⟨almar⟩ gizagi"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "yana tsayawa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "a ƙofar"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ogsan"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "kuma sun tashi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "suka yini sujada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "a ƙofar"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "ogsansa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:22:24.078843577Z",
+  "model": "glm-5.2"
+}

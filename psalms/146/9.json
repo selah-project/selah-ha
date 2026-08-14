@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 146,
+  "translation": "Yahweh yana kula da ⟨את⟩ baƙi; ƙanana da gwauraye ⟨ya⟩ ta daɗe da su; amma hanyar mugaye yana bata ta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "yana kula da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baƙi"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "baƙi"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ƙanana"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "da gwauraye"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "⟨ya⟩ ta daɗe da su"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "amma hanyar"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mugaye"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "yana bata ta"
+    }
+  ],
+  "timestamp": "2026-08-12T20:56:45.888233893Z",
+  "model": "glm-5.2"
+}

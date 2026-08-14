@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma ka kiyaye ⟨את⟩ wannan doka a lokacinta, daga kwanaki zuwa kwanaki.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Kuma ka kiyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan doka"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "wannan doka"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "a lokacinta"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "daga kwanaki"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "zuwa kwanaki"
+    }
+  ],
+  "timestamp": "2026-08-12T00:44:27.387573325Z",
+  "model": "glm-5.2"
+}

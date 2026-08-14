@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Kuma Sheƙem ya faɗa wa Hamor babansa, yana cewa: \"Ka riƙe ⟦mina ⟨את⟩ wannan yarinya don aure.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya faɗa"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sheƙem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babansa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ka riƙe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟦mina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan yarinya"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "wannan yarinya"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "don aure"
+    }
+  ],
+  "timestamp": "2026-08-12T00:06:23.266646256Z",
+  "model": "glm-5.2"
+}

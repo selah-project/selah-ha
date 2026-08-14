@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma idan hadayarsa ⟨ce⟩ akuya, to zai kawo ta gaban Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "עז",
+      "gloss": "akuya"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "hadayarsa"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "to zai kawo ta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:42:21.509244381Z",
+  "model": "glm-5.2"
+}

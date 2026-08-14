@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Ku saurari, sama, kuma ⟨ƙa⟩ saurari, ƙasa, domin Yahweh ya faɗa: Ƴa'ƴa na girma, kuma na ɗaukaka, amma sun tona mini baya.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Ku saurari"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "kuma ⟨ƙa⟩ saurari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Ƴa'ƴa"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "na girma"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "kuma na ɗaukaka"
+    },
+    {
+      "surface": "והם",
+      "gloss": "amma sun"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "tona mini baya"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨mini⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T12:56:45.114841957Z",
+  "model": "glm-5.2"
+}

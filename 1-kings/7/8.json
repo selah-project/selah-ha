@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 7:8",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma gidansa da yake zaune a can, yana da wani yadi ⟨na⟩ daban daga gida zuwa faɗin kofa, aikin wannan ne yake kasancewa; kuma wani gida ya yi wa 'yar Paroh, da Shelomoh ya aura, kamar wannan faɗin kofan.",
+  "tokens": [
+    {
+      "surface": "וביתו",
+      "gloss": "kuma gidansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yake zaune"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "yadi"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "wani ⟨na⟩ daban"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "daga gida"
+    },
+    {
+      "surface": "לאולם",
+      "gloss": "zuwa faɗin kofa"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yake kasancewa"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "kuma wani gida"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "wa 'yar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ya aura"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "כאולם",
+      "gloss": "kamar wannan faɗin kofan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-13T02:03:52.996199337Z",
+  "model": "glm-5.2"
+}

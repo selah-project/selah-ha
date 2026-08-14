@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Cikinsu: gidãjensu ⟨su ne⟩ har abadâ, mazaunansu daga tsara zuwa tsara; sunã kiran ƙasãsensu da sunayensu.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "Cikinsu"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "gidãjensu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abadâ"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "mazaunansu"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "daga tsara"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "zuwa tsara"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "sunã kiran"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "da sunayensu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "ƙasãsensu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:47:21.660672918Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma na ba Yitschaq ⟨את⟩ Ya'aqov da ⟨את⟩ Esav; kuma na ba Esav ⟨את⟩ Dutsen Se'ir don ya riƙe ⟨את⟩ shi, amma Ya'aqov da 'ya'yansa sauka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Kuma na ba"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitschaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ya'aqov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "kuma na ba"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dutsen Se'ir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Dutse"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'ir"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "don ya riƙe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ shi"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "amma Ya'aqov"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "da 'ya'yansa"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "sauka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T07:10:23.105530844Z",
+  "model": "glm-5.2"
+}

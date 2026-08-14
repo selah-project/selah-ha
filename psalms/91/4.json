@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 91,
+  "translation": "Da fãfirarsa zai rufe ka, kuma a ƙarƙashin fãfifansansa za ka nemi mafaka; garkuwarsa da makãmasa ⟨sũ⟩ aminci nasa.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "Da fãfirarsa"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "zai rufe ka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "kuma a ƙarƙashin"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "fãfifansansa"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "za ka nemi mafaka"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "garkuwarsa"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "da makãmasa"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "aminci nasa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:05.113144966Z",
+  "model": "glm-5.2"
+}

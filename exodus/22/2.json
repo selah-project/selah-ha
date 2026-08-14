@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Idan rana ta fito ⟨a kansa⟩, jini ⟨yana⟩ ⟨ga shi⟩; tabbata ya biya, idan babu ⟨ga shi⟩ ⟨kuma an sayar da shi⟩ ⟨a kan satar sa⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "ta fito"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rana"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨a kansa⟩"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "jini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ga shi⟩"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "tabbata"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ya biya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ga shi⟩"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "⟨kuma an sayar da shi⟩"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "⟨a kan satar sa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T01:03:53.954161358Z",
+  "model": "glm-5.2"
+}

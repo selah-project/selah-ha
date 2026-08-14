@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 6:7",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma zan ku ɗauka ni ⟨na⟩ zama kuɗa, kuma zan kasance manzu Elohim, kuma za ku sani cewa ni ni ne Yahweh Elohim ku, wanda ke fitar da ku daga ƙarƙashin gudanõjin Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "kuma zan ku ɗauka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku",
+      "marks": "ku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "⟨na⟩ zama kuɗa"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "kuma zan kasance"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "manzu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "kuma za ku sani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ku"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "wanda ke fitar da"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku",
+      "marks": "ku"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "daga ƙarƙashin"
+    },
+    {
+      "surface": "סבלות",
+      "gloss": "gudanõji"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:36:13.195329026Z",
+  "model": "glm-5.2"
+}

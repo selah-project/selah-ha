@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 84,
+  "translation": "Garkuwarmu, duba, ya Elohim, kuma ka duba fuskar Mashíajinka!",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "garkuwarmu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "duba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "kuma ka duba"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskar"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashíajinka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:14:44.128100073Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 17:16",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma suka bar ⟨את⟩ dukkan umarnin Yahweh Elohim su, suka yi musu guntuwar siffa, ⟨ne⟩ shanu biyu, suka yi Asherah, kuma suka lallasa ga dukkan sojojin sama, kuma suka bauta wa ⟨את⟩ Ha-Ba'al.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "suka bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan umarnin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "umarnin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim su"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "guntuwar siffa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "עגלים",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "Asherah"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "suka lallasa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ga dukkan"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sojojin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "suka bauta"
+    },
+    {
+      "surface": "את",
+      "gloss": "wa ⟨את⟩",
+      "marks": "Ha-Ba'al"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Ha-Ba'al"
+    }
+  ],
+  "timestamp": "2026-08-12T12:36:14.101913166Z",
+  "model": "glm-5.2"
+}

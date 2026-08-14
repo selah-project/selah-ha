@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma Yehoshua ya ce wa ɓaɓɓan Isra'el: \"Kusã ku nan, sai ku ji ⟨את⟩ kalmomin Yahweh, Elohim ku.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓaɓɓan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'el"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Kusã"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ku nan"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "sai ku ji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalmomin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ku"
+    }
+  ],
+  "timestamp": "2026-08-12T06:09:02.005074459Z",
+  "model": "glm-5.2"
+}

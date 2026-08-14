@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 6:14",
+  "book": "micah",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kai za ka ci, amma ba za ka ƙoshi ba, kuma yunwa ⟨za ta kasance⟩ a tsakiyarka; za ka kama, amma ba za ka tsira da abin da ka kama ba, kuma abin da ka tsira da shi, zuwa takobi ⟨zan⟩ ba.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "za ka ci"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "za ka ƙoshi ba"
+    },
+    {
+      "surface": "וישחך",
+      "gloss": "kuma yunwa"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "a tsakiyarka"
+    },
+    {
+      "surface": "ותסג",
+      "gloss": "za ka kama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "תפליט",
+      "gloss": "za ka tsira da abin da ka kama ba"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kuma abin da"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "ka tsira da shi"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "zuwa takobi"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "⟨zan⟩ ba"
+    }
+  ],
+  "timestamp": "2026-08-12T18:44:28.196779479Z",
+  "model": "glm-5.2"
+}

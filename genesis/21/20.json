@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma Elohim ya kasance tare da ⟨את⟩ ⟨haƙurin⟩, kuma ya girma; kuma ya zauna a cikin hamada, kuma ya kasance mai harba kibiya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ya kasance"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haƙurin"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "haƙurin"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "kuma ya girma"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kuma ya zauna"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a cikin hamada"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mai girma"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "mai harba kibiya"
+    }
+  ],
+  "timestamp": "2026-08-11T23:42:43.565618975Z",
+  "model": "glm-5.2"
+}

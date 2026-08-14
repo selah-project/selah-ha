@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "zai shiga har zuwa ƙarnin ubanninsa; har abadan ba za su ga haske ba.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "zai shiga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ƙarnin"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "ubanninsa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "abadan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "za su ga"
+    },
+    {
+      "surface": "אור",
+      "gloss": "haske"
+    }
+  ],
+  "timestamp": "2026-08-12T19:48:18.970403257Z",
+  "model": "glm-5.2"
+}

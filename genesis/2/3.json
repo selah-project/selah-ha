@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma Elohim Ya albarkaci ⟨את⟩ rana ta bakwai, kuma Ya tsarkake ⟨את⟩ ⟨shi⟩, domin a cikinSa Ya huta daga dukkan aikinSa da Elohim ya halitta ⟨don⟩ a yi.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Kuma Ya albarkaci"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rana ta bakwai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "rana"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ta bakwai"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "kuma Ya tsarkake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨shi⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a cikinSa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Ya huta"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "daga dukkan"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "aikinSa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "Elohim ya halitta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨don⟩ a yi"
+    }
+  ],
+  "timestamp": "2026-08-11T23:17:47.539639983Z",
+  "model": "glm-5.2"
+}

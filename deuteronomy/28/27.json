@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 28:27",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Yahweh zai ci ⟨ka⟩ da ciwon dafammen Mitsrayim, da da gudawa, da da kurajen fata, da da ƙaiƙayin da ba za ⟨ka⟩ iya warkewa ⟨daga⟩ shi ba.",
+  "tokens": [
+    {
+      "surface": "יַכְּכָ֨ה",
+      "gloss": "zai ci"
+    },
+    {
+      "surface": "יְהוָ֜ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בִּשְׁחִ֤ין",
+      "gloss": "da ciwon dafammen"
+    },
+    {
+      "surface": "מִצְרַ֨יִם֙",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ובעפלים",
+      "gloss": "da da gudawa"
+    },
+    {
+      "surface": "וּבַגָּרָ֖ב",
+      "gloss": "da da kurajen fata"
+    },
+    {
+      "surface": "וּבֶחָ֑רֶס",
+      "gloss": "da da ƙaiƙayin"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תוּכַ֖ל",
+      "gloss": "za ⟨ka⟩ iya"
+    },
+    {
+      "surface": "לְהֵרָפֵֽא",
+      "gloss": "warkewa ⟨daga⟩ shi"
+    }
+  ],
+  "timestamp": "2026-08-12T05:45:02.535460601Z",
+  "model": "glm-5.2"
+}

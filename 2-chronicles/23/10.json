@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma ya tsayar da ⟨את⟩ duka ⟨mutanen⟩, kowane mutum makaminsa a hannunsa, daga katarin gefen dama na ginshiƙin har zuwa katarin gefen hagu na ginshiƙin, kusa da gadan ibada da ginshiƙin, a kusa da sarkin gabaɗaya.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Kuma ya tsayar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "makaminsa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "a hannunsa"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "daga katarin"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "na ginshiƙin"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "gefen dama"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "katarin"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "na ginshiƙin"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "gefen hagu"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "kusa da gadan ibada"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "da ginshiƙin"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kusa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:51:28.479613600Z",
+  "model": "glm-5.2"
+}

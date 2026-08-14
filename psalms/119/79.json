@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Suya su koma gare ni, masu tsoronka, ⟨kuma⟩ su san shaidarka.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "suya su koma"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "masu tsoronka"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "⟨kuma⟩ su san"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "shaidarka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:27:57.941844408Z",
+  "model": "glm-5.2"
+}

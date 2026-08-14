@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 45:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Da girmankawa ⟨ka⟩ ci gaba, hawa, don ⟨sakaita⟩ gaskiya da kunciya ta adalci, kuma dama ⟨ta⟩ koya maka abubuwa masu gargadi.",
+  "tokens": [
+    {
+      "surface": "והדרך",
+      "gloss": "da girmankawa"
+    },
+    {
+      "surface": "צלח",
+      "gloss": "ci gaba"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "don"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨sakaita⟩"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "gaskiya"
+    },
+    {
+      "surface": "וענוה",
+      "gloss": "da kunciya"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ta adalci"
+    },
+    {
+      "surface": "ותורך",
+      "gloss": "kuma dama ⟨ta⟩ koya maka"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "abubuwa masu gargadi"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dama"
+    }
+  ],
+  "timestamp": "2026-08-12T19:46:42.948303833Z",
+  "model": "glm-5.2"
+}

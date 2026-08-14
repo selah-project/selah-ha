@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 11:30",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Yiftah ya yi ⟨ãwar⟩ alkawari ga Yahweh, kuma ya ce: Idan lallai ka ba ⟨את⟩ ƴan Ammon a cikin hannu⟨na⟩.",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "Kuma ya yi alkawari"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftah"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "alkawari"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "lallai ka ba"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ka ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴan Ammon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴan"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "a cikin hannu⟨na⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T07:53:24.683472160Z",
+  "model": "glm-5.2"
+}

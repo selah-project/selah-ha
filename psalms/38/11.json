@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Zuciyata tana dole-dole, ƙarfatata ya bar ni, kuma hasken idanuna, su ma, ba su nan ⟨את⟩ ⟨tare⟩ ⟨da⟩ ni.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "tana dole-dole"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "ya bar ni"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ƙarfatata"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "kuma hasken"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "idanuna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "su ma"
+    },
+    {
+      "surface": "הם",
+      "gloss": "su"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ba su nan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ⟨tare⟩ ⟨da⟩ ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:40:00.605453309Z",
+  "model": "glm-5.2"
+}

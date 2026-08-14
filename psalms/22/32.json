@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Zasu zo, suka fada da'awarsa ga mutanen da za a haifa, cewa shi ne ya aikata.",
+  "tokens": [
+    {
+      "surface": "יָ֭בֹאוּ",
+      "gloss": "zasu zo"
+    },
+    {
+      "surface": "וְיַגִּ֣ידוּ",
+      "gloss": "suka fada"
+    },
+    {
+      "surface": "צִדְקָת֑וֹ",
+      "gloss": "da'awarsa"
+    },
+    {
+      "surface": "לְעַ֥ם",
+      "gloss": "ga mutanen"
+    },
+    {
+      "surface": "נ֝וֹלָ֗ד",
+      "gloss": "da za a haifa"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "עָשָֽׂה",
+      "gloss": "shi ne ya aikata"
+    }
+  ],
+  "timestamp": "2026-08-12T19:27:57.949694927Z",
+  "model": "glm-5.2"
+}

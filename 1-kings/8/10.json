@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ⟨ya kasance⟩ a fitar da kohanim daga wajen tsarki, girgije ya cika ⟨את⟩ gidan Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ⟨ya kasance⟩"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "a fitar da"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohanim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga wajen"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tsarki"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "kuma girgije"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ya cika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T11:09:26.315610850Z",
+  "model": "glm-5.2"
+}

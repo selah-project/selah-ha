@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 3:1",
+  "book": "zechariah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ya nuna min ⟨את⟩ Yehoshu'a babban firist, tsaye a gaban malamin Yahweh, kuma ha-satan yana tsaye a dagansa ⟨ne⟩ don ya zama mai gaban shi.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "kuma ya nuna min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshu'a"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshu'a"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "firist"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "babban"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "tsaye"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malamin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והשטן",
+      "gloss": "kuma ha-satan"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "yana tsaye"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "dagansa"
+    },
+    {
+      "surface": "לשטנו",
+      "gloss": "don ya zama mai gaban shi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:02:09.347923824Z",
+  "model": "glm-5.2"
+}

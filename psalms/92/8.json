@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 92:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 92,
+  "translation": "A lokacin da mugaye suke tsira kamar ciyawa, kuma duk masu aikin babduka suka bunƙasa, ⟨domin⟩ a hallaka su har abadan.",
+  "tokens": [
+    {
+      "surface": "בִּפְרֹ֤חַ",
+      "gloss": "A lokacin da ... suke tsira"
+    },
+    {
+      "surface": "רְשָׁעִ֨ים",
+      "gloss": "mugaye"
+    },
+    {
+      "surface": "כְּמ֥וֹ",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "עֵ֗שֶׂב",
+      "gloss": "ciyawa"
+    },
+    {
+      "surface": "וַ֭יָּצִיצוּ",
+      "gloss": "kuma ... suka bunƙasa"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "פֹּ֣עֲלֵי",
+      "gloss": "masu aikin"
+    },
+    {
+      "surface": "אָ֑וֶן",
+      "gloss": "babduka"
+    },
+    {
+      "surface": "לְהִשָּֽׁמְדָ֥ם",
+      "gloss": "a hallaka su"
+    },
+    {
+      "surface": "עֲדֵי",
+      "gloss": "har"
+    },
+    {
+      "surface": "עַֽד",
+      "gloss": "abadan"
+    }
+  ],
+  "timestamp": "2026-08-12T20:23:25.647675854Z",
+  "model": "glm-5.2"
+}

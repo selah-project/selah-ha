@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 32:28",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Kuma Moshe ya yi musu umarni game da ⟨את⟩ El'azar kohen, da ⟨את⟩ Yehoshu'a ɗan Nun, da ⟨את⟩ shugabannin gidajen kabilun ˌyaːkuwanː Isra'ela.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Kuma ya yi umarni"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El'azar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "El'azar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Yehoshu'a"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshu'a"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "shugabannin"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "shugabannin"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "gidajen"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "kabilun"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ˌyaːkuwanː"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ela"
+    }
+  ],
+  "timestamp": "2026-08-12T04:41:30.761201372Z",
+  "model": "glm-5.2"
+}

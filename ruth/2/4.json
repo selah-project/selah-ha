@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 2:4",
+  "book": "ruth",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma ga shi, Boaz ya zo daga Bet-Lekhem, ya ce wa masu girbi: \"Yahweh ya kasance tare da ku.\" Kuma suka ce masa: \"Yahweh ya albarkace ka.\"",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Kuma ga shi"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ya zo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "daga Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Lekhem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "לקוצרים",
+      "gloss": "wa masu girbi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ya kasance tare da ku"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Kuma suka ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "ya albarkace ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T22:31:38.355055805Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 9:22",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma ka ba su masarautu da al'ummomi, ka raba musu gefuna; suka gaji ⟨את⟩ ƙasar Siḥon da ⟨את⟩ ƙasar sarki na Ḥeshbon da ⟨את⟩ ƙasar `Og sarki na Bashan.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "kuma ka ba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "su"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "masarautu"
+    },
+    {
+      "surface": "ועממים",
+      "gloss": "da al'ummomi"
+    },
+    {
+      "surface": "ותחלקם",
+      "gloss": "ka raba musu"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "gefuna"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "suka gaji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Siḥon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Ḥeshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "`Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "na Bashan"
+    }
+  ],
+  "timestamp": "2026-08-12T23:46:01.704750667Z",
+  "model": "glm-5.2"
+}

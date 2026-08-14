@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 7:1",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Yahweh ya ce wa Nuh: \"Ka shiga, kai da dukan gidanka, cikin jirgin, domin ⟨את⟩ kai na ga ⟨a ka ce⟩ adilai a gare ni a cikin wannan zamani.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "wa Nuh"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ka shiga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da dukan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "gidanka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "jirgin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kai"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "na ga"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "adilai"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gare ni"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "a cikin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan zamani"
+    }
+  ],
+  "timestamp": "2026-08-11T23:27:02.642040257Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Ana kai ta zuwa ga sarki cikin kayan saka; 'yan mata masu jira bayan ta, kawayenta, ana kai su zuwa gare ki.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "cikin kayan saka"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "Ana kai ta"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "zuwa ga sarki"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "'yan mata"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "masu jira bayan ta"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "kawayenta"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "ana kai su"
+    },
+    {
+      "surface": "לך",
+      "gloss": "zuwa gare ki"
+    }
+  ],
+  "timestamp": "2026-08-12T19:45:39.305094518Z",
+  "model": "glm-5.2"
+}

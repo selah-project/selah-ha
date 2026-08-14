@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Sa'an nan Lavan ya kama ⟨את⟩ Ya'aƙub, kuma Ya'aƙub ya faɗaɗa ⟨את⟩ sansaninsa a cikin dutse, kuma Lavan ya faɗaɗa ⟨את⟩ 'yan'uwansa a cikin Dutsen Gil'ad.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "Sa'an nan ya kama"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ya'aƙub"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aƙub"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "kuma Ya'aƙub"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "ya faɗaɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sansaninsa"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "sansaninsa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a cikin dutse"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "kuma Lavan"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "ya faɗaɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'yan'uwansa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "'yan'uwansa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a cikin Dutsen"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gil'ad"
+    }
+  ],
+  "timestamp": "2026-08-11T23:59:45.956653257Z",
+  "model": "glm-5.2"
+}

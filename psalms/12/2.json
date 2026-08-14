@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Taimaka, Yahweh, domin pious ya ƙare, domin masu aminci suka ɓace daga cikin ƴaƴan adam.",
+  "tokens": [
+    {
+      "surface": "הוֹשִׁ֣יעָה",
+      "gloss": "Taimaka"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "גָמַ֣ר",
+      "gloss": "ya ƙare"
+    },
+    {
+      "surface": "חָסִ֑יד",
+      "gloss": "pious"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "פַּ֥סּוּ",
+      "gloss": "suka ɓace"
+    },
+    {
+      "surface": "אֱ֝מוּנִ֗ים",
+      "gloss": "masu aminci"
+    },
+    {
+      "surface": "מִבְּנֵ֥י",
+      "gloss": "daga cikin ƴaƴan"
+    },
+    {
+      "surface": "אָדָֽם",
+      "gloss": "adam"
+    }
+  ],
+  "timestamp": "2026-08-12T19:18:38.198838555Z",
+  "model": "glm-5.2"
+}

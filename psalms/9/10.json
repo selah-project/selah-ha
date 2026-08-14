@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma Yahweh ya kasance mãkãma ga wanda aka tursasa, mãkãma a lõkuta na cikin tãre.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "mãkãma"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "ga wanda aka tursasa"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "mãkãma"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "a lõkuta"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "na cikin tãre"
+    }
+  ],
+  "timestamp": "2026-08-12T19:19:14.918914820Z",
+  "model": "glm-5.2"
+}

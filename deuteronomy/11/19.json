@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "kuma ku koya musu ⟨su kasance⟩ ⟨את⟩ ɗukanku, don ku faɗa da su — a lokacin da kuke zaune a cikin gidanku, kuma a lokacin da kuke tafiya a hanya, kuma a lokacin da kuke kwance, kuma a lokacin da kake tashi.",
+  "tokens": [
+    {
+      "surface": "וְלִמַּדְתֶּ֥ם",
+      "gloss": "kuma ku koya musu"
+    },
+    {
+      "surface": "אֹתָ֛ם",
+      "gloss": "⟨את⟩ ⟨su⟩",
+      "marks": "kalmomin"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ɗukanku"
+    },
+    {
+      "surface": "בְּנֵיכֶ֖ם",
+      "gloss": "ɗukanku"
+    },
+    {
+      "surface": "לְדַבֵּ֣ר",
+      "gloss": "don ku faɗa"
+    },
+    {
+      "surface": "בָּ֑ם",
+      "gloss": "da su"
+    },
+    {
+      "surface": "בְּשִׁבְתְּךָ֤",
+      "gloss": "a lokacin da kuke zaune"
+    },
+    {
+      "surface": "בְּבֵיתֶ֨ךָ֙",
+      "gloss": "a cikin gidanku"
+    },
+    {
+      "surface": "וּבְלֶכְתְּךָ֣",
+      "gloss": "kuma a lokacin da kuke tafiya"
+    },
+    {
+      "surface": "בַדֶּ֔רֶךְ",
+      "gloss": "a hanya"
+    },
+    {
+      "surface": "וּבְשָׁכְבְּךָ֖",
+      "gloss": "kuma a lokacin da kuke kwance"
+    },
+    {
+      "surface": "וּבְקוּמֶֽךָ",
+      "gloss": "kuma a lokacin da kake tashi"
+    }
+  ],
+  "timestamp": "2026-08-12T05:13:26.095850423Z",
+  "model": "glm-5.2"
+}

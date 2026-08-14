@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Dōmin shugabanninsa sun kasance a Tsoan, kuma manzanninsa sun isa Ḥanes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dōmin"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sun kasance"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "a Tsoan"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "shugabanninsa"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "kuma manzanninsa"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "sun isa Ḥanes"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "sun isa"
+    }
+  ],
+  "timestamp": "2026-08-12T13:48:29.347443954Z",
+  "model": "glm-5.2"
+}

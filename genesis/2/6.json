@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma tururi yana tākawa daga ƙasar, kuma ya shārxā ⟨את⟩ dukkan fuskokin ƙasar.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "kuma tururi"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "yana tākawa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "kuma ya shārxā"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan fuskokin ƙasar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskokin"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ƙasar"
+    }
+  ],
+  "timestamp": "2026-08-11T23:21:12.814569934Z",
+  "model": "glm-5.2"
+}

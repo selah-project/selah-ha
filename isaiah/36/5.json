@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 36:5",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Na ce: kalman leɓe ne kawai! shawara da ƙarfi ⟨ne⟩ don yaƙi. yanzu, a kan wa⟨ne⟩ ka dogara, cewa ka tawaye da ni?",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "na ce"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kawai"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalman"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "leɓe"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "shawara"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "da ƙarfi"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "don yaƙi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "ka dogara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "ka tawaye"
+    },
+    {
+      "surface": "בי",
+      "gloss": "da ni"
+    }
+  ],
+  "timestamp": "2026-08-12T13:58:42.153402071Z",
+  "model": "glm-5.2"
+}

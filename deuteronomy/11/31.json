@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 11:31",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Domin kuwa kuna tsallaka ⟨את⟩ Yarden don zuwa don kuyi mulki ⟨את⟩ ƙasar da Yahweh, Elohim naku, yake bayar maku, kuma kuyi ⟨את⟩ ta mulki, kuma ku zauna a cikinta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin kuwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "kuna tsallaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "don zuwa"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "don kuyi mulki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim naku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yake bayar"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "maku"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "kuma kuyi ta mulki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ta"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "kuma ku zauna"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a cikinta"
+    }
+  ],
+  "timestamp": "2026-08-12T05:12:49.519831704Z",
+  "model": "glm-5.2"
+}

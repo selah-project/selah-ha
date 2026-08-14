@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 72:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 72,
+  "translation": "Ya kasance sunansa har abada, a gaban rana ⟨za a⟩ riƙe sunansa, kuma su yi albarka ⟨a cikin⟩ shi; dukkan al'ummomi su kira shi albarka.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Ya kasance"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "rana"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "⟨za a⟩ riƙe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "ויתברכו",
+      "gloss": "kuma su yi albarka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨a cikin⟩ shi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "al'ummomi"
+    },
+    {
+      "surface": "יאשרוהו",
+      "gloss": "su kira shi albarka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:03:14.610764561Z",
+  "model": "glm-5.2"
+}

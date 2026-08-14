@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 114,
+  "translation": "Dutsen sun rawa kamar rams, tsaunuka kamar 'ya'yan garken tumaki.",
+  "tokens": [
+    {
+      "surface": "הֶהָרִים",
+      "gloss": "Dutsen"
+    },
+    {
+      "surface": "רָקְדוּ",
+      "gloss": "sun rawa"
+    },
+    {
+      "surface": "כְאֵילִים",
+      "gloss": "kamar rams"
+    },
+    {
+      "surface": "גְּבָעוֹת",
+      "gloss": "tsaunuka"
+    },
+    {
+      "surface": "כִּבְנֵי",
+      "gloss": "kamar 'ya'yan"
+    },
+    {
+      "surface": "צֹאן",
+      "gloss": "garken tumaki"
+    }
+  ],
+  "timestamp": "2026-08-12T20:37:47.160153001Z",
+  "model": "glm-5.2"
+}

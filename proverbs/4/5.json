@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Sama hikima, sama fahimta; kada ka manta, kuma kada ka karkata daga maganganun bakina.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "sama"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikima"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "sama"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "fahimta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ka manta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ka karkata"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "daga maganganun"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bakina"
+    }
+  ],
+  "timestamp": "2026-08-12T21:04:08.738010635Z",
+  "model": "glm-5.2"
+}

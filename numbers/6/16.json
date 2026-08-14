@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma kohen ya kusantar da su a gaban Yahweh, kuma ya yi ⟨את⟩ hadayar zunubinsa da ⟨את⟩ hadayar ƙonewarsa.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Kuma ya kusantar da"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadayar zunubinsa"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "hadayar zunubinsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "hadayar ƙonewarsa"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "hadayar ƙonewarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T03:35:04.494456447Z",
+  "model": "glm-5.2"
+}

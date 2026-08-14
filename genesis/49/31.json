@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Can suka binne ⟨את⟩ Avraham da ⟨את⟩ Sara matarsa. Can suka binne ⟨את⟩ Yits'ḥak da ⟨את⟩ Ribka matarsa. Kuma can na binne ⟨את⟩ Le'a.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "can"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "suka binne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "matarsa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "can"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "suka binne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yits'ḥak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yits'ḥak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ribka"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "matarsa"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "kuma can"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "na binne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Le'a"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Le'a"
+    }
+  ],
+  "timestamp": "2026-08-12T00:26:52.353362884Z",
+  "model": "glm-5.2"
+}

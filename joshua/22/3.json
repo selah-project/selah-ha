@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 22:3",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Ba ku bar ⟨את⟩ 'yan'uwanku kwana da yawa har zuwa yau wannan, kuma kuka kiyaye ⟨את⟩ aikin kula da umarnin Yahweh Elohiminku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "ku bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'yan'uwanku"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "'yan'uwanku"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "kuma kuka kiyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aikin kula da"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "aikin kula da"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "umurnin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminku"
+    }
+  ],
+  "timestamp": "2026-08-13T01:57:09.995788738Z",
+  "model": "glm-5.2"
+}

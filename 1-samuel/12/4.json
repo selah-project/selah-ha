@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma suka faɗa: Ba ka cin mun zarafi ba, kuma ba ka mun murɗa ba, kuma ba ka ɗauko komai ba daga hannun kowa.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Kuma suka faɗa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "ka cin mun zarafi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "ka mun murɗa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ka ɗauko"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowa"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "komai"
+    }
+  ],
+  "timestamp": "2026-08-12T08:54:51.376306779Z",
+  "model": "glm-5.2"
+}

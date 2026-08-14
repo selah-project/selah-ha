@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 116,
+  "translation": "Cikin ɗakunan gidan Yahweh, cikin tsakiyarki, Yerushalaim, ku yabi Yah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "cikin ɗakunan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "cikin tsakiyarki"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ku yabi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-12T20:38:57.543193415Z",
+  "model": "glm-5.2"
+}

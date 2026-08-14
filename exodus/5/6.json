@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma Paroh ya umurci a rana ⟨ta⟩ wancan ⟨את⟩ masu tuƙa a cikin mutanen, da ⟨את⟩ shugabannin sa, ⟨don⟩ cewa:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Kuma ya umurci"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wancan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masu tuƙa"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "masu tuƙa"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "a cikin mutanen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shugabannin sa"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "shugabannin sa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨don⟩ cewa"
+    }
+  ],
+  "timestamp": "2026-08-13T01:46:32.241827914Z",
+  "model": "glm-5.2"
+}

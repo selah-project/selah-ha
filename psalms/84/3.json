@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 84,
+  "translation": "Raina ta gajiya, ⟨kuma⟩ ta ƙare, domin ⟨game⟩ da gidajen Yahweh; zuciyata da jikina suna yin kira zuwa ga El mai rai.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "ta gajiya"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "⟨kuma⟩"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "ta ƙare"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Raina"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "domin ⟨game⟩ da gidajen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "da jikina"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "suna yin kira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "mai rai"
+    }
+  ],
+  "timestamp": "2026-08-12T20:17:32.244438871Z",
+  "model": "glm-5.2"
+}

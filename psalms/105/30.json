@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Ya rarɓe ƙasarsu da kwadi, a cikin ɗakunan mas'arfarsu.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "Ya rarɓe"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ƙasarsu"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "da kwadi"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "a cikin ɗakunan"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "mas'arfarsu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:32:38.418603371Z",
+  "model": "glm-5.2"
+}

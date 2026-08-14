@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 58,
+  "translation": "Kafin tukwanyoyinku su gane ƙaƙaƙƙen itacen daji, zai ɗauke su da guguwa — rai da fushinsa.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "kafin"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "su gane"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "tukwanyoyinku"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "ƙaƙaƙƙen itacen daji"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "חי",
+      "gloss": "rai"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "fushi"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "zai ɗauke su da guguwa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:52:39.644594705Z",
+  "model": "glm-5.2"
+}

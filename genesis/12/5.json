@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 12:5",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Sa'an nan Avram ya ɗauki ⟨את⟩ Sarai matarsa, da ⟨את⟩ Lot ɗan'uwansa, da ⟨את⟩ dukkan dukiyar da suka tarʒa, da ⟨את⟩ rai da suka sanya a Charan; suka fita don su tafi ƙasar Kenaan, suka zo ƙasar Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ya ɗauki"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarai"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "matarsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "uwansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dukka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukka"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "dukiyar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "suka tarʒa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rai"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "rai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "suka sanya"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "a Charan"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "suka fita"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "don su tafi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "suka zo"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-11T23:31:54.789615960Z",
+  "model": "glm-5.2"
+}

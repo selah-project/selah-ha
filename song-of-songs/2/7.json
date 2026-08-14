@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 2:7",
+  "book": "song-of-songs",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Na rantse ⟨את⟩ ku, 'ya'yan Yerushalaim, da baƙaƙen fari, ko da kankaran jeji, kada ku tada, ko ku tada, ⟨את⟩ ƙaunar da take son kanta.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Na rantse"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku",
+      "marks": "'ya'yan Yerushalaim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "da baƙaƙen fari"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "da kankaran"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "jeji"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "ku tada"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "ku tada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙaunar"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "ƙaunar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "take son kanta"
+    }
+  ],
+  "timestamp": "2026-08-12T22:23:09.585401481Z",
+  "model": "glm-5.2"
+}

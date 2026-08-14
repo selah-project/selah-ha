@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 17:6",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "A shekara ta tara ta Hoshea, sarkin Ashur ya kama ⟨את⟩ Shomeron, ya gudanar da gudunfirar ⟨את⟩ Isra'ila zuwa Ashur, ya zaunar da su a Halah da kuma a Habor, kogin Gozan, da biranen Madayi.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "A shekara"
+    },
+    {
+      "surface": "התשיעית",
+      "gloss": "ta tara"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "ta Hoshea"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "ya kama"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shomeron"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "ya gudanar da gudunfirar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isra'ila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "zuwa Ashur"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ya zaunar da"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "a Halah"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "da kuma a Habor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "kogin"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "da biranen"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madayi"
+    }
+  ],
+  "timestamp": "2026-08-12T12:32:05.773348765Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Ya tuna da al'ārar Sa har abadād, kalmar da Ya umurta ⟨zuwa⟩ dubu tsara.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ya tuna da"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abadād"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "al'ārar Sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalmar"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "Ya umurta"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "דור",
+      "gloss": "tsara"
+    }
+  ],
+  "timestamp": "2026-08-12T20:29:48.093104048Z",
+  "model": "glm-5.2"
+}

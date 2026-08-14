@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 56,
+  "translation": "Duk ⟨ranar⟩ suna toro ⟨את⟩ magabata, a kaina; duk tunanin su don muguwa ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Duk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨ranar⟩"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "magabata"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "suna toro"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a kaina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "tunanin su"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "don muguwa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:04.306113590Z",
+  "model": "glm-5.2"
+}

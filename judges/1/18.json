@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Yehudah ya kama ⟨את⟩ Azzah da ⟨את⟩ iyakarta, da ⟨את⟩ Ashkelon da ⟨את⟩ iyakarta, da ⟨את⟩ Ekron da ⟨את⟩ iyakarta.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "ya kama"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azzah"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "iyakarta"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "iyakarta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Ashkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "iyakarta"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "iyakarta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "iyakarta"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "iyakarta"
+    }
+  ],
+  "timestamp": "2026-08-12T07:18:10.203617388Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 94,
+  "translation": "Kuma zai mayar musu da ⟨את⟩ muguntarsu, kuma a cikin sharansu zai ɓace su; zai ɓace su, Yahweh, Elohim mu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kuma zai mayar da"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muguntarsu"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "muguntarsu"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "kuma a cikin sharansu"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "zai ɓace su"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "zai ɓace su"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim mu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:19:15.013045288Z",
+  "model": "glm-5.2"
+}

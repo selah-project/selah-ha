@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 58,
+  "translation": "Mai adalci zai yi murna, domin ya ga ramuwar gayya; ƙafafunsa zai wanke a jinin mugun.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "zai yi murna"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mai adalci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ya ga"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ramuwar gayya"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "ƙafafunsa"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "zai wanke"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "a jinin"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "mugun"
+    }
+  ],
+  "timestamp": "2026-08-12T19:52:39.644727415Z",
+  "model": "glm-5.2"
+}

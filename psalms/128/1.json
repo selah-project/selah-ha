@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 128,
+  "translation": "Waƙar ⟨man⟩ hawan-dutse. Ya musu da sa'a, duk wanda ke tsoron Yahweh, ⟨wajan⟩ tafiya a hanyoyinsa.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Waƙar"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hawan-dutse"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Ya musu da sa'a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "wanda ke tsoron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "⟨wajan⟩ tafiya"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "a hanyoyinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:47:56.262969846Z",
+  "model": "glm-5.2"
+}

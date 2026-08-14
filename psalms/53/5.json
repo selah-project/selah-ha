@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 53,
+  "translation": "Bã shĩ ba suka sani, masu aikan girma, masu cin mutãnen nĩ? sun ci ⟨ne⟩ gurasa, Elohim bã suka kira.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "bã shĩ ba"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "suka sani"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "masu aikan"
+    },
+    {
+      "surface": "און",
+      "gloss": "girma"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "masi cin"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mutãnen nĩ"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "sun ci"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "gurasa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bã"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "suka kira"
+    }
+  ],
+  "timestamp": "2026-08-12T19:52:45.854687407Z",
+  "model": "glm-5.2"
+}

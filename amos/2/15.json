@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 2:15",
+  "book": "amos",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma mai rike da bāḅa ba zai tsaya ba, kuma mai saurin ƙafāsā ba zai guje ba, kuma mahāyin dōkī ba zai tsayar da rānunsa ba.",
+  "tokens": [
+    {
+      "surface": "ותפש",
+      "gloss": "Kuma mai rike da"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "bāḅa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "zai tsaya"
+    },
+    {
+      "surface": "וקל",
+      "gloss": "kuma mai saurin"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "ƙafāsā"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "zai guje"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "kuma mahāyin"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "dōkī"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "zai tsayar da"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "rānunsa"
+    }
+  ],
+  "timestamp": "2026-08-12T18:24:28.120876054Z",
+  "model": "glm-5.2"
+}

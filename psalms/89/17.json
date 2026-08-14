@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Da sunanka za su yi murna dukan ⟨ranar⟩, kuma da adalcinka za a ɗauke su.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "da sunanka"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "za su yi murna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨ranar⟩"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "kuma da adalcinka"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "za a ɗauke su"
+    }
+  ],
+  "timestamp": "2026-08-12T20:16:47.157231691Z",
+  "model": "glm-5.2"
+}

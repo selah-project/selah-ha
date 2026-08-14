@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Dutse sun tsere daga gaban Yahweh — wannan, Sinai — daga gaban Yahweh, Elohim ⟨na⟩ Yisra'el.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "dutse"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "sun tsere"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T07:23:11.293397744Z",
+  "model": "glm-5.2"
+}

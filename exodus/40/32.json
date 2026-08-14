@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "A shigar su cikin Ohel Mo'ed da kusantar su zuwa ga madubin, suna wankawa, kamar yadda Yahweh ya umurci ⟨את⟩ Mosheh.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "A shigar su"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Mo'ed"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "da kusantar su"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madubin"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "suna wankawa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:40:52.239381024Z",
+  "model": "glm-5.2"
+}

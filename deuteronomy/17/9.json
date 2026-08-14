@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 17:9",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma za ka je wa ⟨a⟩ kohenim, ⟨na⟩ Līwīy, da wa ⟨a⟩ alkalin da zai kasance a cikin ⟨waɗannan⟩ kwanakin, kuma za ka bincika, su kuma za su faɗa maka ⟨אֵת⟩ maganar ⟨ta⟩ hukunci.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "kuma za ka je"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenim"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Līwīy"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "da wa"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "alkalin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zai kasance"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "a cikin kwanakin"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "kuma za ka bincika"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "su kuma za su faɗa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maganar hukunci"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "maganar"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "hukunci"
+    }
+  ],
+  "timestamp": "2026-08-12T05:27:51.938018837Z",
+  "model": "glm-5.2"
+}

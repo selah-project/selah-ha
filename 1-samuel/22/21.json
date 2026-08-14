@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "kuma Ebyatar ya faɗa wa Dawuda cewa Sha'ul ya kashe ⟨את⟩ firistoci na Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kuma ya faɗa"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebyatar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawuda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ya kashe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "firistoco"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "firistoci na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T09:23:44.115996919Z",
+  "model": "glm-5.2"
+}

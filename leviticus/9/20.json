@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma suka sanya ⟨את⟩ kitocin a kan nono, kuma ya ƙona ⟨את⟩ kitocin ⟨a⟩ ginshiƙi.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "kuma suka sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kitocin"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "kitocin"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "nono"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "kuma ya ƙona"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "kitocin"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ginshiƙi"
+    }
+  ],
+  "timestamp": "2026-08-12T02:03:52.181702923Z",
+  "model": "glm-5.2"
+}

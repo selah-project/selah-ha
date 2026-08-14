@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 132,
+  "translation": "Bari mu shiga mazaunansa, mu lalliƙa ga kafarsa ⟨ta ƙasa⟩.",
+  "tokens": [
+    {
+      "surface": "נָב֥וֹאָה",
+      "gloss": "Bari mu shiga"
+    },
+    {
+      "surface": "לְמִשְׁכְּנוֹתָ֑יו",
+      "gloss": "mazaunansa"
+    },
+    {
+      "surface": "נִ֝שְׁתַּחֲוֶ֗ה",
+      "gloss": "mu lalliƙa"
+    },
+    {
+      "surface": "לַהֲדֹ֥ם",
+      "gloss": "ga kafarsa"
+    },
+    {
+      "surface": "רַגְלָֽיו",
+      "gloss": "⟨ta ƙasa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:49:59.054904868Z",
+  "model": "glm-5.2"
+}

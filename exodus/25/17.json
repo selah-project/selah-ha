@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 25:17",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma kana yi da kafforeta na zinari m tsarki: ⟨a nuna⟩ biyu da rabi tsawonta, da ⟨a nuna⟩ ɗaya da riba faɗinta.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Kuma kana yi da"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kafforeta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinari"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "m tsarki"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "⟨a nuna⟩ biyu"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "da rabi"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "tsawonta"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "da ⟨a nuna⟩ ɗaya"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "da rabi"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "faɗinta"
+    }
+  ],
+  "timestamp": "2026-08-13T01:47:16.787551305Z",
+  "model": "glm-5.2"
+}

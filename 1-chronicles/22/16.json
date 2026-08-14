@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 22:16",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Na zinari, da azurfa, da tagulla, da ƙarfe, babu ƙidaya; tashi, ka yi, kuma Yahweh ya kasance tare da kai!",
+  "tokens": [
+    {
+      "surface": "לזהב",
+      "gloss": "Na zinari"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "da azurfa"
+    },
+    {
+      "surface": "ולנחשת",
+      "gloss": "da tagulla"
+    },
+    {
+      "surface": "ולברזל",
+      "gloss": "da ƙarfe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ƙidaya"
+    },
+    {
+      "surface": "קום",
+      "gloss": "tashi"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ka yi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tare da kai"
+    }
+  ],
+  "timestamp": "2026-08-13T00:27:32.653925879Z",
+  "model": "glm-5.2"
+}

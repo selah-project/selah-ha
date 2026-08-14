@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 102,
+  "translation": "Amma Kai, Kai shĩ ⟨ne⟩, kuma shehunanka ba zã su gushe ba.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Amma Kai"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Kai shĩ"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "kuma shehunanka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "zã su gushe"
+    }
+  ],
+  "timestamp": "2026-08-12T20:27:11.624536742Z",
+  "model": "glm-5.2"
+}

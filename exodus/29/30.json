@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 29:30",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kwana bakwai zai sa su ⟨kohen⟩ wanda ⟨ke⟩ a ƙarƙashinsa, daga cikin 'ya'yansa maza, wanda zai shiga cikin Ohel Mo'ed don yin hidima a ⟨wurin⟩ tsarkaka.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Kwana bakwai"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "ילבשם",
+      "gloss": "zai sa su"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨kohen⟩"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "wanda ⟨ke⟩ a ƙarƙashinsa"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "daga cikin 'ya'yansa maza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "zai shiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Mo'ed"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "don yin hidima"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "a ⟨wurin⟩ tsarkaka"
+    }
+  ],
+  "timestamp": "2026-08-13T01:48:15.587763898Z",
+  "model": "glm-5.2"
+}

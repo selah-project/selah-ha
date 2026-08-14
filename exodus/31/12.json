@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Yahweh ya faɗa wa Moshe ⟨ce⟩:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya faɗa wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ce⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ":"
+    }
+  ],
+  "timestamp": "2026-08-12T01:15:29.825005708Z",
+  "model": "glm-5.2"
+}

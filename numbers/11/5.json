@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Mun tuna ⟨את⟩ kifin da muka ci a Mitsrayim bafiya; ⟨את⟩ gyaɗa, da ⟨את⟩ kankana, da ⟨את⟩ ganyen tafarnuwa, da ⟨את⟩ albasa, da ⟨את⟩ tafarnuwa.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "Mun tuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kifin"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "kifin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "muka ci"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "a Mitsrayim"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bafiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gyaɗa"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "gyaɗa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kankana"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "kankana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ganyen tafarnuwa"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "ganyen tafarnuwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "albasa"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "albasa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "tafarnuwa"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "tafarnuwa"
+    }
+  ],
+  "timestamp": "2026-08-12T03:46:03.287602258Z",
+  "model": "glm-5.2"
+}

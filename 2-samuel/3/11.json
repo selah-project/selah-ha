@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ⟨bã⟩ ya sake iya amsa ⟨את⟩ Avner ⟨ko⟩ kalma, saboda tsoratarsa ⟨את⟩ shi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kuma bã"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "ya sake iya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sake"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "amsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalma"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "saboda tsoratarsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi"
+    }
+  ],
+  "timestamp": "2026-08-12T09:49:51.166773259Z",
+  "model": "glm-5.2"
+}

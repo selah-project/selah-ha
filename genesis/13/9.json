@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Babu ⟨ko⟩ a ƙasa gabaɗaya a gabanka? Ka rabu ⟨ina roƙo⟩ daga gare ni; idan ⟨ka je⟩ hagu, ina ⟨zuwa⟩ dama, kuma idan dama, ina hagu.",
+  "tokens": [
+    {
+      "surface": "הֲלֹ֤א",
+      "gloss": "Babu"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "gabaɗaya"
+    },
+    {
+      "surface": "הָאָ֨רֶץ֙",
+      "gloss": "a ƙasa"
+    },
+    {
+      "surface": "לְפָנֶ֔יךָ",
+      "gloss": "a gabanka"
+    },
+    {
+      "surface": "הִפָּ֥רֶד",
+      "gloss": "Ka rabu"
+    },
+    {
+      "surface": "נָ֖א",
+      "gloss": "⟨ina roƙo⟩"
+    },
+    {
+      "surface": "מֵעָלָ֑י",
+      "gloss": "daga gare ni"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "הַשְּׂמֹ֣אל",
+      "gloss": "hagu"
+    },
+    {
+      "surface": "וְאֵימִ֔נָה",
+      "gloss": "ina ⟨zuwa⟩ dama"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "הַיָּמִ֖ין",
+      "gloss": "dama"
+    },
+    {
+      "surface": "וְאַשְׂמְאִֽילָה",
+      "gloss": "ina hagu"
+    }
+  ],
+  "timestamp": "2026-08-11T23:30:30.125573184Z",
+  "model": "glm-5.2"
+}

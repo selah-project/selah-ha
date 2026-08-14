@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma daga zuriyarka ba za ka ba ⟨wani⟩ don a kai shi gaba ⟨don a miƙa shi⟩ ga Molek ba, kuma ba za ka gurbata sunan Elohim naka ba; ni ne Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "kuma daga zuriyarka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "za ka ba"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "don a kai gaba"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ga Molek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "za ka gurbata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "suna"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-13T01:49:40.207365194Z",
+  "model": "glm-5.2"
+}

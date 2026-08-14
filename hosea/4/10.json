@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma za su ci, kuma ba za su sha awa ba; sun yi karuwanci, kuma ba za su ƙaru ba; domin ⟨sun⟩ bar ⟨את⟩ Yahweh, don kiyaye ⟨sharuɗɗansa⟩.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Kuma za su ci"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "za su sha awa"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "sun yi karuwanci"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "za su ƙaru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "sun bar"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "don kiyaye"
+    }
+  ],
+  "timestamp": "2026-08-12T18:08:39.442967991Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 66,
+  "translation": "Ku gaishe Elohim na mu, ya al'ummomi, kuma ku sa muryar yabonSa ta ji!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Ku gaishe"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "al'ummomi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na mu"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "kuma ku sa ta ji"
+    },
+    {
+      "surface": "קול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "yabonSa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:58:32.600667375Z",
+  "model": "glm-5.2"
+}

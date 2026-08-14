@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Zan yabi sunan Elohim da waƙa, kuma zan girma shi da godiya.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Zan yabi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sunan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "da waƙa"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "kuma zan girma shi"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "da godiya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:01:55.649407888Z",
+  "model": "glm-5.2"
+}

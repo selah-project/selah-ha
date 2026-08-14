@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 32:18",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Ya ce: Babu ⟨muryar⟩ kururuwar ƙarfi, kuma babu ⟨muryar⟩ kururuwar rauni; muryar kururuwa ⟨ne⟩ nake ji.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ya ce"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Babu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "⟨muryar⟩"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "kururuwar"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "ƙarfi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "⟨muryar⟩"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "kururuwar"
+    },
+    {
+      "surface": "חלושה",
+      "gloss": "rauni"
+    },
+    {
+      "surface": "קול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "kururuwa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nake"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ji"
+    }
+  ],
+  "timestamp": "2026-08-12T01:23:02.908792994Z",
+  "model": "glm-5.2"
+}

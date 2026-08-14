@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Da ⟨את⟩ ƙandiloli da fitilunsu, don su ƙone su bisa ka'ada, gaban dakin ciki, zinari na tsabta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Da ⟨את⟩",
+      "marks": "ƙandiloli"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "ƙandiloli"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "da fitilunsu"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "don su ƙone su"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "bisa ka'ada"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "dakin ciki"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinari"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "na tsabta"
+    }
+  ],
+  "timestamp": "2026-08-13T02:40:43.836076640Z",
+  "model": "glm-5.2"
+}

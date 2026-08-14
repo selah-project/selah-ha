@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Asirin Yahweh yana ga wadanda suke tsāronsā, kuma alkawarinsa ⟨ya kasance⟩ don ya sanar da su.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "asirin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ga wadanda suke tsāronsā"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "kuma alkawarinsa"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "don ya sanar da su"
+    }
+  ],
+  "timestamp": "2026-08-12T19:30:15.623608781Z",
+  "model": "glm-5.2"
+}

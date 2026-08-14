@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Suka gode wa Yahweh chesed ⟨sa⟩, da kuma abin al'ajabin ⟨sa⟩ ga ƴa'ƴan mutane!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Suka gode wa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed ⟨sa⟩"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "da kuma abin al'ajabin ⟨sa⟩"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ga ƴa'ƴan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mutane"
+    }
+  ],
+  "timestamp": "2026-08-12T20:32:54.706804714Z",
+  "model": "glm-5.2"
+}

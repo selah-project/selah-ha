@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 49:9",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "da cewa waɗanda ake ɗaure su: \"Ku fita,\" da waɗanda ⟨suke⟩ cikin duhu su nuna kansu; a kan hanyoyi za a kiƙa su, kuma a duk tsirai ⟨su⟩ kiwo ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "da cewa"
+    },
+    {
+      "surface": "לאסורים",
+      "gloss": "waɗanda ake ɗaure"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "ku fita"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "cikin duhu"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "su nuna kansu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "hanyoyi"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "za a kiƙa su"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "kuma a duk"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "tsirai"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "kiwo"
+    }
+  ],
+  "timestamp": "2026-08-13T02:10:21.751563025Z",
+  "model": "glm-5.2"
+}

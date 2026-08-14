@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma Mitsrayim za ta san cewa ni ne Yahweh, a cikin miƙa ⟨את⟩ hannuwa na a kan Mitsrayim, kuma na fitar da ⟨את⟩ ƴa'ƴan Yisra'el daga tsakãninsu.",
+  "tokens": [
+    {
+      "surface": "וְיָדְע֤וּ",
+      "gloss": "kuma za ta san"
+    },
+    {
+      "surface": "מִצְרַ֨יִם֙",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "אֲנִ֣י",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בִּנְטֹתִ֥י",
+      "gloss": "a cikin miƙa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "hannuwa na"
+    },
+    {
+      "surface": "יָדִ֖י",
+      "gloss": "hannuwa na"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "מִצְרָ֑יִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וְהוֹצֵאתִ֥י",
+      "gloss": "kuma na fitar da"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ƴa'ƴan Yisra'el"
+    },
+    {
+      "surface": "בְּנֵֽי",
+      "gloss": "ƴa'ƴan"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מִתּוֹכָֽם",
+      "gloss": "daga tsakãninsu"
+    }
+  ],
+  "timestamp": "2026-08-13T01:46:25.695547725Z",
+  "model": "glm-5.2"
+}

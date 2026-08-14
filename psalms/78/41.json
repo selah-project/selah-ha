@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 78:41",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Kuma sun koma baya, suka jarraba El, kuma tsarkin ⟨na⟩ Isra'ila suka ciwa bakin ciki.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "Kuma sun koma baya"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "suka jarraba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "kuma tsarkin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "התוו",
+      "gloss": "suka ciwa bakin ciki"
+    }
+  ],
+  "timestamp": "2026-08-12T20:09:16.015674266Z",
+  "model": "glm-5.2"
+}

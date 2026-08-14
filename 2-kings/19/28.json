@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 19:28",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Saboda tashinkãka a gare ni da shawararka ta hau cikin kunãna, zã ni sanya mīrna a cikin hanka, da bāban buri a cikin lebbanka, kuma zã ni mayar da kai a kan hanya da ka fito ⟨a⟩ cikinta.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Saboda"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "tashinkãka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a gare ni"
+    },
+    {
+      "surface": "ושאננך",
+      "gloss": "da shawararka"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ta hau"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "cikin kunãna"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "zã ni sanya"
+    },
+    {
+      "surface": "חחי",
+      "gloss": "mīrna"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "a cikin hanka"
+    },
+    {
+      "surface": "ומתגי",
+      "gloss": "da bāban buri"
+    },
+    {
+      "surface": "בשפתיך",
+      "gloss": "a cikin lebbanka"
+    },
+    {
+      "surface": "והשבתיך",
+      "gloss": "kuma zã ni mayar da kai"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "a kan hanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "באת",
+      "gloss": "ka fito"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨a⟩ cikinta"
+    }
+  ],
+  "timestamp": "2026-08-12T12:39:31.671177387Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Hikimar mata ta gina gidanta, amma wawaye da hannayenta tana rushe ⟨shi⟩.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "hikimar"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mata"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "ta gina"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "gidanta"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "amma wawaye"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "da hannayenta"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "tana rushe"
+    }
+  ],
+  "timestamp": "2026-08-12T21:15:37.010123457Z",
+  "model": "glm-5.2"
+}

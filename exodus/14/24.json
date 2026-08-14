@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 14:24",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma a lokacin aikin yi na safe, Yahweh ya duba ⟨a⟩ sansanin Mitsrayim a cikin ginshiƙi na wuta da girgije, kuma ya ɗabaize ⟨את⟩ sansanin Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma a lokacin"
+    },
+    {
+      "surface": "באשמרת",
+      "gloss": "aikin yi na"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "safe"
+    },
+    {
+      "surface": "וישקף",
+      "gloss": "ya duba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "sansanin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "a cikin ginshiƙi na"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "da girgije"
+    },
+    {
+      "surface": "ויהם",
+      "gloss": "ya ɗabaize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sansanin"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "sansanin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:45:34.747919538Z",
+  "model": "glm-5.2"
+}

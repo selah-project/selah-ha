@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma Rav-Sḥake ya koma, kuma ya sami ⟨את⟩ sarkin Ashur yana yaƙi da Livna; domin ya ji cewa ya tafi daga Lakhish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kuma ya koma"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Sḥake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "kuma ya sami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarkin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "yana yaƙi"
+    },
+    {
+      "surface": "על",
+      "gloss": "da"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ya ji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "daga Lakhish"
+    }
+  ],
+  "timestamp": "2026-08-12T13:59:07.085063550Z",
+  "model": "glm-5.2"
+}

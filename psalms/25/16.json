@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Ka juya ⟨fuska⟩ zuwa gare ni, kuma ka nīma rahama, domin kaɗaicē ne kuma tālalāci ⟨nake⟩.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "ka juya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zuwa gare ni"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "kuma ka nīma rahama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "kaɗaicē ne"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "kuma tālalāci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:30:15.623901635Z",
+  "model": "glm-5.2"
+}

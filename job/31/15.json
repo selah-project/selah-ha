@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 31:15",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Ba cikin ciki Wanda ya yi ni ne ya fa Ya sa shi? Kuma Wanda ya shirya shi a cikin mahaifa ɗaya?",
+  "tokens": [
+    {
+      "surface": "הֲֽ֝לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בַ֭בֶּטֶן",
+      "gloss": "a cikin ciki"
+    },
+    {
+      "surface": "עֹשֵׂ֣נִי",
+      "gloss": "Wanda ya yi ni"
+    },
+    {
+      "surface": "עָשָׂ֑הוּ",
+      "gloss": "ya fa Ya sa shi"
+    },
+    {
+      "surface": "וַ֝יְכֻנֶ֗נּוּ",
+      "gloss": "Kuma Wanda ya shirya shi"
+    },
+    {
+      "surface": "בָּרֶ֥חֶם",
+      "gloss": "a cikin mahaifa"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "ɗaya"
+    }
+  ],
+  "timestamp": "2026-08-12T22:09:27.481175350Z",
+  "model": "glm-5.2"
+}

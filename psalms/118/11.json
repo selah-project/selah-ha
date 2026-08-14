@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 118,
+  "translation": "Sun kewaye ni, eh, sun kewaye ni; a cikin sunan Yahweh ⟨zai⟩ tabbas ⟨zan⟩ yanka su.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "Sun kewaye ni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "eh"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "sun kewaye ni"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "a cikin sunan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨zai⟩ tabbas"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "⟨zan⟩ yanka su"
+    }
+  ],
+  "timestamp": "2026-08-12T20:39:17.391301122Z",
+  "model": "glm-5.2"
+}

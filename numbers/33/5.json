@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 33:5",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Kuma suka tafi daga Ra'amses, ɗiyán ⟨⟩Isra'ila, suka sansa a Sukoth.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Kuma suka tafi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyán"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "daga Ra'amses"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "suka sansa"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "a Sukoth"
+    }
+  ],
+  "timestamp": "2026-08-12T04:43:57.040855627Z",
+  "model": "glm-5.2"
+}

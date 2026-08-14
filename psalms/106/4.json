@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Ka tuna da ni, Yahweh, a cikin yarda ⟨da⟩ mutanenka; ka kula da ni a cikin kuɗin azaba ⟨da⟩ ka bayar!",
+  "tokens": [
+    {
+      "surface": "זָכְרֵ֣נִי",
+      "gloss": "Ka tuna da ni"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בִּרְצ֣וֹן",
+      "gloss": "a cikin yarda"
+    },
+    {
+      "surface": "עַמֶּ֑ךָ",
+      "gloss": "mutanenka"
+    },
+    {
+      "surface": "פָּקְדֵ֗נִי",
+      "gloss": "ka kula da ni"
+    },
+    {
+      "surface": "בִּישׁוּעָתֶֽךָ",
+      "gloss": "a cikin kuɗin azaba ⟨da⟩ ka bayar"
+    }
+  ],
+  "timestamp": "2026-08-12T20:31:06.727996369Z",
+  "model": "glm-5.2"
+}

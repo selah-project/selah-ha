@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Kuma na yi kuka a cikin azumin raiʼna, kuma ⟨harkar⟩ ta kasance ⟨a matsayin⟩ zagi gare ni.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "kuma na yi kuka"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "a cikin azumin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "raiʼna"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "kuma ta kasance"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "⟨a matsayin⟩ zagi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gare ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:59:06.848736783Z",
+  "model": "glm-5.2"
+}

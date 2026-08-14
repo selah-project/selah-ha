@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Wani mutum ya gani, ya faɗa wa Yo'ab, ya ce: Ga shi, na ga ⟨את⟩ Abshalom an rataye shi a cikin itacen ɓaure.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ya gani"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wani"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "wa Yo'ab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "na gani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abshalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Abshalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "an rataye shi"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "a cikin itacen ɓaure"
+    }
+  ],
+  "timestamp": "2026-08-12T10:30:31.857706657Z",
+  "model": "glm-5.2"
+}

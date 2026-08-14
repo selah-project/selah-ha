@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Rai mai albarka za a yi shi kitse, kuma wanda ya shafi ⟨kuma⟩ shi ⟨da kansa⟩ za a sha masa ruwa.",
+  "tokens": [
+    {
+      "surface": "נֶֽפֶשׁ",
+      "gloss": "rai"
+    },
+    {
+      "surface": "בְּרָכָ֥ה",
+      "gloss": "mai albarka"
+    },
+    {
+      "surface": "תְדֻשָּׁ֑ן",
+      "gloss": "za a yi shi kitse"
+    },
+    {
+      "surface": "וּ֝מַרְוֶ֗ה",
+      "gloss": "kuma wanda ya shafi"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "⟨kuma⟩"
+    },
+    {
+      "surface": "ה֥וּא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "יוֹרֶֽא",
+      "gloss": "za a sha masa ruwa"
+    }
+  ],
+  "timestamp": "2026-08-12T21:12:18.236454273Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Na juya zuciya-ta don in yi ⟨את⟩ dokokin-ka, har abada, a kowace mataki.",
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "na juya"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciya-ta"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "don in yi"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dokokin-ka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "a kowace mataki"
+    }
+  ],
+  "timestamp": "2026-08-12T20:44:58.368824304Z",
+  "model": "glm-5.2"
+}

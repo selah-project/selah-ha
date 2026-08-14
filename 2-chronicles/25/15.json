@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 25:15",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma fushin Yahweh ya ƙone a cikin Amatsyahu, ya aiko masa annabi, ya ce masa, don me ka nemi ⟨את⟩ allahin mutanen da ba su tseratar da a bisa ga ⟨את⟩ mutanensu daga hannunka?",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Kuma...ya ƙone"
+    },
+    {
+      "surface": "אף",
+      "gloss": "fushin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באמציהו",
+      "gloss": "a cikin Amatsyahu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ya aiko"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "annabi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "דרשת",
+      "gloss": "ka nemi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allahin mutanen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "allahin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "suka tseratar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanensu"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "mutanensu"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "daga hannunka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:52:49.840984822Z",
+  "model": "glm-5.2"
+}

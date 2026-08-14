@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Suka juya, suka tafi, suka sanya ⟨את⟩ ƙanana da ⟨את⟩ shanu da ⟨את⟩ dukiya a gabaninsu.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "suka juya"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "suka tafi"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "suka sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙanana"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "ƙanana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shanu"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dukiya"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "dukiya"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "a gabaninsu"
+    }
+  ],
+  "timestamp": "2026-08-12T08:07:17.887928644Z",
+  "model": "glm-5.2"
+}

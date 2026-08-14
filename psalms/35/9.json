@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Kuma rã'ãna za ta yi murna a Yahweh, za ta yi murna cikin ĩshirar sa.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Kuma rã'ãna"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "za ta yi murna"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "a Yahweh"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "za ta yi murna"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "cikin ĩshirar sa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:36:50.786766788Z",
+  "model": "glm-5.2"
+}

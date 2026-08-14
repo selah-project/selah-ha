@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma sarkin Mitsrayim ya kira masu haihuwa, ya ce musu, don me kuka yi wannan abin, kuma kuka raya ⟨את⟩ yaran maza?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kuma ya kira"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "masu haihuwa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "להן",
+      "gloss": "musu"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "don me"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "kuka yi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "abin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "kukaya raya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaran maza"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "yaran maza"
+    }
+  ],
+  "timestamp": "2026-08-12T00:30:08.943510805Z",
+  "model": "glm-5.2"
+}

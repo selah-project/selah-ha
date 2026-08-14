@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 27:15",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma ga ƙafar ta biyu, gwiwar shinge goma sha biyar; ginshiƙansu uku, kuma ƙugansu uku.",
+  "tokens": [
+    {
+      "surface": "ולכתף",
+      "gloss": "Kuma ga ƙafar"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ta biyu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "biyar"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "goma"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "gwiwar shinge"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "ginshiƙansu"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "uku"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "kuma ƙugansu"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "uku"
+    }
+  ],
+  "timestamp": "2026-08-12T01:08:47.257465863Z",
+  "model": "glm-5.2"
+}

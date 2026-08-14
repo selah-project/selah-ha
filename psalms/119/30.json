@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Hanyar aminci na zaɓa, dokokinka na tsayar ⟨a gaban⟩ ⟨ni⟩.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "aminci"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "na zaɓa"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dokokinka"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "na tsayar"
+    }
+  ],
+  "timestamp": "2026-08-12T20:42:01.630638349Z",
+  "model": "glm-5.2"
+}

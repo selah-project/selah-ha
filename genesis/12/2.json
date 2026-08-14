@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "\"Kuma zan yi ka ⟨ce⟩ ƙabila babba, kuma zan albarkace ka, kuma zan girkiza sunanka, kuma ka kasance ⟨kai⟩ albarka.\"",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "Kuma zan yi ka"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "⟨ce⟩ ƙabila"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "babba"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "kuma zan albarkace ka"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "kuma zan girkiza"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunanka"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kuma ka kasance"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "albarka"
+    }
+  ],
+  "timestamp": "2026-08-13T01:42:58.535951462Z",
+  "model": "glm-5.2"
+}

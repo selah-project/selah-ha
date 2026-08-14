@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 118,
+  "translation": "Yahweh ⟨ya kasance⟩ a gare ni cikin masu taimako na, kuma ni zan duba ⟨a kan⟩ waɗanda suke ƙi mini.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a gare ni"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "cikin masu taimako na"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "zan duba"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "waɗanda suke ƙi mini"
+    }
+  ],
+  "timestamp": "2026-08-12T20:38:45.133732790Z",
+  "model": "glm-5.2"
+}

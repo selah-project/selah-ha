@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma mutanen Yisra'el suka fita zuwa yaki da Benyamin, kuma mutanen Yisra'el suka shirya ⟨don⟩ ⟨את⟩ yaki a kan HaGiv'a.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Kuma suka fita"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "zuwa yaki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "da"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benyamin"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "suka shirya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su (Benyamin)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "yaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "HaGiv'a"
+    }
+  ],
+  "timestamp": "2026-08-12T08:24:49.248560538Z",
+  "model": "glm-5.2"
+}

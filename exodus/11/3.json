@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Yahweh ya baiwa ⟨את⟩ alherin mutanen a idon Mitsriyawa. Haka nan mutumin Mosheh ya kasance babba sosai a ƙasar Mitsrayim, a idon bayin Paroh da a idon mutanen.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Kuma ya baiwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alherin"
+    },
+    {
+      "surface": "חן",
+      "gloss": "alherin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idon"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsriyawa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Haka nan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "babba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idon"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bayin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "da a idon"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    }
+  ],
+  "timestamp": "2026-08-12T00:43:25.328366325Z",
+  "model": "glm-5.2"
+}

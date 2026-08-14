@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 34:12",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "da ga dukkan hannun ƙarfi da ga dukan tsoro mai girma, wanda Moshe ya yi a gaban dukkan Isra'ila.",
+  "tokens": [
+    {
+      "surface": "וּלְכֹל֙",
+      "gloss": "da ga dukkan"
+    },
+    {
+      "surface": "הַיָּ֣ד",
+      "gloss": "hannun"
+    },
+    {
+      "surface": "הַחֲזָקָ֔ה",
+      "gloss": "ƙarfi"
+    },
+    {
+      "surface": "וּלְכֹ֖ל",
+      "gloss": "da ga dukan"
+    },
+    {
+      "surface": "הַמּוֹרָ֣א",
+      "gloss": "tsoro"
+    },
+    {
+      "surface": "הַגָּד֑וֹל",
+      "gloss": "mai girma"
+    },
+    {
+      "surface": "אֲשֶׁר֙",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "עָשָׂ֣ה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לְעֵינֵ֖י",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T06:09:04.580362736Z",
+  "model": "glm-5.2"
+}

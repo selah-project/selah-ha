@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Ḥokmat Shelomoh ta fi ḥokmat dukan 'ya'yan Ḳedem, da ḥokmat Mitsrayim ⟨duka⟩.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "ta fi"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ḥokmat"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "ḥokmat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Ḳedem"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "da"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ḥokmat"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T10:58:50.999143727Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 35:18",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Ko da kayan itace a hannu, wanda za'a iya mutuwa da shi, ya buge shi ya mutu, mai kisa ne; tabbas za a kashe mai kisan.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Ko da"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "kayan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "itace"
+    },
+    {
+      "surface": "יד",
+      "gloss": "a hannu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "za'a iya mutuwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "da shi"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "ya buge shi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ya mutu"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "mai kisa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "מות",
+      "gloss": "tabbas za a kashe"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "za a kashe"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "mai kisan"
+    }
+  ],
+  "timestamp": "2026-08-12T04:47:01.450311090Z",
+  "model": "glm-5.2"
+}

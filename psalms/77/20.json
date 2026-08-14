@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 77,
+  "translation": "Hanyarka a cikin teku ⟨ce⟩, da hanyōyinka a cikin ruwa masu yawa, ⟨kuma⟩ gurbin ƙafarka ba a san ⟨su⟩ ba.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "a cikin teku"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "hanyarka"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "⟨kuma⟩ hanyōyinka"
+    },
+    {
+      "surface": "במים",
+      "gloss": "a cikin ruwa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "masu yawa"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "⟨kuma⟩ gurbin ƙafarka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "a san"
+    }
+  ],
+  "timestamp": "2026-08-12T20:07:28.892083236Z",
+  "model": "glm-5.2"
+}

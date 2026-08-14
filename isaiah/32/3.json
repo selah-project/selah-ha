@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Idanun masu gani ba za su makance ba, kuma kunnuwan masu sauraro za su saurara.",
+  "tokens": [
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תִשְׁעֶ֖ינָה",
+      "gloss": "za su makance"
+    },
+    {
+      "surface": "עֵינֵ֣י",
+      "gloss": "Idanun"
+    },
+    {
+      "surface": "רֹאִ֑ים",
+      "gloss": "masu gani"
+    },
+    {
+      "surface": "וְאָזְנֵ֥י",
+      "gloss": "kuma kunnuwan"
+    },
+    {
+      "surface": "שֹׁמְעִ֖ים",
+      "gloss": "masu sauraro"
+    },
+    {
+      "surface": "תִּקְשַֽׁבְנָה",
+      "gloss": "za su saurara"
+    }
+  ],
+  "timestamp": "2026-08-13T02:09:10.035906410Z",
+  "model": "glm-5.2"
+}

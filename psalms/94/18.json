@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 94,
+  "translation": "Sa'ad da na faɗa: Ƙafar ⟨na⟩ tana zamewa, chesed ⟨na⟩, Yahweh, yana gĩyar da ni.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sa'ad da"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "na faɗa"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tana zamewa"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "Ƙafar"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "yana gĩyar da ni"
+    }
+  ],
+  "timestamp": "2026-08-12T20:21:00.331254006Z",
+  "model": "glm-5.2"
+}

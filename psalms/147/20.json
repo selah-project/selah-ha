@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 147,
+  "translation": "Ba Ya yi haka ga kowace al'umma; kuma ḥukunce-ḥukuncen Sa ba su san su ⟨babu⟩. Ku yi ħalēlu ga Yah!",
+  "tokens": [
+    {
+      "surface": "לֹ֘א",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "עָ֤שָׂה",
+      "gloss": "Ya yi"
+    },
+    {
+      "surface": "כֵ֨ן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "ga kowace"
+    },
+    {
+      "surface": "גּ֗וֹי",
+      "gloss": "al'umma"
+    },
+    {
+      "surface": "וּמִשְׁפָּטִ֥ים",
+      "gloss": "kuma ḥukunce-ḥukuncin Sa"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "ba su"
+    },
+    {
+      "surface": "יְדָע֗וּם",
+      "gloss": "san su"
+    },
+    {
+      "surface": "הַֽלְלוּ",
+      "gloss": "Ku yi ħalēlu"
+    },
+    {
+      "surface": "יָֽהּ",
+      "gloss": "ga Yah"
+    }
+  ],
+  "timestamp": "2026-08-12T20:59:20.614058007Z",
+  "model": "glm-5.2"
+}

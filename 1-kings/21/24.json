@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Wanda ya mutu ga Ahab a cikin gari, karnuka za su ci ⟨shi⟩; kuma wanda ya mutu a cikin daji, tsuntsayen sama za su ci ⟨shi⟩.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "wanda ya mutu"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "ga Ahab"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a cikin gari"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "za su ci"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "karnuka"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "kuma wanda ya mutu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a cikin daji"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "za su ci"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "tsuntayen"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    }
+  ],
+  "timestamp": "2026-08-13T02:06:12.287701870Z",
+  "model": "glm-5.2"
+}

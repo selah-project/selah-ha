@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Sai Yehoshafat ya ce wa sarkin Yisra'el: \"Nemi, ina roƙonka, a yau ⟨את⟩ maganar Yahweh.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sai ya ce"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Nemi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ina roƙonka"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "a yau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maganar"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "maganar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T11:50:34.997450717Z",
+  "model": "glm-5.2"
+}

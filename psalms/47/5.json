@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Ya zaɓa mana ⟨את⟩ gadonmu, ⟨את⟩ girman Ya'ƙoub da ya ƙaunaci. Selah.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "Ya zaɓa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gadonmu"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "gadonmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "girman"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "girman"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'ƙoub"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ya ƙaunaci"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T19:47:00.630102595Z",
+  "model": "glm-5.2"
+}

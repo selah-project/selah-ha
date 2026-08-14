@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma Pelishtiyawa sun yi ⟨את⟩ akwatin Elohim, suka kawo ⟨את⟩ shi cikin gida na Dagon, suka tsayar da ⟨את⟩ shi kusa da Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Kuma suka yi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtiyawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "suka kawo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi",
+      "marks": "cikin gida"
+    },
+    {
+      "surface": "בית",
+      "gloss": "cikin gida"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "na Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "suka tsayar da"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi",
+      "marks": "kusa"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "kusa"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "da Dagon"
+    }
+  ],
+  "timestamp": "2026-08-12T08:36:16.070496085Z",
+  "model": "glm-5.2"
+}

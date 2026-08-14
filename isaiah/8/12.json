@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kada ku faɗi, 'makirci,' game da duka abin da wannan mutanen ke kira makirci; kuma ⟨א־ת⟩ tsoratarsu kada ku ji tsoro, kuma kada ku firgita.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "ku faɗi"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "makirci"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "game da duka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ke kira"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wannan mutanen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨wannan⟩"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "makirci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tsoratarsu"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "tsoratarsu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ku ji tsoro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "ku firgita"
+    }
+  ],
+  "timestamp": "2026-08-12T13:04:22.685714056Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 23:6",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Shin da yawan ƙarfi zai yi husuma tare da ni? A'ah, shi kawai zai sa ⟨hankali⟩ a kaina.",
+  "tokens": [
+    {
+      "surface": "הברב",
+      "gloss": "da yawan"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ƙarfi"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "zai yi husuma"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "tare da ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a'ah"
+    },
+    {
+      "surface": "אך",
+      "gloss": "shi kawai"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "zai sa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "a kaina"
+    }
+  ],
+  "timestamp": "2026-08-12T22:00:47.521447651Z",
+  "model": "glm-5.2"
+}

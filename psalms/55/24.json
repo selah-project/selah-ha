@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 55:24",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 55,
+  "translation": "Amma Kai, Elohim, zaka sa su sauka zuwa ramin lalata; mutanen jini da magana banza ba za su raba rabin kwanakinsu ba, amma ni na dogara da Kai.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "amma Kai"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תורדם",
+      "gloss": "zaka sa su sauka"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "zuwa ramin"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "lalata"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "jini"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "da magana banza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba za su"
+    },
+    {
+      "surface": "יחצו",
+      "gloss": "raba rabin"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "kwanakinsu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "amma ni"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "na dogara"
+    },
+    {
+      "surface": "בך",
+      "gloss": "da Kai"
+    }
+  ],
+  "timestamp": "2026-08-12T19:50:33.372629067Z",
+  "model": "glm-5.2"
+}

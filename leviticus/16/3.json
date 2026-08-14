@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Da wannan Aharon zai shiga cikin ⟨tsarkin⟩: da bulla, ɗan shanu, don zunubi, da ram ɗin don kurbani.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "da wannan"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "zai shiga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tsarkin"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "da bulla"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "don zunubi"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "da ram"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "don kurbani"
+    }
+  ],
+  "timestamp": "2026-08-12T02:32:07.076549958Z",
+  "model": "glm-5.2"
+}

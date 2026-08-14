@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Ya ɓaće teku, ya sa ⟨su⟩ su wuce, ya tsayar da ruwa a matsayin tarin kaya.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "Ya ɓaće"
+    },
+    {
+      "surface": "ים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "ya sa ⟨su⟩ su wuce"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "ya tsayar da"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "a matsayin"
+    },
+    {
+      "surface": "נד",
+      "gloss": "tarin kaya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:08:54.925669190Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Wanda yake kallonsa iska ba zai shuka ba, kuma wanda yake kallon girgije ba zai girba ba.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Wanda yake kallonsa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "iska"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba zai"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "shuka ba"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "kuma wanda yake kallon"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "girgije"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba zai"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "girba ba"
+    }
+  ],
+  "timestamp": "2026-08-13T02:35:42.055481478Z",
+  "model": "glm-5.2"
+}

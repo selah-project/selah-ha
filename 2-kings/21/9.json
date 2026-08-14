@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 21:9",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma ba su saurara ba, kuma Menashshe ya ɓatar da su don su yi ⟨את⟩ sharri fiye da ⟨al'ummomin⟩ da Yahweh ya halaka daga gaban 'ya'yan Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "saurara"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "ya ɓatar da su"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "don su yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sharri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sharri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fiye da"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "⟨al'ummomin⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "ya halaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T12:40:58.475963853Z",
+  "model": "glm-5.2"
+}

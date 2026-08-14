@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "judges 20:37",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma maharbai sun yi gaggaya, suka kaiwa Gibʿa, maharben ya baza, ya duka ⟨את⟩ duka ⟨ana cewa⟩ birnin da bakin takobi.",
+  "tokens": [
+    {
+      "surface": "והארב",
+      "gloss": "Kuma maharbai"
+    },
+    {
+      "surface": "החישו",
+      "gloss": "suna yi gaggaya"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "suka kaiwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gada"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gibʿa"
+    },
+    {
+      "surface": "וימשך",
+      "gloss": "maharben ya baza"
+    },
+    {
+      "surface": "הארב",
+      "gloss": "maharben"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ya duka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka birnin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "da bakin"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "takobi"
+    }
+  ],
+  "timestamp": "2026-08-12T08:28:05.595311718Z",
+  "model": "glm-5.2"
+}

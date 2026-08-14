@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Rai-na yana hannu-na ⟨da⟩ kullum, amma dokar-ka ba ta manta da ita ba.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "rai-na"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "hannu-na"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kullum"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "amma dokar-ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ta manta da ita"
+    }
+  ],
+  "timestamp": "2026-08-12T20:44:58.368336962Z",
+  "model": "glm-5.2"
+}

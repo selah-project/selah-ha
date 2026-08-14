@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma kwaɗayi za su tafi daga gare ka, da kuma daga gidajen ka, da kuma daga bayinka, da kuma daga jama'anka; sai dai a cikin kogin za su ci ⟨sauran⟩.\"",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "za su tafi"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "kwaɗayi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "daga gare ka"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "da kuma daga gidajen ka"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "da kuma daga bayinka"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "da kuma daga jama'anka"
+    },
+    {
+      "surface": "רק",
+      "gloss": "sai dai"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "a cikin kogin"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "za su ci ⟨sauran⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T00:37:58.123948921Z",
+  "model": "glm-5.2"
+}

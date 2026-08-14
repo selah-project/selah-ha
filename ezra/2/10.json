@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "ʼYaʼyan Bani, ɗari shida da arba'in da biyu.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "ʼYaʼyan"
+    },
+    {
+      "surface": "בָנִ֔י",
+      "gloss": "Bani"
+    },
+    {
+      "surface": "שֵׁ֥שׁ",
+      "gloss": "shida"
+    },
+    {
+      "surface": "מֵא֖וֹת",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "אַרְבָּעִ֥ים",
+      "gloss": "arba'in"
+    },
+    {
+      "surface": "וּשְׁנָֽיִם",
+      "gloss": "da biyu"
+    }
+  ],
+  "timestamp": "2026-08-12T23:21:02.983439755Z",
+  "model": "glm-5.2"
+}

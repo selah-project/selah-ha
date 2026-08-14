@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": " na ɓace kamar tunkīya ta ɓata, nēman bārinka; domin umarninka ba na mantawa.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "na ɓace"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "kamar tunkīya"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ta ɓata"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "nēman"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bārinka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "umarninka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "na mantawa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:42:48.210625891Z",
+  "model": "glm-5.2"
+}

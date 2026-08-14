@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma shugaban mahalarta ya riƙi ⟨את⟩ Serayah, babban firist, da ⟨את⟩ Tsefanyahu, firist na biyu, da ⟨את⟩ masu kiyaye ƙofa guda uku.",
+  "tokens": [
+    {
+      "surface": "וַיִּקַּ֣ח",
+      "gloss": "Kuma ya riƙi"
+    },
+    {
+      "surface": "רַב",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "טַבָּחִ֗ים",
+      "gloss": "mahalarta"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Serayah"
+    },
+    {
+      "surface": "שְׂרָיָה֙",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "כֹּהֵ֣ן",
+      "gloss": "firist"
+    },
+    {
+      "surface": "הָרֹ֔אשׁ",
+      "gloss": "babban"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Tsefanyahu"
+    },
+    {
+      "surface": "צְפַנְיָ֖הוּ",
+      "gloss": "Tsefanyahu"
+    },
+    {
+      "surface": "כֹּהֵ֣ן",
+      "gloss": "firist"
+    },
+    {
+      "surface": "מִשְׁנֶ֑ה",
+      "gloss": "na biyu"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "da ⟨את⟩",
+      "marks": "masu kiyaye ƙofa guda uku"
+    },
+    {
+      "surface": "שְׁלֹ֖שֶׁת",
+      "gloss": "guda uku"
+    },
+    {
+      "surface": "שֹׁמְרֵ֥י",
+      "gloss": "masu kiyaye"
+    },
+    {
+      "surface": "הַסַּֽף",
+      "gloss": "ƙofa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:52:53.518444474Z",
+  "model": "glm-5.2"
+}

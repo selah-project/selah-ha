@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Da leɓɓana ⟨na⟩ baki na na ƙidaya dukkan ɗokokin bakinka.",
+  "tokens": [
+    {
+      "surface": "בִּשְׂפָתַ֥י",
+      "gloss": "da leɓennan baki na"
+    },
+    {
+      "surface": "סִפַּ֑רְתִּי",
+      "gloss": "na ƙidaya"
+    },
+    {
+      "surface": "כֹּ֝֗ל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "מִשְׁפְּטֵי",
+      "gloss": "ɗokokin"
+    },
+    {
+      "surface": "פִֽיךָ",
+      "gloss": "bakinka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:28:14.242287051Z",
+  "model": "glm-5.2"
+}

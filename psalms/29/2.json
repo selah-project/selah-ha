@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Ku bai wa Yahweh babban girman Sunansa, ku lallãsa ⟨kanku⟩ a gaban Yahweh a cikin ɗaukakar tsarki.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Ku bai wa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "babban girma"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "SunanSa"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "ku lallãsa ⟨kanku⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a gaban Yahweh"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "a cikin ɗaukakar"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsarki"
+    }
+  ],
+  "timestamp": "2026-08-12T19:32:44.504037249Z",
+  "model": "glm-5.2"
+}

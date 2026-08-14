@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma lokacin daka dawa zai isa ⟨את⟩ girbin inabi, kuma girbin inabi zai isa ⟨את⟩ lokacin shuka, kuma za ku ci buɣinku har ya wadã'a, kuma za ku zauna da aminci cikin ƙasarku.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "kuma zai isa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "zuwa gare ku"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "lokacin daka dawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "girbin inabi"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "girbin inabi"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "kuma girbin inabi"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "zai isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokacin shuka"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "lokacin shuka"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "kuma za ku ci"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "buɣinku"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "har ya wadã'a"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "kuma za ku zauna"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "da aminci"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "cikin ƙasarku"
+    }
+  ],
+  "timestamp": "2026-08-12T02:58:40.397720562Z",
+  "model": "glm-5.2"
+}

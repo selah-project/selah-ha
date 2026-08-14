@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Kuma muka ce wa adonai: Yaron ba zai iya barin ubansa ba; idan ya bar ⟨את⟩ ubansa ⟨ne⟩, zai mutu.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Kuma muka ce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "adonai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "zai iya"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "Yaron"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "barin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubansa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubansa"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "idan ya bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubansa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubansa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "zai mutu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:15:30.197692542Z",
+  "model": "glm-5.2"
+}

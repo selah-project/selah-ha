@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ɗa̅n Aharon su ƙone ⟨את⟩ shi a kan ginshiƙin hadaya, a saman kaho wanda yake a kan itãcen da yake a kan wuta — hadayar wuta, wari mai tausasarwa ga Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "kuma su ƙone"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi",
+      "marks": "shi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗa̅n"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "a kan ginshiƙin hadaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "a saman"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kaho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda yake"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "itãcen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda yake"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "האש",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "hadayar wuta"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "wari"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "mau tausasarwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:45:44.047038035Z",
+  "model": "glm-5.2"
+}

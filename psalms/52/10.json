@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 52,
+  "translation": "Amma ni, kamar itacen zaitun mai laushi a cikin gidan Elohim, na dogara a cikin chesed na Elohim, har abadada da al'ada.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "amma ni"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "kamar itacen zaitun"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "mai laushi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a cikin gidan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "na dogara"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "a cikin chesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "har abadada"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "da al'ada"
+    }
+  ],
+  "timestamp": "2026-08-12T19:49:18.671236755Z",
+  "model": "glm-5.2"
+}

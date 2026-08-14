@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kada ka ci abin ƙyama kowane.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ka ci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "abin ƙyama"
+    }
+  ],
+  "timestamp": "2026-08-12T05:14:44.794214002Z",
+  "model": "glm-5.2"
+}

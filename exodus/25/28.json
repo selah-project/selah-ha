@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma kana yi ⟨את⟩ sandunan itacen shittah, kuma kana rufe ⟨את⟩ su da zinare, a wurin da ake ɗauka ⟨da⟩ su ⟨את⟩ teburin.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Kuma kana yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandunan"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "sandunan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "itacen"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittah"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "kuma kana rufe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ su",
+      "marks": "su (sandunan)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "da zinare"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "a wurin da ake ɗauka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨da⟩ su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teburin"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "teburin"
+    }
+  ],
+  "timestamp": "2026-08-13T01:46:36.901557766Z",
+  "model": "glm-5.2"
+}

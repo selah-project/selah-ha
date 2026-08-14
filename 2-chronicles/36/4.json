@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 36:4",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Kuma sarkin Mitsrayim ya sa ⟨את⟩ Elyakim ɗan'uwansa ya yi sarki a kan Yehuda da Yerushalaim, ya kuma canza ⟨את⟩ sunansa Yehoyakim. Kuma Necho ya riƙi ⟨את⟩ Yeho'achaz ɗan'uwansa, ya kawo shi Mitsrayima.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "Kuma ya sa ... ya yi sarki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ɗan'uwansa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "da Yerushalaim"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ya kuma canza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunansa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Kuma ⟨את⟩",
+      "marks": "Yeho'achaz"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Yeho'achaz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ɗan'uwansa"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ya riƙi"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "Necho"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "ya kawo shi"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayima"
+    }
+  ],
+  "timestamp": "2026-08-13T02:59:42.572178233Z",
+  "model": "glm-5.2"
+}

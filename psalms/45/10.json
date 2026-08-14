@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "'Ya'yan mata na sarakai ⟨suna⟩ cikin waɗanda aka kaunace ka; sarauniya ta tsaya a damanka ⟨ana⟩ sanye da zinari na Ophir.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "'ya'yan mata"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "na sarakai"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "cikin waɗanda aka kaunace ka"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "ta tsaya"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "sarauniya"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "a damanka"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "⟨ana⟩ sanye da"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "zinari na Ophir"
+    }
+  ],
+  "timestamp": "2026-08-12T19:45:13.534960418Z",
+  "model": "glm-5.2"
+}

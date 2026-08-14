@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 1:1",
+  "book": "lamentations",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Ya ta yaya! tana zaune ⟨kadai⟩, ⟨wannan⟩ birnin da yawan jama'a, ta kasance kamar bazawara; ta kasance mai yawa a cikin ⟨al'ummai⟩, shiyya a cikin larduna, ta kasance ⟨a karkashin⟩ haraji.",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "ya ta yaya"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "tana zaune"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "kadai"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "mai yawa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ta kasance"
+    },
+    {
+      "surface": "כאלמנה",
+      "gloss": "kamar bazawara"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "mai girma"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "a cikin al'ummai"
+    },
+    {
+      "surface": "שרתי",
+      "gloss": "shiyya"
+    },
+    {
+      "surface": "במדינות",
+      "gloss": "a cikin larduna"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ta kasance"
+    },
+    {
+      "surface": "למס",
+      "gloss": "haraji"
+    }
+  ],
+  "timestamp": "2026-08-12T22:32:28.926415176Z",
+  "model": "glm-5.2"
+}

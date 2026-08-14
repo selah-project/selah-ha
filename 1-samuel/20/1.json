@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma Dawida ya gudu daga Novot a Ramma, ya zo, ya faɗa gaban Yehonatan, \"Me na aikata? Me laifina ne? Kuma me zunubana ne a gaban mahaifinka, domin yana neman ⟨את⟩ raina?\"",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "kuma ya gudu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "daga Novot"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "a Ramma"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ya zo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "me"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "na aikata"
+    },
+    {
+      "surface": "מה",
+      "gloss": "me"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "laifina"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "kuma me"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "zunubana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "mahaifinka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "yana neman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raina"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "raina"
+    }
+  ],
+  "timestamp": "2026-08-12T09:22:21.876476962Z",
+  "model": "glm-5.2"
+}

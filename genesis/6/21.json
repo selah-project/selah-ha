@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 6:21",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kai, ka ɗauka ⟨a⟩ kank daga dukkan abincin da ake ci, kuma ka taɓa tarawa zuwa gare ka, ⟨kuma⟩ ya kasance gare ka da kuma gare su, don a ci.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ka ɗauka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨a⟩ kank"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "daga dukan"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "abincin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ake ci"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ka taɓa tarawa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zuwa gare ka"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "⟨kuma⟩ ya kasance"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gare ka"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "da kuma gare su"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "don a ci"
+    }
+  ],
+  "timestamp": "2026-08-11T23:24:50.634210748Z",
+  "model": "glm-5.2"
+}

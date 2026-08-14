@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "kuma Ni zan sayar ⟨את⟩ ƴaƴanku da ⟨את⟩ 'ya'ƴanku a hannun ƴaƴan Yahuda, kuma za su sayar da su ga mutanen Sheva, zuwa wata al'umma mai nisa; domin Yahweh ya faɗa.",
+  "tokens": [
+    {
+      "surface": "וּמָכַרְתִּ֞י",
+      "gloss": "kuma Ni zan sayar"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ƴaƴanku"
+    },
+    {
+      "surface": "בְּנֵיכֶ֣ם",
+      "gloss": "ƴaƴanku"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "da ⟨את⟩",
+      "marks": "'ya'ƴanku"
+    },
+    {
+      "surface": "בְּנוֹתֵיכֶ֗ם",
+      "gloss": "'ya'ƴanku"
+    },
+    {
+      "surface": "בְּיַד֙",
+      "gloss": "a hannun"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "ƴaƴan"
+    },
+    {
+      "surface": "יְהוּדָ֔ה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "וּמְכָר֥וּם",
+      "gloss": "kuma za su sayar da su"
+    },
+    {
+      "surface": "לִשְׁבָאיִ֖ם",
+      "gloss": "ga mutanen Sheva"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "גּ֣וֹי",
+      "gloss": "wata al'umma"
+    },
+    {
+      "surface": "רָח֑וֹק",
+      "gloss": "mai nisa"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דִּבֵּֽר",
+      "gloss": "ya faɗa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:19:54.037057069Z",
+  "model": "glm-5.2"
+}

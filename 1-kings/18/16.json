@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Sai Obadiah ya tafi don haɗuwa da Ahab, ya ba shi labari, kuma Ahab ya tafi don haɗuwa da Eliya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "sai ya tafi"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadiah"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "don haɗuwa da"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ya ba labari"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kuma ya tafi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "don haɗuwa da"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    }
+  ],
+  "timestamp": "2026-08-12T11:37:59.622555258Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 73,
+  "translation": "Amma ni, a kullum ⟨ina⟩ tare da Kai; ka riƙe ni da hannu na dama.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "amma ni"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "a kullum"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tare da Kai"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "ka riƙe ni"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "da hannu"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "na dama"
+    }
+  ],
+  "timestamp": "2026-08-12T20:06:25.047021995Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "don buɗe idanun bebe, don fitar da fursuna daga dukan kurkuku, masu zaunar a cikin duhu daga gidan yari:",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "don buɗe"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "idanun"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "bebe"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "don fitar da"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "daga dukan kurkuku"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "fursuna"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "daga gidan"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "yari"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "masu zaunar"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "a cikin duhu"
+    }
+  ],
+  "timestamp": "2026-08-12T14:03:18.240006292Z",
+  "model": "glm-5.2"
+}

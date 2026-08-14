@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma za Ni in sa Mitsrayim suƙaɗa da Mitsrayim, kuma su faɗa, mutum da ɗan'uwansa, kuma mutum da makwabcinsa, birni da birni, masarauta da masarauta.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "kuma za Ni in sa suƙaɗa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "da Mitsrayim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "kuma su faɗa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "da ɗan'uwansa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kuma mutum"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "da makwabcinsa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "birni"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "da birni"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "masarauta"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "da masarauta"
+    }
+  ],
+  "timestamp": "2026-08-12T13:29:36.758331437Z",
+  "model": "glm-5.2"
+}

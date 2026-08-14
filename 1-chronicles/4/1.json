@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "ʼYaʼyan Yehudah ⟨sune⟩ Perets, Chetsron, da Karmi, da Chur, da Shoval.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ʼYaʼyan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "da Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "da Chur"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "da Shoval"
+    }
+  ],
+  "timestamp": "2026-08-13T00:00:43.080590061Z",
+  "model": "glm-5.2"
+}

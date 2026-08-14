@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-kings 22:54",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma ya bauta wa ⟨את⟩ Ba'al, kuma ya lallaƙa kansa a gare shi, kuma ya tada haushin ⟨את⟩ Yahweh, Elohim na Yisra'el, gwargwadon dukan abin da ubansa ya aikata.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "kuma ya bauta wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ba'al"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Ba'al"
+    },
+    {
+      "surface": "וישתחוה",
+      "gloss": "kuma ya lallaƙa kansa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a gare shi"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "kuma ya tada haushin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "gwargwadon dukan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya aikata"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubansa"
+    }
+  ],
+  "timestamp": "2026-08-12T11:53:10.372647295Z",
+  "model": "glm-5.2"
+}

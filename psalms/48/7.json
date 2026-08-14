@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 48,
+  "translation": "Tirtiri ya kama su a can, angina, kamar ⟨ta⟩ wadda ke haihuwa.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "tirtiri"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "ya kama su"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "angina"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "kamar wadda ke haihuwa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:46:30.769254617Z",
+  "model": "glm-5.2"
+}

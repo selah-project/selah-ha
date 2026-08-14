@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kōhēn kuma ya ƙone ⟨את⟩ man kit injin a sama daga bagaɗen, kuma ƙirjin zai kasance na Ahārōn da ɗiyansa.",
+  "tokens": [
+    {
+      "surface": "וְהִקְטִ֧יר",
+      "gloss": "kuma ya ƙone"
+    },
+    {
+      "surface": "הַכֹּהֵ֛ן",
+      "gloss": "Kōhēn"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "man kit injin"
+    },
+    {
+      "surface": "הַחֵ֖לֶב",
+      "gloss": "man kit injin"
+    },
+    {
+      "surface": "הַמִּזְבֵּ֑חָה",
+      "gloss": "a sama daga bagaɗen"
+    },
+    {
+      "surface": "וְהָיָה֙",
+      "gloss": "kuma zai kasance"
+    },
+    {
+      "surface": "הֶֽחָזֶ֔ה",
+      "gloss": "ƙirjin"
+    },
+    {
+      "surface": "לְאַהֲרֹ֖ן",
+      "gloss": "na Ahārōn"
+    },
+    {
+      "surface": "וּלְבָנָֽיו",
+      "gloss": "da ɗiyansa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:49:05.942160264Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Ka yi hankali kan kanku, don ba ka manta ⟨את⟩ Yahweh, Elohim naka, ta hanyar kula da umarninSa, da hukuncinSa, da dokokinSa, waɗanda ni ina umurtar ka yau.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Ka yi hankali"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kan kanku"
+    },
+    {
+      "surface": "פן",
+      "gloss": "don ba"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ka manta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ta hanyar"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "kula"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "umarninSa"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "da hukuncinSa"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "da dokokinSa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ina umurtar ka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    }
+  ],
+  "timestamp": "2026-08-12T05:07:24.605358923Z",
+  "model": "glm-5.2"
+}

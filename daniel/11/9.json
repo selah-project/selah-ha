@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma ⟨zai⟩ shiga cikin mulkin sarkin kudu, kuma zai komo zuwa ƙasarsa.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "kuma zai shiga"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "cikin mulkin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "kudu"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "kuma zai komo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "ƙasarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T23:18:39.140377064Z",
+  "model": "glm-5.2"
+}

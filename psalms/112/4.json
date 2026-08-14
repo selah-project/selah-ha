@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 112,
+  "translation": "Hası̃ ya tashi a cikin duhu ga mâgeza, mai yanawar laushi, mai jin ƙai, kuma mai adalci.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "ya tashi"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "a cikin duhu"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Hası̃"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "ga mâgeza"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "mai yanawar laushi"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "mai jin ƙai"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "kuma mai adalci"
+    }
+  ],
+  "timestamp": "2026-08-12T20:37:08.320963922Z",
+  "model": "glm-5.2"
+}

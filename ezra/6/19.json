@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma 'ya'yan gudun hijira suka yi ⟨את⟩ Pesah a cikin huɗu sha huɗu, ga watan ⟨na⟩ farko.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Kuma suka yi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "gudun hijira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "a cikin huɗu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sha huɗu"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ga watan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "farko"
+    }
+  ],
+  "timestamp": "2026-08-12T23:27:56.515330102Z",
+  "model": "glm-5.2"
+}

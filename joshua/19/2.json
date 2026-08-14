@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma sun kasance da su a cikin gado nasu: Beʼer-Sheva, da Sheva, da Molada.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma sun kasance"
+    },
+    {
+      "surface": "להם",
+      "gloss": "da su"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "a cikin gado nasu"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beʼer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "da Sheva"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "da Molada"
+    }
+  ],
+  "timestamp": "2026-08-13T01:56:36.824007744Z",
+  "model": "glm-5.2"
+}

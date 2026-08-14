@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Waɗanda suke cin nāman jikin mutānena, kuma fatar su daga gare su sun fiɗa, kuma ⟨את⟩ ƙashinsu sun fashe, kuma suka yāda su kamar wadda ke a tukunyar, kuma kamar nāman a tsakānin tanderu.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Waɗanda"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "suke cin"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "nāman jikin"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mutānena"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "kuma fatar su"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "daga gare su"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "sun fiɗa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "ƙashinsu"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "ƙashinsu"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "sun fashe"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "kuma suka yāda su"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar wadda ke"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "a tukunyar"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "kuma kamar nāman"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "a tsakānin"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "tanderu"
+    }
+  ],
+  "timestamp": "2026-08-12T18:42:29.809670275Z",
+  "model": "glm-5.2"
+}

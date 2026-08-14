@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Kuma maƙiyansu sun dannesu, aka lallashe su a ƙarƙashin hannunsu.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "Kuma sun dannesu"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "maƙiyansu"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "aka lallashe su"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a ƙarƙashin"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "hannunsu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:31:22.207350996Z",
+  "model": "glm-5.2"
+}

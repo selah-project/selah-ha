@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma Yosef ya mutu, da dukkan 'yan'uwansa, da dukkan wannan zamani.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Kuma ya mutu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da duk"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "yan'uwansa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da duk"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "wannan zamani"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wancan"
+    }
+  ],
+  "timestamp": "2026-08-12T00:27:23.409330951Z",
+  "model": "glm-5.2"
+}

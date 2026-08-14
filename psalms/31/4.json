@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Dõmin dutsena da katangata ⟨ne⟩ kai, kuma don sunanka ka shiryar da ni, ka kai ni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "dutsena"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "da katangata"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "kuma don"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunanka"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ka shiryar da ni"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "ka kai ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:33:21.994056676Z",
+  "model": "glm-5.2"
+}

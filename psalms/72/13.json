@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 72,
+  "translation": "Zai yi tausahi a kan miskīni da mātāƙī, kuma rāyuwar mātāƙa zai tsira.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "zai yi tausahi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "דל",
+      "gloss": "miskīni"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "da mātāƙī"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "kuma rāyuwar"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "mātāƙa"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "zai tsira"
+    }
+  ],
+  "timestamp": "2026-08-12T20:02:54.029950940Z",
+  "model": "glm-5.2"
+}

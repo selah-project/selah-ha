@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Sai Yahweh ya faɗa wa Moshe: \"Ka je wurin Paroh, domin ni na yi ⟨את⟩ zuciyarsa da ⟨את⟩ zuciyoyin bayinsa masu nauyi, domin in sanya alamomi nan ⟨masu⟩ a tsakaninsa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sai ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Ka je"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wurin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "na yi masu nauyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuciyarsa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zuciyarsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "zuciyoyin bayinsa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciyoyin"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bayinsa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "domin"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "in sanya"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "alamomi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "a tsakaninsa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:42:01.557581138Z",
+  "model": "glm-5.2"
+}

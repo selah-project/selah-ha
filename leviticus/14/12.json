@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma kohen ya ɗauka ⟨את⟩ ragon ɗaya, kuma ya miƙa ⟨את⟩ shi a matsayin laifi, da ⟨את⟩ log ɗinan man shinkafa, kuma ya daga ⟨את⟩ su a matsayin dandawa a gaban Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "kuma ya ɗauka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ragon ɗaya"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "rago"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "kuma ya miƙa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi",
+      "marks": "a matsayin laifi"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "a matsayin laifi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "log ɗinan man shinkafa"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "man shinkafa"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "kuma ya danda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "a matsayin dandawa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T02:12:53.215628790Z",
+  "model": "glm-5.2"
+}

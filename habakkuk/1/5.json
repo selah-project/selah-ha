@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 1:5",
+  "book": "habakkuk",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Ku duba cikin al'ummomi, kuma ku kalli, kuma ku yi mamaki — ku yi mamaki! Gāna aiki ⟨ne⟩ Mai-aiki yake aiki a cikin kwananku, ba za ku gaskadã ba sa'ad da ake fãɗar.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "ku duba"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "cikin al'ummomi"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "kuma ku kalli"
+    },
+    {
+      "surface": "והתמהו",
+      "gloss": "kuma ku yi mamaki"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "ku yi mamaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gāna"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "aiki"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "Mai-aiki yake aiki"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "a cikin kwananku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "za ku gaskadã"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sa'ad da"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ake fãɗar"
+    }
+  ],
+  "timestamp": "2026-08-12T18:50:24.292804299Z",
+  "model": "glm-5.2"
+}

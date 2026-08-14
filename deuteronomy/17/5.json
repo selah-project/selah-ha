@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma za ka fitar ⟨את⟩ ⟨ne⟩ mutumin ⟨ne⟩ ko ⟨את⟩ mace ⟨ce⟩, wadda suka yi ⟨את⟩ abu ⟨ne⟩ mugun ⟨ne⟩ wannan, zuwa ƙofofinka — ⟨את⟩ mutumin ko ⟨את⟩ mace, kuma za ka jifa su da duwatsu su kuma su mutu.",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "kuma za ka fitar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutumin"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mace"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wadda"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "abu"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mugun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "kofofinka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutumin"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mace"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "kuma za ka jifa su"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "da duwatsu"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "su kuma su mutu"
+    }
+  ],
+  "timestamp": "2026-08-12T05:25:02.757834562Z",
+  "model": "glm-5.2"
+}

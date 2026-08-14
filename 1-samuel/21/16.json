@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Shin ni ba shi da mahaukata, cewa kuka kawo ⟨את⟩ wannan don ya yi hauka a kaina? Shin wannan zai shiga cikin gidanā?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "ba shi da"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "mahaukata"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "kuka kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "don ya yi hauka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a kaina"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "zai shiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "gidanā"
+    }
+  ],
+  "timestamp": "2026-08-12T09:27:10.288251468Z",
+  "model": "glm-5.2"
+}

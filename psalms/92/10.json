@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 92,
+  "translation": "Domin ga, maƙiyanka, Yahweh; domin ga, maƙiyanka za su lalace; duk masu aikata laifi za su bāɗi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "maƙiyanka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "maƙiyanka"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "za su lalace"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "za su bāɗi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "masu aikata"
+    },
+    {
+      "surface": "און",
+      "gloss": "laifi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:29.090838326Z",
+  "model": "glm-5.2"
+}

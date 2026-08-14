@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ka sa ⟨את⟩ ⟨na⟩ kwano, tsakanin awan taro da tsakanin madubin, kuma ka sanya a can ruwa.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "kuma ka sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kwano"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "⟨na⟩ kwano"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "awan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "taro"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da tsakanin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madubin"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "kuma ka sanya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    }
+  ],
+  "timestamp": "2026-08-13T01:47:29.194864241Z",
+  "model": "glm-5.2"
+}

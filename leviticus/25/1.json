@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma Yahweh ya yi magana da Mosheh a Dutsen Sinai, yana cewa:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Kuma ya yi magana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a Dutsen"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:57:08.903034598Z",
+  "model": "glm-5.2"
+}

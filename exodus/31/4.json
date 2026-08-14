@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "don tsara zane-zane, don yin aiki a cikin zinare da azurfa da tagulla.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "don tsara"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "zane-zane"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "don yin aiki"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "a cikin zinare"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "da azurfa"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "da tagulla"
+    }
+  ],
+  "timestamp": "2026-08-13T01:47:43.959907492Z",
+  "model": "glm-5.2"
+}

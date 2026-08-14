@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Domin gani, Adonai, Yahweh Tsaba'ot, Yana cirewa daga Yerushalaim da daga Yehudah goyon baya da dogaro ⟨ga⟩ shi — duk goyon burodi, da duk goyon ruwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gani"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsaba'ot"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "Yana cirewa"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "daga Yerushalaim"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "da daga Yehudah"
+    },
+    {
+      "surface": "משען",
+      "gloss": "goyon baya"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "da dogaro ⟨ga⟩ shi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "משען",
+      "gloss": "goyon"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "burodi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da duk"
+    },
+    {
+      "surface": "משען",
+      "gloss": "goyon"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:58:37.016364883Z",
+  "model": "glm-5.2"
+}

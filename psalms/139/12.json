@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 139,
+  "translation": "Gaskiya, duhu ba ta yi duhu daga gare Ka ba, amma daren kamar rana yana haskaka; kamar duhu haka kuma haske.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "gaskiya"
+    },
+    {
+      "surface": "חֹ֤שֶׁךְ",
+      "gloss": "duhu"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יַחְשִׁ֪יךְ",
+      "gloss": "ta yi duhu"
+    },
+    {
+      "surface": "מִ֫מֶּ֥ךָ",
+      "gloss": "daga gare Ka"
+    },
+    {
+      "surface": "וְ֭לַיְלָה",
+      "gloss": "amma daren"
+    },
+    {
+      "surface": "כַּיּ֣וֹם",
+      "gloss": "kara rana"
+    },
+    {
+      "surface": "יָאִ֑יר",
+      "gloss": "yana haskaka"
+    },
+    {
+      "surface": "כַּ֝חֲשֵׁיכָ֗ה",
+      "gloss": "kamar duhu"
+    },
+    {
+      "surface": "כָּאוֹרָֽה",
+      "gloss": "haka kuma haske"
+    }
+  ],
+  "timestamp": "2026-08-12T20:53:16.266320267Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma Achimaats ya haifa ⟨את⟩ Azarjah, kuma Azarjah ya haifa ⟨את⟩ Jochanan.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "Kuma Achimaats"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "kuma Azarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jochanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Jochanan"
+    }
+  ],
+  "timestamp": "2026-08-13T00:00:58.484238003Z",
+  "model": "glm-5.2"
+}

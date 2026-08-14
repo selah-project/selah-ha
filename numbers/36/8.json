@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 36:8",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Kuma duk wata 'ya mace mai gado daga cikin kabilun ƴan Isra'il, za ta zama matar ɗaya daga cikin iyali na kabilar mahaifinta, domin ƴan Isra'il su ci gado, kowane mutum ⟨da⟩ gado na ubanninsa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Kuma duk"
+    },
+    {
+      "surface": "בת",
+      "gloss": "'ya mace"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "mai gado"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "gado"
+    },
+    {
+      "surface": "ממטות",
+      "gloss": "daga cikin kabilun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'il"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "daga cikin iyali na"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kabilar"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "mahaifinta"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "za ta zama"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "matar"
+    },
+    {
+      "surface": "למען",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "su ci gado"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'il"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "⟨da⟩ gado"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "na ubanninsa"
+    }
+  ],
+  "timestamp": "2026-08-12T04:51:48.970519401Z",
+  "model": "glm-5.2"
+}

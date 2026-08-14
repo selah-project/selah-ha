@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 24:25",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma Bilam ya tashi, ya tafi, ya koma ⟨zuwa⟩ wurinsa, kuma Balak shi ma ya tafi ⟨a⟩ hanyarsa.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Kuma ya tashi"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ya koma"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "⟨zuwa⟩ wurinsa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kuma shi ma"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "⟨a⟩ hanyarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T04:19:08.058376325Z",
+  "model": "glm-5.2"
+}

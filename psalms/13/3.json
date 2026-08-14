@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Har yaushe za in dora shawarwari a cikin raina, bakin ciki a cikin zuciyata yau da gobe? Har yaushe maƙiyata zai tashi a kaina?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Har"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "yaushe"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "za in dora"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "shawarwari"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "a cikin raina"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "bakin ciki"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "a cikin zuciyata"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "yau da gobe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Har"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "yaushe"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "zai tashi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "maƙiyata"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a kaina"
+    }
+  ],
+  "timestamp": "2026-08-12T19:21:44.872694817Z",
+  "model": "glm-5.2"
+}

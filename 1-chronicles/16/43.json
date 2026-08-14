@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma duka mutãnen sun tafi, kowane mutum zuwa gida nasa; kuma Dawida ya koma don albarkatar ⟨את⟩ gidan nasa.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Kuma duka... sun tafi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "zuwa gida nasa"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "kuma... ya koma"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "don albarkatar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan nasa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gidan nasa"
+    }
+  ],
+  "timestamp": "2026-08-13T00:17:51.151184096Z",
+  "model": "glm-5.2"
+}

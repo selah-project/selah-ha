@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Kuma ya ci duk ganyen ⟨a⟩ cikin ƙasarsu, kuma ya ci 'ya'yan ƙasarsu.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "kuma ya ci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ganyen"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "a cikin ƙasarsu"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "kuma ya ci"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "ƙasarsu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:29:29.038278467Z",
+  "model": "glm-5.2"
+}

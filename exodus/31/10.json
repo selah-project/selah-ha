@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "da ⟨את⟩ tufafin aiki da ⟨את⟩ tufafin tsarki na Aharon ⟨ne⟩ babban firist, da ⟨את⟩ tufafin ƴaƴansa don su zama firistoci.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "tufafin aiki"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "tufafin"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "aiki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "tufafin tsarki"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "tufafin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tsarki"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "babban firist"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "tufafin ƴaƴansa"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "tufafin"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ƴaƴansa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "don su zama firistoci"
+    }
+  ],
+  "timestamp": "2026-08-12T01:15:29.824681502Z",
+  "model": "glm-5.2"
+}

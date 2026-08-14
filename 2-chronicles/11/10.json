@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "da ⟨את⟩ Tsorah, da ⟨את⟩ Ajalon, da ⟨את⟩ Chevron, waɗanda suke cikin Yehuda da Binyamin, garuruwan katanga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Tsorah"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Ajalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda suke"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "cikin Yehuda"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "da Binyamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "garuruwan"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "katanga"
+    }
+  ],
+  "timestamp": "2026-08-13T02:45:12.147368496Z",
+  "model": "glm-5.2"
+}

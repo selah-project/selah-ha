@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 64,
+  "translation": "Gidan tsarkakarmu da yabo mu, wanda ubanninmu suka yaba ⟨ga⟩, ya zama ⟨don⟩ ƙonewa da wuta, kuma duk abubuwan da muke so sun zama ⟨don⟩ lalacewa.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "tsarkakarmu"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "da yabo mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "suka yaba ⟨ga⟩"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ubanninmu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ya zama"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "⟨don⟩ ƙonewa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "da wuta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma duk"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "abubuwan da muke so"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sun zama"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "⟨don⟩ lalacewa"
+    }
+  ],
+  "timestamp": "2026-08-12T14:44:55.064831092Z",
+  "model": "glm-5.2"
+}

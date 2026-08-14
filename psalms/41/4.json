@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Yahweh zai goyo sh a kan gado na rashin lafiya; dukkan gado nasa ka juya a cikin cutarsa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "zai goyo sh"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "gado"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "na rashin lafiya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukka"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "gado nasa"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "ka juya"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "a cikin cutarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:42:39.708842439Z",
+  "model": "glm-5.2"
+}

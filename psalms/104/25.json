@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 104,
+  "translation": "Wannan ⟨ne⟩ teku, babba kuma faɗin hannaye; a can ⟨akwai⟩ ƙananan dabbobi masu tafiya bābu adadi, halittu masu rai ƙanannan tare da manya.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Wannan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "babba"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "kuma faɗin"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "hannaye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ƙananan dabbobi masu tafiya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "bābu"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "adadi"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "halittu masu rai"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "ƙanannan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "manya"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:58.883135515Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Sai Dawida ya ƙidaya ⟨את⟩ mutanen da ⟨su⟩ ⟨את⟩ tare da shi, ya kuma sanya musu shugabbin dubu da shugabbin ɗari.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "sai ya ƙidaya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ tare da shi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ya kuma sanya"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "shugabbin"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "da shugabbin"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɗari"
+    }
+  ],
+  "timestamp": "2026-08-12T10:29:50.149020133Z",
+  "model": "glm-5.2"
+}

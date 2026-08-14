@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma Yosef ya mafarka wani mafarkai, ya kuma gaya wa ƴan'uwansa, suka kuma ƙara ƙi shi ⟨suka ƙara⟩ ƙin shi.",
+  "tokens": [
+    {
+      "surface": "וַיַּחֲלֹ֤ם",
+      "gloss": "Kuma ya mafarka"
+    },
+    {
+      "surface": "יוֹסֵף֙",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "חֲל֔וֹם",
+      "gloss": "wani mafarkai"
+    },
+    {
+      "surface": "וַיַּגֵּ֖ד",
+      "gloss": "ya kuma gaya wa"
+    },
+    {
+      "surface": "לְאֶחָ֑יו",
+      "gloss": "ƴan'uwansa"
+    },
+    {
+      "surface": "וַיּוֹסִ֥יפוּ",
+      "gloss": "suka kuma ƙara"
+    },
+    {
+      "surface": "ע֖וֹד",
+      "gloss": "ƙi shi"
+    },
+    {
+      "surface": "שְׂנֹ֥א",
+      "gloss": "ƙin shi"
+    },
+    {
+      "surface": "אֹתֽוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "shì (Yosef)"
+    }
+  ],
+  "timestamp": "2026-08-12T00:07:14.235726493Z",
+  "model": "glm-5.2"
+}

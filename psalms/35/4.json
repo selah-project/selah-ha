@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Bari su kasance munƙanen fuskara kuma a annge su, masu neman raina; bari su ja baya kuma su ji kunya, masu shirya ĥuttaġata.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Bari su kasance munƙanen fuskara"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "kuma a annge su"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "masu neman"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "raina"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "bari su ja baya"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "baya"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "kuma su ji kunya"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "masu shirya"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ĥuttaġata"
+    }
+  ],
+  "timestamp": "2026-08-12T19:37:40.032013521Z",
+  "model": "glm-5.2"
+}

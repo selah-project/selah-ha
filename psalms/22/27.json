@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 22:27",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Masu tawali'u za su ci su kuma su shagaltar da su; masu neman Yahweh za su yabe Shi. Zukatanku su rayu har abada.",
+  "tokens": [
+    {
+      "surface": "יאכלו",
+      "gloss": "za su ci"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "Masu tawali'u"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "su kuma su shagaltar da su"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "za su yabe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרשיו",
+      "gloss": "masu neman Shi"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "su rayu"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "Zukatanku"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-12T19:28:23.022758087Z",
+  "model": "glm-5.2"
+}

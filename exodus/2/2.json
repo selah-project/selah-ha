@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma mace ta yi ciki, kuma ta haifi ɗa; kuma ta gan ⟨את⟩ shi, cewa yana kyau, kuma ta ɓoye shci watanni uku.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Kuma ta yi ciki"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "kuma ta haifi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗa"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "kuma ta gan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yana kyau"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "kuma ta ɓoye shi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "uku"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "watanni"
+    }
+  ],
+  "timestamp": "2026-08-12T00:30:27.408296525Z",
+  "model": "glm-5.2"
+}

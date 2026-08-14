@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 2:5",
+  "book": "ruth",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Boaz ya ce wa bāransa, ⟨wurin⟩ da ke tsaye a kan masu girbi, wãyar wane ⟨ce⟩ wannan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "wa bāransa"
+    },
+    {
+      "surface": "הנצב",
+      "gloss": "⟨wurin⟩ da ke tsaye"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הקוצרים",
+      "gloss": "masu girbi"
+    },
+    {
+      "surface": "למי",
+      "gloss": "wãyar wane"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "⟨ce⟩"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-12T22:32:00.035670330Z",
+  "model": "glm-5.2"
+}

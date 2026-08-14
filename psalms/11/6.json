@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Zã ya yi musu ruwan ƙwarya da watse, wuta da gulfar, da iskar tashin zafi — ladan gírusu.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "zã ya ruɗa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mugaye"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "watse"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "da gulfar"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "da iska"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "ta tashin zafi"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "lada"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "gírusu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:20:50.163375104Z",
+  "model": "glm-5.2"
+}

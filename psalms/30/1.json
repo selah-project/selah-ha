@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Mazmori; waƙar sadaukar da ⟨gidan⟩, na Dawuda.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmori"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "waƙar"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "sadaukar da"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na Dawuda"
+    }
+  ],
+  "timestamp": "2026-08-12T19:33:02.666681092Z",
+  "model": "glm-5.2"
+}

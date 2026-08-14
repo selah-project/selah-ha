@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Zan shiryar da kā, zan kai kā gidā uwa tā; zā kā kōyar da nī; zan bā kā shā ruwan inābi mai ƙanshāwa, daga 'ya'yan rumānānā.",
+  "tokens": [
+    {
+      "surface": "אֶנְהָֽגֲךָ֗",
+      "gloss": "zan shiryar da kā"
+    },
+    {
+      "surface": "אֲבִֽיאֲךָ֛",
+      "gloss": "zan kai kā"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "gidā"
+    },
+    {
+      "surface": "אִמִּ֖י",
+      "gloss": "uwa tā"
+    },
+    {
+      "surface": "תְּלַמְּדֵ֑נִי",
+      "gloss": "zā kā kōyar da nī"
+    },
+    {
+      "surface": "אַשְׁקְךָ֙",
+      "gloss": "zan bā kā shā"
+    },
+    {
+      "surface": "מִיַּ֣יִן",
+      "gloss": "ruwan inābi"
+    },
+    {
+      "surface": "הָרֶ֔קַח",
+      "gloss": "mai ƙanshāwa"
+    },
+    {
+      "surface": "מֵעֲסִ֖יס",
+      "gloss": "daga 'ya'yan"
+    },
+    {
+      "surface": "רִמֹּנִֽי",
+      "gloss": "rumānānā"
+    }
+  ],
+  "timestamp": "2026-08-12T22:27:29.213398012Z",
+  "model": "glm-5.2"
+}

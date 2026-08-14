@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 29:10",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Saboda haka ga ni, a kanku ne, kuma a kan kogunan ku, kuma na sanya ⟨את⟩ ƙasar Mitsrayim zuwa rushewa, ƙasar fanko, daga Migdol-Seweneh har zuwa iyakar Kush.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Saboda haka"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ga ni"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a kanku ne"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma a kan"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "koginan ku"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "kuma na sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לחרבות",
+      "gloss": "zuwa rushewa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ƙasar fanko"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "fanko"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "daga Migdol"
+    },
+    {
+      "surface": "סונה",
+      "gloss": "-Seweneh"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "iyakar"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-08-12T17:36:16.958468159Z",
+  "model": "glm-5.2"
+}

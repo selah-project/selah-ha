@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 10:12",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Sai duka taron suka amsa suka ce da murya ta girma, \"Haka ne; kamar maganarka ke gare mu, don mu aikata.\"",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Suka amsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "taron"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "קול",
+      "gloss": "da murya"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ta girma"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Haka ne"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "kamar maganarka"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ke gare mu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "don mu aikata"
+    }
+  ],
+  "timestamp": "2026-08-13T02:37:58.261386429Z",
+  "model": "glm-5.2"
+}

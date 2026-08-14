@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Kuma ya ce: \"Har ma yanzu, kamar kalmominku, haka ⟨shi⟩ ne; wanda ⟨את⟩ za a same shi tare da shi, zai zama na bawa, kuma ku za ku zama marasa laifi.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Har ma"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "kamar kalmominku"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "za a same"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ tare da shi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zai zama"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "bawa"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "kuma ku"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "za ku zama"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "marasa laifi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:16:31.742748873Z",
+  "model": "glm-5.2"
+}

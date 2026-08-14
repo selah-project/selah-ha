@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Yaka yi safiyya Chizkiyahu sarki, yak tara ⟨את⟩ shugabannin garin, yak hau gidan Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "yak yi safiyya"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "yak tara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shugabannin garin"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "shugabannin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "garin"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "yak hau"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-13T02:54:45.526306400Z",
+  "model": "glm-5.2"
+}

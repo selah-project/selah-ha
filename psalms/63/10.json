@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 63,
+  "translation": "kuma su, don halaka, suna neman raina; za su shiga cikin ƙasƙashin ƙasa.",
+  "tokens": [
+    {
+      "surface": "וְהֵ֗מָּה",
+      "gloss": "kuma su"
+    },
+    {
+      "surface": "לְ֭שׁוֹאָה",
+      "gloss": "don halaka"
+    },
+    {
+      "surface": "יְבַקְשׁ֣וּ",
+      "gloss": "suna neman"
+    },
+    {
+      "surface": "נַ׫ְשִׁ֑י",
+      "gloss": "raina"
+    },
+    {
+      "surface": "יָ֝בֹ֗אוּ",
+      "gloss": "za su shiga"
+    },
+    {
+      "surface": "בְּֽתַחְתִּיּ֥וֹת",
+      "gloss": "cikin ƙasƙashin"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:55:30.575868831Z",
+  "model": "glm-5.2"
+}

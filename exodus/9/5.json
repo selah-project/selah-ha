@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Yahweh ya ƙaɗa lokaci, yana cewa, \"Gobe Yahweh zai yi wannan ⟨abin⟩ a ƙasa.\"",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ya ƙaɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "lokaci"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "gobe"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "zai yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "abin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:41:30.591272648Z",
+  "model": "glm-5.2"
+}

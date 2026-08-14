@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma ba ⟨akwai⟩ ruwa ga taron ba, kuma suka taru a kan Mosheh da a kan Aharon.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kuma ba"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨akwai⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "ga taron"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "kuma suka taru"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da a kan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-12T04:16:54.527919081Z",
+  "model": "glm-5.2"
+}

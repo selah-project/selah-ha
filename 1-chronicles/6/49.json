@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 6:49",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma ƴaƴan Yisra'ela sun bai wa ƙabilar Lavi ⟨את⟩ biranen da ⟨את⟩ makiyayansu.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Kuma sun bai wa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴaƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'ela"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ƙabilar Lavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biranen"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "biranen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "makiyayansu"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "makiyayansu"
+    }
+  ],
+  "timestamp": "2026-08-13T00:03:52.658298664Z",
+  "model": "glm-5.2"
+}

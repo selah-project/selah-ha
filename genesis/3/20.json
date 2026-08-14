@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma Adám ya kira sunan matarsa Chavvah, domin ita ce uwar dukan rayayyu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Kuma ya kira"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adám"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sunan"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "matarsa"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chavvah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ita"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uwar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "חי",
+      "gloss": "rayayyu"
+    }
+  ],
+  "timestamp": "2026-08-11T23:19:54.675420879Z",
+  "model": "glm-5.2"
+}

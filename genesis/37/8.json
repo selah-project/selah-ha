@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 37:8",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma ƴan'uwansa suka ce masa: \"Shin, za ka yi mu sarauta? Shin, za ka yi mu mulki?\" Suka kuma ƙara ƙi shi ⟨suka ƙara⟩ ƙin shi saboda mafarkansa da kuma saboda maganansa.",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמְרוּ",
+      "gloss": "Kuma suka ce"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "masa"
+    },
+    {
+      "surface": "אֶחָיו",
+      "gloss": "ƴan'uwansa"
+    },
+    {
+      "surface": "הֲמָלֹךְ",
+      "gloss": "Shin, za ka yi mu sarauta?"
+    },
+    {
+      "surface": "תִּמְלֹךְ",
+      "gloss": "za ka yi mulki"
+    },
+    {
+      "surface": "עָלֵינוּ",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "Shin"
+    },
+    {
+      "surface": "מָשׁוֹל",
+      "gloss": "za ka yi mulki"
+    },
+    {
+      "surface": "תִּמְשֹׁל",
+      "gloss": "za ka yi mulki"
+    },
+    {
+      "surface": "בָּנוּ",
+      "gloss": "mu"
+    },
+    {
+      "surface": "וַיּוֹסִפוּ",
+      "gloss": "Suka kuma ƙara"
+    },
+    {
+      "surface": "עוֹד",
+      "gloss": "ƙi shi"
+    },
+    {
+      "surface": "שְׂנֹא",
+      "gloss": "ƙin shi"
+    },
+    {
+      "surface": "אֹת֔וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "shì (Yosef)"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "חֲלֹמֹתָיו",
+      "gloss": "mafarkansa"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "da kuma saboda"
+    },
+    {
+      "surface": "דְּבָרָיו",
+      "gloss": "maganansa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:07:14.236470637Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Kuma suka ɗora ⟨את⟩ hatsinsu a kan jakunsu, suka tafi daga can.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "suka ɗora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hatsinsu"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "hatsinsu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "jakunsu"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "suka tafi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "daga can"
+    }
+  ],
+  "timestamp": "2026-08-12T00:18:33.219731179Z",
+  "model": "glm-5.2"
+}

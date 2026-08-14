@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Sai ya tsayar da ⟨את⟩ fuskarsa, ya dora shi har ya ji kunya, kuma mutumin Elohim ya yi kuka.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ya tsayar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuskarsa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuskarsa"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ya dora"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "בש",
+      "gloss": "ya ji kunya"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ya yi kuka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T12:12:15.975443654Z",
+  "model": "glm-5.2"
+}

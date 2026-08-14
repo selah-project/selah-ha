@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 7:28",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma wannan aikin gurabin: suna da tsaguna, ⟨kuma⟩ tsaguna suna tsakanin matakala.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "kuma wannan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "gurabin"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "tsaguna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "suna da"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "kuma tsaguna"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "השלבים",
+      "gloss": "matakala"
+    }
+  ],
+  "timestamp": "2026-08-12T11:06:56.263909171Z",
+  "model": "glm-5.2"
+}

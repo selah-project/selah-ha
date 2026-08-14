@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 25:8",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Duk da haka, idan kana tafiya, a yi shi, ka ƙarfafa don yaƙi; Elohim zai sa ka fada gaba da maƙiyi, domin akwai ƙarfi a Elohim don taimako da don fadar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ka tafi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ka yi"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ka ƙarfafa"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "don yaƙi"
+    },
+    {
+      "surface": "יכשילך",
+      "gloss": "zai sa ka fada"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gaba da"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "maƙiyi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יש",
+      "gloss": "akwai"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ƙarfi"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "לעזור",
+      "gloss": "don taimako"
+    },
+    {
+      "surface": "ולהכשיל",
+      "gloss": "da don fadar"
+    }
+  ],
+  "timestamp": "2026-08-13T02:51:58.614071593Z",
+  "model": "glm-5.2"
+}

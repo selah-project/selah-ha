@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Shari'arka ta faɗa ⟨ne⟩ da makwabcinka, kuma asirin wani kada ka bayyana.",
+  "tokens": [
+    {
+      "surface": "רִֽ֭יבְךָ",
+      "gloss": "shari'arka"
+    },
+    {
+      "surface": "רִ֣יב",
+      "gloss": "ta faɗa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "makwabcinka"
+    },
+    {
+      "surface": "רֵעֶ֑ךָ",
+      "gloss": "makwabcinka"
+    },
+    {
+      "surface": "וְס֖וֹד",
+      "gloss": "kuma asirin"
+    },
+    {
+      "surface": "אַחֵ֣ר",
+      "gloss": "wani"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תְּגָֽל",
+      "gloss": "ka bayyana"
+    }
+  ],
+  "timestamp": "2026-08-12T21:27:42.764256200Z",
+  "model": "glm-5.2"
+}

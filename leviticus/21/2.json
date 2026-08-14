@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "sai dai don jikinsa na kusa da shi — don uwarsa da kuma mahaifinsa, da kuma ɗansa da kuma 'yarsa, da kuma ɗan'uwansa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sai dai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sai dai"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "don jikinsa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "na kusa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "da shi"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "don uwarsa"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "da kuma mahaifinsa"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "da kuma ɗansa"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "da kuma 'yarsa"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "da kuma ɗan'uwansa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:38:45.256855728Z",
+  "model": "glm-5.2"
+}

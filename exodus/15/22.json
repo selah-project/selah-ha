@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Moshe ya motsa ⟨את⟩ Isra'il daga Tekun Ṣuf, suka fita zuwa hamadar Shur, suka tafi kwanaki uku a cikin hamada, ba su same ruwa ba.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "ya motsa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isra'il"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'il"
+    },
+    {
+      "surface": "מים",
+      "gloss": "daga Tekun"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Ṣuf"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "suka fita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "hamadar"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "suka tafi"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "uku"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a cikin hamada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "su same"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    }
+  ],
+  "timestamp": "2026-08-13T01:45:41.151435458Z",
+  "model": "glm-5.2"
+}

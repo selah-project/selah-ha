@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 57,
+  "translation": "Zan kira Elohim Most High, ga El ⟨wanda⟩ yake cika ⟨abin da yake⟩ a ni.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "Zan kira"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Most High"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ga El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "yake cika"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:53:04.872679477Z",
+  "model": "glm-5.2"
+}

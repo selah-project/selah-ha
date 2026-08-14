@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Duk ƙasashen gabbãnu za su faɗa, Yahweh, wäne ⟨ne⟩ kamar kai, wanda ke tsallakewar miskini daga mai ĩko daga gare shi, da miskini da mātūkãci daga wanda ke sānun sa?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Duk"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ƙasashen gabbãnu"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "za su faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wäne"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kamar kai"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "wanda ke tsallakewar"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskini"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "daga mai ĩko"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare shi"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "da miskini"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "da mātūkãci"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "daga wanda ke sānun sa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:36:50.787084761Z",
+  "model": "glm-5.2"
+}

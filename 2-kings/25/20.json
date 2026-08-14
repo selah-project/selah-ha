@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma Nevuzaradan, shugaban mahalarta, ya riƙi ⟨את⟩ su, ya kuma kai ⟨את⟩ su zuwa ga sarkin Bavel, a Ribla.",
+  "tokens": [
+    {
+      "surface": "וַיִּקַּ֣ח",
+      "gloss": "Kuma ya riƙi"
+    },
+    {
+      "surface": "אֹתָ֔ם",
+      "gloss": "⟨את⟩ su",
+      "marks": "Nevuzaradan"
+    },
+    {
+      "surface": "נְבוּזַרְאֲדָ֖ן",
+      "gloss": "Nevuzaradan"
+    },
+    {
+      "surface": "רַב",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "טַבָּחִ֑ים",
+      "gloss": "mahalarta"
+    },
+    {
+      "surface": "וַיֹּ֧לֶךְ",
+      "gloss": "ya kuma kai"
+    },
+    {
+      "surface": "אֹתָ֛ם",
+      "gloss": "⟨את⟩ su",
+      "marks": "zuwa ga sarkin Bavel"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "בָּבֶ֖ל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "רִבְלָֽתָה",
+      "gloss": "a Ribla"
+    }
+  ],
+  "timestamp": "2026-08-12T12:52:53.518788217Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 9:9",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Wanda Ya yi ʿAsh, K'sil, da Kimah, da ɗakunan kudu",
+  "tokens": [
+    {
+      "surface": "עֹֽשֶׂה",
+      "gloss": "Wanda Ya yi"
+    },
+    {
+      "surface": "עָ֭שׁ",
+      "gloss": "Ash",
+      "marks": "ʿAsh"
+    },
+    {
+      "surface": "כְּסִ֥יל",
+      "gloss": "Kesil",
+      "marks": "K'sil"
+    },
+    {
+      "surface": "וְכִימָ֗ה",
+      "gloss": "da",
+      "marks": "Kimah"
+    },
+    {
+      "surface": "וְחַדְרֵ֥י",
+      "gloss": "da ɗakunan"
+    },
+    {
+      "surface": "תֵמָֽן",
+      "gloss": "kudu"
+    }
+  ],
+  "timestamp": "2026-08-14T00:02:34.046233222Z",
+  "model": "glm-5.2"
+}

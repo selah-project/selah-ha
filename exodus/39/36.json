@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "⟨את⟩ teburin, ⟨את⟩ dukkan kayan sa, da ⟨את⟩ gurasin gaban;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teburin"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "teburin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kayan sa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "gurasin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "gurasin"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "gaban"
+    }
+  ],
+  "timestamp": "2026-08-12T01:38:36.118633010Z",
+  "model": "glm-5.2"
+}

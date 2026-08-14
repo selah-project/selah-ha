@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 73,
+  "translation": "Sun ajiye bakinsu a sama, kuma harshensu yana tafiya a ƙasa.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "Sun ajiye"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "a sama"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "bakinsu"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "kuma harshensu"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "yana tafiya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:04:36.855867736Z",
+  "model": "glm-5.2"
+}

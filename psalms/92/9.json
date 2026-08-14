@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 92,
+  "translation": "Kai kuma, a tsayi, har abada, Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kai kuma"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "a tsayi"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:29.090541157Z",
+  "model": "glm-5.2"
+}

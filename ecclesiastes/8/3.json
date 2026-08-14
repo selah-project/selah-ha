@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kada ku firgita daga gaban sa — ku tafi! Kada ku tsaya a cikin wani abu mugu, domin duk abin da yake so, ⟨shi⟩ yana aikatawa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "ku firgita"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "daga gaban sa"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ku tafi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ku tsaya"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "a cikin wani abu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mugu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "yake so"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yana aikatawa"
+    }
+  ],
+  "timestamp": "2026-08-13T03:09:44.266711299Z",
+  "model": "glm-5.2"
+}

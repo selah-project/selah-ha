@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma ya ga ⟨את⟩ Amalek, ya ɗauki misalinsa, ya ce: Farkon al'ummomi ⟨ne⟩ Amalek, amma ƙarshensa ⟨ne⟩ halaka.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "kuma ya ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ya ɗauki"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "misalinsa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "farkon"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "al'ummomi"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "amma ƙarshensa"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "hatta"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "halaka"
+    }
+  ],
+  "timestamp": "2026-08-13T01:52:20.717708124Z",
+  "model": "glm-5.2"
+}

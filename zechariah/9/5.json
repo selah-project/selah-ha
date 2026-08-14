@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 9:5",
+  "book": "zechariah",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Ashkelon za ta ga, kuma ta ji tsoro, kuma Gaza za ta yi ta rawan jini sosai, kuma Ekron — domin tsiyar da bege ⟨ta⟩ kunɗanto, kuma sarki ya halaka daga Gaza, kuma Ashkelon ba za ta zauna ba.",
+  "tokens": [
+    {
+      "surface": "תרא",
+      "gloss": "za ta ga"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "ותירא",
+      "gloss": "kuma ta ji tsoro"
+    },
+    {
+      "surface": "ועזה",
+      "gloss": "kuma Gaza"
+    },
+    {
+      "surface": "ותחיל",
+      "gloss": "kuma za ta yi ta rawan jini"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "kuma Ekron"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "kunɗanto"
+    },
+    {
+      "surface": "מבטה",
+      "gloss": "tsiyar da bege ⟨ta⟩"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "kuma ya halaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "מעזה",
+      "gloss": "daga Gaza"
+    },
+    {
+      "surface": "ואשקלון",
+      "gloss": "kuma Ashkelon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "za ta zauna"
+    }
+  ],
+  "timestamp": "2026-08-12T19:06:59.436311477Z",
+  "model": "glm-5.2"
+}

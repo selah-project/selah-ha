@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 44:21",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Kuma ka ce wa bayinka: Sai ku saƙe shi ya sauko a gare ni, kuma zan sanya idona a kansa.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ka ce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "bayinka"
+    },
+    {
+      "surface": "הורדהו",
+      "gloss": "Sai ku saƙe shi ya sauko"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a gare ni"
+    },
+    {
+      "surface": "ואשימה",
+      "gloss": "kuma zan sanya"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "idona"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:15:30.197379197Z",
+  "model": "glm-5.2"
+}

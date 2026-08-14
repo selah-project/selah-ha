@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 8:13",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma Mosheh ya kusantar da ⟨את⟩ ɗiy'an Aharon, ya sa musu ƙwam-fida, ya dama musu ⟨ne⟩ bel, kuma ya ɗa musu kwannya-kwannya, kamar yadda Yahweh ya umurci ⟨את⟩ Mosheh.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ya kusantar da"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗiy'an"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiy'an"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "ya sa musu"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ƙwam-fida"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "ya dama musu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bel"
+    },
+    {
+      "surface": "אבנט",
+      "gloss": "bel"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "ya ɗa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "מגבעות",
+      "gloss": "kwannya-kwannya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-12T02:04:37.616280137Z",
+  "model": "glm-5.2"
+}

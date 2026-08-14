@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "ƙafa za ta treadingeshi — ƙafafun matalauci, ƙafafun wofi.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "za ta treadingeshi"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ƙafa"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ƙafafun"
+    },
+    {
+      "surface": "עני",
+      "gloss": "matalauci"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ƙafafun"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "wofi"
+    }
+  ],
+  "timestamp": "2026-08-12T13:32:23.645780296Z",
+  "model": "glm-5.2"
+}

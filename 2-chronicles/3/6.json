@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ya rufe ⟨da⟩ ⟨את⟩ gidan da duwatsu masu daraja don ⟨ƙ̃ar̃̃̃i⟩, kuma zinariyar ⟨ita ce⟩ zinariyar Parvayim.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "kuma ya rufe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "masu daraja"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "don ƙari"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "kuma zinariyar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinariya"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Parvayim"
+    }
+  ],
+  "timestamp": "2026-08-13T00:42:20.559971803Z",
+  "model": "glm-5.2"
+}

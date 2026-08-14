@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 139,
+  "translation": "Kuma ⟨a gare ni⟩, yadda yawarke suke, a gare ni, ya Elohim! yadda yalwacensu take!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "Kuma ⟨a gare ni⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yadda"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "yawarke suke"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "tunani-nka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yadda"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "yalwacensu take"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "sugabaransu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:54:02.899628169Z",
+  "model": "glm-5.2"
+}

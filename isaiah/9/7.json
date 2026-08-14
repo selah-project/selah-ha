@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kalma Adonai ya aiko a cikin Ya'ƙub, kuma ta faɗi a cikin Yis'ra'el.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Kalma"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ya aiko"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "a cikin Ya'ƙub"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "kuma ta faɗi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "a cikin Yis'ra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T13:14:49.502737069Z",
+  "model": "glm-5.2"
+}

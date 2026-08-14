@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Aḥaz ya riƙe ⟨את⟩ azurfa da ⟨את⟩ zinariyar da aka samu a cikin Bet Yahweh da cikin taskokin Bet ⟨na⟩ sarki, ya aika wa sarkin Ashur ⟨shi⟩ lãada.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ya riƙe"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Aḥaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azurfa"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "azurfa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zinariyar"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "da aka samu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a cikin Bet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "da cikin taskokin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨na⟩ sarki"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ya aika"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "wa sarkin"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "⟨shi⟩ lãada"
+    }
+  ],
+  "timestamp": "2026-08-12T12:32:12.248764657Z",
+  "model": "glm-5.2"
+}

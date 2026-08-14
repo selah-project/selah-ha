@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ⟨an haifa⟩ 'ya'ya ga Bela: Addar, da Gera, da Avihud.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Kuma ⟨an haifa⟩"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "'ya'ya"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "ga Bela"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Addar"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "da Gera"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "da Avihud"
+    }
+  ],
+  "timestamp": "2026-08-13T00:05:47.460354258Z",
+  "model": "glm-5.2"
+}

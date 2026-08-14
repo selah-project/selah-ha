@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma Paroh ya ce, Ga shi, sun yawa yanzu, mutanen ƙasar, kuma kuna sa su hutu daga ƙaya ⟨את⟩ su.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Ga shi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sun yawa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "kuna sa su hutu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "daga ƙaya"
+    }
+  ],
+  "timestamp": "2026-08-13T01:46:32.241429862Z",
+  "model": "glm-5.2"
+}

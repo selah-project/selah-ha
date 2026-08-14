@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 115,
+  "translation": "Ba ⟨su⟩ mutanen da suka mutu ne za su yabi Yah, kuma ba duka waɗanda ke sauka cikin shiru ⟨suka yi⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "mutanen da suka mutu"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "za su yabi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "waɗanda ke sauka"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "cikin shiru"
+    }
+  ],
+  "timestamp": "2026-08-12T20:38:00.027666379Z",
+  "model": "glm-5.2"
+}

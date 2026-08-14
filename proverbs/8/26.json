@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 8:26",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Har yanzu bai yi ƙasa ba, ko filayen buɗe, ko farkon ƙura ta dunƙule.",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "har"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba...ba"
+    },
+    {
+      "surface": "עָ֭שָׂה",
+      "gloss": "yi"
+    },
+    {
+      "surface": "אֶ֣רֶץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "וְחוּצ֑וֹת",
+      "gloss": "ko filayen buɗe"
+    },
+    {
+      "surface": "וְ֝רֹ֗אשׁ",
+      "gloss": "ko farkon"
+    },
+    {
+      "surface": "עָפְר֥וֹת",
+      "gloss": "ƙura"
+    },
+    {
+      "surface": "תֵּבֵֽל",
+      "gloss": "dunƙule"
+    }
+  ],
+  "timestamp": "2026-08-13T02:28:55.075855226Z",
+  "model": "glm-5.2"
+}

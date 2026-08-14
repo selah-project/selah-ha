@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Yana kiwo da toka; zuciya ta yaudure shi ta juya ⟨shi⟩ baya, kuma ba zai iya ceton rayuwarsa ⟨את⟩ ba, kuma ba ya cewa, \"Babu ⟨buɣa⟩ ƙarya a daminata?\"",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "Yana kiwo"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "da toka"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciya"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "ta yaudure shi"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "ta juya ⟨shi⟩ baya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "zai iya ceton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rayuwarsa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "rayuwarsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ya cewa"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Babu ⟨buɣa⟩"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ƙarya"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "a daminata"
+    }
+  ],
+  "timestamp": "2026-08-12T14:16:55.471064425Z",
+  "model": "glm-5.2"
+}

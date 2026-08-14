@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Ɗauka ⟨את⟩ kan ˉbanen Gereshon, su ma, a cewar gidan iyayensu, a cewar iyalansu;",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Ɗauka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ˉbanen"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gereshon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "su ma"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨sũ⟩"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "a cewar gidan"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "iyayensu"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "a cewar iyalansu"
+    }
+  ],
+  "timestamp": "2026-08-12T03:22:56.359356206Z",
+  "model": "glm-5.2"
+}

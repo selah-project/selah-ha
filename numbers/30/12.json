@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 30:12",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma mijinta ya ji, ya yi shiru gare ta, bai hana ⟨את⟩ ta, to dukkan rancinta sun tashi, da kowane wajibi wanda ta ɗaure a kan raiinta zai tsaya.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "Kuma ya ji"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "mijinta"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "ya yi shiru"
+    },
+    {
+      "surface": "לה",
+      "gloss": "gare ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "hana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ta"
+    },
+    {
+      "surface": "וקמו",
+      "gloss": "to sun tashi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "rancinta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da kowane"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "wajibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ta ɗaure"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "raiinta"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "zai tsaya"
+    }
+  ],
+  "timestamp": "2026-08-12T04:36:51.999124607Z",
+  "model": "glm-5.2"
+}

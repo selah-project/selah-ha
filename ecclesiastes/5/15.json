@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma wannan ma mugunya ce ta cuta: kamar yadda ya zo, haka zai tafi, kuma menene amfanin sa, ⟨cewa⟩ yana grijin wa iska?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kuma ... ma"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mugunya"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "ta cuta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "yadda ya zo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "zai tafi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "kuma menene"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "amfanin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "⟨cewa⟩ yana grijin wa"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "iska"
+    }
+  ],
+  "timestamp": "2026-08-12T22:45:14.338160685Z",
+  "model": "glm-5.2"
+}

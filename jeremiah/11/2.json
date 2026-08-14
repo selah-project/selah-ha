@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Ku saurari ⟨את⟩ kalmomin wannan alkawari, kuma ku faɗa su ga mutanen Yehudah da mazaunan Yerushalaim:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Ku saurari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalmomin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "alkawari"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "kuma ku faɗa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-12T15:17:34.464373328Z",
+  "model": "glm-5.2"
+}

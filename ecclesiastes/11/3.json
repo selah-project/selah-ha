@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Idan girgije suka cika da ruwan sama a ƙasa za su zuba, kuma idan itace ya fada a kudu, ko kuma a arewa, wurin da itacen ya fada, can ⟨ne⟩ yake.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "suka cika"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "girgije"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "da ruwan sama"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "za su zuba"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ya fada"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "itace"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "a kudu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ko kuma"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "a arewa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "wurin"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "da ya fada"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "itacen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "⟨ne⟩ yake"
+    }
+  ],
+  "timestamp": "2026-08-13T02:35:42.055326304Z",
+  "model": "glm-5.2"
+}

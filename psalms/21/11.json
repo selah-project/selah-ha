@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "‘Ƴansu daga ƙasa za ka halaka, kuma zuriyarsu daga tsakãnin ƴaƴan adam.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "‘ƴansu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasa"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "za ka halaka"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "kuma zuriyarsu"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "daga tsakãnin ƴaƴan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    }
+  ],
+  "timestamp": "2026-08-12T19:25:49.861202833Z",
+  "model": "glm-5.2"
+}

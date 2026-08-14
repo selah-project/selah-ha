@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma ya dora ⟨את⟩ hannayensa a kansa, kuma ya umarce shi, kamar yadda Yahweh ya faɗa ta hannun Moshe.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "Kuma ya dora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannayensa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hannayensa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "kuma ya umarce shi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ta hannun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-12T04:30:20.196088522Z",
+  "model": "glm-5.2"
+}

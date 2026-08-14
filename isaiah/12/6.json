@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 12:6",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Ka yi murna ka kuma rera, ya mai zama a Tsiyon, domin Mai Tsarkin ⟨ɗin⟩ Isra'ila babu ⟨ne⟩ cikin ⟨karɓe⟩.",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "Ka yi murna"
+    },
+    {
+      "surface": "ורני",
+      "gloss": "ka kuma rera"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ya mai zama a"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "babu"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "cikin karɓe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Mai Tsarkin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T13:09:32.940286702Z",
+  "model": "glm-5.2"
+}

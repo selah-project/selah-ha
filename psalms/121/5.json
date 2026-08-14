@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 121,
+  "translation": "Yahweh ⟨ne⟩ mai gadiyarka, Yahweh ⟨ne⟩ inuwarka a ⟨wurin⟩ hannun dāmanka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "mai gadiyarka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "inuwarka"
+    },
+    {
+      "surface": "על",
+      "gloss": "a ⟨wurin⟩"
+    },
+    {
+      "surface": "יַד",
+      "gloss": "hannun"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dāmanka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:47:13.606688465Z",
+  "model": "glm-5.2"
+}

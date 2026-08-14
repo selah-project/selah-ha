@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Ka rage kwanakin ƙuruciyarsa, ka rufe shi da kunya. Selah.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "ka rage"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "ƙuruciyarsa"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "ka rufe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "da kunya"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T20:15:53.592376516Z",
+  "model": "glm-5.2"
+}

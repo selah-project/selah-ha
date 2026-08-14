@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma Laban ya ce: \"Ya fi ⟨a fi⟩ ina ba ta ⟨את⟩ ⟨ga⟩ kai, fiye da ina ba ta ⟨את⟩ ⟨ga⟩ wani mutum; zauna tare da ni.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Ya fi"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "ina ba ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ta (Rakhel)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ga kai"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "fiye da ina ba ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ta (Rakhel)"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ga mutum"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wani"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "zauna"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "tare da ni"
+    }
+  ],
+  "timestamp": "2026-08-13T01:43:24.144785893Z",
+  "model": "glm-5.2"
+}

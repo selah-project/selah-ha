@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 8:20",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma Yahweh ya yi haka, kuma ɗimbin fari mai yawa ya zo gidan Farao, da kuma gidan bayinsa, da kuma a duk ƙasar Mitsrayim; ƙasar ⟨ta⟩ lalace saboda ⟨nauyin⟩ ɗimbin farin.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֤עַשׂ",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כֵּ֔ן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "וַיָּבֹא֙",
+      "gloss": "kuma ya zo"
+    },
+    {
+      "surface": "עָרֹ֣ב",
+      "gloss": "ɗimbin fari"
+    },
+    {
+      "surface": "כָּבֵ֔ד",
+      "gloss": "mai yawa"
+    },
+    {
+      "surface": "בֵּ֥יתָה",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "פַרְעֹ֖ה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "וּבֵ֣ית",
+      "gloss": "da kuma gidan"
+    },
+    {
+      "surface": "עֲבָדָ֑יו",
+      "gloss": "bayinsa"
+    },
+    {
+      "surface": "וּבְכָל",
+      "gloss": "da kuma a duk"
+    },
+    {
+      "surface": "אֶ֧רֶץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מִצְרַ֛יִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "תִּשָּׁחֵ֥ת",
+      "gloss": "lalace"
+    },
+    {
+      "surface": "הָאָ֖רֶץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מִפְּנֵ֥י",
+      "gloss": "sabida"
+    },
+    {
+      "surface": "הֶעָרֹֽב",
+      "gloss": "ɗimbin farin"
+    }
+  ],
+  "timestamp": "2026-08-12T00:39:34.449854924Z",
+  "model": "glm-5.2"
+}

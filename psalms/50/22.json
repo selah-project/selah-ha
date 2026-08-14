@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 50:22",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "Ku fahimci ⟨nan⟩, ku waɗanda suke manta da El, don ba ni in fashe ku, kuma babu wanda ya ceci ku.",
+  "tokens": [
+    {
+      "surface": "בִּינוּ",
+      "gloss": "ku fahimci"
+    },
+    {
+      "surface": "נָא",
+      "gloss": "⟨nan⟩"
+    },
+    {
+      "surface": "זֹאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "שֹׁכְחֵי",
+      "gloss": "waɗanda suke manta da"
+    },
+    {
+      "surface": "אֱלוֹהַּ",
+      "gloss": "El"
+    },
+    {
+      "surface": "פֵּן",
+      "gloss": "don ba"
+    },
+    {
+      "surface": "אֶטְרֹף",
+      "gloss": "ni in fashe ku"
+    },
+    {
+      "surface": "וְאֵין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "מַצִּיל",
+      "gloss": "wanda ya ceci ku"
+    }
+  ],
+  "timestamp": "2026-08-12T19:47:38.115419622Z",
+  "model": "glm-5.2"
+}

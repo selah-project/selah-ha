@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 144,
+  "translation": "'Yantar da ni, ka kuma tsirar da ni daga hannun 'ya'yan bāƙi, waɗanda bakunansu suka faɗa ƙarya, kuma dāmansu dāmar ƙarya ce.",
+  "tokens": [
+    {
+      "surface": "פְּצֵנִי",
+      "gloss": "'Yantar da ni"
+    },
+    {
+      "surface": "וְהַצִּילֵנִי",
+      "gloss": "ka kuma tsirar da ni"
+    },
+    {
+      "surface": "מִיַּד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "נֵכָר",
+      "gloss": "bāƙi"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "פִּיהֶם",
+      "gloss": "bakunansu"
+    },
+    {
+      "surface": "דִּבֶּר",
+      "gloss": "suka faɗa"
+    },
+    {
+      "surface": "שָׁוְא",
+      "gloss": "ƙarya"
+    },
+    {
+      "surface": "וִימִינָם",
+      "gloss": "kuma dāmansu"
+    },
+    {
+      "surface": "יְמִין",
+      "gloss": "dāma"
+    },
+    {
+      "surface": "שֶׁקֶר",
+      "gloss": "ƙarya ce"
+    }
+  ],
+  "timestamp": "2026-08-13T02:28:24.106766560Z",
+  "model": "glm-5.2"
+}

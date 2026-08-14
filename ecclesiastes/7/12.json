@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Domin a cikin inuwar hikima, kamar a cikin inuwar azurfa ⟨akwai⟩; kuma fa'idar ilimin hikima ⟨shi ne cewa⟩ hikima ta raya masu ta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "a cikin inuwar"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "hikima"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "kamar a cikin inuwar"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "azurfa"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "kuma fa'idar"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ilimin"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "hikima"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ta raya"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "masu ta"
+    }
+  ],
+  "timestamp": "2026-08-12T22:45:58.398939407Z",
+  "model": "glm-5.2"
+}

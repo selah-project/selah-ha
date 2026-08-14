@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 19:22",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma kahun zai yi wa agaji a madɗinsa da ragon laifin, a gaban Yahweh, saboda zunubinsa da ya aikata; kuma za a gafarta masa daga zunubinsa da ya aikata.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "Kuma kahun zai yi wa agaji"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a madɗinsa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahun"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "da ragon"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "laifin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "zunubinsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ya aikata"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "kuma za a gafarta masa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨a masa⟩"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "daga zunubinsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ya aikata"
+    }
+  ],
+  "timestamp": "2026-08-12T02:34:36.160528481Z",
+  "model": "glm-5.2"
+}

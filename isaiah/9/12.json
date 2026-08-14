@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma mutanen ba su komo ⟨ne⟩ wajen wanda ya buga su, kuma ⟨את⟩ Yahweh na ƙungiyoyi ba su nemi.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "kuma mutanen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שב",
+      "gloss": "sukomọ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "wajen"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "wanda ya buga shi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "na ƙungiyoyi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "su nemi"
+    }
+  ],
+  "timestamp": "2026-08-12T13:11:33.608190673Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 5:10",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma Elisha ya aiko masa manzo, yana cewa: Tafi, kuma ka wanke sau bakwai a cikin Yarden, kuma jikin sa zai koma gare ka, ⟨kuma⟩ ka tsarkaka.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Kuma ya aiko"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "manzo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "Tafi"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "kuma ka wanke"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sau bakwai"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "⟨sau⟩"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "a cikin Yarden"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kuma zai koma"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "jikin sa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gare ka"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "⟨kuma⟩ ka tsarkaka"
+    }
+  ],
+  "timestamp": "2026-08-12T12:02:27.710746106Z",
+  "model": "glm-5.2"
+}

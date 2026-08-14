@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Idan hanyoyin mutum sun dāma Yahweh, har ma maƙiyansa zai sanya su ⟨suna⟩ cikin salama ⟨ne⟩ da shi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "בִּרְצ֣וֹת",
+      "gloss": "Idan sun dāma"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דַּרְכֵי",
+      "gloss": "hanyoyin"
+    },
+    {
+      "surface": "אִ֑ישׁ",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "har ma"
+    },
+    {
+      "surface": "א֝וֹיְבָ֗יו",
+      "gloss": "maƙiyansa"
+    },
+    {
+      "surface": "יַשְׁלִ֥ם",
+      "gloss": "zai sanya su cikin salama"
+    },
+    {
+      "surface": "אִתּֽוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    }
+  ],
+  "timestamp": "2026-08-12T21:17:16.143957476Z",
+  "model": "glm-5.2"
+}

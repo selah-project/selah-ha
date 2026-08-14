@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Ku fitar da ⟨את⟩ mutane masu makafi, kuma ⟨su ne⟩ masu idanuwa; mutane masu kurma, kuma kunnuwa suna ⟨a wurinsu⟩.",
+  "tokens": [
+    {
+      "surface": "הוֹצִיא",
+      "gloss": "Ku fitar da"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "עִוֵּר",
+      "gloss": "masu makafi"
+    },
+    {
+      "surface": "וְעֵינַיִם",
+      "gloss": "kuma masu idanuwa"
+    },
+    {
+      "surface": "יֵשׁ",
+      "gloss": "⟨su ne⟩"
+    },
+    {
+      "surface": "וְחֵרְשִׁים",
+      "gloss": "mutane masu kurma"
+    },
+    {
+      "surface": "וְאָזְנַיִם",
+      "gloss": "kuma kunnuwa"
+    },
+    {
+      "surface": "לָמוֹ",
+      "gloss": "suna ⟨a wurinsu⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T14:04:39.535400069Z",
+  "model": "glm-5.2"
+}

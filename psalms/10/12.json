@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Tashi, Yahweh! El, ɗauko hannunka! Kada ka manta matalauta!",
+  "tokens": [
+    {
+      "surface": "קוּמָ֤ה",
+      "gloss": "tashi"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֵ֭ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נְשָׂ֣א",
+      "gloss": "ɗauko"
+    },
+    {
+      "surface": "יָדֶ֑ךָ",
+      "gloss": "hannunka"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תִּשְׁכַּ֥ח",
+      "gloss": "ka manta"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "matalauta"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:23.012825954Z",
+  "model": "glm-5.2"
+}

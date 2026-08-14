@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 31:7",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Sai suka yi yaki ⟨a kansu⟩ Midiyan, kamar yadda Yahweh ya umarta ⟨את⟩ Moshe, suka kashe kowane namiji.",
+  "tokens": [
+    {
+      "surface": "וַיִּצְבְּאוּ",
+      "gloss": "suka yi yaki"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "⟨a kansu⟩"
+    },
+    {
+      "surface": "מִדְיָן",
+      "gloss": "Midiyan"
+    },
+    {
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צִוָּה",
+      "gloss": "ya umarta"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וַיַּהַרְגוּ",
+      "gloss": "suka kashe"
+    },
+    {
+      "surface": "כֹּל",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "זָכָר",
+      "gloss": "namiji"
+    }
+  ],
+  "timestamp": "2026-08-12T04:39:51.034832719Z",
+  "model": "glm-5.2"
+}

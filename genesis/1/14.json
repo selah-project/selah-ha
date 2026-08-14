@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 1:14",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Sa'an nan Elohim ya ce, \"Bari haske su kasance a cikin faɗin sama, don rarrabe tsakanin rana da tsakanin dare, kuma su zama alamomi, da lokutan taro, da kwanaki, da shekaru.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sa'an nan ⟨ya ce⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "bari su kasance"
+    },
+    {
+      "surface": "מארת",
+      "gloss": "haske"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "a cikin faɗin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "להבדיל",
+      "gloss": "don rarrabe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rana"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da tsakanin"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "dare"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kuma su zama"
+    },
+    {
+      "surface": "לאתת",
+      "gloss": "alamomi"
+    },
+    {
+      "surface": "ולמועדים",
+      "gloss": "da lokutan taro"
+    },
+    {
+      "surface": "ולימים",
+      "gloss": "da kwanaki"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "da shekaru"
+    }
+  ],
+  "timestamp": "2026-08-11T23:19:07.925034803Z",
+  "model": "glm-5.2"
+}

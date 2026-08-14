@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 80,
+  "translation": "Yahweh, Elohim Tzava'ot, har zuwa yaushe kake ciyar da hayaki akan addu'ar mutanenka?",
+  "tokens": [
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהִ֣ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צְבָא֑וֹת",
+      "gloss": "Tzava'ot"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "מָתַ֥י",
+      "gloss": "yaushe"
+    },
+    {
+      "surface": "עָ֝שַׁ֗נְתָּ",
+      "gloss": "kake ciyar da hayaki"
+    },
+    {
+      "surface": "בִּתְפִלַּ֥ת",
+      "gloss": "akan addu'ar"
+    },
+    {
+      "surface": "עַמֶּֽךָ",
+      "gloss": "mutanenka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:13:03.090032165Z",
+  "model": "glm-5.2"
+}

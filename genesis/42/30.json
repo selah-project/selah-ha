@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "“Mutumin, shugaban ƙasar, ya yi magana da ⟨mu⟩ da tauri, ya sanya ⟨mu⟩ a matsayin leƙen asiri ⟨את⟩ ⟨na⟩ ⟨את⟩ ƙasar.”",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ya yi magana"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ⟨da mu⟩"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "da tauri"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ya sanya"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "mu"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "a matsayin leƙen asiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨na⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    }
+  ],
+  "timestamp": "2026-08-12T00:18:41.280454413Z",
+  "model": "glm-5.2"
+}

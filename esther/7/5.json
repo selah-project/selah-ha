@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 7:5",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Sarki Achashverosh ya faɗa, kuma ya ce wa Ester sarauniya, \"Wãne ne ⟨shi⟩ wannan, kuma ina ⟨shi⟩ wannan da zuciyarsa ta cika da sha'awar yi haka?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya faɗa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "wa Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "sarauniya"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wãne ne"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "kuma ina"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ta cika"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zuciyarsa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da sha'awar yi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    }
+  ],
+  "timestamp": "2026-08-12T23:03:27.735017640Z",
+  "model": "glm-5.2"
+}

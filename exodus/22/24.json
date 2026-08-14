@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Idan kuna bada rance ⟨את⟩ azurfa ga jama'aNa, ⟨את⟩ matalaucin da ke tare da ku, kada ku zama a gare shi kamar mai lissafi; kada ku saka masa riba.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "azurfa"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "kuna bada rance"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azurfa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ga jama'aNa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matalaucin"
+    },
+    {
+      "surface": "העני",
+      "gloss": "matalaucin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "da ke tare da ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ku zama"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a gare shi"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "kamar mai lissafi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "ku saka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "riba"
+    }
+  ],
+  "timestamp": "2026-08-12T00:59:13.311557611Z",
+  "model": "glm-5.2"
+}

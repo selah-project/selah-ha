@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 5:18",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Yã ku masu tãyar da laifi da igiyar ƙarya, kuma kamar ga igiyar mota zunubi!",
+  "tokens": [
+    {
+      "surface": "ה֛וֹי",
+      "gloss": "Yã ku"
+    },
+    {
+      "surface": "מֹשְׁכֵ֥י",
+      "gloss": "masu tãyar da"
+    },
+    {
+      "surface": "הֶֽעָוֺ֖ן",
+      "gloss": "laifi"
+    },
+    {
+      "surface": "בְּחַבְלֵ֣י",
+      "gloss": "da igiyar"
+    },
+    {
+      "surface": "הַשָּׁ֑וְא",
+      "gloss": "ƙarya"
+    },
+    {
+      "surface": "וּכְעַבְתֹ֖ת",
+      "gloss": "kuma kamar ga igiyar"
+    },
+    {
+      "surface": "הָעֲגָלָֽה",
+      "gloss": "mota"
+    },
+    {
+      "surface": "חַטָּאָֽה",
+      "gloss": "zunubi"
+    }
+  ],
+  "timestamp": "2026-08-13T03:06:01.992465466Z",
+  "model": "glm-5.2"
+}

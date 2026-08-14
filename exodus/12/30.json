@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 12:30",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma Parʿoh ya tahi da dare, shi da duka bayinsa da duka Mitsrayim, kuma ⟨aka ji⟩ ƙara mai girma a Mitsrayim, domin babu wani gida ⟨wanda⟩ babu ⟨wani⟩ matattu a cikinsa.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Kuma ya tahi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parʿoh"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "da dare"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da duka"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bayinsa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da duka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "kuma ⟨aka ji⟩"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "ƙara"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "mai girma"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "a Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wani gida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨wanda⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a cikinsa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "⟨wani⟩ matattu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:48:59.534731061Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Takobinsu zai shiga cikin zukãtansu, kuma bãkansu za a ƙãre.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "Takobinsu"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "zai shiga"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "cikin zukãtansu"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "kuma bãkansu"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "za a ƙãre"
+    }
+  ],
+  "timestamp": "2026-08-12T19:38:22.469543830Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Kuma ta sake yin ciki, ta haifi ɗa, kuma ta kira ⟨את⟩ sunansa Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "kuma ta sake yin ciki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sake"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ta haifi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗa"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "kuma ta kira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunansa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-08-12T00:10:12.828027066Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma ⟨את⟩ Aharon da ⟨את⟩ 'ya'yansa za ka shafa man shafawa, kuma za ka tsarkake ⟨את⟩ su don su zama firistoci ⟨a gare ni⟩.",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "Kuma ⟨את⟩"
+    },
+    {
+      "surface": "אַהֲרֹ֥ן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "בָּנָ֖יו",
+      "gloss": "'ya'yansa"
+    },
+    {
+      "surface": "תִּמְשָׁ֑ח",
+      "gloss": "za ka shafa man shafawa"
+    },
+    {
+      "surface": "וְקִדַּשְׁתָּ֥",
+      "gloss": "kuma za ka tsarkake"
+    },
+    {
+      "surface": "אֹתָ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "לְכַהֵ֥ן",
+      "gloss": "don su zama firistoci"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "a gare ni"
+    }
+  ],
+  "timestamp": "2026-08-12T01:16:28.370593734Z",
+  "model": "glm-5.2"
+}

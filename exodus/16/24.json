@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma suka ajiye ⟨את⟩ shi har safe, kamar yadda Mosheh ya umurta, kuma ba ya yi wari, kuma tsutsa ba ta kasance ⟨a cikin⟩ sa.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "suka ajiye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "safe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "ya yi wari"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "kuma tsutsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ta kasance"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a cikin sa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:52:49.340850349Z",
+  "model": "glm-5.2"
+}

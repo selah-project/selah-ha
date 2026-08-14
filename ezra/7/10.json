@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Domin Ezira ya shirya zuciyarsa don neman ⟨את⟩ ⟨אֵת⟩ Tórah Yahweh, da kuma aiwatar da ⟨ita⟩, da kuma koya wa cikin Isra'ila dokoki da ƙa'idoji.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "עֶזְרָא֙",
+      "gloss": "Ezira"
+    },
+    {
+      "surface": "הֵכִ֣ין",
+      "gloss": "ya shirya"
+    },
+    {
+      "surface": "לְבָב֔וֹ",
+      "gloss": "zuciyarsa"
+    },
+    {
+      "surface": "לִדְר֛וֹשׁ",
+      "gloss": "don neman"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩ ⟨אֵת⟩",
+      "marks": "Tórah"
+    },
+    {
+      "surface": "תּוֹרַ֥ת",
+      "gloss": "Tórah"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְלַעֲשֹׂ֑ת",
+      "gloss": "da kuma aiwatar da"
+    },
+    {
+      "surface": "וּלְלַמֵּ֥ד",
+      "gloss": "da kuma koya wa"
+    },
+    {
+      "surface": "בְּיִשְׂרָאֵ֖ל",
+      "gloss": "cikin Isra'ila"
+    },
+    {
+      "surface": "חֹ֥ק",
+      "gloss": "dokoki"
+    },
+    {
+      "surface": "וּמִשְׁפָּֽט",
+      "gloss": "da ƙa'idoji"
+    }
+  ],
+  "timestamp": "2026-08-12T23:25:45.980091935Z",
+  "model": "glm-5.2"
+}

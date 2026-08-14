@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma ni, na ɗauku ku daga ƙasar Mitsrayim, kuma na jagoranta ku cikin hamada shekaru arba'in, don ku mamaye ⟨את⟩ ƙasar Ha'emori.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Kuma ni"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "na ɗauku"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "kuma na jagoranta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "cikin hamada"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "arba'in"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "don ku mamaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Ha'emori"
+    }
+  ],
+  "timestamp": "2026-08-12T18:22:43.019712441Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma za ka ci, kuma za ka sha awa, kuma za ka yi gaisuwa ga ⟨את⟩ Yahweh, Elohim naka, saboda ⟨ya ba⟩ ka ƙasar ⟨mai⟩ kyau da ⟨ya⟩ ba ka.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "Kuma za ka ci"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "kuma za ka sha awa"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "kuma za ka yi gaisuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "kyau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:07:24.605206966Z",
+  "model": "glm-5.2"
+}

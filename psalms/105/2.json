@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Ku rera masa waƙa, ku kunna masa waƙa, ku yi tunani game da duka abin da ya yi mamakin.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Ku rera masa waƙa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ku kunna masa waƙa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ku yi tunani"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "game da duka"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "abin da ya yi mamakin"
+    }
+  ],
+  "timestamp": "2026-08-12T20:30:42.270816484Z",
+  "model": "glm-5.2"
+}

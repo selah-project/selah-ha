@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma yaron Shemuël yana bauta wa ⟨את⟩ Yahweh a gaban Eli, kuma kalmar Yahweh ta kasance ⟨ce⟩ babu a wancan kwanakin, ba ⟨akwai⟩ gani da ake fashewa ba.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Kuma yaron"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "yana bauta wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "kuma kalmar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ta kasance"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "babu"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "a cikin kwanakin"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "wancan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ba ⟨akwai⟩"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "gani"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "da ake fashewa"
+    }
+  ],
+  "timestamp": "2026-08-12T08:29:56.768267415Z",
+  "model": "glm-5.2"
+}

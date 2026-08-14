@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 57,
+  "translation": "Ka nuna mini falala, Elohim, ka nuna mini falala, domin a cikin⟨kai⟩ rai ta ⟨ce⟩ ta ɓoye, kuma a cikin inuwar fuka-fukank⟨ina⟩ neman mafaka, har ruƙbin nan su wuce.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ka nuna mini falala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ka nuna mini falala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "בך",
+      "gloss": "a cikin⟨kai⟩"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "ta ɓoye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rai"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "kuma a cikin inuwar"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "fuka-fukank"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "⟨ina⟩ neman mafaka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "su wuce"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ruƙbin nan"
+    }
+  ],
+  "timestamp": "2026-08-12T19:53:04.872564913Z",
+  "model": "glm-5.2"
+}

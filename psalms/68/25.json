@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 68,
+  "translation": "Sun ga tafiye-tafiyenka, Elohim; tafiye-tafiyen El-ina, sarkina, cikin tsarki.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Sun ga"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "tafiye-tafiyenka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "tafiye-tafiye"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-ina"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sarkina"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "cikin tsarki"
+    }
+  ],
+  "timestamp": "2026-08-12T20:02:34.717598203Z",
+  "model": "glm-5.2"
+}

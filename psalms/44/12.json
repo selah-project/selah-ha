@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Ka ba mu kamar tumaki ⟨don⟩ a ci, kuma ka watsa mu cikin al'ummomi.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "Ka ba mu"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kamar tumaki"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "⟨don⟩ a ci"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "kuma cikin al'ummomi"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "ka watsa mu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:44:18.941362925Z",
+  "model": "glm-5.2"
+}

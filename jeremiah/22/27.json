@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 22:27",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Da ⟨ga⟩ ƙasar da suke ɗauke ⟨da⟩ ⟨את⟩ rai-su don komo ⟨can⟩, ⟨can⟩ ba za su koma ba.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "da ⟨ga⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הם",
+      "gloss": "su"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "ke ɗauke ⟨da⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rai-su"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "rai-su"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "don komo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨can⟩"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "⟨can⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "za su koma"
+    }
+  ],
+  "timestamp": "2026-08-12T15:33:55.072475048Z",
+  "model": "glm-5.2"
+}

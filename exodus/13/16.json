@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 13:16",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma za ⟨ya kasance⟩ alama a hannu ka, da kuma guntan-guntan tsakani idanuwa ka, domin da ƙarfin hannu Yahweh ya fitar da mu daga Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kuma za ⟨ya kasance⟩"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "alama"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "ידכה",
+      "gloss": "hannu ka"
+    },
+    {
+      "surface": "ולטוטפת",
+      "gloss": "da kuma guntan-guntan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakani"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "idanuwa ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "da ƙarfin"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hannu"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "ya fitar da mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "daga Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:46:30.421419993Z",
+  "model": "glm-5.2"
+}

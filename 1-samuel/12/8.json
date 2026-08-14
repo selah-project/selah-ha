@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Lokacin da Ya'aqov ya shiga Mitsrayim, kuma iyanku suka kururu wa Yahweh, sai Yahweh ya aiko ⟨את⟩ Mosheh da ⟨את⟩ Aharon, kuma suka fitar da ⟨את⟩ iyanku daga Mitsrayim, kuma suka zaunar da su a wannan wuri.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Lokacin da"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ya shiga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqov"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "kuma suka kururu"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "iyanku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "sai ya aiko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "kuma suka fitar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyanku"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "iyanku"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "daga Mitsrayim"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "kuma suka zaunar da su"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "a wuri"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-12T08:53:32.663650968Z",
+  "model": "glm-5.2"
+}

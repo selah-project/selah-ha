@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "A kanka ne na jefa ⟨kai⟩, daga cikin uwa; daga ciki na uwa ta, El na, Kai ne.",
+  "tokens": [
+    {
+      "surface": "עָ֭לֶיךָ",
+      "gloss": "A kanka"
+    },
+    {
+      "surface": "הָשְׁלַ֣כְתִּי",
+      "gloss": "ne na jefa"
+    },
+    {
+      "surface": "מֵרָ֑חֶם",
+      "gloss": "daga cikin uwa"
+    },
+    {
+      "surface": "מִבֶּ֥טֶן",
+      "gloss": "daga ciki"
+    },
+    {
+      "surface": "אִ֝מִּ֗י",
+      "gloss": "na uwa ta"
+    },
+    {
+      "surface": "אֵ֣לִי",
+      "gloss": "El na"
+    },
+    {
+      "surface": "אָֽתָּה",
+      "gloss": "Kai ne"
+    }
+  ],
+  "timestamp": "2026-08-12T19:26:20.245552624Z",
+  "model": "glm-5.2"
+}

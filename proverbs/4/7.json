@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 4:7",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Farkon hikima ⟨ne⟩ — sama hikima, kuma a cikin dukkan dukiyar ka, sama fahimta.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "farkon"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikima"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "sama"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikima"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "kuma a cikin dukkan"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "dukiyar ka"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "sama"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "fahimta"
+    }
+  ],
+  "timestamp": "2026-08-12T21:04:08.738299060Z",
+  "model": "glm-5.2"
+}

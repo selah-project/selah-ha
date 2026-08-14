@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma sarki na Bavel ya yi musu duka, ⟨את⟩ su, ya kashe su a Riblah, a ƙasar Hamat; kuma Yahuda aka gudanar da shi a gudun hijira daga ƙasarsa.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ya yi musu duka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "ya kashe su"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "a Riblah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "aka gudanar da shi a gudun hijira"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "daga"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "ƙasarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:51:56.757149365Z",
+  "model": "glm-5.2"
+}

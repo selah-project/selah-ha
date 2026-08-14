@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 9:9",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "kuma 'yan'uwansu, bisa zuriyarsu, ɗari tara da hamsin da shida; duk waɗannan mutane shugabanni ne na iyaye, ga gidajen iyayensu.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "kuma 'yan'uwansu"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "bisa zuriyarsu"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "tara"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "kuma hamsin"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "da shida"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "shugabanni"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "na iyaye"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ga gidajen"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "iyayensu"
+    }
+  ],
+  "timestamp": "2026-08-13T00:07:02.415142435Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Ku ce wa 'yan'uwanku, 'Mutana na,' kuma ku ce wa 'yan'uwalku mata, 'An nuna mini rahama.'",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ku ce"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "wa 'yan'uwanku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Mutana na"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "kuma ku ce wa 'yan'uwalku mata"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "An nuna mini rahama"
+    }
+  ],
+  "timestamp": "2026-08-12T18:14:05.575543551Z",
+  "model": "glm-5.2"
+}

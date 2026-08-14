@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Dattijai na majalisar za su dora hannayensu ⟨אֵת⟩ a kan kan sauron shanu, a gaban Yahweh; kuma a yanka ⟨אֵת⟩ sauron shanu a gaban Yahweh.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "za su dora"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "Dattijai na"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "majalisar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨אֵת⟩",
+      "marks": "hannayensu"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hannayensu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sauron shanu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "Kuma a yanka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨אֵת⟩",
+      "marks": "sauron shanu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sauron shanu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:49:44.020966791Z",
+  "model": "glm-5.2"
+}

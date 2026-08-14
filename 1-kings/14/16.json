@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma zai mika ⟨את⟩ Yisra'el, saboda zunubban Yarobeam da ya yi zunubi, kuma wadda ya sa Yisra'el su yi zunubi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Kuma zai mika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "zunubban"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ya yi zunubi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kuma wadda"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ya sa...su yi zunubi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T11:27:34.964635454Z",
+  "model": "glm-5.2"
+}

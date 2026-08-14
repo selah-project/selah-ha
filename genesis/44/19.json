@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Ubangijina ya tambaye ⟨את⟩ bayinsa, yana cewa, Shin akwai muku uba ko ɗan'uwa?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Ubangijina"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ya tambaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayinsa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bayinsa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "היש",
+      "gloss": "Shin akwai"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "muku"
+    },
+    {
+      "surface": "אב",
+      "gloss": "uba"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ɗan'uwa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:19:07.195557738Z",
+  "model": "glm-5.2"
+}

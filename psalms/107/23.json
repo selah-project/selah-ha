@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Masu sauka ⟨zuwa⟩ teku a cikin jirãgi, masu aikin kasuwanci a cikin ruwa mai yawa —",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "masu sauka"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨zuwa⟩ teku"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "a cikin jirãgi"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "masu aikin"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "kasuwanci"
+    },
+    {
+      "surface": "במים",
+      "gloss": "a cikin ruwa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mai yawa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:32:55.895400148Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma idan kuka ce: Me za mu ci a shekara ta bakwai? ga shi, ba za mu shuka ba, kuma ba za mu tara ⟨את⟩ amfanin gona mu ba.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "kuka ce"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Me"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "za mu ci"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "a shekara"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "ta bakwai"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "za mu shuka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "za mu tara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amfanin gona mu"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "amfanin gona mu"
+    }
+  ],
+  "timestamp": "2026-08-12T02:53:37.392928747Z",
+  "model": "glm-5.2"
+}

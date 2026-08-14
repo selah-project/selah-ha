@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma bayansa Ibsan na BetLehem ya yi shari'ar ⟨את⟩ Isra'il.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Kuma ya yi shari'ar"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "bayansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isra'il"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'il"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibsan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "na Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    }
+  ],
+  "timestamp": "2026-08-13T01:58:36.855336576Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 12:16",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Haka kuwa yanzu, ku tsaya kuma ku ga wannan babban abin da Yahweh yake yi a gaban idanunku.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Haka kuwa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "ku tsaya"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "kuma ku ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan babban abin"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "abin"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "babban"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yake yi"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "a gaban idanunku"
+    }
+  ],
+  "timestamp": "2026-08-12T08:52:01.441723147Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Yahweh ya watse su ⟨את⟩ daga can a kan fadin dukkan ƙasa, kuma suka daina gina birnin.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "Kuma ya watse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ su",
+      "marks": "su"
+    },
+    {
+      "surface": "משם",
+      "gloss": "daga can"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fadin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "kuma suka daina"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "gina"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "birnin"
+    }
+  ],
+  "timestamp": "2026-08-11T23:30:13.997411285Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Sai Dawida ya nemi ⟨את⟩ Elohim saboda ⟨don⟩ yaron, kuma Dawida ya azumi, kuma ya shiga ya barci, kuma ya kwanta a ƙasa.",
+  "tokens": [
+    {
+      "surface": "וַיְבַקֵּ֥שׁ",
+      "gloss": "Sai ya nemi"
+    },
+    {
+      "surface": "דָּוִ֛ד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "הָאֱלֹהִ֖ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בְּעַ֣ד",
+      "gloss": "saboda ⟨don⟩"
+    },
+    {
+      "surface": "הַנָּ֑עַר",
+      "gloss": "yaron"
+    },
+    {
+      "surface": "וַיָּ֤צָם",
+      "gloss": "kuma ya azumi"
+    },
+    {
+      "surface": "דָּוִד֙",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "צ֔וֹם",
+      "gloss": "azumi"
+    },
+    {
+      "surface": "וּבָ֥א",
+      "gloss": "kuma ya shiga"
+    },
+    {
+      "surface": "וְלָ֖ן",
+      "gloss": "ya barci"
+    },
+    {
+      "surface": "וְשָׁכַ֥ב",
+      "gloss": "kuma ya kwanta"
+    },
+    {
+      "surface": "אָֽרְצָה",
+      "gloss": "a ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-13T23:42:05.214535672Z",
+  "model": "glm-5.2"
+}

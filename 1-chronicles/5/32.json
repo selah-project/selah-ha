@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Uzi ya haifa ⟨את⟩ Zerachyah, Zerachyah ya haifa ⟨את⟩ Merayot.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "Uzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerachyah"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerachyah"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "Zerachyah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merayot"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merayot"
+    }
+  ],
+  "timestamp": "2026-08-13T00:00:24.226240211Z",
+  "model": "glm-5.2"
+}

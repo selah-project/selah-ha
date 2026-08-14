@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Mosheh ya tura ⟨a baya⟩ surukinsa, sai ya tafi ⟨da kansa⟩ zuwa ƙasarsa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kuma ya tura"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "surukinsa"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "surukinsa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "sai ya tafi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨da kansa⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ƙasarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:53:07.256274090Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Kuma Sheƙem ɗan Hamor ɗan Haƙƙai, shugaban ƙasar, ya ga ⟨את⟩ ta, ya kuma take ⟨את⟩ ta, ya kwanta da ⟨את⟩ ta, kuma ya zalunci ta.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "kuma ya ga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ta"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sheƙem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ɗan Haƙƙai"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ya kuma take"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ta"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "ya kwanta da"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ta"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "kuma ya zalunci ta"
+    }
+  ],
+  "timestamp": "2026-08-12T00:06:23.266352457Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma kuka shayar da ⟨את⟩ masu naziri giya, kuma ga masu annabci kuka umarta, da cewa, Kada ku annabci.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "Kuma kuka shayar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masu naziri"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "masu naziri"
+    },
+    {
+      "surface": "יין",
+      "gloss": "giya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kuma ga"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "masu annabci"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "kuka umarta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "da cewa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "ku annabci"
+    }
+  ],
+  "timestamp": "2026-08-12T18:22:43.021325347Z",
+  "model": "glm-5.2"
+}

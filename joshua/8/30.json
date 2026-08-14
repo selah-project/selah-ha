@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 8:30",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Sa'an nan Yehoshua ya gina daka don Yahweh, Elohim na Isra'ela, a Dutsen Eval.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Sa'an nan"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ya gina"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "daka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "don Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ela"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a Dutsen"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eval"
+    }
+  ],
+  "timestamp": "2026-08-12T06:22:46.096429903Z",
+  "model": "glm-5.2"
+}

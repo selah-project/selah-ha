@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "sa'an nan Yahweh, Elohim naka, zai mayar da ⟨את⟩ dawo da fursunonin ka, kuma zai yi ka rahama, kuma Ya koma, kuma Ya tara ka daga dukkan al'ummomin da Yahweh, Elohim naka, ya watse ka can,",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "zai mayar da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dawo da fursunonin ka"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "dawo da fursunonin ka"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "kuma zai yi ka rahama"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "kuma Ya koma"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "kuma Ya tara ka"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "daga dukkan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "al'ummomin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "ya watse ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "can"
+    }
+  ],
+  "timestamp": "2026-08-12T05:53:26.244987564Z",
+  "model": "glm-5.2"
+}

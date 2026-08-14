@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma ya tsayar da dabara ga Ba'al a cikin ginshiƙin ha-Ba'al, wanda ya gina a Shomeron.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Kuma ya tsayar da"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dabara"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ga Ba'al"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a cikin ginshiƙin"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ha-Ba'al"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ya gina"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "a Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-12T11:30:32.681171428Z",
+  "model": "glm-5.2"
+}

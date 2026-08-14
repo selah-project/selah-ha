@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Da ⟨את⟩ gadajen koren da ke kewaye, da ⟨את⟩ gadajen ƙofar koren, da ⟨את⟩ dukkan ƙwamfocin Tantanar, da ⟨את⟩ dukkan ƙwamfocin koren da ke kewaye.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Da ⟨את⟩",
+      "marks": "gadajen koren"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "gadajen"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "koren"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "da ke kewaye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "gadajen ƙofar koren"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "gadajen"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ƙofar"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "koren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukkan ƙwamfocin Tantanar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "ƙwamfocin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Tantanar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukkan ƙwamfocin koren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "ƙwamfocin"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "koren"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "da ke kewaye"
+    }
+  ],
+  "timestamp": "2026-08-12T01:33:46.534436403Z",
+  "model": "glm-5.2"
+}

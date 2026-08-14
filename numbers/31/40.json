@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 31:40",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Kuma rai mutum dubu goma sha shida, kuma harajinsu na Yahweh ya kasance ⟨ne⟩ talatin da biyu rai.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Kuma rai"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "shida"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sha"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dubu goma"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "kuma harajinsu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "da talatin"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rai"
+    }
+  ],
+  "timestamp": "2026-08-12T04:36:05.299644485Z",
+  "model": "glm-5.2"
+}

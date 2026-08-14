@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Na manne ⟨da⟩ shaidarka, Yahweh, kada ka bani kunya.",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "na manne"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "⟨da⟩ shaidarka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "ka bani kunya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:42:01.630768734Z",
+  "model": "glm-5.2"
+}

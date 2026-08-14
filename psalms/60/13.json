@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 60,
+  "translation": "Ka ba mu taimako daga matsananciyar ⟨damuwa⟩; kuma taimakon ɗan adam ⟨shĩ⟩ abu ne mai banza.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Ka ba"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "taimako"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "daga matsananciyar ⟨damuwa⟩"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "kuma ⟨shĩ⟩ abu ne mai banza"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "taimakon"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ɗan adam"
+    }
+  ],
+  "timestamp": "2026-08-12T19:54:08.089783058Z",
+  "model": "glm-5.2"
+}

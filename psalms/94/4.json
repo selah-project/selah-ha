@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 94,
+  "translation": "Suna yin magana ⟨ta⟩ tauri, suna faɗa manyan kalaman; duk masu aikata mugunta suna girman kai.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "Suna yin magana"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "suna faɗa"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "⟨ta⟩ tauri"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "sun girman kai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "masu aikata"
+    },
+    {
+      "surface": "און",
+      "gloss": "mugunta"
+    }
+  ],
+  "timestamp": "2026-08-12T20:22:45.752832847Z",
+  "model": "glm-5.2"
+}

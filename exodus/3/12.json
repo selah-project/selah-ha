@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ⟨Ya⟩ ce, cewa Ni zan kasance tare da kai; kuma wannan ⟨ne⟩ alama a gare ka, cewa Ni ne Na aiko ka: idan ka fitar ⟨את⟩ mutãnen daga Mitsrayim, ku bauta wa ⟨את⟩ Elohim a kan wannan dutsen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ⟨Ya⟩ ce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ni zan kasance"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tare da kai"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "kuma wannan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a gare ka"
+    },
+    {
+      "surface": "האות",
+      "gloss": "alama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "Na aiko ka"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "idan ka fitar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutãnen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "daga Mitsrayim"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "ku bauta wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dutsen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-12T00:33:58.529502278Z",
+  "model": "glm-5.2"
+}

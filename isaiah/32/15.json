@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "har a zuba ruhun daga mahalli a mu, kuma jeji ya zama wajen noman itãcen dabino, kuma noman itãcen dabino ya zama a ƙidaya a matsayin dãji.",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "har"
+    },
+    {
+      "surface": "יֵעָרֶה",
+      "gloss": "a zuba"
+    },
+    {
+      "surface": "עָלֵינוּ",
+      "gloss": "a mu"
+    },
+    {
+      "surface": "רוּחַ",
+      "gloss": "ruhun"
+    },
+    {
+      "surface": "מִמָּרוֹם",
+      "gloss": "daga mahalli"
+    },
+    {
+      "surface": "וְהָיָה",
+      "gloss": "kuma ya zama"
+    },
+    {
+      "surface": "מִדְבָּר",
+      "gloss": "jeji"
+    },
+    {
+      "surface": "לַכַּרְמֶל",
+      "gloss": "wajen noman itãcen dabino"
+    },
+    {
+      "surface": "וְכַרְמֶל",
+      "gloss": "kuma noman itãcen dabino"
+    },
+    {
+      "surface": "לַיַּעַר",
+      "gloss": "a matsayin dãji"
+    },
+    {
+      "surface": "יֵחָשֵׁב",
+      "gloss": "ya zama a ƙidaya"
+    }
+  ],
+  "timestamp": "2026-08-12T13:42:12.972359637Z",
+  "model": "glm-5.2"
+}

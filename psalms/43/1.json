@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Ka yi min shari'a, Elohim, ka kuma yi ƙararrakin ƙararrakina, daga al'umma ba ta gaskiya, daga mutum na zagi da laifi, ⟨ce⟩ ka 'yanto ni.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Ka yi min shari'a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "ka kuma yi ƙararraki"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ƙararrakina"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "daga al'umma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ta gaskiya"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "daga mutum"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "na zagi"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "da laifi"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "ka 'yanto ni"
+    }
+  ],
+  "timestamp": "2026-08-13T02:24:59.761404318Z",
+  "model": "glm-5.2"
+}

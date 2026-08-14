@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma na ƙi ⟨את⟩ rai, domin aikin da ake yi a karkashin rana wani cuta ne a gare ni; domin duka ⟨su⟩ iska ne mara amfani da kuma neman iska.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "kuma na ƙi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rai"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "rai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "cuta"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a gare ni"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "da ake yi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a karkashin"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "iska ce mara amfani"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "da neman"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "iska"
+    }
+  ],
+  "timestamp": "2026-08-12T22:43:21.165209671Z",
+  "model": "glm-5.2"
+}

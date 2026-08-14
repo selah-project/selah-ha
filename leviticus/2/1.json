@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 2:1",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma rai idan ya kusatta ⟨da⟩ qorban na mincha domin Yahweh, gari ⟨ne⟩ qorban sa; kuma ya zuba a kanta man shanu, kuma ya saka a kanta linzami.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Kuma rai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "idan"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "ya kusatta"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "⟨da⟩ qorban"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "na mincha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "domin Yahweh"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "gari"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "qorban sa"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "kuma ya zuba"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "a kanta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "man shanu"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "kuma ya saka"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "a kanta"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "linzami"
+    }
+  ],
+  "timestamp": "2026-08-12T01:45:53.897612933Z",
+  "model": "glm-5.2"
+}

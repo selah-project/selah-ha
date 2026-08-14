@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma ʿAtalyah ta ji ⟨את⟩ muryar ⟨na⟩ masu gudu, ⟨na⟩ mutãnen, kuma ta zo zuwa ga mutãnen, a cikin Bēt Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "kuma ta ji"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "ʿAtalyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muryar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "masu gudu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "kuma ta zo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a cikin Bēt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T12:19:39.609846476Z",
+  "model": "glm-5.2"
+}

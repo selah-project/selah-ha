@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma na aika ⟨את⟩ Moshe da ⟨את⟩ Aharon, kuma na yi wa Mitsrayim duka kamar yadda na yi a cikinsa, kuma daga baya na fitar da ⟨את⟩ ku.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "kuma na aika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "kuma na yi wa duka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "na yi"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "a cikinsa"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "kuma daga baya"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "na fitar da"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    }
+  ],
+  "timestamp": "2026-08-12T07:10:11.991508412Z",
+  "model": "glm-5.2"
+}

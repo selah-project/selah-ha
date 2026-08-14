@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 19:9",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma ruhu mai mugunta daga Yahweh ya kasance ⟨a kan⟩ Sha'ul, kuma shi yana zaune a cikin gidansa, kuma mashi yana cikin hannunsa, kuma Dawuda yana wasa da hannu.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mai mugunta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a kan⟩"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kuma shi"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "a cikin gidansa"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "yana zaune"
+    },
+    {
+      "surface": "וחניתו",
+      "gloss": "kuma mishinsa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "a cikin hannunsa"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "kuma Dawuda"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "yana wasa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "da hannu"
+    }
+  ],
+  "timestamp": "2026-08-12T09:15:09.172667730Z",
+  "model": "glm-5.2"
+}

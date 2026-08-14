@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "kuma Yahweh bai ba ku zuciya ⟨don⟩ sani da idanu ⟨don⟩ gani da kunnuwa ⟨don⟩ sauraro har zuwa wannan rana.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciya"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "don sani"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "da idanu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "don gani"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "da kunnuwa"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "don sauraro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "wannan rana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-12T05:48:11.013472410Z",
+  "model": "glm-5.2"
+}

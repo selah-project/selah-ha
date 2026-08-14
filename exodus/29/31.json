@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma ⟨את⟩ ramin naɗawa za ka riƙe, kuma za ka tafasa ⟨את⟩ nisansa a wuri mai tsarki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Kuma ⟨את⟩",
+      "marks": "ramin naɗawa"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ramin"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "naɗawa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "za ka riƙe"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "kuma za ka tafasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nisansa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nisansa"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "a wuri"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mai tsarki"
+    }
+  ],
+  "timestamp": "2026-08-13T01:48:15.587988244Z",
+  "model": "glm-5.2"
+}

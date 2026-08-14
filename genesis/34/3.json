@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Kuma rãyar sa ta dinga da Dinah ɗiyar Ya'aƙub; ya ƙaunaci ⟨את⟩ 'yar matashar, kuma ya yi magana a kan zuciyar ⟨dan matashar⟩.",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "kuma ta dinga"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "rãyar sa"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "da Dinah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɗiyar"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aƙub"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "ya ƙaunaci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'yar matashar"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "'yar matashar"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "kuma ya yi magana"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciyar"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "⟨dan matashar⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T00:06:23.266503875Z",
+  "model": "glm-5.2"
+}

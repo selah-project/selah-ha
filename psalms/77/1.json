@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 77,
+  "translation": "Ga ⟨babu⟩ shugaban kiɗa, akan Yedutun; ga Asaf, mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ga shugaban kiɗa"
+    },
+    {
+      "surface": "על",
+      "gloss": "akan"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ga Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:38.555659502Z",
+  "model": "glm-5.2"
+}

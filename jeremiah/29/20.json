@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Sai ku, ku saurari kalmar Yahweh, dukkan ku waɗanda aka kora ⟨suko⟩ gudun hijira wadanda na aika daga Yerushalima zuwa Bavel.",
+  "tokens": [
+    {
+      "surface": "וְאַתֶּ֖ם",
+      "gloss": "Sai ku"
+    },
+    {
+      "surface": "שִׁמְע֣וּ",
+      "gloss": "ku saurari"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "kalmar"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הַ֨גּוֹלָ֔ה",
+      "gloss": "waɗanda aka kora gudun hijira"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wadanda"
+    },
+    {
+      "surface": "שִׁלַּ֥חְתִּי",
+      "gloss": "na aika"
+    },
+    {
+      "surface": "מִירוּשָׁלִַ֖ם",
+      "gloss": "daga Yerushalima"
+    },
+    {
+      "surface": "בָּבֶֽלָה",
+      "gloss": "zuwa Bavel"
+    }
+  ],
+  "timestamp": "2026-08-12T15:55:04.765204724Z",
+  "model": "glm-5.2"
+}

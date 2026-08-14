@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Mai tunani, adalci, ⟨yana duba⟩ gidan mugaye — yana rushe mugaye zuwa mugunta.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "mai tunani"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "adalci"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨yana duba⟩ gidan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mugaye"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "yana rushe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mugaye"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "zuwa mugunta"
+    }
+  ],
+  "timestamp": "2026-08-12T21:22:09.469107975Z",
+  "model": "glm-5.2"
+}

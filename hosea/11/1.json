@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Dāmin Yisra'el ⟨ne⟩ yaro, kuma naā shi, kuma daga Mitsrayim na kira ɗãna.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "dāmin"
+    },
+    {
+      "surface": "נַעַר",
+      "gloss": "yaro"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "kuma naā shi"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "kuma daga Mitsrayim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "na kira"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ɗãna"
+    }
+  ],
+  "timestamp": "2026-08-13T02:20:34.684569837Z",
+  "model": "glm-5.2"
+}

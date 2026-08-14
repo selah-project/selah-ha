@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma na tsara wa can wuri ⟨ga⟩ akwatin alƙawarin Yahweh, wanda Yahweh ya ɗaura tare da ubanninmu, a lokacin da Ya fitar da ⟨את⟩ su daga ƙasar Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "kuma na tsara"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "wuri"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "⟨ga⟩ akwatin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "cikinsa"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alƙawarin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ya ɗaura"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ubanninmu"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "a lokacin da Ya fitar da"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T11:08:02.060515041Z",
+  "model": "glm-5.2"
+}

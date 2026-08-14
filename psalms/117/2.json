@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 117,
+  "translation": "Dõmin chesedɗinsa ya ɗaukaka a kan mu, kuma gaskiyar Yahweh ⟨ta kasance⟩ har abadã, faɗi Yah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dõmin"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ya ɗaukaka"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "a kan mu"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesedɗinsa"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "kuma gaskiyar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abadã"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "faɗi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-12T20:38:25.008336589Z",
+  "model": "glm-5.2"
+}

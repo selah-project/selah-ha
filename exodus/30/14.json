@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 30:14",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Duk wanda ya wuce a cikin waɗanda aka ƙidaya, daga ɗan shekara ashirin ⟨ya haura⟩, ya bada gudumawar Yahweh.",
+  "tokens": [
+    {
+      "surface": "כֹּ֗ל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "הָעֹבֵר֙",
+      "gloss": "wanda ya wuce"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a cikin"
+    },
+    {
+      "surface": "הַפְּקֻדִ֔ים",
+      "gloss": "waɗanda aka ƙidaya"
+    },
+    {
+      "surface": "מִבֶּ֛ן",
+      "gloss": "daga ɗan"
+    },
+    {
+      "surface": "עֶשְׂרִ֥ים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "שָׁנָ֖ה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "וָמָ֑עְלָה",
+      "gloss": "ya haura"
+    },
+    {
+      "surface": "יִתֵּ֖ן",
+      "gloss": "ya bada"
+    },
+    {
+      "surface": "תְּרוּמַ֥ת",
+      "gloss": "gudumawar"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:19:50.636811628Z",
+  "model": "glm-5.2"
+}

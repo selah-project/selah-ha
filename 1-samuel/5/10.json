@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 5:10",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma suka aiko da ⟨את⟩ akwatin Elohim zuwa Ekron. Kuma ⟨ya kasance⟩ a shigar akwatin Elohim Ekron, sai mutanen Ekron suka yi kuka, suka cēa, \"Sun kai mini ⟨את⟩ akwatin Elohim na Isra'ila don kashe ni da ⟨את⟩ mutana!\"",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Kuma suka aiko da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "zuwa Ekron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ⟨ya kasance⟩"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "a shigar"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "sai suka yi kuka"
+    },
+    {
+      "surface": "העקרנים",
+      "gloss": "mutanen Ekron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "suka cēa"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "Sun kai"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "na Isra'ila"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "don kashe ni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "mutana"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mutana"
+    }
+  ],
+  "timestamp": "2026-08-13T02:00:13.259958623Z",
+  "model": "glm-5.2"
+}

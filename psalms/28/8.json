@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Yahweh shi ne ƙarfi ⟨a gare⟩ su, kuma kwanton ƙarfi na cigaban shafansa shi ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ƙarfi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨a gare⟩ su"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "kuma kwanton ƙarfi"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "na cigaba"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "shafansa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:32:25.916776180Z",
+  "model": "glm-5.2"
+}

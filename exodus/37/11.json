@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma ya rufe ⟨shi⟩ da zinariya madauƙakiya, kuma ya yi wa ⟨shi⟩ rawanin zinariya a kewaye.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "kuma ya rufe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨shi⟩",
+      "marks": "teburin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinariya"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "madauƙakiya"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wa shi"
+    },
+    {
+      "surface": "זר",
+      "gloss": "rawanin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinariya"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewaye"
+    }
+  ],
+  "timestamp": "2026-08-12T01:33:21.465299283Z",
+  "model": "glm-5.2"
+}

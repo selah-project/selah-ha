@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 102,
+  "translation": "⟨Ya⟩ juya zuwa ga addu'ar ⟨wanda aka⟩ wulakanta, kuma bai wulakanta ⟨את⟩ addu'arsu ba.",
+  "tokens": [
+    {
+      "surface": "פָּ֭נָה",
+      "gloss": "⟨Ya⟩ juya"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "תְּפִלַּ֣ת",
+      "gloss": "addu'ar"
+    },
+    {
+      "surface": "הָעַרְעָ֑ר",
+      "gloss": "⟨wanda aka⟩ wulakanta"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "kuma bai"
+    },
+    {
+      "surface": "בָ֝זָ֗ה",
+      "gloss": "wulakanta"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "addu'arsu"
+    },
+    {
+      "surface": "תְּפִלָּתָֽם",
+      "gloss": "addu'arsu ⟨ba⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:25:22.506170863Z",
+  "model": "glm-5.2"
+}

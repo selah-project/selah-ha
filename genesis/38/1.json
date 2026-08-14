@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Kuma ⟨ya faru⟩ a lokacin nan, Yehuda ya sauko daga ⟨taron⟩ 'yan'uwansa, ya jingina har zuwa wajen wani mutum, ɗan ƙasar Adullam, kuma sunansa Hirah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya faru"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "a lokacin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nan"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ya sauko"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "'yan'uwansa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "'yan'uwansa"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ya jingina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wajen wani mutum"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "ɗan ƙasar Adullam"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "kuma sunansa"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "Hirah"
+    }
+  ],
+  "timestamp": "2026-08-12T00:10:12.827457717Z",
+  "model": "glm-5.2"
+}

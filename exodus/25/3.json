@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma wannan ⟨ce⟩gudumawar da ku riƙe daga ⟨את⟩su: zinari, da azurfa, da ƙarfe",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Kuma wannan"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "gudumawar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ku riƙe"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "daga ⟨את⟩su",
+      "marks": "daga ⟨את⟩su"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinari"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "da azurfa"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "da ƙarfe"
+    }
+  ],
+  "timestamp": "2026-08-12T01:09:35.752994627Z",
+  "model": "glm-5.2"
+}

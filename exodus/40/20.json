@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ya ɗauka, ya saka ⟨את⟩ shaidar cikin akwatin, kuma ya dora ⟨את⟩ sandunan a kan akwatin, kuma ya saka ⟨את⟩ kâforet a kan akwatin, daga sama.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Kuma ya ɗauka"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ya saka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shaidar"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "shaidar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kuma ya dora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ sandunan",
+      "marks": "sandunan"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "sandunan"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kuma ya saka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kâforet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kâforet"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "daga sama"
+    }
+  ],
+  "timestamp": "2026-08-12T01:43:45.363011805Z",
+  "model": "glm-5.2"
+}

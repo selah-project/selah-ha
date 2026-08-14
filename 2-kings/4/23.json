@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 4:23",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Sai ⟨mijin⟩ ya ce: \"Don me za ka tafi zuwa gare shi yau? Babu sabon wata, kuma babu Shabbat.\" Sai ta ce: \"Aminci.\"",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֗אמֶר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "מַ֠דּוּעַ",
+      "gloss": "don me"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "za ka tafi"
+    },
+    {
+      "surface": "אֵלָיו֙",
+      "gloss": "zuwa gare shi"
+    },
+    {
+      "surface": "הַיּ֔וֹם",
+      "gloss": "yau"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "babu"
+    },
+    {
+      "surface": "חֹ֖דֶשׁ",
+      "gloss": "sabon wata"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "שַׁבָּ֑ת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "וַתֹּ֖אמֶר",
+      "gloss": "ta ce"
+    },
+    {
+      "surface": "שָׁלֽוֹם",
+      "gloss": "aminci"
+    }
+  ],
+  "timestamp": "2026-08-12T11:59:28.733993878Z",
+  "model": "glm-5.2"
+}

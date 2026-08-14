@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Sai ya shāfa bakīna, kuma ya ce: \"Ga, wannan nan ya shāfa lebbānka, kuma laifinka ya tafi, kuma zunubankā an rufe shī.\"",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "Sai ya shāfa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bakīna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ga"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ya shāfa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "lebbānka"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "kuma ya tafi"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "laifinka"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "kuma zunubankā"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "an rufe shī"
+    }
+  ],
+  "timestamp": "2026-08-12T13:06:14.898356582Z",
+  "model": "glm-5.2"
+}

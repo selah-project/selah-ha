@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Daɗi da mugun nufi ⟨na⟩ adalci, amma Yahweh yana ɗaukarsa daga duka su.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "Daɗi"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "mugun nufi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "adalci"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "amma daga duka su"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "yana ɗaukarsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T19:35:30.032867377Z",
+  "model": "glm-5.2"
+}

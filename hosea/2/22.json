@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma zan ɗaure ka ⟨aure⟩ da ni cikin aminci, kuma za ka san ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "kuma zan ɗaure ka aure"
+    },
+    {
+      "surface": "לי",
+      "gloss": "da ni"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "cikin aminci"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "kuma za ka san"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T18:10:56.667819007Z",
+  "model": "glm-5.2"
+}

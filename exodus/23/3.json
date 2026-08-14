@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma miskini, kada ka girmama ⟨shi⟩ a cikin rigimarsa.",
+  "tokens": [
+    {
+      "surface": "וְדָל",
+      "gloss": "Kuma miskini"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "kada ka"
+    },
+    {
+      "surface": "תֶהְדַּר",
+      "gloss": "girmama"
+    },
+    {
+      "surface": "בְּרִיבֽוֹ",
+      "gloss": "a cikin rigimarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:02:58.644073380Z",
+  "model": "glm-5.2"
+}

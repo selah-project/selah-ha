@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 14:4",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma Ni zan ƙarfafa ⟨את⟩ zuciyar Farao, kuma zai bi su; kuma Ni zan nuna girma a cikin Farao da duk mashinansa, kuma Mitsrayim za su sani cewa Ni ne Yahweh.' Kuma suka yi haka.",
+  "tokens": [
+    {
+      "surface": "וחזקתי",
+      "gloss": "Kuma Ni zan ƙarfafa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuciyar Farao"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciyar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao,"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "kuma zai bi"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "su;"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "kuma Ni zan nuna girma"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "a cikin Farao"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "da duk"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "mashinansa,"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "kuma za su sani"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh.'"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "Kuma suka yi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka."
+    }
+  ],
+  "timestamp": "2026-08-12T00:50:43.321986799Z",
+  "model": "glm-5.2"
+}

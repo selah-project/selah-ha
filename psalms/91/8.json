@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 91,
+  "translation": "A'a, da idãnunka ne kawai za ka duba, kuma ladar masu zunubi za ka gani.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "a'a, kawai"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "da idãnunka"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "za ka duba"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "kuma ladar"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "masu zunubi"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "za ka gani"
+    }
+  ],
+  "timestamp": "2026-08-12T20:21:07.551177887Z",
+  "model": "glm-5.2"
+}

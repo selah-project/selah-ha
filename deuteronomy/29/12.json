@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "don ⟨ya⟩ tabbatar da ⟨את⟩ ka yau don zama masa mutane, kuma shi ⟨za⟩ kasance maka Elohim, kamar yadda ya faɗa maka, kuma kamar yadda ya rantse ga ubanninka, ga Avraham, ga Yitschaq, da ⟨ga⟩ Ya'aqov.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "don"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ya tabbatar da"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "לו",
+      "gloss": "don zama masa"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kuma shi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "za kasance"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "kuma kamar yadda"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ya rantse"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "ga ubanninka"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ga Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ga Yitschaq"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "da Ya'aqov"
+    }
+  ],
+  "timestamp": "2026-08-12T05:51:21.741318345Z",
+  "model": "glm-5.2"
+}

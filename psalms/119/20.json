@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "An fashe rānina don yunwa ⟨don⟩ hukuncinka a kowane lokaci.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "An fashe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rānina"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "don yunwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨domin⟩"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukuncinka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a kowane"
+    },
+    {
+      "surface": "עת",
+      "gloss": "lokaci"
+    }
+  ],
+  "timestamp": "2026-08-12T20:39:53.502857743Z",
+  "model": "glm-5.2"
+}

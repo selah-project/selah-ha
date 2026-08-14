@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 135,
+  "translation": "⟨Wanda⟩ ya doke al'ummai da yawa, ya kashe sarakuna masu ƙarfi.",
+  "tokens": [
+    {
+      "surface": "שֶֽׁ֭הִכָּה",
+      "gloss": "⟨Wanda⟩ ya doke"
+    },
+    {
+      "surface": "גּוֹיִ֣ם",
+      "gloss": "al'ummai"
+    },
+    {
+      "surface": "רַבִּ֑ים",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "וְ֝הָרַ֗ג",
+      "gloss": "ya kashe"
+    },
+    {
+      "surface": "מְלָכִ֥ים",
+      "gloss": "sarakuna"
+    },
+    {
+      "surface": "עֲצוּמִֽים",
+      "gloss": "masu ƙarfi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:50:36.041642492Z",
+  "model": "glm-5.2"
+}

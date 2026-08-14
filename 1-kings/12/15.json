@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 12:15",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma sarki bai saurãri mutãnen ba, dõmin rabõ ya kasance daga wurin Yahweh, dõmin ya tãku ⟨את⟩ maganarsa, wadda Yahweh ya faɗa ta hannun Ahiya ɗan Shilo, wa Yaroboam ɗan Nebat.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kuma ba"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "saurãri"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(saurãri)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "סבה",
+      "gloss": "rabõ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "daga wurin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ya tãku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maganarsa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "maganarsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wadda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ta hannun"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahiya"
+    },
+    {
+      "surface": "השילני",
+      "gloss": "ɗan Shilo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaroboam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebat"
+    }
+  ],
+  "timestamp": "2026-08-12T11:22:39.241534697Z",
+  "model": "glm-5.2"
+}

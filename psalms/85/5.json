@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 85,
+  "translation": "Mayar da mu, Elohim na tsirarmu, kuma ka soke fushinka ⟨a⟩ cikin mu.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Mayar da mu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "tsirarmu"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "kuma ka soke"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "fushinka"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "cikin mu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:15:20.280343086Z",
+  "model": "glm-5.2"
+}

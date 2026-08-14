@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 15:23",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Yana gudan zuwa neman abinci, ⟨yana cewa⟩ 'Ina yake?' ya sani cewa ranar duhu tana shiri a hannunsa.",
+  "tokens": [
+    {
+      "surface": "נדד",
+      "gloss": "Yana gudan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shī"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "zuwa neman abinci"
+    },
+    {
+      "surface": "איה",
+      "gloss": "'Ina yake?'"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ya sani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "tana shiri"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "a hannunsa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ranar"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duhu"
+    }
+  ],
+  "timestamp": "2026-08-12T21:52:36.481780598Z",
+  "model": "glm-5.2"
+}

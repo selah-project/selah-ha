@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma Avraham ya ce masa, Ka yi hankali kanku, ka juya ⟨את⟩ ɗana can ɗin ba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Ka yi hankali"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanku"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ka juya"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗana"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "can ɗin ba"
+    }
+  ],
+  "timestamp": "2026-08-11T23:45:05.463717644Z",
+  "model": "glm-5.2"
+}

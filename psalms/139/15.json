@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 139,
+  "translation": "Ba a ɓoye ⟨את⟩ jikina daga gare ka, wanda aka yi ni a asirce, an niƙa ni a ƙasashen duniya na ƙasa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "a ɓoye"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "jikina"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "daga gare ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "aka yi ni"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "a asirce"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "an niƙa ni"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "a ƙasashen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "duniya na ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:53:42.978665065Z",
+  "model": "glm-5.2"
+}

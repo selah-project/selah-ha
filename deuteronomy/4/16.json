@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 4:16",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "domin kada ku lalata ⟨kanku⟩, kuma ku yi ku siffa, kamar siffar kowane abin-misali, tsari na namiji ko mace.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "domin kada"
+    },
+    {
+      "surface": "תשחתון",
+      "gloss": "ku lalata"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "kuma ku yi ku"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "siffa"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "kamar siffar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "סמל",
+      "gloss": "abin-misali"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "tsari"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "na namiji"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "mace"
+    }
+  ],
+  "timestamp": "2026-08-12T04:58:54.223680339Z",
+  "model": "glm-5.2"
+}

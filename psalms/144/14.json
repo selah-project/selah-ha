@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 144,
+  "translation": "Shanmu suna ɗaukar kaya; babu hashewa, babu fita, kuma babu kururuwar agaji a fadin hanyoyinmu.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "shanmu"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "suna ɗaukar kaya"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "hashewa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "fita"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "kururuwar agaji"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "a fadin hanyoyinmu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:57:08.863530353Z",
+  "model": "glm-5.2"
+}

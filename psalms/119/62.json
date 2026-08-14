@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Da tsakar daren zan tashi in gode maka, saboda hukunce-hukuncen adalka.",
+  "tokens": [
+    {
+      "surface": "חֲצֽוֹת",
+      "gloss": "tsakar"
+    },
+    {
+      "surface": "לַ֗יְלָה",
+      "gloss": "daren"
+    },
+    {
+      "surface": "אָ֭קוּם",
+      "gloss": "zan tashi"
+    },
+    {
+      "surface": "לְהוֹד֣וֹת",
+      "gloss": "in gode"
+    },
+    {
+      "surface": "לָ֑ךְ",
+      "gloss": "maka"
+    },
+    {
+      "surface": "עַ֝֗ל",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "מִשְׁפְּטֵ֥י",
+      "gloss": "hukunce-hukuncen"
+    },
+    {
+      "surface": "צִדְקֶֽךָ",
+      "gloss": "adalka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:42:48.328290480Z",
+  "model": "glm-5.2"
+}

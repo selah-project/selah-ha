@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Amma a shekara ta bakwai shabbat shabbaton ⟨za a yi⟩ wa ƙasar, shabbat ga Yahweh; gonarka ba za ka shuka ba, kuma bōgonkā ba za ka girma ba.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Amma a shekara"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "ta bakwai"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "shabbaton"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨za a yi⟩"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "wa ƙasar"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "gonarka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "za ka shuka"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "kuma bōgonkā"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "za ka girma"
+    }
+  ],
+  "timestamp": "2026-08-12T02:57:08.903607880Z",
+  "model": "glm-5.2"
+}

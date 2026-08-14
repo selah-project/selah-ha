@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma Dãwũdã ya yi gõɗa ⟨את⟩ Yahweh a gaban idãnun duka taron, kuma Dãwũdã ya ce: \"An yi gõɗa Kai, Yahweh, Elohin Isra'ila, ubanmu, daga har abada har abada.\"",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "kuma ya yi gõɗa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dãwũdã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "a gaban idãnun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "taron"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dãwũdã"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "an yi gõɗa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ubanmu"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "daga har abada"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abada"
+    }
+  ],
+  "timestamp": "2026-08-13T00:36:41.360816877Z",
+  "model": "glm-5.2"
+}

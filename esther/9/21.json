@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "esther 9:21",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Don kafa ⟨a⟩ kansu, ⟨su⟩ kasance masu yin ⟨את⟩ rana ta goma sha huɗu ⟨na⟩ watan Adar, da ⟨את⟩ rana ta goma sha biyar cikinsa, a kowace shekara da shekara.",
+  "tokens": [
+    {
+      "surface": "לְקַיֵּם֮",
+      "gloss": "don kafa"
+    },
+    {
+      "surface": "עֲלֵיהֶם֒",
+      "gloss": "⟨a⟩ kansu"
+    },
+    {
+      "surface": "לִהְי֣וֹת",
+      "gloss": "⟨su⟩ kasance"
+    },
+    {
+      "surface": "עֹשִׂ֗ים",
+      "gloss": "masu yin"
+    },
+    {
+      "surface": "אֵ֠ת",
+      "gloss": "⟨את⟩",
+      "marks": "rana"
+    },
+    {
+      "surface": "י֣וֹם",
+      "gloss": "rana"
+    },
+    {
+      "surface": "אַרְבָּעָ֤ה",
+      "gloss": "huɗu"
+    },
+    {
+      "surface": "עָשָׂר֙",
+      "gloss": "goma sha"
+    },
+    {
+      "surface": "לְחֹ֣דֶשׁ",
+      "gloss": "⟨na⟩ watan"
+    },
+    {
+      "surface": "אֲדָ֔ר",
+      "gloss": "Adar"
+    },
+    {
+      "surface": "וְאֵ֛ת",
+      "gloss": "da ⟨את⟩",
+      "marks": "rana"
+    },
+    {
+      "surface": "יוֹם",
+      "gloss": "rana"
+    },
+    {
+      "surface": "חֲמִשָּׁ֥ה",
+      "gloss": "biyar"
+    },
+    {
+      "surface": "עָשָׂ֖ר",
+      "gloss": "goma sha"
+    },
+    {
+      "surface": "בּ֑וֹ",
+      "gloss": "cikinsa"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "a kowace"
+    },
+    {
+      "surface": "שָׁנָ֖ה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "וְשָׁנָֽה",
+      "gloss": "da shekara"
+    }
+  ],
+  "timestamp": "2026-08-12T22:59:12.399948301Z",
+  "model": "glm-5.2"
+}

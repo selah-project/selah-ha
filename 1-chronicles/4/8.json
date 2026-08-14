@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma Qots ya haifa ⟨את⟩ Anub da ⟨את⟩ HaTzovevah; da iyalan Acharchel ɗan Harum.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Kuma Qots"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anub"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "HaTzovevah"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "HaTzovevah"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "da iyalan"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Acharchel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Harum"
+    }
+  ],
+  "timestamp": "2026-08-12T23:58:34.915463638Z",
+  "model": "glm-5.2"
+}

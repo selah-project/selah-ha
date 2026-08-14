@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Yahweh ya ce wa Mosheh: \"Har yaushe kuke ƙin bin umarno da dokoki na?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Har"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "yaushe"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "kuke ƙin"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "bin"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "umurna"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "da dokoki na"
+    }
+  ],
+  "timestamp": "2026-08-12T00:51:25.199894701Z",
+  "model": "glm-5.2"
+}

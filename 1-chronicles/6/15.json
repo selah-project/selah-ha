@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Shimaʿ ɗan'sa, Chaggiya ɗan'sa, Asaya ɗan'sa.",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "Shimaʿ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗan'sa"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "Chaggiya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗan'sa"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Asaya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗan'sa"
+    }
+  ],
+  "timestamp": "2026-08-13T00:02:33.748826206Z",
+  "model": "glm-5.2"
+}

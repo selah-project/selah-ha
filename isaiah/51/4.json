@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 51,
+  "translation": "Ku saurare ni, mutanena, da kuma, kasanata, ku saurare ni; domin ṯorah ⟨ne⟩ daga gare ni za ta fita, kuma shari'ata ⟨ce⟩ zan sa ta zama haske ga al'ummai.",
+  "tokens": [
+    {
+      "surface": "הַקְשִׁיבוּ",
+      "gloss": "Ku saurare"
+    },
+    {
+      "surface": "אֵלַי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עַמִּי",
+      "gloss": "mutanena"
+    },
+    {
+      "surface": "וּלְאוֹמִּי",
+      "gloss": "da kuma, kasanata"
+    },
+    {
+      "surface": "אֵלַי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "הַאֲזִינוּ",
+      "gloss": "ku saurare"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "תוֹרָה",
+      "gloss": "ṯorah"
+    },
+    {
+      "surface": "מֵאִתִּי",
+      "gloss": "daga gare ⟨את⟩-ni",
+      "marks": "ṯorah"
+    },
+    {
+      "surface": "תֵצֵא",
+      "gloss": "za ta fita"
+    },
+    {
+      "surface": "וּמִשְׁפָּטִי",
+      "gloss": "kuma shari'ata"
+    },
+    {
+      "surface": "לְאוֹר",
+      "gloss": "⟨ce⟩ zan sa ta zama haske"
+    },
+    {
+      "surface": "עַמִּים",
+      "gloss": "ga al'ummai"
+    },
+    {
+      "surface": "אַרְגִּיעַ",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-14T00:19:35.832547649Z",
+  "model": "glm-5.2"
+}

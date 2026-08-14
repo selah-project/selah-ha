@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kada ka sanya su kamar tanda ta wuta a lõkatar fuskarka; Yahweh, a fushinsa zai hadiyar su, kuma wuta za ta cinye su.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "kada ka sanya su"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "kamar tanda ta"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "a lõkatar"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuskarka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "a fushinsa"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "zai hadiyar su"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "kuma za ta cinye su"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wuta"
+    }
+  ],
+  "timestamp": "2026-08-12T19:25:49.861086856Z",
+  "model": "glm-5.2"
+}

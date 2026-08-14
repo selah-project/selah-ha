@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Idan maciji ya tauna ⟨ba⟩ tare da sihiri, ⟨to⟩ babu wata amfani ga ⟨mai⟩ harshe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ya tauna"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "maciji"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "⟨ba⟩ tare da"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "sihiri"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "⟨to⟩ babu wata amfani"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "amfani"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ga ⟨mai⟩"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "harshe"
+    }
+  ],
+  "timestamp": "2026-08-12T22:44:35.226633157Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Dōmin nā tsāre hanyōyīn Yahweh, kuma bā nī yi mugun nufi ⟨a bāka⟩ daga Elohim nā.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dōmin"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "nā tsāre"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "hanyōyīn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma bā nī"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "yi mugun nufi"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "daga Elohim nā"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:35.470613079Z",
+  "model": "glm-5.2"
+}

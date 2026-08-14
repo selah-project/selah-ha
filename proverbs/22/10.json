@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kori izgili, kuma ⟨za a⟩ fitar da rigima; ⟨har⟩ da shari'a da raini za su daina.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "Kori"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "izgili"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "kuma za a fitar da"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "rigima"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "za su daina"
+    },
+    {
+      "surface": "דין",
+      "gloss": "shari'a"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "da raini"
+    }
+  ],
+  "timestamp": "2026-08-12T21:23:21.351108219Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma Aharon ya miƙa ⟨את⟩ hannunsa a kan ruwan Mitsrayim, kuma kwaɗayin sun hau, suka rufe ⟨את⟩ ƙasar Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Kuma ya miƙa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannunsa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hannunsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "kuma suka hau"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "kwaɗayin"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "suka rufe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:40:17.128430024Z",
+  "model": "glm-5.2"
+}

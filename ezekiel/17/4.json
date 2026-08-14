@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 17:4",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "ta tsāke ⟨את⟩ sakamin gābansa, ta ɗauko shī, ta kāwo shī zuwa ƙasar Kan'ān, ta sāmi shī a cikin birnin ḥanḥanī.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakamin gābansa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "gāba"
+    },
+    {
+      "surface": "יניקותיו",
+      "gloss": "sakamin"
+    },
+    {
+      "surface": "קטף",
+      "gloss": "ta tsāke"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "ta kāwo shī"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kan'ān"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a cikin birnin"
+    },
+    {
+      "surface": "רכלים",
+      "gloss": "ḥanḥanī"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ta sāmi shī"
+    }
+  ],
+  "timestamp": "2026-08-12T17:13:20.162378271Z",
+  "model": "glm-5.2"
+}

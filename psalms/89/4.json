@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Na yanke ⟨את⟩ alkawari ga wanda na zaɓa; na rantse ga Dawida, bāwāna.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "na yanke"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alkawari"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "ga wanda na zaɓa"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "na rantse"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ga Dawida"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bāwāna"
+    }
+  ],
+  "timestamp": "2026-08-12T20:17:54.379863827Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Ya ƙira ⟨את⟩ samarin sarakunan larduna, suka kasance dari biyu da talatin da biyu; kuma a bayansu ya ƙira ⟨את⟩ duka ⟨את⟩ jama'a, duka ya'yan Yisra'el, dubu bakwai.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "ya ƙira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samarin sarakunan larduna"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "samarin"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sarakunan"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "larduna"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "suka kasance"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dari biyu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "da biyu"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "da talatin"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "kuma a bayansu"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ya ƙira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka jama'a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "bakwai"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dubu"
+    }
+  ],
+  "timestamp": "2026-08-13T02:05:24.313145837Z",
+  "model": "glm-5.2"
+}

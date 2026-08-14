@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma ⟨ya⟩ ce, \"Yã Adonai, ina roƙonka, aika ta hannun wanda za ka aikata.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ⟨ya⟩ ce"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ina roƙonka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Yã Adonai"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "aika"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ina roƙonka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ta hannun"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "za ka aikata"
+    }
+  ],
+  "timestamp": "2026-08-12T00:34:50.225868654Z",
+  "model": "glm-5.2"
+}

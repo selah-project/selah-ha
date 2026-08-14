@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Za ka sanar da ni hanyar rayuwa; cikar murna ⟨ne⟩ a gaban ⟨את⟩ fuskarka; abubuwa masu daɗi a damanka har abada.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Za ka sanar da ni"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "rayuwa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "cikar"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "murna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuskarka"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "a gaban fuskarka"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "abubuwa masu daɗi"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "a damanka"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-12T19:21:08.711959791Z",
+  "model": "glm-5.2"
+}

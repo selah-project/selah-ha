@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 92,
+  "translation": "Idona za ta dubbē waɗanda ke tona min hanya; kunne na za su ji na masu aikata mugun nufin da ke tāka ĩƙāre a kaina.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "za ta dubbē"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "Idona"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "waɗanda ke tona min hanya"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "masu...da ke tāka ĩƙāre"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a kaina"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "aikata mugun nufin"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "za su ji"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "kunne na"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:29.091119134Z",
+  "model": "glm-5.2"
+}

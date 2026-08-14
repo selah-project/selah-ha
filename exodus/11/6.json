@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma za a ji great kururuwa a duk ƙasar Mitsrayim, wacce irinta ba ta kashe ba, kuma irinta ba za a ƙara ta ba.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "kuma za a ji"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "kururuwa"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "great"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wacce"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "irinta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "ta kashe"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "kuma irinta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba za a ƙara"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ta ba"
+    }
+  ],
+  "timestamp": "2026-08-12T00:42:32.078231076Z",
+  "model": "glm-5.2"
+}

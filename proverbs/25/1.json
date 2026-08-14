@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Wadannan kuma suke misalan Shelomah, waɗanda mutanen Chizkiyah, sarkin Yahudah, suka yiwa fassara.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wadannan"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "misalan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "suka yiwa fassara"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiyah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudah"
+    }
+  ],
+  "timestamp": "2026-08-12T21:30:01.903256577Z",
+  "model": "glm-5.2"
+}

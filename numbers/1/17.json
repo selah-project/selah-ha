@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma Mosheh da Aharon suka riƙi ⟨את⟩ ⟨waɗannan⟩ mutãnen da aka kayi musu sunã-bisa-suna.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Kuma suka riƙi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "da Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waɗannan mutãnen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "aka kayi musu sunã-bisa-suna"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "bisa sunã"
+    }
+  ],
+  "timestamp": "2026-08-12T03:10:00.932013774Z",
+  "model": "glm-5.2"
+}

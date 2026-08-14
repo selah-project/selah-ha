@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Har sai na zo, kuma na ɗauke ku ⟨את⟩ zuwa ƙasa kamar ƙasar ku, ƙasar hatsi da sabon ruwan inabi, ƙasar burodi da gonakin inabi.",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "har sai"
+    },
+    {
+      "surface": "בֹּאִ֕י",
+      "gloss": "na zo"
+    },
+    {
+      "surface": "וְלָקַחְתִּ֥י",
+      "gloss": "kuma na ɗauke"
+    },
+    {
+      "surface": "אֶתְכֶ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "ku"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "אֶ֣רֶץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "כְּאַרְצְכֶ֑ם",
+      "gloss": "kamar ƙasar ku"
+    },
+    {
+      "surface": "אֶ֤רֶץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "דָּגָן֙",
+      "gloss": "hatsi"
+    },
+    {
+      "surface": "וְתִיר֔וֹשׁ",
+      "gloss": "da sabon ruwan inabi"
+    },
+    {
+      "surface": "אֶ֥רֶץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "לֶ֖חֶם",
+      "gloss": "burodi"
+    },
+    {
+      "surface": "וּכְרָמִֽים",
+      "gloss": "da gonakin inabi"
+    }
+  ],
+  "timestamp": "2026-08-12T13:56:45.522129538Z",
+  "model": "glm-5.2"
+}

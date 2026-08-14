@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 125,
+  "translation": "Gama sandin mugunta ba zai huta a kan gwarwar masu adalci ba, domin masu adalci ba za su miƙa hannayensu ga zunubi ba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "zai huta"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sandin"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "mugunta"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "gwarwar"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "masu adalci"
+    },
+    {
+      "surface": "למען",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "za su miƙa"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "masu adalci"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "ga zunubi"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hannayensu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:50:18.364287446Z",
+  "model": "glm-5.2"
+}

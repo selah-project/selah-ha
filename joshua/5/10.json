@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma ɗiyan Yisra'el sun sansa a Gilgal, kuma suka yi ⟨את⟩ Pesach a cikin kwana goma sha huɗu na wata, da yamma, a cikin filayen Yeriho.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "Kuma suka sansa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "a Gilgal"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "kuma suka yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "a cikin huɗu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "goma sha"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "na wata"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "da yamma"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "a cikin filayen"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriho"
+    }
+  ],
+  "timestamp": "2026-08-12T06:18:02.498145253Z",
+  "model": "glm-5.2"
+}

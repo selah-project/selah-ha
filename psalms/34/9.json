@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Ku ɗanɗana ku kuma ku ga cewa Yahweh ⟨ne⟩ mai kyau; daɗi ⟨ga⟩ mutumin da yake neman mafaka a cikinsa.",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "ku ɗanɗana"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ku kuma ku ga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "daɗi"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "da yake neman mafaka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a cikinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:34:50.127392799Z",
+  "model": "glm-5.2"
+}

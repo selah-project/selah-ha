@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Adalci da shari'a ⟨su ne⟩ mazamin kujerar naka; chesed da gaskiya suka gabace fuskarka.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Adalci"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "da shari'a"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "mazamin"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "kujerar naka"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "da gaskiya"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "suka gabace"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuskarka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:16:02.576176905Z",
+  "model": "glm-5.2"
+}

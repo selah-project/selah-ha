@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma Dawuda ya aiko manzanni zuwa ga Ish-Boshet ɗan Shaul, yana cewa, \"Ka ba ni ⟨את⟩ matata ⟨את⟩ Mikal, wanda na yi wa ni alkawari da ita da gabbai ɗari na gudan fashistiyawa.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Kuma ya aiko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "manzanni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "-Boshet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Ka ba ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matata"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "matata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikal"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "na yi wa ni alkawari"
+    },
+    {
+      "surface": "לי",
+      "gloss": "da ita"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "da gabbai ɗari"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "na gudan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "fashistiyawa"
+    }
+  ],
+  "timestamp": "2026-08-12T09:49:29.390534868Z",
+  "model": "glm-5.2"
+}

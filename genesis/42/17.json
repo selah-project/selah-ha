@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Kuma ya tattara ⟨את⟩ su zuwa gidan yari, kwana uku.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Kuma ya tattara"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "gidan yari"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "uku"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwana"
+    }
+  ],
+  "timestamp": "2026-08-12T00:16:08.400022053Z",
+  "model": "glm-5.2"
+}

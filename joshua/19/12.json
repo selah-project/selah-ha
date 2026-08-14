@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 19:12",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma daga Sarid ta koma gabas, fitowar rana, akan iyakar Kislot-Tavor, kuma ta fita wajen Dabrat, kuma ta tashi Yafia.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "kuma ta koma"
+    },
+    {
+      "surface": "משריד",
+      "gloss": "daga Sarid"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "gabas"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "fitowar"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rana"
+    },
+    {
+      "surface": "על",
+      "gloss": "akan"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "iyakar"
+    },
+    {
+      "surface": "כסלת",
+      "gloss": "Kislot"
+    },
+    {
+      "surface": "תבר",
+      "gloss": "Tavor"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "kuma ta fita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wajen"
+    },
+    {
+      "surface": "הדברת",
+      "gloss": "Dabrat"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "kuma ta tashi"
+    },
+    {
+      "surface": "יפיע",
+      "gloss": "Yafia"
+    }
+  ],
+  "timestamp": "2026-08-12T06:53:05.110228100Z",
+  "model": "glm-5.2"
+}

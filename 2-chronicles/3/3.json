@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 3:3",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma waɗannan ⟨ne⟩ abin da Shelomah ya kafa don ya gina ⟨את⟩ gidan Elohim — tsawon ‹a ƙafa› bisa ma'aunin na farko ‹a ƙafa› sittin, faɗin kuma ‹a ƙafa› ashirin.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kuma waɗannan"
+    },
+    {
+      "surface": "הוסד",
+      "gloss": "ya kafa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "don ya gina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "הארך",
+      "gloss": "tsawon"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "a ƙafa"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "bisa ma'aunin"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "na farko"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "a ƙafa"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "sittin"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "faɗin kuma"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "a ƙafa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    }
+  ],
+  "timestamp": "2026-08-13T02:40:24.542825009Z",
+  "model": "glm-5.2"
+}

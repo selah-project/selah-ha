@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Ka tsare rana ta, kuma ka tsira da ni, kada in kunya, domin na nemi mafaka a gare ka.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "ka tsare"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rana ta"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "kuma ka tsira da ni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "in kunya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "na nemi mafaka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "a gare ka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:29:57.827015601Z",
+  "model": "glm-5.2"
+}

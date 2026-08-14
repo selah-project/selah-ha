@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma su kiyaye ⟨את⟩ aikin tsaronsa, da ⟨את⟩ aikin tsaron duka ⟨taron⟩, a gaban Tentin Taro, don yin ⟨את⟩ aikin Mazaunin;",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Kuma su kiyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aikin tsaronsa"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "aikin tsaronsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "aikin tsaron"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "aikin tsaron"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨taron⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tentin"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Taro"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "don yin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aikin"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mazaunin"
+    }
+  ],
+  "timestamp": "2026-08-12T03:18:35.940312276Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma ku sani cewa Yahweh ya rɓabe ⟨ne⟩ mai ibada ⟨nasa⟩; Yahweh zai saurara a kiranina zuwa gare ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "kuma ku sani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "ya rɓabe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "mai ibada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨nasa⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "zai saurara"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "a kiranina"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zuwa gare"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:29.015120724Z",
+  "model": "glm-5.2"
+}

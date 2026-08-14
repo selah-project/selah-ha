@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 48:15",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 48,
+  "translation": "Ni, ni ne na yi magana; haɗa da na kira shi, na kawo shi, kuma za a yi hanyarsa nasara.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "na yi magana"
+    },
+    {
+      "surface": "אף",
+      "gloss": "haɗa da"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "na kira shi"
+    },
+    {
+      "surface": "הביאתיו",
+      "gloss": "na kawo shi"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "za a yi nasara"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "hanyarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T14:17:39.965225120Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma Yahweh ya yi magana da Mosheh da ⟨da⟩ Aharon, ⟨yana cewa⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Kuma ya yi magana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "da ⟨da⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨yana cewa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T03:11:51.725698656Z",
+  "model": "glm-5.2"
+}

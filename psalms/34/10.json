@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Ku bi ⟨את⟩ Yahweh, ku tsarkakansa, domin babu komai da ya ranta wa masu jin tsoronsa.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "ku bi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "ku tsarkakansa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "komai da ya ranta"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "wa masu jin tsoronsa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:34:50.127677446Z",
+  "model": "glm-5.2"
+}

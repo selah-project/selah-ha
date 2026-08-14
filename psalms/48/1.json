@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 48,
+  "translation": "Waƙa, zimma, ga ɗiyen Korach.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Waƙa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zimma"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ga ɗiyen"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-12T19:48:01.099317395Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma Avímelekh ba ya kusance ta ba, ya kuma ce, \"Adonai, ⟨ko⟩ al'uma ma gaskiya ⟨kai⟩ za ka kashe?\"",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "kuma Avímelekh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ya kusance"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya kuma ce"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "al'uma"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "gaskiya"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "za ka kashe"
+    }
+  ],
+  "timestamp": "2026-08-11T23:43:28.004998789Z",
+  "model": "glm-5.2"
+}

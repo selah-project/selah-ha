@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Idan kana tafiya, matakan ka ba za su daɗe ba; kuma idan ka gudu, ba za ka buɗe ba.",
+  "tokens": [
+    {
+      "surface": "בְּֽ֭לֶכְתְּךָ",
+      "gloss": "idan kana tafiya"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יֵצַ֣ר",
+      "gloss": "za su daɗe"
+    },
+    {
+      "surface": "צַעֲדֶ֑ךָ",
+      "gloss": "matakan ka"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "תָּ֝ר֗וּץ",
+      "gloss": "ka gudu"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תִכָּשֵֽׁל",
+      "gloss": "za ka buɗe"
+    }
+  ],
+  "timestamp": "2026-08-12T21:01:55.913136049Z",
+  "model": "glm-5.2"
+}

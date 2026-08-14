@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma sarki na Babil ✦ya sanya ✦⟨את⟩ Matnanya kawunsa, a maimakonsa, kuma ya canza sunansa ✦⟨zuwa⟩ Tsidkiyahu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "kuma ya sartauka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Matnanya"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Matnanya"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "kawunsa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "a maimakonsa"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "kuma ya juya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunansa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    }
+  ],
+  "timestamp": "2026-08-12T12:50:09.377802069Z",
+  "model": "glm-5.2"
+}

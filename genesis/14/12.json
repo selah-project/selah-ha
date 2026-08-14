@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Suka riƙe ⟨את⟩ Lot da ⟨את⟩ dukiyarsa — ɗan ƙanannen Avram — suka tafi; alhali kuwa shi yana zaune a Sodom.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Suka riƙe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukiyarsa"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "dukiyarsa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ƙanannen"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "suka tafi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "alhali kuwa shi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yana zaune"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "a Sodom"
+    }
+  ],
+  "timestamp": "2026-08-11T23:30:53.263800444Z",
+  "model": "glm-5.2"
+}

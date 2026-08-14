@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Ni ne Yahweh, Elohim naka, wanda ya fitar da ka daga ƙasar Mitsrayim, daga gidan bauta.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "ya fitar da ka"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "daga gidan"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bauta"
+    }
+  ],
+  "timestamp": "2026-08-12T00:55:37.074390271Z",
+  "model": "glm-5.2"
+}

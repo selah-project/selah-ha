@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma Elohim ya baiwa ⟨את⟩ Daniel don chesed da don rahama a gaban shugaban ɓarayi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Kuma ya baiwa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "don chesed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "da don rahama"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "שר",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "ɓarayi"
+    }
+  ],
+  "timestamp": "2026-08-12T22:58:42.607798825Z",
+  "model": "glm-5.2"
+}

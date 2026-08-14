@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Bai tura baya ⟨ba⟩ ginshiƙin gizagizai yau da kullum, kuma ginshiƙin wutar da dare, daga gaban mutanen.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "Bai"
+    },
+    {
+      "surface": "יָמִ֞ישׁ",
+      "gloss": "tura baya"
+    },
+    {
+      "surface": "עַמּ֤וּד",
+      "gloss": "⟨ba⟩ ginshiƙin"
+    },
+    {
+      "surface": "הֶֽעָנָן֙",
+      "gloss": "gizagizai"
+    },
+    {
+      "surface": "יוֹמָ֔ם",
+      "gloss": "yau da kullum"
+    },
+    {
+      "surface": "וְעַמּ֥וּד",
+      "gloss": "kuma ginshiƙin"
+    },
+    {
+      "surface": "הָאֵ֖שׁ",
+      "gloss": "wutar"
+    },
+    {
+      "surface": "לָ֑יְלָה",
+      "gloss": "da dare"
+    },
+    {
+      "surface": "לִפְנֵ֖י",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "הָעָֽם",
+      "gloss": "mutanen"
+    }
+  ],
+  "timestamp": "2026-08-13T01:44:57.313406789Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 18:14",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma yanzu kai kana cewa, 'Ka tafi, ka faɗa wa ubangijinka cewa ga shi, Eliya yana nan,' — kuma zai kashe ni!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kuma yanzu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kana cewa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka tafi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka faɗa"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "wa ubangijinka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "kuma zai kashe ni"
+    }
+  ],
+  "timestamp": "2026-08-12T11:37:59.622243738Z",
+  "model": "glm-5.2"
+}

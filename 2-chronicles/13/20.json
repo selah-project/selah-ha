@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma Yarav'am bai sake dawo da ƙarfi a cikin kwanakin Aviya ba, kuma Yahweh ya buge shi, kuma ya mutu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kuma ba"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "dawo da"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ƙarfi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarav'am"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sake"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "a cikin kwanakin"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "Aviya"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "kuma ya buge shi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kuma ya mutu"
+    }
+  ],
+  "timestamp": "2026-08-13T02:46:00.717650934Z",
+  "model": "glm-5.2"
+}

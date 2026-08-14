@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "Nike sawa sama duhu, kuma nike saka saƙo a matsayin rufewarsu.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "Nike sawa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "duhu"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "kuma nike saka saƙo"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "nike saka"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "a matsayin rufewarsu"
+    }
+  ],
+  "timestamp": "2026-08-12T14:24:42.871423128Z",
+  "model": "glm-5.2"
+}

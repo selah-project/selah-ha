@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma ya aiko ⟨את⟩ Elyakim, wanda yake a kan ⟨ga⟩ gidan, da ⟨את⟩ Shevna mai rubutu, da ⟨את⟩ dattawan kohanim, suna rufe da gundura, zuwa ga Yeshayahu ben Amots annabi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kuma ya aiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "yake a kan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Shevna"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Shevna"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "mai rubutu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dattawan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "dattawan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohanim"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "suna rufe"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "da gundura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabi"
+    }
+  ],
+  "timestamp": "2026-08-12T13:59:49.813443998Z",
+  "model": "glm-5.2"
+}

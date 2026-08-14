@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 65,
+  "translation": "Kai ka yi ziyara ⟨ga⟩ ƙasa kuma ka shayar da ita; ka yawaita wadata; ⟨φ对流asa⟩ magudanar ruwa ta Elohim ta cika da ruwa. Kai ka shirya ⟨ga⟩ su hatsi, domin haka ka shirya ⟨ga⟩ ita.",
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "ka yi ziyara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "kuma ka shayar da ita"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "ka yawaita"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "wadata"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "magudanar ruwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ta cika"
+    },
+    {
+      "surface": "מים",
+      "gloss": "da ruwa"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "ka shirya"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "hatsin su"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "ka shirya"
+    }
+  ],
+  "timestamp": "2026-08-12T19:56:17.545726100Z",
+  "model": "glm-5.2"
+}

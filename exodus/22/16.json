@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Idan ubanta ya ƙi paki ƙi ba ta gabaɗaya, ya yi awo da azurfa a gwargwadon sadakin kurmai.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ya ƙi"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "ƙi"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ubanta"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "ba ta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gabaɗaya, ya"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "da azurfa"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "yi awo"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "a gwargwadon sadakin"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "kurmai"
+    }
+  ],
+  "timestamp": "2026-08-12T01:02:35.998713206Z",
+  "model": "glm-5.2"
+}

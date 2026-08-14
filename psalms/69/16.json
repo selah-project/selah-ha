@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Kada ambaliyar ruwa ta watsar ni, kuma kaka zurfin ya hadiye ni, kuma kaka rijiyar ta rufe bakinta akan ni.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "ta watsar ni"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "ambaliyar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma kaka"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "ya hadiye ni"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "zurfin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma kaka"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "ta rufe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bakinta akan ni"
+    },
+    {
+      "surface": "באר",
+      "gloss": "rijiyar"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "bakinta"
+    }
+  ],
+  "timestamp": "2026-08-12T20:00:00.110433726Z",
+  "model": "glm-5.2"
+}

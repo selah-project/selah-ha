@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Ya yi musu magana, \"Menene siffar mutumin da ya haura don haɗuwa da ku, ya kuma yi maka magana da waɗannan kalmomi?\"",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ya yi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Menene"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "siffar"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ya haura"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "don haɗuwa da ku"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ya kuma yi"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "maka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waɗannan kalmomi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kalmomi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    }
+  ],
+  "timestamp": "2026-08-12T11:53:47.210798502Z",
+  "model": "glm-5.2"
+}

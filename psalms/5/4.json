@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Yahweh, safiyin za ka ji muryata; safiyin zan shirya ⟨addu'ata⟩ ⟨domin⟩ gare⟨ka⟩, kuma zana tsammani.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "safiyin"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "za ka ji"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "muryata"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "safiyin"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "zan shirya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨domin⟩ gare⟨ka⟩"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "kuma zan tsammani"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:07.439496170Z",
+  "model": "glm-5.2"
+}

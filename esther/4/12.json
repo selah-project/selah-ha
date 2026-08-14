@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Sai suka faɗa wa Mordekai ⟨את⟩ kalamokin Ester.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "sai suka faɗa"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "wa Mordekai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalamokin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalamokin"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-08-12T22:51:43.609946162Z",
+  "model": "glm-5.2"
+}

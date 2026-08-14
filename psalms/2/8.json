@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "“Ka nemi daga gare ni, kuma zan baka ⟨את⟩ al'ummai gado, da ⟨את⟩ mallakarka ƙarshen ƙasa.”",
+  "tokens": [
+    {
+      "surface": "שְׁאַ֤ל",
+      "gloss": "ka nemi"
+    },
+    {
+      "surface": "מִמֶּ֗נִּי",
+      "gloss": "daga gare ni"
+    },
+    {
+      "surface": "וְאֶתְּנָ֣ה",
+      "gloss": "kuma zan baka"
+    },
+    {
+      "surface": "ג֭וֹיִם",
+      "gloss": "al'ummai",
+      "marks": "—"
+    },
+    {
+      "surface": "נַחֲלָתֶ֑ךָ",
+      "gloss": "gado"
+    },
+    {
+      "surface": "וַ֝אֲחֻזָּתְךָ֗",
+      "gloss": "da mallakarka"
+    },
+    {
+      "surface": "אַפְסֵי",
+      "gloss": "ƙarshen"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:22:44.596928764Z",
+  "model": "glm-5.2"
+}

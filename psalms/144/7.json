@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 144,
+  "translation": "Ka tura hannuwanka daga wuri mai tsayi, ka 'yantar da ni ka tsĩrar da ni daga ruwa mai yawa, daga hannun 'ya'yan baƙo.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ka tura"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "hannuwanka"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "daga wuri mai tsayi"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "ka 'yantar da ni"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ka tsĩrar da ni"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "daga ruwa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mai yawa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "baƙo"
+    }
+  ],
+  "timestamp": "2026-08-12T20:57:04.862292345Z",
+  "model": "glm-5.2"
+}

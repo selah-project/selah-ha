@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Suka kira ga Yahweh, suka ce: Mun yi laifi, domin mun barre ⟨את⟩ Yahweh, muka bauta wa ⟨את⟩ Ba'ali da ⟨את⟩ Ashtaroth; sai yanzu ka tsare mu daga hannun maƙiyanmu, mu kuma mu bauta maka.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Suka kira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Mun yi laifi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "mun barre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "muka bauta wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ba'ali"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Ba'ali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ashtaroth"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "Ashtaroth"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "sai yanzu"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "ka tsare mu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "maƙiyanmu"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "mu kuma mu bauta maka"
+    }
+  ],
+  "timestamp": "2026-08-12T08:57:19.850791250Z",
+  "model": "glm-5.2"
+}

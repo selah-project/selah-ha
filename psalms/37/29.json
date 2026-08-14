@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Masu adalci za su gaji ƙasa, kuma za su zauna a kai har abada.",
+  "tokens": [
+    {
+      "surface": "צַדִּיקִים",
+      "gloss": "masu adalci"
+    },
+    {
+      "surface": "יִירְשׁוּ",
+      "gloss": "za su gaji"
+    },
+    {
+      "surface": "אָרֶץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "וְיִשְׁכְּנוּ",
+      "gloss": "kuma za su zauna"
+    },
+    {
+      "surface": "לָעַד",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "עָלֶיהָ",
+      "gloss": "a kai"
+    }
+  ],
+  "timestamp": "2026-08-13T02:24:15.718761900Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Ku rera wa Yahweh, ku masĩfantanSa, kuma ku gõdi lãzuwar tsarkãnSa.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Ku rera wa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ku masĩfantanSa"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "kuma ku gõdi"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "lãzuwar"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "tsarkãnSa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:32:43.220466448Z",
+  "model": "glm-5.2"
+}

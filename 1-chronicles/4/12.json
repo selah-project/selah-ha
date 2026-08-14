@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma Eshƙon ya haifa ⟨את⟩ Bet-Rafa, da ⟨את⟩ Paseaƙ, da ⟨את⟩ Teƙinah uban Ir-Naƙash. Waɗannan ⟨ne⟩ mutanen Reƙah.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Kuma Eshƙon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Paseaƙ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseaƙ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Teƙinah"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Teƙinah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uban"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Naƙash"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Waɗannan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Reƙah"
+    }
+  ],
+  "timestamp": "2026-08-13T00:00:38.154496326Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Haka kuma, ga dukan kalmomin ⟨da⟩ suka faɗa, kada ka ba da zuciyarka, don kã ba ka ji ⟨את⟩ bāwarka yana la'anarka.",
+  "tokens": [
+    {
+      "surface": "גַּ֤ם",
+      "gloss": "Haka kuma"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "ga dukan"
+    },
+    {
+      "surface": "הַדְּבָרִים֙",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "יְדַבֵּ֔רוּ",
+      "gloss": "suka faɗa"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תִּתֵּ֖ן",
+      "gloss": "ka ba da"
+    },
+    {
+      "surface": "לִבֶּ֑ךָ",
+      "gloss": "zuciyarka"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "don"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תִשְׁמַ֥ע",
+      "gloss": "ka ji"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "bāwarka"
+    },
+    {
+      "surface": "עַבְדְּךָ֖",
+      "gloss": "bāwarka"
+    },
+    {
+      "surface": "מְקַלְלֶֽךָ",
+      "gloss": "yana la'anarka"
+    }
+  ],
+  "timestamp": "2026-08-12T22:46:21.400480360Z",
+  "model": "glm-5.2"
+}

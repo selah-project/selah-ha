@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Ba za ka yanka ⟨aldon⟩ alkawari dasu ba, kuma da Elohe su.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "תִכְרֹת",
+      "gloss": "za ka yanka"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "dasu"
+    },
+    {
+      "surface": "וְלֵאלֹהֵיהֶם",
+      "gloss": "kuma da Elohe su"
+    },
+    {
+      "surface": "בְּרִית",
+      "gloss": "alkawari"
+    }
+  ],
+  "timestamp": "2026-08-12T01:04:13.202836590Z",
+  "model": "glm-5.2"
+}

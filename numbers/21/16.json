@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 21:16",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma daga can zuwa Beer — shi ne rijiyar, wadda Yahweh ya ce wa Mosheh: Tara ⟨⟩ mutane, ni kuma zan ba su ruwa.",
+  "tokens": [
+    {
+      "surface": "וּמִשָּׁ֖ם",
+      "gloss": "Kumadagacan"
+    },
+    {
+      "surface": "בְּאֵ֑רָה",
+      "gloss": "zuwaBeer"
+    },
+    {
+      "surface": "הִ֣וא",
+      "gloss": "shine"
+    },
+    {
+      "surface": "הַבְּאֵ֗ר",
+      "gloss": "rijiyar"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "wadda"
+    },
+    {
+      "surface": "אָמַ֤ר",
+      "gloss": "yace"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לְמֹשֶׁ֔ה",
+      "gloss": "waMosheh"
+    },
+    {
+      "surface": "אֱסֹף֙",
+      "gloss": "Tara"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mutane"
+    },
+    {
+      "surface": "הָעָ֔ם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "וְאֶתְּנָ֥ה",
+      "gloss": "nikumaza"
+    },
+    {
+      "surface": "לָהֶ֖ם",
+      "gloss": "basu"
+    },
+    {
+      "surface": "מָֽיִם",
+      "gloss": "ruwa"
+    }
+  ],
+  "timestamp": "2026-08-12T04:15:17.725449143Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma jakadin Yahweh ya ce mata, \"Ni ina yawaita ⟨sai⟩ in yawaita ⟨את⟩ zuriyarka, kuma ba za a iya ƙididdige shi saboda yawansa ba.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mata"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "jakadin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ina yawaita"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "in yawaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuriyarka"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zuriyarka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "za a iya ƙididdige shi"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "saboda yawansa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:35:25.237513778Z",
+  "model": "glm-5.2"
+}

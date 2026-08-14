@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Ka saka farin ciki a cikin zuciyata, ⟨fiye da⟩ lokacin da hatsin su da giyansu suka yawaita.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "ka saka"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "farin ciki"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "a cikin zuciyata"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "lokacin"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "hatsin su"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "da giyansu"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "suka yawaita"
+    }
+  ],
+  "timestamp": "2026-08-12T19:14:33.278890310Z",
+  "model": "glm-5.2"
+}

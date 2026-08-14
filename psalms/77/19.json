@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 77,
+  "translation": "Muryar narbar sam'ina ⟨ce⟩ a cikin guguwa; walƙiya sun haskaka duniya; duniya ta girgiza, ⟨kuma⟩ ta taɓatar.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "murya"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "narbar sam'ina"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "a cikin guguwa"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "sun haskaka"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "walƙiya"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "duniya"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "ta girgiza"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "⟨kuma⟩ ta taɓatar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duniya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:07:28.891956618Z",
+  "model": "glm-5.2"
+}

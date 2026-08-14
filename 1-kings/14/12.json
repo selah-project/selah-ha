@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kai, tashi, ka tafi gidanka; idan ƙafafunka suka shigo birnin, yaron zai mutu",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "tashi"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ka tafi"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "gidanka"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "idan suka shigo"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "ƙafafunka"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "zai mutu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "yaron"
+    }
+  ],
+  "timestamp": "2026-08-13T02:04:50.918397327Z",
+  "model": "glm-5.2"
+}

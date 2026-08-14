@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 18:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Sai magudanan ruwa suka bayyana, kuma kafafun duniya suka bayyana, daga tsigewarSa, Yahweh, daga iskar hushenSa.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "suka bayyana"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "magudanan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "ויגלו",
+      "gloss": "kuma suka bayyana"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "kafafun"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "duniya"
+    },
+    {
+      "surface": "מגערתך",
+      "gloss": "daga tsigewarSa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "daga iskar"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hushen"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "Sa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:41.440752746Z",
+  "model": "glm-5.2"
+}

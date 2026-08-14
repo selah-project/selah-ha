@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 5:3",
+  "book": "zechariah",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Sai ya ce gare ni, \"Wannan ita ce la'anar da ke fita a kan fuskar duka ƙasar; domin kowane mai sāto daga wannan gefen, kamar wancan, za a tsabtace shi, kuma kowane mai rantsuwa daga wannan gefen, kamar wancan, za a tsabtace shi.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sai ya ce"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Wannan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la'anar"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "da ke fita"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowace"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "mai sāto"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "daga wannan gefen"
+    },
+    {
+      "surface": "כמוה",
+      "gloss": "kamar wancan"
+    },
+    {
+      "surface": "נקה",
+      "gloss": "za a tsabtace shi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma kowane"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "mai rantsuwa"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "daga wannan gefen"
+    },
+    {
+      "surface": "כמוה",
+      "gloss": "kamar wancan"
+    },
+    {
+      "surface": "נקה",
+      "gloss": "za a tsabtace shi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:04:18.817494569Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 2:20",
+  "book": "ruth",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Sai Na'omi ta ce wa ruhin-ɗamarta, An Albarkanta shi ⟨a wajen⟩ Yahweh, wanda ba ya barin chesed ⟨na⟩ sa, ⟨את⟩ ga masu-rahu da ⟨את⟩ ga matattu. Kuma Na'omi ta ce mata, Mutumin kusa da mu ne, ɗaya daga cikin masu-gõlalmu shi ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "וַתֹּאמֶר",
+      "gloss": "sai ta ce"
+    },
+    {
+      "surface": "נָעֳמִי",
+      "gloss": "Na'omi"
+    },
+    {
+      "surface": "לְכַלָּתָהּ",
+      "gloss": "wa ruhin-ɗamarta"
+    },
+    {
+      "surface": "בָּרוּךְ",
+      "gloss": "an Albarkanta"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "⟨a wajen⟩ Yahweh"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba ya"
+    },
+    {
+      "surface": "עָזַב",
+      "gloss": "barin"
+    },
+    {
+      "surface": "חַסְדּוֹ",
+      "gloss": "chesed ⟨na⟩ sa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ga masu-rahu"
+    },
+    {
+      "surface": "הַחַיִּים",
+      "gloss": "masu-rahu"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "ga matattu"
+    },
+    {
+      "surface": "הַמֵּתִים",
+      "gloss": "matattu"
+    },
+    {
+      "surface": "וַתֹּאמֶר",
+      "gloss": "kuma ta ce"
+    },
+    {
+      "surface": "לָהּ",
+      "gloss": "mata"
+    },
+    {
+      "surface": "נָעֳמִי",
+      "gloss": "Na'omi"
+    },
+    {
+      "surface": "קָרוֹב",
+      "gloss": "kusa"
+    },
+    {
+      "surface": "לָנוּ",
+      "gloss": "da mu"
+    },
+    {
+      "surface": "הָאִישׁ",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "מִגֹּאֲלֵנוּ",
+      "gloss": "ɗaya daga cikin masu-gõlalmu"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "shi ⟨ne⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T22:31:58.879094310Z",
+  "model": "glm-5.2"
+}

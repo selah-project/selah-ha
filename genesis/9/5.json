@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma lalle ⟨zuwa⟩ jinin ku, don rayukan ku, Ni ⟨ne⟩ zan nema; daga hannun duk wata dabbar rayewa zan nema ⟨shi⟩; kuma daga hannun ⟨mutum⟩, daga hannun mutum ɗan'uwansa, zan nema ⟨את⟩ rai na ⟨mutum⟩.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "kuma lalle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jinin ku"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "jinin ku"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "don rayukan ku"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "zan nema"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "wata dabbar rayewa"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "zan nema ⟨shi⟩"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "kuma daga hannun"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨mutum⟩"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ɗan'uwansa"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "zan nema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rai"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rai"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "na ⟨mutum⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T03:01:32.073444489Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma yanzu, sarki ku yi hikima; ku karɓiagma, ku masu shari'a na ƙasa.",
+  "tokens": [
+    {
+      "surface": "וְ֭עַתָּה",
+      "gloss": "Kuma yanzu"
+    },
+    {
+      "surface": "מְלָכִ֣ים",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "הַשְׂכִּ֑ילוּ",
+      "gloss": "ku yi hikima"
+    },
+    {
+      "surface": "הִ֝וָּסְר֗וּ",
+      "gloss": "ku karɓi ƙa'ida"
+    },
+    {
+      "surface": "שֹׁ֣פְטֵי",
+      "gloss": "ku masu shari'a"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "na ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:14:03.991658045Z",
+  "model": "glm-5.2"
+}

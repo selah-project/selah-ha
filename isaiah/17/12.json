@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 17:12",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Yā matāmā, jita-jita ne ta al'ummomi da yawa, suna yi kamar rawar tekuna, da kuma tashin ƙabilun kamar tashin ruwa mai yawa suna tashin!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Yā matāmā"
+    },
+    {
+      "surface": "המון",
+      "gloss": "jita-jita"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ta al'ummomi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "כהמות",
+      "gloss": "suna yi kamar rawar"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "tekuna"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "suna yi"
+    },
+    {
+      "surface": "ושאון",
+      "gloss": "da kuma tashin"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ƙabilun"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "kamar tashin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "mai yawa"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "suna tashin"
+    }
+  ],
+  "timestamp": "2026-08-12T13:22:23.889487576Z",
+  "model": "glm-5.2"
+}

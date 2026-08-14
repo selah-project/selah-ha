@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 73,
+  "translation": "Wãne ⟨ne⟩ a gare ni a cikin sama? Kuma tare da kai, ba na so ⟨wani⟩ a cikin ƙasa.",
+  "tokens": [
+    {
+      "surface": "מִי",
+      "gloss": "Wãne"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "a gare ni"
+    },
+    {
+      "surface": "בַשָּׁמָיִם",
+      "gloss": "a cikin sama"
+    },
+    {
+      "surface": "וְעִמְּךָ",
+      "gloss": "Kuma tare da kai"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "חָפַצְתִּי",
+      "gloss": "na so"
+    },
+    {
+      "surface": "בָאָרֶץ",
+      "gloss": "a cikin ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:07:48.757906517Z",
+  "model": "glm-5.2"
+}

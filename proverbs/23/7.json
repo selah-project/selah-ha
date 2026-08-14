@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "domin kamar yadda yake ƙidaya a cikin ransa, haka ⟨ne⟩ shi; 'ci ka sha,' zai faɗa minka, amma zuciyarsa ba tare da kai ba ⟨ce⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "שער",
+      "gloss": "yake ƙidaya"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "a cikin ransa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ci"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ka sha"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "zai faɗa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "minka"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "amma zuciyarsa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tare da kai"
+    }
+  ],
+  "timestamp": "2026-08-12T21:27:23.739813447Z",
+  "model": "glm-5.2"
+}

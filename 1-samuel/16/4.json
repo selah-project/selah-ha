@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma Shemu'el ya aiwatar da ⟨את⟩ abin da Yahweh ya faɗa, kuma ya zo Bet-Lehem; kuma dattijen ⟨na⟩ garin suka tsoro ⟨don⟩ tarɓe shi, kuma ya ce, \"Aminci ⟨tare⟩ da zuwarka.\"",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya aiwatar da"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kuma ya zo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "suka tsoro"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "dattijen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "garin"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "don tarɓe shi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Aminci"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "da zuwarka"
+    }
+  ],
+  "timestamp": "2026-08-12T09:08:28.991612615Z",
+  "model": "glm-5.2"
+}

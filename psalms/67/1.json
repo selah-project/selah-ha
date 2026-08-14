@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 67,
+  "translation": "Ga shugaban mawaka, da kayan kida. Zabura, waƙa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga shugaban mawaka"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "da kayan kida"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Zabura"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "waƙa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:58:15.078252474Z",
+  "model": "glm-5.2"
+}

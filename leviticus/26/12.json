@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 26:12",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma Zan tafi cikinku, kuma Zan zama ∀ku ∃Elohim, kuma ku za ku zama ∀ni ∃mutãne.",
+  "tokens": [
+    {
+      "surface": "והתהלכתי",
+      "gloss": "Kuma Zan tafi"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "cikinku"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "kuma Zan zama"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "∀ku"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "∃Elohim"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "kuma ku"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "za ku zama"
+    },
+    {
+      "surface": "לי",
+      "gloss": "∀ni"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "∃mutãne"
+    }
+  ],
+  "timestamp": "2026-08-12T02:57:54.646895064Z",
+  "model": "glm-5.2"
+}

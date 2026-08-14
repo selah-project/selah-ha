@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma ⟨ya faru⟩ a lokaacin da Shelomah ya kammala gina ⟨את⟩ gidan Yahweh da ⟨את⟩ gidan sarki, da ⟨את⟩ dukkan abin da Shelomah ya so wanda ya ji daɗi ya gudanar.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ⟨ya faru⟩"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "a lokaacin da ya kammala"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "gina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "gidan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukka"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "abin da ya so"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ya ji daɗi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ya gudanar"
+    }
+  ],
+  "timestamp": "2026-08-12T11:15:06.572533485Z",
+  "model": "glm-5.2"
+}

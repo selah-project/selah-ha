@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma shan babban ya ɗauka a kansa ⟨את⟩ dukan laifukansu zuwa ƙasar da aka ware, kuma ya aike ⟨את⟩ shan babban a cikin hamada.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "ya kuma ɗauka"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "shan babban"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukan laifukansu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "laifukansu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "da aka ware"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ya kuma aike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shan babban"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "shan babban"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a cikin hamada"
+    }
+  ],
+  "timestamp": "2026-08-12T02:33:01.638388942Z",
+  "model": "glm-5.2"
+}

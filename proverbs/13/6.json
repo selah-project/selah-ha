@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Adalci yana tsaron ⟨ta⟩ hanyar mutum marar laifi, amma mugunta yana rushe ⟨la⟩ zunubi.",
+  "tokens": [
+    {
+      "surface": "צְ֭דָקָה",
+      "gloss": "Adalci"
+    },
+    {
+      "surface": "תִּצֹּ֣ר",
+      "gloss": "yana tsaron"
+    },
+    {
+      "surface": "תָּם",
+      "gloss": "mutum marar laifi"
+    },
+    {
+      "surface": "דָּ֑רֶךְ",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "וְ֝רִשְׁעָ֗ה",
+      "gloss": "mugunta"
+    },
+    {
+      "surface": "תְּסַלֵּ֥ף",
+      "gloss": "yana rushe"
+    },
+    {
+      "surface": "חַטָּֽאת",
+      "gloss": "zunubi"
+    }
+  ],
+  "timestamp": "2026-08-12T21:13:59.548899136Z",
+  "model": "glm-5.2"
+}

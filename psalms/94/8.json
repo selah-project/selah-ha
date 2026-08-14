@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 94,
+  "translation": "Ku fahimci ku wādanda ba ku da hankali a cikin mutāne! Kuma ku wājē, yā kāne zā ku kasance masu hikima?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "ku fahimci"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "ku wādanda ba ku da hankali"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "a cikin mutāne"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "kuma ku wājē"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "yā kāne"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "zā ku kasance masu hikima"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:30.220312762Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Adalci, adalci ka bi, don ka rayu, ka gaji ⟨את⟩ ƙasar, da Yahweh Elohim naka ke bayar maka.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Adalci"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adalci"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ka bi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "don"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ka rayu"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "ka gaji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ke bayar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:18:57.722607472Z",
+  "model": "glm-5.2"
+}

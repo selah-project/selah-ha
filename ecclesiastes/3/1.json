@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Ga kome, lokaci, da kuma lokaci ga kowane buƙata a ƙarƙashin sama.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "ga kome"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "lokaci"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "da kuma lokaci"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ga kowane"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "buƙata"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a ƙarƙashin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    }
+  ],
+  "timestamp": "2026-08-12T22:42:57.762314813Z",
+  "model": "glm-5.2"
+}

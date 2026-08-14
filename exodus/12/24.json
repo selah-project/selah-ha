@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Ku kiyaye ⟨את⟩ wannan magana a matsayin ka'ida gare ku da ga ƴa'ƴanku har abadā.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ku kiyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan magana"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "magana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "a matsayin ka'ida"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gare ku"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "da ga ƴa'ƴanku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadā"
+    }
+  ],
+  "timestamp": "2026-08-12T00:45:19.787703257Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ta zo wa mahaifiyarta ta aure, sai ⟨ta⟩ ta ce: «Wa ke nan, 'ya ta?» Kuma ta faɗa mata ⟨את⟩ duk abin da wannan mutumin ya yi mata.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "kuma ta zo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "mahaifiyarta ta aure"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "sai ⟨ta⟩ ta ce"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "ke nan"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "'ya ta"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "kuma ta faɗa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duk abin da wannan mutumin ya yi mata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mata"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wannan mutumin"
+    }
+  ],
+  "timestamp": "2026-08-12T22:29:01.918490050Z",
+  "model": "glm-5.2"
+}

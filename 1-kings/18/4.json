@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma ⟨ya zo⟩ ya zama, a lokacin da Izevel ke yanke ⟨את⟩ annabawan Yahweh, Obadyahu ya ɗauki annabawa dari, kuma ya ɓoye su, hamsin mutum a cikin kogo, kuma ya ciyar da su gurashe da ruwa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ⟨ya zo⟩ ya zama"
+    },
+    {
+      "surface": "בהכרית",
+      "gloss": "a lokacin da ... ke yanke"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "annabawan"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "annabawan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "kuma ya ɗauki"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadyahu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "dari"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "annabawa"
+    },
+    {
+      "surface": "ויחביאם",
+      "gloss": "kuma ya ɓoye su"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "hamsin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "a cikin kogo"
+    },
+    {
+      "surface": "וכלכלם",
+      "gloss": "kuma ya ciyar da su"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "gurashe"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "da ruwa"
+    }
+  ],
+  "timestamp": "2026-08-12T11:36:37.578084749Z",
+  "model": "glm-5.2"
+}

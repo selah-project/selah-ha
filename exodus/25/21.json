@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma za ka saka ⟨את⟩ kuma za ka saka ⟨את⟩ shaidar da Ni ke bayarwa ⟨a⟩ gare ka.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Kuma za ka saka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rufin-kafara"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "rufin-kafara"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "daga sama"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma cikin"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "za ka saka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shaidar"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "shaidar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Ni ke bayarwa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gare ka"
+    }
+  ],
+  "timestamp": "2026-08-12T01:06:52.217776062Z",
+  "model": "glm-5.2"
+}

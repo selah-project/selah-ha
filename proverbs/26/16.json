@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 26:16",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Mai shagala yana ⟨da⟩ hikima a idanunSa fiye da mutane bakwai masu amsa da hankali.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "hikima"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "mai shagala"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "a idanunSa"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "fiye da bakwai"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "masu amsa"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "da hankali"
+    }
+  ],
+  "timestamp": "2026-08-12T21:30:18.617142286Z",
+  "model": "glm-5.2"
+}

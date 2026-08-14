@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma kohen ya yi musu ⟨את⟩, ɗaya zunubi, kuma ⟨ɗayan⟩ hadayar ƙonewa, kuma kohen ya yi fansa a gaban Yahweh, saboda zabinsa.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "kuma kohen ya yi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su (tattabarai\/bijimai)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": ""
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "zunubi"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "kuma ɗayan"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "hadayar ƙonewa"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kuma kohen ya yi fansa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": ""
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "saboda zabinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:30:31.422534440Z",
+  "model": "glm-5.2"
+}

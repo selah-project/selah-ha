@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 80,
+  "translation": "A gaban Efrayim da Binyamin da Manasse, ka tada ƙarfinka, ka zo ⟨don⟩ taimakon mu!",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "A gaban"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "da Binyamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "da Manasse"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "ka tada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙarfinka"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "ƙarfinka"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "ka zo"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "taimakon"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:12:44.168585104Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 47:31",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Kuma ya ce, \"Rantsu min.\" Kuma ya rantsa masa. Kuma Yisira'el ya yi litiƙa a kan kan gado.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "Rantsu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "Kuma ya rantsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "Kuma ya yi litiƙa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisira'el"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "gado"
+    }
+  ],
+  "timestamp": "2026-08-12T00:20:23.050752196Z",
+  "model": "glm-5.2"
+}

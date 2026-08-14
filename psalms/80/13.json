@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 80,
+  "translation": "Don me ka ware ganonsa, ⟨kuma⟩ duk masu wucewa hanya sun cinye ta?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "ka ware"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "ganonsa"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "⟨kuma⟩ sun cinye ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "masu wucewa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "hanya"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:52.270334476Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Yahweh ya yi wa ⟨את⟩ mutanen duka saboda ⟨את⟩ mumin da suka yi, wanda Aharon ya yi.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "ya yi wa duka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mumin"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "mumin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-12T01:23:11.748834601Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 23:16",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma bikin girbi, ⟨shi ne⟩ furos-tsaba na aikinka wanda ka shuka a cikin gona; da kuma bikin tattarawa a fitowar shekara, a lokacin da ka tattara ⟨את⟩ aikinka daga gona.",
+  "tokens": [
+    {
+      "surface": "וחג",
+      "gloss": "kuma bikin"
+    },
+    {
+      "surface": "הקציר",
+      "gloss": "na girbi"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "furos-tsaba"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "na aikinka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ka shuka"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a cikin gona"
+    },
+    {
+      "surface": "וחג",
+      "gloss": "da kuma bikin"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "na tattarawa"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "a fitowar"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "a lokacin da ka tattara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aikinka"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "aikinka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "gona"
+    }
+  ],
+  "timestamp": "2026-08-12T01:01:03.064532834Z",
+  "model": "glm-5.2"
+}

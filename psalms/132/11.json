@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 132,
+  "translation": "Yahweh ya rantsu da gaskiya ga Dawida, ba zai juya daga gare ta ba: 'Daga 'ya'yan cikinka, ni zan sa ⟨akan⟩ kujera ⟨ta⟩ mulki ⟨a madadinka⟩.'",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ya rantsu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ga Dawida"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "da gaskiya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "zai juya"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "daga gare ta"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "daga 'ya'yan"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "cikinka"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ni zan sa"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "⟨akan⟩ kujera ⟨ta⟩ mulki ⟨a madadinka⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-12T20:48:12.722576905Z",
+  "model": "glm-5.2"
+}

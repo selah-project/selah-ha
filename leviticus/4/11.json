@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Da ⟨את⟩ fatar safoon da ⟨את⟩ dukkan naman sa, a kan kan sa da a kan ƙafafun sa, da cikin sa da takun sa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Da ⟨את⟩",
+      "marks": "fatar"
+    },
+    {
+      "surface": "עור",
+      "gloss": "fatar"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "safoon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukka"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "naman sa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kan sa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da a kan"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "ƙafafun sa"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "da cikin sa"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "da takun sa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:49:20.074646075Z",
+  "model": "glm-5.2"
+}

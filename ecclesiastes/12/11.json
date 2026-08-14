@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 12:11",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kalmomin masu hikima sun kama da ƙugiya, kuma kamar tsoka da aka daka su ne na masu tarin tarin; an ba su daga makiɗi ɗaya.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "masu hikima"
+    },
+    {
+      "surface": "כדרבנות",
+      "gloss": "sun kama da ƙugiya"
+    },
+    {
+      "surface": "וכמשמרות",
+      "gloss": "kuma kamar tsoka"
+    },
+    {
+      "surface": "נטועים",
+      "gloss": "da aka daka"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "su ne na"
+    },
+    {
+      "surface": "אספות",
+      "gloss": "masu tarin tarin"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "an ba su"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "daga makiɗi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    }
+  ],
+  "timestamp": "2026-08-12T22:50:54.255260451Z",
+  "model": "glm-5.2"
+}

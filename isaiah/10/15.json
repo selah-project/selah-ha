@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 10:15",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Shin gatari yana girman kai a kan wanda ke yankan shi? ko saw yana ɗaukaka ⟨kan⟩ wanda ke motsa shi? kamar sanda da ke mirgina ⟨waɗanda⟩ suka ɗauka, ⟨kamar⟩ sandar da ke ɗaukaka ⟨kan wanda⟩ ba itace ba ⟨ne⟩!",
+  "tokens": [
+    {
+      "surface": "היתפאר",
+      "gloss": "yana girman kai"
+    },
+    {
+      "surface": "הגרזן",
+      "gloss": "gatari"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "החצב",
+      "gloss": "wanda ke yanka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יתגדל",
+      "gloss": "yana ɗaukaka"
+    },
+    {
+      "surface": "המשור",
+      "gloss": "saw"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨kan⟩"
+    },
+    {
+      "surface": "מניפו",
+      "gloss": "wanda ke motsa shi"
+    },
+    {
+      "surface": "כהניף",
+      "gloss": "kamar sanda da ke mirgina"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "⟨waɗanda⟩ suka ɗauka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "masu ɗaukaka shi"
+    },
+    {
+      "surface": "מרימיו",
+      "gloss": "masu ɗaukaka shi"
+    },
+    {
+      "surface": "כהרים",
+      "gloss": "⟨kamar⟩ sandar da ke ɗaukaka"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "itace"
+    }
+  ],
+  "timestamp": "2026-08-12T13:16:45.898194566Z",
+  "model": "glm-5.2"
+}

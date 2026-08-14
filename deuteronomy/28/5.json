@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "An albarkace kwaryarka da ƙwaryar gurinku ta yisti.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "an albarkace"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "kwaryarka"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "da ƙwaryar gurinku ta yisti"
+    }
+  ],
+  "timestamp": "2026-08-12T05:44:19.865582005Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma wa Avram ya kyautata saboda gare ta, kuma ya kasance a wajen sa akwai gawar tumaki da shanu da jakun daba da bayi da bayi mata da jakun gida da rakuma.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "kuma wa Avram"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "ya kyautata"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "saboda gare ta"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a wajen sa"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "gawar tumaki"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "da shanu"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "da jakun daba"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "da bayi"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "da bayi mata"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "da jakun gida"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "da rakuma"
+    }
+  ],
+  "timestamp": "2026-08-11T23:30:33.283621686Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Jiri ⟨a⟩ Yahweh; ƙarfafa kai, kuma ya ƙarfafa zuciyarka, kuma jiri ⟨a⟩ Yahweh!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Jiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ƙarfafa kai"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "kuma ya ƙarfaka"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "zuciyarka"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "kuma jiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:53.084086233Z",
+  "model": "glm-5.2"
+}

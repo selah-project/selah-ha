@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 35:2",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "⟨zai⟩ fure yadda yakamata ⟨ya⟩ fure, kuma za ta yi murna, eh, za ta yi murna gamsari kuma za ta rera waƙa; za a baiwa ⟨ita⟩ ɗaukakar Lebanon, kyawun Karmel da Sharon; su ⟨kansu⟩ za su ga ɗaukakar Yahweh, kyawun Elohim mu.",
+  "tokens": [
+    {
+      "surface": "פרח",
+      "gloss": "fure"
+    },
+    {
+      "surface": "תפרח",
+      "gloss": "zai fure"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "kuma za ta yi murna"
+    },
+    {
+      "surface": "אף",
+      "gloss": "eh"
+    },
+    {
+      "surface": "גילת",
+      "gloss": "za ta yi murna gamsari"
+    },
+    {
+      "surface": "ורנן",
+      "gloss": "kuma za ta rera waƙa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ɗaukakar"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebanon"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "za a ba"
+    },
+    {
+      "surface": "לה",
+      "gloss": "gare ita"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "kyawun"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "והשרון",
+      "gloss": "kuma Sharon"
+    },
+    {
+      "surface": "המה",
+      "gloss": "su kansu"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "za su ga"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ɗaukakar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "kyawun"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim mu"
+    }
+  ],
+  "timestamp": "2026-08-12T13:52:10.795196188Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 21:20",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Ya yi mugun ⟨abin⟩ a idanin Yahweh, kamar yadda Menashsheh ubansa ya yi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mugun"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubansa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:44:36.653856206Z",
+  "model": "glm-5.2"
+}

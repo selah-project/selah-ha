@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma ya kasance ⟨a matsayin⟩ adawa ga Yisra'ela duk kwanakin Shelomo, da ⟨kuma⟩ mugunta ⟨ce⟩ da Hadad ya yi; kuma ya ƙi Yisra'ela, kuma ya yi sarauta a kan Aram.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "adawa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ga Yisra'ela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mugunta"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mugunta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "kuma ya ƙi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisra'ela"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "kuma ya yi sarauta"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-12T11:24:05.623313823Z",
+  "model": "glm-5.2"
+}

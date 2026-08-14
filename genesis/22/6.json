@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma Avraham ya ɗauki ⟨את⟩ itacen kaffar ƙonewa, ya sa shi a wuyan Yitsḥak ɗansa; ya riƙe ⟨את⟩ wuta da ⟨את⟩ wukar yanka a hannunsa, kuma su biyun sun tafi tare.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Kuma ya ɗauki"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itacen kaffar ƙonewa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "itacen"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kaffar ƙonewa"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ya sa shi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a wuyan"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsḥak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗansa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ya riƙe"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "a hannunsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuta"
+    },
+    {
+      "surface": "האש",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "wukar yanka"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "wukar yanka"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "kuma sun tafi"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "su biyun"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tare"
+    }
+  ],
+  "timestamp": "2026-08-11T23:42:09.017630183Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "da kuma 'yar'uwarsa budurwa, wacce take kusa da shi, wadda ba ta kasance ⟨ga⟩ miji — don ita zai iya gurgunta.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "da kuma 'yar'uwarsa"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "budurwa"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "wacce take kusa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "da shi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wadda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ta kasance"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨ga⟩ miji"
+    },
+    {
+      "surface": "לה",
+      "gloss": "don ita"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "zai iya gurgunta"
+    }
+  ],
+  "timestamp": "2026-08-12T02:38:45.257024368Z",
+  "model": "glm-5.2"
+}

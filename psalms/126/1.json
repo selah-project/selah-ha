@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 126,
+  "translation": "Waƙa ta hawa. A lokacin da Yahweh ya mayar da ⟨את⟩ komawar Tsiyon, mun kasance kamar masu mafarki.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Waƙa"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ta hawa"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "A lokacin da ya mayar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "komawar"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "komawar"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "mun kasance"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "kamar masu mafarki"
+    }
+  ],
+  "timestamp": "2026-08-12T20:50:38.446790555Z",
+  "model": "glm-5.2"
+}

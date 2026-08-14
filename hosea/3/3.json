@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 3:3",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma na ce mata: «Kwanaki da yawa za ka zauna min, ba za ka yi zina ba, kuma ba za ka kasance ⟨ga⟩ wani mutum ba; kuma ni ma gare ki ⟨zan kasance⟩.»",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Kuma na ce"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "mata"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Kwanaki"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "za ka zauna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תזני",
+      "gloss": "za ka yi zina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "תהיי",
+      "gloss": "za ka kasance"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ga wani mutum"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kuma ni ma"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gare ki"
+    }
+  ],
+  "timestamp": "2026-08-12T18:13:00.125450385Z",
+  "model": "glm-5.2"
+}

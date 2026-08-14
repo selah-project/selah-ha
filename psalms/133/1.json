@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 133,
+  "translation": "Waƙar ⟨talahi⟩. Ga Dawuda. Ga, yã gõda yadda yake dãɗi, zama 'yan'uwa ⟨su kasance⟩ tare haɗe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Waƙar"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "⟨talahi⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Ga Dawuda"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yã"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gõda"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "yadda"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "yake dãɗi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "zama"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "'yan'uwa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tare"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "haɗe"
+    }
+  ],
+  "timestamp": "2026-08-12T20:50:20.868255606Z",
+  "model": "glm-5.2"
+}

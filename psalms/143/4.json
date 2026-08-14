@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 143,
+  "translation": "Ruhu ta gajiyã a kaina, zuciyata ta cikina ta firgita.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "ta gajiyã"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a kaina"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "Ruhu"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "ta cikina"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "ta firgita"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    }
+  ],
+  "timestamp": "2026-08-12T20:55:30.120041637Z",
+  "model": "glm-5.2"
+}

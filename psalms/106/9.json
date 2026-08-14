@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Kuma ya zagi ⟨a⟩ tekun Ṣuf, sai ya bushe, ya kai su cikin tsofaffin ruwa kamar cikin jeji.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "kuma ya zagi"
+    },
+    {
+      "surface": "בים",
+      "gloss": "⟨a⟩ tekun"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Ṣuf"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "sai ya bushe"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "ya kai su"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "cikin tsofaffin ruwa"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "kamar cikin jeji"
+    }
+  ],
+  "timestamp": "2026-08-12T20:31:40.171512092Z",
+  "model": "glm-5.2"
+}

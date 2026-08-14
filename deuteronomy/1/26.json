@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma ba ku son⟨su⟩ hawa ba, kuma kun ƙi ⟨את⟩ bakin Yahweh Elohim ku.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kuma ba"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "kun son"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "kuma kun ƙi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakin"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bakin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ku"
+    }
+  ],
+  "timestamp": "2026-08-12T04:53:57.486696572Z",
+  "model": "glm-5.2"
+}

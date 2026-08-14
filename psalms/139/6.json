@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 139,
+  "translation": "⟨Ta⟩ ban sha'awa⟨ce⟩ ilimin daga gare Ka, an ɗaukaka ⟨shi⟩, ba zan iya ⟨reshen⟩ ba.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "ban sha'awa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ilimin"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daga gare Ka"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "an ɗaukaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "zan iya"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨reshen⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:52:46.345498026Z",
+  "model": "glm-5.2"
+}

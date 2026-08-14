@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 11:17",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Eber ya rayu, bayan ya haifa ⟨את⟩ Peleg, shekaru talatin da ɗari huɗu, kuma ya haifa ƴaƴa maza da ƴaƴa mata.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Kuma ya rayu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "talatin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "da huɗu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "kuma ya haifa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ƴaƴa maza"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "da ƴaƴa mata"
+    }
+  ],
+  "timestamp": "2026-08-11T23:31:32.022975484Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Yahweh, dutsena, da katangata, kuma mai ceton ni, El na, dutsena, na gudu gare shi, garkuwata, da ƙaho na ceton ni, mahallata.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "dutsena"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "da katangata"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "kuma mai ceton ni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El na"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "dutsena"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "na gudu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "gare shi"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "garkuwata"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "da ƙaho"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "na ceton ni"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mahallata"
+    }
+  ],
+  "timestamp": "2026-08-12T19:22:54.294640312Z",
+  "model": "glm-5.2"
+}

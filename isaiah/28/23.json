@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 28:23",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Ku ba da kunne, kuma ku saurari muryata; ku dube da hankali, kuma ku saurari maganata.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "ku ba da kunne"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "kuma ku saurari"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "muryata"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "ku dube da hankali"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "kuma ku saurari"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "maganata"
+    }
+  ],
+  "timestamp": "2026-08-12T13:40:45.797337624Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Kuma Yosef ya ce: \"Ku kawo shanunku, kuma zan b ku ⟨da⟩ shaninku, idan kuɗi ya ƙare.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ku kawo"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "shanunku"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "kuma zan b"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "⟨da⟩ shaninku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "ya ƙare"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kuɗi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:22:50.531800032Z",
+  "model": "glm-5.2"
+}

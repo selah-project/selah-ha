@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 5:24",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma ya shayar ⟨את⟩ mace da ⟨את⟩ ruwan masu cinƙaci, waɗannan ruwayan masu guba, kuma sun shiga cikinta ruwayan masu guba don su zama masu cinƙaci.",
+  "tokens": [
+    {
+      "surface": "והשקה",
+      "gloss": "kuma ya shayar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mace"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruwan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "masu cinƙaci"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "masu guba"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "kuma sun shiga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "cikinta"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ruwayan"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "masu guba"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "don su zama masu cinƙaci"
+    }
+  ],
+  "timestamp": "2026-08-12T03:28:02.024012570Z",
+  "model": "glm-5.2"
+}

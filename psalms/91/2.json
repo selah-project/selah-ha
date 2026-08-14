@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 91,
+  "translation": "Ina faɗa wa Yahweh, \"Mafataka ne ⟨ce⟩ da kagara ta, Elohim na, a cikinsa nana dogara.\"",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ina faɗa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "Mafataka"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "da kagara ta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "nana dogara"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a cikinsa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:05.112782119Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma ya saka ⟨את⟩ ɗaya a Bet־El, kuma ⟨את⟩ ɗaya ya sa a Dan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Kuma ya saka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗaya"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bet־El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya sa"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "a Dan"
+    }
+  ],
+  "timestamp": "2026-08-12T11:22:15.414691911Z",
+  "model": "glm-5.2"
+}

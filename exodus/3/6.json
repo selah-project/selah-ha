@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 3:6",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ⟨ya ce⟩, ni ne Elohim na ubanka, Elohim na Avraham, Elohim na Yitschaq, kuma Elohim na Ya'aqov. Mosheh ya ɓoye fuskarsa, domin ya ji tsoron dubbawa ⟨a⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ubanka"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaq"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "kuma Elohim na"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqov"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "kuma ya ɓoye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuskarsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ya ji tsoron"
+    },
+    {
+      "surface": "מהביט",
+      "gloss": "dubbawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:30:35.616807689Z",
+  "model": "glm-5.2"
+}

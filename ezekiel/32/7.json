@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 32:7",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Kuma lokacin da nke kashe haskenka, zan rufe sama, kuma zan yi wa taurarinsu duhu; rana da girgije zan rufe ta, kuma wata ba zai haskaka haskensa ba.",
+  "tokens": [
+    {
+      "surface": "וכסיתי",
+      "gloss": "zan rufe"
+    },
+    {
+      "surface": "בכבותך",
+      "gloss": "lokacin da nke kashe haskenka"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "והקדרתי",
+      "gloss": "kuma zan yi wa duhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taurarin su"
+    },
+    {
+      "surface": "ככביהם",
+      "gloss": "taurarin su"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "rana"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "da girgije"
+    },
+    {
+      "surface": "אכסנו",
+      "gloss": "zan rufe ta"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "kuma wata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "zai haskaka"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "haskensa"
+    }
+  ],
+  "timestamp": "2026-08-12T17:38:19.560386426Z",
+  "model": "glm-5.2"
+}

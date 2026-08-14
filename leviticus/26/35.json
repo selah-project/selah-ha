@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Dukkan kwanakin da ta kasance fari za ta yi hutu, ⟨את⟩ abin da ba ta yi hutu ba a cikin Asabarinku, a lokacin da kuke zama a kai.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "da ta kasance fari"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "za ta yi hutu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin da ba ta yi hutu ba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "ta yi hutu"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "a cikin Asabarinku"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "a lokacin da kuke zama"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "a kai"
+    }
+  ],
+  "timestamp": "2026-08-12T03:01:11.051648965Z",
+  "model": "glm-5.2"
+}

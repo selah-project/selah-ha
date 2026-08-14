@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ⟨na⟩ sake gani a ƙarƙashin rãnã: a wurin shari'a, can ⟨akwai⟩ mugun-niyya; kuma a wurin adãlci, can ⟨akwai⟩ mugun-niyya.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "⟨na⟩ sake gani"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a ƙarƙashin"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rãnã"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "a wurin"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "shari'a"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "can"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "⟨akwai⟩ mugun-niyya"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "kuma a wurin"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "adãlci"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "can"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "⟨akwai⟩ mugun-niyya"
+    }
+  ],
+  "timestamp": "2026-08-12T22:42:46.705543694Z",
+  "model": "glm-5.2"
+}

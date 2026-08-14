@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Yahweh ya ɗora ⟨את⟩ maƙiyan Retsin a kansa, kuma ⟨את⟩ abokan gabaɓansa ya rufe su.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "ya ɗora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maƙiyan Retsin"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "maƙiyan"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "abokan gabaɓansa"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "abokan gabaɓansa"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "ya rufe su"
+    }
+  ],
+  "timestamp": "2026-08-12T13:11:33.607851860Z",
+  "model": "glm-5.2"
+}

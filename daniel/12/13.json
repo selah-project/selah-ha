@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kai kuma, ka tafi har zuwa ƙarshen, kuma za ka huta, kuma ka tsaya don rabonka, a ƙarshen kwanakin.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kai kuma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka tafi"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "har zuwa ƙarshen"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "kuma za ka huta"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "kuma ka tsaya"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "don rabonka"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "a ƙarshen"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "kwanakin"
+    }
+  ],
+  "timestamp": "2026-08-13T02:35:00.498958587Z",
+  "model": "glm-5.2"
+}

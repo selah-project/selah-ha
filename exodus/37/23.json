@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 37:23",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma ya yi ⟨את⟩ fitilu guda bakwai, da gatigansu, da tukunan wutar guga, zinariya tsarkakakkiya",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fitilu guda bakwai"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "fitilu"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "guda bakwai"
+    },
+    {
+      "surface": "ומלקחיה",
+      "gloss": "da gatigansu"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "da tukunan wutar guga"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinariya"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tsarkakakkiya"
+    }
+  ],
+  "timestamp": "2026-08-12T01:30:23.751919073Z",
+  "model": "glm-5.2"
+}

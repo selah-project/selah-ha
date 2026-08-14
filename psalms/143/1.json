@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 143,
+  "translation": "Waƙa ta Dawida. Yahweh, ka ji addu'ata, ka saƙa kunne zuwa gare ⟨roƙona⟩; a cikin amincewarka ka amsa ni, a cikin adalçinka.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "waƙa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ta Dawida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ka ji"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "addu'ata"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ka saƙa kunne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa gare"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "⟨roƙona⟩"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "a cikin amincewarka"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ka amsa ni"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "a cikin adalcinka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:55:30.119455821Z",
+  "model": "glm-5.2"
+}

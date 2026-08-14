@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 8:12",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Yayin da yake cikin furen sa, ba a yanka ba, ya busa gaban kowace ciya.",
+  "tokens": [
+    {
+      "surface": "עֹדֶנּוּ",
+      "gloss": "Yayin da yake"
+    },
+    {
+      "surface": "בְאִבּוֹ",
+      "gloss": "cikin furen sa"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יִקָּטֵף",
+      "gloss": "a yanka"
+    },
+    {
+      "surface": "וְלִפְנֵי",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "kowace"
+    },
+    {
+      "surface": "חָצִיר",
+      "gloss": "ciya"
+    },
+    {
+      "surface": "יִיבָשׁ",
+      "gloss": "ya busa"
+    }
+  ],
+  "timestamp": "2026-08-12T21:44:06.508418902Z",
+  "model": "glm-5.2"
+}

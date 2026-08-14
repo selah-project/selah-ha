@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "sa'an nan zan tafi Tare da ku cikin fushin ƙaya, kuma zan horar da ku ⟨את⟩, Ni ma, sau gõma bakwai saboda zunubanku.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "sa'an nan zan tafi"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "Tare da ku"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "cikin fushin"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "ƙaya"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "kuma zan horar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ku"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sau gõma bakwai"
+    },
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "zunubanku"
+    }
+  ],
+  "timestamp": "2026-08-13T01:50:14.201920798Z",
+  "model": "glm-5.2"
+}

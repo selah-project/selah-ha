@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 112,
+  "translation": "⟨Mai kyau ne⟩ mutum mai yawan alheri da rance; yana kula da lambar sa cikin shari'a.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "mai yawan alheri"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "da rance"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "yana kula"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "da lambar sa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "cikin shari'a"
+    }
+  ],
+  "timestamp": "2026-08-12T20:37:28.720790804Z",
+  "model": "glm-5.2"
+}

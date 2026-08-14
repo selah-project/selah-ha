@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 142,
+  "translation": "Murya ta ⟨ita ce⟩ zuwa ga Yahweh, nã kuka; murya ta zuwa ga Yahweh, nã roƙon ⟨alfaɣari⟩.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Murya ta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "nã kuka"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "murya ta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "nã roƙon ⟨alfaɣari⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:54:48.400793853Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 65,
+  "translation": "Kuma za su gina gidajensu, kuma za su zauna ⟨a cikinsu⟩, kuma za su shuka gonakin inabi, kuma za su ci 'ya'yanansu.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "kuma za su gina"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "gidajensu"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "kuma za su zauna"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "kuma za su shuka"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "gonakin inabi"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "kuma za su ci"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "'ya'yanansu"
+    }
+  ],
+  "timestamp": "2026-08-13T02:11:41.795247488Z",
+  "model": "glm-5.2"
+}

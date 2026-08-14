@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 111,
+  "translation": "Ayyukan hannuwansa gaskiya da shari'a ⟨ne⟩; duka umarnin Sa abin dogaro ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "ayyukan"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hannuwansa"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "gaskiya"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "da shari'a"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "abin dogaro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "umarnin Sa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:36:27.646937491Z",
+  "model": "glm-5.2"
+}

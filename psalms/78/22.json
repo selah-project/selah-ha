@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Domin ba su yi imani da Elohim, kuma ba su dogara ga tsiyar Sa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "su yi imani"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "da Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "su dogara"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "ga tsiyar Sa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:08:07.282498509Z",
+  "model": "glm-5.2"
+}

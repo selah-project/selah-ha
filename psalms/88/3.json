@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 88,
+  "translation": "Za ta zo gaban ka addu'a ta, ka ja kunne ka zuwa ga jinina.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Za ta zo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "gaban ka"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "addu'a ta"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "ka ja"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "kunne ka"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "zuwa ga jinina"
+    }
+  ],
+  "timestamp": "2026-08-12T20:18:27.634609912Z",
+  "model": "glm-5.2"
+}

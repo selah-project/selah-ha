@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "al'umma mai tsanani ⟨a⟩ fuska, wadda ba za ta ɗauki fuska ga dattijo, kuma ba za ta yi wa ƙarami ba.",
+  "tokens": [
+    {
+      "surface": "גּ֖וֹי",
+      "gloss": "al'umma"
+    },
+    {
+      "surface": "עַ֣ז",
+      "gloss": "mai tsanani"
+    },
+    {
+      "surface": "פָּנִ֑ים",
+      "gloss": "⟨a⟩fuska"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "wadda"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יִשָּׂ֤א",
+      "gloss": "za ta ɗauki"
+    },
+    {
+      "surface": "פָּנִים֙",
+      "gloss": "fuska"
+    },
+    {
+      "surface": "לְזָקֵ֔ן",
+      "gloss": "ga dattijo"
+    },
+    {
+      "surface": "וְנַ֖עַר",
+      "gloss": "kuma ⟨wa⟩ƙarami"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יָחֹֽן",
+      "gloss": "za ta yi wa"
+    }
+  ],
+  "timestamp": "2026-08-13T03:03:26.553991068Z",
+  "model": "glm-5.2"
+}

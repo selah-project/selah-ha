@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma aka cika kwanaki bakwai a bayan Yahweh ya yi ⟨את⟩ kogin duka.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Kuma aka cika"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "bakwai"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "a bayan"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "ya yi duka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kogin"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "kogin"
+    }
+  ],
+  "timestamp": "2026-08-12T00:37:38.437858274Z",
+  "model": "glm-5.2"
+}

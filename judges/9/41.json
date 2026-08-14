@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma Avimelek ya zauna a Aruma, kuma Zebul ya kori ⟨את⟩ Ga'al da ⟨את⟩ 'yan'uwansa daga zama a Shchem.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Kuma ya zauna"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "a Aruma"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "kuma ya kori"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ga'al"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Ga'al"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "'yan'uwansa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "'yan'uwansa"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "daga zama"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "a Shchem"
+    }
+  ],
+  "timestamp": "2026-08-12T07:39:19.303511761Z",
+  "model": "glm-5.2"
+}

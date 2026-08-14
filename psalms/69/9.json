@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Bāƙo na kasancewa ga ƴan'uwata, kuma baƙon ƙasā ga ƴaƴan uwaʼta.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "bāƙo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "na kasancewa"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "ga ƴan'uwata"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "kuma baƙon ƙasā"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ga ƴaƴan"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "uwaʼta"
+    }
+  ],
+  "timestamp": "2026-08-12T19:59:06.848394232Z",
+  "model": "glm-5.2"
+}

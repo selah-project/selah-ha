@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Suka rataye ⟨את⟩ Haman a kan ⟨itacen⟩ da ya shirya wa Mardəkay, kuma fushin sarki ta kwanta.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "Suka rataye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "⟨itacen⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ya shirya"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "wa Mardəkay"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "kuma fushin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "ta kwanta"
+    }
+  ],
+  "timestamp": "2026-08-13T02:35:15.446633149Z",
+  "model": "glm-5.2"
+}

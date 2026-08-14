@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 6:2",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Zai raya mu bayan kwana biyu; a rana ta uku zai tada mu, kuma mu rayu a gaban shi.",
+  "tokens": [
+    {
+      "surface": "יחינו",
+      "gloss": "zai raya mu"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "bayan kwana biyu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ta uku"
+    },
+    {
+      "surface": "יקמנו",
+      "gloss": "zai tada mu"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "kuma mu rayu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "a gaban shi"
+    }
+  ],
+  "timestamp": "2026-08-12T18:12:03.097136186Z",
+  "model": "glm-5.2"
+}

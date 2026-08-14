@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma ni, a cikin yawaita chesed ɗinka zan shiga gidanka; zan lartə̃bi a wurin haikalin tsarkinka a cikin tławōyarka.",
+  "tokens": [
+    {
+      "surface": "וַאֲנִי",
+      "gloss": "Kuma ni"
+    },
+    {
+      "surface": "בְּרֹב",
+      "gloss": "a cikin yawaita"
+    },
+    {
+      "surface": "חַסְדְּךָ",
+      "gloss": "chesed ɗinka"
+    },
+    {
+      "surface": "אָבוֹא",
+      "gloss": "zan shiga"
+    },
+    {
+      "surface": "בֵּיתֶךָ",
+      "gloss": "gidanka"
+    },
+    {
+      "surface": "אֶשְׁתַּחֲוֶה",
+      "gloss": "zan lartə̃bi"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "a wurin"
+    },
+    {
+      "surface": "הֵיכַל",
+      "gloss": "haikalin"
+    },
+    {
+      "surface": "קָדְשְׁךָ",
+      "gloss": "tsarkinka"
+    },
+    {
+      "surface": "בְּיִרְאָתֶךָ",
+      "gloss": "a cikin tławōyarka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:13:41.331017916Z",
+  "model": "glm-5.2"
+}

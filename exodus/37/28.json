@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma ya yi ⟨את⟩ sanduna daga itacen šiṭah, kuma ya rufe ⟨את⟩ su da zinariya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduna"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "sanduna"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "daga itacen"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šiṭah"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "kuma ya rufe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "da zinariya"
+    }
+  ],
+  "timestamp": "2026-08-13T01:46:58.177643695Z",
+  "model": "glm-5.2"
+}

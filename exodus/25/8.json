@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "kuma su yi mini məqdash, kuma Ni zan zauna a tsakãninsu.",
+  "tokens": [
+    {
+      "surface": "וְעָ֥שׂוּ",
+      "gloss": "kuma su yi"
+    },
+    {
+      "surface": "לִ֖י",
+      "gloss": "mini"
+    },
+    {
+      "surface": "מִקְדָּ֑שׁ",
+      "gloss": "məqdash"
+    },
+    {
+      "surface": "וְשָׁכַנְתִּ֖י",
+      "gloss": "kuma Ni zan zauna"
+    },
+    {
+      "surface": "בְּתוֹכָֽם",
+      "gloss": "a tsakãninsu"
+    }
+  ],
+  "timestamp": "2026-08-12T01:05:26.655465212Z",
+  "model": "glm-5.2"
+}

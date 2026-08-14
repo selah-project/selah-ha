@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 5:22",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma Chiram ya aiko wa Shelomah yana cewa: \"Na ji ⟨את⟩ abin da ka aiko mini. Ni zan yi ⟨את⟩ duka bukatarka da itacen alhulawa da itacen beroshim.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Kuma ya aiko"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Na ji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "ka aiko"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mini"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "zan yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka bukatarka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "חפצך",
+      "gloss": "bukatarka"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "da itacen"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "alhulawa"
+    },
+    {
+      "surface": "ובעצי",
+      "gloss": "da kuma itacen"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "beroshim"
+    }
+  ],
+  "timestamp": "2026-08-12T11:00:23.721131623Z",
+  "model": "glm-5.2"
+}

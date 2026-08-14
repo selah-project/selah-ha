@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 88,
+  "translation": "A tsakanin matattu ⟨ne⟩ mai 'yanci, kamar waɗanda aka kashe da suke kwance a cikin kabari, waɗanda ba ka tuna da su ⟨sai⟩, kuma su aka yanke daga hannunka.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "a tsakanin matattu"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "mai 'yanci"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "waɗanda aka kashe"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "da suke kwance"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "a cikin kabari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "ka tuna da su"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sai"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "kuma su"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "daga hannunka"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "aka yanke"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:03.711824547Z",
+  "model": "glm-5.2"
+}

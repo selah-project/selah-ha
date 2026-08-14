@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Ka karɓi ⟨את⟩ daga gare su, su kuma su kasance don yin ⟨את⟩ aikin Tenti na Taro, kuma ka bayar dasu ga ʟewiyawa, kowane mutum gwargwadon aikinsa.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Ka karɓi"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ daga gare su"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "su kuma su kasance"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "don yin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aikin"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "na Taro"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "kuma ka bayar"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ su"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ʟewiyawa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "gwargwadon"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "aikinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T03:29:39.867486846Z",
+  "model": "glm-5.2"
+}

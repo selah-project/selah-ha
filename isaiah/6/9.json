@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma ⟨Ya⟩ ce: \"Ka tafi, ka ce wa wannan mutãne: 'Ku ji saurãre, amma kada ku fahimta; ku duba ganẽwa, amma kada ku sani.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ⟨Ya⟩ ce"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ka tafi"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ka ce"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mutãne: 'Ku ji"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "saurãre"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "amma kada"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "ku fahimta"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ku duba"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ganẽwa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "amma kada"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "ku sani"
+    }
+  ],
+  "timestamp": "2026-08-12T13:06:30.429209347Z",
+  "model": "glm-5.2"
+}

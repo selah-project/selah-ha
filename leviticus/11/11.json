@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma abin ƙyama za su kasance a gare ku; daga nomansu ba za ku ci ba, kuma ⟨את⟩ gawarwakinsu za ku ƙyama.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "Kuma abin ƙyama"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "za su kasance"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a gare ku"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "daga nomansu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "za ku ci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "gawarwakinsu"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "gawarwakinsu"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "za ku ƙyama"
+    }
+  ],
+  "timestamp": "2026-08-12T01:58:16.625484886Z",
+  "model": "glm-5.2"
+}

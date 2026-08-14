@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Ɗan shekara bakwai ⟨ne⟩ Yehoash a cikin mulkinsa.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bakwai"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "a cikin mulkinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:23:17.441550094Z",
+  "model": "glm-5.2"
+}

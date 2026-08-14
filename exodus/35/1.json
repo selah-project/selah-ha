@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Mosheh ya tara ⟨את⟩ duka tarar ɗaƴan Yisra'el, kuma ya ce musu, waɗannan ne kalmomin da Yahweh ya yi umarni a aikka ⟨את⟩ su.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "ya tara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka tarar ɗaƴan Yisra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "tarar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗaƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya yi umarni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "a aikka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    }
+  ],
+  "timestamp": "2026-08-12T01:28:12.205665685Z",
+  "model": "glm-5.2"
+}

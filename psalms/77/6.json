@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 77,
+  "translation": "Na tunani ranakun da suka gabata, shekarun zamanin dā.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "na tunani"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ranakun"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "da suka gabata"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "shekarun"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "zamanin dā"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:25.556266877Z",
+  "model": "glm-5.2"
+}

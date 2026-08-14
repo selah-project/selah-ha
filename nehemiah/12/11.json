@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma Yoyada ya haifa ⟨את⟩ Yonatan, kuma Yonatan ya haifa ⟨את⟩ Yaddua.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "Kuma Yoyada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "kuma Yonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaddua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Yaddua"
+    }
+  ],
+  "timestamp": "2026-08-12T23:50:00.425523812Z",
+  "model": "glm-5.2"
+}

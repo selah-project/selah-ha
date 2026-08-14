@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Ka tuna, ni, mene ne rayuwar ɗanɗano? Don me, a cikin banza, ka halicci dukkan 'ya'yan Adam?",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ka tuna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mene ne"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "rayuwa ta ɗanɗano"
+    },
+    {
+      "surface": "על",
+      "gloss": "don"
+    },
+    {
+      "surface": "מה",
+      "gloss": "me"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "a cikin banza"
+    },
+    {
+      "surface": "בראת",
+      "gloss": "ka halicci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-08-12T20:15:53.592740940Z",
+  "model": "glm-5.2"
+}

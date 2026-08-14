@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 144,
+  "translation": "Yahweh, mene ne mutum ⟨har⟩ ka san shi, ɗan adam ⟨har⟩ ka lura da shi?",
+  "tokens": [
+    {
+      "surface": "יְֽהוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מָה",
+      "gloss": "mene ne"
+    },
+    {
+      "surface": "אָ֭דָם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "וַתֵּדָעֵ֑הוּ",
+      "gloss": "ka san shi"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אֱ֝נ֗וֹשׁ",
+      "gloss": "adam"
+    },
+    {
+      "surface": "וַֽתְּחַשְּׁבֵֽהוּ",
+      "gloss": "ka lura da shi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:56:34.105061249Z",
+  "model": "glm-5.2"
+}

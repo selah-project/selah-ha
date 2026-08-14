@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 72,
+  "translation": "Ya sauka kamar ruwan sama a kan ciyawar da aka yanka, kamar ruwan ɗigo mai yawa yake shayar da ƙasa.",
+  "tokens": [
+    {
+      "surface": "יֵ֭רֵד",
+      "gloss": "ya sauka"
+    },
+    {
+      "surface": "כְּמָטָ֣ר",
+      "gloss": "kamar ruwan sama"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "גֵּ֑ז",
+      "gloss": "ciyawar da aka yanka"
+    },
+    {
+      "surface": "כִּ֝רְבִיבִ֗ים",
+      "gloss": "kamar ruwan ɗigo mai yawa"
+    },
+    {
+      "surface": "זַרְזִ֥יף",
+      "gloss": "yake shayar da"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:02:55.449585096Z",
+  "model": "glm-5.2"
+}

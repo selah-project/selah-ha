@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 1:4",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma ɗiyansa maza suna tafiya suna yin biki, kowanne a gidansa rana ɗaya; kuma suna aiko kuma suna kiran 'yan'uwar mata guda uku su ci kuma su sha tare da su.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "kuma suna tafiya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɗiyansa maza"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "suna yin"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "biki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowanne"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "rana ɗaya"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "suna aiko"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "suna kiran"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "guda uku"
+    },
+    {
+      "surface": "אחיתיהם",
+      "gloss": "'yan'uwar mata"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "su ci"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "kuma su sha"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "tare da su"
+    }
+  ],
+  "timestamp": "2026-08-12T21:40:58.965827763Z",
+  "model": "glm-5.2"
+}

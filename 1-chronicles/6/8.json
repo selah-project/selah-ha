@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Elkana ɗan sa, kuma Evyasaf ɗan sa, kuma Asir ɗan sa.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗan sa"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "kuma Evyasaf"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗan sa"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "kuma Asir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗan sa"
+    }
+  ],
+  "timestamp": "2026-08-13T00:01:13.488752856Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma Elohim ya albarkaci ⟨את⟩ su, yana cewa: Ku 'ya'ana, ku yalwa, kuma ku cika ⟨את⟩ ruwan teku, kuma tsuntsaye su yalwa a ƙasa.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Kuma ya albarkaci"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Ku 'ya'ana"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ku yalwa"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "kuma ku cika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruwan teku"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "a cikin tekuna"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "kuma tsuntsaye"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "su yalwa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:18:53.480862771Z",
+  "model": "glm-5.2"
+}

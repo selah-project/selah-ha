@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma suka samu ⟨א־ת⟩ Adoni-Bezek a Bezek, suka yaƙi da shi, kuma suka ci Kenaʿani da Firizi.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "sai suka samu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "a Bezek"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "suka yaƙi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "da shi"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "kuma suka ci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaʿani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaʿani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Firizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Firizi"
+    }
+  ],
+  "timestamp": "2026-08-12T07:11:15.476021677Z",
+  "model": "glm-5.2"
+}

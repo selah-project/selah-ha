@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 1:5",
+  "book": "haggai",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma yanzu, haka Yahweh Sojoji ya faɗa: Ku sa zukatanku a kan hanyoyinku.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kuma yanzu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "haka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sojoji"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "Ku sa"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "zukatanku"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "hanyoyinku"
+    }
+  ],
+  "timestamp": "2026-08-12T18:56:17.856843931Z",
+  "model": "glm-5.2"
+}

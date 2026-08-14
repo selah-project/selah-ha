@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 26:6",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma Ni zan ba da salama a cikin ƙasar, kuma za ku kwanta ba tare da wanda ke tãrar da ku ba; kuma Ni zan shãgãyẽ dabbobi masu mugun dabi'a daga ƙasar, kuma takobi ba zai wuce ⟨a⟩ cikin ƙasarku.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "kuma Ni zan ba da"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salama"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a cikin ƙasar"
+    },
+    {
+      "surface": "ושכבתם",
+      "gloss": "kuma za ku kwanta"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ba tare da"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "wanda ke tãrar da ku"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "kuma Ni zan shãgãyẽ"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "dabbobi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "masu mugun dabi'a"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "kuma takobi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba zai"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "wuce"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "cikin ƙasarku"
+    }
+  ],
+  "timestamp": "2026-08-12T02:58:40.397996703Z",
+  "model": "glm-5.2"
+}

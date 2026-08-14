@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 5:1",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Sai duka ƙabilun Yisra'el suka zo wa Dawuda Chebrona, suka ce, ⟨suna cewa⟩, \"Ga mu, ⟨mu ne⟩ ƙashinka da nawkanka, mu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "suka zo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duku"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ƙabilun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "Chebrona"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "suna cewa"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "ga mu"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "ƙashinka"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "da nawkanka"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-08-12T10:01:00.382847488Z",
+  "model": "glm-5.2"
+}

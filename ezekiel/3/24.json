@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 3:24",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Sai ruhu ya shiga a cikina, ya sa ni tsaye a ƙafafuna, ya yi magana ⟨את⟩ ⟨da ni⟩, ya kuma ce mini, shiga ka rufe kanka a cikin ⟨idendarmagana⟩ gidanka.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "sai shiga"
+    },
+    {
+      "surface": "בי",
+      "gloss": "a cikina"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "ותעמדני",
+      "gloss": "ya sa ni tsaye"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ƙafafuna"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ya yi magana"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ⟨da ni⟩",
+      "marks": "wanda aka yi wa magana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya kuma ce"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mini"
+    },
+    {
+      "surface": "בא",
+      "gloss": "shiga"
+    },
+    {
+      "surface": "הסגר",
+      "gloss": "ka rufe kanka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "a cikin"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "gidanka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:14:53.346289367Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Waɗannan masu tsaye suka ciyar da ⟨את⟩ sarkin Shelomo, da ⟨את⟩ duk wanda ke kusa da teburin sarkin Shelomo, kowane mutum a watan sa; ba za su bari wani abu ya rage ba.",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "suka ciyar da"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "Waɗannan masu tsaye"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨waɗannan⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarkin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "duk wanda ke kusa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "wanda ke kampa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "teburin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "a watan sa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "za su bari ya rage"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wani abu"
+    }
+  ],
+  "timestamp": "2026-08-12T10:59:18.434457742Z",
+  "model": "glm-5.2"
+}

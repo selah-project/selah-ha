@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 20:6",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Amma a wannan lokacin gobe zan aika ⟨את⟩ bayina zuwa gare ka, suka bincika ⟨את⟩ gidanka da ⟨את⟩ gidajen bayinka, ⟨kuma⟩ ya zama dukkan abin da idanka suka so, za su sa a hannunsu, su kwashe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨Amma⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "a wannan lokacin"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "gobe"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "zan aika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayina"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bayina"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zuwa gare ka"
+    },
+    {
+      "surface": "וחפשו",
+      "gloss": "suka bincika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidanka"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "gidanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "gidajen bayinka"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "gidajen"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "bayinka"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "⟨kuma⟩ ya zama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "abin da...so"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "idanka"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "za su sa"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "a hannunsu"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "su kwashe"
+    }
+  ],
+  "timestamp": "2026-08-12T11:42:59.526225989Z",
+  "model": "glm-5.2"
+}

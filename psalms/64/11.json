@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 64,
+  "translation": "Mai adālci zai yi murna a Yahweh, kuma ya nẽma mafaka a cikinSa, kuma duk masu tūtar zuciya su yi gōri.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "zai yi murna"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Mai adālci"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "a Yahweh"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "kuma ya nẽma mafaka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a cikinSa"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "kuma su yi gōri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "masu tūtar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciya"
+    }
+  ],
+  "timestamp": "2026-08-12T19:54:50.980517346Z",
+  "model": "glm-5.2"
+}

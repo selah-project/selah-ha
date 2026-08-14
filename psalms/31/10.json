@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Ka nuna mini alheri, ya Yahweh, domin ina cikin ɗorarwa; idona ta ƙare ⟨da⟩ ciwon kai, rana da ciki na.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "ka nuna mini alheri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ina cikin ɗorarwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨a kai⟩"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "ta ƙare"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "da ciwon kai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "idona"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rana"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "da ciki na"
+    }
+  ],
+  "timestamp": "2026-08-12T19:30:37.290098111Z",
+  "model": "glm-5.2"
+}

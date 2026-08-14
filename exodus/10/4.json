@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Doming idan ki kin ƙi bar ⟨את⟩ mutana, ga shi ni ina kawo gobe ⟨wasu⟩ fari a cikin iyakarka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Doming idan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "kin ƙi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutana"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mutana"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ga shi ni"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ina kawo"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "gobe"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "fari"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "a cikin iyakarka"
+    }
+  ],
+  "timestamp": "2026-08-12T00:42:01.558308456Z",
+  "model": "glm-5.2"
+}

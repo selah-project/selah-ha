@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma ka kira Yishay ⟨don⟩ hadaya, kuma ni zan sanar da ko da abin da za ka yi; kuma ka shafa ⟨man⟩ min ⟨את⟩ wanda ni zan ce maka.\"",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "Kuma ka kira"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "⟨a⟩ hadaya"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "zan sanar da ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "za ka yi"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "kuma ka shafa man"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zan ce"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maka"
+    }
+  ],
+  "timestamp": "2026-08-12T09:08:28.991437503Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 23:22",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Amma idan sun tsaya a cikin majalisar Ta, kuma sun sa jama'arTa su ji kalmomiNa, ⟨da⟩ su mayar da su daga hanyarsu ta mugunta, da kuma mugunta na ayyukansu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Amma idan"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "sun tsaya"
+    },
+    {
+      "surface": "בסודי",
+      "gloss": "a cikin majalisarTa"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "kuma sun sa su ji"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalmomiNa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jama'arTa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "jama'arTa"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "⟨da⟩ su mayar da su"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "daga hanyarsu"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ta mugunta"
+    },
+    {
+      "surface": "ומרע",
+      "gloss": "da kuma mugunta"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "na ayyukansu"
+    }
+  ],
+  "timestamp": "2026-08-12T15:40:48.921508663Z",
+  "model": "glm-5.2"
+}

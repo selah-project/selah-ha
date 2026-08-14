@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Daga dukkan tawayeNa ka cecẽNi; kada ka sanyaNi zama alfashar wãya.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "daga dukkan"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "tawayeNa"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ka cecẽNi"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "alfashar"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "wãya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "ka sanyaNi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:40:23.386867876Z",
+  "model": "glm-5.2"
+}

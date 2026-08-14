@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma Sarahah ta ɗauki ciki, kuma ta haifa wa Avraham ɗa, ga tsufancinsa, a lokacin da aka kayyade, wanda Elohim ya yi magana da shi.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Kuma ta ɗauki ciki"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "kuma ta haifa"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarahah"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "wa Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗa"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "ga tsufancinsa"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "a lokacin da aka kayyade"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya yi magana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T23:42:25.564855194Z",
+  "model": "glm-5.2"
+}

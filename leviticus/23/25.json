@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Duk aikin bautar ba za ku yi ba, kuma ku kusar da ⟨את⟩ wata hadaya ta wuta ga Yahweh.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "מְלֶ֥אכֶת",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "עֲבֹדָ֖ה",
+      "gloss": "baautar"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תַעֲשׂ֑וּ",
+      "gloss": "za ku yi"
+    },
+    {
+      "surface": "וְהִקְרַבְתֶּ֥ם",
+      "gloss": "kuma ku kusar da"
+    },
+    {
+      "surface": "אִשֶּׁ֖ה",
+      "gloss": "wata hadaya ta wuta"
+    },
+    {
+      "surface": "לַיהוָֽה",
+      "gloss": "ga Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T02:50:47.983638Z",
+  "model": "glm-5.2"
+}

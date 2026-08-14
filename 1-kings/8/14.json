@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Sarki ya juya ⟨את⟩ fuskarsa, ya yi ⟨את⟩ albarka ga duka taron Yisra'el, kuma duka taron Yisra'el suna tsaye.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ya juya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuskarsa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuskarsa"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ya yi albarka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "taro"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma duka"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "taro"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "suna tsaye"
+    }
+  ],
+  "timestamp": "2026-08-12T11:08:56.073812380Z",
+  "model": "glm-5.2"
+}

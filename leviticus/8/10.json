@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma Mosheh ya ɗauki ⟨את⟩ manen shafawa, kuma ya shafa ⟨את⟩ mazaɓin da ⟨את⟩ duka abin da yake a cikin shi, kuma ya tsarkake su.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kuma ya ɗauki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manen shafawa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "manen"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "shafawa"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "kuma ya shafa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazaɓin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mazaɓin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "duka abin da yake a cikin shi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yake a cikin shi"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "kuma ya tsarkake"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ su",
+      "marks": "su (mazaɓin da abubuwan cikin shi)"
+    }
+  ],
+  "timestamp": "2026-08-12T01:57:36.298742311Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 1:17",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Dangane da duk abin da muka sauraro zuwa Moshe, haka za mu sauraro zuwa gare ka; sai dai Yahweh Elohim naka ya kasance tare da kai, kamar yadda ya kasance tare da Moshe.",
+  "tokens": [
+    {
+      "surface": "כְּכֹ֤ל",
+      "gloss": "dangane da duk"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "שָׁמַ֨עְנוּ֙",
+      "gloss": "muka sauraro"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כֵּ֖ן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "נִשְׁמַ֣ע",
+      "gloss": "za mu sauraro"
+    },
+    {
+      "surface": "אֵלֶ֑יךָ",
+      "gloss": "zuwa gare ka"
+    },
+    {
+      "surface": "רַ֠ק",
+      "gloss": "sai dai"
+    },
+    {
+      "surface": "יִֽהְיֶ֞ה",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "יְהוָ֤ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶ֨יךָ֙",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "עִמָּ֔ךְ",
+      "gloss": "tare da kai"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֥ר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "הָיָ֖ה",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "מֹשֶֽׁה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-12T06:05:59.896901139Z",
+  "model": "glm-5.2"
+}

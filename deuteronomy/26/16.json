@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "«Yau nan Yahweh, Elohim ka, yana umarnin ka ka yi ⟨את⟩ waɗannan dokoki da ⟨את⟩ hukunce-hukunce; kuma ka kiyaye, ka kuma yi ⟨את⟩ su a duk zuciyarka da a dukkan raiɗinkanka.»",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ka"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "yana umarnin ka"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ka yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waɗannan dokoki"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "dokoki"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "hukunce-hukunce"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukunce-hukunce"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ka kiyaye"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ka kuma yi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ su"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "zuciyarka"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "da a duk"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "raiɗinkanka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:42:07.657199364Z",
+  "model": "glm-5.2"
+}

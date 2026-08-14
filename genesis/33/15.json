@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 33:15",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Kuma Esavu ⟨ya⟩ ce, \"Bari in ina roƙonka, in ajiye ∙maka ⟨daga⟩ mutanen da ⟨suka⟩ ⟨kasu⟩ ⟨a⟩ ⟨tare⟩ ⟨na⟩.\" Kuma ⟨Yaƙubu⟩ ⟨ya⟩ ce, \"Don me wannan? Su na sami alheri a idanin Adonaina.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ⟨ya⟩ ce"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "אציגה",
+      "gloss": "Bari in ... in ajiye"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ina roƙonka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "∙maka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨daga⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "⟨suka⟩ ⟨kasu⟩ ⟨a⟩ ⟨tare⟩ ⟨na⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ⟨Yaƙubu⟩ ⟨ya⟩ ce"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Don me"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "Su na sami"
+    },
+    {
+      "surface": "חן",
+      "gloss": "alheri"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanin"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaina"
+    }
+  ],
+  "timestamp": "2026-08-11T23:58:58.069568040Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Ɓārān na tsaya a wajen da akwai daidaito; a cikin tarayya ⟨ne⟩ ni zan yi bayyaka ga Yahweh.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "Ɓārān na"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "tsaya"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "a wajen da akwai daidaito"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "a cikin tarayya"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "zan yi bayyaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T19:29:20.783524889Z",
+  "model": "glm-5.2"
+}

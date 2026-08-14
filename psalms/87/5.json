@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 87,
+  "translation": "Kuma game da Tsiyon za a faɗa: ⟨Mutum⟩, da ⟨mutum⟩, an haife shi a cikinta; kuma Shi, Elyon, zai kafa ta.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "Kuma game da Tsiyon"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "za a faɗa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨Mutum⟩"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "da ⟨mutum⟩"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "an haife shi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a cikinta"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kuma Shi"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "zai kafa ta"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-12T20:15:34.131403088Z",
+  "model": "glm-5.2"
+}

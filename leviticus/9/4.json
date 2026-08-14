@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 9:4",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "da shanu da ramaki domin sulhu, domin yanka a gaban Yahweh, da kuma hadayar goro gauraye da man shanu; domin a yau Yahweh zai bayyana muku.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "da shanu"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "da ramaki"
+    },
+    {
+      "surface": "לשלמים",
+      "gloss": "domin sulhu"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "domin yanka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "da kuma hadayar goro"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "gauraye"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "da man shanu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "a yau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "zai bayyana"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "muku"
+    }
+  ],
+  "timestamp": "2026-08-13T01:48:51.903574952Z",
+  "model": "glm-5.2"
+}

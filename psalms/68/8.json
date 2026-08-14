@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 68,
+  "translation": "Elohim, a lokacin da ka fita a gaban mutanenka, a lokacin da ka tafi a cikin jeji, selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "a lokacin da ka fita"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mutanenka"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "a lokacin da ka tafi"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "a cikin jeji"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "selah"
+    }
+  ],
+  "timestamp": "2026-08-12T20:01:34.473395336Z",
+  "model": "glm-5.2"
+}

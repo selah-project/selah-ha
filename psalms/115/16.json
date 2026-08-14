@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 115,
+  "translation": "Sama, saman Yahweh ⟨ne⟩, amma ƙasar Ya bada ga ƴaƴan Adam.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Sama"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "saman"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "amma ƙasar"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Ya bada"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ga ƴaƴan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-08-12T20:38:15.595292702Z",
+  "model": "glm-5.2"
+}

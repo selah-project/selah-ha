@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma Dauda ya ce wa Yehonatan: \"Wa zai gaya min? ko me ubanka zai amsa maka mugiya?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dauda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wa"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "zai gaya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מה",
+      "gloss": "me"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "zai amsa maka"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ubanka"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "mugiya"
+    }
+  ],
+  "timestamp": "2026-08-12T09:19:12.830838825Z",
+  "model": "glm-5.2"
+}

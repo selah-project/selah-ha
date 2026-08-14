@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Elohim, kada ka zagi, kuma shugaban daga cikin mutanenka, kada ka la'ani.",
+  "tokens": [
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תְקַלֵּל",
+      "gloss": "ka zagi"
+    },
+    {
+      "surface": "וְנָשִׂיא",
+      "gloss": "kuma shugaban"
+    },
+    {
+      "surface": "בְעַמְּךָ",
+      "gloss": "daga cikin mutanenka"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תָאֹר",
+      "gloss": "ka la'ani"
+    }
+  ],
+  "timestamp": "2026-08-12T01:00:20.644110250Z",
+  "model": "glm-5.2"
+}

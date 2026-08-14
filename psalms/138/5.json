@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 138,
+  "translation": "Kuma za su rera waƙa a cikin hanyoyin Yahweh, domin girma ⟨ne⟩ girman Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "Kuma za su rera waƙa"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "a cikin hanyoyin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "girma"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "girman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T20:55:49.697303380Z",
+  "model": "glm-5.2"
+}

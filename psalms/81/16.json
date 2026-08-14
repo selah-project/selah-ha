@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 81,
+  "translation": "Masu ƙin Yahweh za su yi ƙarya a gare Shi, kuma lokacinsu zai kasance har abada.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "masu ƙin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "za su yi ƙarya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a gare Shi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma zai kasance"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "lokacinsu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-12T20:12:11.485474232Z",
+  "model": "glm-5.2"
+}

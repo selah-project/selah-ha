@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 104,
+  "translation": "⟨Yana⟩ tsayar da ciyawa ga dabbobi, da tsire-tsire ga aikin adam, domin fitar da abinci daga ƙasa;",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "⟨Yana⟩ tsayar da"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ciyawa"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "ga dabbobi"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "da tsire-tsire"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "ga aikin"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "domin fitar da"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "abinci"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:28:04.076739606Z",
+  "model": "glm-5.2"
+}

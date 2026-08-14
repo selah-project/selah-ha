@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Kuma Mosheh ya ga ⟨את⟩ mutãnen, cẽwa an bã su wuya, dõmin Aharon ya bã su wuya don zãgi a tsakãnĩn waɗanda suke tãkaita su.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Kuma ya ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutãnen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cẽwa"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "an bã su wuya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya bã su wuya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "don zãgi"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "a tsakãnĩn waɗanda suke tãkaita su"
+    }
+  ],
+  "timestamp": "2026-08-12T01:28:06.038219139Z",
+  "model": "glm-5.2"
+}

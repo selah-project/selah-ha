@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma Chiram ya fita daga Tsor don ganin ⟨את⟩ garuruwan da Shelomah ya ba shi, amma ba su da kyau a idanunsa.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Kuma ya fita"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "daga Tsor"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "don ganin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garuruwan"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "garuruwan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "suka da kyau"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "a idanunsa"
+    }
+  ],
+  "timestamp": "2026-08-12T11:12:39.758110267Z",
+  "model": "glm-5.2"
+}

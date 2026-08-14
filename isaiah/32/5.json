@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Ba sake za a kira ga wawa mai karimci, kuma ga marowaci Ba za a ce mai arziki.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "za a kira"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sake"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "ga wawa"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "mai karimci"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "kuma ga marowaci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "za a ce"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "mai arziki"
+    }
+  ],
+  "timestamp": "2026-08-12T13:47:19.108603800Z",
+  "model": "glm-5.2"
+}

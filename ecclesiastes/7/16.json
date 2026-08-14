@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kada ka zama mai adalci sosai, kuma kada ka nuna hikima fiye da dofí; don me za ka lalace?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ka zama"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mai adalci"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "ka nuna hikima"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "fiye da dofí"
+    },
+    {
+      "surface": "למה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "za ka lalace"
+    }
+  ],
+  "timestamp": "2026-08-12T22:46:30.905509327Z",
+  "model": "glm-5.2"
+}

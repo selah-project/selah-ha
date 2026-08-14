@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 114,
+  "translation": "Yahuɗa ya zama tsarkakensa, Yisra'el mulkinsa.",
+  "tokens": [
+    {
+      "surface": "הָיְתָה",
+      "gloss": "ya zama"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "Yahuɗa"
+    },
+    {
+      "surface": "לְקָדְשׁוֹ",
+      "gloss": "tsarkakensa"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מַמְשְׁלוֹתָיו",
+      "gloss": "mulkinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:37:47.159849038Z",
+  "model": "glm-5.2"
+}

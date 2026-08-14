@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 71,
+  "translation": "Baki ta ya cika da yaboⁿka, dukan rana ⟨ne⟩ da ɗaukakarka.",
+  "tokens": [
+    {
+      "surface": "יִמָּ֣לֵא",
+      "gloss": "ya cika"
+    },
+    {
+      "surface": "פִ֭י",
+      "gloss": "Baki ta"
+    },
+    {
+      "surface": "תְּהִלָּתֶ֑ךָ",
+      "gloss": "da yaboⁿka"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "הַ֝יּ֗וֹם",
+      "gloss": "ranar"
+    },
+    {
+      "surface": "תִּפְאַרְתֶּֽךָ",
+      "gloss": "ɗaukakarka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:00:52.091841416Z",
+  "model": "glm-5.2"
+}

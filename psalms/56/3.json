@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 56,
+  "translation": "Maƙiyana suna numfashi cikin ƙwaraƙwarana, dukan ⟨yini⟩; domin masu yawa suna yaƙa ⟨a⟩ ni daga sama.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "suna numfashi cikin ƙwaraƙwarana"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "Maƙiyana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨yini⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "masu yawa"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "suna yaƙa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨a⟩ ni"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "daga sama"
+    }
+  ],
+  "timestamp": "2026-08-12T19:52:27.011367833Z",
+  "model": "glm-5.2"
+}

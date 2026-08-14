@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Ka ji kunya, Tsidon, ⟨doma⟩ teku ta faɗi, ⟨ita ce⟩ katanga ta teku, in cewa: Ban yi wahalar haihuwa ba, kuma ban haifa ba, kuma ban girma samari, ban kuma ɗaukaka 'yan mata.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "ka ji kunya"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨doma⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ta faɗi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "katanga"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ta teku"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "in cewa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ban"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "yi wahalar haihuwa ba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ban"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "haifa ba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ban"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "girma"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "samari"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "ban kuma ɗaukaka"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "yan mata"
+    }
+  ],
+  "timestamp": "2026-08-12T13:37:39.411022797Z",
+  "model": "glm-5.2"
+}

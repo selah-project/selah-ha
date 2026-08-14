@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma kohen ya duba ⟨את⟩ wajen cutar, ya kuma kulle wajen cutar tsawon kwana bakwai.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "kuma ya duba"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajen cutar"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "wajen cutar"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ya kuma kulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajen cutar"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "wajen cutar"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "kwana bakwai"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwana"
+    }
+  ],
+  "timestamp": "2026-08-12T02:15:58.489338006Z",
+  "model": "glm-5.2"
+}

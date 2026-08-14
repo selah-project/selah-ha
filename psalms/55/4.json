@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 55,
+  "translation": "Daga muryar maƙiyi, saboda tãwar mugun, suna girgiza ⟨a kan⟩ ni laifi, kuma da fushi suna ƙi ni.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Daga muryar"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "maƙiyi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "tãwar"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mugun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ce⟩"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "suna girgiza"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨a kan⟩ ni"
+    },
+    {
+      "surface": "און",
+      "gloss": "laifi"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "kuma da fushi"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "suna ƙi ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:52:54.794585883Z",
+  "model": "glm-5.2"
+}

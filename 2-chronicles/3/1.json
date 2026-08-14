@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 3:1",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Shelomoh ya fara gina ⟨את⟩ gidan Yahweh a Yerushalaim, a Dutsen Moriya, wanda ya bayyana ga Dawida ubansa, wanda ⟨ya⟩ shirya a wurin Dawida, a gonar bayan aran nan Yevusiy.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ya fara"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "a Yerushalaim"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a Dutsen"
+    },
+    {
+      "surface": "המוריה",
+      "gloss": "Moriya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ya bayyana"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ga Dawida"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "ubansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "⟨ya⟩ shirya"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "a wurin"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "a gonar bayan"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "aran nan"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yevusiy"
+    }
+  ],
+  "timestamp": "2026-08-13T00:43:36.566688822Z",
+  "model": "glm-5.2"
+}

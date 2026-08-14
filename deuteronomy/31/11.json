@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 31:11",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "A lokacin da dukkan Yisra'el ke zuwa don ya ga ⟨את⟩ fuskar Yahweh, Elohim naka, a wajen da zai zaɓa, za ka karanta ⟨את⟩ wannan Tora gaba ɗaya ga Yisra'el a cikin kunnuwansu.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "a lokacin da...ke zuwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "don ya ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuskar"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "a wajen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "zai zaɓa"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "za ka karanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "gaba ɗaya ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "a cikin kunnuwansu"
+    }
+  ],
+  "timestamp": "2026-08-13T03:04:22.241871681Z",
+  "model": "glm-5.2"
+}

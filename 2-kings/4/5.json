@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Sai ta tafi ⟨את⟩ daga ⟨wurinsa⟩, kuma ta rufe ƙofar doninta da kuma donin 'ya'yanta, suna kawo mata ⟨girki⟩, ita kuma tana zuba.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "Sai ta tafi"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ daga ⟨wurinsa⟩"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "kuma ta rufe"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ƙofar"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "doninta"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "da kuma donin"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "'ya'yanta"
+    },
+    {
+      "surface": "הם",
+      "gloss": "suna"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "kawo"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "mata"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ita kuma"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "tana zuba"
+    }
+  ],
+  "timestamp": "2026-08-12T11:59:50.856885793Z",
+  "model": "glm-5.2"
+}

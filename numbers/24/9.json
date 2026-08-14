@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 24:9",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Ya dagaza, ya kwanta kamar zaki, kuma kamar giwa, wa zai tada shi? waɗanda suka albarkace ka, an albarkace su, kuma waɗanda suka la'ane ka, an la'ane su.",
+  "tokens": [
+    {
+      "surface": "כָּרַ֨ע",
+      "gloss": "ya dagaza"
+    },
+    {
+      "surface": "שָׁכַ֧ב",
+      "gloss": "ya kwanta"
+    },
+    {
+      "surface": "כַּארִ֛י",
+      "gloss": "kamar zaki"
+    },
+    {
+      "surface": "וּכְלָבִ֖יא",
+      "gloss": "kuma kamar giwa"
+    },
+    {
+      "surface": "מִ֣י",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יְקִימֶ֑נּוּ",
+      "gloss": "zai tada shi"
+    },
+    {
+      "surface": "מְבָרֲכֶ֣יךָ",
+      "gloss": "waɗanda suka albarkace ka"
+    },
+    {
+      "surface": "בָר֔וּךְ",
+      "gloss": "an albarkace su"
+    },
+    {
+      "surface": "וְאֹרְרֶ֖יךָ",
+      "gloss": "kuma waɗanda suka la'ane ka"
+    },
+    {
+      "surface": "אָרֽוּר",
+      "gloss": "an la'ane su"
+    }
+  ],
+  "timestamp": "2026-08-12T04:20:39.617177603Z",
+  "model": "glm-5.2"
+}

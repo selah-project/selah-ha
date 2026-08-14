@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "\"Ka yi magana da tarīn, ka cē: Ku tāhi daga kewaye da mazaunin Qōrah, Dātān da Avīram.\"",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Ka yi magana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "tarīn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka cē"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "Ku tāhi"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "daga kewaye"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "da mazaunin"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qōrah"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Dātān"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "da Avīram"
+    }
+  ],
+  "timestamp": "2026-08-12T04:00:33.824034550Z",
+  "model": "glm-5.2"
+}

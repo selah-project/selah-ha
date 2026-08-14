@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 8:6",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma daga cikin ƴaƴan Adin, Eved ɗan Yonatan, kuma tare da shi hamsin na maza.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "Kuma daga cikin ƴaƴan"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "Adin"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Eved"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "kuma tare da shi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "hamsin"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "na maza"
+    }
+  ],
+  "timestamp": "2026-08-12T23:31:41.824759592Z",
+  "model": "glm-5.2"
+}

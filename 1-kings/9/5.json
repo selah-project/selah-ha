@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 9:5",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Sa'an nan kuma zan tabbatar ⟨את⟩ kujerar mulkininka a kan Yisra'el har abadada, kamar yadda na faɗa ga Dawida ubanginka, in ce ba za a yankewa ⟨ko⟩ wani mutum daga kan kujerar Yisra'el ba.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "kuma zan tabbatar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kujerar mulkininka"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kujerar"
+    },
+    {
+      "surface": "ממלכתך",
+      "gloss": "mulkininka"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "har abadada"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "na faɗa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ubanginka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "in ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "za a yankewa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨ko⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wani mutum"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "daga kan"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kujerar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T11:15:49.117555747Z",
+  "model": "glm-5.2"
+}

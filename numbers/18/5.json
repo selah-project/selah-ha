@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma kuna kiyaye ⟨את⟩ tsaron abin tsarki da ⟨את⟩ tsaron bagadar, kuma ba za a sami ⟨ce⟩ fushi a kan ƴan ƴan Israela ba.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "kuma kuna kiyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsaron"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tsaron"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "abin tsarki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tsaron"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tsaron"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bagadar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "za a sami"
+    },
+    {
+      "surface": "עוד",
+      "gloss": ""
+    },
+    {
+      "surface": "קצף",
+      "gloss": "fushi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    }
+  ],
+  "timestamp": "2026-08-13T03:02:58.768453435Z",
+  "model": "glm-5.2"
+}

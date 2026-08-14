@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma ɗan Filisisti ya duba, ya ga ⟨את⟩ Dawuda, ya ƙi shi, domin yaro ne, mai ja fata, tare da kyakkyawar ga'a.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "kuma ya duba"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ɗan Filisisti"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "ya ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawuda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "ya ƙi shi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨yake⟩"
+    },
+    {
+      "surface": "נער",
+      "gloss": "yaro"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "mai ja fata"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "kyakkyawar"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ga'a"
+    }
+  ],
+  "timestamp": "2026-08-12T09:13:51.968723106Z",
+  "model": "glm-5.2"
+}

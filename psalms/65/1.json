@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 65,
+  "translation": "Ga shugaban mawaƙa. Mizmori na Dawidi. Waƙa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga shugaban mawaƙa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmori"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na Dawidi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Waƙa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:57:37.251693295Z",
+  "model": "glm-5.2"
+}

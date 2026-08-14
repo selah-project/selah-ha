@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Kuma za ka yi ⟨את⟩ rigar ƙwariɗin, gabaɗaya shuɗi.",
+  "tokens": [
+    {
+      "surface": "וְעָשִׂ֛יתָ",
+      "gloss": "kuma za ka yi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "rigar"
+    },
+    {
+      "surface": "מְעִ֥יל",
+      "gloss": "rigar"
+    },
+    {
+      "surface": "הָאֵפ֖וֹד",
+      "gloss": "ƙwariɗin"
+    },
+    {
+      "surface": "כְּלִ֥יל",
+      "gloss": "gabaɗaya"
+    },
+    {
+      "surface": "תְּכֵֽלֶת",
+      "gloss": "shuɗi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:17:10.250975837Z",
+  "model": "glm-5.2"
+}

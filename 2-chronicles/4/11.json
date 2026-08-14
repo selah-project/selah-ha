@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 4:11",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma Ḥuram ya yi ⟨את⟩ tukwane, da ⟨את⟩ gyaɗa, da ⟨את⟩ kandaji; Ḥuram ya kammala yin ⟨את⟩ aikin da ya yi wa Sarki Shlomoh a cikin Bayit ⟨na⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Ḥuram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukwane"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "tukwane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "gyaɗa"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "gyaɗa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kandaji"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "kandaji"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "ya kammala"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Ḥiram"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aikin"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "wa Sarki"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoh"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a cikin Bayit"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-13T00:41:28.949509391Z",
+  "model": "glm-5.2"
+}

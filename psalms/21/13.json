@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Domin za ka sanya ⟨a⟩ baya ⟨את⟩ ⟨suzu⟩, da baken baka za ka shirya ⟨a⟩ fuskar su.",
+  "tokens": [
+    {
+      "surface": "כִּ֭י",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "תְּשִׁיתֵ֣מוֹ",
+      "gloss": "za ka sanya su"
+    },
+    {
+      "surface": "שֶׁ֑כֶם",
+      "gloss": "baya"
+    },
+    {
+      "surface": "בְּ֝מֵֽיתָרֶ֗יךָ",
+      "gloss": "da baken baka"
+    },
+    {
+      "surface": "תְּכוֹנֵ֥ן",
+      "gloss": "za ka shirya"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a"
+    },
+    {
+      "surface": "פְּנֵיהֶֽם",
+      "gloss": "fuskar su"
+    }
+  ],
+  "timestamp": "2026-08-12T19:23:59.656908053Z",
+  "model": "glm-5.2"
+}

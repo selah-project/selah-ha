@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 146,
+  "translation": "Yabo ga Yah! Nefesh⟨na⟩, yi yabo ga ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "yi yabo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "yi yabo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh⟨na⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T20:59:01.196624213Z",
+  "model": "glm-5.2"
+}

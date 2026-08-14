@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Domi masu cuta za a yanke su, kuma masu jir'an Yahweh, su ne za su gaji ƙasa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domi"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "masu cuta"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "za a yanke su"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "kuma masu jir'an"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המה",
+      "gloss": "su ne"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "za su gaji"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:38:22.871646270Z",
+  "model": "glm-5.2"
+}

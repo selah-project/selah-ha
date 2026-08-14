@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Suna ƙyamata ni, sun nisantar da ni daga gare ni, kuma ba su hana tuƙo daga gaban ni.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "Suna ƙyamata ni"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "sun nisantar da ni"
+    },
+    {
+      "surface": "מני",
+      "gloss": "daga gare ni"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "kuma daga gaban ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba su hana"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "⟨suka tuƙo⟩"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tuƙo"
+    }
+  ],
+  "timestamp": "2026-08-13T02:33:54.763826222Z",
+  "model": "glm-5.2"
+}

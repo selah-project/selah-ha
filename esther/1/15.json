@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "A cewar doka, me a yi wa sarauniya Vashti, saboda ba ta aikata ⟨את⟩ umarnin sarki Achashverosh a hannun bātūda?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "A cewar doka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "me"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "a yi"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "wa sarauniya"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨cewa⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ta aikata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umarnin"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "umarnin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "a hannun"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "bātūda"
+    }
+  ],
+  "timestamp": "2026-08-12T22:53:40.166731171Z",
+  "model": "glm-5.2"
+}

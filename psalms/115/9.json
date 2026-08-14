@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 115,
+  "translation": "Yisra'el, ka dogara da Yahweh; taimakonsu ⟨ne⟩ ⟨kuma⟩ garkuwarsu ⟨shi⟩.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ka dogara"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "da Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "taimakonsu"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "⟨kuma⟩ garkuwarsu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ne⟩ ⟨shi⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:38:17.507643980Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 92,
+  "translation": "Ya girma yadda ayyukan Ka suke, Yahweh, matuƙar zurfa ne tunanin Ka.",
+  "tokens": [
+    {
+      "surface": "מַה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "גָּדְל֣וּ",
+      "gloss": "girma"
+    },
+    {
+      "surface": "מַעֲשֶׂ֣יךָ",
+      "gloss": "ayyukan Ka"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מְ֝אֹ֗ד",
+      "gloss": "matuƙar"
+    },
+    {
+      "surface": "עָמְק֥וּ",
+      "gloss": "zurfa ne"
+    },
+    {
+      "surface": "מַחְשְׁבֹתֶֽיךָ",
+      "gloss": "tunanin Ka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:23:25.647403441Z",
+  "model": "glm-5.2"
+}

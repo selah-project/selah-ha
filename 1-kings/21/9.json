@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma ta rubuta cikin ⟨takardun⟩ ⟨cewa⟩, ina fata: Ku bayyana azumi, kuma ku kafa ⟨את⟩ Naboth a kan gaba na ⟨al'ummar⟩.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "kuma ta rubuta"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "cikin takardu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ku bayyana"
+    },
+    {
+      "surface": "צום",
+      "gloss": "azumi"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "kuma ku kafa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naboth"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Naboth"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "a kan gaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "al'ummar"
+    }
+  ],
+  "timestamp": "2026-08-13T02:05:15.939886509Z",
+  "model": "glm-5.2"
+}

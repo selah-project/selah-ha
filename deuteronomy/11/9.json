@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 11:9",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "kuma domin ku tsawaita kwanaku a ƙasar da Yahweh ya yi rantsuwa ga ubanninku ⟨don⟩ ya bayar musu da kuma zuriyarsu, ƙasa ⟨ce⟩ mai gudan nono da zuma.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "kuma domin"
+    },
+    {
+      "surface": "תאריכו",
+      "gloss": "ku tsawaita"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaku"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ya yi rantsuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "ga ubanninku"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "⟨don⟩ ya bayar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "da kuma zuriyarsu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "mai gudan"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "nono"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "da zuma"
+    }
+  ],
+  "timestamp": "2026-08-12T05:10:43.393081890Z",
+  "model": "glm-5.2"
+}

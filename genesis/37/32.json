@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 37:32",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Suka aiko da ⟨את⟩ rigar tsage-tsage, suka kawo wa ubansu, suka ce: \"Wannan mun same shi; ka gani ina roƙo, ko rigar ɗanka ce ko a'a.\"",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "suka aiko da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rigar tsage-tsage"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "rigar"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "tsage-tsage"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "suka kawo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ubansu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "mun same"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "ka gani"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ina roƙo"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "rigar"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ɗanka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a'a"
+    }
+  ],
+  "timestamp": "2026-08-12T00:09:02.599074684Z",
+  "model": "glm-5.2"
+}

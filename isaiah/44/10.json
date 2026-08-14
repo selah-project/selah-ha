@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Wāne ya faɗaɗa el, kuma ya gange mutum-tsimaga, ba ⟨don⟩ amfani?",
+  "tokens": [
+    {
+      "surface": "מִֽי",
+      "gloss": "Wāne"
+    },
+    {
+      "surface": "יָצַ֥ר",
+      "gloss": "ya faɗaɗa"
+    },
+    {
+      "surface": "אֵ֖ל",
+      "gloss": "el"
+    },
+    {
+      "surface": "וּפֶ֣סֶל",
+      "gloss": "kuma mutum-tsimaga"
+    },
+    {
+      "surface": "נָסָ֑ךְ",
+      "gloss": "ya gange"
+    },
+    {
+      "surface": "לְבִלְתִּ֖י",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הוֹעִֽיל",
+      "gloss": "amfani"
+    }
+  ],
+  "timestamp": "2026-08-12T14:11:58.364711572Z",
+  "model": "glm-5.2"
+}

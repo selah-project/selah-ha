@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ya ƙone a kansa turaren wareshe na kayan kamshi, kamar yadda Yahweh ya umurci ⟨את⟩ Mosheh.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "Kuma ya ƙone"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "turaren wareshe"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "kayan kamshi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:39:20.114451711Z",
+  "model": "glm-5.2"
+}

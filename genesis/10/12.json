@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Da ⟨את⟩ Resen, tsakanin Ninewa da Kalah; ita ce ⟨babu⟩ birni babu na girma.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Da ⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninewa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ita"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ce birni"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "na girma"
+    }
+  ],
+  "timestamp": "2026-08-11T23:29:16.739406567Z",
+  "model": "glm-5.2"
+}

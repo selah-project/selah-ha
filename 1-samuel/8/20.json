@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "„Mu ma mu zama kamar dukan sauran al'ummomi, domin sarkimu ya yi mana shari'a, ya fito gabanmu, mu kuma mu yaƙi ⟨את⟩ yaƙe-yaƙenmu.”",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "mu zama"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kamar dukan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "al'ummomi"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "domin ya yi mana shari'a"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "sarkimu"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ya fito"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "gabanmu"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "mu kuma mu yaƙi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaƙe-yaƙenmu"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "yaƙe-yaƙenmu"
+    }
+  ],
+  "timestamp": "2026-08-13T01:58:52.209899600Z",
+  "model": "glm-5.2"
+}

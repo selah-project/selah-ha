@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma a shigar da ⟨את⟩ sandunansa cikin zobe-zobe, kuma sandunan za su kasance a kan ƙofofin biyu na dakin babban gada a lodi ⟨את⟩ shi.",
+  "tokens": [
+    {
+      "surface": "וְהוּבָא",
+      "gloss": "kuma a shigar da"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sandunansa"
+    },
+    {
+      "surface": "בַּדָּיו",
+      "gloss": "sandunansa"
+    },
+    {
+      "surface": "בַּטַּבָּעֹת",
+      "gloss": "cikin zobe-zobe"
+    },
+    {
+      "surface": "וְהָיוּ",
+      "gloss": "kuma ⟨su⟩ za su kasance"
+    },
+    {
+      "surface": "הַבַּדִּים",
+      "gloss": "sandunan"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "שְׁתֵּי",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "צַלְעֹת",
+      "gloss": "ƙofofin"
+    },
+    {
+      "surface": "הַמִּזְבֵּחַ",
+      "gloss": "na dakin babban gada"
+    },
+    {
+      "surface": "בִּשְׂאֵת",
+      "gloss": "a lodi"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:06:53.716894103Z",
+  "model": "glm-5.2"
+}

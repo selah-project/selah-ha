@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 71,
+  "translation": "Na zama kamar alama ga masu yawa, amma kai ⟨ne⟩ mafakata ta ƙarfi.",
+  "tokens": [
+    {
+      "surface": "כְּ֭מוֹפֵת",
+      "gloss": "kamar alama"
+    },
+    {
+      "surface": "הָיִ֣יתִי",
+      "gloss": "Na zama"
+    },
+    {
+      "surface": "לְרַבִּ֑ים",
+      "gloss": "ga masu yawa"
+    },
+    {
+      "surface": "וְ֝אַתָּ֗ה",
+      "gloss": "amma kai"
+    },
+    {
+      "surface": "מַֽחֲסִי",
+      "gloss": "mafakata"
+    },
+    {
+      "surface": "עֹֽז",
+      "gloss": "ta ƙarfi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:00:52.091714727Z",
+  "model": "glm-5.2"
+}

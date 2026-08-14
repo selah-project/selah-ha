@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Rai na mugaye yana neman mugunta; ba a nuna masa alheri a idanensa ga kawunsa.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "rai"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "na mugaye"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "yana neman"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mugunta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "a nuna alheri"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "a idanensa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ga kawunsa"
+    }
+  ],
+  "timestamp": "2026-08-12T21:22:09.468772158Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 129,
+  "translation": "⟨Kuma⟩ masu wucewa ba za su faɗa ba, \"Albarkar Yahweh ⟨ta kasance⟩ a kanku; mu yi maƙu alberka ⟨a kanku⟩ ⟨את⟩ a cikin Sunan Yahweh.\"",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "⟨Kuma⟩ ba"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "za su faɗa"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "masu wucewa"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "Albarkar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "⟨ta kasance⟩ a kanku"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "mu yi maƙu alberka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "⟨a kanku⟩"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "a cikin Sunan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T20:49:15.940388361Z",
+  "model": "glm-5.2"
+}

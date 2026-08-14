@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "rayuwa ya nema daga gareka, ka ba shi; tsawon kwanaki har abadada har ala'ada.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "rayuwa"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ya nema"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "daga gareka"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ka ba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "tsawon"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "har abadada"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har ala'ada"
+    }
+  ],
+  "timestamp": "2026-08-12T19:27:52.146066908Z",
+  "model": "glm-5.2"
+}

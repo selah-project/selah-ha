@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Ahiya ya kama ⟨a⟩ cikin garmin sabuntar da ke kansa, ya tsage ta guda goma sha biyu.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "Kuma ya kama"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahiya"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "⟨a⟩ cikin garmin"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "sabuntar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ke kansa"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "ya tsage ta"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "guda biyu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(da) goma"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "guda"
+    }
+  ],
+  "timestamp": "2026-08-12T11:20:18.761683904Z",
+  "model": "glm-5.2"
+}

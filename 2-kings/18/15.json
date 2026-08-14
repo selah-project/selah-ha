@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Chizkiyah ya ba ⟨shi⟩ ⟨את⟩ dukkan azurfar da aka samu a cikin gidan Yahweh da kuma a cikin taskokin gidan sarki.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan azurfar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "azurfar"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "da aka samu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a cikin gidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "da kuma a cikin taskokin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    }
+  ],
+  "timestamp": "2026-08-12T12:34:55.774361802Z",
+  "model": "glm-5.2"
+}

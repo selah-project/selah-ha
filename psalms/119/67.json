@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Kafin in sha wahala, ni ina tunkuɓe; amma yanzu kalarka na tsareta.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "kafin"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "in sha wahala"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "ina tunkuɓe"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "amma yanzu"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "kalarka"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "na tsareta"
+    }
+  ],
+  "timestamp": "2026-08-12T20:45:17.570352457Z",
+  "model": "glm-5.2"
+}

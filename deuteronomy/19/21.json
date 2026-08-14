@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma idanunka ba za ⟨ya⟩ tausaye ba: rai ⟨don⟩ rai, ido ⟨a maimakon⟩ ido, haƙori ⟨a maimakon⟩ haƙori, hannu ⟨a maimakon⟩ hannu, ƙafar ⟨a maimakon⟩ ƙafar.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kuma ba"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "za ⟨ya⟩ tausaye"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "idanunka"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rai"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "⟨don⟩ rai"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ido"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "⟨a maimakon⟩ ido"
+    },
+    {
+      "surface": "שן",
+      "gloss": "haƙori"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "⟨a maimakon⟩ haƙori"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hannu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨a maimakon⟩ hannu"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ƙafar"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "⟨a maimakon⟩ ƙafar"
+    }
+  ],
+  "timestamp": "2026-08-12T05:23:28.982597006Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "kuma Natan ya tafi gidansa, kuma Yahweh Ya yi wa ⟨את⟩ yaron da matar Uriya ta haifa wa Dawuda hari, kuma ya yi masa cuta mai tsanani.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kuma ya tafi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gidansa"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "kuma Ya yi wa hari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaron"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "yaron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ta haifa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "matar"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawuda"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "kuma ya yi masa cuta mai tsanani"
+    }
+  ],
+  "timestamp": "2026-08-12T10:18:01.994055211Z",
+  "model": "glm-5.2"
+}

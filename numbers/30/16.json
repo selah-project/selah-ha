@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma idan ta soke, ya soke ⟨את⟩ su bayan da ya ji, to yana ɗaukar ⟨את⟩ laifinta.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ya soke"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "ya soke"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "da ya ji"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "to yana ɗaukar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laifinta"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "laifinta"
+    }
+  ],
+  "timestamp": "2026-08-12T04:38:23.845306215Z",
+  "model": "glm-5.2"
+}

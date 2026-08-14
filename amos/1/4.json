@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma zan aiko wuta a cikin gidan Ḥaza'el, kuma za ta cinari ɗakunan Ben-Hadad.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Kuma zan aiko"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a cikin gidan"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Ḥaza'el"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "kuma za ta cinari"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "ɗakunan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    }
+  ],
+  "timestamp": "2026-08-12T18:29:00.044462265Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Amma rana ta bakwai ita ce Shabbat ga Yahweh, Elohiminka — ba za ka yi wani aiki ba, ⟨kai⟩, ɗanka, 'yarka, bawanka, kuyangarka, dabbanku, da baƙon da ke a ƙofofinka.",
+  "tokens": [
+    {
+      "surface": "וְיוֹם֙",
+      "gloss": "amma rana"
+    },
+    {
+      "surface": "הַשְּׁבִיעִ֔י",
+      "gloss": "ta bakwai"
+    },
+    {
+      "surface": "שַׁבָּ֖ת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "לַיהוָ֣ה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶ֑יךָ",
+      "gloss": "Elohiminka"
+    },
+    {
+      "surface": "לֹֽ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תַעֲשֶׂ֨ה",
+      "gloss": "za ka yi"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "wani"
+    },
+    {
+      "surface": "מְלָאכָ֜ה",
+      "gloss": "aiki"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "⟨kai⟩"
+    },
+    {
+      "surface": "וּבִנְךָֽ֣",
+      "gloss": "ɗanka"
+    },
+    {
+      "surface": "וּבִתֶּ֗ךָ",
+      "gloss": "'yarka"
+    },
+    {
+      "surface": "עַבְדְּךָ֤",
+      "gloss": "bawanka"
+    },
+    {
+      "surface": "וַאֲמָֽתְךָ֙",
+      "gloss": "kuyangarka"
+    },
+    {
+      "surface": "וּבְהֶמְתֶּ֔ךָ",
+      "gloss": "dabbanku"
+    },
+    {
+      "surface": "וְגֵרְךָ֖",
+      "gloss": "da baƙon"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "da ke"
+    },
+    {
+      "surface": "בִּשְׁעָרֶֽיךָ",
+      "gloss": "a ƙofofinka"
+    }
+  ],
+  "timestamp": "2026-08-12T00:56:22.466747415Z",
+  "model": "glm-5.2"
+}

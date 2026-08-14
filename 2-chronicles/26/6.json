@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma ya fita ya yaƙi ⟨da⟩ Falishtiyawa, kuma ya rushe ⟨את⟩ bango na Gat da ⟨את⟩ bango na Yavneh da ⟨את⟩ bango na Ashdod; kuma ya gina birane a Ashdod da tsakanin Falishtiyawa.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kuma ya fita"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ya yaƙi"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "⟨da⟩ Falishtiyawa"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "kuma ya rushe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bango na Gat"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "bango na"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "bango na Yavneh"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "bango na"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yavneh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "bango na Ashdod"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "bango na"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "kuma ya gina"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "birane"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "a Ashdod"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "da tsakanin Falishtiyawa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:53:05.528128992Z",
+  "model": "glm-5.2"
+}

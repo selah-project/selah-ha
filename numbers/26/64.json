@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 26:64",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma a cikin waɗannan ba a samu ⟨ko⟩ mutum ɗaya daga waɗanda Mosheh da Aharon ⟨babban⟩ kohēn suka ƙidayo, waɗanda suka ƙidayo ⟨את⟩ bānī Yisra'el a cikin jeji na Sinay.",
+  "tokens": [
+    {
+      "surface": "ובאלה",
+      "gloss": "Kuma a cikin waɗannan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a samu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum ɗaya"
+    },
+    {
+      "surface": "מפקודי",
+      "gloss": "daga waɗanda ... suka ƙidayo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "da Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨babban⟩ kohēn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "suka ƙidayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bānī Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bānī"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a cikin jeji"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "na Sinay"
+    }
+  ],
+  "timestamp": "2026-08-12T04:29:22.389290798Z",
+  "model": "glm-5.2"
+}

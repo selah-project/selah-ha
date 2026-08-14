@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "Ka yanka ⟨don⟩ Elohim hadayar godiya, kuma ka cika wa Elyon alkaworinka.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Ka yanka"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "⟨don⟩ Elohim"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "hadayar godiya"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "kuma ka cika"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "wa Elyon"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "alkaworinka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:48:34.444444361Z",
+  "model": "glm-5.2"
+}

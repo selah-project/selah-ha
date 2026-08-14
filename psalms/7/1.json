@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Shigaion na Dawuda, wanda ya rera wa Yahweh, game da kalamai na Kush ɗan Yamini.",
+  "tokens": [
+    {
+      "surface": "שִׁגָּי֗וֹן",
+      "gloss": "Shigaion"
+    },
+    {
+      "surface": "לְדָ֫וִ֥ד",
+      "gloss": "na Dawuda"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "שָׁ֥ר",
+      "gloss": "ya rera"
+    },
+    {
+      "surface": "לַיהוָ֑ה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "game da"
+    },
+    {
+      "surface": "דִּבְרֵי",
+      "gloss": "kalamai"
+    },
+    {
+      "surface": "כ֝֗וּשׁ",
+      "gloss": "na Kush"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "יְמִינִֽי",
+      "gloss": "Yamini"
+    }
+  ],
+  "timestamp": "2026-08-13T02:22:56.582795870Z",
+  "model": "glm-5.2"
+}

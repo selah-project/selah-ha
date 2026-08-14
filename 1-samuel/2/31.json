@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Ga shi, kwana suna zuwa, kuma zan yanke ⟨את⟩ hannunka da ⟨את⟩ hannun gidan ubanka, har ∄ manya a cikin gidanka.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ga shi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "באים",
+      "gloss": "suna zuwa"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "kuma zan yanke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannunka"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "hannunka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hannun"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "hannun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ubanka"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "har ∄"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "manya"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "a cikin gidanka"
+    }
+  ],
+  "timestamp": "2026-08-12T08:30:51.463765691Z",
+  "model": "glm-5.2"
+}

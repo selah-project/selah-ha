@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 23:20",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Ga shi, ni Ina tura manzo a gaban ka, don ya tsare ka a kan hanya, kuma ya kawo ka zuwa ga wajen da Na shirya.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ga shi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Ina tura"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "manzo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "a gaban ka"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "don ya tsare ka"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "a kan hanya"
+    },
+    {
+      "surface": "ולהביאך",
+      "gloss": "kuma ya kawo ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "wajen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הכנתי",
+      "gloss": "Na shirya"
+    }
+  ],
+  "timestamp": "2026-08-12T01:02:05.646640981Z",
+  "model": "glm-5.2"
+}

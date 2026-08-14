@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 7:16",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma ka faɗa masa: Yahweh, Elohim na ʿIvriy, ya aiko ni zuwa gare ka, ⟨don⟩ cewa: Saki ⟨את⟩ mutanena, su bauta min a cikin jeji; kuma ga shi, ba ka saurara har yanzu.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "kuma ka faɗa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ʿIvriy"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ya aiko ni"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zuwa gare ka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨don⟩ cewa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "saki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanena"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mutanena"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "su bauta min"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a cikin jeji"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kuma ga shi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ka saurara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "כה",
+      "gloss": "yanzu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:34:27.180819643Z",
+  "model": "glm-5.2"
+}

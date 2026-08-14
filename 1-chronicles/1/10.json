@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma Kush ya haifa ⟨את⟩ Nimrod; shi ne ya fara zama jarumi a ƙasa.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Kuma Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ne ya fara"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "zama"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "jarumi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T23:54:26.452659412Z",
+  "model": "glm-5.2"
+}

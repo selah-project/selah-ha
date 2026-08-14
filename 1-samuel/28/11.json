@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Kuma mace ta ce, ⟨את⟩ wa za ni hora maka? Kuma ya ce, ⟨את⟩ Shemu'el, hora mini.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Kuma ta ce"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "za ni hora"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemu'el"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "hora"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mini"
+    }
+  ],
+  "timestamp": "2026-08-12T09:42:23.056642917Z",
+  "model": "glm-5.2"
+}

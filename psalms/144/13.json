@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 144,
+  "translation": "Gidan ajinmu suna cike, suna fitar da iri-iri ⟨daga⟩ iri zuwa iri; garken tumakinmu suna yawa dubu da goma dubu a hanyoyinmu.",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "gidan ajinmu"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "suna cike"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "suna fitar da"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "iri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "זן",
+      "gloss": "iri"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "garken tumakinmu"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "suna yawa dubu"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "goma dubu"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "a hanyoyinmu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:57:08.863327166Z",
+  "model": "glm-5.2"
+}

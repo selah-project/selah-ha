@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "kuma ka yanke ⟨את⟩ ɗaŋka, kuma ka ba su, wajen shigar da ⟨את⟩ su don ⟨a wajen⟩ su.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "kuma ka yanke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗaŋka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗaŋka"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "kuma ka ba su"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "wajen shigar da"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "להם",
+      "gloss": "don ⟨a wajen⟩ su"
+    }
+  ],
+  "timestamp": "2026-08-12T17:06:30.753964803Z",
+  "model": "glm-5.2"
+}

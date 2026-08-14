@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Da yawa girman tōɓarka, wanda ka ɓoya ga masu gābin ka, wanda ka aikata wa masu mafaka ⟨a cikin⟩ kai, a gaban ƴaƴan adam!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Da yawa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "girman"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "tōɓarka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "ka ɓoya"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "ga masu gābin ka"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ka aikata"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "wa masu mafaka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨a cikin⟩ kai"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴaƴan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    }
+  ],
+  "timestamp": "2026-08-12T19:31:12.578633203Z",
+  "model": "glm-5.2"
+}

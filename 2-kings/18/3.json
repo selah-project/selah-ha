@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 18:3",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma ya yi abin da ⟨shi ne⟩ mai kyau a idanun Yahweh, a kowane abin da Dawuda mahaifinsa ya yi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "abin da ⟨shi ne⟩ mai kyau"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "a kowane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "mahaifinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:33:39.948342476Z",
+  "model": "glm-5.2"
+}

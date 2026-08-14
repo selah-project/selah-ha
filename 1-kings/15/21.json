@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma ⟨ya faru⟩ a lokacin da Baʿsha ya ji ⟨labarin⟩, ya daina gina ⟨את⟩ Rama, ya kuma zauna a Tirza.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya faru"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "a lokacin da ya ji"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baʿsha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "ya daina"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "daga gina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ya kuma zauna"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "a Tirza"
+    }
+  ],
+  "timestamp": "2026-08-12T11:34:26.128921915Z",
+  "model": "glm-5.2"
+}

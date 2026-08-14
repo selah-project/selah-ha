@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Domi zuci'yarsu tana tunanin lalata, kuma leɓunsu suna maganar wahala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domi"
+    },
+    {
+      "surface": "שד",
+      "gloss": "lalata"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "tana tunanin"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "zuci'yarsu"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "kuma wahala"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "leɓunsu"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "suna maganar"
+    }
+  ],
+  "timestamp": "2026-08-12T21:29:22.232830041Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 7:9",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma shugaban Ephrajim ⟨ne⟩ Shomeron, kuma shugaban Shomeron ⟨ne⟩ ɗan Remaljah. Idan ba za ku yi imani ba, haƙiƙa ba za ku tabbata ba.",
+  "tokens": [
+    {
+      "surface": "וראש",
+      "gloss": "Kuma shugaban"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrajim"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "kuma shugaban"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaljah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "za ku yi imani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haƙiƙa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תאמנו",
+      "gloss": "za ku tabbata"
+    }
+  ],
+  "timestamp": "2026-08-12T13:00:35.469104244Z",
+  "model": "glm-5.2"
+}

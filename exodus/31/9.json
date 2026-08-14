@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "da ⟨את⟩ dakin hadayar wuta da ⟨את⟩ dukkan kayan sa, da ⟨את⟩ kwanyar wanka da ⟨את⟩ matakansa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dakin hadayar wuta"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "daki"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "hadayar wuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukkan kayan sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kayan sa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kwanyar wanka"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "kwanyar wanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "matakansa"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "matakansa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:15:29.824354700Z",
+  "model": "glm-5.2"
+}

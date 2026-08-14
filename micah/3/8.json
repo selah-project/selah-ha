@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Amma ni, an cika ni da ƙarfi, ⟨da⟩ ⟨את⟩ Ruhun Yahweh, da shari'a da karfin mutum, don in bayyana wa Ya'aƙub laifinsa, kuma wa Isra'ila zunubansa.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "amma"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "an cika ni"
+    },
+    {
+      "surface": "כח",
+      "gloss": "da ƙarfi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ruhun Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ruhun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "da shari'a"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "da karfin mutum"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "don in bayyana"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "wa Ya'aƙub"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "laifinsa"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "kuma wa Isra'ila"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "zunubansa"
+    }
+  ],
+  "timestamp": "2026-08-12T18:40:45.090587469Z",
+  "model": "glm-5.2"
+}

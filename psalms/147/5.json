@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 147,
+  "translation": "Babban ne Adonai mu, kuma yana da ƙarfi da yawa; ga fahimtarsa babu ⟨wani⟩ adadi.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Babban"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonai mu"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "kuma yana da yawa"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ƙarfi"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "ga fahimtarsa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "adadi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:59:27.647154130Z",
+  "model": "glm-5.2"
+}

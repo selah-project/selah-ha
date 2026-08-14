@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Yahweh, kada ka yanke min hukunci cikin fushinka, kuma kada ka horar da ni cikin rugumin ⟨nauye⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "cikin fushinka"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "ka yanke min hukunci"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "kuma cikin rugumin ⟨nauye⟩"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "ka horar da ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:40:58.833341722Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 71,
+  "translation": "Gama maƙiyai sun faɗa game da ni, kuma waɗanda ke tsare rana mai suna yin shawara tare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gama"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sun faɗa"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "maƙiyai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "game da ni"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "kuma waɗanda ke tsare"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rana"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "sun yi shawara ⟨ce⟩"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tare"
+    }
+  ],
+  "timestamp": "2026-08-12T20:00:33.792319252Z",
+  "model": "glm-5.2"
+}

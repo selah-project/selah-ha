@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma ya dora hannunsa a kan kan ɗan akuyar, kuma ya yanka ⟨את⟩ shi a wurin da ake yanka ⟨את⟩ hadayar ƙonawa a gaban Yahweh; hadayar zunubi ce.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "kuma ya dora"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hannunsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ɗan akuyar"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "kuma ya yanka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "a wurin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ake yanka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadayar ƙonawa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "hadayar ƙonawa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "hadayar zunubi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ce"
+    }
+  ],
+  "timestamp": "2026-08-12T01:53:27.085543100Z",
+  "model": "glm-5.2"
+}

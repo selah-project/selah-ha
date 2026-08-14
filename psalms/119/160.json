@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Faran maganarka ⟨itace⟩ gaskiya; kuma har abada, duk hukuncin adalanka.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "faran"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "maganarka"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "gaskiya"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "kuma har abada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukuncin"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "adalanka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:45:53.797135805Z",
+  "model": "glm-5.2"
+}

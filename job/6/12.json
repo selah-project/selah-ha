@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Shin ƙarfina ƙarfin duwatssu ne? Ko jikina tagulla ne?",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "shin"
+    },
+    {
+      "surface": "כֹּ֣חַ",
+      "gloss": "ƙarfi"
+    },
+    {
+      "surface": "אֲבָנִ֣ים",
+      "gloss": "duwatssu"
+    },
+    {
+      "surface": "כֹּחִ֑י",
+      "gloss": "ƙarfina"
+    },
+    {
+      "surface": "אִֽם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בְּשָׂרִ֥י",
+      "gloss": "jikina"
+    },
+    {
+      "surface": "נָחֽוּשׁ",
+      "gloss": "tagulla"
+    }
+  ],
+  "timestamp": "2026-08-12T21:42:32.837613299Z",
+  "model": "glm-5.2"
+}

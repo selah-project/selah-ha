@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Ya aiko taimakonka daga mahaɗin-tsarki, kuma daga Tsiyon ya saƙa ⟨ce⟩.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ya aiko"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "taimakonka"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "daga mahaɗin-tsarki"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "kuma daga Tsiyon"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "ya saƙa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:25:57.282332580Z",
+  "model": "glm-5.2"
+}

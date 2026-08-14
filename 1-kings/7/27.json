@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 7:27",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma ya yi ⟨את⟩ guraben karafa gomasha; ⟨faɗin⟩ ƙafar huɗu ne tsayin guraben ɗaya, huɗu ƙafar faɗinsa, uku ƙafar tsayinsa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guraban karafa goma"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "guraban"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "goma"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "karafa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "huɗu"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ƙafar"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "tsayin"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "guraben"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "huɗu"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ƙafar"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "faɗinsa"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "uku"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ƙafar"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "tsayinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T11:06:56.263730130Z",
+  "model": "glm-5.2"
+}

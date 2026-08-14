@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Da mai yiwuwa in san, in same shi, in zo har zuwa wurin ⟨zamansa⟩!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ya bayar"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "in san"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "in same shi"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "in zo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "wurin zamansa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:00:38.797385236Z",
+  "model": "glm-5.2"
+}

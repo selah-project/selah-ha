@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma kohen mai tsarkakewa ya tsayar da ⟨את⟩ mutumin da ake tsarkakewa da ⟨את⟩ su a gaban Yahweh, a ƙofar Ɓangaron Taro.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "kuma ya tsayar da"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "mai tsarkakewa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutumin da ake tsarkakewa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "da ake tsarkakewa"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "da ⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "a ƙofar"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ɓangaron"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Taro"
+    }
+  ],
+  "timestamp": "2026-08-12T02:12:53.215476822Z",
+  "model": "glm-5.2"
+}

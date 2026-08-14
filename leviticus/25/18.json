@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma ku yi ⟨את⟩ dokokina, kuma ⟨את⟩ hukuncocina za ku kiyaye, kuma ku yi ⟨את⟩ su, kuma za ku zauna a kasa cikin aminci.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "Kuma ku yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dokokina"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "dokokina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "hukuncocina"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukuncocina"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "za ku kiyaye"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "kuma ku yi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ su"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "kuma za ku zauna"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kasa"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "cikin aminci"
+    }
+  ],
+  "timestamp": "2026-08-12T02:53:37.392618810Z",
+  "model": "glm-5.2"
+}

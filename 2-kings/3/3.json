@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Sai dai a cikin zunuban Yarob'am ɗan Nevat wanda ya sa ⟨את⟩ Yisra'el ya yi zunubi, ya manna; ba ya juya daga gare ta.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Sai dai"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "a cikin zunuban"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarob'am"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ya sa ya yi zunubi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "ya manna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ya juya"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "daga gare ta"
+    }
+  ],
+  "timestamp": "2026-08-12T11:55:49.631954983Z",
+  "model": "glm-5.2"
+}

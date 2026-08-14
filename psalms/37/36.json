@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Amma ya wuce, gani shi, ba shi da shi; kuma na neme shi, amma ba a same shi ba.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Amma ya wuce"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "gani shi"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ba shi da shi"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "kuma na neme shi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "a same shi ba"
+    }
+  ],
+  "timestamp": "2026-08-12T19:39:24.228664767Z",
+  "model": "glm-5.2"
+}

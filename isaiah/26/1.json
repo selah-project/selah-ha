@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 26:1",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "A cikin ⟨wannan⟩ rana, ⟨za a⟩ rera wannan waƙa a cikin ƙasar Yehuda: wata birni mai ƙarfi ⟨ne⟩ gare mu; ⟨Аллah⟩ ya sanya ⟨את⟩ gypsuma a matsayin ganuwa da katanga.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "A cikin rana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "יושר",
+      "gloss": "za a rera"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "waƙa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a cikin ƙasar"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "birni"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mai ƙarfi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "gare mu"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "tafar",
+      "notes": "Token captures concrete salvation-image."
+    },
+    {
+      "surface": "ישית",
+      "gloss": "ya sanya"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "ganuwa"
+    },
+    {
+      "surface": "וחל",
+      "gloss": "da katanga"
+    }
+  ],
+  "timestamp": "2026-08-12T13:35:57.860068014Z",
+  "model": "glm-5.2"
+}

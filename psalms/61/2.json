@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 61,
+  "translation": "Saurari, Elohim, kurawata, ka mai da bisa ga addu'ata.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Saurari"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "kurawata"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "ka mai da bisa"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "addu'ata"
+    }
+  ],
+  "timestamp": "2026-08-12T19:56:36.732378969Z",
+  "model": "glm-5.2"
+}

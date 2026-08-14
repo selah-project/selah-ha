@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "An yi albarka ⟨ga⟩ Yahweh, Elohim na Yisra'el, daga har abada har abada, amin, da amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "An yi albarka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨ga⟩ Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "daga har abada"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "abada"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "da amin"
+    }
+  ],
+  "timestamp": "2026-08-12T19:40:33.246489032Z",
+  "model": "glm-5.2"
+}

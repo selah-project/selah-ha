@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Yahweh zai shiga ⟨don⟩ shari'a tare da dattijan mutanensa da shugabanninsa, kuma kûkun, kûkun lalata ⟨gonar inabari⟩, fashin matalauci yana cikin gidajenku.",
+  "tokens": [
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בְּמִשְׁפָּ֣ט",
+      "gloss": "⟨don⟩ shari'a"
+    },
+    {
+      "surface": "יָב֔וֹא",
+      "gloss": "zai shiga"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "זִקְנֵ֥י",
+      "gloss": "dattijan"
+    },
+    {
+      "surface": "עַמּ֖וֹ",
+      "gloss": "mutanensa"
+    },
+    {
+      "surface": "וְשָׂרָ֑יו",
+      "gloss": "da shugabanninsa"
+    },
+    {
+      "surface": "וְאַתֶּם֙",
+      "gloss": "kuma kûkun"
+    },
+    {
+      "surface": "בִּֽעַרְתֶּ֣ם",
+      "gloss": "kûkun lalata"
+    },
+    {
+      "surface": "הַכֶּ֔רֶם",
+      "gloss": "gonar inabari"
+    },
+    {
+      "surface": "גְּזֵלַ֥ת",
+      "gloss": "fashin"
+    },
+    {
+      "surface": "הֶֽעָנִ֖י",
+      "gloss": "matalauci"
+    },
+    {
+      "surface": "בְּבָתֵּיכֶֽם",
+      "gloss": "cikin gidajenku"
+    }
+  ],
+  "timestamp": "2026-08-12T12:59:59.855812596Z",
+  "model": "glm-5.2"
+}

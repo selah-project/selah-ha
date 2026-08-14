@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Sheol, da cikin mahaifa maras haihuwa, da ƙasã wadda ba ta shãɗa ruwa, da wutã wadda ba ta faɗa: 'Yã isa.'",
+  "tokens": [
+    {
+      "surface": "שְׁאוֹל֮",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "וְעֹ֪צֶ֫ר",
+      "gloss": "da maras haihuwa"
+    },
+    {
+      "surface": "רָ֥חַם",
+      "gloss": "cikin mahaifa"
+    },
+    {
+      "surface": "אֶ֭רֶץ",
+      "gloss": "da ƙasã"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שָׂבְעָ֣ה",
+      "gloss": "ta shãɗa"
+    },
+    {
+      "surface": "מַּ֑יִם",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "וְ֝אֵ֗שׁ",
+      "gloss": "da wutã"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אָ֥מְרָה",
+      "gloss": "ta faɗa"
+    },
+    {
+      "surface": "הֽוֹן",
+      "gloss": "'Yã isa'"
+    }
+  ],
+  "timestamp": "2026-08-12T21:35:24.717625618Z",
+  "model": "glm-5.2"
+}

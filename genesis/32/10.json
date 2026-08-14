@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 32:10",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Kuma Ya'aƙubu ya ce: Elohim na ubana Avraham, da Elohim na ubana Yitschak, Yahweh wanda ya ce min, Ka koma ƙasarka da ⟨wa⟩ asalin ka, kuma zan yi muki alheri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aƙubu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "na ubana"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "da Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "na ubana"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "wanda ya ce"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Ka koma"
+    },
+    {
+      "surface": "לארצך",
+      "gloss": "ƙasarka"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "da ⟨wa⟩ asalin ka"
+    },
+    {
+      "surface": "ואיטיבה",
+      "gloss": "kuma zan yi muki alheri"
+    },
+    {
+      "surface": "עמך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-11T23:59:02.054401949Z",
+  "model": "glm-5.2"
+}

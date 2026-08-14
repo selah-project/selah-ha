@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Sha'awar ƙanqara ka ji, Yahweh; zuciyyarsu za ka daidaita, kunne ka za ka sa ka saurare.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "sha'awa"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ƙanqara"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ka ji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "za ka daidaita"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "zuciyyarsu"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "za ka saurare"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "kunne ka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:18:16.107613217Z",
+  "model": "glm-5.2"
+}

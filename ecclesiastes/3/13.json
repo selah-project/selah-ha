@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma kowane mutum ya ci, ya sha, ya ga alhẽri a duk wani hailarsa — ⟨hũ⟩ kyautar Elohim ⟨ce⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "ya ci"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ya sha"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ya ga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "alhẽri"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "hailarsa"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "kyautar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨hũ⟩ ⟨ce⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T22:42:46.705043075Z",
+  "model": "glm-5.2"
+}

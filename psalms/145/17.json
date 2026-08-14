@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 145,
+  "translation": "Adalci Yahweh ⟨yake⟩ a cikin dukkan hanyoyinSa, kuma mai gafara ⟨yake⟩ a cikin dukkan ayyukanSa.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "adalci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a cikin dukkan"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "hanyoyinSa"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "kuma mai gafara"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a cikin dukkan"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ayyukanSa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:58:30.061738636Z",
+  "model": "glm-5.2"
+}

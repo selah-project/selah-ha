@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "kuma don banbanta tsakanin tsarkin da tsakanin baturkan, da tsakanin marar-tsarki da tsakanin mait-tsarki,",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "kuma don banbanta"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tsarkin"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da tsakanin"
+    },
+    {
+      "surface": "החל",
+      "gloss": "baturkan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da tsakanin"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "marar-tsarki"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da tsakanin"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "mait-tsarki"
+    }
+  ],
+  "timestamp": "2026-08-12T01:58:54.523897729Z",
+  "model": "glm-5.2"
+}

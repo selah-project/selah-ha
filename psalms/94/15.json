@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 94,
+  "translation": "domin shari'a za ta koma ga adalci, ⟨kuma⟩ bayansa ⟨suna⟩ duk masu kaƙkaryan zuciya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨zuwa⟩"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adalci"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "za ta koma"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "shari'a"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "⟨kuma⟩ bayansa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "masu kaƙkaryan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:21:28.682991755Z",
+  "model": "glm-5.2"
+}

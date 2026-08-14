@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 15:23",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Dõmin taurin kai kamar zunubi ne na sihiri, da mugun nufi da siffõkin gida suna kamar bautar gumãka. Dõmin ka ƙi ⟨את⟩ kalmar Yahweh, sai shĩ ma Ya ƙi ka daga zama sarki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "zunubi"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "sihiri"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "taurin kai"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "mugun nufi"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "siffõkin gida"
+    },
+    {
+      "surface": "הפצר",
+      "gloss": "suna kamar"
+    },
+    {
+      "surface": "יען",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "ka ƙi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalmar"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalmar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וימאסך",
+      "gloss": "Sai shĩ ma Ya ƙi ka"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "daga zama sarki"
+    }
+  ],
+  "timestamp": "2026-08-12T09:04:06.808371080Z",
+  "model": "glm-5.2"
+}

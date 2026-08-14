@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Shi ma ⟨אֵת⟩ zuwa Ashur za a ɗauke shi, a matsayin kyauta ga Sarki Yarev; zalla za ta waiwaya Efrayim, kuma Isra'il za ta ji kunya game da shawararsa.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Shi ma"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "shi (gunkin)"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "zuwa Ashur"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "za a ɗauke shi"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "a matsayin kyauta"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ga Sarki"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yarev"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "zalla"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "za ta waiwaya Efrayim"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "za ta ji"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "kuma kunya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'il"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "game da shawararsa"
+    }
+  ],
+  "timestamp": "2026-08-12T18:20:38.401592298Z",
+  "model": "glm-5.2"
+}

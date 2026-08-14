@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 145,
+  "translation": "Idonunu duka suna doran ⟨bege⟩ gare Kai, kuma Kai kana bayar musu da ⟨את⟩ abincinsu a lokacinsa.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Idonunu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gare Kai"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "suna doran ⟨bege⟩"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kuma Kai"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "kana bayar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abincinsu"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "abincinsu"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "a lokacinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:58:36.362141749Z",
+  "model": "glm-5.2"
+}

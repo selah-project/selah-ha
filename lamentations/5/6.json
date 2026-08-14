@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Mitsrayim muka baiwa ⟨a⟩ hannu, Ashur, don aoshi da burodi.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "muka baiwa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hannu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "don aoshi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "da burodi"
+    }
+  ],
+  "timestamp": "2026-08-12T22:38:52.230874304Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 93,
+  "translation": "⟨Fiye da⟩ muryoyin ruwa masu yawa, masu ƙarfi ⟨fiye da⟩ muragun teku, Yahweh a cikin tsaunin ⟨ya fi⟩ ƙarfi.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "muryoyin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "masu yawa"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "masu ƙarfi"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "muragun"
+    },
+    {
+      "surface": "ים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "⟨ya fi⟩ ƙarfi"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "a cikin tsaunin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T20:22:05.843316213Z",
+  "model": "glm-5.2"
+}

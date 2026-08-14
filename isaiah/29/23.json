@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 29:23",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Gama idan ya ga 'ya'yansa — aikin hannayena — a tsakmarsa, za su tsarkake sunana, kuma za su tsarkake ⟨את⟩ Tsarkin Ya'akov, kuma Elohim na Isra'ela za su girmama ⟨da tsoro⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gama"
+    },
+    {
+      "surface": "בראתו",
+      "gloss": "idan ya ga"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "'ya'yansa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hannayena"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "a tsakmarsa"
+    },
+    {
+      "surface": "יקדישו",
+      "gloss": "za su tsarkake"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "sunana"
+    },
+    {
+      "surface": "והקדישו",
+      "gloss": "kuma za su tsarkake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsarkin"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Tsarkin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ela"
+    },
+    {
+      "surface": "יעריצו",
+      "gloss": "za su girmama ⟨da tsoro⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T02:09:15.214073259Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 21:17",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Faɗa ⟨ga⟩ Aharon, ⟨cewa⟩: Kowane mutum daga zuriyarka, cikin ƙwararrunsu, wanda akwai ⟨a⟩ cikinsa gurguwa, bai kamai ya kusanta ya ƙawo gurasar Elohim nasa.",
+  "tokens": [
+    {
+      "surface": "דַּבֵּ֥ר",
+      "gloss": "Faɗa"
+    },
+    {
+      "surface": "אֶֽל",
+      "gloss": "⟨ga⟩"
+    },
+    {
+      "surface": "אַהֲרֹ֖ן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לֵאמֹ֑ר",
+      "gloss": "⟨cewa⟩"
+    },
+    {
+      "surface": "אִ֣ישׁ",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "מִֽזַּרְעֲךָ֞",
+      "gloss": "daga zuriyarka"
+    },
+    {
+      "surface": "לְדֹרֹתָ֗ם",
+      "gloss": "cikin ƙwararrunsu"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "יִהְיֶ֥ה",
+      "gloss": "akwai"
+    },
+    {
+      "surface": "בוֹ֙",
+      "gloss": "a cikinsa"
+    },
+    {
+      "surface": "מ֔וּם",
+      "gloss": "gurguwa"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יִקְרַ֔ב",
+      "gloss": "ya kusanta"
+    },
+    {
+      "surface": "לְהַקְרִ֖יב",
+      "gloss": "ya ƙawo"
+    },
+    {
+      "surface": "לֶ֥חֶם",
+      "gloss": "gurasar"
+    },
+    {
+      "surface": "אֱלֹהָֽיו",
+      "gloss": "Elohim nasa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:39:43.115106123Z",
+  "model": "glm-5.2"
+}

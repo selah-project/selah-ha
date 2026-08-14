@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Kada kaji tsoro lokacin da mutum ya wadata, lokacin da ɗaukaka gidansa ta yawaita;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kaji tsoro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lokacin da"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ya wadata"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lokacin da"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ta yawaita"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ɗaukaka"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gidansa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:48:18.969891736Z",
+  "model": "glm-5.2"
+}

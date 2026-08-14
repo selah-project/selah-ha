@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 51:21",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 51,
+  "translation": "Sa'an nan za ka ji daɗin ƙurabai na adalci, ƙabo da ⟨gabaɗaya⟩; sa'an nan za su hau a kan madibabin ka shanu.",
+  "tokens": [
+    {
+      "surface": "אָ֤ז",
+      "gloss": "Sa'an nan"
+    },
+    {
+      "surface": "תַּחְפֹּ֣ץ",
+      "gloss": "za ka ji daɗin"
+    },
+    {
+      "surface": "זִבְחֵי",
+      "gloss": "ƙurabai na"
+    },
+    {
+      "surface": "צֶ֭דֶק",
+      "gloss": "adalci"
+    },
+    {
+      "surface": "עוֹלָ֣ה",
+      "gloss": "ƙabo"
+    },
+    {
+      "surface": "וְכָלִ֑יל",
+      "gloss": "da ⟨gabaɗaya⟩"
+    },
+    {
+      "surface": "אָ֤ז",
+      "gloss": "sa'an nan"
+    },
+    {
+      "surface": "יַעֲל֖וּ",
+      "gloss": "za su hau"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "מִזְבַּחֲךָ֣",
+      "gloss": "madibabin ka"
+    },
+    {
+      "surface": "פָרִֽים",
+      "gloss": "shanu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:49:23.887557894Z",
+  "model": "glm-5.2"
+}

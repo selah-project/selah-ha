@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Idan ka ga jakin wanda yake ƙin ka yana kwance a ƙarƙashin kaya nasa, kuma ka daina taimakon sa, ⟨lalle⟩ zaka taimaka ⟨shi⟩ tare da shi.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "תִרְאֶ֞ה",
+      "gloss": "ka ga"
+    },
+    {
+      "surface": "חֲמ֣וֹר",
+      "gloss": "jakin"
+    },
+    {
+      "surface": "שֹׂנַאֲךָ֗",
+      "gloss": "wanda yake ƙin ka"
+    },
+    {
+      "surface": "רֹבֵץ֙",
+      "gloss": "yana kwance"
+    },
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "a ƙarƙashin"
+    },
+    {
+      "surface": "מַשָּׂא֔וֹ",
+      "gloss": "kaya nasa"
+    },
+    {
+      "surface": "וְחָדַלְתָּ֖",
+      "gloss": "kuma ka daina"
+    },
+    {
+      "surface": "מֵעֲזֹ֣ב",
+      "gloss": "taimakon"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עָזֹ֥ב",
+      "gloss": "zaka taimaka"
+    },
+    {
+      "surface": "תַּעֲזֹ֖ב",
+      "gloss": "zaka taimaka"
+    },
+    {
+      "surface": "עִמּֽוֹ",
+      "gloss": "tare da shi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:58:51.127514962Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 86,
+  "translation": "Domin kai babba ⟨ne⟩, kuma kana ayyuka masu ban mamaki, kai ne Elohim ka ɗaya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "babba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "kuma kana ayyuka"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "masu ban mamaki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ka ɗaya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:14:48.324216520Z",
+  "model": "glm-5.2"
+}

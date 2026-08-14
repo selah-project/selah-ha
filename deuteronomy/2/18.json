@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kai kan tsallaka ⟨a⟩ yau ⟨את⟩ iyakar Mo'av, ⟨את⟩ Ar:",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kan tsallaka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyakar Mo'av"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "iyakar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'av"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    }
+  ],
+  "timestamp": "2026-08-12T04:51:30.366517897Z",
+  "model": "glm-5.2"
+}

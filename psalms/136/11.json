@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 136,
+  "translation": "kuma Ya fitar Yisra'el daga tsakãninsu, cẽwa har abãda chesed⟨sa⟩.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "kuma Ya fitar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "daga tsakãninsu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cẽwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abãda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed⟨sa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:52:24.082587396Z",
+  "model": "glm-5.2"
+}

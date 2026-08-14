@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 80,
+  "translation": "Ka sanya mu zama riƙe-rike ga makwabtamu, kuma maƙiyammu suna izgili da mu.",
+  "tokens": [
+    {
+      "surface": "תְּשִׂימֵ֣נוּ",
+      "gloss": "ka sanya mu"
+    },
+    {
+      "surface": "מָ֭דוֹן",
+      "gloss": "zama riƙe-rike"
+    },
+    {
+      "surface": "לִשְׁכֵנֵ֑ינוּ",
+      "gloss": "ga makwabtamu"
+    },
+    {
+      "surface": "וְ֝אֹיְבֵ֗ינוּ",
+      "gloss": "kuma maƙiyammu"
+    },
+    {
+      "surface": "יִלְעֲגוּ",
+      "gloss": "suna izgili"
+    },
+    {
+      "surface": "לָֽמוֹ",
+      "gloss": "da mu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:13:03.090357853Z",
+  "model": "glm-5.2"
+}

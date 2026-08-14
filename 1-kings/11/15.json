@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma ya faru a lokacin da Dawida yana tare da ⟨את⟩ Edom, a lokacin da Yoab shugaban soja ya hau don binne ⟨את⟩ waɗanda aka kashe, ya duka kowane namiji a cikin Edom —",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֗י",
+      "gloss": "Kuma ya faru"
+    },
+    {
+      "surface": "בִּֽהְי֤וֹת",
+      "gloss": "a lokacin da"
+    },
+    {
+      "surface": "דָּוִד֙",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אֱד֔וֹם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בַּעֲל֗וֹת",
+      "gloss": "a lokacin da ya hau"
+    },
+    {
+      "surface": "יוֹאָב֙",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "שַׂ֣ר",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "הַצָּבָ֔א",
+      "gloss": "soja"
+    },
+    {
+      "surface": "לִקְבֵּ֖ר",
+      "gloss": "don binne"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "waɗanda aka kashe"
+    },
+    {
+      "surface": "הַחֲלָלִ֑ים",
+      "gloss": "waɗanda aka kashe"
+    },
+    {
+      "surface": "וַיַּ֥ךְ",
+      "gloss": "ya duka"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "זָכָ֖ר",
+      "gloss": "namiji"
+    },
+    {
+      "surface": "בֶּאֱדֽוֹם",
+      "gloss": "a cikin Edom"
+    }
+  ],
+  "timestamp": "2026-08-12T11:18:03.247527541Z",
+  "model": "glm-5.2"
+}

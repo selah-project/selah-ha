@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Mutum matalauci wanda yake dannun wa matalauta, ⟨shi⟩ ruwan da ke wankewa ne, wanda babu burodi.",
+  "tokens": [
+    {
+      "surface": "גֶּ֣בֶר",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "רָ֭שׁ",
+      "gloss": "matalauci"
+    },
+    {
+      "surface": "וְעֹשֵׁ֣ק",
+      "gloss": "wanda yake dannun wa"
+    },
+    {
+      "surface": "דַּלִּ֑ים",
+      "gloss": "matalauta"
+    },
+    {
+      "surface": "מָטָ֥ר",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "סֹ֝חֵ֗ף",
+      "gloss": "da ke wankewa"
+    },
+    {
+      "surface": "וְאֵ֣ין",
+      "gloss": "wanda babu"
+    },
+    {
+      "surface": "לָֽחֶם",
+      "gloss": "burodi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:30:23.935561614Z",
+  "model": "glm-5.2"
+}

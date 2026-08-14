@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Kuma ubanmu ya ce, \"Ku koma, ku saya mana ƙananan abinci.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ubanmu"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ku koma"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ku saya"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ƙananan"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "abinci"
+    }
+  ],
+  "timestamp": "2026-08-12T00:19:37.324472956Z",
+  "model": "glm-5.2"
+}

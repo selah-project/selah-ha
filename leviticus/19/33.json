@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma idan baƙo ya zauna ⟨את⟩ tare da kai a cikin ƙasarku, kada ku dannashi ⟨את⟩ shi.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ya zauna"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tare da kai",
+      "marks": "a cikin ƙasarku"
+    },
+    {
+      "surface": "גר",
+      "gloss": "baƙo"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "a cikin ƙasarku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "ku dannashi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    }
+  ],
+  "timestamp": "2026-08-12T02:34:57.842048054Z",
+  "model": "glm-5.2"
+}

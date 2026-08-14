@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 52:12",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 52,
+  "translation": "Domin ba za ku fita da gaggawa ba, kuma da tserewa ba za ku tafi ba, domin Yahweh ⟨yake⟩ tafiya a gaban ku, kuma wanda ke tattara ku Elohim ne na Yisra'el.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "da gaggawa"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "za ku fita"
+    },
+    {
+      "surface": "ובמנוסה",
+      "gloss": "kuma da tserewa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "za ku tafi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yana tafiya"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "a gaban ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומאספכם",
+      "gloss": "kuma wanda ke tattara ku"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T14:23:56.292979475Z",
+  "model": "glm-5.2"
+}

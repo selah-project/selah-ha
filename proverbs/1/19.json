@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 1:19",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Haka hanyoyin duk mai cin riba na zalinci, ⟨shi⟩ ⟨zai⟩ ɗauki ⟨את⟩ rayuwar maiganta.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "hanyoyin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk mai"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "cin riba"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "na zalinci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rayuwar"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rayuwar"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "maiganta"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "zai ɗauki"
+    }
+  ],
+  "timestamp": "2026-08-12T21:00:39.982176908Z",
+  "model": "glm-5.2"
+}

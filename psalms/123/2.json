@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 123:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 123,
+  "translation": "Ga shē, kamar idãnun bāyi ⟨suna dōkã⟩ a hannun ubanninsu, kamar idãnun bāriyar a hannun uwargidanta, haka idãnunmu ⟨suna dōkã⟩ a Yahweh Elohimmu, har ya nuna mana falala.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ga shē"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "kamar idãnun"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bāyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨suna dōkã⟩ a"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hannun"
+    },
+    {
+      "surface": "אדוניהם",
+      "gloss": "ubanninsu"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "kamar idãnun"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "bāriyar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨suna dōkã⟩ a"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hannun"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "uwargidanta"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "idãnunmu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨suna dōkã⟩ a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "שיחננו",
+      "gloss": "ya nuna mana falala"
+    }
+  ],
+  "timestamp": "2026-08-12T20:51:13.333682654Z",
+  "model": "glm-5.2"
+}

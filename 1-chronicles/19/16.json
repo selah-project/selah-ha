@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 19:16",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma Aram ta gan sun ƙaɗa a gaban Yisra'el, sai suka aika manzanni, suka fitar ⟨את⟩ Aram da ke faɗin kogin, kuma Shofaki shugaban rundunar Hadadezer yana gabaninsu.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֣רְא",
+      "gloss": "kuma ta ga"
+    },
+    {
+      "surface": "אֲרָ֗ם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "sun"
+    },
+    {
+      "surface": "נִגְּפוּ֮",
+      "gloss": "ƙaɗa"
+    },
+    {
+      "surface": "לִפְנֵ֣י",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יִשְׂרָאֵל֒",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וַֽיִּשְׁלְחוּ֙",
+      "gloss": "sai suka aika"
+    },
+    {
+      "surface": "מַלְאָכִ֔ים",
+      "gloss": "manzanni"
+    },
+    {
+      "surface": "וַיּוֹצִ֣יאוּ",
+      "gloss": "suka fitar"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "אֲרָ֔ם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "da"
+    },
+    {
+      "surface": "מֵעֵ֣בֶר",
+      "gloss": "ke faɗin"
+    },
+    {
+      "surface": "הַנָּהָ֑ר",
+      "gloss": "kogin"
+    },
+    {
+      "surface": "וְשׁוֹפַ֛ךְ",
+      "gloss": "kuma Shofaki"
+    },
+    {
+      "surface": "שַׂר",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "צְבָ֥א",
+      "gloss": "rundunar"
+    },
+    {
+      "surface": "הֲדַדְעֶ֖זֶר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "לִפְנֵיהֶֽם",
+      "gloss": "yana gabaninsu"
+    }
+  ],
+  "timestamp": "2026-08-13T02:40:39.148432452Z",
+  "model": "glm-5.2"
+}

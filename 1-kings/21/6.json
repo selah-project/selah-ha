@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 21:6",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Sai ya yi mata magana, domin na yi wa Navot dan Yizre'el magana, kuma na ce masa, ka bani ⟨את⟩ gonar ina da azurfa, ko idan an same ka, ni zan ba ka wani gonar ina a madadin sa; sai ya ce, ba zan ba ka ⟨את⟩ gonar ina ba.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Sai ya yi magana"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "wurin ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "na yi magana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "dan Yizre'el"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "kuma na ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ka ba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gonar ka"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "gonar ka"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "da azurfa"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "an same ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "אתנה",
+      "gloss": "ni zan ba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "gona"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "a madadin sa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sai ya ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "zan ba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gonar ina"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "gonar ina"
+    }
+  ],
+  "timestamp": "2026-08-12T11:47:50.839859517Z",
+  "model": "glm-5.2"
+}

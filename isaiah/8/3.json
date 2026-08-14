@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 8:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma na kusanci annbiya, ta yi ciki, ta haifi ɗa. Kuma Yahweh ya ce mini, Ka kira sunansa Maher-Shalal-Ḥash-Baz.",
+  "tokens": [
+    {
+      "surface": "ואקרב",
+      "gloss": "Kuma na kusanci"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨→⟩"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "annbiya"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ta yi ciki"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ta haifi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mini"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Ka kira"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "Maher"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "-Shalal"
+    },
+    {
+      "surface": "חש",
+      "gloss": "-Ḥash"
+    },
+    {
+      "surface": "בז",
+      "gloss": "-Baz"
+    }
+  ],
+  "timestamp": "2026-08-12T13:07:43.098043198Z",
+  "model": "glm-5.2"
+}

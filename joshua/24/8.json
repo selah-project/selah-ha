@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 24:8",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma na kawo ku zuwa ƙasar haEmori, wanda ke zaune a ƙetaren Yarden, suka yaƙa ⟨a gare⟩ku, kuma na ba su cikin hannuwanku, kuma kuka gaji ⟨את⟩ ƙasarsu, kuma na halaka su daga gabanku.",
+  "tokens": [
+    {
+      "surface": "ואבאה",
+      "gloss": "kuma na kawo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "haEmori"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "wanda ke zaune"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "a ƙetaren"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "suka yaƙa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ a gare ku"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "kuma na ba"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ su"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "cikin hannuwanku"
+    },
+    {
+      "surface": "ותירשו",
+      "gloss": "kuma kuka gaji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasarsu"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ƙasarsu"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "kuma na halaka su"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "daga gabanku"
+    }
+  ],
+  "timestamp": "2026-08-12T07:10:11.992137052Z",
+  "model": "glm-5.2"
+}

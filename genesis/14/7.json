@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 14:7",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma suka koma, suka zo zuwa ʿEin-Mishpat, shi⟨ne⟩ Kadesh, suka yi wa ⟨את⟩ duka filin ʿAmaleki, da kuma ⟨את⟩ ʿAmori mai zama a Chatsetson-Tamar.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "suka koma"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "suka zo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ʿEin"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "-Mishpat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "suka yi wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka filin ʿAmaleki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "filin"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "ʿAmaleki"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "da kuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ʿAmori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ʿAmori"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "mai zama"
+    },
+    {
+      "surface": "בחצצן",
+      "gloss": "a Chatsetson"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "-Tamar"
+    }
+  ],
+  "timestamp": "2026-08-13T03:01:24.829754395Z",
+  "model": "glm-5.2"
+}

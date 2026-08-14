@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 14:17",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma ni, ga ni, ina ƙarfafa ⟨את⟩ zuciyar Mitsrayim, su kuma za su bi a baya; kuma ina nisantawa ⟨ne⟩ a cikin Parʿo da dukkan sojojinsa, a cikin dawakansa da mahayan dawakansa.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ga ni"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "ina ƙarfafa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuciyar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciyar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "su kuma za su bi"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "a baya"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "kuma ina nisantawa"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "a cikin Parʿo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "sojojinsa"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "a cikin dawakansa"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "da mahayan dawakansa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:50:28.625307227Z",
+  "model": "glm-5.2"
+}

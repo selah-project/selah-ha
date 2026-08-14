@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 55,
+  "translation": "Rashin lafiya ⟨yana⟩ a tsakannya, kuma zalunci da zagi ba su tafi daga titinta.",
+  "tokens": [
+    {
+      "surface": "הַוּ֥וֹת",
+      "gloss": "rashin lafiya"
+    },
+    {
+      "surface": "בְּקִרְבָּ֑הּ",
+      "gloss": "a tsakannya"
+    },
+    {
+      "surface": "וְֽלֹא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יָמִ֥ישׁ",
+      "gloss": "suna tafiya"
+    },
+    {
+      "surface": "מֵ֝רְחֹבָ֗הּ",
+      "gloss": "daga titinta"
+    },
+    {
+      "surface": "תֹּ֣ךְ",
+      "gloss": "zalunci"
+    },
+    {
+      "surface": "וּמִרְמָֽה",
+      "gloss": "da zagi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:50:38.609325483Z",
+  "model": "glm-5.2"
+}

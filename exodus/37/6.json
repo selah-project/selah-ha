@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma ya yi kumfa ta zinari tsarkakakkiya — tsawon kafa biyu da rabi, faɗin kafa ɗaya da ribi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kumfa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ta zinari"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tsarkakakkiya"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "kafa biyu"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "da ribi"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "tsawonta"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "kafa ɗaya"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "da ribi"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "faɗinta"
+    }
+  ],
+  "timestamp": "2026-08-12T01:31:14.840692385Z",
+  "model": "glm-5.2"
+}

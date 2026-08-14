@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 92,
+  "ref": "psalms 119:92",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Da ba dokar ka ⟨ta kasance⟩ nishadī ba, ⟨da⟩ lalle na halaka a cikin talauncīna.",
+  "tokens": [
+    {
+      "surface": "לוּלֵ֣י",
+      "gloss": "Da ba"
+    },
+    {
+      "surface": "ת֭וֹרָתְךָ",
+      "gloss": "dokar ka"
+    },
+    {
+      "surface": "שַׁעֲשֻׁעָ֑י",
+      "gloss": "⟨ta kasance⟩ nishadī"
+    },
+    {
+      "surface": "אָ֝֗ז",
+      "gloss": "⟨da⟩ lalle"
+    },
+    {
+      "surface": "אָבַ֥דְתִּי",
+      "gloss": "na halaka"
+    },
+    {
+      "surface": "בְעָנְיִֽי",
+      "gloss": "a cikin talauncīna"
+    }
+  ],
+  "timestamp": "2026-08-12T20:43:54.512569733Z",
+  "model": "glm-5.2"
+}

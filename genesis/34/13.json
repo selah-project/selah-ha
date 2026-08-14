@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Kuma ɗiya na Ya'akov sun amsa ⟨את⟩ Shekem da ⟨את⟩ Chamor ubaninsa da magana, suka yi magana da yaudara, domin ya ɓata ⟨את⟩ Dinah 'yar'uwar su.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Kuma suka amsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "na Ya'akov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Chamor"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubaninsa"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "da yaudara"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "suka yi magana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "domin"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ya ɓata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinah"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "'yar'uwar su"
+    }
+  ],
+  "timestamp": "2026-08-12T00:06:45.165086732Z",
+  "model": "glm-5.2"
+}

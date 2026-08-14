@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Burodi marasa yisti za a ci ⟨suna⟩ ⟨את⟩ tsawon kwanaki bakwai, kuma ba za a ga gurasar yisti ⟨a kwance⟩ gare ka ba, kuma ba za a ga yisti ⟨a kwance⟩ gare ka ba, a duk iyakokinka.",
+  "tokens": [
+    {
+      "surface": "מַצּוֹת֙",
+      "gloss": "Burodi marasa yisti"
+    },
+    {
+      "surface": "יֵֽאָכֵ֔ל",
+      "gloss": "za a ci"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "tsawon kwanaki bakwai"
+    },
+    {
+      "surface": "שִׁבְעַ֣ת",
+      "gloss": "tsawon"
+    },
+    {
+      "surface": "הַיָּמִ֑ים",
+      "gloss": "kwanaki bakwai"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יֵרָאֶ֨ה",
+      "gloss": "za a ga"
+    },
+    {
+      "surface": "לְךָ֜",
+      "gloss": "gare ka"
+    },
+    {
+      "surface": "חָמֵ֗ץ",
+      "gloss": "gurasar yisti"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יֵרָאֶ֥ה",
+      "gloss": "za a ga"
+    },
+    {
+      "surface": "לְךָ֛",
+      "gloss": "gare ka"
+    },
+    {
+      "surface": "שְׂאֹ֖ר",
+      "gloss": "yisti"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "גְּבֻלֶֽךָ",
+      "gloss": "iyakokinka"
+    }
+  ],
+  "timestamp": "2026-08-12T00:45:07.889561482Z",
+  "model": "glm-5.2"
+}

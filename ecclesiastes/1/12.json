@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Ni, Qohelet, na kasance sarki a kan Yisra'ela a Yerushalama.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "na kasance"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'ela"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "a Yerushalama"
+    }
+  ],
+  "timestamp": "2026-08-12T22:39:41.746087491Z",
+  "model": "glm-5.2"
+}

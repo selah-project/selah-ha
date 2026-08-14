@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 60,
+  "translation": "Domin al'ummar daular da ba za su bauta maka ba za su halaka; kuma al'ummomin za a lalata su gaba ɗaya.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הַגּ֧וֹי",
+      "gloss": "al'ummar"
+    },
+    {
+      "surface": "וְהַמַּמְלָכָ֛ה",
+      "gloss": "daular"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יַעַבְד֖וּךָ",
+      "gloss": "za su bauta maka"
+    },
+    {
+      "surface": "יֹאבֵ֑דוּ",
+      "gloss": "za su halaka"
+    },
+    {
+      "surface": "וְהַגּוֹיִ֖ם",
+      "gloss": "kuma al'ummomin"
+    },
+    {
+      "surface": "חָרֹ֥ב",
+      "gloss": "za a lalata"
+    },
+    {
+      "surface": "יֶחֱרָֽבוּ",
+      "gloss": "su gaba ɗaya"
+    }
+  ],
+  "timestamp": "2026-08-12T14:35:34.700615052Z",
+  "model": "glm-5.2"
+}

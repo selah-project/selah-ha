@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma ƙasar ta lalace a gaban Elohim, kuma ƙasar ta cika da tashin hankali.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "kuma ta lalace"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "kuma ta cika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "da tashin hankali"
+    }
+  ],
+  "timestamp": "2026-08-11T23:24:19.945336516Z",
+  "model": "glm-5.2"
+}

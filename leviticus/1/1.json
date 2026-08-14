@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Sai Yahweh ya kira Mosheh, kuma Yahweh ya yi masa magana daga Ɓari-n-Taro, yana cewa:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Sai ya kira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "→"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "kuma ya yi magana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "daga Ɓari"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Taro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:45:04.008534036Z",
+  "model": "glm-5.2"
+}

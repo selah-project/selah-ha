@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma ni, ga ni, ina tsayar da ⟨את⟩ alkawarina ⟨את⟩ ku, da ⟨את⟩ zuriyarku daga baya:",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kuma ni"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ga ni"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "ina tsayar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alkawarina"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alkawarina"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "zuriyarku"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "daga baya"
+    }
+  ],
+  "timestamp": "2026-08-11T23:28:08.188317280Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Kwana ka nawa ne na bāwanka? Ya ƙarshe za ka yi wa masu bin ni a baya shari'a?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "nawa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "na bāwanka"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ya ƙarshe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "za ka yi"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "wa masu bin ni a baya"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "shari'a"
+    }
+  ],
+  "timestamp": "2026-08-12T20:44:28.958158349Z",
+  "model": "glm-5.2"
+}

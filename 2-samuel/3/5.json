@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 3:5",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma na shida, Yithre'am, ⟨daga⟩ Eglah matar Dawuda. Waɗannan an haifa su ga Dawuda a Chevron.",
+  "tokens": [
+    {
+      "surface": "והששי",
+      "gloss": "Kuma na shisa"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "Yithre'am"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "⟨daga⟩ Eglah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "matar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Waɗannan"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "an haifa su"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ga Dawuda"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "a Chevron"
+    }
+  ],
+  "timestamp": "2026-08-12T09:54:39.784847017Z",
+  "model": "glm-5.2"
+}

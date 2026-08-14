@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Har abadad ba zan manta da doka-kakinka ba, domin ta wurinsu ka sa ni rai.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "Har abadad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "zan manta"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "da doka-kakinka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ta wurinsu"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "ka sa ni rai"
+    }
+  ],
+  "timestamp": "2026-08-12T20:42:31.652035090Z",
+  "model": "glm-5.2"
+}

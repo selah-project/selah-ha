@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 77,
+  "translation": "Ka nuna ⟨ne⟩ mutanenka kamar garken tumaki, da hannun Moshe da Aharon.",
+  "tokens": [
+    {
+      "surface": "נָחִ֣יתָ",
+      "gloss": "Ka nuna"
+    },
+    {
+      "surface": "כַצֹּ֣אן",
+      "gloss": "kamar garken tumaki"
+    },
+    {
+      "surface": "עַמֶּ֑ךָ",
+      "gloss": "mutanenka"
+    },
+    {
+      "surface": "בְּֽיַד",
+      "gloss": "da hannun"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וְאַהֲרֹֽן",
+      "gloss": "da Aharon"
+    }
+  ],
+  "timestamp": "2026-08-12T20:05:24.464572157Z",
+  "model": "glm-5.2"
+}

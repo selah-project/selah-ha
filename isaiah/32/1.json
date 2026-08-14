@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Ga, don adalci ⟨za⟩ sarki ya yi mulki, kuma shugabanni don shari'a ⟨za⟩ su yi mulki.",
+  "tokens": [
+    {
+      "surface": "הֵ֥ן",
+      "gloss": "Ga"
+    },
+    {
+      "surface": "לְצֶ֖דֶק",
+      "gloss": "don adalci"
+    },
+    {
+      "surface": "יִמְלָ֚ךְ",
+      "gloss": "ya yi mulki"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "וּלְשָׂרִ֔ים",
+      "gloss": "kuma shugabanni don"
+    },
+    {
+      "surface": "לְמִשְׁפָּ֖ט",
+      "gloss": "shari'a"
+    },
+    {
+      "surface": "יָשֹֽׂרוּ",
+      "gloss": "su yi mulki"
+    }
+  ],
+  "timestamp": "2026-08-13T02:09:10.035488412Z",
+  "model": "glm-5.2"
+}

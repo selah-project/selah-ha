@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Kuma suka nemi sha'awa a cikin hamada, suka gwada El a cikin busasshiyar ƙasa.",
+  "tokens": [
+    {
+      "surface": "וַֽיִּתְאַוּ֣וּ",
+      "gloss": "suka nemi sha'awa"
+    },
+    {
+      "surface": "תַ֭אֲוָה",
+      "gloss": "sha'awa"
+    },
+    {
+      "surface": "בַּמִּדְבָּ֑ר",
+      "gloss": "a cikin hamada"
+    },
+    {
+      "surface": "וַֽיְנַסּ֣וּ",
+      "gloss": "suka gwada"
+    },
+    {
+      "surface": "אֵ֝֗ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בִּֽישִׁימֽוֹן",
+      "gloss": "a cikin busasshiyar ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:32:21.318895801Z",
+  "model": "glm-5.2"
+}

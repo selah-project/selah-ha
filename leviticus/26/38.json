@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma za ku ɓace cikin al'ummai, kuma ƙasar maƙiyanku za ta ci ku ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "Kuma za ku ɓace"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "cikin al'ummai"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "kuma za ta ci"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "maƙiyanku"
+    }
+  ],
+  "timestamp": "2026-08-12T03:00:28.834080169Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Zuwa ƙasar da ke gudan da nono da zuma. Domin ba zan hau a cikinku ba, domin kai mutãne ne masu wuyan ijinga, domin ila ya cin ku a cikin hanya.\"",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Zuwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "da ke gudan"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "da nono"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "da zuma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "zan hau"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "a cikin ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mutãne"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "masu wuyan"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ijinga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "פן",
+      "gloss": "domin ila"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "ya cin ku"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "a cikin hanya"
+    }
+  ],
+  "timestamp": "2026-08-12T01:25:54.830917869Z",
+  "model": "glm-5.2"
+}

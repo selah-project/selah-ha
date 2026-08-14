@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma Daʋuɗ ya yi haka, kamar yadda Yahweh ya umarce shi, ya kuma yi ⟨את⟩ Filistawa daga Gẹba'a har zuwa zuwaɗinka Geza.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daʋuɗ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ya umarce shi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ya kuma yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistawa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistawa"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "daga Gẹba'a"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "באך",
+      "gloss": "zuwaɗinka"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Geza"
+    }
+  ],
+  "timestamp": "2026-08-12T09:58:39.356044153Z",
+  "model": "glm-5.2"
+}

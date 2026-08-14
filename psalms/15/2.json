@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "(Wanda) yake tafiya cikin duɗɗinturuwa, kuma yake aikata adalci, kuma yake faɗar gaskiya cikin zuciyarsa.",
+  "tokens": [
+    {
+      "surface": "הוֹלֵךְ",
+      "gloss": "yake tafiya"
+    },
+    {
+      "surface": "תָּמִים",
+      "gloss": "cikin duɗɗinturuwa"
+    },
+    {
+      "surface": "וּפֹעֵל",
+      "gloss": "kuma yake aikata"
+    },
+    {
+      "surface": "צֶדֶק",
+      "gloss": "adalci"
+    },
+    {
+      "surface": "וְדֹבֵר",
+      "gloss": "kuma yake faɗar"
+    },
+    {
+      "surface": "אֱמֶת",
+      "gloss": "gaskiya"
+    },
+    {
+      "surface": "בְּלִבָבוֹ",
+      "gloss": "cikin zuciyarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:22:29.075661733Z",
+  "model": "glm-5.2"
+}

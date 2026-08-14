@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 68,
+  "translation": "Kuma masu adalci su yi murna, su yi kade-kade a gaban Elohim, kuma su yi rawa cikin farin ciki.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "Kuma masu adalci"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "su yi murna"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "su yi kade-kade"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "kuma su yi rawa"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "cikin farin ciki"
+    }
+  ],
+  "timestamp": "2026-08-12T19:58:47.746450301Z",
+  "model": "glm-5.2"
+}

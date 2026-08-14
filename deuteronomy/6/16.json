@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kada ku jarraba ⟨את⟩ Yahweh Elohim-ku, kamar yadda kuka jarraba a Massah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "ku jarraba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohim-ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-ku"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "kuka jarraba"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "a Massah"
+    }
+  ],
+  "timestamp": "2026-08-13T01:53:54.902098872Z",
+  "model": "glm-5.2"
+}

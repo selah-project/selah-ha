@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma ⟨an⟩ tashi ⟨ta⟩ rana, kuma ⟨an⟩ shiga ⟨ta⟩ rana, kuma zuwa wajensa ⟨yana⟩ numfashi ⟨yana⟩ tashi ⟨shĩ⟩ a can.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "kuma ⟨an⟩ tashi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rana"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "kuma ⟨an⟩ shiga"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rana"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma zuwa"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "wajensa"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "⟨yana⟩ numfashi"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "⟨yana⟩ tashi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shĩ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    }
+  ],
+  "timestamp": "2026-08-12T22:41:51.961375649Z",
+  "model": "glm-5.2"
+}

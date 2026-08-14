@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma Elohim ya yi ⟨את⟩ fadin, kuma ya raba tsakanin ruwan da yake ƙarƙashar fadin da tsakanin ruwan da yake saman fadin; kuma haka ya kasance.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fadin"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "fadin"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "kuma ya raba"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da yake"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ƙarƙashar"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "fadin"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da tsakanin"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da yake"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "saman"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "fadin"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    }
+  ],
+  "timestamp": "2026-08-11T23:17:46.442615498Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma Yahweh ya sanya kalma a bakin Bilam, kuma ya ce: \"Koma ga Balak, kuma kana magana ⟨haka⟩.\"",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Kuma ya sanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalma"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "a bakin"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Koma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "kuma ⟨haka⟩"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "kana magana"
+    }
+  ],
+  "timestamp": "2026-08-12T04:23:22.707367180Z",
+  "model": "glm-5.2"
+}

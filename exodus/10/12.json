@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 10:12",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Yahweh ya ce wa Mosheh: Ka miƙa hannunka a kan ƙasar Mitsrayim a kan ⟨fari⟩, su hau a kan ƙasar Mitsrayim, su ci ⟨את⟩ duk ciyayen ƙasar, ⟨את⟩ duk abin da ƙanƙara ta bari.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Ka miƙa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hannunka"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בארבה",
+      "gloss": "a kan fari"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "su hau"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "su ci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duk ciyayen ƙasar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ciyayen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duk abin da ƙanƙara ta bari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ta bari"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "ƙanƙara"
+    }
+  ],
+  "timestamp": "2026-08-12T00:43:02.812447231Z",
+  "model": "glm-5.2"
+}

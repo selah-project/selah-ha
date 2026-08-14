@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Sai ka so ⟨את⟩ Yahweh, Elohim naka, ka kuma kiyaye kariyarsa, da ƙa'idodinsa, da hukuncensa, da umarnninsa, dukan kwanaki.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "Sai ka so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ka kuma kiyaye"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "kariyarsa"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "da ƙa'idodinsa"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "da hukuncensa"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "da umarnninsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kwanaki"
+    }
+  ],
+  "timestamp": "2026-08-12T05:12:38.365212416Z",
+  "model": "glm-5.2"
+}

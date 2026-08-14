@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 5:8",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Idan na sami ⟨ne⟩ alheri a idanun sarki, kuma idan akan sarki ⟨ya kwato⟩ alheri, don bayar da ⟨את⟩ shari'ata da kuma yin ⟨את⟩ buƙatata, sai sarki da Haman su zo wajen liyafar da zan yi musu, gobe kuma zan yi kamar maganar sarki.\"",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "na sami"
+    },
+    {
+      "surface": "חן",
+      "gloss": "alheri"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "על",
+      "gloss": "akan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "alheri"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "don bayar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shari'ata"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "shari'ata"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "da kuma yin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buƙatata"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "buƙatata"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "sai su zo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "da Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wajen"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "liyafar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "zan yi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "gobe kuma"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "zan yi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kamar maganar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    }
+  ],
+  "timestamp": "2026-08-12T22:55:18.223182160Z",
+  "model": "glm-5.2"
+}

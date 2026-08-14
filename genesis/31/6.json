@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "kuma ku, kuna sanin cewa da dukkan ƙarfina na bauta wa ⟨את⟩ ubanku.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "kuma ku"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "kuna sanin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ƙarfina"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "na bauta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubanku"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "ubanku"
+    }
+  ],
+  "timestamp": "2026-08-11T23:58:31.886765295Z",
+  "model": "glm-5.2"
+}

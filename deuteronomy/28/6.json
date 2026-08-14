@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "An albarkace ⟨kai⟩ a shigarka, kuma an albarkace ⟨kai⟩ a fitarka.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "an albarkace"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨kai⟩"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "a shigarka"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "kuma an albarkace"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨kai⟩"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "a fitarka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:44:19.865856549Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma ya ƙone ⟨את⟩ gurguwar sa da ⟨את⟩ gudun nagartan sa, kuma ya zuba ⟨את⟩ hadayar abin sha ta sa, kuma ya tsafa ⟨את⟩ jinin hadayar salama ta ⟨da⟩ ke wurin sa a kan ⟨d⟩ gidan hadaya.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "kuma ya ƙone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gurguwar sa"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "gurguwar sa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "gudun nagartan sa"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "kuma ya zuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadayar abin sha ta sa"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "hadayar abin sha ta sa"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "kuma ya tsafa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jinin hadayar salama"
+    },
+    {
+      "surface": "דם",
+      "gloss": "jini"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "hadayar salama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ke wurin sa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "gidan hadaya"
+    }
+  ],
+  "timestamp": "2026-08-12T12:30:11.821678647Z",
+  "model": "glm-5.2"
+}

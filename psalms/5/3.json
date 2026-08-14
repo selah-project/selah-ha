@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Saurara ⟨ga⟩ muryar kukan nema, sarkina da Elohim na, domin zuwa gare⟨ka⟩ ne nake yin addu'a.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Saurara"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "⟨ga⟩ muryar"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "kukan nema"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sarkina"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "da Elohim na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zuwa gare⟨ka⟩"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "ne nake yin addu'a"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:07.439351288Z",
+  "model": "glm-5.2"
+}

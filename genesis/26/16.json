@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma Abimelek ya ce wa Is'hak: Tafi daga gare mu, domin ka fi mu ƙarfi sosai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Is'hak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tafi"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "daga gare mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "ka fi mu ƙarfi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "⟨fi mu⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    }
+  ],
+  "timestamp": "2026-08-11T23:50:01.396583922Z",
+  "model": "glm-5.2"
+}

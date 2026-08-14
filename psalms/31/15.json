@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Amma ni, a kai na dogara, Yahweh; na ce, \"Elohim na, Kai ⟨ne⟩.\"",
+  "tokens": [
+    {
+      "surface": "וַאֲנִ֤י",
+      "gloss": "amma ni"
+    },
+    {
+      "surface": "עָלֶ֣יךָ",
+      "gloss": "a kai"
+    },
+    {
+      "surface": "בָטַ֣חְתִּי",
+      "gloss": "na dogara"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אָ֝מַ֗רְתִּי",
+      "gloss": "na ce"
+    },
+    {
+      "surface": "אֱלֹהַ֥י",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "אָֽתָּה",
+      "gloss": "Kai"
+    }
+  ],
+  "timestamp": "2026-08-12T19:31:44.671187268Z",
+  "model": "glm-5.2"
+}

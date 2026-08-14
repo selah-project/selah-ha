@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma ʿyar Paroh ta ce mata, \"Je.\" Kuma yarinyar ta tafi kuma ta kira ⟨את⟩ uwar yaron.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ta ce"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mata"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ʿyar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Je"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ta tafi"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "yarinyar"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ta kira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwar yaron"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uwar"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "yaron"
+    }
+  ],
+  "timestamp": "2026-08-12T00:29:26.799038748Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "wanda Ya ɗe ⟨את⟩ Avraham, da rantsuwarSa ga Yitsḥak.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "Ya ɗe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "da rantsuwarSa"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ga Yitsḥak"
+    }
+  ],
+  "timestamp": "2026-08-13T00:17:17.567785693Z",
+  "model": "glm-5.2"
+}

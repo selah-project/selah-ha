@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 91,
+  "translation": "Daga annoba da ke tafiya cikin duhu, ⟨ko⟩ daga bala'i da ke halaka tsakar rana.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "daga annoba"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "cikin duhu"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "da ke tafiya"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "daga bala'i"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "da ke halaka"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "tsakar rana"
+    }
+  ],
+  "timestamp": "2026-08-12T20:21:07.550868561Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma sarkin Yisra'el ya aiko zuwa wajen wurin da mutumin Elohim ya faɗa masa, ya yi gargaɗin ⟨shi⟩, kuma ya tsare kansa a can; ba wuri ɗaya ⟨ba⟩ ko biyu ⟨ba⟩.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁלַ֞ח",
+      "gloss": "ya aiko"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "יִשְׂרָאֵל֗",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אֶֽל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "הַמָּק֞וֹם",
+      "gloss": "wurin"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אָֽמַר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "ל֧וֹ",
+      "gloss": "masa"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "הָאֱלֹהִ֛ים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "ya yi gargaɗi"
+    },
+    {
+      "surface": "וְנִשְׁמַ֣ר",
+      "gloss": "ya tsare kansa"
+    },
+    {
+      "surface": "שָׁ֑ם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אַחַ֖ת",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שְׁתָּֽיִם",
+      "gloss": "biyu"
+    }
+  ],
+  "timestamp": "2026-08-13T02:06:53.865050501Z",
+  "model": "glm-5.2"
+}

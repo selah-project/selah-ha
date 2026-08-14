@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 2:5",
+  "book": "malachi",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Al'ārīnā ta ⟨ce⟩ tāre da shi ⟨tã⟩ rai da salama, kuma na sanya musu gāreshi tsoro, kuma ya ji tsorona, kuma saboda sunaNī ya gūrage shi.",
+  "tokens": [
+    {
+      "surface": "בְּרִיתִ֣י",
+      "gloss": "al'ārīnā ta"
+    },
+    {
+      "surface": "הָיְתָ֣ה",
+      "gloss": "ta kasance"
+    },
+    {
+      "surface": "אִתּ֗וֹ",
+      "gloss": "⟨את⟩ shi",
+      "marks": "shi"
+    },
+    {
+      "surface": "הַֽחַיִּים֙",
+      "gloss": "rai"
+    },
+    {
+      "surface": "וְהַ֨שָּׁל֔וֹם",
+      "gloss": "da salama"
+    },
+    {
+      "surface": "וָאֶתְּנֵֽם",
+      "gloss": "kuma na sanya musu"
+    },
+    {
+      "surface": "ל֥וֹ",
+      "gloss": "gāreshi"
+    },
+    {
+      "surface": "מוֹרָ֖א",
+      "gloss": "tsoro"
+    },
+    {
+      "surface": "וַיִּֽירָאֵ֑נִי",
+      "gloss": "kuma ya ji tsorona"
+    },
+    {
+      "surface": "וּמִפְּנֵ֥י",
+      "gloss": "kuma saboda fuskantar"
+    },
+    {
+      "surface": "שְׁמִ֖י",
+      "gloss": "sunaNī"
+    },
+    {
+      "surface": "נִחַ֥ת",
+      "gloss": "ya gūrage"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "shi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:50.822957705Z",
+  "model": "glm-5.2"
+}

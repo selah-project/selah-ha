@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma na ce wa ⟨⟩ malamin da yake magana a cikina, \"Waɗanne ne waɗannan?\" Kuma ya ce mini, \"Waɗannan ne ƙahon da suka watsar ⟨את⟩ Yehuda, ⟨את⟩ Yisra'el, da Yerushalaim.\"",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "kuma na ce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malamin"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "da yake magana"
+    },
+    {
+      "surface": "בי",
+      "gloss": "a cikina"
+    },
+    {
+      "surface": "מה",
+      "gloss": "\"Waɗanne ne"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan?\""
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce mini"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "\""
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan ne"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "ƙahon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "suka watsar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "da Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-12T18:59:35.359965019Z",
+  "model": "glm-5.2"
+}

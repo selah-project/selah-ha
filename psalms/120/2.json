@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 120,
+  "translation": "Yahweh, ka 'yantar da rãyana daga leɓen ƙarya, daga harshen maguɗi!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "ka 'yantar da"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rãyana"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "daga leɓen"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ƙarya"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "daga harshen"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "maguɣi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:46:57.030150991Z",
+  "model": "glm-5.2"
+}

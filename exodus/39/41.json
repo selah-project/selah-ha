@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 39:41",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "⟨את⟩ kayan aiki don bauta a cikin tsarkin, ⟨את⟩ tufafin tsarki na Aharon ⟨babban firist⟩, da ⟨את⟩ tufafin 'ya'yansa don yin aikin firist.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kayan aiki"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kayan aiki"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "na bauta"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "don bauta"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "a cikin tsarkin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tufafin tsarki"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "tufafin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "na tsarki"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨babban firist⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "tufafin 'ya'yansa"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "tufafin"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "'ya'yansa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "don yin aikin firist"
+    }
+  ],
+  "timestamp": "2026-08-12T01:38:30.925660914Z",
+  "model": "glm-5.2"
+}

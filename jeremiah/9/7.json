@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 9:7",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kibiya mahuiyar harshensu ne, ta faɗa magana ta zamba; bakinsa yana faɗa ⟨almi⟩ ga ⟨את⟩ abokinsa, amma a cikin zuciyarsa yana ajiye kwanton ɓarinsa.",
+  "tokens": [
+    {
+      "surface": "חֵ֥ץ",
+      "gloss": "kibiya"
+    },
+    {
+      "surface": "שוחט",
+      "gloss": "mahuiya"
+    },
+    {
+      "surface": "לְשׁוֹנָ֖ם",
+      "gloss": "harshensu"
+    },
+    {
+      "surface": "מִרְמָ֣ה",
+      "gloss": "zamba"
+    },
+    {
+      "surface": "דִבֵּ֑ר",
+      "gloss": "ta faɗa"
+    },
+    {
+      "surface": "בְּפִ֗יו",
+      "gloss": "bakinsa"
+    },
+    {
+      "surface": "שָׁל֤וֹם",
+      "gloss": "almi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "abokinsa"
+    },
+    {
+      "surface": "רֵעֵ֨הוּ֙",
+      "gloss": "abokinsa"
+    },
+    {
+      "surface": "יְדַבֵּ֔ר",
+      "gloss": "yana faɗa"
+    },
+    {
+      "surface": "וּבְקִרְבּ֖וֹ",
+      "gloss": "amma a cikin zuciyarsa"
+    },
+    {
+      "surface": "יָשִׂ֥ים",
+      "gloss": "yana ajiye"
+    },
+    {
+      "surface": "אָרְבּֽוֹ",
+      "gloss": "kwanton ɓarinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T15:13:28.069200887Z",
+  "model": "glm-5.2"
+}

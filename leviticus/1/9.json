@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "kuma ⟨ɗakunan⟩ cikinsa da ƙafafunsa za a wanke su da ruwa, kuma kohen ya ƙone ⟨את⟩ duka a kan ⟨altar ɗin⟩ — ƙorarwa, hadayar wuta, wari mai kyau ga Yahweh.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "kuma cikinsa"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "da ƙafafunsa"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "za a wanke ⟨shu⟩"
+    },
+    {
+      "surface": "במים",
+      "gloss": "da ruwa"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "kuma ya ƙone"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "a kan ⟨altar ɗin⟩"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ƙorarwa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "hadayar wuta"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "wari"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:45:05.936217014Z",
+  "model": "glm-5.2"
+}

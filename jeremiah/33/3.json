@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 33:3",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Ka kira ni, kuma zan amsa ka, kuma zan faɗa maka manyan abubuwa da waɗanda aka tsare, waɗannan ba ka san su ba.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Ka kira"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ואענך",
+      "gloss": "kuma zan amsa ka"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "kuma zan faɗa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "manyu abubuwa"
+    },
+    {
+      "surface": "ובצרות",
+      "gloss": "da waɗanda aka tsare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "ka san su"
+    }
+  ],
+  "timestamp": "2026-08-12T16:10:22.411062327Z",
+  "model": "glm-5.2"
+}

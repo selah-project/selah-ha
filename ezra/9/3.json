@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma da na ji ⟨את⟩ wannan magana, na tsage ⟨את⟩ tūnīyā ta da rigā ta, kuma na cire gāshin kāwī na da gāshin gemū na, kuma na zauna mahallakaci.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "kuma da na ji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan magana"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "magana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "na tsage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tūnīyā ta da rigā ta"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "tūnīyā ta"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "da rigā ta"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "kuma na cire"
+    },
+    {
+      "surface": "משער",
+      "gloss": "gāshin"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kāwī na"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "da gāshin gemū na"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "kuma na zauna"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "mahallakaci"
+    }
+  ],
+  "timestamp": "2026-08-12T23:35:41.854209151Z",
+  "model": "glm-5.2"
+}

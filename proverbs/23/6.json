@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kada ka ci ⟨את⟩ burogin mai muguwar ido, kuma kada ka yi sha'awar abincan laɗabinsa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "ka ci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "burogin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "burogin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "muguwar"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ido"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ka yi sha'awar"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "abincan laɗabinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T21:27:23.739621351Z",
+  "model": "glm-5.2"
+}

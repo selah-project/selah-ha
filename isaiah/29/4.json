@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 29:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma za a fin ka ƙasa, za ka yi magana daga ƙasa, kuma daga ƙura za ka saukaka maganarka; kuma za ta kasance kamar ɗan muƙamin da ke fita daga ƙasa, muryarka, kuma daga ƙura maganarka za ta rera waka.",
+  "tokens": [
+    {
+      "surface": "ושפלת",
+      "gloss": "Kuma za a fin ka ƙasa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasa"
+    },
+    {
+      "surface": "תדברי",
+      "gloss": "za ka yi magana"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "kuma daga ƙura"
+    },
+    {
+      "surface": "תשח",
+      "gloss": "za ka saukaka"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "maganarka"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kuma za ta kasance"
+    },
+    {
+      "surface": "כאוב",
+      "gloss": "kamar ɗan muƙamin"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasa"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "muryarka"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "kuma daga ƙura"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "maganarka"
+    },
+    {
+      "surface": "תצפצף",
+      "gloss": "za ta rera waka"
+    }
+  ],
+  "timestamp": "2026-08-12T13:45:03.418215291Z",
+  "model": "glm-5.2"
+}

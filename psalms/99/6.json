@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 99,
+  "translation": "Moshe da Aharon cikin firistocin Sa, da Shemu'el cikin waɗanda ke kira sunan Sa; suna kira zuwa Yahweh, kuma Shi yana amsa musu.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "da Aharon"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "cikin firistocin Sa"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "da Shemu'el"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "cikin waɗanda ke kira"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunan Sa"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "suna kira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kuma Shi"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "yana amsa musu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:25:46.966738296Z",
+  "model": "glm-5.2"
+}

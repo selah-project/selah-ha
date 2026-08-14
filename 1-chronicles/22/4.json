@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 22:4",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma itatuwan sedar ba su da lamba, domin Tsidiyawa da Tsoriyawa suka kawo itatuwan sedar da yawa ga Dawida.",
+  "tokens": [
+    {
+      "surface": "ועצי",
+      "gloss": "kuma itatuwan"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedar"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "ba su da"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "lamba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "suka kawo"
+    },
+    {
+      "surface": "הצידנים",
+      "gloss": "Tsidiyawa"
+    },
+    {
+      "surface": "והצרים",
+      "gloss": "da Tsoriyawa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "itatuwan",
+      "marks": "itatuwan"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedar"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ga Dawida"
+    }
+  ],
+  "timestamp": "2026-08-14T00:02:34.045045849Z",
+  "model": "glm-5.2"
+}

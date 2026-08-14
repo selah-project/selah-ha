@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Sai Yawab ya busa ƙaho, ⟨kuma⟩ mutanen suka dawo daga bin Isra'ila, domin Yawab ya tsaya ⟨את⟩ mutanen.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "Sai ya busa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yawab"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "ƙaho"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "suka dawo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "daga bin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ya tsaya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yawab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    }
+  ],
+  "timestamp": "2026-08-13T02:02:33.397226461Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma an rufe shi da aldarshi a sama, a kan ɗakunan gefen da ke kan ginpilan — goma sha biyar a kowane layi.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "Kuma an rufe shi"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "da aldarshi"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "a sama"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "ɗakunan gefen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da ke"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ginpilan"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "arba'in"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "da biyar"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "goma sha biyar"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "goma sha"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "a kowane layi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:03:14.902809955Z",
+  "model": "glm-5.2"
+}

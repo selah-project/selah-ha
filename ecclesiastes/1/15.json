@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Abin da ya lallace ba za a iya daƙe shi ba, kuma abin da ya rage ba za a iya ƙidaye shi ba.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "Abin da ya lallace"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "za a iya"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "daƙe shi"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "kuma abin da ya rage"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "za a iya"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "ƙidaye shi"
+    }
+  ],
+  "timestamp": "2026-08-12T22:40:27.945422041Z",
+  "model": "glm-5.2"
+}

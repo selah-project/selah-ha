@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 22:7",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Sai Yehoshafat ya ce: \"Shin, babu ⟨ko⟩ annabi ⟨na⟩ Yahweh a nan har yanzu, domin mu nemi ⟨את⟩ gare shi?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sai ya ce"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "Shin, babu"
+    },
+    {
+      "surface": "פה",
+      "gloss": "a nan"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "annabi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "har yanzu"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "domin mu nemi"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ gare shi"
+    }
+  ],
+  "timestamp": "2026-08-12T11:50:34.997976747Z",
+  "model": "glm-5.2"
+}

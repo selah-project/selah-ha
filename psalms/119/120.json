@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Jikina ya taurara daga tsorotarka, kuma na ji tsoro ⟨game da⟩ hukunkinka.",
+  "tokens": [
+    {
+      "surface": "סָמַ֣ר",
+      "gloss": "ya taurara"
+    },
+    {
+      "surface": "מִפַּחְדְּךָ֣",
+      "gloss": "daga tsorotarka"
+    },
+    {
+      "surface": "בְּשָׂרִ֑י",
+      "gloss": "Jikina"
+    },
+    {
+      "surface": "וּמִמִּשְׁפָּטֶ֥יךָ",
+      "gloss": "kuma ⟨game da⟩ hukunkinka"
+    },
+    {
+      "surface": "יָרֵֽאתִי",
+      "gloss": "na ji tsoro"
+    }
+  ],
+  "timestamp": "2026-08-12T20:46:13.344588268Z",
+  "model": "glm-5.2"
+}

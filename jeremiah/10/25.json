@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 10:25",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Zuba fushinka a kan al'ummomin da ba su san ka, kuma a kan iyalai waɗanda ba su kira sunanka; domin sun ci ⟨את⟩ Ya'ƙub, suka ɗebe shi, suka ƙare shi, kuma ⟨את⟩ mazauninsa suka faɗe.",
+  "tokens": [
+    {
+      "surface": "שְׁפֹ֣ךְ",
+      "gloss": "zuba"
+    },
+    {
+      "surface": "חֲמָתְךָ֗",
+      "gloss": "fushinka"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הַגּוֹיִם֙",
+      "gloss": "al'ummomin"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יְדָע֔וּךָ",
+      "gloss": "su san ka"
+    },
+    {
+      "surface": "וְעַל֙",
+      "gloss": "kuma a kan"
+    },
+    {
+      "surface": "מִשְׁפָּח֔וֹת",
+      "gloss": "iyalai"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "בְּשִׁמְךָ֖",
+      "gloss": "sunanka"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "קָרָ֑אוּ",
+      "gloss": "suka kira"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אָכְל֣וּ",
+      "gloss": "suka ci"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "Ya'ƙub"
+    },
+    {
+      "surface": "יַעֲקֹ֗ב",
+      "gloss": "Ya'ƙub"
+    },
+    {
+      "surface": "וַאֲכָלֻ֨הוּ֙",
+      "gloss": "suka ɗebe shi"
+    },
+    {
+      "surface": "וַיְכַלֻּ֔הוּ",
+      "gloss": "suka ƙare shi"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "mazauninsa"
+    },
+    {
+      "surface": "נָוֵ֖הוּ",
+      "gloss": "mazauninsa"
+    },
+    {
+      "surface": "הֵשַֽׁמּוּ",
+      "gloss": "suka faɗe"
+    }
+  ],
+  "timestamp": "2026-08-12T15:07:56.561187142Z",
+  "model": "glm-5.2"
+}

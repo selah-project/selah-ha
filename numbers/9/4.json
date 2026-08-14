@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Mosheh ya yi magana da ƴan Israël ⟨don⟩ su yi ⟨את⟩ Pesah.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ya yi magana"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "⟨don⟩ su yi"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesah"
+    }
+  ],
+  "timestamp": "2026-08-13T01:49:24.815433925Z",
+  "model": "glm-5.2"
+}

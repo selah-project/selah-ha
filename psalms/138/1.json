@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 138,
+  "translation": "Na Dawuda. ⟨Zan⟩ gode maka da dukan zuciyata; a gaban Elohim ⟨ne⟩ zan rera maka ωari.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Na Dawuda"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "⟨zan⟩ gode maka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "da dukan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "⟨ne⟩ zan rera maka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:55:46.486639801Z",
+  "model": "glm-5.2"
+}

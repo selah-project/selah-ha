@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma sarki ya amsa ya ce, \"Ku ba ta ⟨את⟩ ango da rai, amma ⟨ba⟩ ku kashe shi; ita uwa⟨nsa⟩ ce.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Kuma ya amsa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Ku ba"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ango"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "ango"
+    },
+    {
+      "surface": "החי",
+      "gloss": "da rai"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "amma ⟨ba⟩ ku kashe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨a'a⟩"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "kashe shi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ita"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "uwa⟨nsa⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T02:04:20.283689966Z",
+  "model": "glm-5.2"
+}

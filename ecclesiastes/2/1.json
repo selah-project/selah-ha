@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Na ce, ni, a cikin zuciyata: Ku zo, don in ji da murna, sai kuma ka duba cikin abin alheri — amma gani, shima ⟨shi⟩ hebel ne.",
+  "tokens": [
+    {
+      "surface": "אָמַרְתִּי",
+      "gloss": "Na ce"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בְלִבִּי",
+      "gloss": "a cikin zuciyata"
+    },
+    {
+      "surface": "לְכָה",
+      "gloss": "Ku zo"
+    },
+    {
+      "surface": "נָא",
+      "gloss": "don"
+    },
+    {
+      "surface": "אֲנַסְּכָה",
+      "gloss": "in ji"
+    },
+    {
+      "surface": "בְשִׂמְחָה",
+      "gloss": "da murna"
+    },
+    {
+      "surface": "וּרְאֵה",
+      "gloss": "sai kuma ka duba"
+    },
+    {
+      "surface": "בְטוֹב",
+      "gloss": "cikin abin alheri"
+    },
+    {
+      "surface": "וְהִנֵּה",
+      "gloss": "amma gani"
+    },
+    {
+      "surface": "גַם",
+      "gloss": "shima"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "⟨shi⟩"
+    },
+    {
+      "surface": "הָבֶל",
+      "gloss": "hebel ne"
+    }
+  ],
+  "timestamp": "2026-08-12T22:43:25.463905340Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Sai sarki Dawuda ya aiko, ya ɗauke shi daga gidan Makhir ɗan Ammi'el, daga Lo-Devar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ya aiko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "ya ɗauke shi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "daga gidan"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makhir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammi'el"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "daga Lo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "-Devar"
+    }
+  ],
+  "timestamp": "2026-08-12T10:02:56.064509462Z",
+  "model": "glm-5.2"
+}

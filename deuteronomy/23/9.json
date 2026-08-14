@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "'Ya'ya da za a haifa musu, ƙarni na uku ⟨ne⟩, za su shiga cikin taron Yahweh.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "'ya'ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "za a haifa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ƙarni"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "na uku"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "za su shiga"
+    },
+    {
+      "surface": "להם",
+      "gloss": "su"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "cikin taron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T05:33:19.150686067Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Sa'an nan Avram ya hau daga Mitsrayim, shi da matarsa da duk abin da yake nasa, da Lut tare da shi, zuwa ƙasar Negev.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ya hau"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "daga Mitsrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "da matarsa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yake nasa"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "da Lut"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tare da shi"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "zuwa ƙasar Negev"
+    }
+  ],
+  "timestamp": "2026-08-11T23:31:21.207627673Z",
+  "model": "glm-5.2"
+}

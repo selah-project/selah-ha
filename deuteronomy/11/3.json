@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Da ⟨את⟩ alamominSa da ⟨את⟩ ayyukanSa da ya yi a tsakiyar Mitsrayim, ga Fir'auna sarkin Mitsrayim da duka ƙasarsa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Da ⟨את⟩"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "alamominSa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ayyukanSa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "a tsakiyar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ga Fir'auna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "da duka"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ƙasarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T05:12:38.365666257Z",
+  "model": "glm-5.2"
+}

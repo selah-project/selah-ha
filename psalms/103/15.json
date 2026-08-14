@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 103,
+  "translation": "Mutum, kamar ciyawarsa ⟨ne⟩ kwanakensa; kamar furen daji, haka yake fure.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "kamar ciyawa"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "kwanakensa"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "kamar furen"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "daji"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "yake fure"
+    }
+  ],
+  "timestamp": "2026-08-12T20:27:03.030985963Z",
+  "model": "glm-5.2"
+}

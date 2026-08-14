@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Domin sun ƙi bin maganganun El, kuma shawarar Elyon suka wulakanta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "sun ƙi bin"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "maganganun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "kuma shawarar"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "suka wulakanta"
+    }
+  ],
+  "timestamp": "2026-08-12T20:32:38.486311949Z",
+  "model": "glm-5.2"
+}

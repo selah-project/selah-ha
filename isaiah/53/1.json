@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 53,
+  "translation": "Wa ya yi imani da abin da muka ji? Kuma żirãʼar Yahweh, a gare wane aka bayyana ta?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "ya yi imani"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "da abin da muka ji"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "kuma żirãʼa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "a gare"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wane"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "aka bayyana ta"
+    }
+  ],
+  "timestamp": "2026-08-12T14:28:33.482137974Z",
+  "model": "glm-5.2"
+}

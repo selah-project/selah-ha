@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 110,
+  "translation": "Sandar ƙarfinka, Yahweh zai aiko daga Tsiyon. \"Yi mulki a tsakiyar maƙiyanka!\"",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "Sandar"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ƙarfinka"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "zai aiko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "daga Tsiyon"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "Yi mulki"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "a tsakiyar"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "maƙiyanka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:36:36.247493997Z",
+  "model": "glm-5.2"
+}

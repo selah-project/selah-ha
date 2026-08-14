@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ayalon da ⟨את⟩ mahaɗanta, ⟨את⟩ Gat־Rimon da ⟨את⟩ mahađanta; birane huɗu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "mahađanta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mahađanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat־Rimon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "mahađanta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mahađanta"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "birane"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "huɗu"
+    }
+  ],
+  "timestamp": "2026-08-12T06:57:47.372228701Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 16:13",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Bikin ⟨ha⟩Sukkot kayi wa kanka kwana ⟨na⟩ shida a cikin tattara ka daga dakin danka da kuma damar ruwan inabin ka.",
+  "tokens": [
+    {
+      "surface": "חג",
+      "gloss": "Bikin"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "⟨ha⟩Sukkot"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kayi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wa kanka"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "shida"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "a cikin tattara ka"
+    },
+    {
+      "surface": "מגרנך",
+      "gloss": "daga dakin danka"
+    },
+    {
+      "surface": "ומיקבך",
+      "gloss": "da kuma damar ruwan inabin ka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:20:57.784276385Z",
+  "model": "glm-5.2"
+}

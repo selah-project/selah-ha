@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma su ci ⟨את⟩ naman wannan daren; an gasa da wuta, da gurasar da ba a yi gwiɗa ba, tare da ganyen ciyawar māci su ci ⟨את⟩ shi.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Kuma su ci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naman"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "naman"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "cikin daren"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "an gasa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "da wuta"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "da gurasar da ba a yi gwiɗa ba"
+    },
+    {
+      "surface": "על",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "ganyen māci"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "su ci shi"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:00.707452993Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "«Nī kan tafiya a hanyar dukkan ƙasa, don haka ka ƙarfafa, ka kasance ⟨mai mutuncin⟩ mutum.»",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kan tafiya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "a hanyar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "don haka ka ƙarfafa"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ka kasance"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨mai mutuncin⟩ mutum"
+    }
+  ],
+  "timestamp": "2026-08-13T02:03:42.227778845Z",
+  "model": "glm-5.2"
+}

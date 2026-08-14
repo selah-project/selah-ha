@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Adalci Kai ne, Yahweh, da madaidaici ⟨sune⟩ hukunce-hukuncenka.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "adalci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "madaidaici"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukunce-hukuncenka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:46:26.734976724Z",
+  "model": "glm-5.2"
+}

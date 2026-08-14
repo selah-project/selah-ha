@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 17:9",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Idan ⟨ya⟩ iya yaƙi ⟨tare⟩ da ni, ya same ni, muna zama muku bauta; kuma idan ni na iaya ⟨a kansa⟩, na same shi, kuna zama mana bauta, kuma ku bauta mana.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "⟨ya⟩ iya"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "yaƙi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "ya same ni"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "muna zama"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "muku"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "baauta"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "na iaya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨a kansa⟩"
+    },
+    {
+      "surface": "והכיתיו",
+      "gloss": "na same shi"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "kuna zama"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "baauta"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "kuma ku bauta"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "mana"
+    }
+  ],
+  "timestamp": "2026-08-12T09:10:28.996150407Z",
+  "model": "glm-5.2"
+}

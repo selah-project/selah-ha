@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 5:16",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma Yahweh Tsa'aba za a ɗaukaka ⟨ta⟩ hukunci, kuma El Mai Tsarki za a tsarkake ⟨da⟩ adalci.",
+  "tokens": [
+    {
+      "surface": "וַיִּגְבַּ֛ה",
+      "gloss": "za a ɗaukaka"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צְבָא֖וֹת",
+      "gloss": "Tsa'aba"
+    },
+    {
+      "surface": "בַּמִּשְׁפָּ֑ט",
+      "gloss": "⟨ta⟩ hukunci"
+    },
+    {
+      "surface": "וְהָאֵל֙",
+      "gloss": "kuma El"
+    },
+    {
+      "surface": "הַקָּד֔וֹשׁ",
+      "gloss": "Mai Tsarki"
+    },
+    {
+      "surface": "נִקְדָּ֖שׁ",
+      "gloss": "za a tsarkake"
+    },
+    {
+      "surface": "בִּצְדָקָֽה",
+      "gloss": "⟨da⟩ adalci"
+    }
+  ],
+  "timestamp": "2026-08-12T13:07:15.336358246Z",
+  "model": "glm-5.2"
+}

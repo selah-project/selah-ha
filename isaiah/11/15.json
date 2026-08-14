@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 11:15",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Yahweh zai ɓata ⟨את⟩ harshen teku na Mitsrayim, kuma zai girgiza hannunSa a kan kogin a cikin guguwar iskarSa, kuma zai buge shi zuwa koguna guda bakwai, kuma zai sa mutane su shiga a cikin takalma.",
+  "tokens": [
+    {
+      "surface": "וְהֶחֱרִ֣ים",
+      "gloss": "kuma zai ɓata"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֵ֚ת",
+      "gloss": "⟨את⟩",
+      "marks": "harshen"
+    },
+    {
+      "surface": "לְשׁ֣וֹן",
+      "gloss": "harshen"
+    },
+    {
+      "surface": "יָ֔ם",
+      "gloss": "teku"
+    },
+    {
+      "surface": "מִצְרַ֔יִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וְהֵנִ֥יף",
+      "gloss": "kuma zai girgiza"
+    },
+    {
+      "surface": "יָד֛וֹ",
+      "gloss": "hannunSa"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הַנָּהָ֖ר",
+      "gloss": "kogin"
+    },
+    {
+      "surface": "בַּעְיָ֣ם",
+      "gloss": "a cikin guguwar"
+    },
+    {
+      "surface": "רוּח֑וֹ",
+      "gloss": "iskarSa"
+    },
+    {
+      "surface": "וְהִכָּ֨הוּ֙",
+      "gloss": "kuma zai buge shi"
+    },
+    {
+      "surface": "לְשִׁבְעָ֣ה",
+      "gloss": "zuwa guda bakwai"
+    },
+    {
+      "surface": "נְחָלִ֔ים",
+      "gloss": "koguna"
+    },
+    {
+      "surface": "וְהִדְרִ֖יךְ",
+      "gloss": "kuma zai sa su shiga"
+    },
+    {
+      "surface": "בַּנְּעָלִֽים",
+      "gloss": "a cikin takalma"
+    }
+  ],
+  "timestamp": "2026-08-12T13:18:23.151421413Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Na bayyana adalci a cikin taron babba; ga, leɓenna ba na ɗaure su ba, Yahweh, Kai ka san ⟨shi⟩.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "Na bayyana"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adalci"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "a cikin taron"
+    },
+    {
+      "surface": "רב",
+      "gloss": "babba"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "leɓenna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "na ɗaure su ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai ka"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "san ⟨shi⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T19:42:55.656087601Z",
+  "model": "glm-5.2"
+}

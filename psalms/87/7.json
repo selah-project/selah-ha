@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 87,
+  "translation": "Kuma mawaƙa kamar masu rawa: Duk maɓuɓɓakana suna cikinka.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "Kuma mawaƙa"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "kamar masu rawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Duk"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "maɓuɓɓakana"
+    },
+    {
+      "surface": "בך",
+      "gloss": "suna cikinka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:15:34.131854863Z",
+  "model": "glm-5.2"
+}

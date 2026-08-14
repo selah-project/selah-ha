@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 14:26",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma Yahweh ya faɗa wa Mosheh, \"Miƙa ⟨את⟩ hannunka a kan teku, kuma ruwan ya koma a kan Mitsrayim, a kan motocinsa na yaƙi da a kan dawakansa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "miƙa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannunka"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hannunka"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ya koma"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "motocinsa na yaƙi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da a kan"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "dawakansa"
+    }
+  ],
+  "timestamp": "2026-08-13T01:45:53.405502783Z",
+  "model": "glm-5.2"
+}

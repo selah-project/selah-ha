@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "kuma kohen zai ƙone shi a kan ⟨את⟩ bagadar, abinci ⟨ne⟩ hadayar wuta ga Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "kuma zai ƙone shi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "a kan bagadar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "abinci"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "hadayar wuta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:42:21.509089287Z",
+  "model": "glm-5.2"
+}

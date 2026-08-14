@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 10:21",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Yahweh ya ce wa Moshe: \"Miƙa hannunka a kan sama, kuma ⟨za a kasance⟩ duhu a kan ƙasar Mitsrayim, kuma duhu za a taɓa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "miƙa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hannunka"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ⟨za a kasance⟩"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duhu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וימש",
+      "gloss": "kuma za a taɓa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duhu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:43:19.931179920Z",
+  "model": "glm-5.2"
+}

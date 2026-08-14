@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma ku busa ⟨a ƙarshen⟩ ṿe larma, to kuwa sansanonin da ke sansaní zuwa gabas za su tafi.",
+  "tokens": [
+    {
+      "surface": "וּתְקַעְתֶּ֖ם",
+      "gloss": "kuma ku busa"
+    },
+    {
+      "surface": "תְּרוּעָ֑ה",
+      "gloss": "larma"
+    },
+    {
+      "surface": "וְנָֽסְעוּ֙",
+      "gloss": "kuma za su tafi"
+    },
+    {
+      "surface": "הַֽמַּחֲנ֔וֹת",
+      "gloss": "sansanonin"
+    },
+    {
+      "surface": "הַחֹנִ֖ים",
+      "gloss": "da ke sansaní"
+    },
+    {
+      "surface": "קֵֽדְמָה",
+      "gloss": "zuwa gabas"
+    }
+  ],
+  "timestamp": "2026-08-12T03:40:14.207604590Z",
+  "model": "glm-5.2"
+}

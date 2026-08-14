@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 116,
+  "translation": "Koma, raina, zuwa hutuwarki, domin Yahweh ya bi da kyau ⟨a kanki⟩.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "koma"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "raina"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "zuwa hutuwarki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "ya bi da kyau"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "a kanki"
+    }
+  ],
+  "timestamp": "2026-08-12T20:40:42.497774491Z",
+  "model": "glm-5.2"
+}

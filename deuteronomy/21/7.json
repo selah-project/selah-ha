@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma za su amsa kuma su faɗa: Hannayenmu ba su zuba ⟨את⟩ wannan jini ba, kuma idanunmu ba su gani ⟨shi⟩.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "Kuma za su amsa"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "kuma su faɗa"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "Hannayenmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "su zuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan jini"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "jini"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "kuma idanunmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "su gani"
+    }
+  ],
+  "timestamp": "2026-08-12T05:25:37.608800161Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Tashi! don me kake barci, Adonai? tashi! kada ka ƙi mu har abada.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Tashi!"
+    },
+    {
+      "surface": "למה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "kake barci"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "tashi!"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "ka ƙi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-12T19:44:10.129243448Z",
+  "model": "glm-5.2"
+}

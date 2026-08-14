@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 52,
+  "translation": "Kuma shugaban mahalarta ya riƙi ⟨את⟩ Serajah babban firist, da ⟨את⟩ Tsefanjah firist na biyu, da ⟨את⟩ masu kiyaye ƙofa guda uku.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Kuma ya riƙi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "mahalarta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "firist"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "babban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Tsefanjah"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanjah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "firist"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "na biyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "masu kiyaye ƙofa guda uku"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "guda uku"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "masu kiyaye"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "ƙofa"
+    }
+  ],
+  "timestamp": "2026-08-12T16:45:35.634344294Z",
+  "model": "glm-5.2"
+}

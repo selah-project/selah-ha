@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 141,
+  "translation": "Kamar wanda yake yanka da tsaga ƙasa, haka an watse ƙas\tusu, a bakin Sheol.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "wanda yake yanka"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "da tsaga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "an watse"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "ƙas\tusu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "a bakin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    }
+  ],
+  "timestamp": "2026-08-12T20:55:23.710456584Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Kuma zan sanya ⟨את⟩ tsaunin Se'ir zuwa fāƙo da kuma fāƙo, kuma zan yanke daga cikinsa wanda ya ke wucewa da wanda ya ke komawa.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "kuma zan sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsaunin Se'ir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tsauni"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'ir"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "zuwa fāƙo"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "da kuma fāƙo"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "kuma zan yanke"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga cikinsa"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "wanda ya ke wucewa"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "da wanda ya ke komawa"
+    }
+  ],
+  "timestamp": "2026-08-12T17:46:13.322159839Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kajin ya san ⟨את⟩ matarsa, kuma ta yi ciki, kuma ta haifa ⟨את⟩ Chanok; kuma yana gina birni, kuma ya kira sunan ⟨na⟩ garin kamar sunan ɗansa Chanok.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ya san"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matarsa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "matarsa"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "kuma ta yi ciki"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "kuma ta haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chanok"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanok"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma yana"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "gina"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "birni"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kuma ya kira"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sunan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨na⟩ garin"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "kamar sunan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗansa"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanok"
+    }
+  ],
+  "timestamp": "2026-08-11T23:21:49.904529648Z",
+  "model": "glm-5.2"
+}

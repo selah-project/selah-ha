@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Domin ku ce, Yahweh ya tãda mana manzanni a Babel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "ku ce"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ya tãda"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "manzanni"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "a Babel"
+    }
+  ],
+  "timestamp": "2026-08-13T02:13:19.629943039Z",
+  "model": "glm-5.2"
+}

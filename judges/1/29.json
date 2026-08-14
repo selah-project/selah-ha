@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 1:29",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma Efrayim ba ya korar ⟨את⟩ Ƙanan'awa mai zama a Gezer, sai Ƙanan'awa ya zauna a tsakansa, a Gezer.",
+  "tokens": [
+    {
+      "surface": "ואפרים",
+      "gloss": "Kuma Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "ya kora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ƙanan'awa"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Ƙanan'awa"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "mai zama"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "a Gezer"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sai ya zauna"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Ƙanan'awa"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "a tsakansa"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "a Gezer"
+    }
+  ],
+  "timestamp": "2026-08-12T07:16:48.441273954Z",
+  "model": "glm-5.2"
+}

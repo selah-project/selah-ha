@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 26:1",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma fari ya kasance a ƙasa, banda fari na farko ⟨da⟩ ya kasance a cikin kwanakin Avraham, kuma Yitsḥaq ya tafi zuwa Avimelekh sarki na Falastawa, Gerara.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "fari"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasa"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "banda"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "fari"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "na farko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "a cikin kwanakin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kuma ya tafi"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsḥaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falastawa"
+    },
+    {
+      "surface": "גררה",
+      "gloss": "Gerara"
+    }
+  ],
+  "timestamp": "2026-08-11T23:50:35.202540509Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 19:16",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Yahweh, ka lulle kunne ka, ka saurara; Yahweh, ka buɗe idanunka, ka duba; ka saurari ⟨את⟩ kalmomin Sanheribu, wanda ya aiko don ya zagi Elohim mai rai.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "ka lulle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "kunne ka"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ka saurara"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "ka buɗe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "idanunka"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ka duba"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ka saurari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalmomin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sanheribu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ya aiko don"
+    },
+    {
+      "surface": "לחרף",
+      "gloss": "ya zagi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חי",
+      "gloss": "mai rai"
+    }
+  ],
+  "timestamp": "2026-08-12T12:37:44.995345647Z",
+  "model": "glm-5.2"
+}

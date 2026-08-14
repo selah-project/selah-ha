@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Dõmin a kafin yāro ya san ya kira Ubãna da Uwãya, za a ɗauki ⟨את⟩ dukiyar Dammeshek da ⟨את⟩ fashin Shomron a gaban sarkin Ashur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dõmin"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "a kafin"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ya san"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "yāro"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ya kira"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Ubãna"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "da Uwãya"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "za a ɗauki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukiyar Dammeshek"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "dukiyar"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dammeshek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "fashin Shomron"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "fashin"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-12T13:07:43.098279019Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 12:11",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Ba ⟨haka⟩ kunne yana gwada kalmomi ba, kuma baki yana ɗanɗana abinci a kansa?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kunne"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "kalmomi"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "yana gwada"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "kuma baki"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "abinci"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "yana ɗanɗana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a kansa"
+    }
+  ],
+  "timestamp": "2026-08-12T21:47:10.424500755Z",
+  "model": "glm-5.2"
+}

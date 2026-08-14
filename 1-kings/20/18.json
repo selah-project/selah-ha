@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma ya ce, \"Idan don salama suka fita, ku kama su rai; kuma idan don yaki suka fita, rai ku kama su.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "don salama"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "suka fita"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "ku kama su"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "rai"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "don yaki"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "suka fita"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "rai"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "ku kama su"
+    }
+  ],
+  "timestamp": "2026-08-12T11:46:36.591840665Z",
+  "model": "glm-5.2"
+}

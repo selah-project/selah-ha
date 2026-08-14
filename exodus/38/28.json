@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 38:28",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Kuma ⟨da⟩ ⟨את⟩ dubu da ɗari bakwai da hamsin da biyar da saba'in ⟨shekel⟩ ya yi ƙugiya don ginshiƙai, kuma ya rufe kan jan hankalinsu, kuma ya haɗa ⟨את⟩ su.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Kuma ⟨da⟩ ⟨את⟩",
+      "marks": "dubu da ɗari bakwai"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "da bakwai"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "da hamsin da biyar"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "da saba'in"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "ואים",
+      "gloss": "ƙugiya"
+    },
+    {
+      "surface": "לעמודים",
+      "gloss": "don ginshiƙai"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "kuma ya rufe"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "kan jan hankalinsu"
+    },
+    {
+      "surface": "וחשק",
+      "gloss": "kuma ya haɗa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ su"
+    }
+  ],
+  "timestamp": "2026-08-12T01:36:56.911929906Z",
+  "model": "glm-5.2"
+}

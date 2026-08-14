@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "A'a ⟨ce⟩, ⟨את⟩ Yahweh, Elohim naku, ku ji tsoro, kuma shi zai tsayar da ku ⟨את⟩ daga hannun dukan maƙiyanku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "A'a"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ce⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim naku"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ku ji tsoro"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kuma shi"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "zai tsayar da"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "maƙiyanku"
+    }
+  ],
+  "timestamp": "2026-08-12T12:30:29.833194764Z",
+  "model": "glm-5.2"
+}

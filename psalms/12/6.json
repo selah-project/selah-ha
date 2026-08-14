@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "\"Saboda lalacewar matalauta, da gurgun māsu tāʼazar da shāwo, yanzu Ni zan tāka,\" inā Yahweh, \"zan tsare shi cikin aminci wanda yake hūrar da shi.\"",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "Saboda lalacewa"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "matalauta"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "da shāwo"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "gurgun"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "Ni zan tāka"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "inā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "zan tsare shi"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "cikin aminci"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "wanda yake hūra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "da shi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:19:35.657817702Z",
+  "model": "glm-5.2"
+}

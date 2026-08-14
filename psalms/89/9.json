@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Yahweh, Elohim na sojoji, wa ⟨ne⟩ kamar kai, mai ƙarfi Yah? Kuma amincewarka ⟨tana⟩ a kewayenka.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֤ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹ֘הֵ֤י",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "צְבָא֗וֹת",
+      "gloss": "sojoji"
+    },
+    {
+      "surface": "מִֽי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "כָֽמ֖וֹךָ",
+      "gloss": "kamar kai"
+    },
+    {
+      "surface": "חֲסִ֥ין",
+      "gloss": "mai ƙarfi"
+    },
+    {
+      "surface": "יָ֑הּ",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "וֶ֝אֱמֽוּנָתְךָ֗",
+      "gloss": "Kuma amincewarka"
+    },
+    {
+      "surface": "סְבִיבוֹתֶֽיךָ",
+      "gloss": "a kewayenka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:17:08.250566480Z",
+  "model": "glm-5.2"
+}

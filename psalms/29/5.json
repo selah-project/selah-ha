@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Sautin Yahweh yana tona itãcen ḍari; kuma Yahweh ya tonã ⟨את⟩ itãcen ḍari na Lebanon.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sautin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "yana tona"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "itãcen ḍari"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "kuma ya tonã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itãcen ḍari"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "itãcen ḍari na"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebanon"
+    }
+  ],
+  "timestamp": "2026-08-12T19:31:24.194580020Z",
+  "model": "glm-5.2"
+}

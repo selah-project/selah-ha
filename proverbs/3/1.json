@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Ɗana, kada ka manta da Torah ta, ⟨kuma⟩ zuciyarka ta kiyaye umarnina.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ɗana"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torah ta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ka manta"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "⟨kuma⟩ umurnina"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ta kiyaye"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "zuciyarka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:28:26.086371553Z",
+  "model": "glm-5.2"
+}

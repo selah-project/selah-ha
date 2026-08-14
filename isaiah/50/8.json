@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 50:8",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "Yã kusa wanda yake shãɗa ni a matsayin mai adãla; wa zai yi taƙama da ni? Mu tsaya tare. Wa ne mai shari'ata? Bari ya kushe ni.",
+  "tokens": [
+    {
+      "surface": "קָרוֹב֙",
+      "gloss": "yã kusa"
+    },
+    {
+      "surface": "מַצְדִּיקִ֔י",
+      "gloss": "wanda yake shãɗa ni a matsayin mai adãla"
+    },
+    {
+      "surface": "מִי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יָרִ֥יב",
+      "gloss": "zai yi taƙama"
+    },
+    {
+      "surface": "אִתִּ֖י",
+      "gloss": "⟨את⟩ ni",
+      "marks": "ni"
+    },
+    {
+      "surface": "נַ֣עַמְדָה",
+      "gloss": "mu tsaya"
+    },
+    {
+      "surface": "יָּ֑חַד",
+      "gloss": "tare"
+    },
+    {
+      "surface": "מִי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בַּעַל",
+      "gloss": "ne mai"
+    },
+    {
+      "surface": "מִשְׁפָּטִ֖י",
+      "gloss": "shari'ata"
+    },
+    {
+      "surface": "יִגַּ֥שׁ",
+      "gloss": "bari ya kushe"
+    },
+    {
+      "surface": "אֵלָֽי",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-12T14:25:38.815761093Z",
+  "model": "glm-5.2"
+}

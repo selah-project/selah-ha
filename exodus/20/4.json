@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kada ka yi wa kanka mutum-mutumi, ko wani siffar abin da yake a sama sama, daga sama, ko abin da yake a ƙasa daga ƙasa, ko abin da yake a ruwan daga ƙasa zuwa ƙasa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ka yi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wa kanka"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "mutum-mutumi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ko wani"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "siffar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "yake a sama sama"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "daga sama"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ko abin da"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yake a ƙasa"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "daga ƙasa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ko abin da"
+    },
+    {
+      "surface": "במים",
+      "gloss": "yake a cikin ruwan"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "daga ƙasa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "zuwa ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:55:37.074709025Z",
+  "model": "glm-5.2"
+}

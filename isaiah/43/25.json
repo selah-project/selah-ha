@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Ni, ni ne ⟨shi⟩, mai shafe laifuffafanka domin nawa, kuma zunubobinka ba zan tuna ba.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨shi⟩"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "mai shafe"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "laifuffafanka"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "domin nawa"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "kuma zunubobinka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "zan tuna"
+    }
+  ],
+  "timestamp": "2026-08-12T14:10:04.921250382Z",
+  "model": "glm-5.2"
+}

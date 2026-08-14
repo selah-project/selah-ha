@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Ɗiy' Parʿosh, dubu biyu ɗari ɗaya saba'in da biyu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ɗiy'"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Parʿosh"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dubu biyu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ɗari ɗaya"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "saba'in"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "da biyu"
+    }
+  ],
+  "timestamp": "2026-08-12T23:22:38.179430790Z",
+  "model": "glm-5.2"
+}

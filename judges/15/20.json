@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Ya yi hukunci ⟨את⟩ Isra'ila a cikin kwanakin Falistawa shekara ashirin.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ya yi hukunci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isra'ila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "a cikin kwanakin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falistawa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    }
+  ],
+  "timestamp": "2026-08-12T07:58:30.208369795Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Ruwan ya ƙare daga cikin kwanyar, sai ta jefa ⟨את⟩ yaron ƙarƙashin ɗaya daga cikin itãtsuwai.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "ya ƙare"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga cikin"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "kwanyar"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "sai ta jefa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaron"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "yaron"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ƙarƙashin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "cikin itãtsuwai"
+    }
+  ],
+  "timestamp": "2026-08-11T23:41:51.535745275Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma idan naƙƙasari ko na son kansa, ⟨shĩ⟩ zabahar da ake kawo qurban⁠sa, a ranar da ake kawo ⟨את⟩ zabahar⁠sa, a ci; kuma a washe gari, abin da ya rage daga gare shi, a ci.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "naƙƙasari"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "na son kansa"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zabahar"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "da ake kawo qurban⁠sa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a ranar"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "da ake kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zabaharsa"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "zabaharsa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "a ci"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "kuma a washe gari"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "abin da ya rage"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare shi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "a ci"
+    }
+  ],
+  "timestamp": "2026-08-12T01:51:00.749997197Z",
+  "model": "glm-5.2"
+}

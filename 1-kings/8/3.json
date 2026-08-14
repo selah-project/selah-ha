@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma dukkan dattijan Isra'ila suka zo, kuma firistoci suka ɗauko ⟨את⟩ akwatin.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "suka zo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "dattijan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "suka ɗauko"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "firistoci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "akwatin"
+    }
+  ],
+  "timestamp": "2026-08-12T11:07:22.966826212Z",
+  "model": "glm-5.2"
+}

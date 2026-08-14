@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 1:19",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Sai muka tashi daga Chorev, muka tafi ⟨ta⟩ duka hamada babba da ta gusar da ita, wadda kuka gani, hanyar tsaunin Amori, kamar yadda Yahweh Elohimmu ya umurce ⟨את⟩ ⟨mu⟩; muka zo har Qadesh-Barnea.",
+  "tokens": [
+    {
+      "surface": "ונסע",
+      "gloss": "Sai muka tashi"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "daga Chorev"
+    },
+    {
+      "surface": "ונלך",
+      "gloss": "muka tafi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka hamada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "hamada"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "babba"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "da ta gusar da ita"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wadda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "kuka gani"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tsaunin"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amori"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ⟨mu⟩"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "muka zo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-08-12T04:53:22.136384918Z",
+  "model": "glm-5.2"
+}

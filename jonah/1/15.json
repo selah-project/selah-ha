@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma suka ɗauki ⟨את⟩ Yonah, suka jefa shi cikin teku, kuma teku ta tsaya daga fushinta.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Kuma suka ɗauki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "suka jefa shi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "kuma ta tsaya"
+    },
+    {
+      "surface": "הים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "daga fushinta"
+    }
+  ],
+  "timestamp": "2026-08-12T18:37:48.842453235Z",
+  "model": "glm-5.2"
+}

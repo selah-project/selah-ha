@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Kuma ni, kamar kurma, ban ji ba, kuma kamar bebe, bai buɗe ⟨ba⟩ bakinsa.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kuma ni"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "kamar kurma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ban"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ji"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "kuma kamar bebe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bai"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "buɗe"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "bakinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:40:51.617323961Z",
+  "model": "glm-5.2"
+}

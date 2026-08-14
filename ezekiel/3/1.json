@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ⟨ya⟩ faɗa gare ni: Ya ɗan adam, ⟨את⟩ abin da kake samu, ci; ci ⟨את⟩ wannan gungume, ka kuma je, ka yi magana ga gidan Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ⟨ya⟩ faɗa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ya ɗan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin da kake samu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "kake samu"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "ci"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "ci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan gungume"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "gungumen"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ka kuma je"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ka yi magana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T16:55:42.473471155Z",
+  "model": "glm-5.2"
+}

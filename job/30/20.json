@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Ina kuka zuwa gare ka, amma ba ka amsa ni ba; na tsaya, kuma ka yi mini lura.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "Ina kuka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zuwa gare ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ka amsa ni"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "na tsaya"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "kuma ka yi mini lura"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-12T22:07:52.203712022Z",
+  "model": "glm-5.2"
+}

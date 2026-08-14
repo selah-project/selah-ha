@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Don haka za ka yi tafiya a yau, kuma annabi ⟨za⟩ yi tafiya tare da ka da dare, kuma ni ⟨za⟩ rage ka wa uwar ka shiru.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "za ka yi tafiya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "a yau"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "kuma ⟨za⟩ yi tafiya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "annabi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tare da ka"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "da dare"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "kuma ni ⟨za⟩ rage ka wa"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "uwar ka"
+    }
+  ],
+  "timestamp": "2026-08-12T18:10:29.089808342Z",
+  "model": "glm-5.2"
+}

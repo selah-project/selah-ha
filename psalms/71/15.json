@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 71,
+  "translation": "Bakinina zai faɗi adalcinka, dukan rana tashī'yarka, domin ba na san lissafin su.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Bakinina"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "zai faɗi"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "adalcinka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rana"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "tashī'yarka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "na san"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "lissafin su"
+    }
+  ],
+  "timestamp": "2026-08-12T20:01:29.228244972Z",
+  "model": "glm-5.2"
+}

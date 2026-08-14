@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 9:17",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma ya kawo ⟨את⟩ hadiyar gona, kuma ya cika tafin hannu daga gare ta, kuma ya ƙona ⟨a⟩ kan ginshiƙi, banda ƙonewar safiya.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "kuma ya kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadiyar gona"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "hadiyar gona"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "kuma ya cika"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "tafin hannunsa"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "daga gare ta"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "kuma ya ƙona"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ginshiƙi"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "banda"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ƙonewar"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "safiya"
+    }
+  ],
+  "timestamp": "2026-08-12T02:03:52.181100736Z",
+  "model": "glm-5.2"
+}

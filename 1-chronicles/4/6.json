@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma Naarah ta haifa masa ⟨את⟩ Achuzzam da ⟨את⟩ Chepher da ⟨את⟩ Temeni da ⟨את⟩ Haahshtari; waɗannan su ne 'ya'yan Naarah.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Kuma ta haifa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achuzzam"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Achuzzam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Chepher"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Chepher"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Haahshtari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Haahshtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    }
+  ],
+  "timestamp": "2026-08-12T23:58:34.915212046Z",
+  "model": "glm-5.2"
+}

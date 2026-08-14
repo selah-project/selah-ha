@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 110,
+  "translation": "⟨Zai⟩ yi shari'a tsakanin al'ummai, ⟨zai⟩ cika gawawwaki, ya murƙushe ⟨babban⟩ shugaban a ƙasa mai yawa.",
+  "tokens": [
+    {
+      "surface": "יָדִ֣ין",
+      "gloss": "⟨zai⟩ yi shari'a"
+    },
+    {
+      "surface": "בַּ֭גּוֹיִם",
+      "gloss": "tsakanin al'ummai"
+    },
+    {
+      "surface": "מָלֵ֣א",
+      "gloss": "⟨zai⟩ cika"
+    },
+    {
+      "surface": "גְוִיּ֑וֹת",
+      "gloss": "gawawwaki"
+    },
+    {
+      "surface": "מָחַ֥ץ",
+      "gloss": "ya murƙushe"
+    },
+    {
+      "surface": "רֹ֝֗אשׁ",
+      "gloss": "⟨babban⟩ shugaban"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אֶ֥רֶץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "רַבָּֽה",
+      "gloss": "mai yawa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:35:22.258181082Z",
+  "model": "glm-5.2"
+}

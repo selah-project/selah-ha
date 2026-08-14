@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ya gudu zuwa gare Eli, ya ce: \"Ina nan, domin ka kira ni.\" Sai ya ce: \"Ban kira ba, koma ka kwanta.\" Kuma ya tafi, ya kwanta.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "kuma ya gudu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa gare"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ina nan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ka kira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sai ya ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ban"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "kira"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "koma"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ka kwanta"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kuma ya tafi"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "ya kwanta"
+    }
+  ],
+  "timestamp": "2026-08-12T08:32:49.603127790Z",
+  "model": "glm-5.2"
+}

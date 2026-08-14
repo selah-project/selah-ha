@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Yā matā, al'ummar masu laifi, mutane masu nauyin zunubi, zuriyar masu mugunta, ƴa'ƴa masu halaka! Sun bar ⟨את⟩ Yahweh, sun ƙi ⟨את⟩ Tsarkin Yisra'el, sun koma baya.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Yā matā"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "al'ummar"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "masu laifi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "masu nauyin"
+    },
+    {
+      "surface": "עון",
+      "gloss": "zunubi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zuriyar"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "masu mugunta"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ƴa'ƴa"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "masu halaka"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Sun bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "sun ƙi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsarkin"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Tsarkin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "sun koma"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "baya"
+    }
+  ],
+  "timestamp": "2026-08-12T12:56:45.115196772Z",
+  "model": "glm-5.2"
+}

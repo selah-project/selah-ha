@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 32:27",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Sai ya ce: 'Salli ni, domin alfijir ya fito.' Kuma ⟨Ya'ƙub⟩ ya ce: 'Ba zan salli ka ba, face idan ka albarkace ni.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sai ya ce"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "salli ni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ya fito"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "alfijir"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ... ya ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "zansalli ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "face"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "ברכתני",
+      "gloss": "ka albarkace ni"
+    }
+  ],
+  "timestamp": "2026-08-11T23:57:07.496344515Z",
+  "model": "glm-5.2"
+}

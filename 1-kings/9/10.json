@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma a ƙarshen shekaru ashirin da Shelomah ya gina ⟨את⟩ gidaje biyu, ⟨את⟩ baitin Yahweh da ⟨את⟩ baitin sarki, ⟨ya kasance⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma a ƙarshen"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ƙarshen"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ya gina"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidaje biyu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "gidaje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baitin Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baitin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "baitin sarki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baitin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    }
+  ],
+  "timestamp": "2026-08-12T11:12:39.757761254Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Ba ⟨kai⟩ ce ka kāre shi da gidansa da duk abin da yake da shi a kewaye ba? Aikin hannuwansa ka albarkaci, dabbobinsa kuwa sun yawaita cikin ƙasa.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "kai"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "ka kāre"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "da"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gidansa"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "da"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yake da shi"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "a kewaye"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hannuwansa"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "ka albarkaci"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "dabbobinsa kuwa"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "sun yawaita"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "cikin ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T21:39:53.361745709Z",
+  "model": "glm-5.2"
+}

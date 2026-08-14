@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 49:3",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "\"Re'uven, ka ⟨ne⟩ fari na, ƙarfina, kuma farkon ƙarfin tarana, fiye da hawa, da fiye da ƙarfi.\"",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Re'uven"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "fari na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ƙarfina"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "kuma farkon"
+    },
+    {
+      "surface": "אוני",
+      "gloss": "ƙarfin tarana"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "fiye da"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "da fiye da"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ƙarfi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:26:49.890855382Z",
+  "model": "glm-5.2"
+}

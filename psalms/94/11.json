@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 94,
+  "translation": "Yahweh yana sanin tunanin mutum, cewa ⟨sũ⟩ ishasu ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yana sanin"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "tunanin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨sũ⟩"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ishasu ⟨ne⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:00.705983441Z",
+  "model": "glm-5.2"
+}

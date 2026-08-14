@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 6:1",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "A cikin wannan daren, barcin sarki ya gudu, sai ya ce a kawo ⟨את⟩ littafin abubuwan tunawa, kalamran kwanakin, aka karanta su a gaban sarki.",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "a cikin daren"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "נדדה",
+      "gloss": "ya gudu"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "barcin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sai ya ce"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "a kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "littafin abubuwan tunawa"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "littafin"
+    },
+    {
+      "surface": "הזכרנות",
+      "gloss": "abubuwan tunawa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalamran"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "aka"
+    },
+    {
+      "surface": "נקראים",
+      "gloss": "karanta su"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    }
+  ],
+  "timestamp": "2026-08-12T22:56:14.043766584Z",
+  "model": "glm-5.2"
+}

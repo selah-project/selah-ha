@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma Dawuda yana tafiya dawowa daga wurin Sha'ul don kiwon ⟨את⟩ tumin mahaifinsa Beyt-Lechem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Kuma Dawuda"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yana tafiya"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "dawowa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "daga wurin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "don kiwon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tumin"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "tumin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "mahaifinsa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-08-13T01:59:49.880377405Z",
+  "model": "glm-5.2"
+}

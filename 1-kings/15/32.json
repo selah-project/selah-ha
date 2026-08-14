@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma akwai yaki tsakanin Asa da tsakanin Baʿsha, sarkin Yisra'el, dukkan rayuwarsu.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Kuma akwai yaki"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨ya kasance⟩"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da tsakanin"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baʿsha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "rayuwarsu"
+    }
+  ],
+  "timestamp": "2026-08-12T11:34:46.827134821Z",
+  "model": "glm-5.2"
+}

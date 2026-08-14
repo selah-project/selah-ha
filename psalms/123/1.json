@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 123,
+  "translation": "Waƙa ta hawa. Zuwa gare Ka na ɗaukaka ⟨את⟩ idanuwata, yã Zauna a cikin sama.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Waƙa"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ta hawa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Zuwa gare Ka"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "na ɗaukaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idanuwata"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "idanuwata"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "Zauna"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "a cikin sama"
+    }
+  ],
+  "timestamp": "2026-08-12T20:51:13.333367337Z",
+  "model": "glm-5.2"
+}

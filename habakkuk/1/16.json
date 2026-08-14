@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "habakkuk 1:16",
+  "book": "habakkuk",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Saboda haka, yana yin hadaya ga rĩgar sa, yana ƙone turarewa ga tarun sa. Dõmin cewa rĩgar ta, sãbu ta, da abincin sa mai gãji ne.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Saboda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "יזבח",
+      "gloss": "yana yin hadaya"
+    },
+    {
+      "surface": "לחרמו",
+      "gloss": "ga rĩgar sa"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "yana ƙone turarewa"
+    },
+    {
+      "surface": "למכמרתו",
+      "gloss": "ga tarun sa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Dõmin cewa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "sãbu ta, da abincin sa"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "sãbu ta, da abincin sa"
+    },
+    {
+      "surface": "ומאכלו",
+      "gloss": "sãbu ta, da abincin sa"
+    },
+    {
+      "surface": "בראה",
+      "gloss": "mai gãji ne"
+    }
+  ],
+  "timestamp": "2026-08-12T18:47:58.701940373Z",
+  "model": "glm-5.2"
+}

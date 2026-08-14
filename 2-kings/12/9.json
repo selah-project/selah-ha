@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma Firistoci suka amince da kada su riƙe kuɗin azurfa daga ⟨את⟩ mutane, kuma da kada su ƙarfafa ⟨את⟩ ɓarna ⟨na⟩ gida.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "suka amince"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "Firistoci"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "da kada su"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "riƙe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kuɗin azurfa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "daga mutane"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "kuma da kada su"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ƙarfafa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓarna"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ɓarna"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "gida"
+    }
+  ],
+  "timestamp": "2026-08-12T12:22:06.846639670Z",
+  "model": "glm-5.2"
+}

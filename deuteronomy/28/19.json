@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "La'ananne kai ⟨ne⟩ a shigarka, kuma la'ananne kai ⟨ne⟩ a fitarka.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "la'ananne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "a shigarka"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "kuma la'ananne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "a fitarka"
+    }
+  ],
+  "timestamp": "2026-08-13T01:54:41.334703860Z",
+  "model": "glm-5.2"
+}

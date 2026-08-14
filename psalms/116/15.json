@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 116,
+  "translation": "Mai ƙima a cikin idãnun Yahweh ⟨ne⟩ mutuwar mĩnanensa.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "mai ƙima"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a cikin idãnun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "mutuwar"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "mĩnanensa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:39:35.419244923Z",
+  "model": "glm-5.2"
+}

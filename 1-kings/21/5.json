@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Sai Izebel matar ⟨Ahab⟩ ta shigo wurinsa, kuma ta yi masa magana, mẽne ne wannan, rũhinka ya ƙɗaire, kuma kai ba ka cin abinci ba?",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ta shigo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "wurinsa"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "matar sa"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "kuma ta yi magana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "wurinsa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mẽne ne"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "rũhin ka"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "ya ƙɗaire"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "kuma ba ka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "cin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "abinci"
+    }
+  ],
+  "timestamp": "2026-08-12T11:47:50.839586773Z",
+  "model": "glm-5.2"
+}

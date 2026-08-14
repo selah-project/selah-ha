@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Kuma ya shiryar da su cikin girgije yini, duka ⟨warin⟩ dare cikin hasken wuta.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Kuma ya shiryar da su"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "cikin girgije"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "yini"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "⟨warin⟩ dare"
+    },
+    {
+      "surface": "באור",
+      "gloss": "cikin hasken"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wuta"
+    }
+  ],
+  "timestamp": "2026-08-12T20:08:54.925869572Z",
+  "model": "glm-5.2"
+}

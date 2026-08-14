@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Sa'an nan manzon ya tafi, ya zo, ya kuma ba da labari ga Dawuda ⟨את⟩ duka abin da Yoab ya aiko shi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Sa'an nan manzon ya tafi"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": ""
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ya zo"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ya kuma ba da labari"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ga Dawuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ya aiko shi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    }
+  ],
+  "timestamp": "2026-08-13T02:01:50.128263522Z",
+  "model": "glm-5.2"
+}

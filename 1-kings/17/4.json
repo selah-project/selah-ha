@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma zai kasance, daga kogin za ka sha, kuma ⟨את⟩ ungulu Na umurta su ciyar da ka can.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Kuma zai kasance"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "daga kogin"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "za ka sha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ungulu"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ungulu"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "Na umurta"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "su ciyar da ka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    }
+  ],
+  "timestamp": "2026-08-13T02:04:30.232325932Z",
+  "model": "glm-5.2"
+}

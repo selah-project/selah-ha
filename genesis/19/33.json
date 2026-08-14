@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Su kuma suka shayar da ⟨את⟩ ubansu giya cikin wannan daren, kuma babbar ⟨ce⟩ ta shiga, ta kwanta da ⟨את⟩ mahaifinta, kuma bai sani ba ba a lokacin kwanta ta ba kuma ba a lokacin tashawar ta ba.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "su kuma suka shayar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubansu"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "ubansu"
+    },
+    {
+      "surface": "יין",
+      "gloss": "giya"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "cikin dare"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "kuma ta shiga"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "babbar"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "kuma ta kwanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahaifinta"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "mahaifinta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ya sani"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "a lokacin kwanta ta"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "kuma a lokacin tashawar ta"
+    }
+  ],
+  "timestamp": "2026-08-11T23:40:27.288615147Z",
+  "model": "glm-5.2"
+}

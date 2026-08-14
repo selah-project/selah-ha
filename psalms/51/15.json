@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 51,
+  "translation": "⟨Sa'an nan⟩ zan koya wa masu tawaye hanyoyinka, kuma masu zunubi zuwa gare ka za su koma.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "zan koya wa"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "masu tawaye"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "hanyoyinka"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "kuma masu zunubi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zuwa gare ka"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "za su koma"
+    }
+  ],
+  "timestamp": "2026-08-12T19:51:45.599364391Z",
+  "model": "glm-5.2"
+}

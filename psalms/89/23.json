@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Maƙiyi ba zai nemi bashi a gare shi, kuma ɗan zalunci ba zai tāke shi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "zai nemi bashi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "maƙiyi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a gare shi"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "kuma ɗan"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "zalunci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "zai tāke shi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:18:04.676916702Z",
+  "model": "glm-5.2"
+}

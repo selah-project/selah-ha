@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma ⟨את⟩ dukkan sarakunan nan da ⟨את⟩ ƙasashensu, Yehoshuwa ya kama su lokaci ɗaya; domin Yahweh, Elohim na Yisra'el, yana yaƙa don Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan sarakunan nan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "sarakunan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasashensu"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ƙasashensu"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "ya kama"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "lokaci"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "yana yaƙa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "don Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T06:32:10.782274738Z",
+  "model": "glm-5.2"
+}

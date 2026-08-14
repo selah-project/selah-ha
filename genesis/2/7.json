@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma Yahweh Elohim ya yi ⟨את⟩ mutum tūrē daga ƙasar, kuma ya hūfa cikin sinusansa isasshen rāyā, kuma mutum ya zama rāyuwa mārayu.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutum"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tūrē"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "kuma ya hūfa"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "cikin sinusansa"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "isasshen"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "rāyā"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya zama"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "rāyuwa"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "mārayu"
+    }
+  ],
+  "timestamp": "2026-08-11T23:21:12.814799613Z",
+  "model": "glm-5.2"
+}

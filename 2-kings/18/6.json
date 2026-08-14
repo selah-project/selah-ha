@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 18:6",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma ya manne da Yahweh, ba ya juya daga bayansa, ya kuma tsare dokokinsa, waɗanda Yahweh ya umarta ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "וידבק",
+      "gloss": "kuma ya manne"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "da Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ya juya"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "daga bayansa"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "ya kuma tsare"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "dokokinsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umarta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-12T12:32:35.821713183Z",
+  "model": "glm-5.2"
+}

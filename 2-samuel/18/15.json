@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Sai samari goma, masu ɗaukan kayan Yawab, suka kewaye, suka buge ⟨את⟩ Abishalom, suka kashe shi.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "suka kewaye"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "goma"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "samari"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "masu ɗaukan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kayan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yawab"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "suka buge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abishalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abishalom"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "suka kashe shi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:02:33.397061446Z",
+  "model": "glm-5.2"
+}

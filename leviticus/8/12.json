@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ya zuba daga manen shafawa akan kan Aharon, kuma ya shafa shi don tsarkake shi.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "kuma ya zuba"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "daga manen"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "shafawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "akan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "kuma ya shafa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi",
+      "marks": "shi (Aharon)"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "don tsarkake shi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:57:36.299135700Z",
+  "model": "glm-5.2"
+}

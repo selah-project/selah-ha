@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 23:6",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma ya fitar da ⟨את⟩ Asherah daga cikin baytin Yahweh, a wajen Yerushalama, zuwa magudanar Qidron, kuma ya ƙone ta a magudanar Qidron, ya niƙa ta zuwa ƙura, ya jefa ⟨את⟩ ƙurar ta a kabarin ɗiyayen jama'a.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ya fitar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asherah"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Asherah"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "daga cikin baytin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "a wajen"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerushalama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "magudanar"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Qidron"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "ya ƙone"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ta",
+      "marks": "Asherah"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "a magudanar"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Qidron"
+    },
+    {
+      "surface": "וידק",
+      "gloss": "ya niƙa"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "zuwa ƙura"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ya jefa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙurar ta"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "ƙurar ta"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kabarin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyayen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    }
+  ],
+  "timestamp": "2026-08-12T12:46:55.025109288Z",
+  "model": "glm-5.2"
+}

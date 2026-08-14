@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 7:40",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma ←911 ya yi ⟨את⟩ ←920, da ⟨את⟩ ←925, da ⟨את⟩ ←930; ←911 ya kammala yi ⟨את⟩ dukkan ←935 da ya yi wa Sarki Sulaiman ←902 Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "חירום",
+      "gloss": "←911"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "←920"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "←920"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "←925"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "←925"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "←930"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "←930"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "ya kammala"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "←911"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "←935"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "wa Sarki"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sulaiman"
+    },
+    {
+      "surface": "בית",
+      "gloss": "←902"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T11:06:07.355822228Z",
+  "model": "glm-5.2"
+}

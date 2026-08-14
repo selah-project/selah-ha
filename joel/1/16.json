@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joel 1:16",
+  "book": "joel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Ba ⟨a cikin gaban idanunmu⟩ an tsage abinci ⟨ba⟩, daga gida Elohimmu, farinciki da murna?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "a cikin gaban"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "idanunmu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "abinci"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "an tsage"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "daga gada"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "farinciki"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "da murna"
+    }
+  ],
+  "timestamp": "2026-08-12T18:22:19.138743292Z",
+  "model": "glm-5.2"
+}

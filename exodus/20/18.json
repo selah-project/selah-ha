@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma duka mutãnen sunã ganin ⟨את⟩ muryõyin da ⟨את⟩ wutã da ⟨את⟩ muryar ƙaho da ⟨את⟩ dutsen yana hayaki, mutãnen suka ga suka girgiza suka tsaya dã nesa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kuma duka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "sunã ganin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muryõyin"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "muryõyin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "wutã"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "wutã"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "muryar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "ƙaho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dutsen"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dutsen"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "yana hayaki"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "suka ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "suka girgiza"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "suka tsaya"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "dã nesa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:56:48.496837023Z",
+  "model": "glm-5.2"
+}

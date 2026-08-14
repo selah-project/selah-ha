@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Ka guje wa mugunta, kuma ka aikata alhẽri; ka neman salãma, kuma ka bi shi.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "ka guje wa"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "mugunta"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "kuma ka aikata"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "alhẽri"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ka neman"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salãma"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "kuma ka bi shi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:36:12.485510592Z",
+  "model": "glm-5.2"
+}

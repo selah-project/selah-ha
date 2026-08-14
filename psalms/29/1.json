@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Waƙa ta Dawuda. Ku bai wa Yahweh, ya ku ɗiyān El, ku bai wa Yahweh ⟨alħoria⟩ da ƙarfi.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Waƙa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ta Dawuda"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Ku bai wa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya ku ɗiyān"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "El"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ku bai wa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "⟨alħoria⟩"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "da ƙarfi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:32:44.503816366Z",
+  "model": "glm-5.2"
+}

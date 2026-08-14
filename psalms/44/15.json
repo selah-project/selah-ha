@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Kana sanya mu zagi a cikin al'ummomi, gwigwar kai a tsakanin al'ummai.",
+  "tokens": [
+    {
+      "surface": "תְּשִׂימֵ֣נוּ",
+      "gloss": "Kana sanya mu"
+    },
+    {
+      "surface": "מָ֭שָׁל",
+      "gloss": "zagi"
+    },
+    {
+      "surface": "בַּגּוֹיִ֑ם",
+      "gloss": "a cikin al'ummomi"
+    },
+    {
+      "surface": "מְנֽוֹד",
+      "gloss": "gwigwar"
+    },
+    {
+      "surface": "רֹ֝אשׁ",
+      "gloss": "kai"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "a tsakanin"
+    },
+    {
+      "surface": "אֻמִּֽים",
+      "gloss": "al'ummai"
+    }
+  ],
+  "timestamp": "2026-08-12T19:44:45.850098908Z",
+  "model": "glm-5.2"
+}

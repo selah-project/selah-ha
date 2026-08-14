@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Amma Haman ya ɗaura kansa, ya kuma shiga gidansa, ya aiko ya kuma kawo ⟨את⟩ abokansa da ⟨את⟩ Zeresh matarsa.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "ya ɗaura kansa"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ya kuma shiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gidansa"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ya aiko"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ya kuma kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abokansa"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "abokansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "Zeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "matarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:54:55.973424549Z",
+  "model": "glm-5.2"
+}

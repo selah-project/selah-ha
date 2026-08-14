@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma kohen ya amsa ⟨את⟩ Dawuda, kuma ya ce: Babu burodi na yau da kullum a ƙarƙashin hannuna, amma burodi mai tsarki akwai — idan samarin sun tsare kansu, aƙalla daga mace.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Kuma ya amsa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawuda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Babu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "burodi"
+    },
+    {
+      "surface": "חל",
+      "gloss": "na yau da kullum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ƙarƙashin"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hannuna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "amma"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "burodi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mai tsarki"
+    },
+    {
+      "surface": "יש",
+      "gloss": "akwai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "sun tsare kansu"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "samarin"
+    },
+    {
+      "surface": "אך",
+      "gloss": "aƙalla"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "daga mace"
+    }
+  ],
+  "timestamp": "2026-08-14T00:07:26.797737705Z",
+  "model": "glm-5.2"
+}

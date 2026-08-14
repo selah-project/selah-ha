@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 31:14",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Kuma Na shayar da ruhun malamanka da kitse, kuma mutanem za su santa da ⟨את⟩ nagartanNa, maganar Yahweh.",
+  "tokens": [
+    {
+      "surface": "ורויתי",
+      "gloss": "kuma Na shayar da"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "malaman"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "da kitse"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "kuma mutanem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nagartanNa"
+    },
+    {
+      "surface": "טובי",
+      "gloss": "nagartanNa"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "za su santa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "magana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-13T02:13:18.917141904Z",
+  "model": "glm-5.2"
+}

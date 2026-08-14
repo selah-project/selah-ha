@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 95,
+  "translation": "inda ubanninku suka gwada ni, sun bincika ni, ma dai sun ga aikata.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "inda"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "suka gwada ni"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ubanninku"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "sun bincika ni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ma dai"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "sun ga"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "aikata"
+    }
+  ],
+  "timestamp": "2026-08-12T20:20:35.140344044Z",
+  "model": "glm-5.2"
+}

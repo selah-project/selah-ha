@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Domi abin ƙyama ne ga Yahweh ⟨mutumin⟩ mai jijiya, amma ⟨את⟩ masu madaidaici ⟨al'ummar⟩ sirrinsa ⟨take⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domi"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "abin ƙyama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "mai jijiya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "amma ⟨את⟩",
+      "marks": "masu madaidaici"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "masu madaidaici"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "sirrinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T21:05:07.431461774Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 115,
+  "translation": "Ku masu girmama Yahweh, ku dogara da Yahweh; taimakonsu ⟨ne⟩ ⟨kuma⟩ garkuwarsu ⟨shi⟩.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Ku masu girmama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ku dogara"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "da Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "taimakonsu"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "⟨kuma⟩ garkuwarsu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ne⟩ ⟨shi⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:38:17.507992862Z",
+  "model": "glm-5.2"
+}

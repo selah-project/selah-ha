@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 17:18",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Suka baci waɗanda suke bin ni, amma kada in baci, ni; suka gargaɗe, su, amma kada in gargaɗe, ni; ka kawo musu ranar baƙin ciki, kuma da ninki biyu na rugujewa ka rushe su.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "suka baci"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "waɗanda suke bin ni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "amma kada"
+    },
+    {
+      "surface": "אבשה",
+      "gloss": "in baci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יחתו",
+      "gloss": "suka gargaɗe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "su"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "amma kada"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "in gargaɗe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "ka kawo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ranar"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "baƙin ciki"
+    },
+    {
+      "surface": "ומשנה",
+      "gloss": "da ninki biyu"
+    },
+    {
+      "surface": "שברון",
+      "gloss": "na rugujewa"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "ka rushe su"
+    }
+  ],
+  "timestamp": "2026-08-12T15:30:08.210656489Z",
+  "model": "glm-5.2"
+}

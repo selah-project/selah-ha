@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Aharon ya faɗa ⟨את⟩ dukkan kalmomin da Yahweh ya faɗa wa Mosheh, kuma ⟨ya⟩ yi alamun a gaban idonun mutãnen.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan kalmomin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "kuma ⟨ya⟩ yi"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "alamun"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "a gaban idonun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    }
+  ],
+  "timestamp": "2026-08-12T00:31:08.720662937Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ya auna ⟨את⟩ faɗin buɗewar ⟨na⟩ ƙofar, ƙafaffu goma; tsawon ⟨na⟩ ƙofar, ƙafaffu goma sha uku.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "kuma ya auna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faɗin"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "faɗin"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "buɗewar"
+    },
+    {
+      "surface": "השער",
+      "gloss": "⟨na⟩ ƙofar"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "goma"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ƙafaffu"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "tsawon"
+    },
+    {
+      "surface": "השער",
+      "gloss": "⟨na⟩ ƙofar"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "uku"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sha (goma)"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ƙafaffu"
+    }
+  ],
+  "timestamp": "2026-08-12T17:57:21.624055605Z",
+  "model": "glm-5.2"
+}

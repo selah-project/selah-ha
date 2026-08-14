@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 12:5",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "kuma Yirmeyah, kuma Yakhazi'el, kuma Yokhanan, kuma Yozavad ⟨na⟩ Gedera",
+  "tokens": [
+    {
+      "surface": "וְיִרְמְיָ֤ה",
+      "gloss": "kuma Yirmeyah"
+    },
+    {
+      "surface": "וְיַחֲזִיאֵל֙",
+      "gloss": "kuma Yakhazi'el"
+    },
+    {
+      "surface": "וְי֣וֹחָנָ֔ן",
+      "gloss": "kuma Yokhanan"
+    },
+    {
+      "surface": "וְיוֹזָבָ֖ד",
+      "gloss": "kuma Yozabad"
+    },
+    {
+      "surface": "הַגְּדֵרָתִֽי",
+      "gloss": "⟨na⟩ Gedera"
+    }
+  ],
+  "timestamp": "2026-08-13T00:09:16.378429309Z",
+  "model": "glm-5.2"
+}

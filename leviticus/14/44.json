@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 14:44",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma malamin ya shiga, ya duba, sai gani, idan cutar ta yaɗu a gidan, ita ce ciwon cutaskiya cin abu a gidan; gida marar tsarki ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "Kuma ya shiga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "malamin"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ya duba"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sai gani"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "ta yaɗu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "cutar"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a gidan"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ciwon cutaskiya"
+    },
+    {
+      "surface": "ממארת",
+      "gloss": "cin abu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ita ⟨ce⟩"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a gidan"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "marar tsarki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ne⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T02:13:42.680856625Z",
+  "model": "glm-5.2"
+}

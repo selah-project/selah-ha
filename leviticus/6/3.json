@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 6:3",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma kahun zai sa rigar linin, da wando na linin zai sa a jikinsa, kuma zai ɗauko ⟨את⟩ tokar da wutar ta ci ⟨את⟩ ƙorarin da ke kan gurgabar, kuma zai aje ta gefen gurgabar.",
+  "tokens": [
+    {
+      "surface": "ולבש",
+      "gloss": "kuma zai sa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahun"
+    },
+    {
+      "surface": "מדו",
+      "gloss": "rigar"
+    },
+    {
+      "surface": "בד",
+      "gloss": "linin"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "da wando na"
+    },
+    {
+      "surface": "בד",
+      "gloss": "linin"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "zai sa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jikinsa"
+    },
+    {
+      "surface": "והרים",
+      "gloss": "kuma zai ɗauko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokar"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "tokar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ta ci"
+    },
+    {
+      "surface": "האש",
+      "gloss": "wutar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙorarin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ƙorarin"
+    },
+    {
+      "surface": "על",
+      "gloss": "da ke kan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "gurgabar"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "kuma zai aje ta"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "gefen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "gurgabar"
+    }
+  ],
+  "timestamp": "2026-08-13T03:02:25.580464195Z",
+  "model": "glm-5.2"
+}

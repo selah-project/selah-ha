@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 127,
+  "translation": "Daɗi ⟨ga⟩ mutumin da ya cika ⟨את⟩ feshensa da su, ba za su ji kunya ba, domin za su yi magana ⟨da⟩ ⟨את⟩ maƙiya a ƙofar gari.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵ֤י",
+      "gloss": "Daɗi"
+    },
+    {
+      "surface": "הַגֶּ֗בֶר",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "da"
+    },
+    {
+      "surface": "מִלֵּ֥א",
+      "gloss": "ya cika"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "feshensa"
+    },
+    {
+      "surface": "אַשְׁפָּת֗וֹ",
+      "gloss": "feshensa"
+    },
+    {
+      "surface": "מֵ֫הֶ֥ם",
+      "gloss": "da su"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יֵבֹ֑שׁוּ",
+      "gloss": "za su ji kunya"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יְדַבְּר֖וּ",
+      "gloss": "za su yi magana"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "maƙiya"
+    },
+    {
+      "surface": "אוֹיְבִ֣ים",
+      "gloss": "maƙiya"
+    },
+    {
+      "surface": "בַּשָּֽׁעַר",
+      "gloss": "a ƙofar gari"
+    }
+  ],
+  "timestamp": "2026-08-12T20:47:23.400840215Z",
+  "model": "glm-5.2"
+}

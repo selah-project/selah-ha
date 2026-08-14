@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 92,
+  "translation": "Mutum maras hankali ba ya sani, kuma wāhala ba ya fahimta ⟨את⟩ wannan.",
+  "tokens": [
+    {
+      "surface": "אִֽישׁ",
+      "gloss": "Mutum"
+    },
+    {
+      "surface": "בַּ֭עַר",
+      "gloss": "maras hankali"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יֵדָ֑ע",
+      "gloss": "ya sani"
+    },
+    {
+      "surface": "וּ֝כְסִ֗יל",
+      "gloss": "kuma wāhala"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יָבִ֥ין",
+      "gloss": "ya fahimta"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "wannan"
+    },
+    {
+      "surface": "זֹֽאת",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-12T20:23:25.647531833Z",
+  "model": "glm-5.2"
+}

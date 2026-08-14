@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Ku girmama Yahweh tare da ni, mu kuma mu ɗaukaka ⟨את⟩ sunansa tare.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Ku girmama"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ tare da ni"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "mu kuma mu ɗaukaka"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tare"
+    }
+  ],
+  "timestamp": "2026-08-12T19:37:12.535067702Z",
+  "model": "glm-5.2"
+}

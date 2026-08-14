@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Shin idanun jiki ⟨ne⟩ kana da su, ko kamar yadda mutum yake gani, kai kuma kake ganin haka?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "idanun"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "jiki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kana da su"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "kamar yadda ake gani"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "kake ganin haka"
+    }
+  ],
+  "timestamp": "2026-08-12T21:50:21.749207837Z",
+  "model": "glm-5.2"
+}

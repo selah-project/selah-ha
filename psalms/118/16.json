@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 118,
+  "translation": "Hannun dama na Yahweh ya ɗaukaka, hannun dama na Yahweh ⟨yana⟩ yana aiki da ƙarfi.",
+  "tokens": [
+    {
+      "surface": "יְמִ֣ין",
+      "gloss": "hannun dama"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "רוֹמֵמָ֑ה",
+      "gloss": "ya ɗaukaka"
+    },
+    {
+      "surface": "יְמִ֥ין",
+      "gloss": "hannun dama"
+    },
+    {
+      "surface": "יְ֝הוָה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "עֹ֣שָׂה",
+      "gloss": "⟨yana⟩ yana aiki"
+    },
+    {
+      "surface": "חָֽיִל",
+      "gloss": "da ƙarfi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:40:22.562535981Z",
+  "model": "glm-5.2"
+}

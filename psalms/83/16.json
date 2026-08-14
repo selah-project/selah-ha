@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 83,
+  "translation": "Haka ka bi su da guguwarka, kuma da guguwarka ka tsorata su!",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Haka"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "ka bi su"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "da guguwarka"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "kuma da guguwarka"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "ka tsorata su"
+    }
+  ],
+  "timestamp": "2026-08-12T20:12:28.183665430Z",
+  "model": "glm-5.2"
+}

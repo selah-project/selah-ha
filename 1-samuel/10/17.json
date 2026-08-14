@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma Shemuël ya tarber ⟨את⟩ mutãne zuwa gare Yahweh a Mitspa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ya tarber"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutãne"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨ga⟩ mutãne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa gare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "a Mitspa"
+    }
+  ],
+  "timestamp": "2026-08-12T08:53:53.144358452Z",
+  "model": "glm-5.2"
+}

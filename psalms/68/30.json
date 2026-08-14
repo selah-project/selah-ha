@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 68,
+  "translation": "Daga haikalinka a kan Yerushalaim, sarakuna za su kawo maka kyauta.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "Daga haikalinka"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "za su kawo"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "sarakuna"
+    },
+    {
+      "surface": "שי",
+      "gloss": "kyauta"
+    }
+  ],
+  "timestamp": "2026-08-12T20:03:58.803325542Z",
+  "model": "glm-5.2"
+}

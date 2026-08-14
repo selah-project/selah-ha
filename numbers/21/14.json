@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 21:14",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Saboda haka aake cewa a cikin Littafin Yaƙe-yaƙen Yahweh: ⟨את⟩ Vahev a cikin Suphah, da ⟨את⟩ koguman Arnon,",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "Akan"
+    },
+    {
+      "surface": "כֵּן֙",
+      "gloss": "haka"
+    },
+    {
+      "surface": "יֵֽאָמַ֔ר",
+      "gloss": "aacewa"
+    },
+    {
+      "surface": "בְּסֵ֖פֶר",
+      "gloss": "acikinLittafin"
+    },
+    {
+      "surface": "מִלְחֲמֹ֣ת",
+      "gloss": "Yaƙe-yaƙen"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Vahev"
+    },
+    {
+      "surface": "וָהֵ֣ב",
+      "gloss": "Vahev"
+    },
+    {
+      "surface": "בְּסוּפָ֔ה",
+      "gloss": "acikinSuphah"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "da⟨את⟩",
+      "marks": "koguman"
+    },
+    {
+      "surface": "הַנְּחָלִ֖ים",
+      "gloss": "koguman"
+    },
+    {
+      "surface": "אַרְנֽוֹן",
+      "gloss": "Arnon"
+    }
+  ],
+  "timestamp": "2026-08-12T04:15:17.725133575Z",
+  "model": "glm-5.2"
+}

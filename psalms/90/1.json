@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 90,
+  "translation": "Addu'a ga Moshe, mutumin Elohim: Adonai, matsuguni Kai ne Ka kasance mana, a cikin ƙarni da ƙarni.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "addu'a"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ga Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "matsuguni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "היית",
+      "gloss": "Ka kasance"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mana"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "a cikin ƙarni"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "da ƙarni"
+    }
+  ],
+  "timestamp": "2026-08-12T20:22:43.471186844Z",
+  "model": "glm-5.2"
+}

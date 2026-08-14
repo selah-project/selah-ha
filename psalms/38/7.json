@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Na karkata, na yi ƙasa ⟨ sosae ⟩; dukan ⟨yini⟩ ana ta baƙin ciki ina tafiya.",
+  "tokens": [
+    {
+      "surface": "נַעֲוֵ֣יתִי",
+      "gloss": "Na karkata"
+    },
+    {
+      "surface": "שָׁחֹ֣תִי",
+      "gloss": "na yi ƙasa"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "⟨sai⟩"
+    },
+    {
+      "surface": "מְאֹ֑ד",
+      "gloss": "sósai"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "הַיּ֗וֹם",
+      "gloss": "yini"
+    },
+    {
+      "surface": "קֹדֵ֥ר",
+      "gloss": "baƙin ciki"
+    },
+    {
+      "surface": "הִלָּכְתִּֽי",
+      "gloss": "ina tafiya"
+    }
+  ],
+  "timestamp": "2026-08-12T19:40:42.132055230Z",
+  "model": "glm-5.2"
+}

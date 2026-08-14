@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 21:8",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Sa'an nan Dawida ya ce wa Elohim, \"Na yi laifi sosai, domin na aikata ⟨את⟩ wannan lamari; saboda haka, ina roƙo ka cire ⟨את⟩ laifin bayinka, domin na yi wawaye sosai.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Na yi laifi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "na aikata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan lamari"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lamari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "saboda haka"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "ka cire"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ina roƙo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laifin"
+    },
+    {
+      "surface": "עוון",
+      "gloss": "laifin"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bayinka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "na yi wawaye"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    }
+  ],
+  "timestamp": "2026-08-13T00:20:11.602552913Z",
+  "model": "glm-5.2"
+}

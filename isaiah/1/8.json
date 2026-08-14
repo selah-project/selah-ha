@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma 'yar Tsiyon ta rage kamar bukka a cikin gonar inabi, kamar mafaka a cikin gonar gulla, kamar birni da aka kewaye.",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "kuma ta rage"
+    },
+    {
+      "surface": "בת",
+      "gloss": "'yar"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "kamar bukka"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "a cikin gonar inabi"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "kamar mafaka"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "a cikin gonar gulla"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "kamar birni"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "da aka kewaye"
+    }
+  ],
+  "timestamp": "2026-08-12T12:56:13.152176137Z",
+  "model": "glm-5.2"
+}

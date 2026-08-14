@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 13:44",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "mutum ne mai ɗariya, shi ba-tsarki ne; kohen zai bayyana ba-tsarki a kansa, wajensa yana a kansa.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "ne mai ɗariya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ba-tsarki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "zai bayyana ba-tsarki"
+    },
+    {
+      "surface": "יטמאנו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "wajensa yana"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "a kansa"
+    }
+  ],
+  "timestamp": "2026-08-13T01:48:32.039094830Z",
+  "model": "glm-5.2"
+}

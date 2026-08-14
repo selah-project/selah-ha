@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 15:11",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma tsuntsun mafarkaci ya sauko a kan gawarwakin, kuma Avram ya kora ⟨את⟩ su.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Kuma ya sauko"
+    },
+    {
+      "surface": "העיט",
+      "gloss": "tsuntun mafarkaci"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הפגרים",
+      "gloss": "gawarwakin"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kuma ya kora"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    }
+  ],
+  "timestamp": "2026-08-13T01:42:45.381570298Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Daga namiji zuwa mace za ku tura; zuwa wajen wajen sansanin za ku tura su; kuma kada su gurgẽce ⟨את⟩ sansaninsu, wanda ni nake zaune a tsakãninsu.",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "Daga namiji"
+    },
+    {
+      "surface": "עד",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "za ku tura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "wajen"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "sansanin"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "za ku tura su"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "su gurgẽce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sansaninsu"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "sansaninsu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "nake zaune"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "a tsakãninsu"
+    }
+  ],
+  "timestamp": "2026-08-12T03:33:08.753494185Z",
+  "model": "glm-5.2"
+}

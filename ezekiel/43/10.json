@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 43:10",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Kai, ɗan adam, faɗa wa ⟨את⟩ Bēt Yisra'ēl ⟨את⟩ ⟨ṭhe⟩ temple, kuma su yi kunya saboda laifuffukansu, su kuma auna ⟨את⟩ tsarinsa.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "faɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bēt Yisra'ēl"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bēt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'ēl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haikali"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨ṭhe⟩ haikali"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "kuma su yi kunya"
+    },
+    {
+      "surface": "מעונותיהם",
+      "gloss": "saboda laifuffukansu"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "su kuma auna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsarinsa"
+    },
+    {
+      "surface": "תכנית",
+      "gloss": "tsarinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T17:59:21.831898305Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Na shirya ⟨bã da magana⟩, bã na buɗe bãkiNa, dõmin Kai ne Ka aikata ⟨shin⟩.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Na shirya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bã"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "na buɗe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bãkiNa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai ne"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Ka aikata"
+    }
+  ],
+  "timestamp": "2026-08-12T19:40:23.387068620Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 27:8",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma ga ɗan'ya'yan Yisra'el za ka faɗa, ka ce: Mutum idan ya mutu, kuma ɗa ba shi da shi, to, ku za ku sa ⟨את⟩ gadonsa ya wuce ga 'yarsa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Kuma ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗan'ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "za ka faɗa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka ce"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mutum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "idan"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ya mutu"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "kuma ɗa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ba shi da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "והעברתם",
+      "gloss": "to, ku za ku sa ya wuce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gadonsa"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "gadonsa"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "ga 'yarsa"
+    }
+  ],
+  "timestamp": "2026-08-13T01:53:10.471033957Z",
+  "model": "glm-5.2"
+}

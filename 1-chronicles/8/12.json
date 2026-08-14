@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ɗiyan Elpa'al: Ever, Mish'am, da Shamed; shi ne ya gina ⟨את⟩ Ono da ⟨את⟩ Lod da ƙauyukanta.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Kuma ɗiyan"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpa'al"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "Mish'am"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "da Shamed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ya gina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "da ƙauyukanta"
+    }
+  ],
+  "timestamp": "2026-08-13T00:03:48.259366548Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "domin in faɗa duk gode-godenka a cikin kofofin 'yar Tsiyon; ina murna da tsiyaranka.",
+  "tokens": [
+    {
+      "surface": "לְמַ֥עַן",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אֲסַפְּרָ֗ה",
+      "gloss": "in faɗa"
+    },
+    {
+      "surface": "כָּֽל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "תְּהִלָּ֫תֶ֥יךָ",
+      "gloss": "gode-godenka"
+    },
+    {
+      "surface": "בְּשַֽׁעֲרֵ֥י",
+      "gloss": "a cikin kofofin"
+    },
+    {
+      "surface": "בַת",
+      "gloss": "'yar"
+    },
+    {
+      "surface": "צִיּ֑וֹן",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "אָ֝גִ֗ילָה",
+      "gloss": "ina murna"
+    },
+    {
+      "surface": "בִּישׁוּעָתֶֽךָ",
+      "gloss": "da tsiyaranka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:19:37.115178138Z",
+  "model": "glm-5.2"
+}

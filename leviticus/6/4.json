@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma zai cire ⟨את⟩ tufafinsa, kuma zai sa wasu tufafi, kuma zai fitar da ⟨את⟩ tokar wajen sansanin, zuwa wuri mai tsarki.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "kuma zai cire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tufafinsa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "tufafinsa"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "kuma zai sa"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "tufafi"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wasu"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "kuma zai fitar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokar"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "tokar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "wajen"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "sansanin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "wuri"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mai tsarki"
+    }
+  ],
+  "timestamp": "2026-08-13T03:02:25.580848918Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 83,
+  "translation": "Don sun yi shawara da zuciya guda; ⟨a kanka⟩ sun yanke alkawari.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Don"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "sun yi shawara"
+    },
+    {
+      "surface": "לב",
+      "gloss": "da zuciya"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "guda"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "⟨a kanka⟩"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alkawari"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "sun yanke"
+    }
+  ],
+  "timestamp": "2026-08-12T20:11:53.476327129Z",
+  "model": "glm-5.2"
+}

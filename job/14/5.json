@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Idan an ƙayyade kwanakinsa, adadin watannsa yana ⟨a wurinka⟩, kaɗã ƙa'ararsa ka yi, ⟨kuma⟩ ba zai wuce ba.",
+  "tokens": [
+    {
+      "surface": "אִ֥ם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "חֲרוּצִ֨ים",
+      "gloss": "an ƙayyade"
+    },
+    {
+      "surface": "יָמָ֗יו",
+      "gloss": "kwanakinsa"
+    },
+    {
+      "surface": "מִֽסְפַּר",
+      "gloss": "adadin"
+    },
+    {
+      "surface": "חֳדָשָׁ֥יו",
+      "gloss": "watannsa"
+    },
+    {
+      "surface": "אִתָּ֑ךְ",
+      "gloss": "⟨את⟩",
+      "marks": "yana ⟨a wurinka⟩"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "ƙa'ararsa"
+    },
+    {
+      "surface": "עָ֝שִׂ֗יתָ",
+      "gloss": "ka yi"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "⟨kuma⟩ ba"
+    },
+    {
+      "surface": "יַעֲבֽוֹר",
+      "gloss": "zai wuce"
+    }
+  ],
+  "timestamp": "2026-08-12T21:51:08.265701235Z",
+  "model": "glm-5.2"
+}

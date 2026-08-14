@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 36:2",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "kuma suka ce: \"Adonai, Yahweh ya umarce ⟨ne⟩ ya ba ⟨את⟩ ƙasa gado da kuri'a ga ɗan'yan Yisra'el, kuma Adonai ⟨ne⟩ Yahweh ya umarce ⟨ne⟩ ya ba ⟨את⟩ gado na Tselophchad ɗan'uwannmu ga 'yansa mata.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "kuma suka ce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umarce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "gado"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "da kuri'a"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ga ɗan'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "kuma Adonai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umarce"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "da Yahweh"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gado"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "gado"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselophchad"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ɗan'uwannmu"
+    },
+    {
+      "surface": "לבנתיו",
+      "gloss": "ga 'yansa mata"
+    }
+  ],
+  "timestamp": "2026-08-12T04:49:15.030647657Z",
+  "model": "glm-5.2"
+}

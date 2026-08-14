@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma kana yi da keravim guda biyu na zinari — aikin duka-hamar kana yi da ⟨su⟩ daga ƙarshen biyu na kafforeta.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Kuma kana yi da"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "guda biyu"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "keravim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinari"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "aikin duka-hamar"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kana yi da"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "משני",
+      "gloss": "daga"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ƙarshen biyu"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kafforeta"
+    }
+  ],
+  "timestamp": "2026-08-13T01:47:16.787917135Z",
+  "model": "glm-5.2"
+}

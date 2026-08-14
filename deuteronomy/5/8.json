@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kada ka yi ⟨wa kanka⟩ siffaƙa, kowane wani abin kama, wanda yake a cikin sama daga sama, ko wanda yake a ƙasa daga ƙasa, ko wanda yake a cikin ruwan da ya riga ya wuce ƙasa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ka yi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wa kanka"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "siffaƙa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "abin kama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "yake a sama"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "daga sama"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ko wanda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yake a ƙasa"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "daga ƙasa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ko wanda"
+    },
+    {
+      "surface": "במים",
+      "gloss": "yake a cikin ruwan"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ƙasa daga ƙasa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T04:58:03.371198102Z",
+  "model": "glm-5.2"
+}

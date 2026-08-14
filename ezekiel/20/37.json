@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezekiel 20:37",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma zan sa ku ku shiga ⟨את⟩ kankarin sanda, kuma zan kawo ku ⟨את⟩ cikin ɗaurewar alkawari.",
+  "tokens": [
+    {
+      "surface": "והעברתי",
+      "gloss": "kuma zan sa ku ku shiga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kankarin sanda"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kankarin"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "sanda"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "kuma zan kawo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "cikin ɗaurewar alkawari"
+    },
+    {
+      "surface": "במסרת",
+      "gloss": "cikin ɗaurewar"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "alkawari"
+    }
+  ],
+  "timestamp": "2026-08-13T02:17:08.524705644Z",
+  "model": "glm-5.2"
+}

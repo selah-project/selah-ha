@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 11:42",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kwanakin da Shelomoh ya yi sarauta a Yerushalaim a kan dukkan Isra'il, shekaru arba'in ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "Kwanakin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya yi sarauta"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "a Yerushalaim"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'il"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "arba'in"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekaru"
+    }
+  ],
+  "timestamp": "2026-08-12T11:16:47.868682959Z",
+  "model": "glm-5.2"
+}

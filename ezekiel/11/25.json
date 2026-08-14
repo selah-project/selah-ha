@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma na yi magana da suka gudun hijira, ⟨את⟩ dukan kalmomin Yahweh da Ya nuna mini.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "Kuma na yi magana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "suka gudun hijira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukan kalmomin Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "Ya nuna mini"
+    }
+  ],
+  "timestamp": "2026-08-13T02:15:21.794276423Z",
+  "model": "glm-5.2"
+}

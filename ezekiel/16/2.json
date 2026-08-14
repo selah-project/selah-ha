@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Ya ɗan adam, sa Yerushalaim ta sani ⟨את⟩ abin kyama ta, ⟨את⟩ abubuwan gurguntar ta,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ya ɗan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "sa ta sani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin kyama ta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abubuwan gurguntar ta"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "abubuwan gurguntar ta"
+    }
+  ],
+  "timestamp": "2026-08-12T17:05:53.797729319Z",
+  "model": "glm-5.2"
+}

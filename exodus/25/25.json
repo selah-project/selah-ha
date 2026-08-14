@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 25:25",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma kana yi masa mahaɗin ⟨na⟩ hannu ɗaya a kewaye, kuma kana yi waƙar zinare a mahaɗinsa a kewaye.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Kuma kana yi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "mahaɗi"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "⟨na⟩ hannu ɗaya"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewaye"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "kuma kana yi"
+    },
+    {
+      "surface": "זר",
+      "gloss": "waƙa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinare"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "a mahaɗinsa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewaye"
+    }
+  ],
+  "timestamp": "2026-08-13T01:46:36.900578235Z",
+  "model": "glm-5.2"
+}

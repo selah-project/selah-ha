@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "⟨את⟩ kitson kuke ci, kuma ⟨את⟩ ulan kuna sawa, ⟨wa⟩ sahhayen kuna yanka, amma garken ba ku kiwo shi ⟨ba⟩!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kitson"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "kitson"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kuke ci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "ulan"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "ulan"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "kuna sawa"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "sahhayen"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "kuna yanka"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "garken"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "ku kiwo shi"
+    }
+  ],
+  "timestamp": "2026-08-12T17:43:20.231901252Z",
+  "model": "glm-5.2"
+}

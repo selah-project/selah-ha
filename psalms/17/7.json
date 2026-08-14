@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Ka nuna bambancin chesed naka, mai ceton waɗanda suke neman mafaka ⟨daga⟩ waɗanda suke tashi ⟨a kan⟩ ⟨suka⟩, da damarka.",
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "ka nuna bambancin"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "chesed naka"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "mai ceton"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "waɗanda suke neman mafaka"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "⟨daga⟩ waɗanda suke tashi ⟨a kan⟩ ⟨suka⟩"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "da damarka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:22:03.507329090Z",
+  "model": "glm-5.2"
+}

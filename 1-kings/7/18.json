@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 7:18",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma ya yi ⟨את⟩ gindayen ginshiƙai, da jigogi biyu a kewaye a kan saduwar ɗaya, don rufe ⟨את⟩ kwatancen da ⟨suke⟩ a kan kan gunun rummana, kuma kamar haka ya yi wa kwatancen na biyu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gindayen ginshiƙai"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "gindayen ginshiƙai"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "da biyu"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "jigogi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewaye"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "השבכה",
+      "gloss": "saduwar"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "don rufe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kwatancen"
+    },
+    {
+      "surface": "הכתרת",
+      "gloss": "kwatancen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "gunun rummana"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "kuma kamar haka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "לכתרת",
+      "gloss": "wa kwatancen"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "na biyu"
+    }
+  ],
+  "timestamp": "2026-08-12T11:03:54.480843104Z",
+  "model": "glm-5.2"
+}

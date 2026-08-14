@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 16:10",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Sa'an nan Yishai ya sa ya wuce sammers bakwai ɗin'ya maza a gaban Shemu'el, kuma Shemu'el ya ce wa Yishai: \"Ba Yahweh ya zaɓa ba ⟨daga⟩ waɗannan.\"",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "ya sa ya wuce"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "bakwai"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɗin'ya maza"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ya zaɓa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "waɗannan"
+    }
+  ],
+  "timestamp": "2026-08-12T09:09:29.978048945Z",
+  "model": "glm-5.2"
+}

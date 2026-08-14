@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 91,
+  "translation": "Domin shi ne zai tsire ka daga tarkon mai kamun, daga cuta mai hallaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi ne"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "zai tsire ka"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "daga tarkon"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "mai kamun"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "daga cuta"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "mai hallaka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:05.112991417Z",
+  "model": "glm-5.2"
+}

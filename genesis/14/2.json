@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "⟨su⟩ka yi yaƙi da ⟨את⟩ Bera sarkin Sodomu, da ⟨את⟩ Birsha sarkin Gomora, Shinab sarkin Admah, da Shemeber sarkin Tseboim, da sarkin Bela — wato Tsoar.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "⟨su⟩ka yi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "yaƙi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera sarkin Sodomu"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodomu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Birsha sarkin Gomora"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birsha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Gomora"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Shinab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Admah"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "da Shemeber"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tseboim"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "da sarkin"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "wato"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-08-13T01:44:21.008504066Z",
+  "model": "glm-5.2"
+}

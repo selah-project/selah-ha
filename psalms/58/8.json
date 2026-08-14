@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 58,
+  "translation": "Bari su ɓace kamar ruwa, su gudanar da kansu; ya dora kibiyarsa, bari su koma ƙanke kamar an yankesu.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "Bari su ɓace"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "su gudanar"
+    },
+    {
+      "surface": "למו",
+      "gloss": "da kansu"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "ya dora"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "kibiyarsa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "an yankesu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:53:43.622669594Z",
+  "model": "glm-5.2"
+}

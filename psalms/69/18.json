@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Kada kuma ka ɓoye fuskarka daga bāranka; domin tsanani yana nan gare ni, da gaggauwa ka amsa ni.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kada kuma ka"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ɓoye"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuskarka"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "daga bāranka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "צר",
+      "gloss": "tsanani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yana nan gare ni"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "da gaggauwa"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ka amsa ni"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:14.112139818Z",
+  "model": "glm-5.2"
+}

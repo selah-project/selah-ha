@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 104,
+  "translation": "⟨Yana⟩ shayar da duwatsu daga ɗakunan sa na sama; daga 'ya'yan aikinka ⟨ne⟩ ƙasa ⟨take⟩ cika gamsuwa.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "⟨Yana⟩ shayar da"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "daga ɗakunan sa na sama"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "daga 'ya'yan"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "aikinka"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "⟨ne⟩ cika gamsuwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa ⟨take⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:28:04.076465098Z",
+  "model": "glm-5.2"
+}

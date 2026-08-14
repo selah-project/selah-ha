@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 122,
+  "translation": "Yerushalaim da aka gina, ⟨kamar⟩ birni da aka haɗa ⟨zuwa⟩ gare shi tare.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "da aka gina"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "kamar birni"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "da aka haɗa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "zuwa gare shi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tare"
+    }
+  ],
+  "timestamp": "2026-08-12T20:48:22.576347708Z",
+  "model": "glm-5.2"
+}

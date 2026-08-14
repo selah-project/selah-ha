@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Amma Ya kuɓutar da su domin sunanSa, don Ya sanar da ⟨את⟩ ƙarfinSa.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Amma Ya kuɓutar da su"
+    },
+    {
+      "surface": "למען",
+      "gloss": "domin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunanSa"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "don Ya sanar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙarfinSa"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "ƙarfinSa"
+    }
+  ],
+  "timestamp": "2026-08-13T23:57:03.215725227Z",
+  "model": "glm-5.2"
+}

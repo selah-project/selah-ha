@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "La'antuwa da karya, da kisan kai, da sata, da zawunci sun faɗeva, jini a jini sun taɓa.",
+  "tokens": [
+    {
+      "surface": "אָלֹ֣ה",
+      "gloss": "la'antuwa"
+    },
+    {
+      "surface": "וְכַחֵ֔שׁ",
+      "gloss": "da karya"
+    },
+    {
+      "surface": "וְרָצֹ֥חַ",
+      "gloss": "da kisan kai"
+    },
+    {
+      "surface": "וְגָנֹ֖ב",
+      "gloss": "da sata"
+    },
+    {
+      "surface": "וְנָאֹ֑ף",
+      "gloss": "da zawunci"
+    },
+    {
+      "surface": "פָּרָ֕צוּ",
+      "gloss": "sun faɗeva"
+    },
+    {
+      "surface": "וְדָמִ֥ים",
+      "gloss": "jini"
+    },
+    {
+      "surface": "בְּדָמִ֖ים",
+      "gloss": "a jini"
+    },
+    {
+      "surface": "נָגָֽעוּ",
+      "gloss": "sun taɓa"
+    }
+  ],
+  "timestamp": "2026-08-12T18:13:30.620260430Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 73:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 73,
+  "translation": "Lalle kai, a cikin matakan zamewa ka sa su; ka jefa su a cikin rugujewa.",
+  "tokens": [
+    {
+      "surface": "אַ֣ךְ",
+      "gloss": "lalle kai"
+    },
+    {
+      "surface": "בַּ֭חֲלָקוֹת",
+      "gloss": "a cikin matakan zamewa"
+    },
+    {
+      "surface": "תָּשִׁ֣ית",
+      "gloss": "ka sa"
+    },
+    {
+      "surface": "לָ֑מוֹ",
+      "gloss": "su"
+    },
+    {
+      "surface": "הִ֝פַּלְתָּ֗ם",
+      "gloss": "ka jefa su"
+    },
+    {
+      "surface": "לְמַשּׁוּאֽוֹת",
+      "gloss": "a cikin rugujewa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:05:18.940620089Z",
+  "model": "glm-5.2"
+}

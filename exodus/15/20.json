@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Sai Miryam wacciyar annabiyar, 'yar'uwar Aharon, ta dauki ⟨את⟩ ƙarär rawa a hannunta, kuma dukkan mata suka fita bayan ta da rawuna da kade-kade.",
+  "tokens": [
+    {
+      "surface": "וַתִּקַּח֩",
+      "gloss": "sai ta dauki"
+    },
+    {
+      "surface": "מִרְיָ֨ם",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "הַנְּבִיאָ֜ה",
+      "gloss": "wacciyar annabiyar"
+    },
+    {
+      "surface": "אֲח֧וֹת",
+      "gloss": "'yar'uwar"
+    },
+    {
+      "surface": "אַהֲרֹ֛ן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ƙarär rawa"
+    },
+    {
+      "surface": "הַתֹּ֖ף",
+      "gloss": "ƙarär rawa"
+    },
+    {
+      "surface": "בְּיָדָ֑הּ",
+      "gloss": "a hannunta"
+    },
+    {
+      "surface": "וַתֵּצֶ֤אןָ",
+      "gloss": "sai suka fita"
+    },
+    {
+      "surface": "כָֽל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הַנָּשִׁים֙",
+      "gloss": "mata"
+    },
+    {
+      "surface": "אַחֲרֶ֔יהָ",
+      "gloss": "bayan ta"
+    },
+    {
+      "surface": "בְּתֻפִּ֖ים",
+      "gloss": "da rawuna"
+    },
+    {
+      "surface": "וּבִמְחֹלֹֽת",
+      "gloss": "da kade-kade"
+    }
+  ],
+  "timestamp": "2026-08-13T01:46:51.443515953Z",
+  "model": "glm-5.2"
+}

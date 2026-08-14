@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 9:16",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Sai a ƙarshe ya zama, a ƙarshen kwanaki uku bayan da suka yankewa su alkawari, sai suka ji cewa ⟨suna⟩ kusa da shi ne, kuma a tsakaninsa ⟨suna⟩ zaune.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Sai a ƙarshe ya zama"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "a ƙarshen"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "uku"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "suka yankewa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "su"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alkawari"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "sai suka ji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "קרבים",
+      "gloss": "kusa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "suna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "da shi"
+    },
+    {
+      "surface": "ובקרבו",
+      "gloss": "ne, kuma a tsakaninsa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "suna"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "zaune"
+    }
+  ],
+  "timestamp": "2026-08-12T06:26:49.387035432Z",
+  "model": "glm-5.2"
+}

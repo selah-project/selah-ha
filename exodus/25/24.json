@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma za ka rufe ⟨את⟩ shi da zinariya tsarkakakke, kuma za ka yi masa kambin zinariya a kewaye.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Kuma za ka rufe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinariya"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tsarkakakke"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "kuma za ka yi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "זר",
+      "gloss": "kambi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinariya"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewaye"
+    }
+  ],
+  "timestamp": "2026-08-12T01:06:52.218418619Z",
+  "model": "glm-5.2"
+}

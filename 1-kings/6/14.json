@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma Shelomoh ya gina ⟨את⟩ gida, ya kammala shi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Kuma ya gina"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gida"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "ya kammala shi"
+    }
+  ],
+  "timestamp": "2026-08-12T11:05:16.560240004Z",
+  "model": "glm-5.2"
+}

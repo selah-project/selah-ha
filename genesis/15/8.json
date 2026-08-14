@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 15:8",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma ya ce, \"Adonai Yahweh, da ina zan san ⟨ce⟩ cewa zan gāta ⟨ta⟩?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במה",
+      "gloss": "da ina"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "zan san"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "אירשנה",
+      "gloss": "zan gāta ⟨ta⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T23:33:05.874148798Z",
+  "model": "glm-5.2"
+}

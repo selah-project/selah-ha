@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 133,
+  "translation": "Kamar man shafawa mai kyau da ke gudāna a kan kai, yana gudāna a kan gwamma-gwamma, gwamma-gwamma na Aharon, wanda ke gudāna a kan baki na tufafinsa.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Kamar man shafawa"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "da ke gudāna"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "gwamma-gwamma"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "gwamma-gwamma"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "wanda ke gudāna"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baki"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "na tufafinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:50:20.868509121Z",
+  "model": "glm-5.2"
+}

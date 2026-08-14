@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Yahweh ya saurara muryar Eliyahu, rai ⟨na⟩ yaron ya mayar cikin sa, kuma ya rayu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ya saurara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ya mayar"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rai"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "yaron"
+    },
+    {
+      "surface": "על",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "kuma ya rayu"
+    }
+  ],
+  "timestamp": "2026-08-13T02:04:33.758930444Z",
+  "model": "glm-5.2"
+}

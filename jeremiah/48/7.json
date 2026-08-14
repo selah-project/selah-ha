@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 48:7",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 48,
+  "translation": "Domi saboda dogaro da kayan aiki da taskokinka, ko kai za a kama, kuma Kemosh zai fita zuwa gudun hijira, firistocinsa da shugabanninsa tare.",
+  "tokens": [
+    {
+      "surface": "כִּ֠י",
+      "gloss": "domi"
+    },
+    {
+      "surface": "יַ֣עַן",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "בִּטְחֵ֤ךְ",
+      "gloss": "dogaro"
+    },
+    {
+      "surface": "בְּמַעֲשַׂ֨יִךְ֙",
+      "gloss": "da kayan aiki"
+    },
+    {
+      "surface": "וּבְא֣וֹצְרוֹתַ֔יִךְ",
+      "gloss": "da taskokinka"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אַתְּ",
+      "gloss": "kai"
+    },
+    {
+      "surface": "תִּלָּכֵ֑דִי",
+      "gloss": "za a kama"
+    },
+    {
+      "surface": "וְיָצָ֤א",
+      "gloss": "kuma zai fita"
+    },
+    {
+      "surface": "כמיש",
+      "gloss": "Kemosh"
+    },
+    {
+      "surface": "בַּגּוֹלָ֔ה",
+      "gloss": "zuwa gudun hijira"
+    },
+    {
+      "surface": "כֹּהֲנָ֥יו",
+      "gloss": "firistocinsa"
+    },
+    {
+      "surface": "וְשָׂרָ֖יו",
+      "gloss": "da shugabanninsa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tare"
+    }
+  ],
+  "timestamp": "2026-08-12T16:30:16.185690236Z",
+  "model": "glm-5.2"
+}

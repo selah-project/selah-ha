@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma sarki ya faɗa wa Amasha: \"Ka kira gare ni ⟨את⟩ mutanen Yehuda kwana uku, kai kuma ka tsaya nan.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya faɗa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasha"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "ka kira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanen Yehuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kwana uku"
+    },
+    {
+      "surface": "ימים",
+      "gloss": ""
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kai kuma"
+    },
+    {
+      "surface": "פה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ka tsaya"
+    }
+  ],
+  "timestamp": "2026-08-12T10:36:52.126517403Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Sai Yehuda ya ce wa Onan, \"Shiga ga matar ɗan'uwanka, kuma yi aikin aure-da-warta ⟨doesn't have⟩, ka tona ⟨ƙwarai⟩, ka kafa zuriya don ɗan'uwanka.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "wa Onan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "shiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "matar"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ɗan'uwanka"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "yi aikin aure-da-warta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "warta"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "ka kafa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zuriya"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "don ɗan'uwanka"
+    }
+  ],
+  "timestamp": "2026-08-13T01:44:09.572431380Z",
+  "model": "glm-5.2"
+}

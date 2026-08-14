@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 129,
+  "translation": "A bayī sun noma masu noma, sun yi tsayi alƙawaransu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "A"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "bayī"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "sun noma"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "masu noma"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "sun yi tsayi"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "alƙawaransu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:48:36.650003945Z",
+  "model": "glm-5.2"
+}

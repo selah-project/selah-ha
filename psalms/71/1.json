@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 71,
+  "translation": "A cikinka, Yahweh, na nemi mafaka, bari ⟨kar ka taba⟩ bā ni kunya har abadā.",
+  "tokens": [
+    {
+      "surface": "בְּךָֽ",
+      "gloss": "A cikinka"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חָסִ֑יתִי",
+      "gloss": "na nemi mafaka"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "bari ⟨kar ka taba⟩"
+    },
+    {
+      "surface": "אֵב֥וֹשָׁה",
+      "gloss": "bā ni kunya"
+    },
+    {
+      "surface": "לְעוֹלָֽם",
+      "gloss": "har abadā"
+    }
+  ],
+  "timestamp": "2026-08-12T20:03:37.404972906Z",
+  "model": "glm-5.2"
+}

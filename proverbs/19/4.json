@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Dukiya ta ƙara abokai da yawa, amma mafàkìci daga abokinsa ake raba.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "dukiya"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ta ƙara"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "abokai"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "amma mafàkìci"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "daga abokinsa"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "ake raba"
+    }
+  ],
+  "timestamp": "2026-08-12T21:23:16.945346868Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 2:20",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma Eli ya albarkaci ⟨את⟩ Elqana da ⟨את⟩ matarsa, kuma ya ce, 'Yahweh ya sanya maka zuriya daga wannan mace, maimakon ⟨na⟩ roƙon da aka roƙi Yahweh.' Kuma sun tafi zuwa wurinsu.",
+  "tokens": [
+    {
+      "surface": "וברך",
+      "gloss": "kuma ya albarkaci"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elqana"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "matarsa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "matarsa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "ya sanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zuriya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "maimakon"
+    },
+    {
+      "surface": "השאלה",
+      "gloss": "⟨na⟩ roƙon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "aka roƙi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והלכו",
+      "gloss": "kuma sun tafi"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "zuwa wurinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T08:19:34.468288975Z",
+  "model": "glm-5.2"
+}

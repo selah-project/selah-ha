@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 19:13",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "'ʨYãʼuʨ ne ƙanãna, jĩkãta ne kuma gõshina ne kuna. Don me kuke kasancewa na gaba a mayar da ⟨את⟩ sarki?'",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "ʨYãʼuʨ ne ƙanãna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kuke"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "jĩkãta"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "kuma gõshina"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "kuke kasancewa"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "na gaba"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "a mayar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    }
+  ],
+  "timestamp": "2026-08-12T10:35:42.666415117Z",
+  "model": "glm-5.2"
+}

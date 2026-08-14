@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Kuma Ya tsayar da shaida a Ya'akob, da kuma Torah Ya sanya a Isra'ila, wanda Ya umurci ⟨את⟩ ubanninmu, don su sanar da su ga ƴaƴansu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Kuma Ya tsayar da"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "shaida"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "a Ya'akob"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "da kuma Torah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Ya sanya"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "a Isra'ila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "Ya umurci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubanninmu"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ubanninmu"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "don su sanar da su"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ga ƴaƴansu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:08:26.057170266Z",
+  "model": "glm-5.2"
+}

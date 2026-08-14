@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 145,
+  "translation": "⟨Suna⟩ cewa daraja ta mulkinsa, kuma suna faɗar ƙarfinsa;",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "daraja"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "ta mulkinsa"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "⟨suna⟩ cewa"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "kuma suna faɗar ƙarfinsa"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-12T20:57:56.607070723Z",
+  "model": "glm-5.2"
+}

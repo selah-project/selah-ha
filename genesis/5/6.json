@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Sai Shet ya rayu ⟨shekara⟩ ɗari da biyar, kuma ya haifi ⟨את⟩ Enosh.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "sai ya rayu"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "biyar"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "kuma ɗari"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "kuma ya haifi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enosh"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    }
+  ],
+  "timestamp": "2026-08-11T23:22:33.026048569Z",
+  "model": "glm-5.2"
+}

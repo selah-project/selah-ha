@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma sarki Shelomah ya aiko, ya kumaɗauki ⟨את⟩ Chiram daga Tsor.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kuma ya aiko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ya kuma ɗauki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chiram"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "daga Tsor"
+    }
+  ],
+  "timestamp": "2026-08-12T11:04:49.516940571Z",
+  "model": "glm-5.2"
+}

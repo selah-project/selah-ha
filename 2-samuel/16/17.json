@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 16:17",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma Abshalom ya ce wa Chushai, Shin wannan ne chesed ⟨את⟩ abokinka? Don me ba ka tafi ⟨da⟩ abokinka ba?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Chushai"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed naka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abokinka"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "abokinka"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Don me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "ka tafi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abokanka"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "abokanka"
+    }
+  ],
+  "timestamp": "2026-08-12T10:28:14.685692936Z",
+  "model": "glm-5.2"
+}

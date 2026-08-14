@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Domin ba na zauna a cikin ⟨gida⟩, daga ⟨ranar⟩ da na kawo ⟨את⟩ Yisra'el, har zuwa wannan ⟨ranar⟩; kuma na kasance daga ⟨spaniya⟩ zuwa ⟨spaniya⟩, kuma daga mazaunin.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יָשַׁבְתִּי",
+      "gloss": "na zauna"
+    },
+    {
+      "surface": "בְּבַיִת",
+      "gloss": "a cikin gida"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הַיּוֹם",
+      "gloss": "ranar"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הֶעֱלֵיתִי",
+      "gloss": "na kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "הַיּוֹם",
+      "gloss": "ranar"
+    },
+    {
+      "surface": "הַזֶּה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "וָאֶהְיֶה",
+      "gloss": "kuma na kasance"
+    },
+    {
+      "surface": "מֵאֹהֶל",
+      "gloss": "daga ⟨spaniya⟩"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "אֹהֶל",
+      "gloss": "⟨spaniya⟩"
+    },
+    {
+      "surface": "וּמִמִּשְׁכָּן",
+      "gloss": "kuma daga mazaunin"
+    }
+  ],
+  "timestamp": "2026-08-13T00:23:28.963524903Z",
+  "model": "glm-5.2"
+}

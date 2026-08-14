@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma ya kawo mu zuwa wannan wuri, kuma ya ba mu ⟨את⟩ wannan ƙasa, ƙasar da ⟨ke⟩ gudānon nono da zuma.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "kuma ya kawo mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "wannan wuri"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kuma ya ba"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan ƙasa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "da gudānon"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "nono"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "da zuma"
+    }
+  ],
+  "timestamp": "2026-08-12T05:40:17.665398948Z",
+  "model": "glm-5.2"
+}

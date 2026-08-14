@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Ο φόβος του Yahweh ⟨είναι⟩ καθαρός, μένει για πάντα· οι κρίσεις του Yahweh ⟨είναι⟩ αλήθεια, έχουν δικαιωθεί ⇒ όλες μαζί.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "φόβος"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "καθαρός"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "έχουσα σταθεί"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "για πάντα"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "οι κρίσεις"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "αλήθεια"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "έχουν δικαιωθεί"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "όλες μαζί"
+    }
+  ],
+  "timestamp": "2026-08-12T19:23:58.472045123Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 102,
+  "translation": "Na tsiro (na barci), kuma na kāma kamar tsuntsu kaɗai saman rufin.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "na tsiro"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "kuma na kāma"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "kamar tsuntsu"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "kaɗai"
+    },
+    {
+      "surface": "על",
+      "gloss": "saman"
+    },
+    {
+      "surface": "גג",
+      "gloss": "rufin"
+    }
+  ],
+  "timestamp": "2026-08-12T20:24:27.918341445Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kiyaye ⟨את⟩ ranar asabar domin tsarkakeTa, kamar yadda Yahweh, Elohiminka, Ya umarce ka.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Kiyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ranar asabar"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ranar"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "asabar"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "domin tsarkakeTa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "Ya umarce ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:01:18.737670699Z",
+  "model": "glm-5.2"
+}

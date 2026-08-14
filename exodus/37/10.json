@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma ya yi ⟨את⟩ teburin da itacen shiṭah — tsawon sa ⟨ya kasance⟩ lin biyu, faɗin sa ⟨ya kasance⟩ lin ɗaya, tsayin sa ⟨ya kasance⟩ lin da rabi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teburin"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "teburin"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "da itacen"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shiṭah"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "lin biyu"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "tsawon sa"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "lin ɗaya"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "faɗin sa"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "lin ɗaya"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "da rabi"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "tsayin sa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:33:21.465091996Z",
+  "model": "glm-5.2"
+}

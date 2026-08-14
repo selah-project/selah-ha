@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 42:24",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Kuma ya juya daga wurinsu, kuma ya yi kuka, kuma ya koma gare su, kuma ya yi musu magana, kuma ya ɗauko daga gare su ⟨את⟩ Shim'on, kuma ya ɗaure ⟨את⟩ shi idanun su.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Kuma ya juya"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "daga wurinsu"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "kuma ya yi kuka"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kuma ya koma"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "gare su"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "kuma ya yi magana"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "gare su"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "kuma ya ɗauko"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ daga gare su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shim'on"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shim'on"
+    },
+    {
+      "surface": "ויאסר",
+      "gloss": "kuma ya ɗaure"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "idanun su"
+    }
+  ],
+  "timestamp": "2026-08-13T01:46:01.395185512Z",
+  "model": "glm-5.2"
+}

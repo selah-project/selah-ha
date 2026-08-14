@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma shekaru arba'in da ɗaya ya mulki a Urushalima, kuma sunan mahaifiyarsu Ma'aka ⟨ya kasance⟩, 'yar Avishalom.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "Kuma arba'in"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "da ɗaya"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya mulki"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "a Urushalima"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "kuma sunan"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mahaifiyarsu"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Ma'aka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "'yar"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avishalom"
+    }
+  ],
+  "timestamp": "2026-08-12T11:29:00.784270983Z",
+  "model": "glm-5.2"
+}

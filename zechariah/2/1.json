@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma na ɗauko ⟨את⟩ idanuwana, kuma na duba, kuma ga, ƙaho huɗu.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "kuma na ɗauko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idanuwana"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "idanuwana"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "kuma na duba"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kuma ga"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "huɗu"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "ƙaho"
+    }
+  ],
+  "timestamp": "2026-08-12T18:59:35.359703326Z",
+  "model": "glm-5.2"
+}

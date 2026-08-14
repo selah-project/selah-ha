@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 8:2",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Har ina za ka ci gaba da faɗin waɗannan? Kuma maganganun bakinka ⟨ne⟩ iska mai ƙarfi?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "אן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "תמלל",
+      "gloss": "za ka ci gaba da faɗin"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "iska"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "mai ƙarfi"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "maganganun"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "bakinka"
+    }
+  ],
+  "timestamp": "2026-08-12T21:45:22.639390788Z",
+  "model": "glm-5.2"
+}

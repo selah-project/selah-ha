@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Ni ⟨ne⟩ Yahweh, Elohim naka, wanda ya fitar da kai daga ƙasar Mitsrayim, daga gidan bayi.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "ya fitar da kai"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "daga gidan"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bayi"
+    }
+  ],
+  "timestamp": "2026-08-12T04:58:03.370908756Z",
+  "model": "glm-5.2"
+}

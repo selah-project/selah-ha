@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma na gani, ni, ⟨את⟩ dukkan aikin wahala da ⟨את⟩ dukkan kwarewar aikin, cewa shi ⟨ne⟩ kishin mutum ga makwabcinsa; wannan ma iska ce kuma neman iska.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "Kuma na gani"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan aikin wahala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "aikin wahala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "dukkan kwarewar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "kwarewar"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "kishin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "ga makwabcinsa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "iska"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "kuma neman"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "iska"
+    }
+  ],
+  "timestamp": "2026-08-12T22:43:49.908310156Z",
+  "model": "glm-5.2"
+}

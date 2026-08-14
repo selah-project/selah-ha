@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 5:1",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Belshazzar malfāl ya yĩ biki babba ga manyan sa ⟨da⟩ dubu, kuma a gaban ⟨waɗannan⟩ dubu ⟨yana⟩ shan giya.",
+  "tokens": [
+    {
+      "surface": "בֵּלְשַׁאצַּ֣ר",
+      "gloss": "Belshazzar"
+    },
+    {
+      "surface": "מַלְכָּ֗א",
+      "gloss": "malfāl"
+    },
+    {
+      "surface": "עֲבַד֙",
+      "gloss": "ya yĩ"
+    },
+    {
+      "surface": "לְחֶ֣ם",
+      "gloss": "biki"
+    },
+    {
+      "surface": "רַ֔ב",
+      "gloss": "babba"
+    },
+    {
+      "surface": "לְרַבְרְבָנ֖וֹהִי",
+      "gloss": "ga manyan sa"
+    },
+    {
+      "surface": "אֲלַ֑ף",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "וְלָקֳבֵ֥ל",
+      "gloss": "kuma a gaban"
+    },
+    {
+      "surface": "אַלְפָּ֖א",
+      "gloss": "⟨waɗannan⟩ dubu"
+    },
+    {
+      "surface": "חַמְרָ֥א",
+      "gloss": "giya"
+    },
+    {
+      "surface": "שָׁתֵֽה",
+      "gloss": "⟨yana⟩ shan"
+    }
+  ],
+  "timestamp": "2026-08-12T23:09:11.419401041Z",
+  "model": "glm-5.2"
+}

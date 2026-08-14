@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma don me ka fitar da mu daga Mitsrayim, don kawo mu zuwa ⟨wannan⟩ wuri ⟨mai⟩ muni ⟨nan⟩? Ba wuri ne na iri, ko itacen ɓaure, ko inabi, ko rummanu ba, kuma ruwa babu ⟨don⟩ sha.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Kuma don me"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "ka fitar da mu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "daga Mitsrayim"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "don kawo"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "wuri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "⟨mai⟩ muni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨wannan⟩ ⟨nan⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "wuri"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ne na iri"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "ko itacen ɓaure"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "ko inabi"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "ko rummanu"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "kuma ruwa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "⟨don⟩ sha"
+    }
+  ],
+  "timestamp": "2026-08-12T04:10:30.263568632Z",
+  "model": "glm-5.2"
+}

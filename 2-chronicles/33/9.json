@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 33:9",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Menashe ya sa ⟨את⟩ Yahuda da mazaunan Yerushalaim su ɓataru, don su aikata sharri, fiye da ⟨al'ummomin⟩ da Yahweh ya halaka daga gaban 'ya'yan Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וַיֶּ֣תַע",
+      "gloss": "ya sa su ɓataru"
+    },
+    {
+      "surface": "מְנַשֶּׁ֔ה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuda"
+    },
+    {
+      "surface": "יְהוּדָ֖ה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "וְיֹשְׁבֵ֣י",
+      "gloss": "da mazaunan"
+    },
+    {
+      "surface": "יְרוּשָׁלִָ֑ם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "לַעֲשׂ֣וֹת",
+      "gloss": "don su aikata"
+    },
+    {
+      "surface": "רָ֔ע",
+      "gloss": "sharri"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "fiye da"
+    },
+    {
+      "surface": "הַ֨גּוֹיִ֔ם",
+      "gloss": "⟨al'ummomin⟩"
+    },
+    {
+      "surface": "אֲשֶׁר֙",
+      "gloss": "da"
+    },
+    {
+      "surface": "הִשְׁמִ֣יד",
+      "gloss": "ya halaka"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מִפְּנֵ֖י",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-13T02:57:56.233803540Z",
+  "model": "glm-5.2"
+}

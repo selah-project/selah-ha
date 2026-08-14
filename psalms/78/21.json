@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Saboda haka Yahweh ya ji, ⟨kuma⟩ ya ɓaɓanya fushi, ⟨don haka⟩ wuta ta tashi a Ya'akov, ⟨kuma⟩ fushi ya hau a Isra'ila.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Saboda haka"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ya ji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "⟨kuma⟩ ya ɓaɓanya fushi"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "⟨don haka⟩ wuta"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "ta tashi"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "a Ya'akov"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "⟨kuma⟩"
+    },
+    {
+      "surface": "אף",
+      "gloss": "fushi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ya hau"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "a Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T20:08:07.282249311Z",
+  "model": "glm-5.2"
+}

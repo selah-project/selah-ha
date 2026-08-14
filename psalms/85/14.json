@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 85,
+  "translation": "Adalci zai tafi a gabaninsa, kuma ya sanya ⟨a⟩ hanya ƙafafunsa.",
+  "tokens": [
+    {
+      "surface": "צֶ֭דֶק",
+      "gloss": "Adalci"
+    },
+    {
+      "surface": "לְפָנָ֣יו",
+      "gloss": "a gabaninsa"
+    },
+    {
+      "surface": "יְהַלֵּ֑ךְ",
+      "gloss": "zai tafi"
+    },
+    {
+      "surface": "וְיָשֵׂ֖ם",
+      "gloss": "kuma ya sanya"
+    },
+    {
+      "surface": "לְדֶ֣רֶךְ",
+      "gloss": "⟨a⟩ hanya"
+    },
+    {
+      "surface": "פְּעָמָֽיו",
+      "gloss": "ƙafafunsa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:14:10.850304277Z",
+  "model": "glm-5.2"
+}

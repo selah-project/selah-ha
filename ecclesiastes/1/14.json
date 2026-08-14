@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Na ga ⟨את⟩ dukkan ayyukan da ake yi a ƙarƙashin rana, kuma ga shi, duk abin ⟨ne⟩ iska-mai-gudu da ƙoƙarin iska.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Na ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "ayyukan"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "da ake yi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a ƙarƙashin"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rana"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kuma ga shi"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "duk abin"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "iska-mai-gudu"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "da ƙoƙarin"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "iska"
+    }
+  ],
+  "timestamp": "2026-08-12T22:40:27.944689268Z",
+  "model": "glm-5.2"
+}

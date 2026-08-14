@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Sun gaggauta zuwa gare ni a ranar bala'ata, kuma Yahweh ya zama ⟨ga⟩ ni tushe.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "Sun gaggauta zuwa gare ni"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a ranar"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "bala'ata"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya zama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "⟨ga⟩ ni tushe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:24:20.561964810Z",
+  "model": "glm-5.2"
+}

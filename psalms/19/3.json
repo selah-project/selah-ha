@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Rana zuwa rana tana zuba magana, kuma daren dare yana nuna ilimi.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Rana"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "zuwa rana"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "tana zuba"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "magana"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "kuma daren"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "dare"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "yana nuna"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ilimi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:26:07.584609993Z",
+  "model": "glm-5.2"
+}

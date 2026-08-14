@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 11:6",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Shelomah ya yi mugun ⟨abo⟩ a idanin Yahweh, kuma bai cika bin Yahweh ba kamar Dauda ubaninsa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mugun"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma bai"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "cika"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "kamar Dauda"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubaninsa"
+    }
+  ],
+  "timestamp": "2026-08-12T11:17:20.462090759Z",
+  "model": "glm-5.2"
+}

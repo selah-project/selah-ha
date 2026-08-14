@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma ba su saurara ba, suka tsaftasa ⟨את⟩ wuyoyinsu kamar wuyan ubanninsu, waɗanda ba su yi imani ba da Yahweh Elohim su.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "suka saurara"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "suka tsaftasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuyoyinsu"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "wuyoyinsu"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "kamar wuyan"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ubanninsu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "suka yi imani"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "da Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim su"
+    }
+  ],
+  "timestamp": "2026-08-12T12:36:14.101512300Z",
+  "model": "glm-5.2"
+}

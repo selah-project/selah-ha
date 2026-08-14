@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 1:3",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "a shekara ta uku ta mulkin sa, ya yi biki ga duka shugabannin sa da bayin sa — sojojin Parás da Madayi, ⟨su ne⟩ manyan larduna da shugabannin larduna waɗanda ⟨suke⟩ a gaban sa.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "a shekara"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ta uku"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "ta mulkin sa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "biki"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ga duka"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "shugabannin sa"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "da bayin sa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sojojin"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Parás"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "da Madayi"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "⟨su ne⟩ manyan larduna"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "da shugabannin"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "larduna"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "a gaban sa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:54:29.967725369Z",
+  "model": "glm-5.2"
+}

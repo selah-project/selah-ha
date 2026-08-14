@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 147,
+  "translation": "Shi mai aikawa umarnin ⟨sa⟩ ⟨zuwa⟩ ƙasa, da sauri kalmar ⟨sa⟩ tana gudu.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "shi mai aikawa"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "umarnin ⟨sa⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨zuwa⟩ ƙasa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "da sauri"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "tana gudu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kalmar ⟨sa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:58:53.108437157Z",
+  "model": "glm-5.2"
+}

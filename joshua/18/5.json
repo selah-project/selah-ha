@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 18:5",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma su raba ⟨את⟩ ta zuwa sassa'u guda bakwai; Yahuda ya tsaya a kan iyakarsa daga kudu, kuma Bet־Yusuf su tsaya a kan iyakarsu daga arewa.",
+  "tokens": [
+    {
+      "surface": "והתחלקו",
+      "gloss": "Kuma su raba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "zuwa sassa'u guda bakwai"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "zuwa guda bakwai"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "sassa'u"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ya tsaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "iyakarsa"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "daga kudu"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "kuma Bet־"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "su tsaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "iyakarsu"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "daga arewa"
+    }
+  ],
+  "timestamp": "2026-08-12T06:52:22.060961408Z",
+  "model": "glm-5.2"
+}

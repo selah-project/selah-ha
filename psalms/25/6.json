@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Ka tuna tausayinka, Yahweh, da chesedinka, domin dā ⟨sũ⟩ ne.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ka tuna"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "tausayinka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "da chesedinka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "dā"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sũ ne"
+    }
+  ],
+  "timestamp": "2026-08-12T19:29:38.258092840Z",
+  "model": "glm-5.2"
+}

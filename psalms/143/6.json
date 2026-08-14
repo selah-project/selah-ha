@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 143,
+  "translation": "Na miƙa hannayena gareka, rānāta ⟨ce⟩ kamar ƙasa mai gājiya ⟨donka⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "Na miƙa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hannayena"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gareka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rānāta"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "kamar ƙasa"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "mai gājiya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨donka⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T20:56:10.434374294Z",
+  "model": "glm-5.2"
+}

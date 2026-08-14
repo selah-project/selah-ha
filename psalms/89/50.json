@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Ina ⟨suke⟩ chesed ɗinka na farko, Adonai, da ka rantse wa Dawuda cikin amincin ka?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "ina"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "chesed ɗinka"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "na farko"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "da ka rantse"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawuda"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "cikin amincin ka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:20:25.503971319Z",
+  "model": "glm-5.2"
+}

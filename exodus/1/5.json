@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma duk wani rai na fitattun gabansu na Ya'akov sun kasance daidaikku saba'in; kuma Yosef yana ⟨a⟩ Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ya kasance"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rai"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "fitattun gabansu"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "gabansu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "na Ya'akov"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "saba'in"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "daidaikku"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "kuma Yosef"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yana"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "⟨a⟩ Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:27:23.408571793Z",
+  "model": "glm-5.2"
+}

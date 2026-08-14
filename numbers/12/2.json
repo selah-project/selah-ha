@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma suka ce: Shin, Yahweh ya yi magana ⟨kawai⟩ ne da Moshe? Shin, baya ya yi magana da mu ma? Kuma Yahweh ya ji.",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמְרוּ",
+      "gloss": "Kuma suka ce"
+    },
+    {
+      "surface": "הֲרַק",
+      "gloss": "Shin"
+    },
+    {
+      "surface": "אַךְ",
+      "gloss": "kawai"
+    },
+    {
+      "surface": "בְּמֹשֶׁה",
+      "gloss": "da Moshe"
+    },
+    {
+      "surface": "דִּבֶּר",
+      "gloss": "ya yi magana"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הֲלֹא",
+      "gloss": "Shin, baya"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בָּנוּ",
+      "gloss": "da mu"
+    },
+    {
+      "surface": "דִּבֵּר",
+      "gloss": "ya yi magana"
+    },
+    {
+      "surface": "וַיִּשְׁמַע",
+      "gloss": "Kuma ya ji"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-13T01:50:28.044558399Z",
+  "model": "glm-5.2"
+}

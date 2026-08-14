@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 25:19",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma ka yi da keravum ɗaya daga waccan gefen, da keravum ɗaya daga waccan gefen — daga kafforeta kuke yi da ⟨את⟩ keravim a kan ƙarshen biyu nata.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Kuma ka yi da"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "keravum"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "daga gefen"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "waccan"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "da keravum"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "daga gefen"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "waccan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kafforeta"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kuke yi da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keravim"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "keravim"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ƙarshen biyu"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "nata"
+    }
+  ],
+  "timestamp": "2026-08-13T01:47:16.788130479Z",
+  "model": "glm-5.2"
+}

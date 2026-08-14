@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma zuwa ga wannan mutanen za ka faɗa: Haka ya faɗa Yahweh: Ga ni ina sanya a gaban ku ⟨את⟩ hanyar rayuwa da ⟨את⟩ hanyar mutuwa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Kuma zuwa ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "za ka faɗa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Haka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ga ni"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ina sanya"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "a gaban ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hanyar rayuwa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "rayuwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ da",
+      "marks": "hanyar mutuwa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "המות",
+      "gloss": "mutuwa"
+    }
+  ],
+  "timestamp": "2026-08-12T15:35:46.290434653Z",
+  "model": "glm-5.2"
+}

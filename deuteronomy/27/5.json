@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 27:5",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma za ka gina wa can mashaya ga Yahweh, Elohim naka, mashayyn dutsen; ba za ka tada su da ƙarfe ba.",
+  "tokens": [
+    {
+      "surface": "ובנית",
+      "gloss": "kuma za ka gina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mashaya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mashayyn"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "dutsen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "za ka tada"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "su"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "da ƙarfe"
+    }
+  ],
+  "timestamp": "2026-08-12T05:40:47.642419263Z",
+  "model": "glm-5.2"
+}

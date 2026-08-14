@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 39:8",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Kuma ya ƙi, kuma ya ce wa matar ubangijinsa: \"Ga shi, ubangijina ba ya san ⟨את⟩ ni abin da yake a cikin gida, kuma dukan abin da yake da shi ya bada a hannuna.\"",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "Kuma ya ƙi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "matar"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ubangijinsa"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Ga shi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ubangijina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ya san"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ni",
+      "marks": "ni"
+    },
+    {
+      "surface": "מה",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "yake a cikin gida"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma dukan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "יש",
+      "gloss": "yake da shi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya bada"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "a hannuna"
+    }
+  ],
+  "timestamp": "2026-08-12T00:12:35.933738592Z",
+  "model": "glm-5.2"
+}

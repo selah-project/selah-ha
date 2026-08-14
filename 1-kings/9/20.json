@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 9:20",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Dukan jama'ar da ta rage daga Emori, da Ḥitti, da Perizzi, da Ḥiwi, da Yevusi, waɗanda ba su ⟨daga⟩ ɓaɓɓiyen Yisra'el ⟨suka ne⟩ —",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Dukan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'ar"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "da ta rage"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Ḥitti"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizzi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Ḥiwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "da Yevusi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ɗari daga ɓaɓɓiyen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "המה",
+      "gloss": "suna"
+    }
+  ],
+  "timestamp": "2026-08-12T11:13:56.507126400Z",
+  "model": "glm-5.2"
+}

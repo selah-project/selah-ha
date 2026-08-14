@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "gani nan, Ni ina tada su daga wurin da kuka sayar da su ⟨את⟩, can, kuma Ina mayar da sakamakon aikinku a kan kawunanku.",
+  "tokens": [
+    {
+      "surface": "הִנְנִ֣י",
+      "gloss": "gani nan, Ni"
+    },
+    {
+      "surface": "מְעִירָ֔ם",
+      "gloss": "ina tada su"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הַמָּק֔וֹם",
+      "gloss": "wurin"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "da"
+    },
+    {
+      "surface": "מְכַרְתֶּ֖ם",
+      "gloss": "kuka sayar"
+    },
+    {
+      "surface": "אֹתָ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "שָׁ֑מָּה",
+      "gloss": "can"
+    },
+    {
+      "surface": "וַהֲשִׁיבֹתִ֥י",
+      "gloss": "kuma Ina mayar da"
+    },
+    {
+      "surface": "גְּמֻלְכֶ֖ם",
+      "gloss": "sakamakon aikinku"
+    },
+    {
+      "surface": "בְּרֹאשְׁכֶֽם",
+      "gloss": "a kan kawunanku"
+    }
+  ],
+  "timestamp": "2026-08-13T02:19:54.036880094Z",
+  "model": "glm-5.2"
+}

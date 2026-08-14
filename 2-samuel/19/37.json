@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Da ɗan ka bawa ya ketare ⟨את⟩ Yarden ⟨את⟩ sarki, don me sarki ya saka ni da wannan saka?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "da ɗan"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ya ketare"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ka bawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "ya saka ni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-12T10:38:44.042477236Z",
+  "model": "glm-5.2"
+}

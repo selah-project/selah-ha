@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma Ya'aƙob ya gudu ⟨zuwa⟩ filin Aram, kuma Isra'ila ya yi aiki domin ⟨samun⟩ mace, kuma domin ⟨samun⟩ mace ya tsare ⟨tumaki⟩.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "kuma ya gudu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aƙob"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "filin"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "kuma ya yi aiki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "domin ⟨samun⟩ mace"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "kuma domin ⟨samun⟩ mace"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ya tsare"
+    }
+  ],
+  "timestamp": "2026-08-12T18:15:56.588645509Z",
+  "model": "glm-5.2"
+}

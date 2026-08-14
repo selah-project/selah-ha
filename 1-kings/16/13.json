@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 16:13",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Saboda dukkan zunuban Baʿsha, da zunuban Ɗan'uwansa ⟨Elah⟩, waɗanda suka yi zunubi, kuma waɗanda suka sa ⟨את⟩ Isra'ila su yi zunubi, don tada fushin ⟨את⟩ Yahweh, Elohim na Isra'ila, da ɓatar-raguwarsu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "zunuban"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baʿsha"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "da zunuban"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨Elah⟩"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗan'uwansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "suka yi zunubi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kuma waɗanda"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "suka sa su yi zunubi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isra'ila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "don tada fushin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "da ɓatar-raguwarsu"
+    }
+  ],
+  "timestamp": "2026-08-12T11:35:33.778379550Z",
+  "model": "glm-5.2"
+}

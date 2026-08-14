@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 17:14",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma zan tsayar da shi a cikin gida na da kuma a cikin mulkina har abadam, kuma kujerarsa za ta kasance ⟨tsayar⟩ har abadam.",
+  "tokens": [
+    {
+      "surface": "וְהֶעֱמַדְתִּ֛יהוּ",
+      "gloss": "Kuma zan tsayar da shi"
+    },
+    {
+      "surface": "בְּבֵיתִ֥י",
+      "gloss": "a cikin gida na"
+    },
+    {
+      "surface": "וּבְמַלְכוּתִ֖י",
+      "gloss": "da kuma a cikin mulkina"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "har"
+    },
+    {
+      "surface": "הָעוֹלָ֑ם",
+      "gloss": "abadam"
+    },
+    {
+      "surface": "וְכִסְא֕וֹ",
+      "gloss": "kuma kujerarsa"
+    },
+    {
+      "surface": "יִהְיֶ֥ה",
+      "gloss": "za ta kasance"
+    },
+    {
+      "surface": "נָכ֖וֹן",
+      "gloss": "tsayar"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "har"
+    },
+    {
+      "surface": "עוֹלָֽם",
+      "gloss": "abadam"
+    }
+  ],
+  "timestamp": "2026-08-13T00:19:42.170725376Z",
+  "model": "glm-5.2"
+}

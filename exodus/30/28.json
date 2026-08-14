@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "da ⟨את⟩ madubabin ƙetarewa da ⟨את⟩ dukkan kayan sa, da ⟨את⟩ kwangwanar da ⟨את⟩ ƙafarsa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "madubabin"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "madubabin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ƙetarewa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kayan sa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kwangwanar"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "kwangwanar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙafarsa"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ƙafarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:18:17.428717627Z",
+  "model": "glm-5.2"
+}

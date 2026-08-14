@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 148,
+  "translation": "Ku yi gāra ⟨את⟩ Yahweh daga ƙasa, ku waɗannan tānnīnīm da dukkanin tēhōmōt!",
+  "tokens": [
+    {
+      "surface": "הַֽלְל֣וּ",
+      "gloss": "ku yi gāra"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "תַּ֝נִּינִ֗ים",
+      "gloss": "ku waɗannan tānnīnīm"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "da dukkanin"
+    },
+    {
+      "surface": "תְּהֹמֽוֹת",
+      "gloss": "tēhōmōt"
+    }
+  ],
+  "timestamp": "2026-08-12T20:59:46.345432393Z",
+  "model": "glm-5.2"
+}

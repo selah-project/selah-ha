@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma Yahweh zai yi wa ⟨את⟩ Mitsrayim duka, duka da kuma magani, kuma za su koma zuwa Yahweh, kuma zai amsa musu, kuma zai warkar da su.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "kuma zai yi wa duka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "duka"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "da kuma magani"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "kuma za su koma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "kuma zai amsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "kuma zai warkar da su"
+    }
+  ],
+  "timestamp": "2026-08-13T02:08:27.316862956Z",
+  "model": "glm-5.2"
+}

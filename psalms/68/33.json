@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 68,
+  "translation": "Masarautun ƙasa, ku rera waɗa wa Elohim, ku kaɗa wa Adonai — Selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "Masarautun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ku rera waɗa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ku kaɗa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "wa Adonai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T20:02:19.594400964Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma Ni zan aiko a cikinku ⟨את⟩ dabbobin daji, kuma za ta yi ku marāsu, kuma za ta ɓāne ⟨את⟩ shanunku, kuma za ta rage ku, kuma hanyoyinku za su zama masu fanko.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "Kuma Ni zan aiko"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "a cikinku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dabbobin daji"
+    },
+    {
+      "surface": "חית",
+      "gloss": "dabbobin"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "daji"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "kuma za ta yi ku marāsu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ku"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "kuma za ta ɓāne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shanunku"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "shanunku"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "kuma za ta rage"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ku"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "kuma za su zama masu fanko"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "hanyoyinku"
+    }
+  ],
+  "timestamp": "2026-08-12T03:00:22.947893546Z",
+  "model": "glm-5.2"
+}

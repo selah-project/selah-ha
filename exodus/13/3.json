@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 13:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma Mosheh ya faɗa wa mutanen: Ku tuna da ⟨את⟩ wannan ranar da kuka fita daga Mitsrayim, daga gidan bayi, domin da ƙarfin hannu Yahweh ya fitar da ⟨את⟩ ku daga nan, kuma ba za a ci abin da ya yi yaɗu ba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya faɗa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Ku tuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan rana"
+    },
+    {
+      "surface": "היום",
+      "gloss": "da rana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "kuka fita"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "daga Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "daga gidan"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bayi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "da ƙarfi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hannu"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ya fitar da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "daga nan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba za"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "a ci"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "abin da ya yi yaɗu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:48:11.586386356Z",
+  "model": "glm-5.2"
+}

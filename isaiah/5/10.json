@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Gama goma biyun gonakin inabi za su yi baɗo ɗaya, da iri ɗaya na homer za su yi eifa ɗaya.",
+  "tokens": [
+    {
+      "surface": "כִּ֗י",
+      "gloss": "gama"
+    },
+    {
+      "surface": "עֲשֶׂ֨רֶת֙",
+      "gloss": "goma"
+    },
+    {
+      "surface": "צִמְדֵּי",
+      "gloss": "biyun"
+    },
+    {
+      "surface": "כֶ֔רֶם",
+      "gloss": "gonakin inabi"
+    },
+    {
+      "surface": "יַעֲשׂ֖וּ",
+      "gloss": "za su yi"
+    },
+    {
+      "surface": "בַּ֣ת",
+      "gloss": "baɗo"
+    },
+    {
+      "surface": "אֶחָ֑ת",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "וְזֶ֥רַע",
+      "gloss": "da iri"
+    },
+    {
+      "surface": "חֹ֖מֶר",
+      "gloss": "homer"
+    },
+    {
+      "surface": "יַעֲשֶׂ֥ה",
+      "gloss": "za su yi"
+    },
+    {
+      "surface": "אֵיפָֽה",
+      "gloss": "eifa"
+    }
+  ],
+  "timestamp": "2026-08-12T13:02:30.966559692Z",
+  "model": "glm-5.2"
+}

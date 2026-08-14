@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kada ka yi mugunta da yawa, kuma kada ka zama wawaye; don me za ka mutu ba a lokacinka ba?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "ka yi mugunta"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ka zama"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "wawaye"
+    },
+    {
+      "surface": "למה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "za ka mutu"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ba a"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "lokacinka"
+    }
+  ],
+  "timestamp": "2026-08-12T22:47:45.261741365Z",
+  "model": "glm-5.2"
+}

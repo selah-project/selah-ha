@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Kada ku kasance kamar doki, kamar bijimi, waɗanda ⟨babu⟩ fahimta — da ƙugiyar da maƙullan ƙawuga, don hana su zuwa ⟨kusa⟩ da kai.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ku kasance"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "kamar doki"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "kamar bijimi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "fahimta"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "da ƙugiyar"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "da maƙullan ƙawuga"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "ƙawugansa"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "don hana su"
+    },
+    {
+      "surface": "בל",
+      "gloss": "domin kada"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "su kusanto"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zuwa gare ka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:24:12.499766797Z",
+  "model": "glm-5.2"
+}

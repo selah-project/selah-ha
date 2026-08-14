@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma ku yi, a rana da kuke dada ⟨את⟩ gomar, ɗan άriya cikakke ɗan shekara guda, ⟨a matsayin⟩ ƙorar hadaya ga Yahweh.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "Kuma ku yi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "da kuke dada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gomar"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "gomar"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ɗan άriya"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "cikakke"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "shekara guda"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "⟨a matsayin⟩ ƙorar hadaya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T02:45:13.116124671Z",
+  "model": "glm-5.2"
+}

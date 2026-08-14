@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Yahweh ya zauna a kan ambaliya, kuma Yahweh ya zauna ⟨a matsayin⟩ sarki har abada.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "a kan ambaliya"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ya zauna"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kuma ya zauna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-12T19:29:42.253538103Z",
+  "model": "glm-5.2"
+}

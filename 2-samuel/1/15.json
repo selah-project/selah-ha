@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma Dawuda ya kira ɗaya daga cikin yaran maza, kuma ya ce, Kusa, ka buge shi. Kuma ⟨sai⟩ ya buge shi, kuma ya mutu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Kuma ya kira"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "daga cikin yaran maza"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "גש",
+      "gloss": "Kusa"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "ka buge"
+    },
+    {
+      "surface": "בו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "Kuma ya buge shi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kuma ya mutu"
+    }
+  ],
+  "timestamp": "2026-08-12T09:58:26.683422511Z",
+  "model": "glm-5.2"
+}

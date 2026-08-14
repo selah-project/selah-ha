@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma Ya'aƙob ya ce, Ka sayar da min yau ⟨את⟩ haƙƙin fāron haihuwarka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aƙob"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "ka sayar"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haƙƙin fāron haihuwarka"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "haƙƙin fāron haihuwarka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-08-11T23:48:16.883474880Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "«kuma Aharon da 'ya'yansa za su wanƙa daga gare shi, ⟨את⟩ hannayensu da ⟨את⟩ ƙafafunsu.»",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "kuma za su wanƙa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "da 'ya'yansa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare shi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannayensu"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hannayensu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙafafunsu"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ƙafafunsu"
+    }
+  ],
+  "timestamp": "2026-08-12T01:18:40.919518902Z",
+  "model": "glm-5.2"
+}

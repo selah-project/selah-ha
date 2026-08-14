@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 7:14",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma ya kawo daga gare shi ɗaya daga cikin dukkan quraban a matsayin terumah ga Yahweh; ⟨don⟩ kohen⁠nin da yake yafin jinin zabahar salamim, ⟨shĩ⟩ nasa ne kuma zai kasance.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "kuma ya kawo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare shi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "daga cikin dukkan"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "quraban"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "a matsayin terumah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "don kohen⁠nin"
+    },
+    {
+      "surface": "הזרק",
+      "gloss": "da yake yafin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jin"
+    },
+    {
+      "surface": "דם",
+      "gloss": "jin"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "zabahar salamim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nasa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zai kasance"
+    }
+  ],
+  "timestamp": "2026-08-12T01:51:00.749691811Z",
+  "model": "glm-5.2"
+}

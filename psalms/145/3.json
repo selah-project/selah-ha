@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 145,
+  "translation": "Babba Yahweh, kuma an yi wa yabo sosai, kuma babu ƙarshen girmanSa.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Babba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "kuma an yi wa yabo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "kuma babu ƙarshen girmanSa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "ƙarshen"
+    }
+  ],
+  "timestamp": "2026-08-12T20:58:15.172014925Z",
+  "model": "glm-5.2"
+}

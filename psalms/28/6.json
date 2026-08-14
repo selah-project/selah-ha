@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Yahweh ⟨ne⟩ albarka, domin ya ji muryar roƙona.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "⟨ne⟩ albarka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ya ji"
+    },
+    {
+      "surface": "קול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "roƙona"
+    }
+  ],
+  "timestamp": "2026-08-12T19:32:25.916519287Z",
+  "model": "glm-5.2"
+}

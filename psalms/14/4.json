@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Shin ba su sani ba, duk masu aikin zalunci, masu cin mutanena, sun ci burodi, ⟨sun⟩ Yahweh ba su kira?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Shin ba… ba"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "su sani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "masi aikin"
+    },
+    {
+      "surface": "און",
+      "gloss": "zalunci"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "masi cin"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mutanena"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "sun ci"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "burodi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "su kira"
+    }
+  ],
+  "timestamp": "2026-08-12T19:21:23.211297351Z",
+  "model": "glm-5.2"
+}

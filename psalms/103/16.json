@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 103,
+  "translation": "Domin iska ta wuce a kansa, kuma bai kasance ba, kuma wurin sa ba zai san shi ⟨sai⟩ komai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "iska"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ta wuce"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "kuma bai kasance ba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "zai san shi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨sai⟩ komai"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "wurin sa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:27:03.031149724Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Sai shugaban masu ba da abin sha ya yi magana da ⟨את⟩ Farao, yana cewa: ⟨את⟩ laifuffukana nake tunatarwa a yau.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Sai ya yi magana"
+    },
+    {
+      "surface": "שר",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "masu ba da abin sha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laifuffukana"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "laifuffukana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nīke"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "tunatarwa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "a yau"
+    }
+  ],
+  "timestamp": "2026-08-12T00:11:58.086367203Z",
+  "model": "glm-5.2"
+}

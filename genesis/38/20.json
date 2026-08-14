@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Kuma Yehudah ya aiko da ⟨את⟩ ɗan akuyar ta hannun abokinsa dan ƙasar Adullam, domin ya ɗauki cikakken alamar daga hannun wata, amma ba ya same ta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Kuma Yehudah ya aiko da"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗan akuyar"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "akuyar"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ta hannun"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "abokinsa"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "dan ƙasar Adullam"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "domin ya ɗauki"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "cikakken alamar"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "ya same ta"
+    }
+  ],
+  "timestamp": "2026-08-12T00:10:40.788581374Z",
+  "model": "glm-5.2"
+}

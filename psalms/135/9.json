@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 135,
+  "translation": "Ya aiko alamu da mu'jizu a tsakiyar ⟨ta⟩, ya Mitsrayim, a kan Far'awuna da a kan dukan bayin ⟨s⟩.",
+  "tokens": [
+    {
+      "surface": "שָׁלַ֤ח",
+      "gloss": "Ya aiko"
+    },
+    {
+      "surface": "אֹת֣וֹת",
+      "gloss": "alamu"
+    },
+    {
+      "surface": "וּ֭מֹפְתִים",
+      "gloss": "da mu'jizu"
+    },
+    {
+      "surface": "בְּתוֹכֵ֣כִי",
+      "gloss": "a tsakiyar"
+    },
+    {
+      "surface": "מִצְרָ֑יִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בְּ֝פַרְעֹ֗ה",
+      "gloss": "a kan Far'awuna"
+    },
+    {
+      "surface": "וּבְכָל",
+      "gloss": "da a kan dukan"
+    },
+    {
+      "surface": "עֲבָדָֽיו",
+      "gloss": "bayin ⟨s⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:50:36.041396872Z",
+  "model": "glm-5.2"
+}

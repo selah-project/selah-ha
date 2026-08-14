@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma ya faɗa, ⟨את⟩ ƴan'uwana ne ina nema; ka gaya min yanzu ina suke kiwo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya faɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴan'uwana"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ƴan'uwana"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ina nema"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ka gaya"
+    },
+    {
+      "surface": "נא",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ina"
+    },
+    {
+      "surface": "הם",
+      "gloss": "suke"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "kiwo"
+    }
+  ],
+  "timestamp": "2026-08-12T00:06:56.983135734Z",
+  "model": "glm-5.2"
+}

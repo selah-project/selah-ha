@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 20:11",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma na bã su ⟨את⟩ dokõkīna, kuma ⟨את⟩ hukuncīna na bã su sanĩ; wanda mutum ya aikata su, yā rayu a cikinsu.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "kuma na bã"
+    },
+    {
+      "surface": "להם",
+      "gloss": "su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dokõkīna"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "dokõkīna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "hukuncīna"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukuncīna"
+    },
+    {
+      "surface": "הודעתי",
+      "gloss": "na bã su sanĩ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ya aikata"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mutum"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "yā rayu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "a cikinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T17:16:01.420702605Z",
+  "model": "glm-5.2"
+}

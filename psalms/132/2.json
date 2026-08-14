@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 132,
+  "translation": "Wanda ya rantsuwa da Yahweh, ya yi alkawari ga Ƙarfin Yaƙub;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Wanda"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ya rantsuwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "da Yahweh"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ya yi alkawari"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "ga Ƙarfin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaƙub"
+    }
+  ],
+  "timestamp": "2026-08-12T20:49:23.742156627Z",
+  "model": "glm-5.2"
+}

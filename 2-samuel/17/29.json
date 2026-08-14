@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 17:29",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "da zuma, da man shanu, da tumaki, da ⟨את⟩ shanun da aka yi wa curry, suka kusanto Daɗiw, da ⟨את⟩ al'ummar da ⟨את⟩ ke tare da shi, don su ci; gama sun faɗa, al'ummar ⟨sun⟩ jin yunwa, sun gaji, kuma ⟨suna⟩ ƙishirwa cikin jeji.",
+  "tokens": [
+    {
+      "surface": "ודבש",
+      "gloss": "da zuma"
+    },
+    {
+      "surface": "וחמאה",
+      "gloss": "da man shanu"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "da tumaki"
+    },
+    {
+      "surface": "ושפות",
+      "gloss": "da shanun da aka yi wa curry"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "suka kusanto"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daɗiw"
+    },
+    {
+      "surface": "ולעם",
+      "gloss": "da al'ummar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ke tare da shi",
+      "marks": "al'ummar"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "don su ci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gama"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sun faɗa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "al'ummar"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "sun jin yunwa"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "sun gaji"
+    },
+    {
+      "surface": "וצמא",
+      "gloss": "kuma ⟨suna⟩ ƙishirwa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "cikin jeji"
+    }
+  ],
+  "timestamp": "2026-08-12T10:20:51.391441681Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma Eliyahu ya tafi don ya nuna kansa zuwa Ahab; kuma yunwa ⟨ta⟩ yi tsanani a Shomeron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kuma ya tafi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "don ya nuna kansa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "kuma yunwa"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "yi tsanani"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "a Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-12T11:36:37.577717911Z",
+  "model": "glm-5.2"
+}

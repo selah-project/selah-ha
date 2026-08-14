@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 73:26",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 73,
+  "translation": "Naman jikīna ya ƙare, kuma zucīyata — Dutsen zucīyata, kuma gurabīna, Elohim ne, har abadā.",
+  "tokens": [
+    {
+      "surface": "כָּלָה",
+      "gloss": "ya ƙare"
+    },
+    {
+      "surface": "שְׁאֵרִי",
+      "gloss": "Naman jikīna"
+    },
+    {
+      "surface": "וּלְבָבִי",
+      "gloss": "kuma zucīyata"
+    },
+    {
+      "surface": "צוּר",
+      "gloss": "Dutsen"
+    },
+    {
+      "surface": "לְבָבִי",
+      "gloss": "zucīyata"
+    },
+    {
+      "surface": "וְחֶלְקִי",
+      "gloss": "kuma gurabīna"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לְעוֹלָם",
+      "gloss": "har abadā"
+    }
+  ],
+  "timestamp": "2026-08-12T20:07:48.758148971Z",
+  "model": "glm-5.2"
+}

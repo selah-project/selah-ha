@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 59,
+  "translation": "Ya ƙarfina, gare Ka zan yabo ta rerawa; domin Elohim shi ne matsayi ⟨na tsaro⟩ na, Elohim na chesed ɗina.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Ya ƙarfina"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gare Ka"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "zan yabo ta rerawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "shi ne matsayi ⟨na tsaro⟩ na"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "chesed ɗina"
+    }
+  ],
+  "timestamp": "2026-08-12T19:53:55.381916945Z",
+  "model": "glm-5.2"
+}

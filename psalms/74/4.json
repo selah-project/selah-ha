@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 74,
+  "translation": "Maƙiyanka sun yi kuka a tsakiyar taronka; sun sanya alamominsu ⟨a matsayin⟩ alamu.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "sun yi kuka"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "Maƙiyanka"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "a tsakiyar"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "taronka"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sun sanya"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "alamominsu"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "alamu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:07:25.371481405Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 24:11",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Ceto waɗanda ake kaiwa mutuwa, da waɗanda suke tuduwa kashewa — idan ka hana ⟨su⟩!",
+  "tokens": [
+    {
+      "surface": "הַצֵּל",
+      "gloss": "ceto"
+    },
+    {
+      "surface": "לְקֻחִים",
+      "gloss": "waɗanda ake kaiwa"
+    },
+    {
+      "surface": "לַמָּוֶת",
+      "gloss": "mutuwa"
+    },
+    {
+      "surface": "וּמָטִים",
+      "gloss": "da waɗanda suke tuduwa"
+    },
+    {
+      "surface": "לַהֶרֶג",
+      "gloss": "kashewa"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "תֶּחְסוֹךְ",
+      "gloss": "ka hana"
+    }
+  ],
+  "timestamp": "2026-08-12T21:28:44.729539026Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Da ⟨את⟩ ɗiyanta biyu, wanda sunan ⟨na⟩ ɗayan Gershom, domin ⟨ye⟩ ya ce: \"Baƙo na kasance cikin ƙasar baƙo.\"",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ɗiyanta biyu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ɗiyanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sunan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "na ɗayan"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "גר",
+      "gloss": "baƙo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "na kasance"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "cikin ƙasar"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "baƙo"
+    }
+  ],
+  "timestamp": "2026-08-12T00:57:30.333240628Z",
+  "model": "glm-5.2"
+}

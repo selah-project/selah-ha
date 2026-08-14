@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Ni ne Yahweh, kuma babu wani; banda Ni babu Elohim; Na dama ⟨wa⟩ kai, kuma ba ka san Ni ba.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wani"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "banda Ni"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "Na dama kai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "ka san Ni"
+    }
+  ],
+  "timestamp": "2026-08-12T14:19:17.138820854Z",
+  "model": "glm-5.2"
+}

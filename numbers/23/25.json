@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Balak ya ce wa Bilʿam: \"Ko tsufa, kada ka tsufa shi; ko albarka, kada ka albarkace shi.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilʿam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "קב",
+      "gloss": "tsufa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "ka tsufa shi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "albarka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "ka albarkace shi"
+    }
+  ],
+  "timestamp": "2026-08-12T04:19:53.160453812Z",
+  "model": "glm-5.2"
+}

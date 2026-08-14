@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Shin, ba zai bincika wannan ba Elohim? domin shi yana sane da abubuwan ɓoyayyen zuciya?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Shin, ba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "zai bincika"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yana sane da"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "abubuwan ɓoyayyen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciya"
+    }
+  ],
+  "timestamp": "2026-08-12T19:44:10.128922600Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kamar yawancin al'ummomin da Yahweh ke halaka a gabanku, haka za ku halaka, domin ba ku saurari muryar Yahweh, Elohim ku.",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "kamar yawancin al'ummomin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "ke halaka"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "a gabanku"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "za ku halaka"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "ku saurari"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ku"
+    }
+  ],
+  "timestamp": "2026-08-12T05:07:54.135722279Z",
+  "model": "glm-5.2"
+}

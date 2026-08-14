@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma Yahweh ya ce wa Moshe, \"Ka tafi wa mutãna, kuma ka tsarkake su yau da gobe, su kuma wanki tufafinsu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ka tafi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãna"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "kuma ka tsarkake su"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "da gobe"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "su kuma wanki"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "tufafinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:53:50.685566835Z",
+  "model": "glm-5.2"
+}

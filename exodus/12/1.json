@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma Yahweh ya faɗa wa-Mosheh da-wa-Aharon a cikin ƙasar Mitsrayim ⟨cewa⟩,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "da-wa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a cikin ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨cewa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T00:43:47.239336234Z",
+  "model": "glm-5.2"
+}

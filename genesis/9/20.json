@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma Noach ya fara ⟨zama⟩ mutumin ƙasa, ya kuma shuka gonar inabi.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "Kuma ya fara"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "ya kuma shuka"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "gonar inabi"
+    }
+  ],
+  "timestamp": "2026-08-11T23:25:45.915585532Z",
+  "model": "glm-5.2"
+}

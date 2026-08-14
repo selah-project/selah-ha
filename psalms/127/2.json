@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 127,
+  "translation": "∅ ne a gare ku, masu tashi asuba, masu jinkirta zama, masu cin gurasa ta wahalar ƙwarya; haka Ya ba abin kaunarsa bacci.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "∅ ne"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a gare ku"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "masu tashi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "asuba"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "masu jinkirta"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "zama"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "masu cin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "gurasa"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "ta wahalar ƙwarya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "Ya ba"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "abin kaunarsa"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "bacci"
+    }
+  ],
+  "timestamp": "2026-08-12T20:51:26.085714436Z",
+  "model": "glm-5.2"
+}

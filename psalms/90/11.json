@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 90,
+  "translation": "Wane ya san ƙarfin fushinka, kuma kamar tsorinka, haka tsanininka?",
+  "tokens": [
+    {
+      "surface": "מִֽי",
+      "gloss": "Wane"
+    },
+    {
+      "surface": "י֭וֹדֵעַ",
+      "gloss": "ya san"
+    },
+    {
+      "surface": "עֹ֣ז",
+      "gloss": "ƙarfin"
+    },
+    {
+      "surface": "אַפֶּ֑ךָ",
+      "gloss": "fushinka"
+    },
+    {
+      "surface": "וּ֝כְיִרְאָתְךָ֗",
+      "gloss": "kuma kamar tsorinka"
+    },
+    {
+      "surface": "עֶבְרָתֶֽךָ",
+      "gloss": "haka tsanininka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:19:38.934706288Z",
+  "model": "glm-5.2"
+}

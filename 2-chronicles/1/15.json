@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma sarki ya saka ⟨את⟩ azurfa da ⟨את⟩ zinari a Yerushalaim kamar duwatsu, kuma ⟨את⟩ itatu sedar ya bayar kamar itatu shikuma waɗanda ke cikin ƙasƙashi, da yawa.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kuma ya saka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azurfa"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "azurfa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "zinari"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zinari"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "a Yerushalaim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "kamar duwatsu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "itatu sedar"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "itatu sedar"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya bayar"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "kamar itatu shikuma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda ke"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "a cikin ƙasƙashi"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "da yawa"
+    }
+  ],
+  "timestamp": "2026-08-13T00:38:00.552937499Z",
+  "model": "glm-5.2"
+}

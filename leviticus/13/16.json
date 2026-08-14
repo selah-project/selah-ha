@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Ko idan jabirin mai rai ya juya ya koma, kuma ya juya ya zama fari, sai ya je wurin kohen;",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "idan"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ya juya ya koma"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "jabirin"
+    },
+    {
+      "surface": "החי",
+      "gloss": "mai rai"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "kuma ya juya"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ya zama fari"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "sai ya je"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wurin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    }
+  ],
+  "timestamp": "2026-08-12T02:09:11.639058557Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Mai tsabta ⟨a⟩ hannu, kuma mai tsafta zuciya, wanda ba ya ɗaukaka ⟨a⟩ banza ransa, kuma ba ya rantsuwa ⟨da⟩ zagi.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "mai tsabta"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "hannu"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "kuma mai tsafta"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "zuciya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ya ɗaukaka"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "a banza"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ransa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ya rantsuwa"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "da zagi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:31:04.709641810Z",
+  "model": "glm-5.2"
+}

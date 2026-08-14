@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 8:23",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Wa ya bada kan ruwa ya zama, idan'uwata maɓuɓɓar hawaye, in kuka rana da dare ⟨את⟩ waɗanda aka kashe ⟨na⟩ 'yar mutanena!",
+  "tokens": [
+    {
+      "surface": "מִֽי",
+      "gloss": "Wa"
+    },
+    {
+      "surface": "יִתֵּ֤ן",
+      "gloss": "ya bada"
+    },
+    {
+      "surface": "רֹאשִׁי֙",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מַ֔יִם",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "וְעֵינִ֖י",
+      "gloss": "idan'uwata"
+    },
+    {
+      "surface": "מְק֣וֹר",
+      "gloss": "maɓuɓɓar"
+    },
+    {
+      "surface": "דִּמְעָ֑ה",
+      "gloss": "hawaye"
+    },
+    {
+      "surface": "וְאֶבְכֶּה֙",
+      "gloss": "in kuka"
+    },
+    {
+      "surface": "יוֹמָ֣ם",
+      "gloss": "rana"
+    },
+    {
+      "surface": "וָלַ֔יְלָה",
+      "gloss": "da dare"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "waɗanda aka kashe"
+    },
+    {
+      "surface": "חַֽלְלֵ֥י",
+      "gloss": "waɗanda aka kashe"
+    },
+    {
+      "surface": "בַת",
+      "gloss": "'yar"
+    },
+    {
+      "surface": "עַמִּֽי",
+      "gloss": "mutanena"
+    }
+  ],
+  "timestamp": "2026-08-12T15:11:09.833111727Z",
+  "model": "glm-5.2"
+}

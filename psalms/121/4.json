@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 121,
+  "translation": "Ga shi, ba zai yi bargo ba, kuma ba zai yi barci ba, mai tsaron Yisra'el.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ga shi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "zai yi bargo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "zai yi barci"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "mai tsaron"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T20:47:06.620109573Z",
+  "model": "glm-5.2"
+}

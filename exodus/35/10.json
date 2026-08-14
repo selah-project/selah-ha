@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Kuma kowane mai hikimar zuciya a cikinku ya zo, kuma ya yi ⟨את⟩ dukkan abin da Yahweh ya umurta:",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Kuma kowane"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mai hikima"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciya"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "a cikinku"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ya zo"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:21:42.203559507Z",
+  "model": "glm-5.2"
+}

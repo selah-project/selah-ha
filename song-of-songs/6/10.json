@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 6:10",
+  "book": "song-of-songs",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Wane ⟨ne⟩ wannan da ke kallon kamar alfijir, mai kyau kamar wata, tsarkiya kamar rana, mai girma kamar ɗaukaka?",
+  "tokens": [
+    {
+      "surface": "מִי",
+      "gloss": "Wane"
+    },
+    {
+      "surface": "זֹ֥את",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "הַנִּשְׁקָפָ֖ה",
+      "gloss": "da ke kallon"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "שָׁ֑חַר",
+      "gloss": "alfijir"
+    },
+    {
+      "surface": "יָפָ֣ה",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "כַלְּבָנָ֗ה",
+      "gloss": "kamar wata"
+    },
+    {
+      "surface": "בָּרָה֙",
+      "gloss": "tsarkiya"
+    },
+    {
+      "surface": "כַּֽחַמָּ֔ה",
+      "gloss": "kamar rana"
+    },
+    {
+      "surface": "אֲיֻמָּ֖ה",
+      "gloss": "mai girma"
+    },
+    {
+      "surface": "כַּנִּדְגָּלֽוֹת",
+      "gloss": "kamar ɗaukaka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:33:23.168008329Z",
+  "model": "glm-5.2"
+}

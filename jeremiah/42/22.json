@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 42:22",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Saboda haka ku sani tabbas cewa da takobi, da yunwa, da annoba za ku mutu a cikin wurin da kuke so ku shiga zuwa zama a can.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Saboda haka"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ku sani"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "tabbas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "da takobi"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "da yunwa"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "da annoba"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "za ku mutu"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "a cikin wurin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "חפצתם",
+      "gloss": "kuke so"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ku shiga"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "zuwa zama a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    }
+  ],
+  "timestamp": "2026-08-12T16:21:41.816547887Z",
+  "model": "glm-5.2"
+}

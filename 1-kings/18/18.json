@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Ya ce, Ban tarƙushe ⟨את⟩ Isra'ila ba, amma kai da gidan mahaifinka ne, a cikin barinku ⟨את⟩ umarnin Yahweh, kuma tafiye bayan Ba'alim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ya ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "na tarƙushe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isra'ila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨babu⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "da gidan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "mahaifinka"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "a cikin barinku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umarnin"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "umarnin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "kuma tafiye"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Ba'alim"
+    }
+  ],
+  "timestamp": "2026-08-12T11:39:04.050329872Z",
+  "model": "glm-5.2"
+}

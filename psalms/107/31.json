@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Bari su gode wa Yahweh ⟨akan⟩ chesed ⟨sa⟩, da kuma abin al'ajabin ⟨sa⟩ ga ɗan adam.",
+  "tokens": [
+    {
+      "surface": "יוֹד֣וּ",
+      "gloss": "Bari su gode wa"
+    },
+    {
+      "surface": "לַיהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חַסְדּ֑וֹ",
+      "gloss": "chesed ⟨sa⟩"
+    },
+    {
+      "surface": "וְ֝נִפְלְאוֹתָ֗יו",
+      "gloss": "da kuma abin al'ajabin ⟨sa⟩"
+    },
+    {
+      "surface": "לִבְנֵ֥י",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אָדָֽם",
+      "gloss": "ɗan adam"
+    }
+  ],
+  "timestamp": "2026-08-12T20:34:15.801080812Z",
+  "model": "glm-5.2"
+}

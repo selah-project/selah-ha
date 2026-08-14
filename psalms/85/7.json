@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 85,
+  "translation": "Ba haka ba ne, kai za ka mayar da mu, ka rayar da mu, kuma mutanen ka za su yi murna ⟨a⟩ cikin ka?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ba haka ba ne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "za ka mayar da"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "ka rayar da mu"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "kuma mutanen ka"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "za su yi murna"
+    },
+    {
+      "surface": "בך",
+      "gloss": "cikin ka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:15:20.281106020Z",
+  "model": "glm-5.2"
+}

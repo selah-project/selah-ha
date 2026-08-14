@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "kuma Yahweh Elohim naka za ya ba ta cikin hannunka, kuma za ka doke ⟨את⟩ dukan namijin ta da baki na takobi.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "kuma za ya ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "cikin hannunka"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "kuma za ka doke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukan namijin ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "namijin ta"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "da baki na"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "takobi"
+    }
+  ],
+  "timestamp": "2026-08-13T01:55:21.592723086Z",
+  "model": "glm-5.2"
+}

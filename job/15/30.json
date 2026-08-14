@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 15:30",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Ba zai nesa daga duhu ba, motsin ⟨ko⟩ ĩyayarsa wutar walƙiya za ta bushe, ⟨kuma⟩ zai nesa da iskar bakinsa.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יָסוּר",
+      "gloss": "zai nesa"
+    },
+    {
+      "surface": "מִנִּי",
+      "gloss": "daga"
+    },
+    {
+      "surface": "חֹשֶׁךְ",
+      "gloss": "duhu"
+    },
+    {
+      "surface": "יֹנַקְתּוֹ",
+      "gloss": "motsinsa\/ĩyayarsa"
+    },
+    {
+      "surface": "תְּיַבֵּשׁ",
+      "gloss": "za ta bushe"
+    },
+    {
+      "surface": "שַׁלְהָבֶת",
+      "gloss": "wutar walƙiya"
+    },
+    {
+      "surface": "וְיָסוּר",
+      "gloss": "⟨kuma⟩ zai nesa"
+    },
+    {
+      "surface": "בְּרוּחַ",
+      "gloss": "da iskar"
+    },
+    {
+      "surface": "פִּיו",
+      "gloss": "bakinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T21:53:57.521326079Z",
+  "model": "glm-5.2"
+}

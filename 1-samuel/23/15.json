@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma Daudi ya ga cewa Sha'ul ya fita don neman ⟨את⟩ ransa. Kuma Daudi yana cikin jejin Zif a cikin daji.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ya ga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daudi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ya fita"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "don neman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ransa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ransa"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Kuma Daudi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "cikin jejin"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "a cikin daji"
+    }
+  ],
+  "timestamp": "2026-08-12T09:28:44.600489320Z",
+  "model": "glm-5.2"
+}

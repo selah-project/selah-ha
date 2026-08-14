@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 14:14",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma kuma suka duka wuraren shanun yawo, suka kwashe tumaki da yawa da rakuma, suka koma Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kuma kuma"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "wuraren"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "shanun yawo"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "suka duka"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "suka kwashe"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "tumaki"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "da rakuma"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "suka koma"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-13T02:46:20.461744720Z",
+  "model": "glm-5.2"
+}

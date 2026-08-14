@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Kuma ya yi ⟨את⟩ ɗirshen, aikin mai zane, kamar aikin ephod ɗin — zinari, shuɗi, da jajayen dara, da jan tsutsa ta jini, da linin da aka yayafa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗirshen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ɗirshen"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "mai zane"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "kamar aikin"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "ephod ɗin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinari"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "shuɗi"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "da jajayen dara"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "da tsutsar"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ta jini"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "da linin"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "da aka yayafa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:37:35.135480785Z",
+  "model": "glm-5.2"
+}

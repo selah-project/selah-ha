@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 21:18",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "⟨את⟩ ʿAnatot da ⟨את⟩ māgraśanta, da ⟨את⟩ ʿAlmon da ⟨את⟩ māgraśanta — birāne guda huɗu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ʿAnatot"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ʿAnatot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "māgraśanta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "māgraśanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ʿAlmon"
+    },
+    {
+      "surface": "עלמון",
+      "gloss": "ʿAlmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "māgraśanta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "māgraśanta"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "birāne"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "guda huɗu"
+    }
+  ],
+  "timestamp": "2026-08-12T06:59:12.802653947Z",
+  "model": "glm-5.2"
+}

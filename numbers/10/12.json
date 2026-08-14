@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 10:12",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma ˹ya faru˺, ˹ya tafi˺, ˹ya tafi˺.",
+  "tokens": [
+    {
+      "surface": "וַיִּסְע֧וּ",
+      "gloss": "Kuma ˹ya tafi˺"
+    },
+    {
+      "surface": "בְנֵֽי",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֛ל",
+      "gloss": "˹ya tafi˺"
+    },
+    {
+      "surface": "לְמַסְעֵיהֶ֖ם",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "מִמִּדְבַּ֣ר",
+      "gloss": "˹ya tafi˺"
+    },
+    {
+      "surface": "סִינָ֑י",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "וַיִּשְׁכֹּ֥ן",
+      "gloss": "˹ya faru˺"
+    },
+    {
+      "surface": "הֶעָנָ֖ן",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "בְּמִדְבַּ֥ר",
+      "gloss": "˹ya tafi˺"
+    },
+    {
+      "surface": "פָּארָֽן",
+      "gloss": "ya tafi"
+    }
+  ],
+  "timestamp": "2026-08-12T03:41:52.376727074Z",
+  "model": "glm-5.2"
+}

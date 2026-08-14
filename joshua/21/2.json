@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 21:2",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Suka yi magana da su a Shilo, a ƙasar Kena'an, ⟨suna cewa⟩, \"Yahweh ya yi umarni ta hannun Moshe ya ba mu garuruwa don muga zauna, da maidaɗɗensu ga dabbocinmu.\"",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "Suka yi magana"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "da su"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "a Shilo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨suna cewa⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya yi umarni"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ta hannun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "garuruwa"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "don muga zauna"
+    },
+    {
+      "surface": "ומגרשיהן",
+      "gloss": "da maidaɗɗensu"
+    },
+    {
+      "surface": "לבהמתנו",
+      "gloss": "ga dabbocinmu"
+    }
+  ],
+  "timestamp": "2026-08-12T07:00:39.908412041Z",
+  "model": "glm-5.2"
+}

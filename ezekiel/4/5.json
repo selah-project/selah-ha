@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 4:5",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma ni, na saka maka ⟨את⟩ shekarun laifinsu, adadin kwanaki, ɗari uku da casain ⟨ne⟩ kwana; kuma za ka ɗauki laifin ⟨nɗan⟩ bayt ʾYisraʾel.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kuma ni"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "na saka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shekarun laifinsu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shekarun"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "laifinsu"
+    },
+    {
+      "surface": "למספר",
+      "gloss": "adadin"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "uku"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "da casain"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "ונשאת",
+      "gloss": "kuma za ka ɗauki"
+    },
+    {
+      "surface": "עון",
+      "gloss": "laifin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bayt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ʾYisraʾel"
+    }
+  ],
+  "timestamp": "2026-08-12T16:51:33.820240768Z",
+  "model": "glm-5.2"
+}

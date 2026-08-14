@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Sarai ta kasance ba haihuwa; babu ⟨ga⟩ ta ɗa.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "kuma ta kasance"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "ba haihuwa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "ɗa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:31:14.821921538Z",
+  "model": "glm-5.2"
+}

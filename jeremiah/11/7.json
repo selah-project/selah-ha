@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 11:7",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Dōmin lōkācin da na ba da shāhada — lōkācin da na shaida a gare shi ga ubanninku, a rānar da na hāwā da su daga ƙasar Mitsrayim, har zuwa wannan rānā — in tāshi da sāfe in ba da shāhada, in ce: Ku saurāra muryā ta!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dōmin"
+    },
+    {
+      "surface": "העד",
+      "gloss": "na ba da shāhada"
+    },
+    {
+      "surface": "העדתי",
+      "gloss": "na shaida"
+    },
+    {
+      "surface": "באבותיכם",
+      "gloss": "a gare shi ga ubanninku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rānar"
+    },
+    {
+      "surface": "העלותי",
+      "gloss": "da na hāwā da su"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ su",
+      "marks": "su (ubanninku)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rānā"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "in tāshi da sāfe"
+    },
+    {
+      "surface": "והעד",
+      "gloss": "in ba da shāhada"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "in ce"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Ku saurāra"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "muryā ta"
+    }
+  ],
+  "timestamp": "2026-08-12T15:17:54.308387943Z",
+  "model": "glm-5.2"
+}

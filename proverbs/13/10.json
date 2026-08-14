@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kawai ta girman kai ana samun rigima, amma ⟨tare da⟩ masu yin shawara ⟨akwai⟩ hikima.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Kawai"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "ta girman kai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ana samun"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "rigima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "masu yin shawara"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "masu yin shawara"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikima"
+    }
+  ],
+  "timestamp": "2026-08-12T21:14:17.272035375Z",
+  "model": "glm-5.2"
+}

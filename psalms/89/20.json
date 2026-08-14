@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 89:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Sa'an nan ka yi magana a cikin hangen nesa ga masu jin alherinka, kuka ce: Na sanya taimako a wajen jagjaga, na ɗauki wanda aka zaɓa daga cikin mutane.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "sa'an nan"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ka yi magana"
+    },
+    {
+      "surface": "בחזון",
+      "gloss": "a cikin hangen nesa"
+    },
+    {
+      "surface": "לחסידיך",
+      "gloss": "ga masu jin alherinka"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "kuka ce"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "na sanya"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "taimako"
+    },
+    {
+      "surface": "על",
+      "gloss": "a wajen"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "jagjaga"
+    },
+    {
+      "surface": "הרימותי",
+      "gloss": "na ɗauka"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "wanda aka zaɓa"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "daga cikin mutane"
+    }
+  ],
+  "timestamp": "2026-08-12T20:16:47.157803440Z",
+  "model": "glm-5.2"
+}

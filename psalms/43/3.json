@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Ka aiko da haskenka da gaskiyarka, su ne su nuna min hanya, su kai ni zuwa dutse mai tsarki, da zuwa mazaunanka.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Ka aiko da"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "haskenka"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "da gaskiyarka"
+    },
+    {
+      "surface": "המה",
+      "gloss": "su ne"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "su nuna min hanya"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "su kai ni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dutse"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "mai tsarki"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "da zuwa"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "mazaunanka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:24:59.761840488Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ya sa masa ⟨את⟩ ƙirjinta, kuma ya saka cikin ƙirjinta ⟨את⟩ Urim da ⟨את⟩ Tummim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Kuma ya sa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙirjinta"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ƙirjinta"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kuma ya saka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ƙirjinta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tummim"
+    }
+  ],
+  "timestamp": "2026-08-12T02:01:09.853566724Z",
+  "model": "glm-5.2"
+}

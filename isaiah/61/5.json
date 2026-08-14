@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 61,
+  "translation": "Kuma waɗansu ⟨za su⟩ tsaya, baƙi, kuma ⟨za su⟩ ki shanunku, kuma ƴaƴan waje ⟨za su kasance⟩ manomanku da masu gonakin inabin ku.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "kuma za su tsaya"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "baƙi"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "kuma za su ki"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "shanunku"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "kuma ƴaƴan"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "waje"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "manomanku"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "kuma masu gonakin inabin ku"
+    }
+  ],
+  "timestamp": "2026-08-12T14:42:49.842171435Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Shin za ka yi musu ⟨את⟩ shari'a? Shin za ka yi shari'a, ya ɗan adam? Sanar da su ⟨את⟩ abubuwan ƙyama na ubanninsu.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Shin za ka yi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "shari'a"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "Shin za ka yi shari'a"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ya ɗan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abubuwan ƙyama"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "abubuwan ƙyama"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "na ubanninsu"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "Sanar da su"
+    }
+  ],
+  "timestamp": "2026-08-12T17:19:36.638042940Z",
+  "model": "glm-5.2"
+}

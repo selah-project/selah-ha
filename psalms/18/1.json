@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Ga shugaban mawaka, ga bawan Yahweh, ga David, wanda ya faɗa wa Yahweh ⟨את⟩ kalmomin waƙar wannan, a ranar da Yahweh ya tsare ⟨את⟩ shi daga hannun dukkan maƙiyansa, kuma daga hannun Shaul.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga shugaban mawaka"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ga bawan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ga David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalmomin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "waƙar"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a ranar"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "da ya tsare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ shi"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "maƙiyansa"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "kuma daga hannun"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-08-12T19:22:54.294142486Z",
+  "model": "glm-5.2"
+}

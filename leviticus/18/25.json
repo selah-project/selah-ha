@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma ƙasa ta gurɓata, kuma Na ziyarta cin mutuncin ⟨a⟩ kanta, kuma ƙasa ta fitar ⟨את⟩ mazaunanta.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "kuma ta gurɓata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "kuma Na ziyarta"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "cin mutuncinta"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨a⟩ kanta"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "kuma ta fitar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazaunanta"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "mazaunanta"
+    }
+  ],
+  "timestamp": "2026-08-12T02:26:16.447495890Z",
+  "model": "glm-5.2"
+}

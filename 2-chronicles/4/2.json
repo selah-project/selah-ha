@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 4:2",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma ya yi ⟨את⟩ tafkin da aka gusa, daga gefensa zuwa gefensa cubit goma, zagaye a kewaye, tsayinsa kuma cubit biyar, igiya kuma ta cubit talatin tana kewaye ⟨את⟩ ⟨da⟩ shi a kewaye.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tafkin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "tafkin"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "da aka gusa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "goma"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "daga gefensa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "gefensa"
+    },
+    {
+      "surface": "עגול",
+      "gloss": "zagaye"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewaye"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "kuma biyar"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "tsayinsa"
+    },
+    {
+      "surface": "וקו",
+      "gloss": "igiya kuma"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "talatin"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "tana kewaye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨da⟩ shi",
+      "marks": "shi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewaye"
+    }
+  ],
+  "timestamp": "2026-08-13T02:42:31.527454469Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "A kan wuyanmu ana bin mu, mun gaji, ba a ba mu hutu ba.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "wuyanmu"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "ana bin mu"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "mun gaji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "a ba hutu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-08-12T22:38:52.230506655Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma sarkin Ashur ya saurare shi, sai sarkin Ashur ya haura zuwa Dameshek, kuma ya kama ta, kuma ya gudanar da ita ⟨zuwa⟩ Qirah, kuma ⟨את⟩ Retsin ya kashe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ya saurare"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ya haura"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dameshek"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "ya kama ta"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "ya gudanar da ita"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "Qirah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Retsin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "ya kashe"
+    }
+  ],
+  "timestamp": "2026-08-12T12:29:57.100498488Z",
+  "model": "glm-5.2"
+}

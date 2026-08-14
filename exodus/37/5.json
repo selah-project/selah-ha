@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma ya shigar da ⟨את⟩ sandunan a cikin zobe a gefen akwatin, don ɗaukar ⟨את⟩ akwatin.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Kuma ya shigar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandunan"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "sandunan"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "a cikin zoben"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "gefen"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "don ɗaukar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "akwatin"
+    }
+  ],
+  "timestamp": "2026-08-12T01:31:14.840449449Z",
+  "model": "glm-5.2"
+}

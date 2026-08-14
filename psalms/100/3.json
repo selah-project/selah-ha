@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 100,
+  "translation": "Ku sani cewa Yahweh, shi ⟨ne⟩ Elohim; shi ya yi mu, kuma ba mu ⟨kai⟩ ⟨muhu⟩ ⟨kanmu⟩, mutanensa ne mu, kuma tarkace kiwo nasa.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Ku sani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "ya yi mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mutanensa"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "kuma tarkace"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "kiwo nasa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:25:10.020396044Z",
+  "model": "glm-5.2"
+}

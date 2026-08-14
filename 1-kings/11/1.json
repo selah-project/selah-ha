@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma sarki Shelomah ya ƙaunaci mata ajnabi da yawa, da ⟨את⟩ 'yar Paroho — Moabiyoyi, ʿAmoniyoyi, ʾEdomiyoyi, Tsidoniyoyi, Ḥittiyoyi.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Kuma sarki"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ya ƙaunaci"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mata"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "ajnabi"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "'yar"
+    },
+    {
+      "surface": "בת",
+      "gloss": "'yar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroho"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Moabiyoyi"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "ʿAmoniyoyi"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "ʾEdomiyoyi"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "Tsidoniyoyi"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Ḥittiyoyi"
+    }
+  ],
+  "timestamp": "2026-08-12T11:19:33.151895247Z",
+  "model": "glm-5.2"
+}

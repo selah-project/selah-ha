@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 7:15",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma ya gina ⟨את⟩ ginshiki biyu na ƙarfe; tsayin ⟨gishikin⟩ gunki ɗaya ya kai ƙafa goma sha takwas, kuma zaren ƙafa goma sha biyu yana kewaye ⟨את⟩ ⟨gishikin⟩ na biyu.",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "kuma ya gina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ginshiki biyu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ginshiki"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "na ƙarfe"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "goma sha takwas"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ƙafa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ƙafa"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "tsayin"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "gishikin"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "gunki ɗaya"
+    },
+    {
+      "surface": "וחוט",
+      "gloss": "kuma zaren"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "goma sha biyu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ƙafa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ƙafa"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "yana kewaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gishikin"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "gishikin"
+    },
+    {
+      "surface": "השני",
+      "gloss": "na biyu"
+    }
+  ],
+  "timestamp": "2026-08-12T11:04:49.517368890Z",
+  "model": "glm-5.2"
+}

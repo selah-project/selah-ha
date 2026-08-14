@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Sai na saye ta ⟨don⟩ kaina da goma sha biyar ⟨na⟩ azurfa, da homar ɗaya ⟨na⟩ sha'iri, da letek ɗaya ⟨na⟩ sha'iri.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "Sai na saye ta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "don kaina"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "da biyar"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "goma sha"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "azurfa"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "da homar ɗaya"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "sha'iri"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "da letek ɗaya"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "sha'iri"
+    }
+  ],
+  "timestamp": "2026-08-12T18:13:00.125256756Z",
+  "model": "glm-5.2"
+}

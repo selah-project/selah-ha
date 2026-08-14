@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 4:8",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma su bada a kansu tufafin jinin tsutsa-ja, su rufe ⟨את⟩ shi da rufin fatar takhash, kuma su sanya ⟨את⟩ sandunansa.",
+  "tokens": [
+    {
+      "surface": "ופרשו",
+      "gloss": "kuma su bada"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "a kansu"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "tufafin"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tsutsa-ja"
+    },
+    {
+      "surface": "שני",
+      "gloss": "jinin"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "su rufe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi",
+      "marks": "shi"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "da rufin"
+    },
+    {
+      "surface": "עור",
+      "gloss": "fatar"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "takhash"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "kuma su sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandunansa"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "sandunansa"
+    }
+  ],
+  "timestamp": "2026-08-12T03:15:29.241276579Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Hanyar wawaye ⟨ta kasance⟩ madaidaiciya a idanunsa, amma wanda yake saurāra shawara ⟨mutum ne⟩ mai hikima.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "wawaye"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "madaidaiciya"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "a idanunsa"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "amma wanda yake saurāra"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "shawara"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mai hikima"
+    }
+  ],
+  "timestamp": "2026-08-12T21:13:33.880865624Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Bakin⟨na⟩ zai faɗa hikima, da tunanin zuciyata fahimta.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "bakina"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "zai faɗa"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "hikima"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "da tunanin"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "fahimta"
+    }
+  ],
+  "timestamp": "2026-08-12T19:48:33.162495303Z",
+  "model": "glm-5.2"
+}

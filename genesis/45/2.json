@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Sai ya ba ⟨את⟩ muryarsa a cikin kuka, kuma Mitsrayim suka ji, kuma gidan Paroh ya ji.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "sai ya ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muryarsa"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "muryarsa"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "a cikin kuka"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "suka ji"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "kuma ya ji"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-12T00:23:08.494248371Z",
+  "model": "glm-5.2"
+}

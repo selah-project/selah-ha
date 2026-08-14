@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma mai ɗaukan kayan yakinsa ya ga cewa Sha'ul ya mutu, shima ya fāka kan takobi ya mutu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Kuma ya ga"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mai ɗaukan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kayan yakinsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ya mutu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ya fāka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "shima"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "takobi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ya mutu"
+    }
+  ],
+  "timestamp": "2026-08-13T00:10:44.407502593Z",
+  "model": "glm-5.2"
+}

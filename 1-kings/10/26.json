@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 10:26",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma Shelomoh ya tara motoci da mahayan dawakai, kuma ⟨akwai⟩ gare shi dubu da ɗari huɗu motoci da dubu goma sha biyu mahayan dawakai, kuma ya ajiye su a cikin biranen motoci da kuma tare da sarki a Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "kuma ya tara"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "motoci"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "da mahayan dawakai"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gare shi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "da ɗari huɗu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "motoci"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "da goma sha biyu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "goma"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "mahayan dawakai"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "kuma ya ajiye su"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "a cikin biranen"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "motoci"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "da kuma tare da"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "a Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-12T11:13:15.413634315Z",
+  "model": "glm-5.2"
+}

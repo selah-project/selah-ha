@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Naka ⟨ne⟩ hannun ƙarfi tare da ƙarfin so, hannunka yana da ƙarfi, damanka za a ɗaukaka.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Naka"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "hannun ƙarfi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "ƙarfin so"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "yana da ƙarfi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hannunka"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "za a ɗaukaka"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "damanka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:16:02.576048183Z",
+  "model": "glm-5.2"
+}

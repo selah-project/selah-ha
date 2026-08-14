@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 9:1",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma ⟨ya faru⟩ a lokacin da duk sarakunan da suke a ƙetaren Yarden, a cikin tsaunuka da cikin ƙasasan ƙasƙanci, da kuma dukan gabar teku babba, a faɗin Lebanon — Ḥitti, kuma Emori, Kena'ani, Perizzi, Ḥiwwi, kuma Yevusi — suka ji ⟨abin da aka faɗa⟩,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ⟨ya faru⟩"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "a lokacin da ... suka ji"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "sarakinan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da suke a"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ƙetaren"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a cikin tsaunuka"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "da cikin ƙasasan ƙasƙanci"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "da kuma dukan"
+    },
+    {
+      "surface": "חוף",
+      "gloss": "gabar"
+    },
+    {
+      "surface": "הים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "babba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "מול",
+      "gloss": "faɗin"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebanon"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Ḥitti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "kuma Emori"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kena'ani"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizzi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Ḥiwwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "kuma Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-12T06:28:52.592700128Z",
+  "model": "glm-5.2"
+}

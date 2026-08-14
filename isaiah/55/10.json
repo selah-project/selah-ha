@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 55,
+  "translation": "Dõmin kamar yadda ruwan sama da kankara suke sauka daga samã, kuma bã zã su kõma can ba, face sun shãyar ⟨את⟩ ƙasa, suka haihu ta, suka tsire ta, suka bãki iri ga mai shuka, da abinci ga mai ci;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "suke sauka"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ruwan sama"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "da kankara"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samã"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "kuma can"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bã zã"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "suke kõma"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "face"
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "sun shãyar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "suka haihu ta"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "suka tsire ta"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "suka bã"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "iri"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "ga mai shuka"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "da abinci"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ga mai ci"
+    }
+  ],
+  "timestamp": "2026-08-13T02:10:57.991390356Z",
+  "model": "glm-5.2"
+}

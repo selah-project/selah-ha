@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 10:2",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Ka yi wa kanka ƙahoni biyu na azurfa; aiki na dika ka yi su ⟨את⟩ su, kuma sun kasance a gare ka don kiran taron, da kuma tafiyar da ⟨את⟩ sansanin.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ka yi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wa kanka"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "חצוצרת",
+      "gloss": "ƙahoni"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "na azurfa"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "aiki na dika"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ka yi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ su",
+      "marks": "su"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kuma sun kasance"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a gare ka"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "don kiran"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "taron"
+    },
+    {
+      "surface": "ולמסע",
+      "gloss": "da kuma tafiyar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sansanin"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "sansanin"
+    }
+  ],
+  "timestamp": "2026-08-12T03:42:34.156140500Z",
+  "model": "glm-5.2"
+}

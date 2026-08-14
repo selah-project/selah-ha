@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 4:18",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma an haifa wa Chanok ⟨את⟩ Irad; kuma Irad ya haifa ⟨את⟩ Mechujael; kuma Mechujael ya haifa ⟨את⟩ Metushael; kuma Metushael ya haifa ⟨את⟩ Lemek.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "kuma an haifa"
+    },
+    {
+      "surface": "לחנוך",
+      "gloss": "wa Chanok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Irad"
+    },
+    {
+      "surface": "עירד",
+      "gloss": "Irad"
+    },
+    {
+      "surface": "ועירד",
+      "gloss": "kuma Irad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mechujael"
+    },
+    {
+      "surface": "מחויאל",
+      "gloss": "Mechujael"
+    },
+    {
+      "surface": "ומחייאל",
+      "gloss": "kuma Mechujael"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metushael"
+    },
+    {
+      "surface": "מתושאל",
+      "gloss": "Metushael"
+    },
+    {
+      "surface": "ומתושאל",
+      "gloss": "kuma Metushael"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemek"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemek"
+    }
+  ],
+  "timestamp": "2026-08-11T23:21:49.904901265Z",
+  "model": "glm-5.2"
+}

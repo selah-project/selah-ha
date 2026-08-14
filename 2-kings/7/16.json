@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Al'ummar suka fito, suka yi fashi ⟨את⟩ sansanin Aram; sai suka zama, sa'a ɗaya ta gyarar gari a shekel, da sa'o'i biyu na bābba a shekel, kamar kalmar Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "suka fito"
+    },
+    {
+      "surface": "העם",
+      "gloss": "al'ummar"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "suka yi fashi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sansanin Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "sansanin"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "sai suka zama"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "sa'a ɗaya"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ta gyarar gari"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "a shekel"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "da sa'o'i biyu"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "na bābba"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "a shekel"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kamar kalmar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T12:10:38.247328827Z",
+  "model": "glm-5.2"
+}

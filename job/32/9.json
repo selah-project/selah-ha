@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 32:9",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Ba da yawa ⟨ne⟩ suke hikima, kuma dattijai ⟨ne⟩ suke fahimtar shari'a.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "יחכמו",
+      "gloss": "suke hikima"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "kuma dattijai"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "suke fahimtar"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "shari'a"
+    }
+  ],
+  "timestamp": "2026-08-12T22:07:37.236487757Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma ɗiyán Isra'ila sun bai wa ƙabilar Lewi ⟨את⟩ waɗannan garuruwa da ⟨את⟩ makiyayansu, kamar yadda Yahweh ya umarta da hannun Mosheh, ta kuri'a.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "kuma sun ba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyán"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "bai wa ƙabilar Lewi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waɗannan garuruwa"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "garuruwa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "makiyayansu"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "makiyayansu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umarta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "da hannun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "ta kuri'a"
+    }
+  ],
+  "timestamp": "2026-08-12T06:59:52.459199753Z",
+  "model": "glm-5.2"
+}

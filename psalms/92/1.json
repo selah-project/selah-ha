@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 92,
+  "translation": "Maɗauƙin sauti, waƙa, don ranar Asabar.",
+  "tokens": [
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "maɗauƙin-sauti"
+    },
+    {
+      "surface": "שִׁיר",
+      "gloss": "waƙa"
+    },
+    {
+      "surface": "לְיוֹם",
+      "gloss": "don rana"
+    },
+    {
+      "surface": "הַשַּׁבָּת",
+      "gloss": "Asabar"
+    }
+  ],
+  "timestamp": "2026-08-12T20:22:23.261448942Z",
+  "model": "glm-5.2"
+}

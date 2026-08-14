@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma kun amsa ni ⟨את⟩, kuka ce: \"Abin da kuka faɗa ⟨ne⟩ mai kyau a yi.\"",
+  "tokens": [
+    {
+      "surface": "וַֽתַּעֲנ֖וּ",
+      "gloss": "kuma kun amsa"
+    },
+    {
+      "surface": "אֹתִ֑י",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "וַתֹּ֣אמְר֔וּ",
+      "gloss": "kuka ce"
+    },
+    {
+      "surface": "טֽוֹב",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "הַדָּבָ֥ר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "דִּבַּ֖רְתָּ",
+      "gloss": "ka faɗa"
+    },
+    {
+      "surface": "לַעֲשֽׂוֹת",
+      "gloss": "a yi"
+    }
+  ],
+  "timestamp": "2026-08-12T04:55:25.271327142Z",
+  "model": "glm-5.2"
+}

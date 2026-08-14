@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Daga baya, ƴaƴan Isira'ila za su koma, kuma za su nemi ⟨את⟩ Yahweh, Elohim nasu, da ⟨את⟩ Dawuda, sarkinsu, kuma za su firgita zuwa Yahweh da zuwa ga kyawansa, a ƙarshen kwanakin.",
+  "tokens": [
+    {
+      "surface": "אַחַ֗ר",
+      "gloss": "Daga baya"
+    },
+    {
+      "surface": "יָשֻׁ֨בוּ֙",
+      "gloss": "za su koma"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "ƴaƴan"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "Isira'ila"
+    },
+    {
+      "surface": "וּבִקְשׁוּ֙",
+      "gloss": "kuma za su nemi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵיהֶ֔ם",
+      "gloss": "Elohim nasu"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Dawuda"
+    },
+    {
+      "surface": "דָּוִ֣ד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "מַלְכָּ֑ם",
+      "gloss": "sarkinsu"
+    },
+    {
+      "surface": "וּפָחֲד֧וּ",
+      "gloss": "kuma za su firgita"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "da zuwa ga"
+    },
+    {
+      "surface": "טוּב֖וֹ",
+      "gloss": "kyawansa"
+    },
+    {
+      "surface": "בְּאַחֲרִ֥ית",
+      "gloss": "a ƙarshen"
+    },
+    {
+      "surface": "הַיָּמִֽים",
+      "gloss": "kwanakan"
+    }
+  ],
+  "timestamp": "2026-08-12T18:07:47.501833034Z",
+  "model": "glm-5.2"
+}

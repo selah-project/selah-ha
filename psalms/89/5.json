@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Har zuwa har abada ni ⟨z⟩ kafa zuriyar ka, kuma ni ⟨z⟩ gina kujerar ka zuwa ƙarni da ƙarni. Sela.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "ni ⟨z⟩ kafa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zuriyar ka"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "kuma ni ⟨z⟩ gina"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "zuwa ƙarni"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "da ƙarni"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "kujerar ka"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-12T20:16:19.039227142Z",
+  "model": "glm-5.2"
+}

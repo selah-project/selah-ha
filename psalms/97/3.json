@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 97,
+  "translation": "Wuta tana tafiya gaban sa, kuma tana ƙone maƙiyansa a kewaye.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Wuta"
+    },
+    {
+      "surface": "ל פניו",
+      "gloss": "gaban sa"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "tana tafiya"
+    },
+    {
+      "surface": "ו תלהט",
+      "gloss": "kuma tana ƙone"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewaye"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "maƙiyansa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:23:41.196104775Z",
+  "model": "glm-5.2"
+}

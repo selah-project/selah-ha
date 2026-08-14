@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Sai Elohim ya shirya tsutsa a tashin waye, washegari, ta buge ⟨את⟩ qiqayon, sai ya bushe.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "Sai ya shirya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tsutsa"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "a tashin"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "waye"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "washegari"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "ta buge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qiqayon"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "qiqayon"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "sai ya bushe"
+    }
+  ],
+  "timestamp": "2026-08-13T02:21:23.404152709Z",
+  "model": "glm-5.2"
+}

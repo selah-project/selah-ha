@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma a lokacin da suka shigo Shomeron, Elisha ya ce: \"Yahweh, buɗe idanun waɗannan mutanen don su ga.\" Yahweh ya buɗe ⟨את⟩ idanunsu, suka kuma duba, sai gani — suna cikin Shomeron!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma a lokacin da"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "suka shigo"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "buɗe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idanun waɗannan mutanen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "idanun"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "su ga"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "ya buɗe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idanunsu"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "idanunsu"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "suka kuma duba"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sai gani"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-12T12:07:27.836782501Z",
+  "model": "glm-5.2"
+}

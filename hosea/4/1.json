@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 4:1",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Ku ji ⟨את⟩ maganar Yahweh, ya 'ya'yan Yisra'el, domin Yahweh yana da ⟨את⟩ shari'a ⟨da⟩ mazaunan ƙasar, domin babu gaskiya, kuma babu chesed, kuma babu sanin Elohim a ƙasar.",
+  "tokens": [
+    {
+      "surface": "שִׁמְע֥וּ",
+      "gloss": "ku ji"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "maganar"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "ya 'ya'yan"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "רִ֤יב",
+      "gloss": "shari'a"
+    },
+    {
+      "surface": "לַֽיהוָה֙",
+      "gloss": "Yahweh yana da"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "יוֹשְׁבֵ֣י",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "הָאָ֔רֶץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "כִּ֠י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "אֱמֶ֧ת",
+      "gloss": "gaskiya"
+    },
+    {
+      "surface": "וְֽאֵין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "חֶ֛סֶד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "וְאֵֽין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "דַּ֥עַת",
+      "gloss": "sanin"
+    },
+    {
+      "surface": "אֱלֹהִ֖ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בָּאָֽרֶץ",
+      "gloss": "a ƙasar"
+    }
+  ],
+  "timestamp": "2026-08-12T18:13:30.619967748Z",
+  "model": "glm-5.2"
+}

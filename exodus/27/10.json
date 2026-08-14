@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma gatangansa ashirin, da ƙafafunsu ashirin ⟨na⟩ tagulla, da ƙugayen gatangan da zobensu azurfa.",
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "Kuma gatangansa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "da ƙafafunsu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "na tagulla"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "da ƙugayen"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "na gatangan"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "da zobensu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "azurfa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:05:51.599045986Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 57,
+  "translation": "Ga shugaban mawaka. Kada ka halaka. Na David. Miktam. A gudu sa daga gaban Shaul ⟨a cikin⟩ kogo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga shugaban mawaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ka halaka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Na David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "A gudu sa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "⟨a cikin⟩ kogo"
+    }
+  ],
+  "timestamp": "2026-08-12T19:53:04.872352196Z",
+  "model": "glm-5.2"
+}

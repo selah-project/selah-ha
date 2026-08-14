@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 4:19",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma Shelomo ya yi ⟨את⟩ dukkan kayan aikin da ⟨suke⟩ a cikin gidan Elohim, da ⟨את⟩ bagaren zinari, da ⟨את⟩ teburan, da abin da yake a kansu — gurasar gaban fuska.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan kayan aikin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "kayan aikin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a cikin gidan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "bagaren zinari"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bagaren"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zinari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "teburan"
+    },
+    {
+      "surface": "השלחנות",
+      "gloss": "teburan"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "da abin da yake a kansu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "gurasar"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "gaban fuska"
+    }
+  ],
+  "timestamp": "2026-08-13T02:40:43.835910074Z",
+  "model": "glm-5.2"
+}

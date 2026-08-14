@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Ɗana, kiyaye umarnin ubanka, kada ki bar koyarwar uwarka.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "kiyaye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ɗana"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "umarnin"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ubanka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kada ki bar"
+    },
+    {
+      "surface": "תטש",
+      "gloss": ""
+    },
+    {
+      "surface": "תורת",
+      "gloss": "koyarwar"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "uwarka"
+    }
+  ],
+  "timestamp": "2026-08-12T21:06:17.296140180Z",
+  "model": "glm-5.2"
+}

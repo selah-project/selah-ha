@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma domin ka gaya a cikin kunnuwanka ⟨ga⟩ ɗanka da ⟨ga⟩ ɗan ɗanka ⟨את⟩ abin da na yi wa Mitsrayim, da ⟨את⟩ alamomina waɗanda na sanya a cikinsu, domin ku kuna sanin cewa ni ni ne Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "Kuma domin"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "ka gaya"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "a cikin kunnuwanka"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ɗanka"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "da ɗan"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ɗanka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin da na yi wa Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "na yi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "wa Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "alamomina"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "alamomina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "na sanya"
+    },
+    {
+      "surface": "בם",
+      "gloss": "a cikinsu"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "domin kuna sanin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T00:42:01.557929086Z",
+  "model": "glm-5.2"
+}

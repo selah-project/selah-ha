@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "⟨את⟩ duk wanda ya taye ya ga, shi ne sarki a kan dukkan 'ya'yan girman kai.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duk wanda ya taye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "wanda ya taye"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ya ga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "girman kai"
+    }
+  ],
+  "timestamp": "2026-08-12T22:20:23.328742588Z",
+  "model": "glm-5.2"
+}

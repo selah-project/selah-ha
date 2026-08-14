@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma daga Hushim, ya haifa ⟨את⟩ Avituv da ⟨את⟩ Elpa'al.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "Kuma daga Hushim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avituv"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Avituv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Elpa'al"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpa'al"
+    }
+  ],
+  "timestamp": "2026-08-13T00:03:48.259218899Z",
+  "model": "glm-5.2"
+}

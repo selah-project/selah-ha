@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Kuma rana ta tashe masa, yayin da ya wuce ⟨את⟩ Penu'el, kuma shi yana jingina a gabansa.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "kuma ta tashe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rana"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "yayin da"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ya wuce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penu'el"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penu'el"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kuma shi"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "yana jingina"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "gabansa"
+    }
+  ],
+  "timestamp": "2026-08-13T01:43:59.779882898Z",
+  "model": "glm-5.2"
+}

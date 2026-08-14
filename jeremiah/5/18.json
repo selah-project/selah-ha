@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "«Kuma ko da a cikin waɗannan kwanakin» ne'um Yahweh «ba zan yi ⟨ga⟩ku halaka gabaɗaya ba.»",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Kuma ko da"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "a cikin kwanakin"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ne'um"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "zan yi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ku"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "halaka gabaɗaya"
+    }
+  ],
+  "timestamp": "2026-08-12T15:05:14.039755939Z",
+  "model": "glm-5.2"
+}

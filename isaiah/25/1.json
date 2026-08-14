@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Yahweh, Elohim na, kai ⟨ne⟩, in ɗauke ka tsayi, in gode wa sunanka, domin ka yi abin al'ajabi, shawarwari daga nesa, aminci ⟨mai⟩ tabbaci.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "in-ɗauke-ka-tsayi"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "in-gode"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunanka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ka-ai"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "abin-al'ajabi"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "shawarwari"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "daga-nesa"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "aminci"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "⟨mai⟩-tabbaci"
+    }
+  ],
+  "timestamp": "2026-08-12T13:35:06.522858993Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 109,
+  "translation": "Ina tafiya kamar inuwa tana karkata, an tsina ni kamar iyakar kurajia.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "kamar inuwa"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "tana karkata"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "Ina tafiya"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "an tsina ni"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "kamar iyakar kurajia"
+    }
+  ],
+  "timestamp": "2026-08-12T20:35:06.768872797Z",
+  "model": "glm-5.2"
+}

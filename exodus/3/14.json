@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 3:14",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma Elohim ya ce wa Mosheh, \"Ehyeh ⟨ne⟩ wanda Ehyeh.\" Kuma ya ce, \"Haka za ka ce wa 'ya'yan Yisra'el: 'Ehyeh ⟨ne⟩ ya aiko ni a gare ku.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ehyeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ehyeh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Haka"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "za ka ce"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wa 'ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ehyeh"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ya aiko ni"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "a gare ku"
+    }
+  ],
+  "timestamp": "2026-08-12T00:34:59.504258781Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 14:10",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma a rana ta takwas ya ɗauki tumaki biyu masu lafiya, da kanwar tumaki ɗaya 'yar shekara guda mai lafiya, da gomaɓangarori uku na garin manna a matsayin hadaya, an gauraye shi da man shinkafa, da log ɗaya man shinkafa.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "kuma a rana"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ta takwas"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ya ɗauki"
+    },
+    {
+      "surface": "שני",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "tumaki"
+    },
+    {
+      "surface": "תמימים",
+      "gloss": "masu lafiya"
+    },
+    {
+      "surface": "וכבשה",
+      "gloss": "da kanwar tumaki"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "'yar"
+    },
+    {
+      "surface": "שנתה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "mai lafiya"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "da uku"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "gomaɓangarori"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "garin manna"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "a matsayin hadaya"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "an gauraye shi"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "da man shinkafa"
+    },
+    {
+      "surface": "ולג",
+      "gloss": "da log"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "man shinkafa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:12:53.215297341Z",
+  "model": "glm-5.2"
+}

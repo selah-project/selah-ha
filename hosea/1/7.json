@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Amma ⟨את⟩ gidan Yehudah zan yi musu jinĩai, kuma zan tsare su ta Yahweh, Elohim nasu, kuma ba zan tsare su ba da baka ko da takobi ko da yãƙi, da dawakai ko da mahayan dawakai.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gidan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Amma gidan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "zan yi musu jinĩai"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "kuma zan tsare su"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ta Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim nasu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba zan"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "tsare su ba"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "da baka"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "ko da takobi"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "ko da yãƙi"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "da dawakai"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "ko da mahayan dawakai"
+    }
+  ],
+  "timestamp": "2026-08-12T18:12:33.222167772Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 123,
+  "translation": "Ran mãgana ta cika ⟨ce⟩ a cikin rāyantarmu, wāsan masu jin dāɗin sūtu, da wulāntaŋar masu girman kāi.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "ta cika"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "Ran mãgana"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a cikin"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "rāyantarmu"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "wāsan"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "masu jin dāɗin sūtu"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "da wulāntaŋar"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "masu girman kāi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:51:13.333990837Z",
+  "model": "glm-5.2"
+}

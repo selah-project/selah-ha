@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 114,
+  "translation": "Me ya faru maka, yã teku, cewa kana gudu? Yã Yarden, kana juyawa baya?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "me"
+    },
+    {
+      "surface": "לך",
+      "gloss": "laka"
+    },
+    {
+      "surface": "הים",
+      "gloss": "yã teku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "kana gudu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yã Yarden"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "kana juyawa"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "baya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:37:25.943424708Z",
+  "model": "glm-5.2"
+}

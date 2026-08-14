@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Kwanaki shida za ka yi aiki, amma a rana ta bakwai za ka hutu — a lokacin noma da kuma a lokacin girbi za ka hutu.",
+  "tokens": [
+    {
+      "surface": "שֵׁ֤שֶׁת",
+      "gloss": "shida"
+    },
+    {
+      "surface": "יָמִים֙",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "תַּעֲבֹ֔ד",
+      "gloss": "za ka yi aiki"
+    },
+    {
+      "surface": "וּבַיּ֥וֹם",
+      "gloss": "amma a rana"
+    },
+    {
+      "surface": "הַשְּׁבִיעִ֖י",
+      "gloss": "ta bakwai"
+    },
+    {
+      "surface": "תִּשְׁבֹּ֑ת",
+      "gloss": "za ka hutu"
+    },
+    {
+      "surface": "בֶּחָרִ֥ישׁ",
+      "gloss": "a lokacin noma"
+    },
+    {
+      "surface": "וּבַקָּצִ֖יר",
+      "gloss": "da kuma a lokacin girbi"
+    },
+    {
+      "surface": "תִּשְׁבֹּֽת",
+      "gloss": "za ka hutu"
+    }
+  ],
+  "timestamp": "2026-08-12T01:24:30.258489776Z",
+  "model": "glm-5.2"
+}

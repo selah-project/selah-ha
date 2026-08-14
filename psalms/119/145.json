@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 145,
+  "ref": "psalms 119:145",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Na kira da dukkan zuciya; ka amsa ni, Yahweh; ⟨kuma⟩ dokokinka ni zan kiyaye.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "Na kira"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciya"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ka amsa ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dokokinka"
+    },
+    {
+      "surface": "אצרה",
+      "gloss": "ni zan kiyaye"
+    }
+  ],
+  "timestamp": "2026-08-12T20:43:21.627975512Z",
+  "model": "glm-5.2"
+}

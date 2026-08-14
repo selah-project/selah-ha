@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Sarki ya amsa wa ⟨את⟩ mutãnen da tsanani, kuma ya bar ⟨את⟩ shawarar dattijõin da suka bã shi.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ya amsa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutãnen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "da tsanani"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "kuma ya bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shawarar"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "shawarar"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "dattijõin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "suka bã shi"
+    }
+  ],
+  "timestamp": "2026-08-12T11:22:39.241146807Z",
+  "model": "glm-5.2"
+}

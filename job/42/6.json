@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Saboda haka ⟨ina⟩ wari ⟨ni⟩, kuma na tuba ⟨a kan⟩ ƙura da toka.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "⟨ina⟩ wari"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "kuma na tuba"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨a kan⟩"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ƙura"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "da toka"
+    }
+  ],
+  "timestamp": "2026-08-12T22:24:45.351669674Z",
+  "model": "glm-5.2"
+}

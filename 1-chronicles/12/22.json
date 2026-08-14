@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 12:22",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma ⟨su⟩ sun taimaka wa Dawida a kan ɓangaren mahara, domin ⟨su⟩ duka magabanta jarumta ne, kuma sun zama sarakuna a cikin soja.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "kuma ⟨su⟩"
+    },
+    {
+      "surface": "עזרו",
+      "gloss": "sun taimaka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "ɓangaren mahara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "magabatan"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "jarumta"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "⟨su⟩ duka"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "kuma sun zama"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "sarakuna"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "a cikin soja"
+    }
+  ],
+  "timestamp": "2026-08-13T00:12:28.083361557Z",
+  "model": "glm-5.2"
+}

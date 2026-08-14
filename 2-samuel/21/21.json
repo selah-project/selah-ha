@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma ya zagi ⟨את⟩ Yisra'el, sai Yehonatanan ɗan Shimʿi ɗan'uwan Dawida ya buge shi.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "Kuma ya zagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "sai ya buge shi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimʿi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ɗan'uwan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    }
+  ],
+  "timestamp": "2026-08-12T10:31:28.644819694Z",
+  "model": "glm-5.2"
+}

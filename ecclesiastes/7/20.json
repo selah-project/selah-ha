@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Domin babu ɗan adam mai adalci a ƙasa, wanda yake aikata kyauta kuma ba ya yi zunubi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ɗan adam"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mai adalci"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yake aikata"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kyauta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba ya"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "yi zunubi"
+    }
+  ],
+  "timestamp": "2026-08-12T22:47:45.262313937Z",
+  "model": "glm-5.2"
+}

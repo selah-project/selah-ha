@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 5:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Mene za a yi ƙari ga gonar inabina, wanda ban yi a cikinsa? Don me na yi tsammani zai fitar inabi, amma ya fitar da gugaɓɓen inabi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mene"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "za a yi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ƙari"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "ga gonar inabina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanda ban"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "yi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a cikinsa"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "don me"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "na yi tsammani"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "zai fitar"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "inabi"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "amma ya fitar da"
+    },
+    {
+      "surface": "באשים",
+      "gloss": "gugaɓɓen inabi"
+    }
+  ],
+  "timestamp": "2026-08-12T13:08:45.302455713Z",
+  "model": "glm-5.2"
+}

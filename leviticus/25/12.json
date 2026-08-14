@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Domin Yubel ⟨ne⟩ ce, tsarki za ta kasance a gare ku; daga cikin gona za ku ci ⟨את⟩ amfanin sa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Yubel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ce⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsarki"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "za ta kasance"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a gare ku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga cikin"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "gona"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "za ku ci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amfanin sa"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "amfanin sa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:56:28.703960399Z",
+  "model": "glm-5.2"
+}

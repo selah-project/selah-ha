@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 2:46",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Sai sarkin ya yi wa ⟨את⟩ Benayahu ɗan Yehoyada umarni, sai ya fita, ya faɗa a kansa, ya kuma mutu. Kuma mulkin ya tabbata a hannun Shelomo.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Sai...ya yi wa...umarni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benayahu"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "sai ya fita"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "ya faɗa a kansa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ya kuma mutu"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "Kuma mulkin"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "ya tabbata"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "a hannun"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-08-14T00:20:45.286890781Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Sai yaron, wato yaron annabin, ya tafi Ramot-Gilad.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Sai ya tafi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "yaron"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "wato yaron"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabin"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "-Gilad"
+    }
+  ],
+  "timestamp": "2026-08-12T12:08:43.987425742Z",
+  "model": "glm-5.2"
+}

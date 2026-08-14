@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 140,
+  "translation": "Waɗanda suka shirya miyagun ayyuka a cikin zuciya; kullum suna shirya yaƙe-yaƙe.",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "Waɗanda"
+    },
+    {
+      "surface": "חָשְׁבוּ",
+      "gloss": "suka shirya"
+    },
+    {
+      "surface": "רָעוֹת",
+      "gloss": "miyagun ayyuka"
+    },
+    {
+      "surface": "בְּלֵב",
+      "gloss": "a cikin zuciya"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "kullum"
+    },
+    {
+      "surface": "יוֹם",
+      "gloss": "⟨kullum⟩"
+    },
+    {
+      "surface": "יָגוּרוּ",
+      "gloss": "suna shirya"
+    },
+    {
+      "surface": "מִלְחָמוֹת",
+      "gloss": "yaƙe-yaƙe"
+    }
+  ],
+  "timestamp": "2026-08-13T02:28:12.933767705Z",
+  "model": "glm-5.2"
+}

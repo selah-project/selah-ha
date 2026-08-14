@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 39:32",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Kuma aka kammala dukkan aikin Mazaɓin Tabin Taro, ʼyaʼyan Israʼila suka yi kamar yadda Yahweh ya umurci ⟨את⟩ Moshe, haka suka yi.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "aka kammala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mazaɓin"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tabin"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Taro"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ʼyaʼyan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israʼila"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yadda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "suka yi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:41:31.191287941Z",
+  "model": "glm-5.2"
+}

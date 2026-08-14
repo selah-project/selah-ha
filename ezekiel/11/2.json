@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 11:2",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Sai ya ce gare ni: Yã ɗan adam, waɗannan ⟨su ne⟩ mutanen da ke tunanin laifi, waɗanda ke ba da shawarar mugunta a cikin wannan birnin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sai ya ce"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Yã ɗan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "החשבים",
+      "gloss": "da ke tunanin"
+    },
+    {
+      "surface": "און",
+      "gloss": "laifi"
+    },
+    {
+      "surface": "והיעצים",
+      "gloss": "waɗanda ke ba da shawarar"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "shawarar"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mugunta"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a cikin birnin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-12T17:03:09.532835565Z",
+  "model": "glm-5.2"
+}

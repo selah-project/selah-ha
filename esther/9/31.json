@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "esther 9:31",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "domin tabbatarwa ⟨את⟩ waɗannan kwanakin Purim a lokacinsu, kamar yadda Mardokai ⟨Bahude⟩ da Ester ⟨sarauniya⟩ suka ɗora musu, da kamar yadda suka ɗauka a kan rayukansu da a kan zuriyarsu — kalmomin azumi da kukan su.",
+  "tokens": [
+    {
+      "surface": "לקים",
+      "gloss": "domin tabbatarwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waɗannan kwanakin Purim"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "הפורים",
+      "gloss": "Purim"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "בזמניהם",
+      "gloss": "a lokacinsu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "קים",
+      "gloss": "suka ɗora"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mardokai"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "⟨Bahude⟩"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "da Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "⟨sarauniya⟩"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "da kamar yadda"
+    },
+    {
+      "surface": "קימו",
+      "gloss": "suka ɗauka"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "rayukansu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da a kan"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "zuriyarsu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "הצמות",
+      "gloss": "azumi"
+    },
+    {
+      "surface": "וזעקתם",
+      "gloss": "da kukan su"
+    }
+  ],
+  "timestamp": "2026-08-12T23:00:21.600280495Z",
+  "model": "glm-5.2"
+}

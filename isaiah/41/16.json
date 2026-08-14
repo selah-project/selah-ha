@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Za ka busha su, kuma iska za ta ɗauke su, kuma guguwa za ta watsar ⟨את⟩ su, kuma kai za ka yi murna a Yahweh, a Tsarkin Isra'el za ka yabo ⟨kanka⟩.",
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "Za ka busha su"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "kuma iska"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "za ta ɗauke su"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "kuma guguwa"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "za ta watsar"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kuma kai"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "za ka yi murna"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "a Yahweh"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "a Tsarkin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'el"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "za ka yabo"
+    }
+  ],
+  "timestamp": "2026-08-12T14:05:57.491255864Z",
+  "model": "glm-5.2"
+}

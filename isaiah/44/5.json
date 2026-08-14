@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 44:5",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Wannan zai ce, \"Na Yahweh ⟨ne⟩,\" kuma wannan zai kira da sunan Ya'akov, kuma wannan zai rubuta hannunsa ⟨don⟩ Yahweh, kuma da sunan Yisra'el zai sanya wa kansu suna.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "zai ce"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "kuma wannan"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "zai kira"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "da sunan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "kuma wannan"
+    },
+    {
+      "surface": "יכתב",
+      "gloss": "zai rubuta"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hannunsa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "don Yahweh"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "kuma da sunan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "יכנה",
+      "gloss": "zai sanya wa kansu suna"
+    }
+  ],
+  "timestamp": "2026-08-12T14:10:53.578207380Z",
+  "model": "glm-5.2"
+}

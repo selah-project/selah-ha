@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Yanzu ka tafi, ka doki ⟨את⟩ Amalek, kuma ku batar da ⟨את⟩ duk abin da yake da shi, kuma kada ka ji tausayi a kansa, ku kashe su daga mutum har zuwa mace, daga yaro mai nono har zuwa wanda ke shayarwa, daga shanu har zuwa tumaki, daga rakumi har zuwa jakī.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Yanzu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka tafi"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "ka doki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "kuma ku batar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duk abin da yake da shi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yake da shi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "ka ji tausayi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "ku kashe su"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "daga mutum"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "daga yaro mai nono"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "wanda ke shayarwa"
+    },
+    {
+      "surface": "משור",
+      "gloss": "daga shanu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "שה",
+      "gloss": "tumaki"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "daga rakumi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "jakī"
+    }
+  ],
+  "timestamp": "2026-08-12T09:09:36.629307510Z",
+  "model": "glm-5.2"
+}

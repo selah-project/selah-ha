@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 4:8",
+  "book": "ruth",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Sa'an kuma mai fansa ya wa Boaz: «Ka saya ⟨⟩wa kanku.» Kuma ya cire takalmin sa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sa'an kuma ya ce"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "mai fansa"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "wa Boaz"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "Ka saya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wa kanku"
+    },
+    {
+      "surface": "וישלף",
+      "gloss": "Kuma ya cire"
+    },
+    {
+      "surface": "נעלו",
+      "gloss": "takalmin sa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:29:43.630284574Z",
+  "model": "glm-5.2"
+}

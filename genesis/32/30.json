@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Sa'an nan Ya'ƙõb ya tambaya, ya ce, \"Faɗa min, ina roƙonka, sunanka.\" Kuma ⟨ya⟩ ce, \"Don me kake tambayar sunana?\" Kuma ya yi masa alɓarka a can.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "kuma ya tambaya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'ƙõb"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "faɗa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ina roƙonka"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunanka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "למה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "kake tambayar"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "sunana"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "kuma ya yi alɓarka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sa (Ya'ƙõb)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    }
+  ],
+  "timestamp": "2026-08-13T01:43:59.779366245Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Domin ni ne Yahweh, Elohim naka, Tsarkin Yisra'el, Mai ceton ka; na ba Mitsrayim a matsayin fansan ka, Kush da Seva maimaka da ⟨kai⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Tsarkin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "Mai ceton ka"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "na ba"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "a matsayin fansan ka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "da Seva"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "maimaka da"
+    }
+  ],
+  "timestamp": "2026-08-12T14:10:18.231026653Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Sai 'ya'yan Yisra'el suka cire ⟨את⟩ kayan adonsu daga dutsen Horeb ⟨zuwa gaba⟩.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "Sai suka cire"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kayan adonsu"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "kayan adonsu"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "daga dutsen"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Horeb"
+    }
+  ],
+  "timestamp": "2026-08-12T01:23:52.643877680Z",
+  "model": "glm-5.2"
+}

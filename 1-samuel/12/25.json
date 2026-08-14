@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 12:25",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma idan kun yi muguwar ⟨da⟩, kai tsaye ku, ku da sarkinku za a ɓace.",
+  "tokens": [
+    {
+      "surface": "וְאִם",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "הָרֵ֖עַ",
+      "gloss": "muguwar"
+    },
+    {
+      "surface": "תָּרֵ֑עוּ",
+      "gloss": "kun yi"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "kai tsaye"
+    },
+    {
+      "surface": "אַתֶּ֥ם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "ku da"
+    },
+    {
+      "surface": "מַלְכְּכֶ֖ם",
+      "gloss": "sarkinku"
+    },
+    {
+      "surface": "תִּסָּפֽוּ",
+      "gloss": "za a ɓace"
+    }
+  ],
+  "timestamp": "2026-08-13T01:59:36.120963505Z",
+  "model": "glm-5.2"
+}

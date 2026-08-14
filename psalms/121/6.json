@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 121,
+  "translation": "Rana ba za ta buge ka ⟨da⟩ rana ba, kuma wata ⟨da⟩ dare.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "rana"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "Rana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "za ta buge ka"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "kuma wata"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "⟨da⟩ dare"
+    }
+  ],
+  "timestamp": "2026-08-12T20:47:13.606949816Z",
+  "model": "glm-5.2"
+}

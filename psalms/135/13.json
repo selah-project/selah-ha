@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 135,
+  "translation": "Yahweh, sunanka ⟨yana⟩ har abada, Yahweh, tuna da kai ⟨ya kasance⟩ don ƙarni da ƙarni.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunanka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "tuna da kai"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "don ƙarni"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "da ƙarni"
+    }
+  ],
+  "timestamp": "2026-08-12T20:50:54.374992535Z",
+  "model": "glm-5.2"
+}

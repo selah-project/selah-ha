@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma Shaul ya riƙa kallon ⟨את⟩ Dawuda da kyam baya daga wannan rana zuwa gaba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ya kasance"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "da kyam baya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawuda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "daga rana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "zuwa gaba"
+    }
+  ],
+  "timestamp": "2026-08-13T02:01:04.255498927Z",
+  "model": "glm-5.2"
+}

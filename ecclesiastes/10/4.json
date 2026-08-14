@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Idan ruhun mai mulki ya tashi a kanku, kada ku bar wurinku, domin natsuwa tana kwantar da laifuka masu yawa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhun"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "mai mulki"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "ya tashi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "a kanku"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "wurinku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ku bar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "natsuwa"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "tana kwantar da"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "laifuka"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "masu yawa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:48:22.489169183Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 94,
+  "translation": "Wa zai tāka icc̃na don ni a kan masu munana? Wa zai tsaya don ni a kan masu aikata laifi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Wa"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "zai tāka icc̃na"
+    },
+    {
+      "surface": "לי",
+      "gloss": "don ni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "masu munana"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wa"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "zai tsaya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "don ni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "masu aikata"
+    },
+    {
+      "surface": "און",
+      "gloss": "laifi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:21:28.683143222Z",
+  "model": "glm-5.2"
+}

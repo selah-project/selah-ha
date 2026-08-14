@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Ya sanya duhu a matsayin ɓoyen sa, ɗakunansa a kewayensa, duhu na ruwa, gajimare na sama.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "Ya sanya"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duhu"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "ɓoyen sa"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "a kewayensa"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "ɗakunansa"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "duhu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "na ruwa"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "gajimare"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "na sama"
+    }
+  ],
+  "timestamp": "2026-08-12T19:24:54.984196120Z",
+  "model": "glm-5.2"
+}

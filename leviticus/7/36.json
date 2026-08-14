@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 7:36",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "wanda Yahweh Ya yi umarni a bayar musu, a rán da aka ←shafa← su, ⟨את⟩ daga ⟨gat⟩ ban'ya Isra'ila — lissafin har abada ga ƙarnukansu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "Ya yi umarni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "a bayar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rán"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "da aka shafa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨suum⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ daga ⟨gat⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ban'ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "lissafin"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ga ƙarnukansu"
+    }
+  ],
+  "timestamp": "2026-08-12T01:52:02.957304070Z",
+  "model": "glm-5.2"
+}

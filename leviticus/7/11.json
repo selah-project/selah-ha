@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma wannan ita ce dokar yankan sadaka na salama, ⟨da⟩ ake kawo wa Yahweh:",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "da wannan"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "dokar"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "yankan sadaka"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "na salama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ake kawo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:47:45.168092447Z",
+  "model": "glm-5.2"
+}

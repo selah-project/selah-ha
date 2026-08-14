@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma idan minchan maraheshet ce gabanabin ka, salat da man ⟨a⟩ yi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minchan"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "maraheshet"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "gabanabin ka"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "salat"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "da man"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "⟨a⟩ yi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:43:11.850645150Z",
+  "model": "glm-5.2"
+}

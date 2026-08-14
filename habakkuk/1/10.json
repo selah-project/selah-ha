@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 1:10",
+  "book": "habakkuk",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma shi kan sarakuna yana yin izgili, kuma masu iko wasa ne ⟨gare shi⟩; shi kuma ga kagara yana wasa, kuma ya taru ƙura, kuma ya kama ta.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "kuma shi"
+    },
+    {
+      "surface": "במלכים",
+      "gloss": "kan sarakuna"
+    },
+    {
+      "surface": "יתקלס",
+      "gloss": "yana yin izgili"
+    },
+    {
+      "surface": "ורזנים",
+      "gloss": "kuma masu iko"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "wasa ne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨gare shi⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ga kowane"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "kagara"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "yana wasa"
+    },
+    {
+      "surface": "ויצבר",
+      "gloss": "kuma ya taru"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ƙura"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "kuma ya kama ta"
+    }
+  ],
+  "timestamp": "2026-08-12T18:47:48.701616491Z",
+  "model": "glm-5.2"
+}

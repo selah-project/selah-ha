@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Saboda haka dukkan piqquḏeyka na ɗauka a matsayin madaidaici; kowace hanyar ƙarya nā ƙi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "piqquḏeyka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨a matsayin⟩ madaidaici"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "na ɗauka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowace"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ƙarya"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nā ƙi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:44:11.123221224Z",
+  "model": "glm-5.2"
+}

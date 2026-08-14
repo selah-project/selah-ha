@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "⟨Domin⟩ rana da dare hannunka yana nauyi a kaina, jinina ya canza ⟨zuwa⟩ bushewar ƙaka. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "rana"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "da dare"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "yana nauyi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a kaina"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hannunka"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "ya canza"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "jinina"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "zuwa bushewar"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ƙaka"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T19:34:50.382775289Z",
+  "model": "glm-5.2"
+}

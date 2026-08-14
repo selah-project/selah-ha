@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Kuma ya sa manna yi ruwa a kansu don a ci, ⟨kuma⟩ hatsin sama ya ba su.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "Kuma ya sa ... yi ruwa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "a kansu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manna"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "don a ci"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "⟨kuma⟩ hatsin"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "למו",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-08-12T20:08:07.282756364Z",
+  "model": "glm-5.2"
+}

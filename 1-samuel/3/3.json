@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 3:3",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Hasken rayaran Elohim bai ƙare ba har yanzu, kuma Shemuël yana kwance a haikalin Yahweh, inda akwai akwatin Elohim.",
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "Hasken raryar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "bai...ba har yanzu"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "ƙare"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "kuma Shemuël"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yana kwance"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "a haikalin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "inda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "akwai"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T08:29:56.768740982Z",
+  "model": "glm-5.2"
+}

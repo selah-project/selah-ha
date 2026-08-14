@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Domin babu abin da ya daidaita a cikin bakinsu; cikinsu ⟨ce⟩ lalata; makabarsu buɗaɗɗen kabari ne makogaron su, da harshensu suna mannewa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "a cikin bakinsu"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "abin da ya daidaita"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "cikinsu"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "lalata"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kabari"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "buɗaɗɗen"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "makogaron su"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "harshensu"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "suna mannewa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:12:53.498278654Z",
+  "model": "glm-5.2"
+}

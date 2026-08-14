@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 111,
+  "translation": "Abin tunawa Ya yi ga abin al'ajibinsa; Yahweh mai jin ƙai ne kuma mai tausayi.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Abin tunawa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ya yi"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "ga abin al'ajibinsa"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "mai jin ƙai"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "kuma mai tausayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T20:37:10.204247767Z",
+  "model": "glm-5.2"
+}

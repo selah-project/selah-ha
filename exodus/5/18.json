@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 5:18",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma yanzu ku tafi ku yi aiki; kuma ciyawa ba za a ba ku ba, amma awoyin tubali za ku bayar.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kuma yanzu"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ku tafi"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ku yi aiki"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "kuma ciyawa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "za a ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "amma awoyin"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "tubali"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "za ku bayar"
+    }
+  ],
+  "timestamp": "2026-08-12T00:36:31.057580201Z",
+  "model": "glm-5.2"
+}

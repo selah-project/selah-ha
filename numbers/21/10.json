@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 21:10",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma ʾavraham suka tafi, ⟨su⟩ ʾavraham suka sansa a ʾOboth.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "su ʾavraham tafi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yaʾaqov"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ʾavraham"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "su ʾavraham sansa"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "ʾOboth"
+    }
+  ],
+  "timestamp": "2026-08-12T04:10:50.604349738Z",
+  "model": "glm-5.2"
+}

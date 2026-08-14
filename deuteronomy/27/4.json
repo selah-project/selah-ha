@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma zai kasance a lokacin ketarsu ⟨את⟩ Yarden, ku tsayar da ⟨את⟩ waɗannan duwatsun da nake umurtar ku da su yau, a Dutsen Eival, kuma ka yayyafa ⟨את⟩ su da suddi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Kuma zai kasance"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "a lokacin ketarsu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "ku tsayar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waɗannan duwatsun"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "duwatsun"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "nake umurtar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a Dutsen"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eival"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "kuma ka yayyafa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "da suddi"
+    }
+  ],
+  "timestamp": "2026-08-12T05:41:53.660637411Z",
+  "model": "glm-5.2"
+}

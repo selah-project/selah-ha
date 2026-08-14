@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Idan ka yi wa'adi, wa'adi ne ga Elohim, kada ka jinkirta cika shi, domin bãbu farin ciki a cikin wãwayi; abin da ka yi wa'adi ⟨ne⟩ ka cika.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "idan"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ka yi wa'adi"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "wa'adi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ga Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "ka jinkirta"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "cika shi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bãbu"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "farin ciki"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "a cikin wãwayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin da ka yi wa'adi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ka yi wa'adi"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ka cika"
+    }
+  ],
+  "timestamp": "2026-08-12T22:44:14.828611186Z",
+  "model": "glm-5.2"
+}

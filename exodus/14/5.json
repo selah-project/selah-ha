@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 14:5",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma an faɗa wa sarkin Mitsrayim cewa mutãnen sun gudu, sai zuciyar Paroh da bayinsa ta juya ga mutãnen, suka ce: \"Mẽ muka aikata wannan, cewa muka saki ⟨את⟩ Yisra'el daga bautar mu?\"",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "an faɗa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "wa sarkin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "sun gudu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "ta juya"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "zuciyar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "da bayinsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mẽ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "muka aikata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "muka saki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "daga bautar mu"
+    }
+  ],
+  "timestamp": "2026-08-13T01:45:35.183199487Z",
+  "model": "glm-5.2"
+}

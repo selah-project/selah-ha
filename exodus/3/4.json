@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma Yahweh ya ga cewa ya juya domin kallon, sai Elohim ya kirā shi daga tsakkin ⟨da⟩ ciyawa, ya ce: \"Moshe! Moshe!\" Kuma ⟨shī⟩ ya ce: \"Ina nan.\"",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Kuma ya ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ya juya"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "domin kallon"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "sai ya kirā"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "daga tsakkin"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "ciyawa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ⟨shī⟩ ya ce"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ina nan"
+    }
+  ],
+  "timestamp": "2026-08-12T00:30:53.477842170Z",
+  "model": "glm-5.2"
+}

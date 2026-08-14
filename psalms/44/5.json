@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Kai ⟨ne⟩ sarkina, Elohim; ka umarta ceto ga Yaƙub.",
+  "tokens": [
+    {
+      "surface": "אַתָּה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "⟨shi⟩"
+    },
+    {
+      "surface": "מַלְכִּי",
+      "gloss": "sarkina"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צַוֵּה",
+      "gloss": "ka umarta"
+    },
+    {
+      "surface": "יְשׁוּעֹת",
+      "gloss": "ceto"
+    },
+    {
+      "surface": "יַעֲקֹב",
+      "gloss": "Yaƙub"
+    }
+  ],
+  "timestamp": "2026-08-12T19:43:36.450869668Z",
+  "model": "glm-5.2"
+}

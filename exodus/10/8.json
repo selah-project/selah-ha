@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma ⟨aka⟩ mayar da ⟨את⟩ Moshe da ⟨את⟩ Aharon zuwa ga Paroh, kuma ⟨ya⟩ ce musu, 'Ku tafi, ku bauta wa ⟨את⟩ Yahweh Elohim ku! Wa⟨ne⟩ waɗanda ke tafiya?'",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "Kuma ⟨aka⟩ mayar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ⟨ya⟩ ce"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Ku tafi"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ku bauta wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wa"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ne waɗanda"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ke tafiya"
+    }
+  ],
+  "timestamp": "2026-08-13T01:45:20.999353367Z",
+  "model": "glm-5.2"
+}

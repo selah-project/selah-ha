@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 99,
+  "translation": "Suna yabɔ sunanka, babu kuma mai girma, tsarki ⟨shi⟩ ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Suna yabɔ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunanka"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "babu"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "kuma mai girma"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "tsarki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:25:28.402771762Z",
+  "model": "glm-5.2"
+}

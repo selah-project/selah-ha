@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Yayin da sarki yana ⟨a⟩ zaunansa, nardina ta bada kamshin ta.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Yayin da"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "a zaunansa"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "nardina"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ta bada"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "kamshin ta"
+    }
+  ],
+  "timestamp": "2026-08-12T22:21:04.808449180Z",
+  "model": "glm-5.2"
+}

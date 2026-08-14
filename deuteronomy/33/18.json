@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 33:18",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Kuma game da Zevulun ⟨ya⟩ faɗi: Yi murna, Zevulun, a tafiyarka, kuma Yissaskhar, a dankuna.",
+  "tokens": [
+    {
+      "surface": "וְלִזְבוּלֻ֣ן",
+      "gloss": "kuma game da Zevulun"
+    },
+    {
+      "surface": "אָמַ֔ר",
+      "gloss": "ya faɗi"
+    },
+    {
+      "surface": "שְׂמַ֥ח",
+      "gloss": "yi murna"
+    },
+    {
+      "surface": "זְבוּלֻ֖ן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "בְּצֵאתֶ֑ךָ",
+      "gloss": "a tafiyarka"
+    },
+    {
+      "surface": "וְיִשָּׂשכָ֖ר",
+      "gloss": "kuma Yissaskhar"
+    },
+    {
+      "surface": "בְּאֹהָלֶֽיךָ",
+      "gloss": "a dankuna"
+    }
+  ],
+  "timestamp": "2026-08-12T06:00:17.485778189Z",
+  "model": "glm-5.2"
+}

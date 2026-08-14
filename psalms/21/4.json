@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": " domin ka gabãtarsa da albarkoki na kirki, kambi na zinariya tsarkake ka sa a kan kansa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "ka gabãtarsa"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "da albarkoki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "na kirki"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "ka sa"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "a kan kansa"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "kambi"
+    },
+    {
+      "surface": "פז",
+      "gloss": "na zinariya tsarkake"
+    }
+  ],
+  "timestamp": "2026-08-12T19:27:32.984958719Z",
+  "model": "glm-5.2"
+}

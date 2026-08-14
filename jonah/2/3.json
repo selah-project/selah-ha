@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma ya ce: Na kira zuwa Yahweh daga cikin damuwa ta gare ni, ya kuma amsa ni; daga cikin cikin Sheol na kururu, ka kuma ji muryata.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "na kira"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "daga cikin damuwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ta gare ni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "ya kuma amsa ni"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "daga cikin cikin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "na kururu"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ka kuma ji"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "muryata"
+    }
+  ],
+  "timestamp": "2026-08-12T18:36:51.686816136Z",
+  "model": "glm-5.2"
+}

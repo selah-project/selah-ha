@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 68,
+  "translation": "Mawaka sun gabace, masu kaɗe-kaɗe sun bi ⟨a baya⟩; tsakanin 'yan mata masu bugun ganga.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "sun gabace"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "Mawaka"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sun bi"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "masu kaɗe-kaɗe"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "'yan mata"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "masu bugun ganga"
+    }
+  ],
+  "timestamp": "2026-08-12T20:02:34.717912268Z",
+  "model": "glm-5.2"
+}

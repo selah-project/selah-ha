@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 19:25",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma iyakarsu ⟨ta kasance⟩ Helkat da Hali da Beten da Akshaf.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ⟨ta kasance⟩"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "iyakarsu"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Helkat"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "da Hali"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "da Beten"
+    },
+    {
+      "surface": "ואכשף",
+      "gloss": "da Akshaf"
+    }
+  ],
+  "timestamp": "2026-08-12T06:55:42.851324172Z",
+  "model": "glm-5.2"
+}

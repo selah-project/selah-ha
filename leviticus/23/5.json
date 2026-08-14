@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "A cikin watan ⟨na⟩ farko, a cikin huɗu ga sha, ⟨na⟩ watan, tsakanin waɗannan maraice, ⟨akwai⟩ Pesach ga Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "a cikin watan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "farko"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "a cikin huɗu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ga sha"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "na watan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "waɗannan maraice"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-13T01:51:27.670753753Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 115,
+  "translation": "Ku ni'ima ce daga Yahweh, wanda Ya yi sama da ƙasa.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "Ku ni'ima ce"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "daga Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wanda Ya yi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "da ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:38:15.595188248Z",
+  "model": "glm-5.2"
+}

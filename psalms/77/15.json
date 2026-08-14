@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 77,
+  "translation": "Kai ne El, Kai mai aikata mu'ujiza; Ka sanar da ƙarfarka a tsakanin al'ummomi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "האל",
+      "gloss": "⟨halitta mai girma⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mai aikata"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "mu'ujiza"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "Ka sanar da"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "a tsakanin al'ummomi"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ƙarfarka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:05:45.930897345Z",
+  "model": "glm-5.2"
+}

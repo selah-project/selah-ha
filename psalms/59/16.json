@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 59,
+  "translation": "Su — suna yawo don abinci, idan ba su cika ba, ⟨to⟩ su yi ƙara har safe.",
+  "tokens": [
+    {
+      "surface": "הֵ֭מָּה",
+      "gloss": "su"
+    },
+    {
+      "surface": "יְנוּע֣וּן",
+      "gloss": "suna yawo"
+    },
+    {
+      "surface": "לֶאֱכֹ֑ל",
+      "gloss": "don abinci"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יִ֝שְׂבְּע֗וּ",
+      "gloss": "su cika"
+    },
+    {
+      "surface": "וַיָּלִֽינוּ",
+      "gloss": "su yi ƙara har safe"
+    }
+  ],
+  "timestamp": "2026-08-12T19:54:29.727864161Z",
+  "model": "glm-5.2"
+}

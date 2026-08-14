@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Sa'an nan za ka fahimci tsoron Yahweh, kuma ilimin ⟨ game da ⟩ Elohim za ka samu.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "sa'an nan"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "za ka fahimci"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "tsoron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "kuma ilimin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "za ka samu"
+    }
+  ],
+  "timestamp": "2026-08-12T21:02:28.056252938Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Sai suka hawa suka bincika ⟨את⟩ ƙasar, daga hamadar Tsin har zuwa Reḥob, ⟨a⟩ shigar Hamat.",
+  "tokens": [
+    {
+      "surface": "וַֽיַּעֲל֖וּ",
+      "gloss": "Sai suka hawa"
+    },
+    {
+      "surface": "וַיָּתֻ֣רוּ",
+      "gloss": "suka bincika"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מִמִּדְבַּר",
+      "gloss": "daga hamadar"
+    },
+    {
+      "surface": "צִ֥ן",
+      "gloss": "Tsin"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "רְחֹ֖ב",
+      "gloss": "Reḥob"
+    },
+    {
+      "surface": "לְבֹ֥א",
+      "gloss": "shigar"
+    },
+    {
+      "surface": "חֲמָֽת",
+      "gloss": "Hamat"
+    }
+  ],
+  "timestamp": "2026-08-12T03:51:58.434964582Z",
+  "model": "glm-5.2"
+}

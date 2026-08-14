@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Don dariya suna yin biki, kuma giya tana nishadantar da rai, amma azurfa tana amsa ⟨את⟩ duka.",
+  "tokens": [
+    {
+      "surface": "לִשְׂחוֹק֙",
+      "gloss": "don dariya"
+    },
+    {
+      "surface": "עֹשִׂ֣ים",
+      "gloss": "suna yin"
+    },
+    {
+      "surface": "לֶ֔חֶם",
+      "gloss": "biki"
+    },
+    {
+      "surface": "וְיַ֖יִן",
+      "gloss": "kuma giya"
+    },
+    {
+      "surface": "יְשַׂמַּ֣ח",
+      "gloss": "tana nishadantar da"
+    },
+    {
+      "surface": "חַיִּ֑ים",
+      "gloss": "rai"
+    },
+    {
+      "surface": "וְהַכֶּ֖סֶף",
+      "gloss": "amma azurfa"
+    },
+    {
+      "surface": "יַעֲנֶ֥ה",
+      "gloss": "tana amsa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "duka"
+    },
+    {
+      "surface": "הַכֹּֽל",
+      "gloss": "duka"
+    }
+  ],
+  "timestamp": "2026-08-12T22:46:57.905812882Z",
+  "model": "glm-5.2"
+}

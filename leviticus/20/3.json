@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 20:3",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "“‘Kuma ni, zan sa ⟨את⟩ fuskata a kan ⟨wancan⟩ mutumin, kuma zan yanke ⟨את⟩ shi daga tsakanin mutanensa, domin ya baɗa daga zuriyarsa ga Molek, domin ya ɓata ⟨את⟩ tsarkina, kuma ya gurgunta ⟨את⟩ sunan tsarkinata.",
+  "tokens": [
+    {
+      "surface": "וַאֲנִי",
+      "gloss": "Kuma ni,"
+    },
+    {
+      "surface": "אֶתֵּן",
+      "gloss": "zan sa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "fuskata"
+    },
+    {
+      "surface": "פָּנַי",
+      "gloss": "fuskata"
+    },
+    {
+      "surface": "בָּאִישׁ",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הַהוּא",
+      "gloss": "⟨wancan⟩ mutumin,"
+    },
+    {
+      "surface": "וְהִכְרַתִּי",
+      "gloss": "kuma zan yanke"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩ shi"
+    },
+    {
+      "surface": "מִקֶּרֶב",
+      "gloss": "daga tsakanin"
+    },
+    {
+      "surface": "עַמּוֹ",
+      "gloss": "mutanensa,"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "מִזַּרְעוֹ",
+      "gloss": "daga zuriyarsa"
+    },
+    {
+      "surface": "נָתַן",
+      "gloss": "ya baɗa"
+    },
+    {
+      "surface": "לַמֹּלֶךְ",
+      "gloss": "ga Molek,"
+    },
+    {
+      "surface": "לְמַעַן",
+      "gloss": "domin"
+    },
+    {
+      "surface": "טַמֵּא",
+      "gloss": "ya ɓata"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tsarkina"
+    },
+    {
+      "surface": "מִקְדָּשִׁי",
+      "gloss": "tsarkina,"
+    },
+    {
+      "surface": "וּלְחַלֵּל",
+      "gloss": "kuma ya gurgunta"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "suna"
+    },
+    {
+      "surface": "שֵׁם",
+      "gloss": "suna"
+    },
+    {
+      "surface": "קָדְשִׁי",
+      "gloss": "tsarkinata."
+    }
+  ],
+  "timestamp": "2026-08-12T02:41:40.535741313Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma suka duka kowane ɗan'adamsa ⟨mutumɗinsa⟩; kuma Aram suka gudu, kuma Yisra'ela ya bi su; kuma Ben-Hadad sarkin Aram ya tsira a kan doki da mahaya.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "Kuma suka duka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "ɗan'adamsa"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "kuma suka gudu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "kuma ya bi su"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'ela"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "kuma ya tsira"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "-Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "doki"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "da mahaya"
+    }
+  ],
+  "timestamp": "2026-08-12T11:46:36.592129540Z",
+  "model": "glm-5.2"
+}

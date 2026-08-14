@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Suka sanya ⟨את⟩ kayan sa a gidan Ashtarot, ⟨kuma⟩ ⟨את⟩ gawar sa suka dora a ganuwar Bet-Šean.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "suka sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kayan sa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kayan sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a gidan"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨kuma⟩ ⟨את⟩",
+      "marks": "gawar sa"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "gawar sa"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "suka dora"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "a ganuwar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Šean"
+    }
+  ],
+  "timestamp": "2026-08-12T09:51:10.966578988Z",
+  "model": "glm-5.2"
+}

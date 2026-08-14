@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 39:24",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Kuma suka yi a kan guduman rigar ƙwarƙwari shuɼa da jajaye da ja na tsatsa, auduga da aka dora.",
+  "tokens": [
+    {
+      "surface": "וַֽיַּעֲשׂוּ֙",
+      "gloss": "Kuma suka yi"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "שׁוּלֵ֣י",
+      "gloss": "guduman"
+    },
+    {
+      "surface": "הַמְּעִ֔יל",
+      "gloss": "rigar"
+    },
+    {
+      "surface": "רִמּוֹנֵ֕י",
+      "gloss": "ƙwarƙwari"
+    },
+    {
+      "surface": "תְּכֵ֥לֶת",
+      "gloss": "shuɼa"
+    },
+    {
+      "surface": "וְאַרְגָּמָ֖ן",
+      "gloss": "da jajaye"
+    },
+    {
+      "surface": "וְתוֹלַ֣עַת",
+      "gloss": "da ja na"
+    },
+    {
+      "surface": "שָׁנִ֑י",
+      "gloss": "tsatsa"
+    },
+    {
+      "surface": "מָשְׁזָֽר",
+      "gloss": "da aka dora"
+    }
+  ],
+  "timestamp": "2026-08-12T01:38:12.944285156Z",
+  "model": "glm-5.2"
+}

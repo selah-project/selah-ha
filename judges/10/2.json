@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma ya yi shari'a ⟨את⟩ Yisra'el shekara ashirin da uku, kuma ya mutu, aka binne shi a Shamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Kuma ya yi shari'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "da uku"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kuma ya mutu"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "aka binne shi"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "a Shamir"
+    }
+  ],
+  "timestamp": "2026-08-12T07:47:28.964856730Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma daga matalautan ƙasar, shugaban mahukanta ya bar ⟨su⟩ a matsayin masu noman inabi da manoma.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "kuma daga matalautan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ya bar"
+    },
+    {
+      "surface": "רב",
+      "gloss": "shugaba"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "mahukanta"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "a matsayin masu noman inabi"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "da manoma"
+    }
+  ],
+  "timestamp": "2026-08-13T02:06:07.866996596Z",
+  "model": "glm-5.2"
+}

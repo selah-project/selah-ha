@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma ya kawo ⟨את⟩ laifinsa a gaban Yahweh, a ƙofar fidan taro, rago na laifi.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Kuma ya kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laifinsa"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "laifinsa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a gaban Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ƙofar"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "fidan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "taro"
+    },
+    {
+      "surface": "איל",
+      "gloss": "rago"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "na laifi"
+    }
+  ],
+  "timestamp": "2026-08-12T02:34:36.160211330Z",
+  "model": "glm-5.2"
+}

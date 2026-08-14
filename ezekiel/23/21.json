@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 23:21",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma ka tuna da ⟨את⟩ mugun niyyar kuruciya ta, a lokacin da ake yin ⟨את⟩ nononka ⟨ta⟩ Mitsrayim, don nonan kuruciya ta.",
+  "tokens": [
+    {
+      "surface": "ותפקדי",
+      "gloss": "kuma ka tuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mugun niyyar"
+    },
+    {
+      "surface": "זמת",
+      "gloss": "mugun niyyar"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "kuruciya ta"
+    },
+    {
+      "surface": "בעשות",
+      "gloss": "a lokacin da ake yin"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "⟨ta⟩ Mitsrayim"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "nononka"
+    },
+    {
+      "surface": "למען",
+      "gloss": "don"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "nonan"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "kuruciya ta"
+    }
+  ],
+  "timestamp": "2026-08-12T17:27:27.454304686Z",
+  "model": "glm-5.2"
+}

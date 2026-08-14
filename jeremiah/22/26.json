@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 22:26",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma zan jefa ka, ⟨את⟩ ka, da ⟨את⟩ mahaifiyar-ka da ta haifa ka, zuwa ƙasa wata ⟨ce⟩, wadda ba a haifa ku ⟨can⟩ ba; kuma ⟨can⟩ za ku mutu.",
+  "tokens": [
+    {
+      "surface": "והטלתי",
+      "gloss": "kuma zan jefa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "mahaifiyar-ka"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mahaifiyar-ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "ta haifa ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "wata ⟨ce⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wadda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ילדתם",
+      "gloss": "a haifa ku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨can⟩"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "kuma ⟨can⟩"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "za ku mutu"
+    }
+  ],
+  "timestamp": "2026-08-12T15:33:55.072350163Z",
+  "model": "glm-5.2"
+}

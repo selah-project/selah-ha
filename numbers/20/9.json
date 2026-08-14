@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Sa'an nan Mosheh ya ɗauki ⟨את⟩ sandan daga gaban Yahweh, kamar yadda Ya umarce shi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Sa'an nan ya ɗauki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandan"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "sandan"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "Ya umarce shi"
+    }
+  ],
+  "timestamp": "2026-08-12T04:11:27.429372245Z",
+  "model": "glm-5.2"
+}

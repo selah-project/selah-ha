@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Ceto ⟨yana⟩ nesa daga mugaye, domin ba su neman dokõkinka.",
+  "tokens": [
+    {
+      "surface": "רָחוֹק",
+      "gloss": "nesa"
+    },
+    {
+      "surface": "מֵרְשָׁעִים",
+      "gloss": "daga mugaye"
+    },
+    {
+      "surface": "יְשׁוּעָה",
+      "gloss": "Ceto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "חֻקֶּיךָ",
+      "gloss": "dokõkinka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "דָרָשׁוּ",
+      "gloss": "su neman"
+    }
+  ],
+  "timestamp": "2026-08-12T20:45:55.240967001Z",
+  "model": "glm-5.2"
+}

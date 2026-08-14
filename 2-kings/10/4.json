@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 10:4",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Suka tsorata sosai, sosai, suka ce: Ga shi, sarakuna biyu ba su tsaya a gaban shi ba, yãya za mu tsaya mu?",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "suka tsorata"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "sarakuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "suka tsaya"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "a gaban shi"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "yãya"
+    },
+    {
+      "surface": "נעמד",
+      "gloss": "za mu tsaya"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-08-12T12:14:32.467816366Z",
+  "model": "glm-5.2"
+}

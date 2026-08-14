@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Idan ⟨a cikin⟩ huda ⟨an same⟩ ɗan fari ⟨kuma an duka⟩ ⟨ya mutu⟩, babu ⟨ga shi⟩ jini.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "⟨a cikin⟩ huda"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "⟨an same⟩"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "ɗan fari"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "⟨kuma an duka⟩"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "⟨ya mutu⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ga shi⟩"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "jini"
+    }
+  ],
+  "timestamp": "2026-08-12T01:03:53.953768008Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma maza suka yi haka, suka riƙe shanu mata guda biyu masu shayarwa, suka ɗaure su a kan mota, ⟨kuma⟩ ⟨את⟩ 'ya'yansu suka daure a cikin gida.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Kuma suka yi"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "maza"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "suka riƙe"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "guda biyu"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "shanu mata"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "masu shayarwa"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "suka ɗaure su"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "a kan mota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "'ya'yansu"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "'ya'yansu"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "suka daure"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a cikin gida"
+    }
+  ],
+  "timestamp": "2026-08-12T08:39:18.278135598Z",
+  "model": "glm-5.2"
+}

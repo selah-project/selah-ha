@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Ya hau ⟨akan⟩ *keruv*, ya tashi, ya gudu ⟨akan⟩ fuka-fukan iska.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "Ya hau"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨akan⟩"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "keruv"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "ya tashi"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "ya gudu"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨akan⟩"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "fuka-fukan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "iska"
+    }
+  ],
+  "timestamp": "2026-08-12T19:24:54.984066556Z",
+  "model": "glm-5.2"
+}

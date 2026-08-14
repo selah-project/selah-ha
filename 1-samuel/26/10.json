@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma Dawuda ya faɗa: \"Yahweh yana raye, domin ko da Yahweh zai buge shi, ko ranansa za ta zo ya mutu, ko kuma ya sauka cikin yaki aƙora.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya faɗa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yana raye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ko da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "za ya buga shi"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ranansa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "za ta zo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ya mutu"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko kuma"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "cikin yaki"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ya sauka"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "aƙora"
+    }
+  ],
+  "timestamp": "2026-08-12T09:40:14.257245046Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Sai ⟨ya⟩ tashi, ⟨ya⟩ tafi, kuma Yehonatan ⟨ya⟩ shiga ⟨cikin⟩ biran.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Sai ya tashi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "kuma Yehonatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ya shiga"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "biran"
+    }
+  ],
+  "timestamp": "2026-08-12T09:29:55.448674145Z",
+  "model": "glm-5.2"
+}

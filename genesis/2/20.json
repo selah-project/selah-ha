@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma mutum ya kira sunaye wa dukkanin dabbobin gida, da wa tsuntayen sama, da wa dukkanin dabbobin daji; amma wa mutum ba a same ⟨wani⟩ mai taimako mai dama da shi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kuma ya kira"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sunaye"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wa dukkanin"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dabbobin gida"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "da wa tsuntayen"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "da wa dukkanin"
+    },
+    {
+      "surface": "חית",
+      "gloss": "dabbobin"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "daji"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "amma wa mutum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "a same"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mai taimako"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "mai dama da shi"
+    }
+  ],
+  "timestamp": "2026-08-11T23:19:59.143469068Z",
+  "model": "glm-5.2"
+}

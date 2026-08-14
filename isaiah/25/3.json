@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 25:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Saboda haka za su girmama ka, mutane masu ƙarfi; birnin ☰al'ummai☰ masu tashin hankali za su tsorata ka.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "יכבדוך",
+      "gloss": "za-su-girmama-ka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "עז",
+      "gloss": "masu-ƙarfi"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "al'ummai"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "masu-tashin-hankali"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "za-su-tsorata-ka"
+    }
+  ],
+  "timestamp": "2026-08-12T13:35:06.523236712Z",
+  "model": "glm-5.2"
+}

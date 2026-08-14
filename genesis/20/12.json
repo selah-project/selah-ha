@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma lalle, tabbas ita 'yar'uwa ce ta gari, baba ce ta haifa ⟨ta⟩, amma ba uwar ta haifa ba; ta zama min matar.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Kuma"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "lalle"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "ita 'yar'uwa ce ta gari"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ta haifa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba ce"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אך",
+      "gloss": "amma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ta haifa"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "uwar ta"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ta zama"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "matar"
+    }
+  ],
+  "timestamp": "2026-08-11T23:40:06.987519627Z",
+  "model": "glm-5.2"
+}

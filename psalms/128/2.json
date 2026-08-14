@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 128,
+  "translation": "Aikin hannayenka, za ka ci, ⟨domin⟩ ⟨kai⟩ da sa'a, kuma ⟨alheri⟩ ya tabbata a gare ka.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "Aikin"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "hannayenka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨domin⟩"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "za ka ci"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "⟨kai⟩ da sa'a"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "kuma ⟨alheri⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ya tabbata a gare ka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:47:56.263188744Z",
+  "model": "glm-5.2"
+}

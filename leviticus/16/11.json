@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 16:11",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma Aharon ya kusantar da ⟨את⟩ sāgon zunubin da nasa, ya yi kafara don kansa da kuma don gidansa, kuma ya yanka ⟨את⟩ sāgon zunubin da nasa.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ya kusantar da"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sāgon zunubin"
+    },
+    {
+      "surface": "פר",
+      "gloss": "sāgo"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "zunubin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nasa"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ya yi kafara"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "don kansa"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "da kuma don"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gidansa"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ya yanka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sāgon zunubin"
+    },
+    {
+      "surface": "פר",
+      "gloss": "sāgo"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "zunubin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nasa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:23:59.523524393Z",
+  "model": "glm-5.2"
+}

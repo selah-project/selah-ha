@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma lokacin ya zo, ranan, Elqana ya yanka, ya kuma bai Penina matarsa, da kuma dukkan 'ya'yanta maza da 'ya'yanta mata, gwargwadon rabo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma lokacin ya zo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ranan"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "ya yanka"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ya kuma bai"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "matarsa"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "da kuma dukkan"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "'ya'yanta maza"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "da 'ya'yanta mata"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "gwargwadon rabo"
+    }
+  ],
+  "timestamp": "2026-08-12T08:22:09.388720988Z",
+  "model": "glm-5.2"
+}

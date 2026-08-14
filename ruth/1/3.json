@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma Elimelekh, mijin No'omi, ya mutu, kuma ⟨ta⟩ kasance ita ⟨ce⟩ da 'ya'yanta maza biyu.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "kuma ya mutu"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelekh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mijin"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "No'omi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "kuma ⟨ta⟩ kasance"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ita"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "da biyu"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "'ya'yanta maza"
+    }
+  ],
+  "timestamp": "2026-08-12T22:30:32.757718831Z",
+  "model": "glm-5.2"
+}

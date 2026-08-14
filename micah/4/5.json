@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 4:5",
+  "book": "micah",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Dõmin dukkan al'ummai za su tafi, kowane mutum da sunan allahnsa, kuma mu za mu tafi da sunan Yahweh Elohim mu har abadã da har abadã.",
+  "tokens": [
+    {
+      "surface": "כִּ֚י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הָ֣עַמִּ֔ים",
+      "gloss": "al'ummai"
+    },
+    {
+      "surface": "יֵלְכ֕וּ",
+      "gloss": "za su tafi"
+    },
+    {
+      "surface": "אִ֖ישׁ",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "בְּשֵׁ֣ם",
+      "gloss": "da sunan"
+    },
+    {
+      "surface": "אֱלֹהָ֑יו",
+      "gloss": "allahnsa"
+    },
+    {
+      "surface": "וַאֲנַ֗חְנוּ",
+      "gloss": "kuma mu"
+    },
+    {
+      "surface": "נֵלֵ֛ךְ",
+      "gloss": "za mu tafi"
+    },
+    {
+      "surface": "בְּשֵׁם",
+      "gloss": "da sunan"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵ֖ינוּ",
+      "gloss": "Elohim mu"
+    },
+    {
+      "surface": "לְעוֹלָ֥ם",
+      "gloss": "har abadã"
+    },
+    {
+      "surface": "וָעֶֽד",
+      "gloss": "da har abadã"
+    }
+  ],
+  "timestamp": "2026-08-12T18:42:47.815768638Z",
+  "model": "glm-5.2"
+}

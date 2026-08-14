@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma Yehonatan ya ce wa Dawida, \"Me rai ⟨ta⟩ ke cewa? Kuma in yi maka.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "מה",
+      "gloss": "me"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ke cewa"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "rainka"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "kuma in yi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    }
+  ],
+  "timestamp": "2026-08-12T09:22:21.877164396Z",
+  "model": "glm-5.2"
+}

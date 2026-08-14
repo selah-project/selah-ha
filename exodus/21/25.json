@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "ƙona ⟨a maimakon⟩ ƙona, rauni ⟨a maimakon⟩ rauni, buɗaɗi ⟨a maimakon⟩ buɗaɗi.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "ƙona"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a maimakon"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "ƙona"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "rauni"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a maimakon"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "rauni"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "buɗaɗi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a maimakon"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "buɗaɗi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:59:25.388842872Z",
+  "model": "glm-5.2"
+}

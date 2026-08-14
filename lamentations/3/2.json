@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "⟨את⟩ ni ya kora ya kuma shigo da ni cikin ɗuhu, ba cikin haske ba.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "ya kora"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ya kuma shigo da"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "cikin ɗuhu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cikin haske"
+    }
+  ],
+  "timestamp": "2026-08-12T22:34:54.841871659Z",
+  "model": "glm-5.2"
+}

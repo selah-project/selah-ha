@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Baƙo da ma'aikacin haya ba za su ci ⟨daga cikinsa⟩ ba.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "baƙo"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "da ma'aikacin haya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "za su ci"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a cikinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:44:49.665235598Z",
+  "model": "glm-5.2"
+}

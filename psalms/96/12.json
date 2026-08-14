@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 96,
+  "translation": "Daji za su yi kade-kade, da dukkan abin da yake cikinsu, sa'an nan dukkan itatun daji za su rera waƙa.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "za su yi kade-kade"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Daji"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yake cikinsu"
+    },
+    {
+      "surface": "אז",
+      "gloss": "sa'an nan"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "za su rera waƙa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "itatun"
+    },
+    {
+      "surface": "יער",
+      "gloss": "daji"
+    }
+  ],
+  "timestamp": "2026-08-12T20:20:00.940260664Z",
+  "model": "glm-5.2"
+}

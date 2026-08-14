@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma Dawuda ya ce masa, Ta yaya ba ka ji tsoron ⟨a⟩ miƙa hannunka don hallaka ⟨את⟩ Mashíacín Yahweh?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Ta yaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ka ji tsoron"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "don miƙa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hannunka"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "don hallaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashíacín"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashíacín"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T09:58:26.683276134Z",
+  "model": "glm-5.2"
+}

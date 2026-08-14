@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma na ce: Âh, Adonai Yahweh, gani, ban san ⟨yadda ake⟩ magana ba, domin yaro nake.",
+  "tokens": [
+    {
+      "surface": "וָאֹמַ֗ר",
+      "gloss": "kuma na ce"
+    },
+    {
+      "surface": "אֲהָהּ֙",
+      "gloss": "âh"
+    },
+    {
+      "surface": "אֲדֹנָ֣י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יְהֹוִ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הִנֵּ֥ה",
+      "gloss": "gani"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יָדַ֖עְתִּי",
+      "gloss": "na san"
+    },
+    {
+      "surface": "דַּבֵּ֑ר",
+      "gloss": "magana"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "נַ֖עַר",
+      "gloss": "yaro"
+    },
+    {
+      "surface": "אָנֹֽכִי",
+      "gloss": "nake"
+    }
+  ],
+  "timestamp": "2026-08-12T14:54:02.484971315Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 139,
+  "translation": "Domin ba ⟨akwai⟩ kalma a kan harshena ⟨ba⟩, ga shi, Yahweh, ka san ⟨ta⟩ gabaɗaya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "kalma"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "a kan harshena"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ka san"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "gabaɗaya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:54:18.438470814Z",
+  "model": "glm-5.2"
+}

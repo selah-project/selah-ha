@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 62,
+  "translation": "Ga shugaban mawaka, bisa Yedutun, waƙa ta Dawuda.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ga shugaban mawaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "waƙa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ta Dawuda"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:09.634808723Z",
+  "model": "glm-5.2"
+}

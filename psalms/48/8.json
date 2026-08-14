@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 48,
+  "translation": "Da iska ta gabas Kai ke ɓarna jiragen Tarshish.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "da iska"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ta gabas"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "Kai ke ɓarna"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "jiragen"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    }
+  ],
+  "timestamp": "2026-08-12T19:46:30.769369121Z",
+  "model": "glm-5.2"
+}

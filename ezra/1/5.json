@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 1:5",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Sai suka tashi shugabannin iyayen Yehuda da Binyamin, da kohanim, da Lewiyawa, ga kowane mutum da Elohim ya tada ⟨את⟩ ruhunsa, domin hawa don gina ⟨את⟩ gidan Yahweh wanda yake a Yerushalima.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "Sai suka tashi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "shugabannin"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "iyayen"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "da Binyamin"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "da kohanim"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "da Lewiyawa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ga kowane"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mutum da"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruhunsa"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ya tada ruhunsa"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "domin hawa"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "don gina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "yake a Yerushalima"
+    }
+  ],
+  "timestamp": "2026-08-12T23:22:46.798809971Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Abin da ya rigaya ya faru, shi ⟨ne⟩ yake, kuma abin da zai kasance, ya rigaya ya faru; Elohim Yana neman ⟨את⟩ abin da ake bin sa.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ya rigaya ya faru"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "shi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ne⟩ yake"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kuma abin da"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "zai kasance"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ya rigaya"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ya faru"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "Yana neman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin da ake bin sa"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "abin da ake bin sa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:42:46.705415794Z",
+  "model": "glm-5.2"
+}

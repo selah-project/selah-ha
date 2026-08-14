@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 9:14",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Bari ni, in halaka su, kuma in goge ⟨את⟩ sunansu daga ƙarƙashin sama, kuma in mayar da ⟨את⟩ kai zuwa ga wata al'umma mai ƙarfi kuma mai yawa fiye da su.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Bari ni"
+    },
+    {
+      "surface": "ממני",
+      "gloss": ""
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "kuma in halaka su"
+    },
+    {
+      "surface": "ואמחה",
+      "gloss": "kuma in goge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunansu"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "sunansu"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "daga ƙarƙashin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "kuma in mayar da"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ kai",
+      "marks": "zuwa ga wata al'umma"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "zuwa ga wata al'umma"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "mai ƙarfi"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "kuma mai yawa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "fiye da su"
+    }
+  ],
+  "timestamp": "2026-08-12T05:06:15.754583004Z",
+  "model": "glm-5.2"
+}

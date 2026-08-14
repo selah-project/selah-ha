@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Ya sa ⟨את⟩ gawarsa a cikin kabrinsa, suka yi baƙin ciki a kansa, ⟨sun cewa⟩: \"Hōy, ɗan'uwana!\"",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "ya sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gawarsa"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "gawarsa"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "a cikin kabrinsa"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "suka yi baƙin ciki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "hōy"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ɗan'uwana"
+    }
+  ],
+  "timestamp": "2026-08-12T11:23:54.498234909Z",
+  "model": "glm-5.2"
+}

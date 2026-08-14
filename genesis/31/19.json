@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 31:19",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Lavan ya tafi don yanka ⟨את⟩ tawonsa, kuma Rahela ta sāto ⟨את⟩ terafim, waɗanda ke na ubanta.",
+  "tokens": [
+    {
+      "surface": "ולבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "לגזז",
+      "gloss": "don yanka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tawonsa"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "tawonsa"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "kuma ta sāto"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "ke na ubanta"
+    }
+  ],
+  "timestamp": "2026-08-13T01:43:09.022864789Z",
+  "model": "glm-5.2"
+}

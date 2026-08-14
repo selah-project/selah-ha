@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Saboda haka ka kiyaye ⟨את⟩ umarni da ⟨את⟩ ɗokoki da ⟨את⟩ hukunce-hukuncen da ni nake umurninka da su yau, don ka aiwatar da su.",
+  "tokens": [
+    {
+      "surface": "וְשָׁמַרְתָּ֨",
+      "gloss": "Saboda haka ka kiyaye"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "umarni"
+    },
+    {
+      "surface": "הַמִּצְוָ֜ה",
+      "gloss": "umarni"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ɗokoki"
+    },
+    {
+      "surface": "הַֽחֻקִּ֣ים",
+      "gloss": "ɗokoki"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "da ⟨את⟩",
+      "marks": "hukunce-hukuncen"
+    },
+    {
+      "surface": "הַמִּשְׁפָּטִ֗ים",
+      "gloss": "hukunce-hukuncen"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אָנֹכִ֧י",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מְצַוְּךָ֛",
+      "gloss": "nake umurninka"
+    },
+    {
+      "surface": "הַיּ֖וֹם",
+      "gloss": "yau"
+    },
+    {
+      "surface": "לַעֲשׂוֹתָֽם",
+      "gloss": "don ka aiwatar da su"
+    }
+  ],
+  "timestamp": "2026-08-12T05:05:12.791968731Z",
+  "model": "glm-5.2"
+}

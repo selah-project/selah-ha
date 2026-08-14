@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 136,
+  "translation": "⟨Ga wajen⟩ da ya jagoranta ⟨את⟩ mutanensa a cikin jeji, domin har abada chesed ⟨na⟩ sa.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "⟨Ga wajen⟩ da ya jagoranta"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mutanensa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a cikin jeji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesd ⟨na⟩ sa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:52:37.991131871Z",
+  "model": "glm-5.2"
+}

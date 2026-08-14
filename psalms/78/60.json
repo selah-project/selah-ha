@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Kuma Ya bar mazaunin Shilo, ⟨wato⟩ tantanin da Ya tabbatar a cikin mutane.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "Kuma Ya bar"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "mazaunin"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Shilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tantanin"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "da Ya tabbatar"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "a cikin mutane"
+    }
+  ],
+  "timestamp": "2026-08-12T20:09:15.938834406Z",
+  "model": "glm-5.2"
+}

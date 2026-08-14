@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Dominatora mafarauta sun zama wawaye, kuma ⟨את⟩ Yahweh ba su nema ba, don haka ba su fahimta ba, kuma dukan garkensu ya watse.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "נִבְעֲרוּ֙",
+      "gloss": "sun zama wawaye"
+    },
+    {
+      "surface": "הָֽרֹעִ֔ים",
+      "gloss": "mafarauta"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "דָרָ֑שׁוּ",
+      "gloss": "su nema ba"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "domin"
+    },
+    {
+      "surface": "כֵּן֙",
+      "gloss": "haka"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הִשְׂכִּ֔ילוּ",
+      "gloss": "su fahimta ba"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "kuma dukan"
+    },
+    {
+      "surface": "מַרְעִיתָ֖ם",
+      "gloss": "garkensu"
+    },
+    {
+      "surface": "נָפֽוֹצָה",
+      "gloss": "ya watse"
+    }
+  ],
+  "timestamp": "2026-08-12T15:09:51.993097570Z",
+  "model": "glm-5.2"
+}

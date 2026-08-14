@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "ma idan su kwanta biyu kuma su ji ɗumi musu; amma ɗaya, ta yaya zai ji ɗumi?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "su kwanta"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "kuma su ji ɗumi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "amma ɗaya"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ta yaya"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "zai ji ɗumi"
+    }
+  ],
+  "timestamp": "2026-08-12T22:40:46.177896149Z",
+  "model": "glm-5.2"
+}

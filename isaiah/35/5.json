@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Sa'an nan idanun masu āma za a buɗe, kuma kunãnun kurame za a buɗe.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Sa'an nan"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "za a buɗe"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "idanun"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "masu āma"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "kuma kunãnun"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "kurame"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "za a buɗe"
+    }
+  ],
+  "timestamp": "2026-08-12T13:54:50.646814504Z",
+  "model": "glm-5.2"
+}

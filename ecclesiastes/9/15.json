@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma aka samu a cikinsa wani mutum talauci mai hikima, kuma shi ya tsayar da ⟨את⟩gari da hikimarsa, amma wani mutum ba ya tuna da ⟨את⟩wannan mutumin talauci.",
+  "tokens": [
+    {
+      "surface": "וּמָצָא",
+      "gloss": "kuma aka samu"
+    },
+    {
+      "surface": "בָהּ",
+      "gloss": "a cikinsa"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "wani mutum"
+    },
+    {
+      "surface": "מִסְכֵּן",
+      "gloss": "talauci"
+    },
+    {
+      "surface": "חָכָם",
+      "gloss": "mai hikima"
+    },
+    {
+      "surface": "וּמִלַּט",
+      "gloss": "kuma ya tsayar"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "gari"
+    },
+    {
+      "surface": "הָעִיר",
+      "gloss": "gari"
+    },
+    {
+      "surface": "בְּחָכְמָתוֹ",
+      "gloss": "da hikimarsa"
+    },
+    {
+      "surface": "וְאָדָם",
+      "gloss": "amma wani mutum"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "זָכַר",
+      "gloss": "ya tuna"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "wannan mutumin talauci"
+    },
+    {
+      "surface": "הָאִישׁ",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "הַמִּסְכֵּן",
+      "gloss": "talauci"
+    },
+    {
+      "surface": "הַהוּא",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-12T22:48:10.939606159Z",
+  "model": "glm-5.2"
+}

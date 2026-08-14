@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 111,
+  "translation": "Fargabar Yahweh ⟨ita⟩ farkon hikima, fahimta ta gari ga duk masu aikata ⟨a⟩; godiyar Sa tana tsayawa har abada.",
+  "tokens": [
+    {
+      "surface": "רֵאשִׁית",
+      "gloss": "farkon"
+    },
+    {
+      "surface": "חָכְמָה",
+      "gloss": "hikima"
+    },
+    {
+      "surface": "יִרְאַת",
+      "gloss": "Fargabar"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שֵׂכֶל",
+      "gloss": "fahimta"
+    },
+    {
+      "surface": "טוֹב",
+      "gloss": "ta gari"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "ga duk"
+    },
+    {
+      "surface": "עֹשֵׂיהֶם",
+      "gloss": "masu aikata ⟨a⟩"
+    },
+    {
+      "surface": "תְּהִלָּתוֹ",
+      "gloss": "godiyar Sa"
+    },
+    {
+      "surface": "עֹמֶדֶת",
+      "gloss": "tana tsayawa"
+    },
+    {
+      "surface": "לָעַד",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-12T20:34:39.462000289Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 132,
+  "translation": "Waƙar hawa. Ka tuna, Yahweh, don Dawuda, ⟨את⟩ dukan wahalarsa.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Waƙar"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Ka tuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "don Dawuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukan wahalarsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "wahalarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:49:23.741937639Z",
+  "model": "glm-5.2"
+}

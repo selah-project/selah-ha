@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 14:20",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Sai ya shiga tsakanin sansanin Mitsrayim da sansanin Yisra'el; kuma ya kasance ⟨akwai⟩ gajimare da duhu, sai ya haskaka ⟨את⟩ daren; kuma waɗannan ba su kusanto wa junan dukan daren.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "sai ya shiga"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "sansanin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "sansanin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "gajimare"
+    },
+    {
+      "surface": "והחשך",
+      "gloss": "da duhu"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "sai ya haskaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daren"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "daren"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "su kusanto"
+    },
+    {
+      "surface": "זה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "junan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "daren"
+    }
+  ],
+  "timestamp": "2026-08-12T00:50:28.626051693Z",
+  "model": "glm-5.2"
+}

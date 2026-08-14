@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 15:20",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma Shaul ya ce wa Shemuël: A'a, na saurari muryar Yahweh, na tafi a hanya da Yahweh ya aike ni ni, na kawo ⟨את⟩ Agag sarkin Amaleka, ⟨kuma⟩ ⟨את⟩ Amaleka na sadaukar da shi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨A'a⟩"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "na saurari"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "na tafi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "a hanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ce⟩"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ya aike ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "na kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨kuma⟩ ⟨את⟩",
+      "marks": "Amaleka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "החרמתי",
+      "gloss": "na sadaukar da shi"
+    }
+  ],
+  "timestamp": "2026-08-12T09:01:17.723775090Z",
+  "model": "glm-5.2"
+}

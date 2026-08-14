@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 1:8",
+  "book": "micah",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "A kan wannan zan yi ƙaƙaƙwa kuma zan yi rawar, zan tafi ɗaɗaɗɗe kaɗan kuma tsirara; zan yi ƙaƙaƙwa kamar kuraye, da rawa kamar 'ƴan tsuntsayen jaƙan dangi.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "זֹאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "אֶסְפְּדָה",
+      "gloss": "zan yi ƙaƙaƙwa"
+    },
+    {
+      "surface": "וְאֵילִילָה",
+      "gloss": "kuma zan yi rawar"
+    },
+    {
+      "surface": "אֵילְכָה",
+      "gloss": "zan tafi"
+    },
+    {
+      "surface": "שילל",
+      "gloss": "ɗaɗaɗɗe kaɗan"
+    },
+    {
+      "surface": "וְעָרוֹם",
+      "gloss": "kuma tsirara"
+    },
+    {
+      "surface": "אֶעֱשֶׂה",
+      "gloss": "zan yi"
+    },
+    {
+      "surface": "מִסְפֵּד",
+      "gloss": "ƙaƙaƙwa"
+    },
+    {
+      "surface": "כַּתַּנִּים",
+      "gloss": "kamar kuraye"
+    },
+    {
+      "surface": "וְאֵבֶל",
+      "gloss": "da rawar"
+    },
+    {
+      "surface": "כִּבְנוֹת",
+      "gloss": "kamar 'ƴan"
+    },
+    {
+      "surface": "יַעֲנָה",
+      "gloss": "tsuntayen jaƙan dangi"
+    }
+  ],
+  "timestamp": "2026-08-12T18:41:24.685422502Z",
+  "model": "glm-5.2"
+}

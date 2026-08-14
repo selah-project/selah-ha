@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Daga muryar tarin jama'a, jama'o'i sun gudu; daga tsayuwar ka, al'ummomi sun watse.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "daga muryar"
+    },
+    {
+      "surface": "המון",
+      "gloss": "tarin jama'a"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "sun gudu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "jama'o'i"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "daga tsayuwar ka"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "sun watse"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "al'ummomi"
+    }
+  ],
+  "timestamp": "2026-08-12T13:51:00.071974094Z",
+  "model": "glm-5.2"
+}

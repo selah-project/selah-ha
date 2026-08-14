@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kai kuma, ka yi wa ⟨את⟩ ya ƙaunata wa ⟨na⟩ Isra'ila su kawo maka man zaiti mai tsabta, an kaɗa, don hasken tabarma, don haddamar fitila kullum.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kai kuma"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "ka yi wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ya ƙaunata wa Isra'ila"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya ƙaunata wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "su kawo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "man"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zaiti"
+    },
+    {
+      "surface": "זך",
+      "gloss": "mai tsabta"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "an kaɗa"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "don hasken tabarma"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "don haddamar"
+    },
+    {
+      "surface": "נר",
+      "gloss": "fitila"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kullum"
+    }
+  ],
+  "timestamp": "2026-08-12T01:08:25.613976816Z",
+  "model": "glm-5.2"
+}

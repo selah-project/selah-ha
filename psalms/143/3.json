@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 143,
+  "translation": "Domin maƙiyi ya bi rãyar da rai, ya murƙushe zuwa ƙasa rayuwata, ya sa ni zauna cikin duhu, kamar matattu na dā.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ya bi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "maƙiyi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rãyar da rai"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "ya murƙushe"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "zuwa ƙasa"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "rayuwata"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "ya sa ni zauna"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "cikin duhu"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "kamar matattu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na dā"
+    }
+  ],
+  "timestamp": "2026-08-12T20:55:30.119869570Z",
+  "model": "glm-5.2"
+}

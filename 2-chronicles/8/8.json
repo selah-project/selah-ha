@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 8:8",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "daga zuriyarsu, waɗanda suka bari a bayansu a ƙasar, waɗanda banī Yisra'el ba su toho su ⟨ba⟩, Shelomoh ya ɗauke su aiki har zuwa yau wannan rana.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "zuriyarsu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "נותרו",
+      "gloss": "suka bari"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "a bayansu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כלום",
+      "gloss": "su thohe su"
+    },
+    {
+      "surface": "בני",
+      "gloss": "banī"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "Shelomoh ya ɗauke su"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "aiki"
+    },
+    {
+      "surface": "למס",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yau"
+    },
+    {
+      "surface": "היום",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "rana"
+    }
+  ],
+  "timestamp": "2026-08-13T02:43:47.541263738Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 141,
+  "translation": "Ya dō ni tsadiƙe da chesed, kuma ya gargaɗi ni — ⟨shi ne⟩ man shugawa; bai ki shugabata ⟨ba⟩, domin ⟨har⟩ da shinsa, addu'a ta ⟨ta kasance⟩ a cikin mugayensu.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "ya dō ni"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsadiƙe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "kuma ya gargaɗi ni"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "man"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "shugawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bai"
+    },
+    {
+      "surface": "יני",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "shugabata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨har⟩ da shinsa"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "kuma addu'a ta"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "a cikin mugayensu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:55:23.710094797Z",
+  "model": "glm-5.2"
+}

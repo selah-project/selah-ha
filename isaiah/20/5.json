@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma za a firgita, za a ji kunya saboda Kush ⟨ce⟩ bege ⟨na⟩ su, kuma saboda Mitsrayim ⟨ce⟩ ƙawar ⟨na⟩ su.",
+  "tokens": [
+    {
+      "surface": "וְחַתּוּ",
+      "gloss": "Kuma za a firgita"
+    },
+    {
+      "surface": "וָבֹשׁוּ",
+      "gloss": "za a ji kunya"
+    },
+    {
+      "surface": "מִכּוּשׁ",
+      "gloss": "saboda Kush"
+    },
+    {
+      "surface": "מַבָּטָם",
+      "gloss": "bege ⟨na⟩ su"
+    },
+    {
+      "surface": "וּמִן",
+      "gloss": "kuma saboda"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "תִּפְאַרְתָּֽם",
+      "gloss": "ƙawar ⟨na⟩ su"
+    }
+  ],
+  "timestamp": "2026-08-12T13:21:53.687312347Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 8:11",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma daga ɗaya daga cikin 'ya'yan Bevay, Zəkharyah ɗan Bevay, kuma tare da shi ashirin da takwas ⟨ne⟩ maza.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "Kuma daga ɗaya daga cikin 'ya'yan"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "Bevay"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Zəkharyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "Bevay"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "kuma tare da shi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "da takwas"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "maza"
+    }
+  ],
+  "timestamp": "2026-08-13T02:37:07.983555026Z",
+  "model": "glm-5.2"
+}

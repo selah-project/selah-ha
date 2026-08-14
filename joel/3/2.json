@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Haka kuma a kan bayi da a kan kuyangi, a cikinwanannan kwanakin, ni ⟨ne⟩ zan zuba ⟨את⟩ ruhuma.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Haka kuma"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "bayi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da a kan"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "kuyangi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "a cikin"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "wanannan kwanakin"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "ni ⟨ne⟩ zan zuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruhuma"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhuma"
+    }
+  ],
+  "timestamp": "2026-08-12T18:26:13.523996476Z",
+  "model": "glm-5.2"
+}

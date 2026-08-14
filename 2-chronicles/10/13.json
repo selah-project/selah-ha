@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 10:13",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma sarki ya amsa musu da tauri, kuma sarki Rehav'am ya bar ⟨את⟩ shawarar dattijo.",
+  "tokens": [
+    {
+      "surface": "ויענם",
+      "gloss": "ya amsa musu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "da tauri"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "ya bar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehav'am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shawarar"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "shawarar"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "dattijo"
+    }
+  ],
+  "timestamp": "2026-08-13T02:45:05.978314857Z",
+  "model": "glm-5.2"
+}

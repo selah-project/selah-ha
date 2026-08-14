@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma daga kabilar Reʾuven: ⟨את⟩ Betser da ⟨את⟩ makiyayinta, da ⟨את⟩ Yahẓah da ⟨את⟩ makiyayinta.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kuma daga kabilar"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reʾuven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "makiyayinta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "makiyayinta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Yahẓah"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yahẓah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "makiyayinta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "makiyayinta"
+    }
+  ],
+  "timestamp": "2026-08-12T07:03:04.304497196Z",
+  "model": "glm-5.2"
+}

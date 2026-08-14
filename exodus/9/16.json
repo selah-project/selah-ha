@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Amma domin wannan, na tsiyar da kai, domin nuna maka ⟨את⟩ ƙarfina, kuma domin a faɗi sunana a dukkan ƙasa.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Amma"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "domin"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "na tsiyar da kai"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "nuna maka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙarfina"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ƙarfina"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "kuma domin"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "a faɗi"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "sunana"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a dukkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:39:20.701011898Z",
+  "model": "glm-5.2"
+}

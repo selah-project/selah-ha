@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma Shaul ya zo har zuwa birnin ʿAmaleq, ya kuma kwanto a cikin kwari.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kuma ya zo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ʿAmaleq"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "ya kuma kwanto"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "a cikin kwari"
+    }
+  ],
+  "timestamp": "2026-08-12T08:58:50.580565054Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Da ƙanƙani sun ƙashe ni a ƙasa, amma ni ban bar ⟨dokoki⟩ ba.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Da ƙanƙani"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "sun ƙashe ni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "amma ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ban"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "bar"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "dokoki"
+    }
+  ],
+  "timestamp": "2026-08-13T02:27:33.473948751Z",
+  "model": "glm-5.2"
+}

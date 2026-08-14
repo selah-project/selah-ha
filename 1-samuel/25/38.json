@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma aka yi kamar kwana goma, kuma Yahweh ya yi wa Nabal walƙi, ⟨את⟩ Nabal, sai ya mutu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma aka yi"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "kamar goma"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "kuma ya yi walƙi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabal"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "sai ya mutu"
+    }
+  ],
+  "timestamp": "2026-08-12T09:43:03.303535893Z",
+  "model": "glm-5.2"
+}

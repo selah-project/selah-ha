@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 132,
+  "translation": "Kuma malaman addin⟨in⟩ ⟨ta⟩ zan yi ta tufatar da ceto, kuma masu kusa da ⟨ta⟩ za su yi kiran murna.",
+  "tokens": [
+    {
+      "surface": "וְֽ֭כֹהֲנֶיהָ",
+      "gloss": "Kuma malaman addin⟨in⟩ ⟨ta⟩"
+    },
+    {
+      "surface": "אַלְבִּ֣ישׁ",
+      "gloss": "zan yi ta tufatar da"
+    },
+    {
+      "surface": "יֶ֑שַׁע",
+      "gloss": "ceto"
+    },
+    {
+      "surface": "וַ֝חֲסִידֶ֗יהָ",
+      "gloss": "kuma masu kusa da ⟨ta⟩"
+    },
+    {
+      "surface": "רַנֵּ֥ן",
+      "gloss": "za su yi kiran"
+    },
+    {
+      "surface": "יְרַנֵּֽנוּ",
+      "gloss": "murna"
+    }
+  ],
+  "timestamp": "2026-08-12T20:48:54.479229512Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 126,
+  "translation": "⟨Waɗanda⟩ suke shuka cikin hawaye, da reraƙo su zaƙe girbi.",
+  "tokens": [
+    {
+      "surface": "הַזֹּרְעִים",
+      "gloss": "suke shuka"
+    },
+    {
+      "surface": "בְּדִמְעָה",
+      "gloss": "cikin hawaye"
+    },
+    {
+      "surface": "בְּרִנָּה",
+      "gloss": "da reraƙo"
+    },
+    {
+      "surface": "יִקְצֹרוּ",
+      "gloss": "su zaƙe girbi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:49:08.971038087Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma sarki ya ce mata, \"Mene ne ake?\" Ta kuma ce, \"Ba tare da shakka ⟨ba⟩, mace ce uwargida, ni, kuma mijina ya mutu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ake"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Ta kuma ce"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Ba tare da shakka"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "uwargida"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kuma ya mutu"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "mijina"
+    }
+  ],
+  "timestamp": "2026-08-12T10:13:48.866475358Z",
+  "model": "glm-5.2"
+}

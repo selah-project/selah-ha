@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 146,
+  "translation": "Kada ku dogara ga sarakuna, ga ɗan adam⟨wanda⟩ babu ⟨ga⟩ shi ceto.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "ku dogara"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "ga sarakuna"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "ga ɗan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "wanda babu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ga⟩ shi"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "ceto"
+    }
+  ],
+  "timestamp": "2026-08-12T20:59:01.196971723Z",
+  "model": "glm-5.2"
+}

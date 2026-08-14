@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma kohan ya rubuta ⟨את⟩ waɗannan la'anobi a cikin littafi, kuma ya goge ⟨zuwa⟩ ruwan masu cinƙaci.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "kuma ya rubuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la'anobi"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "la'anobi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohan"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "a cikin littafi"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "kuma ya goge"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨zuwa⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "masu cinƙaci"
+    }
+  ],
+  "timestamp": "2026-08-12T03:28:02.023835944Z",
+  "model": "glm-5.2"
+}

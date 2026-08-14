@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Da kyau ⟨ne⟩ tantuna, ya Ya'akob, masaukanka, na girmā, ya Yisra'el!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "da kyau"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "tantuna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Ya'akob"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "masaukanka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-13T01:52:59.653666161Z",
+  "model": "glm-5.2"
+}

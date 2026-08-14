@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Sa'an nan Dawuda ya ce: \"Yahweh, Elohim na Yisra'el, bã ka jin lõkacin da bãrinku ya ji cewa Sha'ul yana neman zuwa Qe'ila don ya lalata birnin saboda ni?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sa'an nan ya ce"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bã ka jin"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "lokacin da bãrinku ya ji"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bãrinku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "yana neman"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qe'ila"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "don ya lalata"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "sabada ni"
+    }
+  ],
+  "timestamp": "2026-08-12T09:34:04.229062557Z",
+  "model": "glm-5.2"
+}

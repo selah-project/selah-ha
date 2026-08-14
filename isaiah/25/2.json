@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 25:2",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Domin ka sanya birni zuwa tudun-jinge, ƙauye mai katanga zuwa rugujewa, fadar baƙora daga birni, har abada ba za a gina ta ba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ka-sanya"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "birni"
+    },
+    {
+      "surface": "לגל",
+      "gloss": "zuwa-tudun-jinge"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ƙauye"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "mai-katanga"
+    },
+    {
+      "surface": "למפלה",
+      "gloss": "zuwa-rugujewa"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "fada"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "baƙora"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "daga-birni"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har-abada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "za-a-gina-ta"
+    }
+  ],
+  "timestamp": "2026-08-12T13:35:06.523094484Z",
+  "model": "glm-5.2"
+}

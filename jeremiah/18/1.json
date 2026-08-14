@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "⟨The⟩ kalma⟨ce⟩ da ta kasance ga Yirmeyahu daga ⟨את⟩ Yahweh, tana cewa:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "⟨The⟩ kalma⟨ce⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ta kasance"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "daga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tana cewa"
+    }
+  ],
+  "timestamp": "2026-08-12T15:36:43.930850190Z",
+  "model": "glm-5.2"
+}

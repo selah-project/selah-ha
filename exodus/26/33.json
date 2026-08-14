@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 26:33",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma za ka sa ⟨את⟩ katangar warewa a ƙarƙashin ƙuguyoyin, kuma za ka kawo can, a cikin ⟨lagin⟩ katangar warewa, ⟨את⟩ akwatin shaida, kuma katangar warewa za ta raba muku tsakanin Wurin Tsarki da tsakanin Tsarkin Tsaruka.",
+  "tokens": [
+    {
+      "surface": "וְנָתַתָּ֣ה",
+      "gloss": "Kuma za ka sa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "katangar warewa"
+    },
+    {
+      "surface": "הַפָּרֹכֶת֮",
+      "gloss": "katangar warewa"
+    },
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "a ƙarƙashin"
+    },
+    {
+      "surface": "הַקְּרָסִים֒",
+      "gloss": "ƙuguyoyin"
+    },
+    {
+      "surface": "וְהֵבֵאתָ֥",
+      "gloss": "kuma za ka kawo"
+    },
+    {
+      "surface": "שָׁ֨מָּה֙",
+      "gloss": "can"
+    },
+    {
+      "surface": "מִבֵּ֣ית",
+      "gloss": "a cikin"
+    },
+    {
+      "surface": "לַפָּרֹ֔כֶת",
+      "gloss": "⟨lagin⟩ katangar warewa"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin shaida"
+    },
+    {
+      "surface": "אֲר֣וֹן",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "הָעֵד֑וּת",
+      "gloss": "shaida"
+    },
+    {
+      "surface": "וְהִבְדִּילָ֤ה",
+      "gloss": "kuma za ta raba"
+    },
+    {
+      "surface": "הַפָּרֹ֨כֶת֙",
+      "gloss": "katangar warewa"
+    },
+    {
+      "surface": "לָכֶ֔ם",
+      "gloss": "muku"
+    },
+    {
+      "surface": "בֵּ֣ין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "הַקֹּ֔דֶשׁ",
+      "gloss": "Wurin Tsarki"
+    },
+    {
+      "surface": "וּבֵ֖ין",
+      "gloss": "da tsakanin"
+    },
+    {
+      "surface": "קֹ֥דֶשׁ",
+      "gloss": "Tsarkin"
+    },
+    {
+      "surface": "הַקֳּדָשִֽׁים",
+      "gloss": "Tsaruka"
+    }
+  ],
+  "timestamp": "2026-08-13T01:47:21.981774929Z",
+  "model": "glm-5.2"
+}

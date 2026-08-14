@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Tayar da idanu da faɗin zuciya: noman mugaye zunubi ne.",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "Tayar da"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "idanu"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "da faɗin"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciya"
+    },
+    {
+      "surface": "נר",
+      "gloss": "noman"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mugaye"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "zunubi ne"
+    }
+  ],
+  "timestamp": "2026-08-12T21:24:46.853246857Z",
+  "model": "glm-5.2"
+}

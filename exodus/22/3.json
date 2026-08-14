@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Idan tabbata ⟨an same⟩ ana samun ⟨a hannunsa⟩ abin da aka sace, daga shanu har jaku, har ⟨tumaki⟩, masu rai, biyu ne ya biya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "tabbata"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "⟨an same⟩"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "⟨a hannunsa⟩"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "abin da aka sace"
+    },
+    {
+      "surface": "משור",
+      "gloss": "daga shanu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "jaku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "שה",
+      "gloss": "⟨tumaki⟩"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "masu rai"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ya biya"
+    }
+  ],
+  "timestamp": "2026-08-12T01:03:53.954333815Z",
+  "model": "glm-5.2"
+}

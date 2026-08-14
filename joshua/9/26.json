@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma ⟨ya⟩ yi musu haka, kuma ya tsire su daga hannun ʾǎbǎkán Yisraʾel, ⟨את⟩ su daga hannun, kuma ba su kashe su ba.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ⟨ya⟩ yi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "kuma ya tsire"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ su",
+      "marks": "su"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ʾǎbǎkán"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraʾel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "su kashe su ba"
+    }
+  ],
+  "timestamp": "2026-08-12T06:21:11.477653596Z",
+  "model": "glm-5.2"
+}

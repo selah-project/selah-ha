@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 70,
+  "translation": "Elohim, don ka cetona ni, Yahweh, don taimakona, gaggauta!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "don ka cetona ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "don taimakona"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "gaggauta"
+    }
+  ],
+  "timestamp": "2026-08-12T20:00:52.667769498Z",
+  "model": "glm-5.2"
+}

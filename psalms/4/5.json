@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Ku ɗabi, kuma kada ku yi zunubi; ku faɗa a cikin zukatanku a kan kwajiyarku, kuma ku shirgu. Selah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "ku ɗabi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "ku yi zunubi"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ku faɗa"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "a cikin zukatanku"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "kwajiyarku"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "kuma ku shirgu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T19:14:33.278443174Z",
+  "model": "glm-5.2"
+}

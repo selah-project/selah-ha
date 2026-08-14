@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 19:5",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma ya tsayar da masu shari'a a cikin ƙasa, a duk garuruwan Yehuda masu katange, ga kowane gari da gari.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "kuma ya tsayar da"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "masu shari'a"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a cikin ƙasa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "garuruwan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "masu katange"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ga kowane gari"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "da gari"
+    }
+  ],
+  "timestamp": "2026-08-13T02:49:10.460320316Z",
+  "model": "glm-5.2"
+}

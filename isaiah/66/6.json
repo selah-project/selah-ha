@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 66,
+  "translation": "Muryar tādā daga gari, murya daga haikāli, muryar Yahweh, Mai sāka lada ga maƙiyansa.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "tādā"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "daga gari"
+    },
+    {
+      "surface": "קול",
+      "gloss": "murya"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "daga haikāli"
+    },
+    {
+      "surface": "קול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Mai sāka"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "lada"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "ga maƙiyansa"
+    }
+  ],
+  "timestamp": "2026-08-12T14:47:16.535645718Z",
+  "model": "glm-5.2"
+}

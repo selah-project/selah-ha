@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Sai ya tafi ⟨ta⟩ wata hanya, bai koma ⟨ta⟩ hanya da ya zo ⟨ta⟩ ita zuwa Bet־El ba.",
+  "tokens": [
+    {
+      "surface": "וַיֵּ֖לֶךְ",
+      "gloss": "Sai ya tafi"
+    },
+    {
+      "surface": "בְּדֶ֣רֶךְ",
+      "gloss": "⟨ta⟩ hanya"
+    },
+    {
+      "surface": "אַחֵ֑ר",
+      "gloss": "wata"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שָׁ֣ב",
+      "gloss": "ya koma"
+    },
+    {
+      "surface": "בַּדֶּ֔רֶךְ",
+      "gloss": "⟨ta⟩ hanya"
+    },
+    {
+      "surface": "אֲשֶׁ֛ר",
+      "gloss": "da"
+    },
+    {
+      "surface": "בָּ֥א",
+      "gloss": "ya zo"
+    },
+    {
+      "surface": "בָ֖הּ",
+      "gloss": "⟨ta⟩ ita"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "בֵּֽית",
+      "gloss": "Bet־"
+    },
+    {
+      "surface": "אֵֽל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-12T11:25:41.230604321Z",
+  "model": "glm-5.2"
+}

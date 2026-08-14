@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma yanzu ku tsaya daki, kuma in yi hukunci ⟨את⟩ kai gaban Yahweh, game da ⟨את⟩ dukkan adalcin Yahweh wanda ya aikata ⟨את⟩ tare da ku da ⟨את⟩ iyanku.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kuma yanzu"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "ku tsaya daki"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "kuma in yi hukunci"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kai"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan adalci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukka"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "adalci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya aikata"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ tare da ku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "iyanku"
+    }
+  ],
+  "timestamp": "2026-08-12T08:53:32.663493510Z",
+  "model": "glm-5.2"
+}

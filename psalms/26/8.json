@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Yahweh, na ƙaunari mazaunin gida naka, da kuma wurin mazainin ɗaukaka naka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "na ƙaunari"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "mazaunin"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "gida naka"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "da kuma wurin"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "mazainin"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ɗaukaka naka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:30:50.189637315Z",
+  "model": "glm-5.2"
+}

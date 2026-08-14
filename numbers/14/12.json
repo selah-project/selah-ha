@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Zan duka musu da annoba, kuma zan bari ⟨a⟩ wata kabila ⟨ce⟩, kuma zan mayar da ⟨את⟩ kai zuwa wata kasa mai girma kuma mai ƙarfi fiye da ita.»",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "Zan duka"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "da annoba"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "zan bari"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "zan mayar"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kai",
+      "marks": "zuwa wata kasa"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "zuwa wata kasa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mai girma"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "kuma mai ƙarfi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "fiye da ita"
+    }
+  ],
+  "timestamp": "2026-08-12T03:53:04.133839502Z",
+  "model": "glm-5.2"
+}

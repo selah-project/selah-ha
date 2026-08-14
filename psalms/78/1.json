@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Maskĩl na Asaf. Ku saƙa kunne, ga mutãnenĩ, ⟨ga⟩ Tõrarĩ, ku lũƙa kuƙafã kunanku, ⟨ga⟩ maganganun bakĩna.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskĩl"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "na Asaf"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Ku saƙa kunne"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ga mutãnenĩ"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tõrarĩ"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "ku lũƙa kuƙafã"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "kunanku"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "⟨ga⟩ maganganun"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bakĩna"
+    }
+  ],
+  "timestamp": "2026-08-12T20:08:44.734116828Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Bari ⟨a⟩ kammala sharri na mugaye, kuma ka tabbatar da mai adalci; Elohim mai shari'a yana gwada zukata da ƙodanni.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "kammala"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bari"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sharri"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "na mugaye"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "kuma ka tabbatar da"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mai adalci"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "yana gwada"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "zukata"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "da ƙodanni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mai shari'a"
+    }
+  ],
+  "timestamp": "2026-08-13T02:22:54.094743268Z",
+  "model": "glm-5.2"
+}

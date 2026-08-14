@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma Yehoshuwa ya tashi da sassafe, kuma kohanim sun ɗauki ⟨את⟩ akwatin Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Kuma ya tashi da sassafe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "safiya"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "kuma sun ɗauki"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T06:17:05.669712715Z",
+  "model": "glm-5.2"
+}

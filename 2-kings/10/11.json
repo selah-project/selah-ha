@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 10:11",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma Yehu ya duka ⟨את⟩ duka saura waɗanda suka rage ga gidan Ahab a Yizre'el, da duka manyan sa, da abokan saninsa, da firistocin sa, har ya bar ba shi da wani sa raye.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "kuma ya duka"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka saura waɗanda suka rage"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "saura waɗanda suka rage"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ga gidan"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "a Yizre'el"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da duka"
+    },
+    {
+      "surface": "גדליו",
+      "gloss": "manyan sa"
+    },
+    {
+      "surface": "ומידעיו",
+      "gloss": "da abokan saninsa"
+    },
+    {
+      "surface": "וכהניו",
+      "gloss": "da firistocin sa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ba"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ya bar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shĩ"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "wani sa raye"
+    }
+  ],
+  "timestamp": "2026-08-12T12:15:14.016426742Z",
+  "model": "glm-5.2"
+}

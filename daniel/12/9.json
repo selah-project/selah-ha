@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma ⟨ya⟩ ce, tafi Daniyel, domin an rufe kuma an hatime ⟨אֶת⟩ kalmomi, har zuwa lokacin ƙarshe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ⟨ya⟩ ce"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tafi"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "an rufe"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "kuma an hatime"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kalmomi",
+      "marks": "kalmomi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "lokacin"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ƙarshe"
+    }
+  ],
+  "timestamp": "2026-08-12T23:18:46.063017867Z",
+  "model": "glm-5.2"
+}

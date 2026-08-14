@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma 'ya'yan Yisra'el suka tura ⟨את⟩ Ba'ali da ⟨את⟩ Ashtarot, suka bauta ⟨את⟩ Yahweh kadai.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "suka tura"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ba'ali"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Ba'ali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ashtarot"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "suka bauta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "kadai"
+    }
+  ],
+  "timestamp": "2026-08-12T08:41:29.494987831Z",
+  "model": "glm-5.2"
+}

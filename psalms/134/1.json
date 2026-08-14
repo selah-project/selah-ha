@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 134,
+  "translation": "Waƙar ⟨maƙuɗa⟩. Ga shi, ku gaisa ⟨את⟩ Yahweh, duk bayin Yahweh, waɗanda suke tsaye a cikin gidan Yahweh a cikin dare-dare.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Waƙar"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "⟨maƙuɗa⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ga shi"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ku gaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bayin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "waɗanda suke tsaye"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a cikin gidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "a cikin dare-dare"
+    }
+  ],
+  "timestamp": "2026-08-12T20:49:29.149496439Z",
+  "model": "glm-5.2"
+}

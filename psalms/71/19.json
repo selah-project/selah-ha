@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 71,
+  "translation": "Kuma adalćinka, Elohim, ⟨ya kai⟩ har tudu, wanda ka yi manyan abubua, Elohim, wa ⟨ne⟩ kamar kai?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "Kuma adalćinka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "tudu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ka yi"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "many an abubua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kamar kai"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:50.330942498Z",
+  "model": "glm-5.2"
+}

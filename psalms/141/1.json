@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 141,
+  "translation": "Waƙa ta Dawuda. Yahweh, na kira Ka, yi gaggāwa gare ni; saurara muryā ta, a lokacin da na kira Ka.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Waƙa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ta Dawuda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "na kira Ka"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "yi gaggāwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "saurara"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "muryā ta"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "a lokacin da na kira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:54:59.136277148Z",
+  "model": "glm-5.2"
+}

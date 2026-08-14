@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 13:5",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma ⟨aka⟩ ƙaga altar ɗin, sai aka zuba toka daga altar ɗin, kamar alamar da mutumin ⟨na⟩ Elohim ya bayar cikin kalmar Yahweh.",
+  "tokens": [
+    {
+      "surface": "והמזבח",
+      "gloss": "kuma altar ɗin"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "⟨aka⟩ ƙaga"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "sai aka zuba"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "toka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar ɗin"
+    },
+    {
+      "surface": "כמופת",
+      "gloss": "kamar alamar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya bayar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨na⟩ Elohim"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "cikin kalmar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T11:24:48.246214641Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 67,
+  "translation": "Al'ummomi su gode maka, Elohim; al'ummomi duka su gode maka.",
+  "tokens": [
+    {
+      "surface": "יֹוד֖וּךָ",
+      "gloss": "su gode maka"
+    },
+    {
+      "surface": "עַמִּ֥ים",
+      "gloss": "al'ummomi"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יֹ֝וד֗וּךָ",
+      "gloss": "su gode maka"
+    },
+    {
+      "surface": "עַמִּ֥ים",
+      "gloss": "al'ummomi"
+    },
+    {
+      "surface": "כֻּלָּֽם",
+      "gloss": "duka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:36.813101059Z",
+  "model": "glm-5.2"
+}

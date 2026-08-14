@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Kuma Elohim Ya bayyana ga Ya'akov sai kunya, a komawarsa daga Padan-Aram, kuma Ya albarkace shi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "kuma Ya bayyana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sai kunya"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "a komawarsa"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "daga Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "kuma Ya albarkace"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:03:11.272019002Z",
+  "model": "glm-5.2"
+}

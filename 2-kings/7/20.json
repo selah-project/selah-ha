@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma ya kasance gare shi haka, mutanen suka taka ⟨את⟩ shi a ƙofar, kuma ya mutu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gare shi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "suka taka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "a ƙofar"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kuma ya mutu"
+    }
+  ],
+  "timestamp": "2026-08-12T12:11:32.964699650Z",
+  "model": "glm-5.2"
+}

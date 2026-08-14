@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma 'yan'uwansa sun ga cẽwa mahaifinsu yana sane da ⟨את⟩ shi fiye da duka 'yan'uwansa, sai suka ƙi ⟨את⟩ shi, ba su kuma iya fadǎmansa da salama.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Kuma suka ga"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "'yan'uwansa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cẽwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yana sane da"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "mahaifinsu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "fiye da duka"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "'yan'uwansa"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "sai suka ƙi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba su kuma"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "iya"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "fadǎmansa"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "da salama"
+    }
+  ],
+  "timestamp": "2026-08-12T00:07:40.583767061Z",
+  "model": "glm-5.2"
+}

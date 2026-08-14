@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Moshe ya miƙa ⟨את⟩ hannunsa a kan sama, kuma duhu mai yawa ya kasance a duk ƙasar Mitsrayim na kwana uku.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ya miƙa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannunsa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hannunsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duhu"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "mai yawa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "uku"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwana"
+    }
+  ],
+  "timestamp": "2026-08-12T00:43:19.931452291Z",
+  "model": "glm-5.2"
+}

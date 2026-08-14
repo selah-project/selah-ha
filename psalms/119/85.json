@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Mahalɓa sun yi mini ramuka, waɗanda ba su cikin ⟨dokarka⟩ ba.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "sun yi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mini"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "mahalɓa"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "ramuka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "cikin dokarka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:27:33.473512738Z",
+  "model": "glm-5.2"
+}

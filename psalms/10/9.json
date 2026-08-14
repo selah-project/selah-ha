@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Yana kwanton-ɓarna a cikin ɓoye kamar zaki a cikin ɓoyen gandu; yana kwanton-ɓarna don ya kama miskini; yana kama miskini a lokacin da yana tona shi cikin taransa.",
+  "tokens": [
+    {
+      "surface": "יֶאֱרֹ֬ב",
+      "gloss": "yana kwanton-ɓarna"
+    },
+    {
+      "surface": "בַּמִּסְתָּ֨ר",
+      "gloss": "a cikin ɓoye"
+    },
+    {
+      "surface": "כְּאַרְיֵ֬ה",
+      "gloss": "kamar zaki"
+    },
+    {
+      "surface": "בְסֻכֹּ֗ה",
+      "gloss": "a cikin ɓoyen gandu"
+    },
+    {
+      "surface": "יֶ֭אֱרֹב",
+      "gloss": "yana kwanton-ɓarna"
+    },
+    {
+      "surface": "לַחֲטֹ֣ף",
+      "gloss": "don ya kama"
+    },
+    {
+      "surface": "עָנִ֑י",
+      "gloss": "miskini"
+    },
+    {
+      "surface": "יַחְטֹ֥ף",
+      "gloss": "yana kama"
+    },
+    {
+      "surface": "עָ֝נִ֗י",
+      "gloss": "miskini"
+    },
+    {
+      "surface": "בְּמָשְׁכ֥וֹ",
+      "gloss": "a lokacin da yana tona shi"
+    },
+    {
+      "surface": "בְרִשְׁתּֽוֹ",
+      "gloss": "cikin taransa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:23.012235934Z",
+  "model": "glm-5.2"
+}

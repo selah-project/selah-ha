@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Hadayar ƙone na Asabar, a Asabar ta, ⟨aƙafa⟩ a kan hadayar ƙone ta yau da kullum, da hadayar abin sha ⟨ta⟩.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "Hadayar ƙone"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "na Asabar"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "a Asabar ta"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨aƙafa⟩ a kan"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "hadayar ƙone"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "ta yau da kullum"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "da hadayar abin sha ⟨ta⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T04:29:50.698235569Z",
+  "model": "glm-5.2"
+}

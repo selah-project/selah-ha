@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 22:21",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma ruhu ta fita, ta tsaya a gaban Yahweh, ta ce: Ni zan lallasheshi. Kuma Yahweh ya ce masa: Da abu?",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Kuma ta fita"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ta tsaya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ta ce"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "zan lallasheshi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "במה",
+      "gloss": "Da abu"
+    }
+  ],
+  "timestamp": "2026-08-12T11:50:02.061992789Z",
+  "model": "glm-5.2"
+}

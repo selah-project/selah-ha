@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 103,
+  "translation": "Ba za Ya yi ⟨ce⟩ husuma har abada ba, kuma ba za Ya ajiye fushinsa har abada ba.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לָנֶ֥צַח",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "יָרִ֑יב",
+      "gloss": "za Ya yi husuma"
+    },
+    {
+      "surface": "וְלֹ֖א",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "יִטּֽוֹר",
+      "gloss": "za Ya ajiye fushinsa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:35.584000766Z",
+  "model": "glm-5.2"
+}

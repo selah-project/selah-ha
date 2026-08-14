@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Ku saurari, duatsu, ⟨את⟩ shari'ar Yahweh, da kuma abubuwa masu ƙarfi, waɗanda suka zama kafafun ƙasa; domin Yahweh yana da shari'a da mutanensa, kuma da Yisra'el zai yi musu jayayya.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ku saurari"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shari'ar"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "shari'a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "da abubuwa masu ƙarfi"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "kafafun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "shari'a"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "da"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mutanensa"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kuma da"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "zai yi musu jayayya"
+    }
+  ],
+  "timestamp": "2026-08-12T18:45:45.926973100Z",
+  "model": "glm-5.2"
+}

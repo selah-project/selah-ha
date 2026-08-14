@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma suka rushe ⟨את⟩ abin tsaya na Ba'al, suka rushe ⟨את⟩ gidan Ba'al, suka sanya shi gidan dattijai, har zuwa wannan rana.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "Kuma suka rushe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin tsaya na Ba'al"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "abin tsaya"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "na Ba'al"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "suka rushe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan Ba'al"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Ba'al"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "suka sanya shi"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "gidan dattijai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "wannan rana"
+    }
+  ],
+  "timestamp": "2026-08-13T02:07:31.486922249Z",
+  "model": "glm-5.2"
+}

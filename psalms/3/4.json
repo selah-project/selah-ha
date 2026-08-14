@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Amma Kai, Yahweh, Kai ⟨ne⟩ garkuwa a kusa da ni, girma ta, kuma Mai ɗauke kan na!",
+  "tokens": [
+    {
+      "surface": "וְאַתָּ֣ה",
+      "gloss": "Amma Kai"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מָגֵ֣ן",
+      "gloss": "garkuwa"
+    },
+    {
+      "surface": "בַּעֲדִ֑י",
+      "gloss": "a kusa da ni"
+    },
+    {
+      "surface": "כְּבוֹדִ֗י",
+      "gloss": "girma ta"
+    },
+    {
+      "surface": "וּמֵרִ֥ים",
+      "gloss": "kuma Mai ɗauke"
+    },
+    {
+      "surface": "רֹאשִֽׁי",
+      "gloss": "kan na"
+    }
+  ],
+  "timestamp": "2026-08-12T19:15:17.781133146Z",
+  "model": "glm-5.2"
+}

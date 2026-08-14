@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Kuma ya sanya ⟨את⟩ ƙwaraƙwarai da ⟨את⟩ yaran su na farko, da ⟨את⟩ Lemuwa da yaran su na ƙarshe, da ⟨את⟩ Rahila da ⟨את⟩ Yusufu su na ƙarshe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "kuma ya sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙwaraƙwarai"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "ƙwaraƙwarai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "yaran su"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "yaran su"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "na farko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Lemuwa"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lemuwa"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "da yaran ta"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "na ƙarshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Rahila"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Yusufu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusufu"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "na ƙarshe"
+    }
+  ],
+  "timestamp": "2026-08-12T00:00:59.753486978Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 24:1",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma zuwa Mosheh ⟨an ce⟩, \"Hawa kai zuwa Yahweh, kai da Aharon, Nadav, da Avihu, da saba'in daga cikin dattijan Yisra'el, kuma ku yi lalle daga nesa.\"",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Kuma zuwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨an ce⟩"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Hawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "kai da Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "da Avihu"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "da saba'in"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "daga cikin dattijan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "והשתחויתם",
+      "gloss": "kuma ku yi lalle"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "daga nesa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:01:18.297894983Z",
+  "model": "glm-5.2"
+}

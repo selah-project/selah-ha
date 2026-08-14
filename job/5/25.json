@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 5:25",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma za ka sani cewa yawa ⟨ne⟩ zarka, kuma 'ya'yan ka kamar ciyawa ⟨ce⟩ ta ƙasa.",
+  "tokens": [
+    {
+      "surface": "וְֽיָדַעְתָּ",
+      "gloss": "Kuma za ka sani"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "רַב",
+      "gloss": "yawa"
+    },
+    {
+      "surface": "זַרְעֶ֑ךָ",
+      "gloss": "zarka"
+    },
+    {
+      "surface": "וְ֝צֶאֱצָאֶ֗יךָ",
+      "gloss": "kuma 'ya'yan ka"
+    },
+    {
+      "surface": "כְּעֵ֣שֶׂב",
+      "gloss": "kamar ciyawa"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "ta ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T21:42:27.355748876Z",
+  "model": "glm-5.2"
+}

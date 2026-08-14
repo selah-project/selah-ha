@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Haka Yehuda ma bai kiyaye ⟨את⟩ dokokin Yahweh, Elohim nasa ba, kuma suka tafi cikin dokokin Isra'ila waɗanda suka yi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Haka ma"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "kiyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dokokin"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "dokokin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim nasu"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "kuma suka tafi"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "cikin dokokin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "suka yi"
+    }
+  ],
+  "timestamp": "2026-08-12T12:34:11.716185957Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ya ɗora fitilu a gaban Yahweh, kamar yadda Yahweh ya umurci ⟨את⟩ Mosheh.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Kuma ya ɗora"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "fitilu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:39:20.114041958Z",
+  "model": "glm-5.2"
+}

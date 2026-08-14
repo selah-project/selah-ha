@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma za ka tuna cewa ⟨ka⟩ kasance bawa a Mitsrayim, kuma za ka kiyaye kuma ka aikata ⟨את⟩ waɗannan dokoki.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "Kuma za ka tuna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "bawa"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ka kasance"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "a Mitsrayim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "kuma za ka kiyaye"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "kuma ka aikata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waɗannan dokoki"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "dokoki"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    }
+  ],
+  "timestamp": "2026-08-13T01:54:46.488580098Z",
+  "model": "glm-5.2"
+}

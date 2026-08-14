@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 125,
+  "translation": "Ka kyautata, Yahweh, ga masu kyau, da kuma masu kaɗarice a cikin zukatansu.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Ka kyautata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "ga masu kyau"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "da kuma masu kaɗarice"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "a cikin zukatansu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:50:18.364432199Z",
+  "model": "glm-5.2"
+}

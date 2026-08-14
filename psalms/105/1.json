@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Ku gamsar da Yahweh, ku kira da sunansa, ku sanar da cikin al'ummomi ayyukansa.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Ku gamsar da"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ku kira da"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "ku sanar da"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "cikin al'ummomi"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ayyukansa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:30:42.270567699Z",
+  "model": "glm-5.2"
+}

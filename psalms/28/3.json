@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Kada ka ja ni tare da mugaye, kuma tare da masu aikata laifi, masu faɗar salama ⟨ga⟩ abokansu, a lokacin da mugunta ⟨ke⟩ cikin zukatansu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "ka ja ni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mugaye"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kuma tare da"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "masu aikata"
+    },
+    {
+      "surface": "און",
+      "gloss": "laifi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "masu faɗar"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salama"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨ga⟩"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "abokansu"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "a lokacin da mugunta"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "cikin zukatansu"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:00.365020236Z",
+  "model": "glm-5.2"
+}

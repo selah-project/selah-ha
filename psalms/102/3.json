@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 102,
+  "translation": "Kada ka ɓuya fuskarka daga gare ni a rana ta ⟨na⟩ wahala; ka sassauta kunnenka ⟨zuwa⟩ gare ni; a rana da na kira, gaggafa ka amsa ni.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ka ɓuya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuskarka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daga gare ni"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ta ⟨na⟩ wahala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "ka sassauta"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨zuwa⟩ gare ni"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "kunnenka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "da na kira"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "gaggafa"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ka amsa ni"
+    }
+  ],
+  "timestamp": "2026-08-12T20:26:50.366353263Z",
+  "model": "glm-5.2"
+}

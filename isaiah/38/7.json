@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Kuma wannan ⟨ce⟩ alama ⟨ce⟩ a gare ka daga ⟨את⟩ Yahweh, cewa Yahweh zai yi ⟨את⟩ wannan kalmar da ya faɗa:",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "kuma wannan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a gare ka"
+    },
+    {
+      "surface": "האות",
+      "gloss": "alama"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "daga ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "zai yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan kalmar"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kalmar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya faɗa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:09:56.001430542Z",
+  "model": "glm-5.2"
+}

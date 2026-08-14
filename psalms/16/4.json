@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Gumakan nasu za a yawaita; suka gaggauta bin wasu alloli. Ba zan zuba hadayansu na jini ba, kuma ba zan ɗauki ⟨את⟩ sunayensu a kan leɓenna.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "za a yawaita"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "gumakan nasu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "baya ga"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "suka gaggauta"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "zan zuba"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "hadayansu na"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "jini"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "zan ɗauki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunayensu"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "sunayensu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "leɓenna"
+    }
+  ],
+  "timestamp": "2026-08-12T19:21:45.171222830Z",
+  "model": "glm-5.2"
+}

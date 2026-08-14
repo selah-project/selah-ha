@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 2:2",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma bayanan sarki, masu bauta wa, suka ce: \"A nemi wa sarki 'yan mata masu kyawun gani, budurwa,\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Kuma suka ce"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "bayanan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "masu bauta wa"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "A nemi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "wa sarki"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "'yan mata"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "budurwa"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "masu kyau"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "gani"
+    }
+  ],
+  "timestamp": "2026-08-12T22:54:26.359951378Z",
+  "model": "glm-5.2"
+}

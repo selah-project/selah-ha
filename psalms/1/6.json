@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Domi Yahweh yana sane da hanyar masu adalci, amma hanyar mugaye za ta ɓace.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Domi"
+    },
+    {
+      "surface": "יוֹדֵעַ",
+      "gloss": "yana sane da"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דֶּרֶךְ",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "צַדִּיקִים",
+      "gloss": "masu adalci"
+    },
+    {
+      "surface": "וְדֶרֶךְ",
+      "gloss": "amma hanyar"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "mugaye"
+    },
+    {
+      "surface": "תֹּאבֵד",
+      "gloss": "za ta ɓace"
+    }
+  ],
+  "timestamp": "2026-08-12T19:17:37.130345650Z",
+  "model": "glm-5.2"
+}

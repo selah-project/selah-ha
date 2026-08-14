@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Amma ba a yi musu lissafin ⟨את⟩ kudin da aka ba a hannunsu ba, domin ⟨suna⟩ aiki da gaskiya.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Amma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "a yi lissafin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ musu",
+      "marks": "kudin"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kudin"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "da aka ba"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "hannunsu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "da gaskiya"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨suna⟩"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "aiki"
+    }
+  ],
+  "timestamp": "2026-08-12T12:42:08.169270108Z",
+  "model": "glm-5.2"
+}

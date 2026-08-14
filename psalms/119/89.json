@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Har abad, Yahweh, kalmarka ⟨tana⟩ tsaye a sama.",
+  "tokens": [
+    {
+      "surface": "לְעוֹלָ֥ם",
+      "gloss": "Har abad"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דְּ֝בָרְךָ֗",
+      "gloss": "kalmarka"
+    },
+    {
+      "surface": "נִצָּ֥ב",
+      "gloss": "⟨tana⟩ tsaye"
+    },
+    {
+      "surface": "בַּשָּׁמָֽיִם",
+      "gloss": "a sama"
+    }
+  ],
+  "timestamp": "2026-08-12T20:43:54.512141556Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma daga gare shi Mosheh da Aharon da 'ya'yansa suka wanki ⟨את⟩ hannayensu da ⟨את⟩ ƙafafunsu.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "Kuma suka wanki"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare shi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "da Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "da 'ya'yansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannayensu"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hannayensu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ƙafafunsu"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ƙafafunsu"
+    }
+  ],
+  "timestamp": "2026-08-12T01:40:52.239234176Z",
+  "model": "glm-5.2"
+}

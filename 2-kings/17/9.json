@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 17:9",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma ƴaƴan Isra'ila suka ɓoye kalmomi waɗanda ba daidai ba ne a kan Yahweh, Elohim nasu, suka gina musu ⟨kansu⟩ bamot a duk biranensu, daga hasumiyar masu tsaro har zuwa birni mai katanga.",
+  "tokens": [
+    {
+      "surface": "ויחפאו",
+      "gloss": "su ka ɓoye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴaƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "kalmomi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daidai"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim nasu"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "suka gina"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu ⟨kansu⟩"
+    },
+    {
+      "surface": "במות",
+      "gloss": "bamot"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "biranensu"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "daga hasumiyar"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "masu tsaro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "birni"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "mai katanga"
+    }
+  ],
+  "timestamp": "2026-08-12T12:31:05.695245496Z",
+  "model": "glm-5.2"
+}

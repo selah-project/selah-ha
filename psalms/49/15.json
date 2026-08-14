@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 49:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Kamar tunkiya an shafa su ⟨a hannun⟩ Sheol, Mutuwa za ki musu, kuma masu adalci za su yi musu mulki safiya, kuma siffarsu Sheol za ta lalata ⟨daga⟩ mazauninsu, ⟨don kada a kasance⟩ mazauni ⟨ga shi⟩.",
+  "tokens": [
+    {
+      "surface": "כצאן",
+      "gloss": "kamar tunkiya"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "⟨a hannun⟩ Sheol"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "an shafa su"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Mutuwa"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "za ki musu"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "kuma za su yi musu mulki"
+    },
+    {
+      "surface": "בם",
+      "gloss": "su"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "masu adalci"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "safiya"
+    },
+    {
+      "surface": "וצירם",
+      "gloss": "kuma siffarsu"
+    },
+    {
+      "surface": "לבלות",
+      "gloss": "za ta lalata"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "מזבל",
+      "gloss": "⟨daga⟩ mazauninsu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨don kada a kasance⟩ mazauni ⟨ga shi⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T19:48:18.095926862Z",
+  "model": "glm-5.2"
+}

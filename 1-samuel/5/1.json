@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma Pelishtiyawa sun yi ⟨את⟩ akwatin Elohim, suka kawo shi daga Eben-ha-Ezer Ashdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Kuma Pelishtiyawa"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "suka kawo shi"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "daga Eben-ha-Ezer"
+    },
+    {
+      "surface": "העזר",
+      "gloss": ""
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "Ashdod"
+    }
+  ],
+  "timestamp": "2026-08-12T08:36:16.070270784Z",
+  "model": "glm-5.2"
+}

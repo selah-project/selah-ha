@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Yahweh Elohimimu ya kuma ba shi a hannunmu, ⟨את⟩ ʿOg sarkin Bashan da ⟨את⟩ dukkan mutanensa, muka lalasta shi har ba a bar masa wani wanda ya tsira ba.",
+  "tokens": [
+    {
+      "surface": "וַיִּתֵּן֩",
+      "gloss": "ya kuma ba"
+    },
+    {
+      "surface": "יְהוָ֨ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵ֜ינוּ",
+      "gloss": "Elohimimu"
+    },
+    {
+      "surface": "בְּיָדֵ֗נוּ",
+      "gloss": "a hannunmu"
+    },
+    {
+      "surface": "גַּ֛ם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ʿOg sarkin Bashan"
+    },
+    {
+      "surface": "ע֥וֹג",
+      "gloss": "ʿOg"
+    },
+    {
+      "surface": "מֶֽלֶךְ",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "הַבָּשָׁ֖ן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan mutanensa"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "עַמּ֑וֹ",
+      "gloss": "mutanensa"
+    },
+    {
+      "surface": "וַנַּכֵּ֕הוּ",
+      "gloss": "muka lalasta shi"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "har"
+    },
+    {
+      "surface": "בִּלְתִּ֥י",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הִשְׁאִֽיר",
+      "gloss": "a bar"
+    },
+    {
+      "surface": "ל֖וֹ",
+      "gloss": "masa"
+    },
+    {
+      "surface": "שָׂרִֽיד",
+      "gloss": "wani wanda ya tsira"
+    }
+  ],
+  "timestamp": "2026-08-12T04:56:41.230404693Z",
+  "model": "glm-5.2"
+}

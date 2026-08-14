@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma muka keɓe ⟨את⟩ su gaba ɗaya, kamar yadda muka yi wa Sihon sarkin Cheshbon; muka keɓe gaba ɗaya duk birni, maza, mata da ƙanana.",
+  "tokens": [
+    {
+      "surface": "וַנַּחֲרֵ֣ם",
+      "gloss": "kuma muka keɓe"
+    },
+    {
+      "surface": "אוֹתָ֔ם",
+      "gloss": "⟨את⟩ su",
+      "marks": "su"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֣ר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "עָשִׂ֔ינוּ",
+      "gloss": "muka yi"
+    },
+    {
+      "surface": "לְסִיחֹ֖ן",
+      "gloss": "wa Sihon"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "חֶשְׁבּ֑וֹן",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "הַחֲרֵם֙",
+      "gloss": "muka keɓe gaba ɗaya"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "עִ֣יר",
+      "gloss": "birni"
+    },
+    {
+      "surface": "מְתִ֔ם",
+      "gloss": "maza"
+    },
+    {
+      "surface": "הַנָּשִׁ֖ים",
+      "gloss": "mata"
+    },
+    {
+      "surface": "וְהַטָּֽף",
+      "gloss": "da ƙanana"
+    }
+  ],
+  "timestamp": "2026-08-12T04:55:32.583014961Z",
+  "model": "glm-5.2"
+}

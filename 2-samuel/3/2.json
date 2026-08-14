@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma an haifa wa Dawida ⟨wasu⟩ 'ya'ya a Hevron; kuma ⟨wanda⟩ fari ⟨ɗinsa⟩ Amnon, ɗan Akinoam maceyar Yizre'el.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "kuma an haifa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawida"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "⟨wasu⟩ 'ya'ya"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "a Hevron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ⟨wanda⟩"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "fari ⟨ɗinsa⟩"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "ɗan Akinoam"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "maceyar Yizre'el"
+    }
+  ],
+  "timestamp": "2026-08-12T09:49:07.786269394Z",
+  "model": "glm-5.2"
+}

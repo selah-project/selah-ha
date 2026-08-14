@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 22:13",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Sa'an nan za ka yi nasara, idan ka kula da yin ⟨את⟩ dokoki da ⟨את⟩ hukunce-hukuncen da Yahweh ya umurci ⟨את⟩ Moshe a kan Yisra'el: ƙaƙƙarfe kuma ka ƙarfafa! Kada ka ji tsoro kuma kada ka firgita!",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Sa'an nan"
+    },
+    {
+      "surface": "תצליח",
+      "gloss": "za ka yi nasara"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "תשמור",
+      "gloss": "ka kula da"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dokoki"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "dokoki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "hukunce-hukuncen"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukunce-hukuncen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ƙaƙƙarfe"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "kuma ka ƙarfafa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ka ji tsoro"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka firgita"
+    }
+  ],
+  "timestamp": "2026-08-13T00:27:32.653227873Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 17:19",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma ya ce mata, \"Ka ba ni ⟨את⟩ ɗanka.\" Kuma ya ɗauke shi daga cikinta, kuma ya kai shi sama daki, inda yake zama a can, kuma ya kwantar da shi a kan gadonsa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "mata"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Ka ba ni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗanka"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ɗanka"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "Kuma ya ɗauke shi"
+    },
+    {
+      "surface": "מחיקה",
+      "gloss": "daga cikinta"
+    },
+    {
+      "surface": "ויעלהו",
+      "gloss": "kuma ya kai shi sama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "dakin sama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "inda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yake"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "zama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "וישכבהו",
+      "gloss": "kuma ya kwantar da shi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "gadonsa"
+    }
+  ],
+  "timestamp": "2026-08-12T11:35:05.922549607Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Zikhri, jarumin Efrayim, ya kashe ⟨את⟩ Ma'aseyahu ɗan sarkin, da ⟨את⟩ Azrikam shugaban gidan, da ⟨את⟩ Elkanah na biyu ga sarkin.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "ya kashe"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikhri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "jarumin"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ma'aseyahu"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Ma'aseyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Azrikam"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azrikam"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Elkanah"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "na biyu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ga sarkin"
+    }
+  ],
+  "timestamp": "2026-08-13T02:53:46.583367456Z",
+  "model": "glm-5.2"
+}

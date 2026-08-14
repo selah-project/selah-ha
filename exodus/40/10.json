@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ka shafa ⟨את⟩ gadan hadaya da ⟨את⟩ duk kayan aikinsa, ka tsarkake ⟨את⟩ gadan, kuma ⟨almar⟩ gadan za ta kasance tsarkin tsarkaka.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "kuma ka shafa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gadan hadaya"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "gadan"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "hadaya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "duk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kayan aikinsa"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ka tsarkake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gadan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "gadan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kuma ⟨almar⟩ za ta kasance"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "gadan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsarkin"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "tsarkaka"
+    }
+  ],
+  "timestamp": "2026-08-12T01:40:36.734281036Z",
+  "model": "glm-5.2"
+}

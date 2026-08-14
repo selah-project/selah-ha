@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 52:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 52,
+  "translation": "Ga shi, mutumin da ba ya sanya Elohim ⟨a matsayin⟩ katangarsa, amma ya dogara a yalwar dukiyarsa, ya ƙarfafa kansa a cikin halinsa na mugunta.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ya sanya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזו",
+      "gloss": "katangarsa"
+    },
+    {
+      "surface": "ויבטח",
+      "gloss": "amma ya dogara"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "a yalwar"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "dukiyarsa"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "ya ƙarfafa"
+    },
+    {
+      "surface": "בהותו",
+      "gloss": "a cikin halinsa na mugunta"
+    }
+  ],
+  "timestamp": "2026-08-12T19:49:18.670960865Z",
+  "model": "glm-5.2"
+}

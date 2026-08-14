@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 83,
+  "translation": "Elohim nawa, sanya su kamar abin mirgine, kamar vaina a gaban iska!",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nawa"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "sanya su"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "kamar abin mirgine"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "kamar vaina"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "iska"
+    }
+  ],
+  "timestamp": "2026-08-12T20:12:28.183408868Z",
+  "model": "glm-5.2"
+}

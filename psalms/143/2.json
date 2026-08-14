@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 143,
+  "translation": "Kada ka shiga cikin shari'a ⟨את⟩ bāranka, domin ba za a yi adalci a gabaninka ga kowane rai mai rai ba.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ka shiga"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "cikin shari'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bāranka"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bāranka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "za a yi adalci"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "a gabaninka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "חי",
+      "gloss": "rai mai rai"
+    }
+  ],
+  "timestamp": "2026-08-12T20:55:30.119711411Z",
+  "model": "glm-5.2"
+}

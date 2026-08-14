@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma Avraham ya ba ⟨את⟩ dukan abin da yake da shi, ga Yitsẖaq.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukan abin da yake da shi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yake da shi"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ga Yitsẖaq"
+    }
+  ],
+  "timestamp": "2026-08-11T23:48:25.001995085Z",
+  "model": "glm-5.2"
+}

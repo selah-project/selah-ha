@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Saboda haka, ku makiyaya, ku saɗi ⟨את⟩ maganar Yahweh.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "saboda haka"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ku makiyaya"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ku saɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maganar"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "maganar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T17:41:56.504670482Z",
+  "model": "glm-5.2"
+}

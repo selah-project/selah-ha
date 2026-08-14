@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 21:2",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Saurare ku da kyau kalma ta, kuma wannan ⟨ta zama⟩ ta'aziyyarku.",
+  "tokens": [
+    {
+      "surface": "שִׁמְע֣וּ",
+      "gloss": "Saurare ku"
+    },
+    {
+      "surface": "שָׁ֭מוֹעַ",
+      "gloss": "da kyau"
+    },
+    {
+      "surface": "מִלָּתִ֑י",
+      "gloss": "kalma ta"
+    },
+    {
+      "surface": "וּתְהִי",
+      "gloss": "kuma ... ⟨ta zama⟩"
+    },
+    {
+      "surface": "זֹ֝֗את",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "תַּנְחוּמֹֽתֵיכֶֽם",
+      "gloss": "ta'aziyyarku"
+    }
+  ],
+  "timestamp": "2026-08-12T21:59:40.277546273Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Yana wucewa a cikin kasuwa kusa da kusar ta, kuma hanyar zuwa gidanta yana ta shiga.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "Yana wucewa"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "a cikin kasuwa"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "kusa da"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "kusar ta"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "kuma hanyar"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "zuwa gidanta"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "yana ta shiga"
+    }
+  ],
+  "timestamp": "2026-08-12T21:08:16.586867397Z",
+  "model": "glm-5.2"
+}

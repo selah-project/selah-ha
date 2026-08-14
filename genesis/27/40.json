@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 27:40",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma da takobinka za ka rayu, kuma ⟨את⟩ kan'uwaka za ka bauta; kuma zai kasance, idan ka yi tawaye, za ka cire ƙoƙaronsa daga wuyanka.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "kuma da"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "takobinka"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "za ka rayu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kan'uwaka"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kan'uwaka"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "za ka bauta"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kuma zai kasance"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "idan"
+    },
+    {
+      "surface": "תריד",
+      "gloss": "ka yi tawaye"
+    },
+    {
+      "surface": "ופרקת",
+      "gloss": "za ka cire"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ƙoƙaronsa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "daga"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "wuyanka"
+    }
+  ],
+  "timestamp": "2026-08-11T23:51:35.680981545Z",
+  "model": "glm-5.2"
+}

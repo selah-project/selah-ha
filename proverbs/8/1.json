@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Bā, ḥokmâ ba ta kīra, kuma təvūnâ ta bayar da muryarta?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Bā"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ḥokmâ"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ba ta kīra"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "kuma təvūnâ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ta bayar da"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "muryarta"
+    }
+  ],
+  "timestamp": "2026-08-12T21:09:42.113740567Z",
+  "model": "glm-5.2"
+}

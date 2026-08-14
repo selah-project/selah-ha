@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 24:2",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Yahweh ya aiko a cikinsa ⟨את⟩ ƙungiyoyin sojojin Kasdim, da ⟨את⟩ ƙungiyoyin sojojin Aram, da ⟨את⟩ ƙungiyoyin sojojin Moab, da ⟨את⟩ ƙungiyoyin sojojin ɓanǝn Ammon, ya aiko su a cikin Yahuda don halakar da shi, a cikin maganar Yahweh da ya faɗa ta hannun bayinsa annabawa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ya aiko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a cikinsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙungiyoyin sojojin Kasdim"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "ƙungiyoyin sojojin"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙungiyoyin sojojin Aram"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "ƙungiyoyin sojojin"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙungiyoyin sojojin Moab"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "ƙungiyoyin sojojin"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙungiyoyin sojojin ɓanǝn Ammon"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "ƙungiyoyin sojojin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓanǝn"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ya aiko su"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "a cikin Yahuda"
+    },
+    {
+      "surface": "להאבידו",
+      "gloss": "don halakar da shi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "a cikin maganar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ta hannun"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bayinsa"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "annabawa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:50:46.664628567Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Don baya ta marasa hankali za ta kashe su, kuma nutsuwar wājihai za ta halaka su.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "don"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "baya ta"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "marasa hankali"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "za ta kashe su"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "kuma nutsuwar"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "wājihai"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "za ta halaka su"
+    }
+  ],
+  "timestamp": "2026-08-12T21:05:25.430269372Z",
+  "model": "glm-5.2"
+}

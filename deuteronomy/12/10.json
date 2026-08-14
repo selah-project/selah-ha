@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 12:10",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma za ku tsere ⟨את⟩ Yarden, kuma za ku zauna a ƙasar da Yahweh Elohim naku ke gadar ⟨את⟩ muku, kuma Ya ba ku huti daga dukkan maƙiyanku daga kewaye, kuma za ku zauna lafiya.",
+  "tokens": [
+    {
+      "surface": "וַעֲבַרְתֶּם",
+      "gloss": "kuma za ku tsere"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הַיַּרְדֵּן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וִישַׁבְתֶּם",
+      "gloss": "kuma za ku zauna"
+    },
+    {
+      "surface": "בָּאָרֶץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶם",
+      "gloss": "Elohim naku"
+    },
+    {
+      "surface": "מַנְחִיל",
+      "gloss": "ke gadar"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩ muku"
+    },
+    {
+      "surface": "וְהֵנִיחַ",
+      "gloss": "kuma Ya ba ku huti"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מִכָּל",
+      "gloss": "daga dukkan"
+    },
+    {
+      "surface": "אֹיְבֵיכֶם",
+      "gloss": "maƙiyanku"
+    },
+    {
+      "surface": "מִסָּבִיב",
+      "gloss": "daga kewaye"
+    },
+    {
+      "surface": "וִישַׁבְתֶּם",
+      "gloss": "kuma za ku zauna"
+    },
+    {
+      "surface": "בֶּטַח",
+      "gloss": "lafiya"
+    }
+  ],
+  "timestamp": "2026-08-12T05:17:36.502945912Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 18:19",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma zuwa ga mace a cikin rabon ɓataccenta, ba za ka kusanta ba, domin a bayyana tsirfarta.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Kuma zuwa ga"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "בנדת",
+      "gloss": "a cikin rabon"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "ɓataccenta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "za ka kusanta"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "domin a bayyana"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "tsirfarta"
+    }
+  ],
+  "timestamp": "2026-08-12T02:28:39.077640029Z",
+  "model": "glm-5.2"
+}

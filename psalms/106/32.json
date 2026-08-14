@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Sai suka tada fushi a ruwan Merivah, kuma ya wahalesa ⟨a gaban⟩ Moshe saboda su.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "Sai suka tada fushi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Merivah"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "kuma ya wahalesa"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "⟨a gaban⟩ Moshe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "saboda su"
+    }
+  ],
+  "timestamp": "2026-08-12T20:31:23.598167905Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Game da ayyukan mutum, da kalaman leɓunaka ni na tsare ⟨ni⟩ daga hanyoyin mai tashin hankali.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "Game da ayyukan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "da kalaman"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "leɓunaka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "na tsare"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "daga hanyoyin"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "mai tashin hankali"
+    }
+  ],
+  "timestamp": "2026-08-12T19:22:47.703631908Z",
+  "model": "glm-5.2"
+}

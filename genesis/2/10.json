@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma kogi yana fita daga ʿEden don ya ruɓe ⟨את⟩ gona, kuma daga can yana rabuwa, kuma yana zama huɗu ga sama.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "Kuma kogi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yana fita"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "daga ʿEden"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "don ya ruɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gona"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "gona"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "kuma daga can"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "yana rabuwa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kuma yana zama"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "huɗu"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "ga sama"
+    }
+  ],
+  "timestamp": "2026-08-11T23:21:07.709999264Z",
+  "model": "glm-5.2"
+}

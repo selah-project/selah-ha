@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 45:2",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Ni ni ⟨zã⟩ in tafi a gabanka, kuma abubuwa masu daidaita in daidaita; ƙofofin tagulla zan ƙarya, kuma sandunan ƙarfe zan yanke.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "a gabanka"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "in tafi"
+    },
+    {
+      "surface": "והדורים",
+      "gloss": "kuma abubuwa masu daidaita"
+    },
+    {
+      "surface": "אושר",
+      "gloss": "in daidaita"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ƙofofin"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "tagulla"
+    },
+    {
+      "surface": "אשבר",
+      "gloss": "zan ƙarya"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "kuma sandunan"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ƙarfe"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "zan yanke"
+    }
+  ],
+  "timestamp": "2026-08-12T14:17:55.408782668Z",
+  "model": "glm-5.2"
+}

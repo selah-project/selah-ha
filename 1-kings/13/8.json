@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Amma mutumin ⟨na⟩ Elohim ya faɗa wa sarki: \"Ko da za ka ba ni ⟨את⟩ rabin gidanka, ban shiga tare da kai ba; ban cin burodi, ban sha ruwa a wannan wuri ba.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "amma ya faɗa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨na⟩ Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ko da"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "za ka ba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rabin gidanka"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "rabin"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "gidanka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ban"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "shiga"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tare da kai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ban"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "cin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "burodi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ban"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "sha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan wuri"
+    }
+  ],
+  "timestamp": "2026-08-12T11:24:48.246838309Z",
+  "model": "glm-5.2"
+}

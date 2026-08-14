@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Saboda haka Yahweh Elohim ya kore shi daga gonar Eden, don ya yi aiki ⟨את⟩ ƙasar da aka ɗauke shi daga can.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "saboda haka ya kore shi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "daga gonar"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "don ya yi aiki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "aka ɗauke shi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "daga can"
+    }
+  ],
+  "timestamp": "2026-08-11T23:22:17.294082033Z",
+  "model": "glm-5.2"
+}

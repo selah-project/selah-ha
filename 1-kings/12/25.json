@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Sai Yarobeam ya gina ⟨את⟩ Shekem a cikin tsaunin Efiraim, ya zauna a ciki; sai ya fita daga can, ya gina ⟨את⟩ Penuel.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Sai ya gina"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a cikin tsaunin"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efiraim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ya zauna"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a ciki"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "sai ya fita"
+    },
+    {
+      "surface": "משם",
+      "gloss": "daga can"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ya gina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    }
+  ],
+  "timestamp": "2026-08-12T11:23:26.467414474Z",
+  "model": "glm-5.2"
+}

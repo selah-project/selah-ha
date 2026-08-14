@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Wãne ne a cikinku zai sa kunne ga wannan? Zai lura, kuma zai ji abin da ke gaba?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Wãne ne"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "a cikinku"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "zai sa kunne"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ga wannan"
+    },
+    {
+      "surface": "יקשיב",
+      "gloss": "Zai lura"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "kuma zai ji"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "abin da ke gaba"
+    }
+  ],
+  "timestamp": "2026-08-12T14:03:50.750323706Z",
+  "model": "glm-5.2"
+}

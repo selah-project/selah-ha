@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Sa'an nan za ka tafi cikin aminci a hanyarka, da ƙafarka ba za ta tauye ba.",
+  "tokens": [
+    {
+      "surface": "אָ֤ז",
+      "gloss": "Sa'an nan"
+    },
+    {
+      "surface": "תֵּלֵ֣ךְ",
+      "gloss": "za ka tafi"
+    },
+    {
+      "surface": "לָבֶ֣טַח",
+      "gloss": "cikin aminci"
+    },
+    {
+      "surface": "דַּרְכֶּ֑ךָ",
+      "gloss": "a hanyarka"
+    },
+    {
+      "surface": "וְ֝רַגְלְךָ֗",
+      "gloss": "da ƙafarka"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תִגּֽוֹף",
+      "gloss": "za ta tauye"
+    }
+  ],
+  "timestamp": "2026-08-12T21:02:10.650684940Z",
+  "model": "glm-5.2"
+}

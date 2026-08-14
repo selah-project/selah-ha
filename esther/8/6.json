@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "domin ta yaya zan iya ⟨kuma⟩ in ga ⟨ne⟩ mugunyar da za ta same ⟨את⟩ mutanena? kuma ta yaya zan iya ⟨kuma⟩ in ga ⟨ne⟩ halakar zuriyata?",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אֵיכָכָה",
+      "gloss": "ta yaya"
+    },
+    {
+      "surface": "אוּכַל",
+      "gloss": "zan iya"
+    },
+    {
+      "surface": "וְרָאִיתִי",
+      "gloss": "kuma in ga"
+    },
+    {
+      "surface": "בָּרָעָה",
+      "gloss": "mugunyar"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יִמְצָא",
+      "gloss": "za ta same"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mutanena"
+    },
+    {
+      "surface": "עַמִּי",
+      "gloss": "mutanena"
+    },
+    {
+      "surface": "וְאֵיכָכָה",
+      "gloss": "kuma ta yaya"
+    },
+    {
+      "surface": "אוּכַל",
+      "gloss": "zan iya"
+    },
+    {
+      "surface": "וְרָאִיתִי",
+      "gloss": "kuma in ga"
+    },
+    {
+      "surface": "בְּאָבְדַן",
+      "gloss": "halakar"
+    },
+    {
+      "surface": "מוֹלַדְתִּי",
+      "gloss": "zuriyata"
+    }
+  ],
+  "timestamp": "2026-08-12T23:02:54.767248510Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 125,
+  "translation": "Kuma shige waɗanda ⟨suke⟩ karkatacciyar hanya-ta, Yahweh zai kai su ⟨tare da⟩ ⟨את⟩ masu aikata mataimaki. Aminci ⟨ya kasance⟩ a kan Isra'ila.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "Kuma shige waɗanda"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "karkatacciyar hanya-ta"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "zai kai su"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masu aikata mataimaki"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "masu aikata"
+    },
+    {
+      "surface": "האון",
+      "gloss": "mataimaki"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Aminci"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T20:47:22.482696857Z",
+  "model": "glm-5.2"
+}

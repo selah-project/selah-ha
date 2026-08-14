@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ya kawo daga zabah na shelamim hadayar wuta ga Yahweh: ⟨את⟩ mai-n kitsen da yake rufewa ⟨את⟩ cikin, da ⟨את⟩ dukkan kitse ne yake a kan cikin.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Kuma ya kawo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "daga zabah"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "na shelamim"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "hadayar wuta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mai-n kitsen"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mai-n kitsen"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "da yake rufewa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cikin"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukkan kitse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "kitse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ne yake"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "cikin"
+    }
+  ],
+  "timestamp": "2026-08-12T01:46:23.100696479Z",
+  "model": "glm-5.2"
+}

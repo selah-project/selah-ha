@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma ku kiyaye ⟨את⟩ dokokina, kuma ku aikata ⟨את⟩ su; Ni ne Yahweh, wanda ke tsarkake ku.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Kuma ku kiyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dokokina"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "dokokina"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "kuma ku aikata"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ su"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "wanda ke tsarkake ku"
+    }
+  ],
+  "timestamp": "2026-08-12T02:36:45.531896100Z",
+  "model": "glm-5.2"
+}

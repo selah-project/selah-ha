@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Abu ɗaya na rōƙe daga ⟨את⟩ Yahweh, shī nī ke neman: in zama a cikin gidan Yahweh dukan kwanakin râyata, don kāwa kyautaṭṭan Yahweh da kuma bincika a cikin haikalinsa.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Abu ɗaya"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "na rōƙe"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "daga ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "nī ke neman"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "shī nī ke neman"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "in zama"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a cikin gidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "râyata"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "don kāwa"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "kyautaṭṭan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "da kuma bincika"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "a cikin haikalinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:32:02.850407770Z",
+  "model": "glm-5.2"
+}

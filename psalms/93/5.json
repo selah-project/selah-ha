@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 93,
+  "translation": "Shaidoshinka sun tabbata ⟨sosa⟩ sosai; ga gidanka tsari ne mai kyau, Yahweh, har tsawon kwanaki.",
+  "tokens": [
+    {
+      "surface": "עֵֽדֹתֶ֨יךָ",
+      "gloss": "Shaidoshinka"
+    },
+    {
+      "surface": "נֶאֶמְנ֬וּ",
+      "gloss": "suntabbata"
+    },
+    {
+      "surface": "מְאֹ֗ד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "לְבֵיתְךָ֥",
+      "gloss": "ga gidanka"
+    },
+    {
+      "surface": "נַאֲוָה",
+      "gloss": "tsari ne mai kyau"
+    },
+    {
+      "surface": "קֹ֑דֶשׁ",
+      "gloss": "tsarki"
+    },
+    {
+      "surface": "יְ֝הוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לְאֹ֣רֶךְ",
+      "gloss": "har tsawon"
+    },
+    {
+      "surface": "יָמִֽים",
+      "gloss": "kwanaki"
+    }
+  ],
+  "timestamp": "2026-08-12T20:19:01.981020628Z",
+  "model": "glm-5.2"
+}

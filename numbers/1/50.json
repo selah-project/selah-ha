@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 1:50",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kai ka naɗa ⟨את⟩ Lewiyawa a kan Mahaɗar Shaida, da ⟨a kan⟩ dukkan kayanta, da ⟨a kan⟩ dukan abin da na nata; su ne za su ɗauki ⟨את⟩ Mahaɗar da ⟨את⟩ dukkan kayanta, kuma su ne za su yi masa aiki, kuma a kewaye da Mahaɗar za su sansa.",
+  "tokens": [
+    {
+      "surface": "וְאַתָּ֡ה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "הַפְקֵ֣ד",
+      "gloss": "ka naɗa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Lewiyawa"
+    },
+    {
+      "surface": "הַלְוִיִּם֩",
+      "gloss": "Lewiyawa"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "מִשְׁכַּ֨ן",
+      "gloss": "Mahaɗar"
+    },
+    {
+      "surface": "הָעֵדֻ֜ת",
+      "gloss": "Shaida"
+    },
+    {
+      "surface": "וְעַ֣ל",
+      "gloss": "da a kan"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "כֵּלָיו֮",
+      "gloss": "kayanta"
+    },
+    {
+      "surface": "וְעַ֣ל",
+      "gloss": "da a kan"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dukin"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "לוֹ֒",
+      "gloss": "na nata"
+    },
+    {
+      "surface": "הֵ֜מָּה",
+      "gloss": "su"
+    },
+    {
+      "surface": "יִשְׂא֤וּ",
+      "gloss": "za su ɗauki"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Mahađar"
+    },
+    {
+      "surface": "הַמִּשְׁכָּן֙",
+      "gloss": "Mahađar"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "כֵּלָיו֮",
+      "gloss": "kayanta"
+    },
+    {
+      "surface": "וְהֵ֖ם",
+      "gloss": "kuma su"
+    },
+    {
+      "surface": "יְשָׁרְתֻ֑הוּ",
+      "gloss": "za su yi masa aiki"
+    },
+    {
+      "surface": "וְסָבִ֥יב",
+      "gloss": "kuma a kewaye"
+    },
+    {
+      "surface": "לַמִּשְׁכָּן֖",
+      "gloss": "da Mahađar"
+    },
+    {
+      "surface": "יַחֲנֽוּ",
+      "gloss": "za su sansa"
+    }
+  ],
+  "timestamp": "2026-08-12T03:11:22.051360465Z",
+  "model": "glm-5.2"
+}

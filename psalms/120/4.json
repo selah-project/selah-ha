@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 120,
+  "translation": "Masu kaɗa na mai ƙarfi, ⟨suna⟩ kaɗe-kaɗe, tãre da gawayin itãcen ratham.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Masu kaɗa"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "na mai ƙarfi"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "kaɗe-kaɗe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tãre da"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "gawayin"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "itãcen ratham"
+    }
+  ],
+  "timestamp": "2026-08-12T20:46:57.030462560Z",
+  "model": "glm-5.2"
+}

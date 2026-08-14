@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma Dawuda ya yi kamar yadda Elohim ya umarce shi, suka duka ⟨את⟩ sansanin Falasdinawa, daga Gibe'on har zuwa Gezera.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ya umarce shi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "suka duka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sansanin"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "sansanin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falasdinawa"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "daga Gibe'on"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezera"
+    }
+  ],
+  "timestamp": "2026-08-13T00:14:33.460117655Z",
+  "model": "glm-5.2"
+}

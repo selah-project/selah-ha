@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 26:20",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma ƴaƴan Yehuda ne bisa kabilunsu: na Shelah, ƙabilar ƙabilar-Shelah; na Perets, ƙabilar ƙabilar-Peretsi; na Zerach, ƙabilar ƙabilar-Zerachi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Kuma su ne"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴaƴan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "bisa kabilunsu"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "na Shelah"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ƙabila"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "ƙabilar-Shelah"
+    },
+    {
+      "surface": "לפרץ",
+      "gloss": "na Perets"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ƙabila"
+    },
+    {
+      "surface": "הפרצי",
+      "gloss": "ƙabilar-Peretsi"
+    },
+    {
+      "surface": "לזרח",
+      "gloss": "na Zerach"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ƙabila"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "ƙabilar-Zerachi"
+    }
+  ],
+  "timestamp": "2026-08-12T04:26:31.821005661Z",
+  "model": "glm-5.2"
+}

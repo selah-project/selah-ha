@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 44:10",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Ba a tona musu ⟨ba⟩ har zuwa wannan yau, kuma ba su ji tsoro ⟨ko⟩ sun tafi a cikin torataNa, da kuma a cikin ɗokokina, waɗanda na sanya a gaban ku da kuma a gaban ubanninku.",
+  "tokens": [
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "דֻכְּא֔וּ",
+      "gloss": "a tona musu"
+    },
+    {
+      "surface": "עַ֖ד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "הַיּ֣וֹם",
+      "gloss": "yau"
+    },
+    {
+      "surface": "הַזֶּ֑ה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יָרְא֗וּ",
+      "gloss": "suka ji tsoro"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "הָלְכ֤וּ",
+      "gloss": "suka tafi"
+    },
+    {
+      "surface": "בְתֽוֹרָתִי֙",
+      "gloss": "a cikin torataNa"
+    },
+    {
+      "surface": "וּבְחֻקֹּתַ֔י",
+      "gloss": "da kuma a cikin ɗokokina"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "נָתַ֥תִּי",
+      "gloss": "na sanya"
+    },
+    {
+      "surface": "לִפְנֵיכֶ֖ם",
+      "gloss": "a gaban ku"
+    },
+    {
+      "surface": "וְלִפְנֵ֥י",
+      "gloss": "da kuma a gaban"
+    },
+    {
+      "surface": "אֲבוֹתֵיכֶֽם",
+      "gloss": "ubanninku"
+    }
+  ],
+  "timestamp": "2026-08-12T16:23:19.694136379Z",
+  "model": "glm-5.2"
+}

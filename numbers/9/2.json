@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "“Kuma ƴan Israël su ka yi ⟨את⟩ Pesah a lokacinsa.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "su ka yi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "a lokacinsa"
+    }
+  ],
+  "timestamp": "2026-08-13T01:49:24.815049620Z",
+  "model": "glm-5.2"
+}

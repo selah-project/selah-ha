@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 3:1",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma waɗannan su ne al'ummomin da Yahweh ya bar, don a gwada ta gare su ⟨את⟩ Yisra'el — ⟨ne⟩ duk wanda ba ya san ⟨את⟩ dukkan yaƙe-yaƙen Kena'an.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kuma waɗannan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "al'ummomin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "ya bar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "don a gwada"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ta gare su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ya san"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "yaƙe-yaƙen"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    }
+  ],
+  "timestamp": "2026-08-12T07:12:28.715434702Z",
+  "model": "glm-5.2"
+}

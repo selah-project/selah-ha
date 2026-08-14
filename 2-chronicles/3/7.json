@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 3:7",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ya rufe ⟨את⟩ gidan — bargo, ƙofofin da ganuwarsa da ƙofofinsa — da zinariya, kuma ya sassaka kerubim a kan ganuwa.",
+  "tokens": [
+    {
+      "surface": "ויחף",
+      "gloss": "kuma ya rufe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "הקרות",
+      "gloss": "bargo"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "ƙofofin"
+    },
+    {
+      "surface": "וקירותיו",
+      "gloss": "da ganuwarsa"
+    },
+    {
+      "surface": "ודלתותיו",
+      "gloss": "da ƙofofinsa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinariya"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "kuma ya sassaka"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "ganuwa"
+    }
+  ],
+  "timestamp": "2026-08-13T00:42:21.431191028Z",
+  "model": "glm-5.2"
+}

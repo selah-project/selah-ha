@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 5:17",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma tumaki za su yi kiƙi kamar ⟨a⟩ makiyarsu, kuma ƙasashen da aka bari na wadanda suka yi ƙiba baƙo za su ci.",
+  "tokens": [
+    {
+      "surface": "וְרָע֥וּ",
+      "gloss": "Kuma za su yi kiƙi"
+    },
+    {
+      "surface": "כְבָשִׂ֖ים",
+      "gloss": "tumaki"
+    },
+    {
+      "surface": "כְדָבְרָ֑ם",
+      "gloss": "kamar makiyarsu"
+    },
+    {
+      "surface": "וְחָרְב֥וֹת",
+      "gloss": "kuma ƙasashen da aka bari"
+    },
+    {
+      "surface": "מֵחִ֖ים",
+      "gloss": "na wadanda suka yi ƙiba"
+    },
+    {
+      "surface": "גָּרִ֥ים",
+      "gloss": "baƙo"
+    },
+    {
+      "surface": "יֹאכֵֽלוּ",
+      "gloss": "za su ci"
+    }
+  ],
+  "timestamp": "2026-08-13T03:06:01.992245953Z",
+  "model": "glm-5.2"
+}

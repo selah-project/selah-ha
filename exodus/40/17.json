@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 40:17",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ⟨ya faru⟩ a cikin wata na farko, a cikin shekara ta biyu, a rana ɗaya ta watan, an tada ɗakın tabernakel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ⟨ya faru⟩"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "a cikin wata"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "na farko"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "a cikin shekara"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ta biyu"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "a rana ɗaya"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ta watan"
+    },
+    {
+      "surface": "הוקם",
+      "gloss": "an tada"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ɗakín tabernakel"
+    }
+  ],
+  "timestamp": "2026-08-12T01:43:45.362420397Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma dukan bawan mutum, sayen azurfa, ka yi masa kaciya ⟨את⟩, sa'an nan zai ci a cikinsa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Kuma dukan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "bawan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "sayen"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "azurfa"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "ka yi masa kaciya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wannan bawan da aka saya"
+    },
+    {
+      "surface": "אז",
+      "gloss": "sa'an nan"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zai ci"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a cikinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:46:00.856750139Z",
+  "model": "glm-5.2"
+}

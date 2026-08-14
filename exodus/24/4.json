@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma Mosheh ya rubuta ⟨את⟩ dukan kalmomin Yahweh. Sai ya tashi da safiyar yini, ya gina dābā a ƙasa da dutsen, da gindaji goma sha biyu ga kabilun goma sha biyu na Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Kuma ya rubuta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "Sai ya tashi da safiyar"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "yini"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ya gina"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dābā"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a ƙasa da"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dutsen"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "da gindaji goma sha"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "gindaji"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "ga kabilun goma sha"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "kabilun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T01:01:18.298599111Z",
+  "model": "glm-5.2"
+}

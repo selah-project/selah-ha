@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Cikin salama ⟨ne⟩, tare zan kwanta kuma in yi barci; domin Kai, Yahweh, kaɗaicikinka, cikin aminci kake sa ni zaune.",
+  "tokens": [
+    {
+      "surface": "בְּשָׁל֣וֹם",
+      "gloss": "cikin salama"
+    },
+    {
+      "surface": "יַחְדָּו֮",
+      "gloss": "tare"
+    },
+    {
+      "surface": "אֶשְׁכְּבָ֪ה",
+      "gloss": "zan kwanta"
+    },
+    {
+      "surface": "וְאִ֫ישָׁ֥ן",
+      "gloss": "kuma in yi barci"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לְבָדָ֑ד",
+      "gloss": "kaɗaicikinka"
+    },
+    {
+      "surface": "לָ֝בֶ֗טַח",
+      "gloss": "cikin aminci"
+    },
+    {
+      "surface": "תּוֹשִׁיבֵֽנִי",
+      "gloss": "ka sa ni zaune"
+    }
+  ],
+  "timestamp": "2026-08-12T19:12:16.302782442Z",
+  "model": "glm-5.2"
+}

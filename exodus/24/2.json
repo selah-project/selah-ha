@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma Mosheh kadai zai kusanto zuwa Yahweh, amma su ba za su kusanto ba, kuma mutanen ba za su hawa tare da shi ba.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "Kuma zai kusanto"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "kadai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והם",
+      "gloss": "amma su"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "za su kusanto"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "kuma mutanen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "za su hawa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tare da shi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:01:18.298187155Z",
+  "model": "glm-5.2"
+}

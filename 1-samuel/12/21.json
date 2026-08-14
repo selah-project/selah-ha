@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 12:21",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kada ku juya ⟨baya⟩, domin ⟨idanku⟩ suna bin abu mara amfani, wanda ba za ya amfana ba kuma ba za ku ceci ba, domin abu ne marar amfani.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "ku juya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "⟨baya⟩ suna bin"
+    },
+    {
+      "surface": "התהו",
+      "gloss": "abu mara amfani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba za"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "ya amfana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "za ku ceci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "abu ne marar amfani"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨sune⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T08:50:47.272017627Z",
+  "model": "glm-5.2"
+}

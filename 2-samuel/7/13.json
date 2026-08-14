@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Shi zai gina gida don sunana, kuma ni zan tabbatar ⟨da⟩ ⟨את⟩ kujerar mulkinsa har abada.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "zai gina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "don sunana"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "kuma ni zan tabbatar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kujerar mulkinsa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kujerar"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "mulkinsa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abada"
+    }
+  ],
+  "timestamp": "2026-08-12T10:02:17.940405145Z",
+  "model": "glm-5.2"
+}

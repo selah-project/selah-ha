@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 76,
+  "translation": "An sāɓe masu karfin zuciya, sun yi musu mummunan barci, kuma dukkan masu ƙarfi ba su samu ⟨amfani da⟩ hannayensu ba.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "an sāɓe"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "masu karfin"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciya"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "sun yi musu mummunan barci"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "barcinsu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "su samu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "masu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ƙarfi"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hannayensu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:07:06.426659178Z",
+  "model": "glm-5.2"
+}

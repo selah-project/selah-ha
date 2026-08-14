@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 34:18",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Bikin ⟨את⟩ Massot kake kiyāwe; kwanaki bakwai kana ci massot, wanda Na ka maka, a lokacin watan Aviv; domin a watin Aviv ka fita daga Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Bikin"
+    },
+    {
+      "surface": "חַ֣ג",
+      "gloss": "Bikin"
+    },
+    {
+      "surface": "הַמַּצּוֹת֮",
+      "gloss": "Massot"
+    },
+    {
+      "surface": "תִּשְׁמֹר֒",
+      "gloss": "kake kiyāwe"
+    },
+    {
+      "surface": "שִׁבְעַ֨ת",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "יָמִ֜ים",
+      "gloss": "bakwai"
+    },
+    {
+      "surface": "תֹּאכַ֤ל",
+      "gloss": "kana ci"
+    },
+    {
+      "surface": "מַצּוֹת֙",
+      "gloss": "massot"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "צִוִּיתִ֔ךָ",
+      "gloss": "Na ka maka"
+    },
+    {
+      "surface": "לְמוֹעֵ֖ד",
+      "gloss": "lokacin"
+    },
+    {
+      "surface": "חֹ֣דֶשׁ",
+      "gloss": "watan"
+    },
+    {
+      "surface": "הָאָבִ֑יב",
+      "gloss": "Aviv"
+    },
+    {
+      "surface": "כִּ֚י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "בְּחֹ֣דֶשׁ",
+      "gloss": "a watin"
+    },
+    {
+      "surface": "הָֽאָבִ֔יב",
+      "gloss": "Aviv"
+    },
+    {
+      "surface": "יָצָ֖אתָ",
+      "gloss": "ka fita"
+    },
+    {
+      "surface": "מִמִּצְרָֽיִם",
+      "gloss": "daga Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T01:21:44.664955257Z",
+  "model": "glm-5.2"
+}

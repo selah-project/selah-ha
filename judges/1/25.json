@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Sa'an nan ⟨ya nuna musu⟩ ⟨את⟩ ƙofar birnin, suka duka ⟨את⟩ ⟨birnin⟩ da gefen takobi, amma ⟨את⟩ mutumin da ⟨את⟩ dukkan iyalinsa suka bar su su tafi.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "kuma ya nuna musu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙofar birnin"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ƙofar"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "suka duka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birnin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "gefen"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "takobi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mutumin"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan iyalinsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "iyalinsa"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "suka bar su su tafi"
+    }
+  ],
+  "timestamp": "2026-08-12T07:17:27.441857164Z",
+  "model": "glm-5.2"
+}

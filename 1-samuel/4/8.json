@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "\"Āhõ a gare mu! Wãne zai cẽce mu daga hannun waɗannan Elohim masu girma? Wannan ⟨sũ ne⟩ Elohim waɗanda suka buga ⟨את⟩ Mitsrayim da dukkan wata cutã a cikin hamada!",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Āhõ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a gare mu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wãne"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "zai cẽce mu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "masu girma"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Wannan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨sũ ne⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "waɗanda suka buga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "da dukka"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "wata cutã"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a cikin hamada"
+    }
+  ],
+  "timestamp": "2026-08-12T08:35:30.078440674Z",
+  "model": "glm-5.2"
+}

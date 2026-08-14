@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 73,
+  "translation": "Kuma ni, ni ⟨ne⟩ wawa, ba ⟨na⟩ sani ba; a matsayin dabbobi na kasance ⟨in⟩ tare da Kai.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "בער",
+      "gloss": "wawa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "⟨na⟩ sani"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "a matsayin dabbobi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "na kasance"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tare da Kai"
+    }
+  ],
+  "timestamp": "2026-08-12T20:06:25.046856280Z",
+  "model": "glm-5.2"
+}

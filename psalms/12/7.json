@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kalmomin Yahweh ⟨sũ⟩ kalmomi tsarkakkai ne, kāmar azurfa da aka narƙar da ita cikin tander ƙasa, an tsarkake ta sau bakwai.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "Kalmomin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "kalmomi"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "tsarkakkai"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kāmar azurfa"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "da aka narƙar da ita"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "cikin tander"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "an tsarkake ta"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "sau bakwai"
+    }
+  ],
+  "timestamp": "2026-08-12T19:19:35.657983266Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 24:25",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma Daɗauɗa ya gina wata masuḥa a can ga Yahweh, ya kuma ɗaukaka gawartakkun ƙorarra da armarra sulhu; Yahweh kuma ya amsa roƙon ⟨don⟩ ƙasa, aka kuma tsayar da annoba daga ⟨kan⟩ Isra'ila.",
+  "tokens": [
+    {
+      "surface": "וַיִּבֶן",
+      "gloss": "ya gina"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "דָּוִד",
+      "gloss": "Daɗauɗa"
+    },
+    {
+      "surface": "מִזְבֵּחַ",
+      "gloss": "masuḥa"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "וַיַּעַל",
+      "gloss": "ya kuma ɗaukaka"
+    },
+    {
+      "surface": "עֹלוֹת",
+      "gloss": "gawartakkun ƙorarra",
+      "marks": "gawartakkun ƙorarra"
+    },
+    {
+      "surface": "וּשְׁלָמִים",
+      "gloss": "armarra sulhu",
+      "marks": "armarra sulhu"
+    },
+    {
+      "surface": "וַיֵּעָתֵר",
+      "gloss": "ya kuma amsa roƙon"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לָאָרֶץ",
+      "gloss": "⟨don⟩ ƙasa"
+    },
+    {
+      "surface": "וַתֵּעָצַר",
+      "gloss": "aka kuma tsayar da"
+    },
+    {
+      "surface": "הַמַּגֵּפָה",
+      "gloss": "annoba"
+    },
+    {
+      "surface": "מֵעַל",
+      "gloss": "daga ⟨kan⟩"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:00.689602480Z",
+  "model": "glm-5.2"
+}

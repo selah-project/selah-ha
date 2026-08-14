@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Ƴan Gad a cewar iyalansu: na Tsefon, ⟨iyalen⟩ iyalen Tsefoni; na Chaggi, ⟨iyalen⟩ iyalen Chaggi; na Shuni, ⟨iyalen⟩ iyalen Shuni.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ƴan"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "a cewar iyalansu"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "Na Tsefon"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "iyalen"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "Tsefoni"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "Na Chaggi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "iyalen"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "Chaggi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "Na Shuni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "iyalen"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "Shuni"
+    }
+  ],
+  "timestamp": "2026-08-12T04:25:56.021870901Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 58,
+  "translation": "A'a, a cikin zuciya muguwar aiki kuke aikatawa; a ƙasa tashin hankalin hannuwanku kuna dora ⟨a kan mizani⟩.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "A'a"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "a cikin zuciya"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "muguwar aiki"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "kuke aikatawa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasa"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tashin hankali"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "hannuwanku"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "kuna dora"
+    }
+  ],
+  "timestamp": "2026-08-12T19:53:54.373715626Z",
+  "model": "glm-5.2"
+}

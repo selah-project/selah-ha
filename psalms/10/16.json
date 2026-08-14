@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Yahweh ⟨shine⟩ sarki har abada, don daɗaɗe. Al'ummomi sun halaka daga ƙasarsa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "don daɗaɗe"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "sun halaka"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "al'ummomi"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "daga ƙasarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:18:57.429248972Z",
+  "model": "glm-5.2"
+}

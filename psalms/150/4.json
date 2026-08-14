@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 150,
+  "translation": "Yabo ga Shi da tafa da rawa, yabo ga Shi da kirtani da ƙararrawar hura.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "yabo ga Shi"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "da tafa"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "da rawa"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "yabo ga Shi"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "da kirtani"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "da ƙararrawar hura"
+    }
+  ],
+  "timestamp": "2026-08-12T20:57:42.282473576Z",
+  "model": "glm-5.2"
+}

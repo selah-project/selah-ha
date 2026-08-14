@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma ⟨ya faru⟩ a shekara ta uku, Yehoshafat sarki na Yehuda ya sauko wurin sarki na Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ⟨ya faru⟩"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "a shekara"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "ta uku"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ya sauko"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wurin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T11:48:53.113602097Z",
+  "model": "glm-5.2"
+}

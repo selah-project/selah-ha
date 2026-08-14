@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma rai, idan ta yi zunubi, ta ji muryar rantawa, kuma shi ⟨ne⟩ shaida — ko dai ya gani ko dai ya sani — idan ba ya bayyana, ⟨to⟩ zai ɗauki laifinsa.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Kuma rai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "idan"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "ta yi zunubi"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "ta ji"
+    },
+    {
+      "surface": "קול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "rantawa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kuma shi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "shaida"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko dai"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ya gani"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko dai"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ya sani"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ya bayyana"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "zai ɗauki"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "laifinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:56:55.147819960Z",
+  "model": "glm-5.2"
+}

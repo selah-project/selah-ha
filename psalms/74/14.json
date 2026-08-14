@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 74,
+  "translation": "Kai ka murje ⟨את⟩ kan Livyatan, ka mayar da shi abinci ⟨ne⟩ ga jama'a, ga mutanen jeji.",
+  "tokens": [
+    {
+      "surface": "אַתָּה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "רִצַּצְתָּ",
+      "gloss": "ka murje"
+    },
+    {
+      "surface": "רָאשֵׁי",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לִוְיָתָן",
+      "gloss": "Livyatan",
+      "marks": "Livyatan"
+    },
+    {
+      "surface": "תִּתְּנֶנּוּ",
+      "gloss": "ka mayar da shi"
+    },
+    {
+      "surface": "מַאֲכָל",
+      "gloss": "abinci"
+    },
+    {
+      "surface": "לְעָם",
+      "gloss": "ga jama'a"
+    },
+    {
+      "surface": "לְצִיִּים",
+      "gloss": "ga mutanen jeji"
+    }
+  ],
+  "timestamp": "2026-08-12T20:06:26.064596185Z",
+  "model": "glm-5.2"
+}

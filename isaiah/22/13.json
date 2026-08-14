@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 22:13",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma ga shi, murna da farin ciki, ⟨a⟩ kashe shanu da ⟨a⟩ yanka awaki, ⟨a⟩ ci naman da ⟨a⟩ shan giya: \"Mu ci mu sha, domin gobe za mu mutu!\"",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Kuma ga shi"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "murna"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "da farin ciki"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "⟨a⟩ kashe"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "da ⟨a⟩ yanka"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "awaki"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "⟨a⟩ ci"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "naman"
+    },
+    {
+      "surface": "ושתות",
+      "gloss": "da ⟨a⟩ shan"
+    },
+    {
+      "surface": "יין",
+      "gloss": "giya"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "Mu ci"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "mu sha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "gobe"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "za mu mutu"
+    }
+  ],
+  "timestamp": "2026-08-12T13:28:22.696819345Z",
+  "model": "glm-5.2"
+}

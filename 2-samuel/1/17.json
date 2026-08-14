@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma Dawuda ya yi ⟨את⟩ waƙar makoki wannan, a kan Sha'ul da a kan Yehonatanan ɗanʼensa.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "Kuma ya yi waƙar makoki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waƙar makoki"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "waƙar makoki"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da a kan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗanʼensa"
+    }
+  ],
+  "timestamp": "2026-08-12T09:57:11.255559381Z",
+  "model": "glm-5.2"
+}

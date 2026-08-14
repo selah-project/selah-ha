@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 136,
+  "translation": "⟨את⟩ rãnã don shugabanci a rana, cẽwa har har abãda chesedSa ⟨yake⟩.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rãnã"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rãnã"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "don shugabanci"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cẽwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har har abãda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesedSa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:52:12.088002172Z",
+  "model": "glm-5.2"
+}

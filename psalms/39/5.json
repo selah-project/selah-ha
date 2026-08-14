@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Ka sanar da ni, Yahweh, ƙarshena, da ma'aunin kwanakina — shi ⟨ne⟩ abin da yake, in san yadda nake rataye.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "Ka sanar da ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "ƙarshena"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "da ma'aunin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwanakina"
+    },
+    {
+      "surface": "מה",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "היא",
+      "gloss": "shi yake"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "in san"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yadda"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "na ke rataye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:42:10.253126241Z",
+  "model": "glm-5.2"
+}

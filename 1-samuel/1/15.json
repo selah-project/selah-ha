@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 1:15",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Ḥannah ta amsa ta kuma ce, \"A'a, ubangijina, ni mace ce wadda take da wahalar rai; giya da mabarata ba na sha ba, amma ina zuba ⟨את⟩ raina a gaban Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "ta amsa"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Ḥannah"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ta kuma ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "A'a"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ubangijina"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "wadda take da wahala"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rai"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "giya"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "da mabarata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שתיתי",
+      "gloss": "na sha"
+    },
+    {
+      "surface": "ואשפך",
+      "gloss": "amma ina zuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raina"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "raina"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-13T01:58:52.080681372Z",
+  "model": "glm-5.2"
+}

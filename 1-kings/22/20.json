@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma Yahweh ya ce, Wa zai yauduri ⟨את⟩ Ach'av, domin ya hau ya faɗo a Ramot-Gil'ad? Kuma ⟨wannan⟩ yana cewa haka, kuma ⟨wancan⟩ yana cewa haka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wa"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "zai yauduri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ach'av"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ach'av"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "domin ya hau"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ya faɗo"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "a"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Ramot-Gil'ad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ⟨wannan⟩ yana cewa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "haka"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "⟨wannan⟩"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "kuma ⟨wancan⟩ yana cewa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "haka"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "⟨wancan⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T11:52:29.282519320Z",
+  "model": "glm-5.2"
+}

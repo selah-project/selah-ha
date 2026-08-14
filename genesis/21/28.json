@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma Avraham ya sanya ⟨את⟩ babban tumaki guda bakwai su kaɗan kadai.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "kuma ya sanya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babban tumaki guda bakwai"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "guda bakwai"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "babban tumaki"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "tumaki"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "su kaɗan kadai"
+    }
+  ],
+  "timestamp": "2026-08-11T23:41:00.261424080Z",
+  "model": "glm-5.2"
+}

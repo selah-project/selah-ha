@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma Aram ya ga cewa an ci su a gaban Isra'ila, suka taru suka zama guda.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Kuma ya ga"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "an ci su"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gabin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "suka taru"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "suka zama guda"
+    }
+  ],
+  "timestamp": "2026-08-12T10:09:58.093838819Z",
+  "model": "glm-5.2"
+}

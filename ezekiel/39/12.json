@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Kuma za su binne su, gidan Yisra'el, domin tsarkake ⟨את⟩ ƙasa — watanni bakwai.",
+  "tokens": [
+    {
+      "surface": "וּקְבָרוּם֙",
+      "gloss": "Kuma za su binne su"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לְמַ֖עַן",
+      "gloss": "domin"
+    },
+    {
+      "surface": "טַהֵ֣ר",
+      "gloss": "tsarkake"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasa"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "שִׁבְעָ֖ה",
+      "gloss": "bakwai"
+    },
+    {
+      "surface": "חֳדָשִֽׁים",
+      "gloss": "watanni"
+    }
+  ],
+  "timestamp": "2026-08-12T17:51:18.744576526Z",
+  "model": "glm-5.2"
+}

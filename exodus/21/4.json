@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 21:4",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Idan ubangijinsa ya ba shi ⟨mace⟩ mata, kuma ta haifa masa yara maza ko mata, ⟨to⟩ matar da kuma ƴaƴanta za ta kasance ga ubangijinta, kuma shi zai fita da jikinsa kansa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ubangijinsa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mata"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "kuma ta haifa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "yara maza"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mata"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "matar"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "da kuma ƴaƴanta"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "za ta kasance"
+    },
+    {
+      "surface": "לאדניה",
+      "gloss": "ga ubangijinta"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kuma shi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "zai fita"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "da jikinsa kansa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:03:39.264106439Z",
+  "model": "glm-5.2"
+}

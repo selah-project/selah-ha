@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Asabar hutawa ce ta gare ku, kuma ku dann kunumulif ⟨את⟩ rayuwar ku, ⟨doka⟩ ta har abada.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Asabar"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "hutawa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ce"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ta gare ku"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "kuma ku dann kunumulif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rayuwar ku"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "rayuwar ku"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "⟨doka⟩ ta"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-12T02:24:17.825078249Z",
+  "model": "glm-5.2"
+}

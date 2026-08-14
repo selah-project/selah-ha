@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Saboda zunuban Yarav'am da ya aikata, ⟨kuma⟩ wadda ya sa ⟨את⟩ Yisra'el su yi zunubi, da fushinsa wadda ya fusata ⟨את⟩ Yahweh, Elohim na Yisra'el.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Saboda"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "zunuban"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarav'am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ya aikata"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "⟨kuma⟩ wadda"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ya sa su yi zunubi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "da fushinsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wadda"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "ya fusata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T11:34:46.826820647Z",
+  "model": "glm-5.2"
+}

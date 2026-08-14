@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 3:9",
+  "book": "micah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Ku saurara ⟨ku⟩ kwance, wannan, shugabannin gidan Ya'akov, da shugabannin gidan Yisra'el, masu ƙyamar shari'a, waɗanda ⟨suke⟩ lulluɓe ⟨da⟩ ⟨את⟩ dukkan abin da yake da daidaito.",
+  "tokens": [
+    {
+      "surface": "שִׁמְעוּ",
+      "gloss": "ku saurara"
+    },
+    {
+      "surface": "נָ֣א",
+      "gloss": "kwance"
+    },
+    {
+      "surface": "זֹ֗את",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "רָאשֵׁי֙",
+      "gloss": "shugabannin"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יַעֲקֹ֔ב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "וּקְצִינֵ֖י",
+      "gloss": "da shugabannin"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "הַֽמֲתַעֲבִ֣ים",
+      "gloss": "masu ƙyamar"
+    },
+    {
+      "surface": "מִשְׁפָּ֔ט",
+      "gloss": "shari'a"
+    },
+    {
+      "surface": "וְאֵ֥ת",
+      "gloss": "⟨kuma⟩ ⟨את⟩",
+      "marks": "duk abin da yake da daidaito"
+    },
+    {
+      "surface": "כֹּל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "הַיְשָׁרָ֖ה",
+      "gloss": "abin da yake da daidaito"
+    },
+    {
+      "surface": "יְעַקֵּֽשׁוּ",
+      "gloss": "suke lulluɓe"
+    }
+  ],
+  "timestamp": "2026-08-12T18:39:46.356842754Z",
+  "model": "glm-5.2"
+}

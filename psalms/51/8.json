@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 51,
+  "translation": "Ga shi, gaskiya Ka nema a cikin abubuwan ɓoye, kuma a cikin abin da aka ɓoye hikima Ka sanar da ni.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "gaskiya"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "Ka nema"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "a cikin abubuwan ɓoye"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "kuma a cikin abin da aka ɓoye"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikima"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "Ka sanar da ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:49:55.436483386Z",
+  "model": "glm-5.2"
+}

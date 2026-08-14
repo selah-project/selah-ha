@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Amma daga itacen ƙwararrun ilimi, na nagari da muguwa, kada ka ci daga gare shi, domin a rana da za ka ci daga gare shi, ⟨da tabbacin⟩ mutuwa za ka mutu.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "amma daga itacen"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "ƙwararrun ilimi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nagari"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "da muguwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ka ci"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare shi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "da za ka ci"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare shi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mutuwa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "za ka mutu"
+    }
+  ],
+  "timestamp": "2026-08-11T23:19:59.142175468Z",
+  "model": "glm-5.2"
+}

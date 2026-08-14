@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 5:17",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kai ka san ⟨את⟩ Dawuda ubana, cewa ba ya iya gina gida don Sunan Yahweh Elohim sa, saboda yaƙe-yaƙin da suka kewaye shi, har Yahweh ya sa ⟨את⟩ su a ƙarƙashin ƙafafun sa.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ka san"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawuda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "ya iya"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "gina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "don Sunan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim sa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "yaƙe-yaƙin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "סבבהו",
+      "gloss": "suka kewaye shi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ya sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a ƙarƙashin"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "ƙafafun"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "sa"
+    }
+  ],
+  "timestamp": "2026-08-12T11:02:11.610282044Z",
+  "model": "glm-5.2"
+}

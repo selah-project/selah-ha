@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 40:14",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Da wã ⟨ne⟩ Ya shawartar, ya sa ya fahimta? Kuma ya koya masa a hanyar shari'a, ya koya masa ilmi, kuma hanyar fahimta ya sanar shi?",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "wã"
+    },
+    {
+      "surface": "מִ֤י",
+      "gloss": "wã"
+    },
+    {
+      "surface": "נוֹעָץ֙",
+      "gloss": "Ya shawartar"
+    },
+    {
+      "surface": "וַיְבִינֵ֔הוּ",
+      "gloss": "ya sa ya fahimta"
+    },
+    {
+      "surface": "וַֽיְלַמְּדֵ֖הוּ",
+      "gloss": "Kuma ya koya masa"
+    },
+    {
+      "surface": "בְּאֹ֣רַח",
+      "gloss": "a hanyar"
+    },
+    {
+      "surface": "מִשְׁפָּ֑ט",
+      "gloss": "shari'a"
+    },
+    {
+      "surface": "וַיְלַמְּדֵ֣הוּ",
+      "gloss": "ya koya masa"
+    },
+    {
+      "surface": "דַ֔עַת",
+      "gloss": "ilmi"
+    },
+    {
+      "surface": "וְדֶ֥רֶךְ",
+      "gloss": "kuma hanyar"
+    },
+    {
+      "surface": "תְּבוּנ֖וֹת",
+      "gloss": "fahimta"
+    },
+    {
+      "surface": "יוֹדִיעֶֽנּוּ",
+      "gloss": "ya sanar shi"
+    }
+  ],
+  "timestamp": "2026-08-12T14:02:46.671342103Z",
+  "model": "glm-5.2"
+}

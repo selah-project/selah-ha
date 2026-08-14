@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Amma kalmar sarki ta yi ƙarfi a kan Yo'ab da shugabannin sojoji, sai Yo'ab da shugabannin sojoji suka fita daga gaban sarki don duba ⟨את⟩ al'ummar ⟨את⟩ Isra'ila.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Amma ta yi ƙarfi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalmar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yo'ab"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "shugabannin"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "sojoji"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "sai suka fita"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yo'ab"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "da shugabannin"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "sojoji"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "don duba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al'ummar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "al'ummar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isra'ila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T10:47:34.568238832Z",
+  "model": "glm-5.2"
+}

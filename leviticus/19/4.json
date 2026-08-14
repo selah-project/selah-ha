@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kada ku juya zuwa ga gumaka, kuma gumaka na narƙar da karfe kada ku yi wa kanku; ni ni⟨ne⟩ Yahweh Elohim ku.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תִּפְנוּ",
+      "gloss": "ku juya"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "הָאֱלִילִים",
+      "gloss": "gumaka"
+    },
+    {
+      "surface": "וֵאלֹהֵי",
+      "gloss": "kuma gumaka na"
+    },
+    {
+      "surface": "מַסֵּכָה",
+      "gloss": "narƙar da karfe"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תַעֲשׂוּ",
+      "gloss": "ku yi"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "wa kanku"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶם",
+      "gloss": "Elohim ku"
+    }
+  ],
+  "timestamp": "2026-08-12T02:33:47.914809149Z",
+  "model": "glm-5.2"
+}

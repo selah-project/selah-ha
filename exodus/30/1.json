@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma kã yi dabara ta turɓurar turare; itãcen shittah kã yi ⟨את⟩ shi.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Kuma kã yi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dabara"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "ta turɓurar"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "turare"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "itãcen"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittah"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kã yi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:18:48.234774825Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 115,
+  "translation": "Yahweh ya tuna da mu; ya yi albarka, ya yi ⟨את⟩ albarkar gidan Yisra'el; ya yi albarkar ⟨את⟩ gidan Aharon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "ya tuna da mu"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ya yi albarka"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "albarkar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ya yi albarkar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-12T20:38:17.508104249Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 4:30",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "kuma kohen ya ɗauwa daga jininta da yatsarsa, kuma ya sa a ƙahonan babban gidan hadayar holoka'ost, kuma ⟨את⟩ dukkan jininta zai zuba a kasan babban gidan hadaya.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "kuma ya ɗauka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "daga jininta"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "da yatsarsa"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "kuma ya sa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "ƙahonan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "babban gidan hadaya"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "hadayar holoka'ost"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "dukkan jininta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "jininta"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "zai zuba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "kasan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "babban gidan hadaya"
+    }
+  ],
+  "timestamp": "2026-08-12T01:52:44.789718999Z",
+  "model": "glm-5.2"
+}

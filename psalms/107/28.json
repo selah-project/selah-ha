@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Suka kurɗa zuwa Yahweh a cikin annobarsu, ⟨kuma⟩ daga cikin tundinobinsu Ya fitar da su.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "suka kurɗa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "a cikin annobarsu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨an riga an fahimta⟩"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "⟨kuma⟩ daga cikin tundinobinsu"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "Ya fitar da su"
+    }
+  ],
+  "timestamp": "2026-08-12T20:34:04.047391937Z",
+  "model": "glm-5.2"
+}

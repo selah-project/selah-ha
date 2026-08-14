@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Mẽne ne riƙõwa ⟨ga⟩ mai aiki a cikin abin da ⟨shĩ⟩ yake gudãna?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mẽne ne"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "riƙõwa"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "mai aiki"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "a cikin abin da"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shĩ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "yake gudãna"
+    }
+  ],
+  "timestamp": "2026-08-12T22:41:42.635754559Z",
+  "model": "glm-5.2"
+}

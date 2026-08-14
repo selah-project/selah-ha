@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Muka riƙe ⟨את⟩ ƙasarsu muka bada ⟨a⟩ gado ga Re'uveni da Gaɗi da rabin kabilar Menashe.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "muka riƙe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasarsu"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ƙasarsu"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "muka bada"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "⟨a⟩ gado"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "ga Re'uveni"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "da Gaɗi"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "da rabin"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kabilar"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "Menashe"
+    }
+  ],
+  "timestamp": "2026-08-12T05:49:05.829291369Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Domin Elohim zai kawo ⟨את⟩ kowane aiki ⟨a cikin⟩ shari'a, a kan kowane abin da aka ɓoye, ko da yana kyauta, ko da mugu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kowane aiki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aiki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "zai kawo"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "a cikin shari'a"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "abin da aka ɓoye"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ko da"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kyauta"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ko da"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mugu"
+    }
+  ],
+  "timestamp": "2026-08-12T22:50:29.321923361Z",
+  "model": "glm-5.2"
+}

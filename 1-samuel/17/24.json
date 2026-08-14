@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma duk mutumin Yisra'el, a lokacin da suka ga ⟨את⟩ mutumin, suka gudu daga gabansa, kuma suka ji tsoro sosai.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Kuma duk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "a lokacin da suka ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutumin"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "suka gudu"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "daga gabansa"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "kuma suka ji tsoro"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    }
+  ],
+  "timestamp": "2026-08-12T09:08:31.032757833Z",
+  "model": "glm-5.2"
+}

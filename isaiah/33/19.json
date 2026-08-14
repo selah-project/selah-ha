@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 33:19",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Ba za ka ga ⟨את⟩ wata ƙabila tauri ba, ƙabilar magana murɗe da ji, harshen izgili, babu fahimta.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wata ƙabila tauri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wata ƙabila"
+    },
+    {
+      "surface": "נועז",
+      "gloss": "tauri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "za ka ga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ƙabilar"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "murɗe"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "magana"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "da ji"
+    },
+    {
+      "surface": "נלעג",
+      "gloss": "harshe na izgili"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "harshe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "fahimta"
+    }
+  ],
+  "timestamp": "2026-08-12T13:50:45.864187534Z",
+  "model": "glm-5.2"
+}

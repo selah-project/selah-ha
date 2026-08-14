@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 21:42",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Wadannan biranen ⟨suna nan⟩ — gari gari da makiyabinsu a kewayenta; haka ga dukkan wadannan biranen.",
+  "tokens": [
+    {
+      "surface": "תִּֽהְיֶ֨ינָה֙",
+      "gloss": "⟨suna nan⟩"
+    },
+    {
+      "surface": "הֶעָרִ֣ים",
+      "gloss": "biranen"
+    },
+    {
+      "surface": "הָאֵ֔לֶּה",
+      "gloss": "Wadannan"
+    },
+    {
+      "surface": "עִ֣יר",
+      "gloss": "gari"
+    },
+    {
+      "surface": "עִ֔יר",
+      "gloss": "gari"
+    },
+    {
+      "surface": "וּמִגְרָשֶׁ֖יהָ",
+      "gloss": "da makiyabinsu"
+    },
+    {
+      "surface": "סְבִיבֹתֶ֑יהָ",
+      "gloss": "a kewayenta"
+    },
+    {
+      "surface": "כֵּן֙",
+      "gloss": "haka"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "ga dukkan"
+    },
+    {
+      "surface": "הֶעָרִ֥ים",
+      "gloss": "biranen"
+    },
+    {
+      "surface": "הָאֵֽלֶּה",
+      "gloss": "wadannan"
+    }
+  ],
+  "timestamp": "2026-08-12T07:00:35.017878116Z",
+  "model": "glm-5.2"
+}

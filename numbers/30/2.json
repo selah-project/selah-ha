@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 30:2",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Mosheh ya yi magana da shugabannin ƙabĩlu, ga ɗiyãn Yisra'el, yana cewa: Wannan ⟨ne⟩ kalmar da Yahweh ya umurta:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ya yi magana"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "shugabannin"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "ƙabĩlu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ga ɗiyãn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Wannan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kalmar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T04:40:32.937902463Z",
+  "model": "glm-5.2"
+}

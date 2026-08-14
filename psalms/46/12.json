@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 46,
+  "translation": "Yahweh na jama'a yana tare da mu; masāgi na gāre mu ⟨ne⟩ Elohim na Ya'ƙub. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "na jama'a"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "yana tare da mu"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "masāgi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na gāre mu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "na Ya'ƙub"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T19:46:01.274798842Z",
+  "model": "glm-5.2"
+}

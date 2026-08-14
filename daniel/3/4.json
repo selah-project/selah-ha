@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 3:4",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma mai yin sanarwa ya kururu da ƙarfi: \"An umurta ku, ya al'ummai, kabilu, da harsuna!",
+  "tokens": [
+    {
+      "surface": "וכרוזא",
+      "gloss": "Kuma mai yin sanarwa"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ya kururu"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "da ƙarfi"
+    },
+    {
+      "surface": "לכון",
+      "gloss": "An umurta ku"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "ana cewa"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "ya al'ummai"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "kabilu"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "da harsuna"
+    }
+  ],
+  "timestamp": "2026-08-13T02:36:40.338026246Z",
+  "model": "glm-5.2"
+}

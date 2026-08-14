@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Juya zuciyata zuwa ga shaidarka, kuma ⟨kada⟩ ⟨a⟩ zuwa ga riba ta zalunci.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Juya"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "shaidarka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma kada zuwa ga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "riba ta zalunci"
+    }
+  ],
+  "timestamp": "2026-08-12T20:41:03.779757658Z",
+  "model": "glm-5.2"
+}

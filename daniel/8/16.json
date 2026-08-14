@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 8:16",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma na ji muryar mutum a tsakiyar Ulay, kuma ya kira, kuma ya ce: «Gavri'el, ka sa wannan ⟨ɗan'adam⟩ ya fahimci ⟨את⟩ al'amarin gani.»",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "kuma na ji"
+    },
+    {
+      "surface": "קול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "Ulay"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kuma ya kira"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "גבריאל",
+      "gloss": "Gavri'el"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "ka sa ya fahimci"
+    },
+    {
+      "surface": "להלז",
+      "gloss": "wannan ⟨ɗan'adam⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alar gani"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "alar gani"
+    }
+  ],
+  "timestamp": "2026-08-12T23:16:16.444348022Z",
+  "model": "glm-5.2"
+}

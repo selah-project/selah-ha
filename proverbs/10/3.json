@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Yahweh ba ya bari rai na mai adalci ya yi yunwa, amma sha'awar masu mugun nufi Yana tura ⟨ta⟩ baya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "ya bari ya yi yunwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rai"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "na mai adalci"
+    },
+    {
+      "surface": "והות",
+      "gloss": "amma sha'awar"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "masu mugun nufi"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "Yana tura baya"
+    }
+  ],
+  "timestamp": "2026-08-12T21:10:40.352129706Z",
+  "model": "glm-5.2"
+}

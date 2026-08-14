@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Saurari kuma ku sa kurum, kada ku girma, domin Yahweh ya yi magana.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Saurari"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "kuma ku sa kurum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "ku girka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya yi magana"
+    }
+  ],
+  "timestamp": "2026-08-12T15:22:30.627931610Z",
+  "model": "glm-5.2"
+}

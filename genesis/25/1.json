@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma Avraham ya ƙara, ya auri mace, kuma sunanta Qeturah.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ya ƙara"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ya auri"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "kuma sunanta"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Qeturah"
+    }
+  ],
+  "timestamp": "2026-08-11T23:50:04.364848630Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 28:7",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Sa'an nan Sha'ul ya ce wa bayinsa, \"Nemo mini mace mai mallakar mai bokanci, in je wurinta in tambaye ta.\" Kuma bayinsa suka ce masa, \"Ga shi, mace mai mallakar mai bokanci tana cikin En-Dor.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "wa bayinsa"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Nemo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mini"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mace"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "mai mallakar"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "mai bokanci"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "in je"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "wurinta"
+    },
+    {
+      "surface": "ואדרשה",
+      "gloss": "in tambaye"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bayinsa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ga shi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mace"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "mai mallakar"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "mai bokanci"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "דור",
+      "gloss": "En-Dor"
+    }
+  ],
+  "timestamp": "2026-08-12T09:43:21.505624619Z",
+  "model": "glm-5.2"
+}

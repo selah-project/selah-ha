@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "domin ⟨sh⟩ zai juya ⟨את⟩ ɗanka daga baya-na, kuma su bauta wa alloli wasu, kuma fushi na Yahweh ya tashi a kanku, kuma ya halaka ka gaggawa.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יָסִ֤יר",
+      "gloss": "zai juya"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ɗanka"
+    },
+    {
+      "surface": "בִּנְךָ֙",
+      "gloss": "ɗanka"
+    },
+    {
+      "surface": "מֵֽאַחֲרַ֔י",
+      "gloss": "daga baya-na"
+    },
+    {
+      "surface": "וְעָבְד֖וּ",
+      "gloss": "kuma su bauta wa"
+    },
+    {
+      "surface": "אֱלֹהִ֣ים",
+      "gloss": "alloli"
+    },
+    {
+      "surface": "אֲחֵרִ֑ים",
+      "gloss": "wasu"
+    },
+    {
+      "surface": "וְחָרָ֤ה",
+      "gloss": "kuma fushi"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "ya tashi"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "בָּכֶ֔ם",
+      "gloss": "a kanku"
+    },
+    {
+      "surface": "וְהִשְׁמִידְךָ֖",
+      "gloss": "kuma ya halaka ka"
+    },
+    {
+      "surface": "מַהֵֽר",
+      "gloss": "gaggawa"
+    }
+  ],
+  "timestamp": "2026-08-12T05:02:21.164380224Z",
+  "model": "glm-5.2"
+}

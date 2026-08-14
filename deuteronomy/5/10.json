@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma ⟨mai⟩ aikata chesed ga dubbai, ga masu ƙaunata, da ga masu kiyaye ⟨umarninSa⟩.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Kuma ⟨mai⟩ aikata"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "ga dubbai"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ga masu ƙaunata"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "da ga masu kiyaye"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "⟨umarninSa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T05:01:18.737363137Z",
+  "model": "glm-5.2"
+}

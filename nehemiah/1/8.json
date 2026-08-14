@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 1:8",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Ka tuna, ina roƙonka, ⟨את⟩ kalmar da ka umarci ⟨את⟩ Moshe bāranka, in ce: 'Ku lokacin da kuka yi aminci, Ni zan watse ⟨את⟩ ku cikin al'ummomi.'",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ka tuna"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ina roƙonka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalmar"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kalmar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "ka umarci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bāranka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "in ce"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Ku"
+    },
+    {
+      "surface": "תמעלו",
+      "gloss": "lokacin da kuka yi aminci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "אפיץ",
+      "gloss": "zan watse"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "cikin al'ummomi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:38:21.265995504Z",
+  "model": "glm-5.2"
+}

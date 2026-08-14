@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ya ce: Wane ⟨ne⟩ hanyar za mu hau? Kuma ⟨shi⟩ ya ce: Hanyar jejiyar Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Wane"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "za mu hau"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ⟨shi⟩ ya ce"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "Hanyar"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "jejiyar"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-12T11:57:21.562452670Z",
+  "model": "glm-5.2"
+}

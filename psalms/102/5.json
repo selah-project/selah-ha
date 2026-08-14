@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 102,
+  "translation": "An buge ni kamar ciyawa, kuma zuciyata ta bushe, domin na manta ⟨da⟩ cin buroshina.",
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "an buge ni"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "kamar ciyawa"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "kuma ta bushe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "na manta"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "cin"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "buroshina"
+    }
+  ],
+  "timestamp": "2026-08-12T20:24:27.917728645Z",
+  "model": "glm-5.2"
+}

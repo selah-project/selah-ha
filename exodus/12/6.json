@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 12:6",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma ya zama a gare ku don kiyayewa, har zuwa kwana goma sha huɗu na wannan watan; kuma duka taron jama'ar Isra'ila za su yanka ⟨את⟩ shi tsakanin marelerin.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Kuma ya zama"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a gare ku"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "don kiyayewa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "huɗu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "goma sha"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "na watan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "kuma za su yanka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "taron"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jama'ar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "marelerin"
+    }
+  ],
+  "timestamp": "2026-08-13T01:45:04.100406898Z",
+  "model": "glm-5.2"
+}

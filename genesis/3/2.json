@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma mace ta faɗa wa macijin, \"Daga 'ya'yan itacen gona muna cinsu.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Kuma ta faɗa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "macijin"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "Daga 'ya'yan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "itacen"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "gona"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "muna cinsu"
+    }
+  ],
+  "timestamp": "2026-08-11T23:22:50.487003276Z",
+  "model": "glm-5.2"
+}

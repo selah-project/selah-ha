@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 17:2",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Ba don ba masu izgili ⟨suka⟩ taba min ba? kuma idanina yana zama a cikin cin amanarsu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ba don"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "התלים",
+      "gloss": "masu izgili"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "suka taba min"
+    },
+    {
+      "surface": "ובהמרותם",
+      "gloss": "kuma a cikin cin amanarsu"
+    },
+    {
+      "surface": "תלן",
+      "gloss": "yana zama"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "idanina"
+    }
+  ],
+  "timestamp": "2026-08-12T21:55:40.075401835Z",
+  "model": "glm-5.2"
+}

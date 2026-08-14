@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 86,
+  "translation": "Sauraro, Yahweh, addu'ata, ka kuma ka saurari sautin roƙon-nafata.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "sauraro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "addu'ata"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "ka kuma ka saurari"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sautin"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "roƙon-nafata"
+    }
+  ],
+  "timestamp": "2026-08-12T20:16:37.198084892Z",
+  "model": "glm-5.2"
+}

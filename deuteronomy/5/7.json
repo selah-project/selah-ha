@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Ba za a kasance ⟨a gare ka⟩ abin bautawa wasu a kan fuskata ba.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "za a kasance"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a gare ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "abin bautawa wasu"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "sauran"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskata"
+    }
+  ],
+  "timestamp": "2026-08-12T04:58:03.371051776Z",
+  "model": "glm-5.2"
+}

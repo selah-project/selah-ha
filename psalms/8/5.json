@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Mẽne ne mutum-mutuwa, cewa kake tunãtar da shi? kuma ɗan-Adam, cewa kake ziyartar shi?",
+  "tokens": [
+    {
+      "surface": "מָֽה",
+      "gloss": "Mẽne ne"
+    },
+    {
+      "surface": "אֱנ֥וֹשׁ",
+      "gloss": "mutum-mutuwa"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "תִזְכְּרֶ֑נּוּ",
+      "gloss": "kake tunãtar da shi"
+    },
+    {
+      "surface": "וּבֶן",
+      "gloss": "kuma ɗan"
+    },
+    {
+      "surface": "אָ֝דָ֗ם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "תִפְקְדֶֽנּוּ",
+      "gloss": "kake ziyartar shi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:17:59.939167182Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Ahab ya aiki zuwa ga dukan 'ya'yan Isra'ila, kuma ya tarɓa ⟨את⟩ annabawa a Dutsen Karmel.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ya aiki"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "zuwa ga dukan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "kuma ya tarɓa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "annabawa"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "annabawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Dutsen"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-08-12T11:39:04.050652172Z",
+  "model": "glm-5.2"
+}

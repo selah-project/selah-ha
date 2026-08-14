@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 140,
+  "translation": "Yahweh, Adonai, ƙarfin ceto na, ka rufe kan na a ranar yaƙi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ƙarfin"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ceto na"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "ka rufe"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "kan na"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a ranar"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "yaƙi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:55:04.123600694Z",
+  "model": "glm-5.2"
+}

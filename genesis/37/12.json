@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Sai ɗan'uwansa ⟨su⟩ tafi kiwo ⟨את⟩ tawar ubansu a Shekẹm.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Sai ɗan'uwansa ⟨su⟩ tafi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ɗan'uwansa"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "kiwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tawar"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "tawar"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ubansu"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "a Shekẹm"
+    }
+  ],
+  "timestamp": "2026-08-12T00:02:47.937672207Z",
+  "model": "glm-5.2"
+}

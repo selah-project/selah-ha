@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Na Dawuda. Yi husuma, Yahweh, ⟨a⟩ ⟨tsakanin⟩ masana ⟨את⟩ adawata; yi yaƙi ⟨a⟩ ⟨tsakanin⟩ masana ⟨את⟩ masu yaƙina.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Na Dawuda"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "yi husuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adawata"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "masana adawata"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "yi yaƙi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masu yaƙina"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "masu yaƙina"
+    }
+  ],
+  "timestamp": "2026-08-12T19:37:40.031509313Z",
+  "model": "glm-5.2"
+}

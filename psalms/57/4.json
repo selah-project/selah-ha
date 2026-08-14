@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 57,
+  "translation": "Ya aiko daga sama, kuma Ya cece ni, Ya zagi wanda yake numfashi bayana. Selah. Elohim zai aiko chesed Sa da amintaccen Sa.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ya aiko"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "daga sama"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "kuma Ya cece ni"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "Ya zagi"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "wanda yake numfashi bayana"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "zai aiko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed Sa"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "da amintaccen Sa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:53:04.872804251Z",
+  "model": "glm-5.2"
+}

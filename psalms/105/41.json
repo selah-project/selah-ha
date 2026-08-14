@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Ya buɗe dutsen, ruwa ya gudā, sun tafi cikin ƙāraye ⟨kamar⟩ kogin.",
+  "tokens": [
+    {
+      "surface": "פָּ֣תַח",
+      "gloss": "Ya buɗe"
+    },
+    {
+      "surface": "צ֭וּר",
+      "gloss": "dutsen"
+    },
+    {
+      "surface": "וַיָּז֣וּבוּ",
+      "gloss": "ya gudā"
+    },
+    {
+      "surface": "מָ֑יִם",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "הָ֝לְכ֗וּ",
+      "gloss": "sun tafi"
+    },
+    {
+      "surface": "בַּצִּיּ֥וֹת",
+      "gloss": "cikin ƙāraye"
+    },
+    {
+      "surface": "נָהָֽר",
+      "gloss": "kogin"
+    }
+  ],
+  "timestamp": "2026-08-12T20:30:04.916067213Z",
+  "model": "glm-5.2"
+}

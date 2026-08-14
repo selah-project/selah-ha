@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Shin ba ƙaɗan ne kwana na? Daina, ka tura ⟨a⟩ dabam, kuma in haskaka ɗan lokaci!",
+  "tokens": [
+    {
+      "surface": "הֲלֹא",
+      "gloss": "Shin ba"
+    },
+    {
+      "surface": "מְעַ֣ט",
+      "gloss": "ƙaɗan"
+    },
+    {
+      "surface": "יָמַ֣י",
+      "gloss": "kwana na"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "Daina"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "ka tura"
+    },
+    {
+      "surface": "מִ֝מֶּ֗נִּי",
+      "gloss": "⟨a⟩ dabam"
+    },
+    {
+      "surface": "וְאַבְלִ֥יגָה",
+      "gloss": "kuma in haskaka"
+    },
+    {
+      "surface": "מְּעָֽט",
+      "gloss": "ɗan lokaci"
+    }
+  ],
+  "timestamp": "2026-08-13T02:31:11.694467426Z",
+  "model": "glm-5.2"
+}

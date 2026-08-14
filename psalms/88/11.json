@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 88,
+  "translation": "Shin, ga matattu ne kake aikata mu'ujiza? Shin, refa'im za su tashi, su gode maka? ⟨sela⟩.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "shin ga matattu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kake aikata"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "mu'ujiza"
+    },
+    {
+      "surface": "אם",
+      "gloss": "shin"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "refa'im"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "za su tashi"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "su gode maka"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "⟨sela⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:15:05.328507402Z",
+  "model": "glm-5.2"
+}

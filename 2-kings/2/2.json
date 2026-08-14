@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 2:2",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma Eliyahu ya ce wa Elisha, \"Ka zauna nan, ina roƙonka, domin Yahweh ya aiko ni zuwa Bet־El.\" Kuma Elisha ya ce, \"Yay da Yahweh yake raye, kuma yay da rãyanka yake raye, ba zan bar ka ba.\" Kuma suka sauko Bet־El.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ka zauna"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ina roƙonka"
+    },
+    {
+      "surface": "פה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ya aiko ni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yay da…yake raye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "kuma yay da…yake raye"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "rãyanka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨idan⟩"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "zā ni bar ka"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "Kuma suka sauko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-12T11:55:45.577793511Z",
+  "model": "glm-5.2"
+}

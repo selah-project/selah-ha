@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Kuma za ka ɗauka ⟨את⟩ sauren zunubi, kuma a ƙone shi a wurin da aka tanada na gida, a wajen masallaci.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Kuma za ka ɗauka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sauren zunubi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sauren"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "zunubi"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "kuma a ƙone shi"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "a wurin da aka tanada"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "na gida"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "a wajen"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "masallaci"
+    }
+  ],
+  "timestamp": "2026-08-12T18:00:38.511589876Z",
+  "model": "glm-5.2"
+}

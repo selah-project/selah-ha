@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 48,
+  "translation": "Muka yi tunani, Elohim, game da chesed na kai, a tsakiyar fadar kai.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "muka yi tunani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed na kai"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "a tsakiyar"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "fadar kai"
+    }
+  ],
+  "timestamp": "2026-08-12T19:45:32.090447951Z",
+  "model": "glm-5.2"
+}

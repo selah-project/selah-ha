@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma ya cire ⟨את⟩ rufin Yehudah, ka duba a cikin wannan rana zuwa ga makaman Gidan daji.",
+  "tokens": [
+    {
+      "surface": "וַיְגַ֕ל",
+      "gloss": "kuma ya cire"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "rufin"
+    },
+    {
+      "surface": "מָסַ֣ךְ",
+      "gloss": "rufin"
+    },
+    {
+      "surface": "יְהוּדָ֑ה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וַתַּבֵּט֙",
+      "gloss": "ka duba"
+    },
+    {
+      "surface": "בַּיּ֣וֹם",
+      "gloss": "a cikin rana"
+    },
+    {
+      "surface": "הַה֔וּא",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "נֶ֖שֶׁק",
+      "gloss": "makaman"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "Gidan"
+    },
+    {
+      "surface": "הַיָּֽעַר",
+      "gloss": "daji"
+    }
+  ],
+  "timestamp": "2026-08-12T13:27:27.369780997Z",
+  "model": "glm-5.2"
+}

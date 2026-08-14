@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma kāhin ya nutsa ⟨את⟩ yatsansa cikin jinin, kuma ya tsafa daga jinin sau bakwai a gaban Yahweh, ⟨את⟩ ⟨a gaban⟩ fuskar shingen Tsarkin:",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "kuma ya nutsa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kāhin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yatsansa"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "yatsansa"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "cikin jinin"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "kuma ya tsafa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "jinin"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sau bakwai"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "sau"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨a gaban⟩",
+      "marks": "fuskar"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskar"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "shingen"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "Tsarkin"
+    }
+  ],
+  "timestamp": "2026-08-12T01:54:11.609927551Z",
+  "model": "glm-5.2"
+}

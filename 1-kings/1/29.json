@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma sarki ya rantsuwa, ya kuma ce: \"Ina rantsuwa da ⟨ce⟩ Yahweh mai rai, wanda ya fanshe ⟨את⟩ raina daga dukkan matsananciyar ciki,\"",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "Kuma ya rantsuwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya kuma ce"
+    },
+    {
+      "surface": "חי",
+      "gloss": "mai rai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ya fanshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raina"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "raina"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "daga dukkan"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "matsananciyar ciki"
+    }
+  ],
+  "timestamp": "2026-08-12T10:49:33.010447101Z",
+  "model": "glm-5.2"
+}

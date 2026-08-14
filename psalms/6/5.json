@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Koma, Yahweh, ceto ⟨את⟩ rayuwata; ka tsere ni saboda chesed-ka.",
+  "tokens": [
+    {
+      "surface": "שׁוּבָ֣ה",
+      "gloss": "Koma"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חַלְּצָ֣ה",
+      "gloss": "ceto"
+    },
+    {
+      "surface": "נַפְשִׁ֑י",
+      "gloss": "rayuwata"
+    },
+    {
+      "surface": "ה֝וֹשִׁיעֵ֗נִי",
+      "gloss": "ka tsere ni"
+    },
+    {
+      "surface": "לְמַ֣עַן",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "חַסְדֶּֽךָ",
+      "gloss": "chesed-ka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:14:58.473197576Z",
+  "model": "glm-5.2"
+}

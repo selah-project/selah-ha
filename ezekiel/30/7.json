@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 30:7",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma za su kasance cikin ƙasashe da aka lalasta, kuma biranensa za su kasance cikin birane da aka rusuba.",
+  "tokens": [
+    {
+      "surface": "ונשמו",
+      "gloss": "Kuma za su kasance cikin lalashe"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "ƙasashe"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "da aka lalasta"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "kuma biranensa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "birane"
+    },
+    {
+      "surface": "נחרבות",
+      "gloss": "da aka rusuba"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "za su kasance"
+    }
+  ],
+  "timestamp": "2026-08-12T17:35:38.343034706Z",
+  "model": "glm-5.2"
+}

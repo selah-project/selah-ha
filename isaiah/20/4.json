@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "haka sarkin Ashur zai kora ⟨את⟩ fursunonin Mitsrayim da ⟨את⟩ gudun hijirar Kush, samari da tsofaffi, tsĩrāra da ɓarɓoshiya, kuma suna da gābari bayyane, ⟨a nuna⟩ alfashar Mitsrayim.\"",
+  "tokens": [
+    {
+      "surface": "כֵּ֣ן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "יִנְהַ֣ג",
+      "gloss": "zai kora"
+    },
+    {
+      "surface": "מֶֽלֶךְ",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "אַ֠שּׁוּר",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "fursunonin"
+    },
+    {
+      "surface": "שְׁבִ֨י",
+      "gloss": "fursunonin"
+    },
+    {
+      "surface": "מִצְרַ֜יִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "gudun hijirar"
+    },
+    {
+      "surface": "גָּל֥וּת",
+      "gloss": "gudun hijirar"
+    },
+    {
+      "surface": "כּ֛וּשׁ",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "נְעָרִ֥ים",
+      "gloss": "samari"
+    },
+    {
+      "surface": "וּזְקֵנִ֖ים",
+      "gloss": "da tsofaffi"
+    },
+    {
+      "surface": "עָר֣וֹם",
+      "gloss": "tsĩrāra"
+    },
+    {
+      "surface": "וְיָחֵ֑ף",
+      "gloss": "da ɓarɓoshiya"
+    },
+    {
+      "surface": "וַחֲשׂוּפַ֥י",
+      "gloss": "kuma suna da"
+    },
+    {
+      "surface": "שֵׁ֖ת",
+      "gloss": "gābari bayyane"
+    },
+    {
+      "surface": "עֶרְוַ֥ת",
+      "gloss": "alfashar"
+    },
+    {
+      "surface": "מִצְרָֽיִם",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T13:29:11.729977019Z",
+  "model": "glm-5.2"
+}

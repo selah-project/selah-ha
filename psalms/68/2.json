@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 68,
+  "translation": "Elohim ya tashi, ⟨a⟩ kora maƙiyansa, kuma masu ƙishinsa su gudu daga gaban Sa.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "ya tashi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "⟨a⟩ kora"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "maƙiyansa"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "kuma su gudu"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "masu ƙishinsa"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "daga gaban Sa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:58:47.746118020Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "domin Yahweh Elohiminku Shi ne ⟨ke⟩ tafiya tare da ku, don Ya yaƙa don ku tare da maƙiyanku, don Ya ku 'yantar da ku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminku"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "Shi ne tafiya"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "tare da ku"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "don Ya yaƙa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "don ku"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "maƙiyanku"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "don Ya ku 'yantar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    }
+  ],
+  "timestamp": "2026-08-12T05:30:25.159647579Z",
+  "model": "glm-5.2"
+}

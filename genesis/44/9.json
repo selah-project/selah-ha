@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Wanda ⟨את⟩ za a same shi tare da shi daga cikin bayinka, kuma ya mutu, har ma mu za mu zama wa adoninmu bayi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Wanda"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "za a same"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ tare da shi"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "daga cikin bayinka"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "kuma ya mutu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "har ma"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "za mu zama"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "wa adoninmu"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "bayi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:16:31.742485376Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Don me gwiwoyi suka riga ni, kuma nono don in shaya?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Don me"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "suka riga ni"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "gwiwoyi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "nono"
+    },
+    {
+      "surface": "כי",
+      "gloss": "don"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "in shaya"
+    }
+  ],
+  "timestamp": "2026-08-12T21:38:16.157690643Z",
+  "model": "glm-5.2"
+}

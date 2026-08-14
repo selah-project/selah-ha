@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 108,
+  "translation": "Moab ⟨ne⟩ tukwanar wankata; a kan Edom zan jefi takalmana; akan Felenshetawa zan yi ƙara.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "tukunya"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "wankata"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "zan jefi"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "takalmana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "akan"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Felenshetawa"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "zan yi ƙara"
+    }
+  ],
+  "timestamp": "2026-08-13T02:27:40.709162283Z",
+  "model": "glm-5.2"
+}

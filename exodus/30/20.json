@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 30:20",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "«a lokacin da suke shiga Tenti-Taro za su wanƙa da ruwa, kuma ba za su mutu ba; ko a lokacin da suke kusantar ←altar don yin hidima, don ƙone hadaya ta wuta ga Yahweh.»",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "a lokacin da suke shiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "→"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "-Taro"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "za su wanƙa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "da ruwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "za su mutu"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בגשתם",
+      "gloss": "a lokacin da suke kusantar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "→"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "don yin hidima"
+    },
+    {
+      "surface": "להקטיר",
+      "gloss": "don ƙone"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "hadaya ta wuta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:18:40.919661953Z",
+  "model": "glm-5.2"
+}

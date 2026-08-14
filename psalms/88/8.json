@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 88,
+  "translation": "Da fushinka ta kwanta a kaina, kuma duk raƙumanka ka niƙa ni. ⟨Selah⟩.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "a kaina"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "ta kwanta"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "da fushinka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma duk"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "raƙumanka"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "ka niƙa ni"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "⟨Selah⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:03.712104201Z",
+  "model": "glm-5.2"
+}

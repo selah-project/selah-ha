@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma yanzu, zo, kuma Ni zan aiko ka zuwa Paroh, ka fitar ⟨את⟩ mutãna, ɗa'Ya'yan Yisra'el, daga Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kuma yanzu"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "zan aiko ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "ka fitar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutãna"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mutãna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗa'Ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "daga Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:33:58.529173223Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma na umurta ⟨את⟩ ku a lokacin ⟨na⟩, ⟨את⟩ duka ⟨a⟩ kalmomin da kuke aikatawa.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "Kuma na umurta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "a lokacin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka kalmomin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "kuke aikatawa"
+    }
+  ],
+  "timestamp": "2026-08-12T04:53:22.135974715Z",
+  "model": "glm-5.2"
+}

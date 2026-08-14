@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ⟨ya⟩ saka a bakina waƙa ta sabuwa, yabõ wa Elohimmu; da yawa za su ga, su gãji, su dogara ga Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kuma ⟨ya⟩ saka"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "a bakina"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "waƙa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ta sabuwa"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "yabõ"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "wa Elohimmu"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "za su ga"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "su gãji"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "su dogara"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ga Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T19:41:18.409143764Z",
+  "model": "glm-5.2"
+}

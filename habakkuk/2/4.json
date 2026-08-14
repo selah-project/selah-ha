@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 2:4",
+  "book": "habakkuk",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Ga shi, wanda ya yi kankana, ba daidai ba ⟨ne⟩ ransa a cikinsa; amma mai adalci da amincinsa zai rayu.",
+  "tokens": [
+    {
+      "surface": "הִנֵּ֣ה",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "עֻפְּלָ֔ה",
+      "gloss": "wanda ya yi kankana"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יָשְׁרָ֥ה",
+      "gloss": "daidai ba"
+    },
+    {
+      "surface": "נַפְשׁ֖וֹ",
+      "gloss": "ransa"
+    },
+    {
+      "surface": "בּ֑וֹ",
+      "gloss": "a cikinsa"
+    },
+    {
+      "surface": "וְצַדִּ֖יק",
+      "gloss": "amma mai adalci"
+    },
+    {
+      "surface": "בֶּאֱמוּנָת֥וֹ",
+      "gloss": "da amincinsa"
+    },
+    {
+      "surface": "יִחְיֶֽה",
+      "gloss": "zai rayu"
+    }
+  ],
+  "timestamp": "2026-08-13T02:21:52.141246331Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 12:15",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma ⟨za a⟩ bayan da na tsage su, zan koma, kuma in yi musu shafa, kuma in mayar da su, kowane mutum zuwa gadon sa, da kowane mutum zuwa ƙasar sa.",
+  "tokens": [
+    {
+      "surface": "וְהָיָ֗ה",
+      "gloss": "Kuma ⟨za a⟩"
+    },
+    {
+      "surface": "אַֽחֲרֵי֙",
+      "gloss": "bayan da"
+    },
+    {
+      "surface": "נָתְשִׁ֣י",
+      "gloss": "na tsage su"
+    },
+    {
+      "surface": "אוֹתָ֔ם",
+      "gloss": "⟨את⟩",
+      "marks": "sauƙaƙe (su)"
+    },
+    {
+      "surface": "אָשׁ֖וּב",
+      "gloss": "zan koma"
+    },
+    {
+      "surface": "וְרִֽחַמְתִּ֑ים",
+      "gloss": "kuma in yi musu shafa"
+    },
+    {
+      "surface": "וַהֲשִׁבֹתִ֛ים",
+      "gloss": "kuma in mayar da su"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "לְנַחֲלָת֖וֹ",
+      "gloss": "zuwa gadon sa"
+    },
+    {
+      "surface": "וְאִ֥ישׁ",
+      "gloss": "da kowane mutum"
+    },
+    {
+      "surface": "לְאַרְצֽוֹ",
+      "gloss": "zuwa ƙasar sa"
+    }
+  ],
+  "timestamp": "2026-08-12T15:19:15.812478855Z",
+  "model": "glm-5.2"
+}

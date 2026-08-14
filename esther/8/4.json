@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Sarkin ya miƙa wa Ester ⟨את⟩ sandar zinare, kuma Ester ta tashi ta tsaya gaban sarki.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "ya miƙa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Sarkin"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "wa Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandar"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "sandar"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zinare"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ta tashi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ta tsaya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    }
+  ],
+  "timestamp": "2026-08-12T22:59:58.077251315Z",
+  "model": "glm-5.2"
+}

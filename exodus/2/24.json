@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma Elohim ya ji ⟨אֵת⟩ gogansu, kuma Elohim ya tuna ⟨אֵת⟩ alkawarinsa, ⟨אֵת⟩ Avraham ⟨אֵת⟩ Yitschaq da ⟨אֵת⟩ Yaʿaqov.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ya ji"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gogansu"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "gogansu"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "ya tuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alkawarinsa"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "alkawarinsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Yaʿaqov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaʿaqov"
+    }
+  ],
+  "timestamp": "2026-08-12T00:29:50.120290250Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 27:12",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Yahweh ya ce wa Mosheh, ka hawa zuwa dutsen Ha-Avarim wannan, ka kuma duba ⟨את⟩ ƙasar da na bayar ga ƴan Isra'ila.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ka hawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dutsen"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ha-Avarim"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ka kuma duba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "na bayar"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ga ƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T04:31:24.807131559Z",
+  "model": "glm-5.2"
+}

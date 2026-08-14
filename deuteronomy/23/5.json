@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Saboda ⟨al'amar⟩ cewa ba su zo su haɗu da ku da ⟨את⟩ burodi da ruwa a hanya a lokacin fitarku daga Mitsrayim, kuma saboda ya hayar a kanku ⟨את⟩ Bilam ɗan Beor daga Pethor, Aram Naharayim, don ya la'ane ka.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Saboda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨al'amar⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "su zo su haɗu da"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "burodi"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "da ruwa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "a hanya"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "a lokacin fitarku"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "daga Mitsrayim"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kuma saboda"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ya hayar"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "a kanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "daga Pethor"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayim"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "don ya la'ane ka"
+    }
+  ],
+  "timestamp": "2026-08-13T01:56:16.222705981Z",
+  "model": "glm-5.2"
+}

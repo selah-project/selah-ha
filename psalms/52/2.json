@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 52,
+  "translation": "A lokacin da Doeg mutumin Edom ya zo, ya yi wa Sha'ul magana, ya ce masa, Dawid ya zo gidan Akhimelek.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "A lokacin da... ya zo"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "mutumin Edom"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ya yi... magana"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "wa Sha'ul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ya zo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Akhimelek"
+    }
+  ],
+  "timestamp": "2026-08-12T19:51:58.458176804Z",
+  "model": "glm-5.2"
+}

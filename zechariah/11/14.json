@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 11:14",
+  "book": "zechariah",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Sa'an nan na tsage ⟨את⟩ sanda ta ta biyu, ⟨wato⟩ ⟨Saiwaya⟩, don in warware ⟨את⟩ 'yan'uwa tsakanin Yahuda da Isra'ila.",
+  "tokens": [
+    {
+      "surface": "ואגדע",
+      "gloss": "Sa'an nan na tsage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanda ta"
+    },
+    {
+      "surface": "מקלי",
+      "gloss": "sanda ta"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ta biyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saiwaya"
+    },
+    {
+      "surface": "החבלים",
+      "gloss": "⟨Saiwaya⟩"
+    },
+    {
+      "surface": "להפר",
+      "gloss": "don in warware"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'yan'uwa"
+    },
+    {
+      "surface": "האחוה",
+      "gloss": "'yan'uwa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T19:06:35.764273246Z",
+  "model": "glm-5.2"
+}

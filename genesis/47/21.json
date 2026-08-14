@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Da ⟨את⟩ mutānen ya ƙaura ⟨את⟩ ⟨su⟩ zuwa garuruwa, daga ƙarshen iyākan Mitsrayim har zuwa ƙarshensa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mutānen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutānen"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "ya ƙaura"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨su⟩",
+      "marks": "zuwa garuruwa"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "zuwa garuruwa"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "daga ƙarshen"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "iyākan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "ƙarshensa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:24:15.089557878Z",
+  "model": "glm-5.2"
+}

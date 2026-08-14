@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 38:14",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Katifa goma sha biyar ɗinkiya a gefen guda, ginshiƙansu uku, kuma ƙafafunsu uku.",
+  "tokens": [
+    {
+      "surface": "קלעים",
+      "gloss": "Katifa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "biyar"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "goma sha"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ɗinkiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הכתף",
+      "gloss": "gefen guda"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "ginshiƙansu"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "uku"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "kuma ƙafafunsu"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "uku"
+    }
+  ],
+  "timestamp": "2026-08-12T01:32:39.457128514Z",
+  "model": "glm-5.2"
+}

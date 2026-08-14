@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Ni na san ka cikin hamada, cikin ƙasa ta ƙwashewa.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "na san ka"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "cikin hamada"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "cikin ƙasa"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "ta ƙwashewa"
+    }
+  ],
+  "timestamp": "2026-08-12T18:19:29.798202651Z",
+  "model": "glm-5.2"
+}

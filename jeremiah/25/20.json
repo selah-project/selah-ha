@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 25:20",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "da ⟨את⟩ dukkan baƙi, da ⟨את⟩ dukkan sarakunan ƙasar ʿUts, da ⟨את⟩ dukkan sarakunan ƙasar Pelishtiyim, da ⟨את⟩ Ashqelon da ⟨את⟩ ʿAzzah da ⟨את⟩ ʿEqron da ⟨את⟩ sauran Ashdod.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukka baƙi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukka"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "baƙi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukka sarakunan ƙasar Uts"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukka"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sarakunan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "העוץ",
+      "gloss": "Uts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukka sarakunan ƙasar Pelishtiyim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukka"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sarakunan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtiyim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Ashqelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashqelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Azzah"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ʿAzzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Eqron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "ʿEqron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "sauran Ashdod"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "sauran"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    }
+  ],
+  "timestamp": "2026-08-12T15:47:29.771041385Z",
+  "model": "glm-5.2"
+}

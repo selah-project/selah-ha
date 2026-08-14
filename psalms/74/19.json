@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 74,
+  "translation": "Kada ka ba rai na kuraranka ga dabba; rai na talbakanka, kada ka manta har abada.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ka ba"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "ga dabba"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rai"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "na kuraranka"
+    },
+    {
+      "surface": "חית",
+      "gloss": "dabba"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "na talbakanka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ka manta"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-12T20:06:43.075263275Z",
+  "model": "glm-5.2"
+}

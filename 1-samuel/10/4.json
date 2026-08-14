@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma za su tambaye ka don salama, kuma za su ba ka burodi guda biyu, kuma za ka karɓa daga hannunsu.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "kuma za su tambaye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "don salama"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "kuma za su ba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "guda biyu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "burodi"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "kuma za ka karɓa"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "daga hannunsu"
+    }
+  ],
+  "timestamp": "2026-08-12T08:51:15.389929898Z",
+  "model": "glm-5.2"
+}

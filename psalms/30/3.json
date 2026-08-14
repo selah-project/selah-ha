@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Yahweh, Elohim na, na kurata zuwa gare ka, kuma ka warke da ni.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "na kurata"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zuwa gare ka"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "kuma ka warke da ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:33:02.667065755Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Yahweh ya yi ⟨את⟩ wannan ⟨abin⟩ washegari, dukkan shanun Mitsrayim sun mutu, kuma daga shanun ɓanʼan Israʼel ɗaya ba ta mutu ba.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan abin"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "abin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "washegari"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "sun mutu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "shanun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "kuma daga shanun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓanʼan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israʼel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ta mutu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    }
+  ],
+  "timestamp": "2026-08-12T00:41:30.591516223Z",
+  "model": "glm-5.2"
+}

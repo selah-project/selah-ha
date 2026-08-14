@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Ɗaya yana kusantar da ɗaya, kuma iska ba za ta shiga tsakaninsu ba.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "da ɗaya"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "yana kusantar"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "kuma iska"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "za ta shiga"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "tsakaninsu"
+    }
+  ],
+  "timestamp": "2026-08-12T22:19:51.764377190Z",
+  "model": "glm-5.2"
+}

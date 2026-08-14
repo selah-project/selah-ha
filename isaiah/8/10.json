@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Ku yi shawara, kuma a ware ta; ku faɗi magana, kuma ba za ta tashe ba, domin Elohim yana tare da mu.",
+  "tokens": [
+    {
+      "surface": "עֻצוּ",
+      "gloss": "ku yi"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "shawara"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "kuma a ware ta"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ku faɗi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "magana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "za ta tashe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "yana tare da mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-12T13:04:22.685405562Z",
+  "model": "glm-5.2"
+}

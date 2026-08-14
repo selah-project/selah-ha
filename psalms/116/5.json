@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 116,
+  "translation": "Yahweh ⟨ne⟩ mai graziya kuma mai adalci, Elohimmu yana tausastawa.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "mai graziya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "kuma mai adalci"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "yana tausastawa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:40:42.497487200Z",
+  "model": "glm-5.2"
+}

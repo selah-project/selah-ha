@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Kuma abin da ya yi ya yi muni a idanun Yahweh, sai Ya kashe shi ⟨ma⟩.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ya yi muni"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "Ya kashe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:08:53.827426523Z",
+  "model": "glm-5.2"
+}

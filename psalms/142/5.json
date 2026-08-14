@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 142,
+  "translation": "Na dũba dama, kuma na gani, amma bãbu wanda yake sanĩna, an ɓata mafaka daga gare ni, bãbu wanda yake nema ⟨don⟩ rãyũwata.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "na dũba"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "dama"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "kuma na gani"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "amma bãbu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "wanda yake sanĩna"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "an ɓata"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "mafaka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daga gare ni"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bãbu"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "wanda yake nema"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "rãyũwata"
+    }
+  ],
+  "timestamp": "2026-08-12T20:54:30.529976048Z",
+  "model": "glm-5.2"
+}

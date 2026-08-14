@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Shi ne Yahweh, Elohim mu; a duk ⟨ga⟩ ƙasa ⟨akwai⟩ hukunce-hukuncen Sa.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Shi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim mu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "hukunce-hukuncen Sa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:29:48.092860353Z",
+  "model": "glm-5.2"
+}

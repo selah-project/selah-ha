@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma Dauda ya kama ⟨את⟩ katangar Tsiyon, ita ce birnin Dauda.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Kuma ya kama"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dauda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katangar"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "katangar"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ita"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ce birnin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dauda"
+    }
+  ],
+  "timestamp": "2026-08-12T10:00:19.997010068Z",
+  "model": "glm-5.2"
+}

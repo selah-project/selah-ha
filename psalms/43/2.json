@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Domin Kai ⟨kai⟩ Elohim na ƙarfina, don me ka ƙi ni? Don me ina tafiya cikin baƙin ciki, a ƙarƙashin dannƙin maƙiyi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "na ƙarfina"
+    },
+    {
+      "surface": "למה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "ka ƙi ni"
+    },
+    {
+      "surface": "למה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ina tafiya cikin baƙin ciki"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "ina tafiya"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "a ƙarƙashin dannƙi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "na maƙiyi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:24:59.761685777Z",
+  "model": "glm-5.2"
+}

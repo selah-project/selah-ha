@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma ⟨aka yi⟩ a lokacin da suka ji ⟨su⟩ ⟨את⟩ Tora, suka ware duka wanda aka gauraya daga Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ⟨aka yi⟩"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "a lokacin da suka ji ⟨su⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "suya ware"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "wanda aka gauraya"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "daga Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T23:53:18.348690281Z",
+  "model": "glm-5.2"
+}

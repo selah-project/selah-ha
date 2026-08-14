@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Elohim, kai ka san wāstātāta, kuma laifuffukata daga gare ka ba a ɓōye su ba.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ka san"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "wāstātāta"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "kuma laifuffukata"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "daga gare ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "a ɓōye su"
+    }
+  ],
+  "timestamp": "2026-08-12T19:59:42.610103416Z",
+  "model": "glm-5.2"
+}

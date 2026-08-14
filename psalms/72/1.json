@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 72,
+  "translation": "Ga Shelomo. Elohim, dokinku ⟨ya kasance⟩ ga sarki, ka bayar; kuma adalarku ga ɗan sarki.",
+  "tokens": [
+    {
+      "surface": "לִשְׁלֹמֹ֨ה",
+      "gloss": "Ga Shelomo"
+    },
+    {
+      "surface": "אֱֽלֹהִ֗ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מִ֭שְׁפָּטֶיךָ",
+      "gloss": "dokinku"
+    },
+    {
+      "surface": "לְמֶ֣לֶךְ",
+      "gloss": "ga sarki"
+    },
+    {
+      "surface": "תֵּ֑ן",
+      "gloss": "ka bayar"
+    },
+    {
+      "surface": "וְצִדְקָתְךָ֥",
+      "gloss": "kuma adalarku"
+    },
+    {
+      "surface": "לְבֶן",
+      "gloss": "ga ɗan"
+    },
+    {
+      "surface": "מֶֽלֶךְ",
+      "gloss": "sarki"
+    }
+  ],
+  "timestamp": "2026-08-12T20:03:35.306943110Z",
+  "model": "glm-5.2"
+}

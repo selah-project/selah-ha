@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Ku dogara a Yahweh har abada; domin a Yah, Yahweh ⟨duabu ce⟩ dutse na har abada.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Ku dogara"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "a Yahweh"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "har"
+    },
+    {
+      "surface": "עד",
+      "gloss": "abada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "a Yah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צור",
+      "gloss": "dutse"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "na har abada"
+    }
+  ],
+  "timestamp": "2026-08-12T13:35:57.860565919Z",
+  "model": "glm-5.2"
+}

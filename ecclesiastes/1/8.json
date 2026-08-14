@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Duk ⟨ɗayan⟩ kalmomi suna gajiyawa, ba wani mutum ya iya faɗa; ba ⟨ta⟩ sha awa ⟨ta⟩ idon ⟨don⟩ kallon, kuma ba ⟨ta⟩ cika ⟨ta⟩ kunne ⟨don⟩ sauraro.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kalmomi"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "suna gajiyawa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ya iya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wani mutum"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "faɗa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "⟨ta⟩ sha awa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "idon"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "⟨don⟩ kallon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "⟨ta⟩ cika"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kunne"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "⟨don⟩ sauraro"
+    }
+  ],
+  "timestamp": "2026-08-12T22:41:51.962912274Z",
+  "model": "glm-5.2"
+}

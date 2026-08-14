@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Ga shugaban mawaka. Na Dawuda. Wāya ya faɗa a cikin zuciyarsa, babu Elohim. Sun lalace, sun ƙyamar ⟨is⟩ aiki mai girma; babu wanda yake aikin alheri.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga shugaban mawaka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Na Dawuda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Wāya"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "a cikin zuciyarsa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "Sun lalace"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "sun ƙyamar"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "aiki mai girma"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wanda yake aikin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "alheri"
+    }
+  ],
+  "timestamp": "2026-08-12T19:21:23.210671233Z",
+  "model": "glm-5.2"
+}

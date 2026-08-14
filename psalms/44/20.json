@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Duk da haka, ka murƙushe mu cikin wurin joji, ka rufe mu da inuwarmutuwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "duk da haka"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "ka murƙushe mu"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "cikin wurin"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "joji"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ka rufe mu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "da inuwar-mutuwa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:44:37.056326169Z",
+  "model": "glm-5.2"
+}

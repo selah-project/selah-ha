@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Yo'el ⟨shi ne⟩ shugaban, kuma Shafam ⟨shi ne⟩ na biyu, kuma Ya'nai da Shafat a cikin HaBashan.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "Yo'el"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "kuma Shafam"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "na biyu"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "kuma Ya'nai"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "kuma Shafat"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "a cikin HaBashan"
+    }
+  ],
+  "timestamp": "2026-08-12T23:59:37.992302935Z",
+  "model": "glm-5.2"
+}

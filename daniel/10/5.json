@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma na ɗauko ⟨את⟩ idanuwata, kuma na ga, sai ga wani mutum ɗaya sanye da tufafin linza, kuma gaƙansu an sintiri da zinariyar Uphaz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "kuma na ɗauko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idanuwata"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "idanuwata"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "kuma na ga"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sai ga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "sanye"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "tufafin linza"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "kuma gaƙansu"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "an sintiri"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "da zinariyar"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "Uphaz"
+    }
+  ],
+  "timestamp": "2026-08-12T23:18:17.239133019Z",
+  "model": "glm-5.2"
+}

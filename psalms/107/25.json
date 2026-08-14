@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Ya faɗa, ⟨kuma⟩ ya tsayar da iskar guguwa, ⟨kuma⟩ ta ɗaukaka gogaggun ruwansa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "⟨kuma⟩ ya tsayar da"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "iskar"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "guguwa"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "⟨kuma⟩ ta ɗaukaka"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "gogaggun ruwansa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:34:04.046976416Z",
+  "model": "glm-5.2"
+}

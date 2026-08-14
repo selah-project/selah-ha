@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma Dawuda ya ceci ⟨את⟩ komai da Amaleka suka ɗauka; ⟨kuma⟩ ⟨את⟩ matansa biyu Dawuda ya cece su.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "ya ceci"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "komai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "komai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "suka ɗauka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matansa biyu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "matansa"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ya cece"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    }
+  ],
+  "timestamp": "2026-08-13T02:01:10.795673857Z",
+  "model": "glm-5.2"
+}

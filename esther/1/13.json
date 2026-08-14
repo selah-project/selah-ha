@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 1:13",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma sarkin ya ce wa masu hikima, masu sanin lokuta, domin haka ⟨ne⟩ lambar sarki a gaban dukkan masu sanin doka da shari'a.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "wa masu hikima"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "masu sanin"
+    },
+    {
+      "surface": "העתים",
+      "gloss": "lokuta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lambar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "masu sanin"
+    },
+    {
+      "surface": "דת",
+      "gloss": "doka"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "da shari'a"
+    }
+  ],
+  "timestamp": "2026-08-12T22:53:40.166251637Z",
+  "model": "glm-5.2"
+}

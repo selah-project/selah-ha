@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma Avram ya tafi tafiya, yana ciyar da gaba, a kudu.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "ya tafi tafiya"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ciyar da gaba"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "yana ciyar da gaba"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "a kudu"
+    }
+  ],
+  "timestamp": "2026-08-11T23:31:04.617101663Z",
+  "model": "glm-5.2"
+}

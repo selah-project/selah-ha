@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Shekara shida za ka shuka gonarka, kuma shekara shida za ka girma bōgonkā, kuma ka tāra ⟨את⟩ amfanin ⟨ta⟩.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "shida"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Shekara"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "za ka shuka"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "gonarka"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "kuma shida"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "za ka girma"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "bōgonkā"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "kuma ka tāra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amfanin"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "amfanin ⟨ta⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T02:57:08.903474178Z",
+  "model": "glm-5.2"
+}

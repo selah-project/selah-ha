@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma katanga mai tsayi da tauraron ganuwarka, an saukar da shi, an kaskanta shi, an kawo shi zuwa ƙasa har zuwa ƙura.",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "tauraro"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "mai tsayi"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "katanga ganuwarka"
+    },
+    {
+      "surface": "השח",
+      "gloss": "an saukar da shi"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "an kaskanta shi"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "an kawo shi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "zuwa ƙasa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ƙura"
+    }
+  ],
+  "timestamp": "2026-08-12T13:32:21.511259245Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Waɗanda aka ƙidaya ⟨daga⟩ kabilun ⟨na⟩ Gad sun kasance arba'in da biyar dubu da shida ɗari hamsin.",
+  "tokens": [
+    {
+      "surface": "פְּקֻדֵיהֶ֖ם",
+      "gloss": "waɗanda aka ƙidaya"
+    },
+    {
+      "surface": "לְמַטֵּ֣ה",
+      "gloss": "kabilun"
+    },
+    {
+      "surface": "גָ֑ד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "חֲמִשָּׁ֤ה",
+      "gloss": "biyar"
+    },
+    {
+      "surface": "וְאַרְבָּעִים֙",
+      "gloss": "da arba'in"
+    },
+    {
+      "surface": "אֶ֔לֶף",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "וְשֵׁ֥שׁ",
+      "gloss": "da shida"
+    },
+    {
+      "surface": "מֵא֖וֹת",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "וַחֲמִשִּֽׁים",
+      "gloss": "da hamsin"
+    }
+  ],
+  "timestamp": "2026-08-12T03:08:33.813126418Z",
+  "model": "glm-5.2"
+}

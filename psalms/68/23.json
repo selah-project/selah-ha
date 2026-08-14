@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 68,
+  "translation": "Adonai ya faɗa: \"Daga Bashan zan mayar, zan mayar daga ɓangarorin ruwa na teku!\"",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Daga Bashan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "zan mayar"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "zan mayar"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "daga ɓangarorin ruwa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "na teku"
+    }
+  ],
+  "timestamp": "2026-08-12T19:59:23.046795470Z",
+  "model": "glm-5.2"
+}

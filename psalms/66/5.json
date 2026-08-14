@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 66,
+  "translation": "Ku zo ku kalli ayyukan Elohim, ⟨yana⟩ girma ⟨ce⟩ aikinsa a kan ƴaƴan adam.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ku zo"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ku kalli"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "ayyukan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "girma"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "aikinsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴaƴan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    }
+  ],
+  "timestamp": "2026-08-12T19:58:32.600099012Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 13:8",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Sai Tamar ta tafi gidan Amnon ɗan'uwanta, kuma ⟨shi⟩ yana kwanta. Kuma ta ɗauki ⟨את⟩ gwanon, ta ataƙa, ta yi waino a gaban idanunsa, kuma ta dafa ⟨את⟩ wainon.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "sai ta tafi"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ɗan'uwanta"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kuma shi"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yana kwanta"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "kuma ta ɗauki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gwanon"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "gwanon"
+    },
+    {
+      "surface": "ותלוש",
+      "gloss": "ta ataƙa"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "ta yi waino"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "a gaban idanunsa"
+    },
+    {
+      "surface": "ותבשל",
+      "gloss": "kuma ta dafa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wainon"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "wainon"
+    }
+  ],
+  "timestamp": "2026-08-12T10:17:23.819369812Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 16:14",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma yanzu, Yahweh ya faɗa, yana cewa: A cikin shekaru uku, kamar shekarun ma'aikacin haya, za a rage girman Moab a duk tarin jama'a mai yawa; kuma saura za su kasance ƙalilan, ba su da yawa, ⟨ba⟩ masu ƙarfi.",
+  "tokens": [
+    {
+      "surface": "וְעַתָּ֗ה",
+      "gloss": "kuma yanzu"
+    },
+    {
+      "surface": "דִּבֶּ֣ר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יְהוָה֮",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לֵאמֹר֒",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "בְּשָׁלֹ֤שׁ",
+      "gloss": "a cikin uku"
+    },
+    {
+      "surface": "שָׁנִים֙",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "כִּשְׁנֵ֣י",
+      "gloss": "kamar shekarun"
+    },
+    {
+      "surface": "שָׂכִ֔יר",
+      "gloss": "ma'aikacin haya"
+    },
+    {
+      "surface": "וְנִקְלָה֙",
+      "gloss": "za a rage girman"
+    },
+    {
+      "surface": "כָּבֹ֔וד",
+      "gloss": "girman"
+    },
+    {
+      "surface": "מוֹאָ֖ב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בְּכֹ֖ל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "הֶהָמֹ֥ון",
+      "gloss": "tarin jama'a"
+    },
+    {
+      "surface": "הָרָ֑ב",
+      "gloss": "mai yawa"
+    },
+    {
+      "surface": "וּשְׁאָ֥ר",
+      "gloss": "kuma saura"
+    },
+    {
+      "surface": "מְעַ֛ט",
+      "gloss": "ƙalilan"
+    },
+    {
+      "surface": "מִזְעָ֖ר",
+      "gloss": "ba su da yawa"
+    },
+    {
+      "surface": "ל֥וֹא",
+      "gloss": "⟨ba⟩"
+    },
+    {
+      "surface": "כַּבִּֽיר",
+      "gloss": "masu ƙarfi"
+    }
+  ],
+  "timestamp": "2026-08-12T13:20:49.845860197Z",
+  "model": "glm-5.2"
+}

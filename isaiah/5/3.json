@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma yanzu, ya mazaunan Yerushalaim, kuma ya mutanen Yehudah, ku yi hukunci, ina roƙonku, tsakaina da gonar inabina.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kuma yanzu"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ya mazaunan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kuma ya mutanen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "ku yi hukunci"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ina roƙonku"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tsakaina"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "gonar inabina"
+    }
+  ],
+  "timestamp": "2026-08-12T13:08:45.302338995Z",
+  "model": "glm-5.2"
+}

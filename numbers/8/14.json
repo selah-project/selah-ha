@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 8:14",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ka raba ⟨את⟩ Lawaita daga tsakiyar ƴan Isra'ila, kuma sun zama na nĩ, Lawaita.",
+  "tokens": [
+    {
+      "surface": "והבדלת",
+      "gloss": "kuma ka raba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lawaita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lawaita"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "daga tsakiyar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kuma sun zama"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na nĩ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lawaita"
+    }
+  ],
+  "timestamp": "2026-08-12T03:41:29.264950419Z",
+  "model": "glm-5.2"
+}

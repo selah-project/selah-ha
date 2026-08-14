@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma Yahweh ya aiko ⟨a tsakanin⟩ mutãnen ⟨את⟩ macijai masu ƙũna, su kuma sun ciji ⟨את⟩ mutãnen, kuma mutãne da yawa daga Yisra'el sun mutu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Kuma ya aiko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "⟨a tsakanin⟩ mutãnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macijai masu ƙũna"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "macijai"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "masu ƙũna"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "su kuma sun ciji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutãnen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kuma sun mutu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mutãne"
+    },
+    {
+      "surface": "רב",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "daga Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T04:14:31.836570431Z",
+  "model": "glm-5.2"
+}

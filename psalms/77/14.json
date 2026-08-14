@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 77,
+  "translation": "Elohim, a cikin tsarkin kuɗin ayyukanka ne; wane El ne babba kamar Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "a cikin tsarki"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "hanyarka"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "babba"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "kamar Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T20:05:45.930702133Z",
+  "model": "glm-5.2"
+}

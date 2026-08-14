@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma Yahweh ya ƙi dukan zuriyar Isra'ila, kuma ya tona musu, kuma ya ba su cikin hannun masu fashi, har sai da ya jefa su daga gaban sa.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "Kuma ya ƙi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zuriyar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "kuma ya tona musu"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "kuma ya ba su"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "cikin hannun"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "masu fashi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har sai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "ya jefa su"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "daga gaban sa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:34:11.716345930Z",
+  "model": "glm-5.2"
+}

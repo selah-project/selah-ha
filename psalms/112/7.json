@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 112,
+  "translation": "Daga gargaɗi mai muggula ba zai ji tsoro ba; zuciyarsa tana da dorewa, tana dogaro da Yahweh.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "daga gargaɗi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mai muggula"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "zai ji tsoro"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "tana da dorewa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zuciyarsa"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "tana dogaro"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "da Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T20:37:28.721228379Z",
+  "model": "glm-5.2"
+}

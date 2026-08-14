@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Bakin sa cike da la'ana da zagi da yaudara; a ƙarƙashin harshen sa akwai wahala da laifi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "la'ana"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "bakinsa"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "cike"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "da zagi"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "da yaudara"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a ƙarƙashin"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "harshe sa"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "wahala"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "da laifi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:20:34.087098230Z",
+  "model": "glm-5.2"
+}

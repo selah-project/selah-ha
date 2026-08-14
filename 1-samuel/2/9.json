@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 2:9",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Yawε ⟨zai⟩ kiyafa ƙafafun waɗanda suke da alherinSa, kuma mugaye za su yi shiru cikin duhu, domin ba da ƙarfi ⟨ce⟩ mutum zai rinjaya.",
+  "tokens": [
+    {
+      "surface": "רַגְלֵ֤י",
+      "gloss": "ƙafafun"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "waɗanda suke da alherinSa"
+    },
+    {
+      "surface": "יִשְׁמֹ֔ר",
+      "gloss": "zai kiyafa"
+    },
+    {
+      "surface": "וּרְשָׁעִ֖ים",
+      "gloss": "kuma mugaye"
+    },
+    {
+      "surface": "בַּחֹ֣שֶׁךְ",
+      "gloss": "cikin duhu"
+    },
+    {
+      "surface": "יִדָּ֑מּוּ",
+      "gloss": "za su yi shiru"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בְכֹ֖חַ",
+      "gloss": "da ƙarfi"
+    },
+    {
+      "surface": "יִגְבַּר",
+      "gloss": "zai rinjaya"
+    },
+    {
+      "surface": "אִֽישׁ",
+      "gloss": "mutum"
+    }
+  ],
+  "timestamp": "2026-08-12T08:19:49.984443699Z",
+  "model": "glm-5.2"
+}

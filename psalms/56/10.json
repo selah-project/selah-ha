@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 56,
+  "translation": "Sa'an nan ⟨a⟩ rana da na kira, maƙiyata za su juya baya; wannan na san shi, cewa Elohim ⟨yana⟩ saboda ni.",
+  "tokens": [
+    {
+      "surface": "אָ֥֨ז",
+      "gloss": "sa'an nan"
+    },
+    {
+      "surface": "יָ֘שׁ֤וּבוּ",
+      "gloss": "za su juya"
+    },
+    {
+      "surface": "אוֹיְבַ֣י",
+      "gloss": "maƙiyata"
+    },
+    {
+      "surface": "אָ֭חוֹר",
+      "gloss": "baya"
+    },
+    {
+      "surface": "בְּי֣וֹם",
+      "gloss": "⟨a⟩ rana"
+    },
+    {
+      "surface": "אֶקְרָ֑א",
+      "gloss": "da na kira"
+    },
+    {
+      "surface": "זֶה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "יָ֝דַ֗עְתִּי",
+      "gloss": "na san shi"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "אֱלֹהִ֥ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "saboda ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:49:38.877143827Z",
+  "model": "glm-5.2"
+}

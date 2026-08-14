@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Ya Yahweh, babu wanda ya kāman kai, kuma babu wani Elohim wanda ba Kai ba ne, a cikin dukkan abin da muka ji da kunnuwanmu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "wanda ya kāman kai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wani Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "wanda ba Kai ba ne"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a cikin dukkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "muka ji"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "da kunnuwanmu"
+    }
+  ],
+  "timestamp": "2026-08-13T02:40:25.285339669Z",
+  "model": "glm-5.2"
+}

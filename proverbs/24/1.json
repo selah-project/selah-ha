@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kada ka kishi ⟨a⟩ mutanen mugunta, kuma kada ka yi sha'awar kasancewa ⟨a⟩ tare da su.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ka kishi"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "⟨a⟩ mutanen"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mugunta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ka yi sha'awar"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kasancewa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tare da su"
+    }
+  ],
+  "timestamp": "2026-08-12T21:29:22.232527919Z",
+  "model": "glm-5.2"
+}

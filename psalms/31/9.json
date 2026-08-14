@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Kuma ba ka rufe ni ⟨a cikin⟩ hannun maƙiyi ba; ka tsayar da ƙafafna a fadi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "ka rufe ni"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "a cikin hannun"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "maƙiyi"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "ka tsayar da"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "a fadi"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ƙafafna"
+    }
+  ],
+  "timestamp": "2026-08-12T19:30:37.289807983Z",
+  "model": "glm-5.2"
+}

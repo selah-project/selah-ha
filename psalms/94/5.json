@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 94,
+  "translation": "suna tunkuɗe mutãnenka, yā Yahweh, kuma gādonka suna dannunawa.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "mutãnenka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "suna tunkuɗe"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "kuma gādonka"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "suna dannunawa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:30.219769884Z",
+  "model": "glm-5.2"
+}

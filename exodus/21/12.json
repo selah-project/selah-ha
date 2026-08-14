@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Wanda ya buge mutum kuma ya mutu, a tabbata an kashe shi.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "Wanda ya buge"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "kuma ya mutu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "a kashe"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "tabbata an kashe shi"
+    }
+  ],
+  "timestamp": "2026-08-13T01:46:03.601426791Z",
+  "model": "glm-5.2"
+}

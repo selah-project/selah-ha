@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Ya jira wasu kwanaki bakwai ⟨sauran⟩, ya tura ⟨את⟩ jijiyar gagga, kuma ba ta sake komawa gare shi ba.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "ya jira"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wasu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "bakwai"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "⟨sauran⟩"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ya tura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jijiyar gagga"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "jijiyar gagga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "ta sake"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "komawa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gare shi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨sai⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T01:43:41.159903054Z",
+  "model": "glm-5.2"
+}

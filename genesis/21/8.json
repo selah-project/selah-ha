@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma yaron ya girma, aka janye shi daga nono; kuma Avraham ya yi bikin girma a ranar da aka janye ⟨את⟩ Yitsẖak daga nono.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Kuma ya girma"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "yaron"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "aka janye shi daga nono"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "bikin"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "girma"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a ranar"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "da aka janye daga nono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsẖak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsẖak"
+    }
+  ],
+  "timestamp": "2026-08-11T23:40:21.070218647Z",
+  "model": "glm-5.2"
+}

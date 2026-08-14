@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 124,
+  "translation": "a lokacin ruwan girman kai sun wuce a kan rayukanmu — ⟨ruwan⟩ da suke ɗauke da girman kai.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "a lokacin"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "sun wuce"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "rayukanmu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨ruwan⟩"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "da suke ɗauke da girman kai"
+    }
+  ],
+  "timestamp": "2026-08-12T20:49:46.227078285Z",
+  "model": "glm-5.2"
+}

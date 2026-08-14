@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 116,
+  "translation": "Ġarororīna zuwa Yahweh zan biya, a gaban duka mutanensa ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "ġarororīna"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "zuwa Yahweh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "zan biya"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mutanensa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:38:57.543072799Z",
+  "model": "glm-5.2"
+}

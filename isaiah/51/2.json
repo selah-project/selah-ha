@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 51:2",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 51,
+  "translation": "Ku duba zuwa ga Avraham uban ku, da kuma ga Sarah wadda ta haifa ku; domin ɗaya kaɗai na kira shi, sai na albarkace shi, kuma na yaɗa shi.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Ku duba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "uban ku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "da kuma ga"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "תחוללכם",
+      "gloss": "wadda ta haifa ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya kaɗai"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "na kira shi"
+    },
+    {
+      "surface": "ואברכהו",
+      "gloss": "sai na albarkace shi"
+    },
+    {
+      "surface": "וארבהו",
+      "gloss": "kuma na yaɗa shi"
+    }
+  ],
+  "timestamp": "2026-08-12T14:29:16.103614809Z",
+  "model": "glm-5.2"
+}

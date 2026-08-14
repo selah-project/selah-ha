@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Ku ji wannan, ku tsofaffi, kuma ku sa ⟨mani⟩ kunne, duka masu zama ⟨a⟩ ƙasar. Shin, wannan ta faru a cikin kwananku, ko ⟨ko⟩ a cikin kwanakin ubanninku?",
+  "tokens": [
+    {
+      "surface": "שִׁמְעוּ",
+      "gloss": "Ku ji"
+    },
+    {
+      "surface": "זֹאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "הַזְּקֵנִים",
+      "gloss": "ku tsofaffi"
+    },
+    {
+      "surface": "וְהַאֲזִינוּ",
+      "gloss": "kuma ku sa ⟨mani⟩ kunne"
+    },
+    {
+      "surface": "כֹּל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "יוֹשְׁבֵי",
+      "gloss": "masu zama"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "⟨a⟩ ƙasar"
+    },
+    {
+      "surface": "הֶהָיְתָה",
+      "gloss": "Shin, ta faru"
+    },
+    {
+      "surface": "זֹאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "בִּימֵיכֶם",
+      "gloss": "a cikin kwananku"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בִּימֵי",
+      "gloss": "a cikin kwanakin"
+    },
+    {
+      "surface": "אֲבֹתֵיכֶם",
+      "gloss": "ubanninku"
+    }
+  ],
+  "timestamp": "2026-08-12T18:21:52.807052983Z",
+  "model": "glm-5.2"
+}

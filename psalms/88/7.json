@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 88,
+  "translation": "Ka sa ni cikin rami na ƙasa, cikin duhu, cikin taurara.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "ka sa ni"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "cikin rami"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "na ƙasa"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "cikin duhu"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "cikin taurara"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:03.711963147Z",
+  "model": "glm-5.2"
+}

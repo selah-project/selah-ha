@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 147,
+  "translation": "Ba Ya nufin ⟨a⟩ ƙarfin dokin, ba Ya roƙon ɓangarorin ⟨wajen⟩ mutum.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "a ƙarfin"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "dokin"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "Ya nufin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "roƙon ɓangarorin"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "Ya roƙe"
+    }
+  ],
+  "timestamp": "2026-08-12T20:58:00.725098239Z",
+  "model": "glm-5.2"
+}

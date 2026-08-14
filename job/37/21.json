@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 37:21",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma yanzu, ba ⟨suka⟩ ga haske ba; yana haske a cikin gajimare, kuma iska ta wuce ⟨kuma⟩ ta tsarkake su.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kuma yanzu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "suka ga"
+    },
+    {
+      "surface": "אור",
+      "gloss": "haske"
+    },
+    {
+      "surface": "בהיר",
+      "gloss": "yana haske"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "a cikin gajimare"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "kuma iska"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ta wuce"
+    },
+    {
+      "surface": "ותטהרם",
+      "gloss": "kuma ta tsarkake su"
+    }
+  ],
+  "timestamp": "2026-08-12T22:15:18.674233373Z",
+  "model": "glm-5.2"
+}

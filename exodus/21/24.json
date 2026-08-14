@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "ido a madadin ido, haƙori a madadin haƙori, hannu a madadin hannu, ƙafar a madadin ƙafar.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "ido"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a madadin"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ido"
+    },
+    {
+      "surface": "שן",
+      "gloss": "haƙori"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a madadin"
+    },
+    {
+      "surface": "שן",
+      "gloss": "haƙori"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hannu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a madadin"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hannu"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ƙafar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a madadin"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ƙafar"
+    }
+  ],
+  "timestamp": "2026-08-12T00:59:54.260643406Z",
+  "model": "glm-5.2"
+}

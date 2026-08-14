@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "da ⟨את⟩ 'yar ostrich da ⟨את⟩ giyar night-hawk da ⟨את⟩ giyar gull da ⟨את⟩ giyar hawk, a cewar jinsin sa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "'yar ostrich"
+    },
+    {
+      "surface": "בת",
+      "gloss": "'yar"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ostrich"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "giyar night-hawk"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "giyar night-hawk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "giyar gull"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "giyar gull"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "giyar hawk"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "giyar hawk"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "a cewar jinsin sa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:59:25.337074782Z",
+  "model": "glm-5.2"
+}

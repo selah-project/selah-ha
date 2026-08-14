@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma za ka yanka ⟨את⟩ ⟨ℎ⟩ sa a gaban Yahweh, a ƙofar Ɓangarwar Taro.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "kuma za ka yanka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "a ƙofar"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ɓangarwar"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Taro"
+    }
+  ],
+  "timestamp": "2026-08-12T01:13:27.060593474Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 22:22",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Domin ni na kiyaye hanyoyin Yahweh, ba kuma na yi mugun nufi ⟨ba⟩ daga Elohim na.",
+  "tokens": [
+    {
+      "surface": "כִּ֥י",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "שָׁמַ֖רְתִּי",
+      "gloss": "na kiyaye"
+    },
+    {
+      "surface": "דַּרְכֵ֣י",
+      "gloss": "hanyoyin"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "ba kuma"
+    },
+    {
+      "surface": "רָשַׁ֖עְתִּי",
+      "gloss": "na yi mugun nufi"
+    },
+    {
+      "surface": "מֵאֱלֹהָֽי",
+      "gloss": "daga Elohim na"
+    }
+  ],
+  "timestamp": "2026-08-13T02:03:03.549663738Z",
+  "model": "glm-5.2"
+}

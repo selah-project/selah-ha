@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Ga Ni, Ina ƙone bāyan Baʿsha da bāyan gidan sa, kuma Zan sa ⟨את⟩ gidan ka kamar gidan Yaroḇʿam ɗan Neḇat:",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Ga Ni"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "Ina ƙone"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bāyan"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baʿsha"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "kuma bāyan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gidan sa"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "kuma Zan sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan ka"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "gidan ka"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "kamar gidan"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaroḇʿam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Neḇat"
+    }
+  ],
+  "timestamp": "2026-08-12T11:33:10.782150463Z",
+  "model": "glm-5.2"
+}

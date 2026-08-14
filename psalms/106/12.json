@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Sai suka yi imani da maganarsa, suka rera yabonsa.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "sai suka yi imani"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "da maganarsa"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "sukarera"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "yabonsa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:31:40.171938343Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 39:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Kuma suka danna ⟨את⟩ faranti na zinari, kuma suka yanka zuwa igiyoyi, don yin aiki a tsakanin shudi da a tsakanin jajaye da a tsakanin tsatsa-bugun-ja da a tsakanin linin — aikin mai tsara.",
+  "tokens": [
+    {
+      "surface": "וירקעו",
+      "gloss": "kuma suka danna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faranti na zinari"
+    },
+    {
+      "surface": "פחי",
+      "gloss": "faranti"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "na zinari"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "kuma suka yanka"
+    },
+    {
+      "surface": "פתילם",
+      "gloss": "zuwa igiyoyi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "don yin aiki"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "a tsakanin"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "shudi"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "da a tsakanin"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "jajaye"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "da a tsakanin"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tsatsa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "bugun-ja"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "da a tsakanin"
+    },
+    {
+      "surface": "השש",
+      "gloss": "linin"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "mai tsara"
+    }
+  ],
+  "timestamp": "2026-08-13T01:47:41.332848644Z",
+  "model": "glm-5.2"
+}

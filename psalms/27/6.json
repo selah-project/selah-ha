@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma yanzu, zai ɗaukaka kan a kan maƙiyana da suke kewaye da ni, kuma zan yanka gurguri a tzahalarsa, gurgabin murna, zan rera waƙa, e, zan yabo wa Yahweh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kuma yanzu"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "zai ɗaukaka"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kan"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "maƙiyana"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "da suke kewaye da ni"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "kuma zan yanka gurguri"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "a tzahalarsa"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "gurgabin"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "murna"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "zan rera waƙa"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "e, zan yabo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T19:31:36.981937657Z",
+  "model": "glm-5.2"
+}

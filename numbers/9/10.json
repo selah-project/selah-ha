@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 9:10",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Faɗa ga 'ya'yan Yisra'el, ⟨cewa⟩: Mutum mutum, idan ya kasance marar-tsarki saboda ⟨mutane⟩, ko a cikin tafiya mai nesa — ku ko ga zuriyarku — shi ma yana yin Pesach ga Yahweh.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Faɗa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨cewa⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mutum"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "idan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "marar-tsarki"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "sabodo ⟨mutane⟩"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "a cikin tafiya"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "mai nesa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "ga zuriyarku"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "shi ma yana yin"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T03:42:35.149370983Z",
+  "model": "glm-5.2"
+}

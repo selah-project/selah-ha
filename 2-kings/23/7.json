@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma ya lalata ⟨את⟩ ɗakunan tsarkaka, waɗanda ⟨suke⟩ a cikin baytin Yahweh, inda mata suka saƙa a can wajaje don Asherah.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "ya lalata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗakunan tsarkaka"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ɗakunan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "tsarkaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a cikin baytin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "inda"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "mata"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "suka saƙa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "wajaje"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "don Asherah"
+    }
+  ],
+  "timestamp": "2026-08-12T12:46:55.025270073Z",
+  "model": "glm-5.2"
+}

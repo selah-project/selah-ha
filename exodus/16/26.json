@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kwanaki shida ku tara shi, amma ⟨a⟩ rana ta bakwai shabbat ⟨ce⟩, ba za ⟨kashi⟩ kasance a ciki.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "shida"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "ku tara shi"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "amma ⟨a⟩ rana"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ta bakwai"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "za kasance"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a ciki"
+    }
+  ],
+  "timestamp": "2026-08-12T00:51:25.199619163Z",
+  "model": "glm-5.2"
+}

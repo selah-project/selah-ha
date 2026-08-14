@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 20:14",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma Moshe ya aiko manzanni daga Kadesh zuwa ga sarkin Edom: \"Haka ce ɗan'uwanka Yisra'el ya faɗa: Kai kana sanin ⟨את⟩ duka wahalar da ta same mu.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁלַח",
+      "gloss": "Kuma ya aiko"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מַלְאָכִים",
+      "gloss": "manzanni"
+    },
+    {
+      "surface": "מִקָּדֵשׁ",
+      "gloss": "daga Kadesh"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "אֱדוֹם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "כֹּה",
+      "gloss": "Haka"
+    },
+    {
+      "surface": "אָמַר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "אָחִיךָ",
+      "gloss": "ɗan'uwanka"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "יָדַעְתָּ",
+      "gloss": "kana sanin"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "duka wahalar"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "הַתְּלָאָה",
+      "gloss": "wahalar"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "da"
+    },
+    {
+      "surface": "מְצָאָתְנוּ",
+      "gloss": "ta same mu"
+    }
+  ],
+  "timestamp": "2026-08-13T01:52:29.886061685Z",
+  "model": "glm-5.2"
+}

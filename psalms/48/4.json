@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 48,
+  "translation": "Elohim ⟨yana⟩ a cikin fadodinta, ⟨an⟩ san shi a matsayin mafaka.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "a cikin fadodinta"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "⟨an⟩ san shi"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "a matsayin mafaka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:48:01.099865768Z",
+  "model": "glm-5.2"
+}

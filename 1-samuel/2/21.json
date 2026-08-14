@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 2:21",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Domin Yahweh ya ziyarta ⟨את⟩ Channah, ⟨don haka⟩ ta yi juna ⟨kuma⟩ ta haifi 'ya'ya maza uku da 'ya'ya mata biyu, ⟨kuma⟩ yaron Shemu'el ya girma tare da Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ya ziyarta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Channah"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Channah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ta yi juna"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "kuma ta haifi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "uku"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "'ya'ya maza"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "da"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "'ya'ya mata biyu"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "kuma ya girma"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "yaron"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T08:24:21.774232086Z",
+  "model": "glm-5.2"
+}

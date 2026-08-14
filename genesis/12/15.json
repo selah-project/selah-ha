@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma shugabannin Paroh sun gan ⟨את⟩ ⟨ta⟩, suka yaba ta a gaban Paroh, kuma an ɗauki mace cikin gidan Paroh.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "kuma sun gan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨ta⟩",
+      "marks": "ta (mace)"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "shugabannin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "suka yaba ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨ta⟩",
+      "marks": "ta (mace)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "kuma an ɗauki"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "בית",
+      "gloss": "cikin gidan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-11T23:30:33.283457555Z",
+  "model": "glm-5.2"
+}

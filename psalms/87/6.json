@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 87,
+  "translation": "Yahweh zai ƙidaya a rubuta ⟨ajiyar⟩ al'umma: Wannan ɗaya an haife shi can. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "zai ƙidaya"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "a rubuta"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "al'umma"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Wannan ɗaya"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "an haife shi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T20:15:34.131692465Z",
+  "model": "glm-5.2"
+}

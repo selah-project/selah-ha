@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 4:5",
+  "book": "song-of-songs",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Nonnonki biyu suna kamar ƙurãri biyu, tagwayen mace mai ja da baya, waɗanda ke kiwo a tsakanin furen jasmin.",
+  "tokens": [
+    {
+      "surface": "שְׁנֵ֥י",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "שָׁדַ֛יִךְ",
+      "gloss": "nonnonka"
+    },
+    {
+      "surface": "כִּשְׁנֵ֥י",
+      "gloss": "sun kama kamar"
+    },
+    {
+      "surface": "עֳפָרִ֖ים",
+      "gloss": "ƙurãri"
+    },
+    {
+      "surface": "תְּאוֹמֵ֣י",
+      "gloss": "tagwayen"
+    },
+    {
+      "surface": "צְבִיָּ֑ה",
+      "gloss": "mace mai ja da baya"
+    },
+    {
+      "surface": "הָרוֹעִ֖ים",
+      "gloss": "waɗanda ke kiwo"
+    },
+    {
+      "surface": "בַּשּׁוֹשַׁנִּֽים",
+      "gloss": "a tsakanin furen jasmin"
+    }
+  ],
+  "timestamp": "2026-08-13T02:32:24.459524334Z",
+  "model": "glm-5.2"
+}

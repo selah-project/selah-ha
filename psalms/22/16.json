@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Ḍā'finā ya bushe kamar tōkāl-gānī, harshena ya mānā cikin cīwon bāki, kuma zuwa kūrān mutuwa kā sa ni.",
+  "tokens": [
+    {
+      "surface": "יָבֵ֩שׁ֩",
+      "gloss": "ya bushe"
+    },
+    {
+      "surface": "כַּחֶ֨רֶשׂ",
+      "gloss": "kamar tōkāl-gānī"
+    },
+    {
+      "surface": "כֹּחִ֗י",
+      "gloss": "ḍā'finā"
+    },
+    {
+      "surface": "וּ֭לְשׁוֹנִי",
+      "gloss": "harshena"
+    },
+    {
+      "surface": "מֻדְבָּ֣ק",
+      "gloss": "ya mānā"
+    },
+    {
+      "surface": "מַלְקוֹחָ֑י",
+      "gloss": "cikin cīwon bāki"
+    },
+    {
+      "surface": "וְֽלַעֲפַר",
+      "gloss": "kuma zuwa kūrā"
+    },
+    {
+      "surface": "מָ֥וֶת",
+      "gloss": "mutuwa"
+    },
+    {
+      "surface": "תִּשְׁפְּתֵֽנִי",
+      "gloss": "kā sa ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:27:37.483569905Z",
+  "model": "glm-5.2"
+}

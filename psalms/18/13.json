@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Daga hasken da ke gabanSa gajimayenSa suka wuce — ƙanƙara da gawayan wuta.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "daga hasken"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "da ke gabanSa"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "gajimayenSa"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "suka wuce"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ƙanƙara"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "da gawayan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wuta"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:41.440175501Z",
+  "model": "glm-5.2"
+}

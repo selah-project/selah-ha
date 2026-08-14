@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 18:9",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Tsirantarwar 'yar'uwarka, 'yar uwarka ⟨ta⟩ babanka ko 'yar uwarka ⟨ta⟩ uwarka, an haife ⟨a⟩ cikin gida ko an haife ⟨a⟩ waje, ba za ka bayyana tsirantarwarsu ba.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "tsiratarwa"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "'yar'uwarka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "'yar"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "babanka"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בת",
+      "gloss": "'yar"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "uwarka"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "an haife"
+    },
+    {
+      "surface": "בית",
+      "gloss": "cikin gida"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "an haife"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "waje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "za ka bayyana"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "tsiratarwarsu"
+    }
+  ],
+  "timestamp": "2026-08-12T02:23:11.294942484Z",
+  "model": "glm-5.2"
+}

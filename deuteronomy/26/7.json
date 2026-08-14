@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "\"Muka kuraya zuwa Yahweh, Elohin ubanninmu, Yahweh ya ji ⟨את⟩ muryarmu, ya kuma ga ⟨את⟩ talaucinmu da ⟨את⟩ gajiyarmu da ⟨את⟩ cin zarafinmu.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "Muka kuraya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ubanninmu"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ya ji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muryarmu"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "muryarmu"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ya kuma ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talaucinmu"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "talaucinmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "gajiyarmu"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "gajiyarmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "cin zarafinmu"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "cin zarafinmu"
+    }
+  ],
+  "timestamp": "2026-08-12T05:38:37.369900915Z",
+  "model": "glm-5.2"
+}

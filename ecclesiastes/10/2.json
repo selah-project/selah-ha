@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Zuciyar mai hikima ⟨tana⟩ a damansa, amma zuciyar wawa ⟨tana⟩ a hannunsa na hagu.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "zuciyar"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mai hikima"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "a damansa"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "amma zuciyar"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "wawa"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "a hannunsa na hagu"
+    }
+  ],
+  "timestamp": "2026-08-12T22:48:22.488894230Z",
+  "model": "glm-5.2"
+}

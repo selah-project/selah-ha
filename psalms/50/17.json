@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "Domin ⟨kai⟩ ka ƙi horo, ka jefa kalmomina a bayaanka.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "ka ƙi"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "horo"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "ka jefa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalmomina"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "a bayaanka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:47:22.277778723Z",
+  "model": "glm-5.2"
+}

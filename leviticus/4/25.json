@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 4:25",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma kohan zai ɗauka daga jinin qorban-ḥaṭ'at da yatsansa, kuma zai sa ⟨a⟩ kan ƙahonan gibar-ʿolah, kuma ⟨את⟩ jininsa zai zuba a kusan kasan giber-ʿolah.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Kuma zai ɗauka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohan"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "daga jinin"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "qorban-ḥaṭ'at"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "da yatsansa"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "kuma zai sa"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨a⟩ kan"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "ƙahonan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "gibar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ʿolah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jininsa"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "jininsa"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "zai zuba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a kusan"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "kasan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "giber"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ʿolah"
+    }
+  ],
+  "timestamp": "2026-08-12T01:48:43.186570307Z",
+  "model": "glm-5.2"
+}

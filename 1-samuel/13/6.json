@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma mutanen Yisra'ela sun ga coda an cire su, domin an matsa wa jama'a, kuma jama'a sun ɓoye a cikin kogo, da cikin daji masu ɓaƙar fari, da cikin duwatsu, da cikin mafaka, da cikin rijiyoyi.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Kuma mutanen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'ela"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "suka ga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "coda"
+    },
+    {
+      "surface": "צר",
+      "gloss": "an cire su"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gare shi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "an matsa wa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "kuma suka ɓoye"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "a cikin kogo"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "da cikin daji masu ɓaƙar fari"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "da cikin duwatsu"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "da cikin mafaka"
+    },
+    {
+      "surface": "ובברות",
+      "gloss": "da cikin rijiyoyi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:01:07.324561091Z",
+  "model": "glm-5.2"
+}

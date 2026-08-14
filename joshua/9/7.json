@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 9:7",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma mutanen Isra'ila suka ce wa ⟨ɗayan⟩ Haƙiwan, «Wataƙila kuna zaune a tsakaninmu; don haka ta yaya zan iya yanje muku alkawari?»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Haƙiwan"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "wataƙila"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "a tsakaninmu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "kuna zaune"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "don haka ta yaya"
+    },
+    {
+      "surface": "אכרות",
+      "gloss": "zan iya yanje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "muku"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alkawari"
+    }
+  ],
+  "timestamp": "2026-08-12T06:26:37.677006468Z",
+  "model": "glm-5.2"
+}

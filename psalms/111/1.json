@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 111,
+  "translation": "Ku yi yabo ga Yah! Ni zan gode wa Yahweh da dukkan zuciya, a cikin sirrin masu madaidaici, da tarin jama'a.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ku yi yabo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "zan gode wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "zuciya"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "a cikin sirrin"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "masu madaidaici"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "da tarin jama'a"
+    }
+  ],
+  "timestamp": "2026-08-12T20:37:10.203722421Z",
+  "model": "glm-5.2"
+}

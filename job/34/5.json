@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Domin Iyov ya ce: Na yi adalci, kuma El ya cire hukuncina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "na yi adalci"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma El"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ya cire"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukuncina"
+    }
+  ],
+  "timestamp": "2026-08-12T22:11:29.056008925Z",
+  "model": "glm-5.2"
+}

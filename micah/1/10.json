@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "A cikin Gath kada ku faɗa, kada ku yi kuka; a cikin Bet-LeAphrah, da ƙura nã mirgina kaina.",
+  "tokens": [
+    {
+      "surface": "בְּגַת֙",
+      "gloss": "A cikin Gath"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תַּגִּ֔ידוּ",
+      "gloss": "ku faɗa"
+    },
+    {
+      "surface": "בָּכ֖וֹ",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תִּבְכּ֑וּ",
+      "gloss": "ku yi kuka"
+    },
+    {
+      "surface": "בְּבֵ֣ית",
+      "gloss": "a cikin Bet"
+    },
+    {
+      "surface": "לְעַפְרָ֔ה",
+      "gloss": "-LeAphrah"
+    },
+    {
+      "surface": "עָפָ֖ר",
+      "gloss": "da ƙura"
+    },
+    {
+      "surface": "הִתְפַּלְּשְׁתִּֽי",
+      "gloss": "nã mirgina kaina"
+    }
+  ],
+  "timestamp": "2026-08-13T23:52:46.906310756Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Na Yahweh ⟨ne⟩ shiriya; ⟨alkawari⟩ a kan mutanenka ⟨ne⟩ albarƙanka. Selah.",
+  "tokens": [
+    {
+      "surface": "לַיהוָ֥ה",
+      "gloss": "Na Yahweh"
+    },
+    {
+      "surface": "הַיְשׁוּעָ֑ה",
+      "gloss": "shiriya"
+    },
+    {
+      "surface": "עַֽל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "עַמְּךָ֖",
+      "gloss": "mutanenka"
+    },
+    {
+      "surface": "בִרְכָתֶ֣ךָ",
+      "gloss": "albarƙanka"
+    },
+    {
+      "surface": "סֶּֽלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T19:12:06.057498255Z",
+  "model": "glm-5.2"
+}

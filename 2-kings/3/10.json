@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Sai sarkin Yisra'el ya ce: \"Ahuna! cewa Yahweh ya kira waɗannan sarakuna uku ⟨domin⟩ su ba su ⟨a cikin⟩ hannun Mo'ab.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sai ya ce"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ahuna!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ya kira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "uku"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "sarakuna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "su ba"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ su",
+      "marks": "sarakuna uku"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨a cikin⟩ hannun"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'ab"
+    }
+  ],
+  "timestamp": "2026-08-12T11:56:51.531811387Z",
+  "model": "glm-5.2"
+}

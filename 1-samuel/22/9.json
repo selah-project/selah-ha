@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 22:9",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Sa'anan kuma Doeg ɗan Edom ya amsa, shi ⟨yake⟩ tsaye a kan bayin Sha'ul, ya ce: \"Na ga ⟨את⟩ ɗan Yishai yana zuwa Nob, zuwa Achimelek ɗan Achitub.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ya amsa"
+    },
+    {
+      "surface": "דאג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "ɗan Edom"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kuma shi"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "tsaye"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bayin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "na ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗan Yishai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yana zuwa"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "Nob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Achitub"
+    }
+  ],
+  "timestamp": "2026-08-12T09:24:14.608124191Z",
+  "model": "glm-5.2"
+}

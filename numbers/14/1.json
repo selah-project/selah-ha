@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Dukansa sai ta ɗauka duka ⟨a⟩ taron, suka yi ⟨את⟩ muryarsu, kuma mutanen sun yi kuka a wannan dare.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "sai ta ɗauka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "taron"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muryarsu"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "muryarsu"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "suka yi kuka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "a dare"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-12T03:55:22.650898029Z",
+  "model": "glm-5.2"
+}

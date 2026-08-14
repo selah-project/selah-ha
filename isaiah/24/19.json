@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 24:19",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Rushewa, an rushe ⟨ita⟩ ƙasa; ɓarna, an ɓarna ⟨ita⟩ ƙasa; girgiza, an yi girgiza ⟨ita⟩ ƙasa.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "rushewa"
+    },
+    {
+      "surface": "התרעעה",
+      "gloss": "an rushe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "פור",
+      "gloss": "ɓarna"
+    },
+    {
+      "surface": "התפוררה",
+      "gloss": "an ɓarna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "girgiza"
+    },
+    {
+      "surface": "התמוטטה",
+      "gloss": "an yi girgiza"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:08:30.021845641Z",
+  "model": "glm-5.2"
+}

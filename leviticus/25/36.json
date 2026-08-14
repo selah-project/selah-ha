@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kada ka karɓi ⟨את⟩ riba daga gare shi ko riba ta ƙari, ka ji tsoron Elohimka; kuma ɗan'uwarka ya rayu tare da kai.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ka karɓi"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ daga gare shi",
+      "marks": "riba"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "riba"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "ko riba ta ƙari"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ka ji tsoron"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohimka"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "kuma...ya rayu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ɗan'uwarka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tare da kai"
+    }
+  ],
+  "timestamp": "2026-08-12T02:51:43.520737339Z",
+  "model": "glm-5.2"
+}

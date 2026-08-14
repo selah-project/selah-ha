@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Sai ta zo, ta faɗa wa mutumin ⟨na⟩ Elohim, ya ce, «Tafi, sayar da ⟨את⟩ man, kuɓuta ⟨את⟩ bashinka, kuma kai da 'ya'yanka za ku rayu da abin da ya rage.»",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Sai ta zo"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "ta faɗa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "wa mutumin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨na⟩ Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Tafi"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "sayar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "man"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "kuɓuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bashinka"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "bashinka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kai"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "'ya'yanka"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "za ku rayu"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "da abin da ya rage"
+    }
+  ],
+  "timestamp": "2026-08-12T11:59:50.857260216Z",
+  "model": "glm-5.2"
+}

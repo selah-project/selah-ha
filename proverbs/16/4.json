@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Duk abin da Yahweh ya aikata ⟨ne⟩ don nasa sha'awa, ko da mugun mutum don ranar baƙin ciki.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "duk abin da"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ya aikata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "don nasa sha'awa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ko da"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mugun mutum"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "don ranar"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "baƙin ciki"
+    }
+  ],
+  "timestamp": "2026-08-12T21:18:34.226181173Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 1:7",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "kuma maganar sa ta kasance tare da Yoab ɗan Tserujah, kuma tare da Evyatar kohen, su kuma sun taimaki bin Adonijah.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "kuma suka kasance"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "magana(r) sa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tserujah"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kuma tare da"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ויעזרו",
+      "gloss": "sai suka taimaki"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adonijah"
+    }
+  ],
+  "timestamp": "2026-08-12T10:45:55.615532515Z",
+  "model": "glm-5.2"
+}

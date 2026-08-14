@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 53:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 53,
+  "translation": "Wa⟨ne⟩ zai bãwa daga Tsiyon ceton Isra'ila? A lokacin da Elohim ya mayar da garkuwar mutãnensa, Ya'aƙub zai yi murna, Isra'ila zai yi farin ciki.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "zai bãwa"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "daga Tsiyon"
+    },
+    {
+      "surface": "ישעות",
+      "gloss": "ceton"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "A lokacin da ... ya mayar da"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "garkuwar"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mutãnensa"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "zai yi murna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aƙub"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "zai yi farin ciki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T19:52:45.855164381Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Sai sarki ya ce: Mutuwa za ka mutu, Ahimeleka, kai da dukan gidan ubanka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sai ya ce"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Mutuwa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "za ka mutu"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimeleka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "daduk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "na ubanka"
+    }
+  ],
+  "timestamp": "2026-08-12T09:25:16.115266245Z",
+  "model": "glm-5.2"
+}

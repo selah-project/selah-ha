@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Ta yaya zan ɗauka kaɗan da kaina wajjenninku da kuuƙar ku da jayayyarku?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Ta yaya"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "zan ɗauka"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "kaɗan da kaina"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "wajjenninku"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "da kuuƙar ku"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "da jayayyarku"
+    }
+  ],
+  "timestamp": "2026-08-12T04:50:02.623977485Z",
+  "model": "glm-5.2"
+}

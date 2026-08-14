@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 122,
+  "translation": "Domin 'yan'uwana da abokai, zan faɗa yanzu: Salama ta kasance a cikin ki.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "'yan'uwana"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "da abokai"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "zan faɗa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salama"
+    },
+    {
+      "surface": "בך",
+      "gloss": "a cikin ki"
+    }
+  ],
+  "timestamp": "2026-08-12T20:47:54.064788565Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma ⟨את⟩) naman da ⟨את⟩ fatar, ya ƙone da wuta a wajen sansanin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "naman"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "naman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fatar"
+    },
+    {
+      "surface": "העור",
+      "gloss": "fatar"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ya ƙone"
+    },
+    {
+      "surface": "באש",
+      "gloss": "da wuta"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "a wajen"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "sansanin"
+    }
+  ],
+  "timestamp": "2026-08-12T02:00:01.177661123Z",
+  "model": "glm-5.2"
+}

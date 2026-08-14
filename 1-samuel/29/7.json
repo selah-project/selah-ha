@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Saboda haka yanzu koma, ka tafi cikin salama, kuma kada ka yi muguwa a idanun shugabannin Pelishtim.\"",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "saboda haka yanzu"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "koma"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ka tafi"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "cikin salama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ka yi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "muguwa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanun"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "shugabannin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    }
+  ],
+  "timestamp": "2026-08-12T09:45:00.964283009Z",
+  "model": "glm-5.2"
+}

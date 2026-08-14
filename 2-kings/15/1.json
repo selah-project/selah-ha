@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 15:1",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "A cikin shekara ta ashirin da bakwai ga Yarav'am sarki ⟨na⟩ Yisra'el, Azaryah ɗan Amatsyah sarki ⟨na⟩ Yehudah ya mulƙa.",
+  "tokens": [
+    {
+      "surface": "בִּשְׁנַ֨ת",
+      "gloss": "A cikin shekara ta"
+    },
+    {
+      "surface": "עֶשְׂרִ֤ים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "וָשֶׁ֨בַע֙",
+      "gloss": "da bakwai"
+    },
+    {
+      "surface": "שָׁנָ֔ה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "לְיָרָבְעָ֖ם",
+      "gloss": "ga Yarav'am"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מָלַ֛ךְ",
+      "gloss": "ya mulƙa"
+    },
+    {
+      "surface": "עֲזַרְיָ֥ה",
+      "gloss": "Azaryah"
+    },
+    {
+      "surface": "בֶן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אֲמַצְיָ֖ה",
+      "gloss": "Amatsyah"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "יְהוּדָֽה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-12T12:23:31.975152236Z",
+  "model": "glm-5.2"
+}

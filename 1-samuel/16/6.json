@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma ⟨ya faru⟩ a lokacin da suka zo, ya duba ⟨את⟩ Eliyav, kuma ya ce: Lalle ne, a gaban Yahweh ⟨ne⟩ Mashíacinsa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ⟨ya faru⟩"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "a lokacin da suka zo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ya duba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyav"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliyav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Lalle ne"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashíacinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T09:07:56.753648262Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 48,
+  "translation": "Babu ne Yahweh, kuma ⟨an⟩ yaba shi sosai, a cikin birnin Elohimmu, dutsen tsarkinsa.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Babu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "kuma ⟨an⟩ yaba shi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a cikin birnin"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dutsen"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "tsarkinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:48:01.099546894Z",
+  "model": "glm-5.2"
+}

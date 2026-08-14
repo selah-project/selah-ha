@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 66,
+  "translation": "Ya tabbata Elohim, wanda ba ya jujjuya addu'ata ⟨ko⟩ chesed ⟨sa⟩ daga ⟨tare da⟩ ⟨את⟩ ni.",
+  "tokens": [
+    {
+      "surface": "בָּר֥וּךְ",
+      "gloss": "ya tabbata"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "ba ya"
+    },
+    {
+      "surface": "הֵסִ֘יר",
+      "gloss": "jujjuya"
+    },
+    {
+      "surface": "תְּפִלָּתִ֥י",
+      "gloss": "addu'ata"
+    },
+    {
+      "surface": "וְ֝חַסְדּ֗וֹ",
+      "gloss": "ko chesed ⟨sa⟩"
+    },
+    {
+      "surface": "מֵאִתִּֽי",
+      "gloss": "daga ⟨tare da⟩ ⟨את⟩",
+      "marks": "ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:58:01.406311309Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma Yahweh ya faɗa wa Mosheh: \"Ka faɗa wa Aharon: Ka miƙa ⟨את⟩ hannunka da sandarka a kan koguna, a kan rafuffuka, da kuma a kan tafkuna, kuma ka sa ⟨את⟩ kwaɗayi su hau a kan ƙasar Mitsrayim.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Ka faɗa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Ka miƙa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannunka"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hannunka"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "da sandarka"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "koguna"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "rafuffuka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da kuma a kan"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "tafkuna"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "kuma ka sa su hau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kwaɗayi"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "kwaɗayi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:40:17.128186760Z",
+  "model": "glm-5.2"
+}

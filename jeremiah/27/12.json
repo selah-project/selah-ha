@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 27:12",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma ga Tsidkiya, sarkin Yehuda, na yi magana daidai da duk waɗannan kalmomi, in ce, \"Ku kawo ⟨את⟩ wuyoyin ku a cikin ƙwanƙwasa sarkin Babil, kuma ku bauta wa ⟨את⟩ shi da mutanensa, ku rayu.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Kuma ga"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "Tsidkiya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "na yi magana"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "daidai da duk"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "waɗannan kalmomi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "in ce"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "Ku kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuyoyin ku"
+    },
+    {
+      "surface": "צואריכם",
+      "gloss": "wuyoyin ku"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "a cikin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "kuma ku bauta wa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "da mutanensa"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "ku rayu"
+    }
+  ],
+  "timestamp": "2026-08-12T15:48:08.907668629Z",
+  "model": "glm-5.2"
+}

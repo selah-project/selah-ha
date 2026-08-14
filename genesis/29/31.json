@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma Yahweh ya ga cewa an ƙi Le'ah, sai Ya buɗe ⟨את⟩ ⟨אַת⟩ cikinta, amma Rachel ba ta haihuwa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ya ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "an ƙi"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Le'ah"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "sai Ya buɗe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨אַת⟩",
+      "marks": "cikinta"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "cikinta"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "amma Rachel"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "ba ta haihuwa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:55:38.685960655Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma yanzu, ka rantsa ni da Yahweh: idan zaka yanke ⟨את⟩ zuriyata bayana, kuma idan zaka halaka ⟨את⟩ sunana daga gidan ubana.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kuma yanzu"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "ka rantsa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "da Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "zaka yanke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuriyata"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "zuriyata"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bayana"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "zaka halaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunana"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "sunana"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "daga gidan"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubana"
+    }
+  ],
+  "timestamp": "2026-08-12T09:28:04.240105451Z",
+  "model": "glm-5.2"
+}

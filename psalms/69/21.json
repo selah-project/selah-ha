@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Wulakanci ya fashe zuciyata, kuma na girgiza, kuma na nemi wanda ya ta'azanta, amma babu, kuma ⟨ga⟩ masu gamsarwa, amma ba na samu ba.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "wulakanci"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "ya fashe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "kuma na girgiza"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "kuma na nemi"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "wanda ya ta'azanta"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "amma babu"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "kuma ⟨ga⟩ masu gamsarwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "na samu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:58:58.935223733Z",
+  "model": "glm-5.2"
+}

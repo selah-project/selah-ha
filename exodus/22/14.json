@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Idan mai shi yana tare da shi, ba ya biya diya; idan ⟨an hayar da shi⟩ ne, ya zo ⟨a cikin⟩ hayar sa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "mai shi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yana tare da shi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ya biya diya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "⟨an hayar da shi⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ya zo"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "⟨a cikin⟩ hayar sa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:02:35.998397338Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 103,
+  "translation": "Domin ⟨Shi⟩ ya san tsarimmu, yana tunawa cewa ⟨mu⟩ ƙura mu ne.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Shi⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ya san"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "tsarimmu"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "yana tunawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ƙura"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mu ne"
+    }
+  ],
+  "timestamp": "2026-08-12T20:27:03.030802594Z",
+  "model": "glm-5.2"
+}

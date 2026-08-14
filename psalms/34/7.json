@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Wannan talaka ya kira, kuma Yahweh ya saurari, kuma daga dukkan matsalolinsa ya cece shi.",
+  "tokens": [
+    {
+      "surface": "זֶה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "עָנִי",
+      "gloss": "talaka"
+    },
+    {
+      "surface": "קָרָא",
+      "gloss": "ya kira"
+    },
+    {
+      "surface": "וַיהוָה",
+      "gloss": "kuma Yahweh"
+    },
+    {
+      "surface": "שָׁמֵעַ",
+      "gloss": "ya saurari"
+    },
+    {
+      "surface": "וּמִכָּל",
+      "gloss": "kuma daga dukkan"
+    },
+    {
+      "surface": "צָרוֹתָיו",
+      "gloss": "matsalolinsa"
+    },
+    {
+      "surface": "הוֹשִׁיעַוֹ",
+      "gloss": "ya cece shi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:35:50.309500066Z",
+  "model": "glm-5.2"
+}

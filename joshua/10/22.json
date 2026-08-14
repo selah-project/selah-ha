@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma Yahoshu'a ya ce, \"Ku buɗe ⟨את⟩ bakiyar kogon, kuma ku fitar mini ⟨את⟩ waɗannan sarakunan biyar daga cikin kogon.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahoshu'a"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "Ku buɗe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakiyar kogon"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bakiyar"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "kogon"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "kuma ku fitar"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waɗannan sarakunan biyar"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "biyar"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "sarakunan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga cikin"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "kogon"
+    }
+  ],
+  "timestamp": "2026-08-12T06:31:46.343292660Z",
+  "model": "glm-5.2"
+}

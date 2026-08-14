@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Adonai zai yi masa dariya, domin ⟨ya⟩ ga cewa rãn sa tã zo.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "zai yi dariya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "⟨ya⟩ ga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "tã zo"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "rãn sa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:38:22.469159878Z",
+  "model": "glm-5.2"
+}

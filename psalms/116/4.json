@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 116,
+  "translation": "Kuma da Sunan Yahweh na kira: 'Yā Yahweh, ka 'yantar da rayuwata!'",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Kuma da Sunan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "na kira"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Yā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "ka 'yantar da"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rayuwata"
+    }
+  ],
+  "timestamp": "2026-08-12T20:40:04.921144530Z",
+  "model": "glm-5.2"
+}

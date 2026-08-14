@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Na ƙi taron masu mugun aiki, kuma tare da masu laifi ba zan zauna ba.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Na ƙi"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "taron"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "masu mugun aiki"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kuma tare da"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "masu laifi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "zan zauna"
+    }
+  ],
+  "timestamp": "2026-08-12T19:30:50.189186261Z",
+  "model": "glm-5.2"
+}

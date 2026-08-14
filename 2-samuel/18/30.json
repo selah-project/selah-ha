@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma sarki ya ce: Juya ka, tsaya ⟨a⟩ nan. Kuma ya juya, ya tsaya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "סב",
+      "gloss": "Juya"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "ka tsaya"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "Kuma ya juya"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ya tsaya"
+    }
+  ],
+  "timestamp": "2026-08-12T10:32:05.066044726Z",
+  "model": "glm-5.2"
+}

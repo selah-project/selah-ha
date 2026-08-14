@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma ya ce: \"Don ⟨akwai⟩ hannu a kan ⟨alƙawarin⟩ Jah, ⟨akwai⟩ yaki ga Yahweh ⟨da⟩ Amalek, daga tsara zuwa tsara.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Don"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hannu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כס",
+      "gloss": "alkawarin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "yaki"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "da Amalek"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "daga tsara"
+    },
+    {
+      "surface": "דר",
+      "gloss": "zuwa tsara"
+    }
+  ],
+  "timestamp": "2026-08-12T00:52:07.178276428Z",
+  "model": "glm-5.2"
+}

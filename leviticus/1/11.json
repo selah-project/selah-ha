@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "kuma ya yanka ⟨shin⟩ a gefen arewa na ⟨altar ɗin⟩, a gaban Yahweh, kuma 'ya'yan Aharon, kohensu, su yi tsatsa ⟨את⟩ jinin sa a kewaye ⟨altar ɗin⟩.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "kuma ya yanka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨shin⟩",
+      "marks": "shin (dabbar hadayar)"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "gefen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar ɗin"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "arewa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "kuma su yi tsatsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohensu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jinin sa"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "jinin sa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar ɗin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kewaye"
+    }
+  ],
+  "timestamp": "2026-08-12T01:45:05.936636178Z",
+  "model": "glm-5.2"
+}

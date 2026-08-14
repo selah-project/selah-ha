@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma ⟨את⟩ gidansa Shelomoh ya gina, shekara goma sha uku, kuma ya kammala ⟨את⟩ dukkan gidansa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gidansa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gidansa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ya gina"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "uku"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "goma sha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "kuma ya kammala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gidansa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:03:14.902298088Z",
+  "model": "glm-5.2"
+}

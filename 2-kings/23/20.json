@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma ya yi hadaya ⟨את⟩ dukkan firistocin babban wuri da suka kasance a can, a kan bagadu, kuma ya ƙone ⟨את⟩ ƙasoshin mutum a kansu, sai ya koma Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "ya yi hadaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan firistocin babban wuri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "firistocin"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "babban wuri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "bagadu"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "ya ƙone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "maks": "ƙasoshin",
+      "marks": "ƙasoshin mutum"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ƙasoshin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "a kansu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sai ya koma"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-12T12:48:35.578219474Z",
+  "model": "glm-5.2"
+}

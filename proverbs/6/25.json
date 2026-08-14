@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kada ka burama ga kyawunta a cikin zuciyarka, kuma kada ta kama ka da gashin idonta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "ka burama ga"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "kyawunta"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "a cikin zuciyarka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "ta kama ka"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "da gashin idanta"
+    }
+  ],
+  "timestamp": "2026-08-12T21:07:58.166261619Z",
+  "model": "glm-5.2"
+}

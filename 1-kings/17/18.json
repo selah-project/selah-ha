@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma ta ce wa Eliyahu, \"Mẽne ne gare ni da kai, yã mutumin ⟨Elohim⟩? Shin, ka zo gare ni don tunatar da ⟨את⟩ laifina, da kuma kashe ⟨את⟩ ɗana?\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Kuma ta ce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mẽne ne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "da kai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨Elohim⟩"
+    },
+    {
+      "surface": "באת",
+      "gloss": "ka zo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "don tunatar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laifina"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "laifina"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "da kuma kashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗana"
+    }
+  ],
+  "timestamp": "2026-08-12T11:35:05.922408051Z",
+  "model": "glm-5.2"
+}

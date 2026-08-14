@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 110,
+  "translation": "Daga rafi a hanya ⟨zan⟩ sha, saboda haka ⟨zai⟩ ɗauko kansa.",
+  "tokens": [
+    {
+      "surface": "מִ֭נַּחַל",
+      "gloss": "daga rafi"
+    },
+    {
+      "surface": "בַּדֶּ֣רֶךְ",
+      "gloss": "a hanya"
+    },
+    {
+      "surface": "yīšteh",
+      "gloss": "⟨zan⟩ sha"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "יָרִ֥ים",
+      "gloss": "⟨zai⟩ ɗauko"
+    },
+    {
+      "surface": "רֹֽאשׁ",
+      "gloss": "kansa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:35:22.258311917Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Babu sarki da ake ceto da yawan sojoji, kuma gagara ba a ceto shi da yawan ƙarfi.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Babu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "da ake ceto"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "da yawan"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sojoji"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "gagara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "a ceto shi"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "da yawan"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ƙarfi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:36:55.144042476Z",
+  "model": "glm-5.2"
+}

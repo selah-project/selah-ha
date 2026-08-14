@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 23:24",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Abin da ya fito daga leɓenka ka kiyaye ka kuma ka aiwatar, kamar yadda ka yi ∙gara ga Yahweh Elohiminka, ∙gudun ∙zuciya, wanda ka faɗa da bakinka.",
+  "tokens": [
+    {
+      "surface": "מוצא",
+      "gloss": "abin da ya fito"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "daga leɓenka"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ka kiyaye"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ka kuma ka aiwatar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "נדרת",
+      "gloss": "ka yi ∙gara",
+      "marks": "gara"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminka"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "∙gudun ∙zuciya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ka faɗa"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "da bakinka"
+    }
+  ],
+  "timestamp": "2026-08-13T01:55:21.241435492Z",
+  "model": "glm-5.2"
+}

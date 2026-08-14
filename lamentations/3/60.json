@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Ka ga duka ramuwarsu, duka tsare-tsarensu a kaina.",
+  "tokens": [
+    {
+      "surface": "רָאִ֨יתָה֙",
+      "gloss": "Ka ga"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "נִקְמָתָ֔ם",
+      "gloss": "ramuwarsu"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "מַחְשְׁבֹתָ֖ם",
+      "gloss": "tsare-tsarensu"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "a kaina"
+    }
+  ],
+  "timestamp": "2026-08-12T22:34:44.378194354Z",
+  "model": "glm-5.2"
+}

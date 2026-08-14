@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 70,
+  "translation": "Su yi murna su kuma su yi gudu a cikin ⟨sai⟩ kai, dukkan waɗanda ke neman ka, su kuma su ce a kullum, \"Ya yi girma Elohim,\" masu son tsirar ⟨da⟩ ka ce.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "su yi murna"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "su kuma su yi gudu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "a cikin ⟨sai⟩ kai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "waɗanda ke neman ka"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "su kuma su ce"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "a kullum"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "ya yi girma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "masu son"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "tsirar ⟨da⟩ ka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:59:19.035538777Z",
+  "model": "glm-5.2"
+}

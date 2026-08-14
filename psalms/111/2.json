@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 111,
+  "translation": "Manya ⟨ne⟩ ayyukan Yahweh; ake neman su daga duk wadanda suka ji daɗinsu.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Manya"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ayyukan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "ake neman su"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "daga duk"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "wadanda suka ji daɗinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:37:10.203998009Z",
+  "model": "glm-5.2"
+}

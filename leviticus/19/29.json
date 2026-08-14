@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kada ka ɓata ⟨את⟩ ɗiyarka don ya yi ta karuwanci, kuma kada ƙasar ta yi karuwanci, kuma ƙasa ta cika da lalata.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "ka ɓata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗiyarka"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "ɗiyarka"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "don ya yi ta karuwanci"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "ta yi karuwanci"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "kuma ta cika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "da lalata"
+    }
+  ],
+  "timestamp": "2026-08-12T02:36:19.802772451Z",
+  "model": "glm-5.2"
+}

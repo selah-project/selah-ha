@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma Sha'ul ya aiko ⟨את⟩ manzanni su duba ⟨את⟩ Dawuda, yana cewa: Ku kawo shi a cikin gado wurina, in kashe shi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kuma ya aiko"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manzanni"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "manzanni"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "su duba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawuda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "ku kawo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "a cikin gado"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "wurina"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "in kashe shi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:00:45.423204460Z",
+  "model": "glm-5.2"
+}

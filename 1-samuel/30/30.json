@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "kuma wa waɗanda ⟨suke⟩ a cikin Chormah, da kuma wa waɗanda ⟨suke⟩ a cikin Bor-Ashan, da kuma wa waɗanda ⟨suke⟩ a cikin Atach:",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "da kuma wa waɗanda"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "a cikin Chormah"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "da kuma wa waɗanda"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "a cikin Bor-"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "da kuma wa waɗanda"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "a cikin Atach"
+    }
+  ],
+  "timestamp": "2026-08-12T09:44:12.567335967Z",
+  "model": "glm-5.2"
+}

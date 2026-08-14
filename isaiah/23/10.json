@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Ketare ƙasarƙ kamar kogin, 'yar Tarshish; babu ⟨da⟩ bel ɗin kuɗi ko.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "ketare"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ƙasarƙ"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "kamar kogin"
+    },
+    {
+      "surface": "בת",
+      "gloss": "'yar"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "bel ɗin kuɗi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-08-13T02:08:42.833348889Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "“'Mu ɗaya sha biyu ƴan'uwa ne, ƴa'ƴan uban mu; ɗayan ba shi yanzu, kuma ƙaramin ⟨namu⟩ yau ⟨yana⟩ tare da ⟨את⟩ uban mu a ƙasar Kena'an.'”",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ɗaya sha"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ƴan'uwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴa'ƴan"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "uban mu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ɗayan"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ba shi yanzu"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "kuma ƙaramin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "את",
+      "gloss": "tare da ⟨את⟩",
+      "marks": "uban mu"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "uban mu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    }
+  ],
+  "timestamp": "2026-08-12T00:18:41.280822104Z",
+  "model": "glm-5.2"
+}

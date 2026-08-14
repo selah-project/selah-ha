@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma za ka koya musu sosai ga yaranka, kuma za ka yi magana da su lokacin da ka zauna a gidanka, da lokacin da ka tafi a hanya, da lokacin da ka kwanta, da lokacin da ka tashi.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "Kuma za ka koya musu sosai"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ga yaranka"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "kuma za ka yi magana"
+    },
+    {
+      "surface": "בם",
+      "gloss": "da su"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "lokacin da ka zauna"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "a gidanka"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "da lokacin da ka tafi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "a hanya"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "da lokacin da ka kwanta"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "da lokacin da ka tashi"
+    }
+  ],
+  "timestamp": "2026-08-12T05:01:41.230405982Z",
+  "model": "glm-5.2"
+}

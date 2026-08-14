@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Kuma suka murna domin sun natsu, ⟨sai⟩ ya jagorance su zuwa tashar jiragen ruwan da suke so.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׂמְח֥וּ",
+      "gloss": "suka murna"
+    },
+    {
+      "surface": "כִֽי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יִשְׁתֹּ֑קוּ",
+      "gloss": "sun natsu"
+    },
+    {
+      "surface": "וַ֝יַּנְחֵ֗ם",
+      "gloss": "⟨sai⟩ ya jagorance su"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מְח֥וֹז",
+      "gloss": "tashar jiragen ruwa"
+    },
+    {
+      "surface": "חֶפְצָֽם",
+      "gloss": "da suke so"
+    }
+  ],
+  "timestamp": "2026-08-12T20:34:15.800858529Z",
+  "model": "glm-5.2"
+}

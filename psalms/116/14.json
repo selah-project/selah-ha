@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 116,
+  "translation": "Ġarajĩna ga Yahweh nĩ zan biya, a gaban duka mutãnensa.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "ġarajĩna"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "nĩ zan biya"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "נא",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mutãnensa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:39:35.419113055Z",
+  "model": "glm-5.2"
+}

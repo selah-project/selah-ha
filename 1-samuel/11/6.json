@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma ruhu ta Elohim ta sa ɗimbin ƙarfi a kan Shaul a lokacin da yake ji ⟨את⟩ waɗannan kalmomi, kuma fushinsa ta ɗūka sosai.",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "kuma ta sa ɗimbin ƙarfi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ta Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "a lokacin da yake ji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waɗannan kalmomi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kalmomi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "kuma ta ɗūka"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "fushinsa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    }
+  ],
+  "timestamp": "2026-08-13T02:00:05.277815535Z",
+  "model": "glm-5.2"
+}

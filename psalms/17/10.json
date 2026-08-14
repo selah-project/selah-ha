@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "⟨Su⟩ sun rufe ⟨zukatansu⟩ da kitse; bakinsu ya yi magana da girman kai.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "da kitse"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "sun rufe"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "bakinsu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ya yi magana"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "da girman kai"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:25.151307548Z",
+  "model": "glm-5.2"
+}

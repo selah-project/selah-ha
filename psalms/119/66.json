@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Nagartaccen fahimta da ilimi ka koya mini, domin a cikin umarninka na yi imani.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "nagartaccen"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "fahimta"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "da ilimi"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ka koya mini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "a cikin umarninka"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "na yi imani"
+    }
+  ],
+  "timestamp": "2026-08-12T20:45:17.570223315Z",
+  "model": "glm-5.2"
+}

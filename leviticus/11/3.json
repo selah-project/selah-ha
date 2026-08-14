@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Duk wanda ya rabaraba ƙafar, kuma ya tsaga tsagin ƙafa, kuma yana ɗebo junks, cikin dabbobin — ⟨wannan⟩ ⟨shi⟩ ne ⟨wanda⟩ kuke ci.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Duk wanda"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "ya rabaraba"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "ƙafar"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "kuma ya tsaga"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "tsagin"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "ƙafa"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "kuma yana ɗebo"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "junks"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "cikin dabbobin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wannan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kuke ci"
+    }
+  ],
+  "timestamp": "2026-08-12T02:05:55.214326951Z",
+  "model": "glm-5.2"
+}

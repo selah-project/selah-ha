@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Daga 'ya'yan bakin mutum ⟨zai⟩ ci nagari, amma rai ⟨na⟩ masu yaudara ⟨shine⟩ tashin hankali.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "daga 'ya'yan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bakin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zai ci"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nagari"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "amma rai"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "masu yaudara"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tashin hankali"
+    }
+  ],
+  "timestamp": "2026-08-12T21:15:18.667716143Z",
+  "model": "glm-5.2"
+}

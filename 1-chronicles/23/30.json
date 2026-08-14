@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 23:30",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "da ⟨su⟩ tsaya safe-safe don godiya da yabawa ga Yahweh, kuma haka ⟨aka yi⟩ a yamma.",
+  "tokens": [
+    {
+      "surface": "ולעמד",
+      "gloss": "da ⟨su⟩ tsaya"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "safe"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "-safe"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "don godiya"
+    },
+    {
+      "surface": "ולהלל",
+      "gloss": "da yabawa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "kuma haka"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "a yamma"
+    }
+  ],
+  "timestamp": "2026-08-13T00:29:04.575768298Z",
+  "model": "glm-5.2"
+}

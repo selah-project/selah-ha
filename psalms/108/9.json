@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 108,
+  "translation": "Gilad ⟨na⟩ nawa, Menashsheh ⟨na⟩ nawa, kuma Efrayim ⟨ne⟩ katangar kansa, Yehudah ⟨ne⟩ sarakensa.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "na nawa"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na nawa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "kuma Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "katanga"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "sarakensa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:27:40.708908421Z",
+  "model": "glm-5.2"
+}

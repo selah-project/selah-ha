@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "\"Ka ba ni ⟨את⟩ matana da ⟨את⟩ yaran da na yi maka aikin yi ⟨את⟩ su, in koma; domin ka san ⟨את⟩ aikin da na yi maka.\"",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Ka ba ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matana"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "matana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yaran"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "yaran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "na yi maka aikin"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kai"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "su"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "in koma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "san"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aikin"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "na yi maka"
+    }
+  ],
+  "timestamp": "2026-08-11T23:56:07.389127738Z",
+  "model": "glm-5.2"
+}

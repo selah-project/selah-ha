@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma ⟨את⟩ fasin-fasin birnin Dawid kuka gani, cewa sun yawaita, kuma kuka tattara ⟨את⟩ ruwan tafkin da yake ƙasa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fasin-fasin"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "fasin-fasin"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "kuka gani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "sun yawaita"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "kuma kuka tattara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruwan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "tafkin"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "da yake ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T13:27:10.918167427Z",
+  "model": "glm-5.2"
+}

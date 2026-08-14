@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "kuma na koma cikin salama zuwa gidan ubana, sa'an nan Yahweh zai zama ⟨a gare ni⟩ zuwa Elohim.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "kuma na koma"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "cikin salama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubana"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "sa'an nan zai zama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a gare ni"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "zuwa Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T23:51:48.705661133Z",
+  "model": "glm-5.2"
+}

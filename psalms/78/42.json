@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Ba su tuna ⟨da⟩ ⟨את⟩ hannunSa ba, ⟨ko⟩ rãnar da Ya cõ ãsukansu daga mahãliba.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "suka tuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannunSa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hannunSa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "rãnar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "Ya cõ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ãsukansu daga"
+    },
+    {
+      "surface": "צר",
+      "gloss": "mahãliba"
+    }
+  ],
+  "timestamp": "2026-08-12T20:09:16.015940277Z",
+  "model": "glm-5.2"
+}

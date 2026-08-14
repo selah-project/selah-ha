@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma Dawudi ya ce masa, \"Daga ina kake zuwa?\" Kuma ya ce masa, \"Daga sansanin Yisira'ela na tsere.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawudi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ina"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "daga"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kake zuwa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "daga sansanin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisira'ela"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "na tsere"
+    }
+  ],
+  "timestamp": "2026-08-12T09:57:52.784971656Z",
+  "model": "glm-5.2"
+}

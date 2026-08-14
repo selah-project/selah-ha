@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 7:7",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Na ga ⟨a⟩ cikin marasa hankali, na gane ⟨a⟩ cikin yara, wani saurayi mara hankali.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "Na ga"
+    },
+    {
+      "surface": "בפתאים",
+      "gloss": "⟨a⟩ cikin marasa hankali"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "na gane"
+    },
+    {
+      "surface": "בבנים",
+      "gloss": "⟨a⟩ cikin yara"
+    },
+    {
+      "surface": "נער",
+      "gloss": "wani saurayi"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "mara"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hankali"
+    }
+  ],
+  "timestamp": "2026-08-12T21:08:16.586711261Z",
+  "model": "glm-5.2"
+}

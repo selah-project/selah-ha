@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma ƙungiyoyi biyu daga cikin ku, duk masu fita ⟨a⟩ ranar Asabar, su kula ⟨da⟩ ⟨את⟩ wurin gadi na gidan Yahweh game da sarki.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "Kuma biyu"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "ƙungiyoyi"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "daga cikin ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "masu fita"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ranar Asabar"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "su kula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wurin gadi"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "wurin gadi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "na gidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "game da"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    }
+  ],
+  "timestamp": "2026-08-12T12:18:14.891866463Z",
+  "model": "glm-5.2"
+}

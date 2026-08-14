@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Ni ne Yahweh, shi ⟨ne⟩ sunana; kuma ɗaukakata ba za ta ba wani ba, kuma yabina ba ⟨za a ba⟩ siffofin:",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "sunana"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "kuma ɗaukakata"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "ba ta ba wani ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "za ta ba"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "kuma yabina"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "siffofin"
+    }
+  ],
+  "timestamp": "2026-08-12T14:03:18.240119683Z",
+  "model": "glm-5.2"
+}

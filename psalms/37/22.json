@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Domi waɗanda aka albarkaci ⟨ce⟩ za su gaji ƙasa, amma waɗanda aka tsana ⟨ce⟩ za a yanke su.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domi"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "waɗanda aka albarkaci"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "za su gaji"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "amma waɗanda aka tsana"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "za a yanke su"
+    }
+  ],
+  "timestamp": "2026-08-13T03:08:06.108571194Z",
+  "model": "glm-5.2"
+}

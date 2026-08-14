@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma su yi akwatin itacen shittah; biyu da rabi ⟨ne⟩ tsayin sa, kuma ɗaya da rabi faɗin sa, kuma ɗaya da rifiƙar tsawon sa.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Kuma su yi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "itacen"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittah"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "da rabi"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "tsayin sa"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "kuma ɗaya"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "da rabi"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "faɗin sa"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "kuma ɗaya"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "da rabi"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "tsawon sa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:05:36.587323630Z",
+  "model": "glm-5.2"
+}

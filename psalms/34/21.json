@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Yana kiyaye dukkan ƙasusuwansa, ɗaya daga cikinsu ba za a karye ba.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Yana kiyaye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "ƙasusuwansa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "daga cikinsu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "za a karye"
+    }
+  ],
+  "timestamp": "2026-08-12T19:34:30.580043044Z",
+  "model": "glm-5.2"
+}

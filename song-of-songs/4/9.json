@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 4:9",
+  "book": "song-of-songs",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "ka ɓatar da zuciyata, ƙanwata ⟨ce⟩ amarya, ka ɓatar da zuciyata da ɗaya daga cikin idananka, da ɗaya ɗaya daga cikin wuyan sawuranka.",
+  "tokens": [
+    {
+      "surface": "לִבַּבְתִּ֖נִי",
+      "gloss": "ka ɓatar da zuciyata"
+    },
+    {
+      "surface": "אֲחֹתִ֣י",
+      "gloss": "ƙanwata"
+    },
+    {
+      "surface": "כַלָּ֑ה",
+      "gloss": "amarya"
+    },
+    {
+      "surface": "לִבַּבְתִּ֨ינִי֙",
+      "gloss": "ka ɓatar da zuciyata"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "da ɗaya"
+    },
+    {
+      "surface": "מֵעֵינַ֔יִךְ",
+      "gloss": "daga cikin idananka"
+    },
+    {
+      "surface": "בְּאַחַ֥ד",
+      "gloss": "da ɗaya"
+    },
+    {
+      "surface": "עֲנָ֖ק",
+      "gloss": "sawuranku"
+    },
+    {
+      "surface": "מִצַּוְּרֹנָֽיִךְ",
+      "gloss": "daga cikin wuyanka"
+    }
+  ],
+  "timestamp": "2026-08-12T22:22:10.117107166Z",
+  "model": "glm-5.2"
+}

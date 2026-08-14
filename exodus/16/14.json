@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 16:14",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma kwantar ƙanƙara ta hau, sai ga abin da ke a kan fuskantar hamada — guntu-gantu masu kyalkyali, guntu-gantu kamar ɗanƙara a doron ƙasa.",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "Kuma ta hau"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "kwantar"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "ƙanƙara"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sai ga"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskantar"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "hamada"
+    },
+    {
+      "surface": "דק",
+      "gloss": "guntu-gantu"
+    },
+    {
+      "surface": "מחספס",
+      "gloss": "masu kyalkyali"
+    },
+    {
+      "surface": "דק",
+      "gloss": "gantu-gantu"
+    },
+    {
+      "surface": "ככפר",
+      "gloss": "kamar ɗanƙara"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "doron ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:57:20.780456826Z",
+  "model": "glm-5.2"
+}

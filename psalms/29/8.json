@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Sautin Yahweh yana girgiza jeji; Yahweh yana girgiza jejin Kadesh.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sautin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "yana girgiza"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "jeji"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "yana girgiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "jejin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    }
+  ],
+  "timestamp": "2026-08-12T19:31:24.195290261Z",
+  "model": "glm-5.2"
+}

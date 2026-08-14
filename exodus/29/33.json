@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma za su ci ⟨את⟩ su, waɗanda aka yi kafara a cikinsu, don cika ⟨את⟩ hannuwansu, don tsarkake ⟨את⟩ su; kuma ɓangaren waje ba za sa ci ba, domin tsarkaka ⟨ne⟩ su.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "kuma za su ci"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su (waɗanda aka yi kafara a cikinsu)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "aka yi kafara"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "a cikinsu"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "don cika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannuwansu"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "hannuwansu"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "don tsarkake"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "kuma ɓangaren waje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "za sa ci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsarkaka"
+    },
+    {
+      "surface": "הם",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-08-12T01:14:05.623673359Z",
+  "model": "glm-5.2"
+}

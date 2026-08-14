@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma ya koma shi ⟨את⟩, ya ci burodi a gidansa, ya sha ruwa.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kuma ya koma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ya ci"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "burodi"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "a gidansa"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "ya sha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    }
+  ],
+  "timestamp": "2026-08-12T11:25:55.902093871Z",
+  "model": "glm-5.2"
+}

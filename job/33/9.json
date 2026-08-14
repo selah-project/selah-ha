@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 33:9",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Tsarki ne nake, ba shi da tawaye; mara laifi ne ni, kuma babu mugunta ⟨a cikin⟩ ni.",
+  "tokens": [
+    {
+      "surface": "זַ֥ךְ",
+      "gloss": "tsarki"
+    },
+    {
+      "surface": "אֲנִ֗י",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בְּֽלִ֫י",
+      "gloss": "ba shi da"
+    },
+    {
+      "surface": "פָ֥שַׁע",
+      "gloss": "tawaye"
+    },
+    {
+      "surface": "חַ֥ף",
+      "gloss": "mara laifi"
+    },
+    {
+      "surface": "אָנֹכִ֑י",
+      "gloss": "ni"
+    },
+    {
+      "surface": "וְלֹ֖א",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "עָוֺ֣ן",
+      "gloss": "mugunta"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "a cikin ni"
+    }
+  ],
+  "timestamp": "2026-08-12T22:08:27.928331196Z",
+  "model": "glm-5.2"
+}

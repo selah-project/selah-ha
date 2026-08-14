@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma ya hawa daga can zuwa ga mazaunan Devir; kuma sunan Devir a daidaiku Kiryat-Sefer.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Kuma ya hawa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "daga can"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "kuma sunan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "a daidaiku"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    }
+  ],
+  "timestamp": "2026-08-12T06:47:30.401584059Z",
+  "model": "glm-5.2"
+}

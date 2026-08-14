@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 57,
+  "translation": "Ni, zan sanar da adalcinka, da ⟨את⟩ ayyukanka, amma ba za su amfana ka ba.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "zan sanar da"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "adalcinka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ayyukanka"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ayyukanka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "za su amfana ka"
+    }
+  ],
+  "timestamp": "2026-08-12T14:33:09.243826747Z",
+  "model": "glm-5.2"
+}

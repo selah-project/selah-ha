@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma kohen ya kusantar da shi zuwa bagaden, ya matse ⟨את⟩ kansa, kuma ya ƙone ⟨a⟩ kan bagaden, kuma a jinne jinin sa a kan bango na bagaden.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "kuma ya kusantar da shi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bagaden"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "ya matse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "kuma ya ƙone"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "⟨a⟩ kan bagaden"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "kuma a jinne"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "jinin sa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "bango"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "na bagaden"
+    }
+  ],
+  "timestamp": "2026-08-12T01:44:26.063760692Z",
+  "model": "glm-5.2"
+}

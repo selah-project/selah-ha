@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Sai Paroh ya umarci duka mutanensa, yana cewa: Kowane ɗa da a haifa, ⟨shi⟩ ku jefa shi cikin kogin, amma kowane 'ya mace ku raya ta.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Sai ya umarci"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mutanensa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa:"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Kowane"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "ɗa"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "da a haifa"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "cikin kogin"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "ku jefa shi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "amma kowane"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "'ya mace"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "ku raya ta"
+    }
+  ],
+  "timestamp": "2026-08-12T00:27:04.802672386Z",
+  "model": "glm-5.2"
+}

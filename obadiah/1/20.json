@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "obadiah 1:20",
+  "book": "obadiah",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma gudun hijirar wannan rundunar ⟨wacce ke ga⟩ 'ya'yan Isra'ila, ⟨wadanda suke⟩ Kena'ani har Tsarefat, da gudun hijirar Yerushalaim ⟨wadanda suke⟩ a Sefarad, za su gaji ⟨את⟩ garuruwan kudu.",
+  "tokens": [
+    {
+      "surface": "וגלת",
+      "gloss": "Kuma gudun hijirar"
+    },
+    {
+      "surface": "החל",
+      "gloss": "wannan rundunar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨wacce ke ga⟩ 'ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨wadanda suke⟩"
+    },
+    {
+      "surface": "כנענים",
+      "gloss": "Kena'ani"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "צרפת",
+      "gloss": "Tsarefat"
+    },
+    {
+      "surface": "וגלת",
+      "gloss": "da gudun hijirar"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨wadanda suke⟩"
+    },
+    {
+      "surface": "בספרד",
+      "gloss": "a Sefarad"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "za su gaji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garuruwan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "garuruwan"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "kudu"
+    }
+  ],
+  "timestamp": "2026-08-12T18:36:12.682462768Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Duk wanda ake kira da sunana, kuma don darajata, ni ⟨ne⟩ na halicce shi, na tsara shi, eh, na yi shi.",
+  "tokens": [
+    {
+      "surface": "כֹּל",
+      "gloss": "Duk"
+    },
+    {
+      "surface": "הַנִּקְרָא",
+      "gloss": "wanda ake kira"
+    },
+    {
+      "surface": "בִשְׁמִי",
+      "gloss": "da sunana"
+    },
+    {
+      "surface": "וְלִכְבוֹדִי",
+      "gloss": "kuma don darajata"
+    },
+    {
+      "surface": "בְּרָאתִיו",
+      "gloss": "na halicce shi"
+    },
+    {
+      "surface": "יְצַרְתִּיו",
+      "gloss": "na tsara shi"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "eh"
+    },
+    {
+      "surface": "עֲשִׂיתִיו",
+      "gloss": "na yi shi"
+    }
+  ],
+  "timestamp": "2026-08-12T14:04:39.535257520Z",
+  "model": "glm-5.2"
+}

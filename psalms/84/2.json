@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 84,
+  "translation": "Da nawa masaukanka ke masoyi, Yahweh Ɗaukaka!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "da nawa"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "masoyi"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "masaukanka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ɗaukaka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:17:32.244264840Z",
+  "model": "glm-5.2"
+}

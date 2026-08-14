@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma 'yar'uwarsa ta tsaya da nisa, don ta sani abin da za a yi masa.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "Kuma ta tsaya"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "'yar'uwarsa"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "da nisa"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "don ta sani"
+    },
+    {
+      "surface": "מה",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "za a yi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:30:27.409257368Z",
+  "model": "glm-5.2"
+}

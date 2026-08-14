@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 108,
+  "translation": "Naɗaɗɗe ⟨ne⟩ zuciyata, Elohim; za ni rera waƙa, e, za ni yi kiɗa, har ɗaukata.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Naɗaɗɗe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "za ni rera waƙa"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "e, za ni yi kiɗa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "har"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ɗaukata"
+    }
+  ],
+  "timestamp": "2026-08-12T20:35:34.145035344Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma ka ɗaɗe ni da ƙarfi don yaƙi; ka sa waɗanda suka tashi ⟨a kan⟩ ni su guga ƙasa da ni.",
+  "tokens": [
+    {
+      "surface": "וַתְּאַזְּרֵ֣נִי",
+      "gloss": "Kuma ka ɗaɗe ni"
+    },
+    {
+      "surface": "חַ֭יִל",
+      "gloss": "da ƙarfi"
+    },
+    {
+      "surface": "לַמִּלְחָמָ֑ה",
+      "gloss": "don yaƙi"
+    },
+    {
+      "surface": "תַּכְרִ֖יעַ",
+      "gloss": "ka sa su guga"
+    },
+    {
+      "surface": "קָמַ֣י",
+      "gloss": "waɗanda suka tashi ⟨a kan⟩ ni"
+    },
+    {
+      "surface": "תַּחְתָּֽי",
+      "gloss": "ƙasa da ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:23:34.188400985Z",
+  "model": "glm-5.2"
+}

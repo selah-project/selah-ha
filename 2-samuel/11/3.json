@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Daŵid ya aiko, ya bincika game da waccan mace, aka ce, Shin ba wannan Bath-Shewa ɗiyar Eliyam ⟨ce⟩, matar Uriya ɗan Hititiyawa?",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kuma ya aiko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daŵid"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "ya bincika"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "game da waccan mace"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aka ce"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Shin ba"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɗiyar"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Bath-Shewa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɗiyar"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "Eliyam"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "matar"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ɗan Hititiyawa"
+    }
+  ],
+  "timestamp": "2026-08-12T10:11:32.836212454Z",
+  "model": "glm-5.2"
+}

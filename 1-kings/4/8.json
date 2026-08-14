@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma waɗannan sunayensu ne: Ben-Hur a tsaunin Efrayim.",
+  "tokens": [
+    {
+      "surface": "וְאֵ֣לֶּה",
+      "gloss": "kuma waɗannan"
+    },
+    {
+      "surface": "שְׁמוֹתָ֔ם",
+      "gloss": "sunayensu ne"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "ח֖וּר",
+      "gloss": "Hur"
+    },
+    {
+      "surface": "בְּהַ֥ר",
+      "gloss": "a tsaunin"
+    },
+    {
+      "surface": "אֶפְרָֽיִם",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T10:56:29.123027774Z",
+  "model": "glm-5.2"
+}

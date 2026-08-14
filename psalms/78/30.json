@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Ba su ɓuya daga sha'awarsu ba, abincin ⟨yana⟩ har aunin cikin bakinsu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "su ɓuya"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "daga sha'awarsu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "har aunin"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "abincin"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "cikin bakinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:09:37.475623461Z",
+  "model": "glm-5.2"
+}

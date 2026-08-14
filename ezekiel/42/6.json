@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 42:6",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Domin ⟨suna⟩ ∗na mataki uku, kuma babu ∗gini mai ∗gida a gare su kamar ∗gidajen ∗fagon ∗gida, don haka an ∗rage ⟨sauye⟩ daga ƙananan ∗kuma daga tsaka-tsaki, daga ƙasa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "משלשות",
+      "gloss": "∗na mataki uku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨suna⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "להן",
+      "gloss": "a gare su"
+    },
+    {
+      "surface": "עמודים",
+      "gloss": "∗gini mai ∗gida"
+    },
+    {
+      "surface": "כעמודי",
+      "gloss": "kamar ∗gidajen"
+    },
+    {
+      "surface": "החצרות",
+      "gloss": "∗fagon ∗gida"
+    },
+    {
+      "surface": "על",
+      "gloss": "don haka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨haka⟩"
+    },
+    {
+      "surface": "נאצל",
+      "gloss": "an ∗rage ⟨sauye⟩"
+    },
+    {
+      "surface": "מהתחתונות",
+      "gloss": "daga ƙananan"
+    },
+    {
+      "surface": "ומהתיכנות",
+      "gloss": "kuma daga tsaka-tsaki"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "daga ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T17:58:52.777678791Z",
+  "model": "glm-5.2"
+}

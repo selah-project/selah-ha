@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 2:7",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma ga 'ya'yan Barzilay ɗan Gil'ad za ka yi chesed, kuma sun kasance ⟨cikin⟩ masu cin teburinka, domin haka ne suka zo gare ni a gudun da na yi daga gaban Avshalom ɗan'uwanka.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Kuma ga 'ya'yan"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "Barzilay"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "ɗan Gil'ad"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "za ka yi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kuma sun kasance"
+    },
+    {
+      "surface": "באכלי",
+      "gloss": "cikin masu cin"
+    },
+    {
+      "surface": "שלחנך",
+      "gloss": "teburinka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "suka zo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "בברחי",
+      "gloss": "a gudun da na yi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ɗan'uwanka"
+    }
+  ],
+  "timestamp": "2026-08-12T10:52:20.050590572Z",
+  "model": "glm-5.2"
+}

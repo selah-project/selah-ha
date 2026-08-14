@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Sa'ad da Yahweh, Elohiminka, ya yanke ⟨את⟩ al'ummomin da Yahweh, Elohiminka, yake bayar maka ⟨את⟩ kasarsu, kuma ka gaji su, kuma ka zauna a cikin biranen su da kuma a cikin gidajensu,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sa'ad da"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "ya yanke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al'ummomin"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "al'ummomin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yake bayar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasarsu"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "kasarsu"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "kuma ka gaji su"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "kuma ka zauna"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "a cikin biranen su"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "da kuma a cikin gidajensu"
+    }
+  ],
+  "timestamp": "2026-08-12T05:24:59.104146176Z",
+  "model": "glm-5.2"
+}

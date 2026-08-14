@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Za mu rera waka cikin wahayarka, kuma cikin sunan Elohim mu muɗa tutar mu; Yahweh ya cika dukkan tambayoyinka.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "za mu rera waka"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "cikin wahayarka"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "kuma cikin sunan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "mu muɗa tutar mu"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ya cika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "tambayoyinka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:26:51.438553226Z",
+  "model": "glm-5.2"
+}

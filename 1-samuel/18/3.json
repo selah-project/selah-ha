@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma Yehonatan da Dawida suka yanka alkawari, a cikin ƙaunarsa ⟨nasa⟩ kamar ransa.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "kuma suka yanka"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "da Dawida"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alkawari"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "a cikin ƙaunarsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "kamar ransa"
+    }
+  ],
+  "timestamp": "2026-08-12T09:20:35.264270659Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kula da ⟨את⟩ watan Abib, kuma ka yi ⟨ne⟩ Pesaƙa ga Yahweh, Elohiminka, domin a cikin watan Abib Yahweh, Elohiminka, ya fitar da kai daga Mitsrayim da dare.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Kula da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watan"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "watan"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abib"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "kuma ka yi"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesaƙa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "a cikin watan"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abib"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "ya fitar da kai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminka"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "daga Mitsrayim"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "da dare"
+    }
+  ],
+  "timestamp": "2026-08-12T05:20:20.638291498Z",
+  "model": "glm-5.2"
+}

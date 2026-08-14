@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Yahweh Yana ba da ƙarfi ga mutanensa; Yahweh Yana albarkatar ⟨את⟩ mutanensa da salama.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ƙarfi"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ga mutanensa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "Yana ba da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "Yana albarkatar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanensa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mutanensa"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "da salama"
+    }
+  ],
+  "timestamp": "2026-08-12T19:29:42.253693517Z",
+  "model": "glm-5.2"
+}

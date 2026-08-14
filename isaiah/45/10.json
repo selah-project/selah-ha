@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Yā yi wa ⟨wanda⟩ ke cewa wa uba, \"Me kake haifuwa?\" Kuma wa mace, \"Me kake haihuwa?\"",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Yā yi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ke cewa"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "wa uba"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Me"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "kake haifuwa"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "Kuma wa mace"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Me"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "kake haihuwa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:10:14.785415977Z",
+  "model": "glm-5.2"
+}

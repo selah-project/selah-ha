@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Duba daga gare ni, kuma in haskaka, a kafin in tafi, kuma in kuma ba ni.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Duba"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daga gare ni"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "kuma in haskaka"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "a kafin"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "in tafi"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "kuma in kuma ba ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:40:23.303953370Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Yahweh, Adonai, yadda sunanka ya fi girma a duk ⟨duniyar⟩ ƙasa, wanda ka sanya ɗaukakarka a sama sam sama!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yadda"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ya fi girma"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunanka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ka sanya"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ɗaukakarka"
+    },
+    {
+      "surface": "על",
+      "gloss": "a sama"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama sam sama"
+    }
+  ],
+  "timestamp": "2026-08-13T02:22:45.532776429Z",
+  "model": "glm-5.2"
+}

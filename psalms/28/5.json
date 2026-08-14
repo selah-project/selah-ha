@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Domin ba su fahimtar ayyukan Yahweh, ko aikin hannayensa — ⟨za⟩ ya rushe su, kuma ba ya gina su.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "suka fahimta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ayyukan⟩"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ayyukan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ko ⟨aikin⟩"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hannayensa"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "ya rushe su"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "ya gina su"
+    }
+  ],
+  "timestamp": "2026-08-12T19:32:25.916266812Z",
+  "model": "glm-5.2"
+}

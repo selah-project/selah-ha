@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Sai suka gaggauta, suka sa kowa ⟨את⟩ jajjigansa ƙasa, kuma kowa ya buɗe jajjigansa.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "Sai suka gaggauta"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "suka sa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jajjigansa"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "jajjigansa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "kuma ya buɗe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowa"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "jajjigansa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:16:31.742940539Z",
+  "model": "glm-5.2"
+}

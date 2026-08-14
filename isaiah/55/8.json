@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 55,
+  "translation": "Domin tunanina ba su ⟨zama⟩ tunaninku ba, kuma hanyoyinku ba su ⟨zama⟩ hanyoyina ba, ⟨cen⟩ maganar Yahweh.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מַחְשְׁבוֹתַי֙",
+      "gloss": "tunanina"
+    },
+    {
+      "surface": "מַחְשְׁב֣וֹתֵיכֶ֔ם",
+      "gloss": "tunaninku"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "דַרְכֵיכֶ֖ם",
+      "gloss": "hanyoyinku"
+    },
+    {
+      "surface": "דְּרָכָ֑י",
+      "gloss": "hanyoyina"
+    },
+    {
+      "surface": "נְאֻ֖ם",
+      "gloss": "maganar"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T14:27:07.622828079Z",
+  "model": "glm-5.2"
+}

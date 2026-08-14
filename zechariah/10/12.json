@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 10:12",
+  "book": "zechariah",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma zan ƙarfafa su a cikin Yahweh, kuma a cikin sunansa za su tafi, inã gaya, Yahweh.",
+  "tokens": [
+    {
+      "surface": "וגברתים",
+      "gloss": "kuma zan ƙarfafa su"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "a cikin Yahweh"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "kuma a cikin sunansa"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "za su tafi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "inã gaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T19:05:30.761378917Z",
+  "model": "glm-5.2"
+}

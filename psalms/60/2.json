@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 60,
+  "translation": "A lokacin da yake yãƙi da ⟨את⟩ Aram-Naharaim da ⟨את⟩ Aram-Tsoba, sannan Yo'ab ya koma baya ya doke ⟨את⟩ Edom a cikin kwarin gishiri — goma sha biyu dubu.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "A lokacin da yake yãƙi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram-Naharaim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoba"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sannan ya koma baya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yo'ab"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ya doke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "a cikin kwarin"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "gishiri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "goma"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dubu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:55:20.443365838Z",
+  "model": "glm-5.2"
+}

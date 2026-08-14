@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 8:17",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ⟨ya faru⟩ ⟨a cikin⟩ zuciyar Dawida ubana, don ya gina gida don Sunan Yahweh, Elohim na Isra'ila.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ⟨ya faru⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨a cikin⟩"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "zuciyar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubana"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "don ya gina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "don Sunan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "na Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T11:09:02.454628852Z",
+  "model": "glm-5.2"
+}

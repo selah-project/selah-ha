@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Sun buɗe bakinsu a kan ni, zaki mai tsāge-mai gūra.",
+  "tokens": [
+    {
+      "surface": "פָּצ֣וּ",
+      "gloss": "sun buɗe"
+    },
+    {
+      "surface": "עָלַ֣י",
+      "gloss": "a kan ni"
+    },
+    {
+      "surface": "פִיהֶ֑ם",
+      "gloss": "bakinsu"
+    },
+    {
+      "surface": "אַ֝רְיֵ֗ה",
+      "gloss": "zaki"
+    },
+    {
+      "surface": "טֹרֵ֥ף",
+      "gloss": "mai tsāge"
+    },
+    {
+      "surface": "וְשֹׁאֵֽג",
+      "gloss": "mai gūra"
+    }
+  ],
+  "timestamp": "2026-08-12T19:27:37.483284305Z",
+  "model": "glm-5.2"
+}

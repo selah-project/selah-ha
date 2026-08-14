@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Sai Yahweh ya aika ⟨את⟩ Natan zuwa Dawuda, kuma ya zo wurinsa, kuma ya ce masa: Mutane biyu sun kasance a cikin gari ɗaya, ɗaya mai arziki, kuma ɗaya mai talauci.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Sai ya aika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kuma ya zo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "wurinsa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sun kasance"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a cikin gari"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "mai arziki"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "kuma ɗaya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mai talauci"
+    }
+  ],
+  "timestamp": "2026-08-12T10:15:00.790902709Z",
+  "model": "glm-5.2"
+}

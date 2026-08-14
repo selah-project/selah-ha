@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 4:11",
+  "book": "song-of-songs",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "zuma da ke kwarowa, leɓenka suna kwarowa, ya amarya! zuma da madara ⟨suna⟩ a ƙarƙashin harshenka, kuma kamanshin tufafinki kamar kamanshin Lebanon ne.",
+  "tokens": [
+    {
+      "surface": "נֹ֛פֶת",
+      "gloss": "zuma da ke kwarowa"
+    },
+    {
+      "surface": "תִּטֹּ֥פְנָה",
+      "gloss": "suna kwarowa"
+    },
+    {
+      "surface": "שִׂפְתוֹתַ֖יִךְ",
+      "gloss": "leɓenka"
+    },
+    {
+      "surface": "כַּלָּ֑ה",
+      "gloss": "amarya"
+    },
+    {
+      "surface": "דְּבַ֤שׁ",
+      "gloss": "zuma"
+    },
+    {
+      "surface": "וְחָלָב֙",
+      "gloss": "da madara"
+    },
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "a ƙarƙashin"
+    },
+    {
+      "surface": "לְשׁוֹנֵ֔ךְ",
+      "gloss": "harshenka"
+    },
+    {
+      "surface": "וְרֵ֥יחַ",
+      "gloss": "kuma kamanshin"
+    },
+    {
+      "surface": "שַׂלְמֹתַ֖יִךְ",
+      "gloss": "tufafinki"
+    },
+    {
+      "surface": "כְּרֵ֥יחַ",
+      "gloss": "kamar kamanshin"
+    },
+    {
+      "surface": "לְבָנֽוֹן",
+      "gloss": "Lebanon"
+    }
+  ],
+  "timestamp": "2026-08-12T22:22:10.117524281Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "gama kana sanya shi albarka har abadada; kana sa shi farin ciki da murna ⟨tare da⟩ ⟨את⟩ fuskarka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gama"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "kana sanya shi"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "albarka"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "har abadada"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "kana sa shi farin ciki"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "da murna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuskarka"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuskarka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:27:52.146460299Z",
+  "model": "glm-5.2"
+}

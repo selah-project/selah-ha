@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 45:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Maimakon ubanninka, ɗiyanka za su kasance; za ka sanya su sarakuna a dukan ƙasar.",
+  "tokens": [
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "Maimakon"
+    },
+    {
+      "surface": "אֲ֭בֹתֶיךָ",
+      "gloss": "ubanninka"
+    },
+    {
+      "surface": "יִהְי֣וּ",
+      "gloss": "za su kasance"
+    },
+    {
+      "surface": "בָנֶ֑יךָ",
+      "gloss": "ɗiyanka"
+    },
+    {
+      "surface": "תְּשִׁיתֵ֥מוֹ",
+      "gloss": "za ka sanya su"
+    },
+    {
+      "surface": "לְ֝שָׂרִ֗ים",
+      "gloss": "sarakuna"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "a dukan"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "ƙasar"
+    }
+  ],
+  "timestamp": "2026-08-12T19:44:50.373044513Z",
+  "model": "glm-5.2"
+}

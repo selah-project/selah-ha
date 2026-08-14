@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Yā woeAshur, sandar fushīta, shi ⟨ne⟩ ma'ajinar a hannunsu, fusata ta.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Yā woe"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sandar"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "fushīta"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "kuma ma'ajinar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "a hannunsu"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "fusata ta"
+    }
+  ],
+  "timestamp": "2026-08-12T13:10:51.896029694Z",
+  "model": "glm-5.2"
+}

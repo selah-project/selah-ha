@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Ni, Ni ne Yahweh, kuma babu mai cetonwa bandaNa.",
+  "tokens": [
+    {
+      "surface": "אָנֹכִ֥י",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "אָנֹכִ֖י",
+      "gloss": "Ni ne"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְאֵ֥ין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "מִבַּלְעָדַ֖י",
+      "gloss": "bandaNa"
+    },
+    {
+      "surface": "מוֹשִֽׁיעַ",
+      "gloss": "mai cetonwa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:10:06.777841018Z",
+  "model": "glm-5.2"
+}

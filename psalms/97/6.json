@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 97,
+  "translation": "Sama sun bayyana adalcensa, kuma dukkan al'ummu sun ga girmanSa.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "sun bayyana"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "adalcensa"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "kuma sun ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "al'ummu"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "girmanSa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:23:44.933940646Z",
+  "model": "glm-5.2"
+}

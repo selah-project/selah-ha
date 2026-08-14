@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Ga, Na saka ⟨את⟩ fuskarka mai ƙarfi ⟨don tsayayya⟩ da fuskarsu, kuma ⟨את⟩ goshinka na mai da shi da ƙarfi ⟨don tsayayya⟩ da goshinsu.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Na saka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuskarka"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuskarka"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "mai ƙarfi"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "⟨don tsayayya⟩ da"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "fuskarsu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "goshinka"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "goshinka"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "na mai da shi da ƙarfi"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "⟨don tsayayya⟩ da"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "goshinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T16:52:34.191562625Z",
+  "model": "glm-5.2"
+}

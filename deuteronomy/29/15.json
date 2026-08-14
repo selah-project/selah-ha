@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Domin ku suna sanin ⟨את⟩ ⟨yadda⟩ muka zauna a ƙasar Mitsrayim, da ⟨את⟩ ⟨yadda⟩ muka wuce tsakanin zuċiyar al'umma, waɗanda kuka tsallaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "suna sanin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yadda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yadda"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "muka zauna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "yadda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yadda"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "muka wuce"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "tsakanin zuċiyar"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "al'umma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "kuka tsallaka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:48:22.685026723Z",
+  "model": "glm-5.2"
+}

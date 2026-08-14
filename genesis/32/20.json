@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Kuma ya yi wa ⟨את⟩ na biyu, ma ⟨את⟩ na uku, ma ⟨את⟩ duka masu tafiya bayan garkuna, umarni yana cewa, Da wannan magana za ku yi magana da ʿEsav, a lõkacin da kuka same ⟨את⟩ ⟨shì⟩.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Kuma ya yi wa... umarni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "na biyu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "na biyu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "na uku"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "na uku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "masu tafiya"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "garkuna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "Da wannan magana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "za ku yi magana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ʿEsav"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "a lõkacin da kuka same"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨shì⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T00:00:20.494143270Z",
+  "model": "glm-5.2"
+}

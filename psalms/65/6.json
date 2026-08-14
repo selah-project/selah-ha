@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 65:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 65,
+  "translation": "Da abubuwa masu ban tsoro ⟨aka⟩ amsa mu cikin adalci, ya Elohim na tserinmu; ⟨Kai ne⟩ mafakar dukkan ƙarshen ƙasa, da teku masu nisa.",
+  "tokens": [
+    {
+      "surface": "נוֹרָא֨וֹת",
+      "gloss": "abubuwa masu ban tsoro"
+    },
+    {
+      "surface": "בְּצֶ֣דֶק",
+      "gloss": "cikin adalci"
+    },
+    {
+      "surface": "תַּ֭עֲנֵנוּ",
+      "gloss": "⟨aka⟩ amsa mu"
+    },
+    {
+      "surface": "אֱלֹהֵ֣י",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "יִשְׁעֵ֑נוּ",
+      "gloss": "na tserinmu"
+    },
+    {
+      "surface": "מִבְטָ֥ח",
+      "gloss": "mafakar"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dkan"
+    },
+    {
+      "surface": "קַצְוֵי",
+      "gloss": "ƙarshen"
+    },
+    {
+      "surface": "אֶ֝֗רֶץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "וְיָ֣ם",
+      "gloss": "da teku"
+    },
+    {
+      "surface": "רְחֹקִֽים",
+      "gloss": "masu nisa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:57:44.136389541Z",
+  "model": "glm-5.2"
+}

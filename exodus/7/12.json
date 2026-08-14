@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "domin kowane ya jefa sandarsa, suka zama macizai, amma sandar Aharon ta hadiyar ⟨את⟩ sandocinsu.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "suka jefa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "sandarsa"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "suka zama"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "macizai"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "ta hadiyar"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sandar"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandocinsu"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "sandocinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:32:29.892175568Z",
+  "model": "glm-5.2"
+}

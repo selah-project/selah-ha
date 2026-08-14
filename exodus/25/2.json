@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Faɗa ga ɗiyai Isra'el, su kuma su riƙe mini gudumawa; daga ⟨את⟩ kowane mutum da zuciyarsa ta tura shi, ku riƙe ⟨את⟩ gudumawata.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Faɗa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'el"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "su kuma su riƙe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mini"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "gudumawa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "daga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "ta tura shi"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zuciyarsa"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ku riƙe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gudumawata"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "gudumawata"
+    }
+  ],
+  "timestamp": "2026-08-12T01:09:35.752818500Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Ga shi, kai ka ji abin da sarakunan Ashshur suka yi wa duka ƙasashe don halaka su, kuma ⟨ne⟩ kai za a tsira?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ga shi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ka ji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sarakunan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wa duka"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "ƙasashe"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "don halaka su"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kuma kai"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "za a tsira"
+    }
+  ],
+  "timestamp": "2026-08-12T12:33:03.671509353Z",
+  "model": "glm-5.2"
+}

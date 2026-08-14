@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Yahweh, da'ãwarKa ce ka tsayar da dũtar ta a matsayin ƙarfi, Ka ɓoye fuskarKa, na tsõrone.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "da'ãwarKa"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "ka tsayar da"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "dũtar ta"
+    },
+    {
+      "surface": "עז",
+      "gloss": "a matsayin ƙarfi"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "Ka ɓoye"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuskarKa"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "na"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "tsõrone"
+    }
+  ],
+  "timestamp": "2026-08-12T19:32:43.221037346Z",
+  "model": "glm-5.2"
+}

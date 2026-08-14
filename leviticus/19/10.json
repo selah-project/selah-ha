@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma gonar inabarka kada ka zubar da gyalen, kuma 'ya'yan inabi da suka fada na gonar inabarka kada ka tona; ga matalauci da kuma baƙo sai ka bar ⟨את⟩ su, ni ni Yahweh, Elohiminku.",
+  "tokens": [
+    {
+      "surface": "וְכַרְמְךָ֙",
+      "gloss": "Kuma gonar inabarka"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תְעוֹלֵ֔ל",
+      "gloss": "ka zubar da gyalen"
+    },
+    {
+      "surface": "וּפֶ֥רֶט",
+      "gloss": "kuma 'ya'yan inabi da suka fada"
+    },
+    {
+      "surface": "כַּרְמְךָ֖",
+      "gloss": "na gonar inabarka"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תְלַקֵּ֑ט",
+      "gloss": "ka tona"
+    },
+    {
+      "surface": "לֶֽעָנִ֤י",
+      "gloss": "ga matalauci"
+    },
+    {
+      "surface": "וְלַגֵּר֙",
+      "gloss": "da kuma baƙo"
+    },
+    {
+      "surface": "תַּעֲזֹ֣ב",
+      "gloss": "sai ka bar"
+    },
+    {
+      "surface": "אֹתָ֔ם",
+      "gloss": "⟨את⟩ su",
+      "marks": "su"
+    },
+    {
+      "surface": "אֲנִ֖י",
+      "gloss": "ni ni"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶֽם",
+      "gloss": "Elohiminku"
+    }
+  ],
+  "timestamp": "2026-08-12T02:25:30.364290765Z",
+  "model": "glm-5.2"
+}

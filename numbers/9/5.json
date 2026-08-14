@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma suka yi ⟨את⟩ Pesah a ⟨cikin⟩ na farko, a cikin kwana goma sha huɗu ⟨na⟩ watan, tsakanin maraice, a cikin hamadar Sinai; a duk abin da Yahweh ya umurci ⟨את⟩ Moshe, haka suka yi ⟨bene⟩ Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Kuma suka yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "a ⟨cikin⟩ na farko"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "a cikin kwana huɗu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sha"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "⟨na⟩ watan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "maraice"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a cikin hamadar"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨bene⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T03:39:03.745987211Z",
+  "model": "glm-5.2"
+}

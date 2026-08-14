@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Da ⟨את⟩ rawanin linan, da ⟨את⟩ ƙawunan huluna na linan, da ⟨את⟩ wando na linan da aka dora, na linan da aka juye.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Da ⟨את⟩"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "rawanin"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "ƙawunan"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "huluna"
+    },
+    {
+      "surface": "שש",
+      "gloss": "na linan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "wando"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "na linan"
+    },
+    {
+      "surface": "שש",
+      "gloss": "da aka dora"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "na linan da aka juye"
+    }
+  ],
+  "timestamp": "2026-08-12T01:40:07.473644847Z",
+  "model": "glm-5.2"
+}

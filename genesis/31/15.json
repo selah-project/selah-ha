@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Ba ya ɗauke mu a matsayin baƙi, domin ya saye mu, kuma ya cinye ⟨את⟩ azurfarmu gaba ɗaya?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "a matsayin baki"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "ya dauke mu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "ya saye mu"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "kuma ya cinye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gaba daya"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "cinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azurfarmu"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "azurfarmu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:01:29.366033074Z",
+  "model": "glm-5.2"
+}

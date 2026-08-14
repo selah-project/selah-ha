@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 29:24",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma ka saka duka a kan lakkōshen Aharon da a kan lakkōshen ɗiyansa, kuma ka dadaƙe ⟨את⟩ su — madauki a gaban Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Kuma ka saka"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "lakkōshen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da a kan"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "lakkōshen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɗiyansa"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "kuma ka dadaƙe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "madauki"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:15:09.163397303Z",
+  "model": "glm-5.2"
+}

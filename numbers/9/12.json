@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Ba za su bar ⟨ko da ƙaɗan⟩ daga gare shi har safe, kuma ƙashi ba za su karya ⟨a ciki⟩ ba; a cikar dukkan dokar Pesach za su yi ⟨את⟩ shi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ba za su bar"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "⟨bar⟩"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare shi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "safe"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "kuma ƙashi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba za su karya"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "⟨karya⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨a ciki⟩"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "a cikar dukkan"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "dokar"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "za su yi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    }
+  ],
+  "timestamp": "2026-08-12T03:42:35.149742501Z",
+  "model": "glm-5.2"
+}

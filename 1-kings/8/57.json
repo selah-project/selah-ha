@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-kings 8:57",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Yahweh, Elohim na mu, ya kasance ⟨tare⟩ da mu, kamar yadda ya kasance tare da ubannin mu; kada Ya bar mu, kuma kada Ya watsar da mu.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na mu"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "⟨tare⟩ da mu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ubannin mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "Ya bar mu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "יטשנו",
+      "gloss": "Ya watsar da mu"
+    }
+  ],
+  "timestamp": "2026-08-12T11:09:54.618109447Z",
+  "model": "glm-5.2"
+}

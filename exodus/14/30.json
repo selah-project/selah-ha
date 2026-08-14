@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma Yahweh ya ceci Yisra'el a wannan rana ⟨daga⟩ hannun Mitsrayim, kuma Yisra'el ya ga ⟨את⟩ Mitsrayim sun mutu a bakin ⟨cokalin⟩ teku.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Kuma ya ceci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "waccan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "kuma ya ga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מת",
+      "gloss": "sun mutu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "bakin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "tekun"
+    }
+  ],
+  "timestamp": "2026-08-13T01:44:56.131806273Z",
+  "model": "glm-5.2"
+}

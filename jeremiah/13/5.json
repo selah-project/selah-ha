@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Don haka na tafi, kuma na ɓoye shi a Perath, kamar yadda Yahweh ya umurce ⟨את⟩ ni.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "kuma na tafi"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "kuma na ɓoye shi"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "a Perath"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ni"
+    }
+  ],
+  "timestamp": "2026-08-13T02:12:04.114481886Z",
+  "model": "glm-5.2"
+}

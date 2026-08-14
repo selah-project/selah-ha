@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kada ka ji tsôronsu, ka tuna ka tuna abin da Yahweh, Elohimka, ya yi wa ⟨את⟩ Parʻo da kuma duka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "לֹ֥א",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תִירָ֖א",
+      "gloss": "ka ji tsôro"
+    },
+    {
+      "surface": "מֵהֶ֑ם",
+      "gloss": "daga gare su"
+    },
+    {
+      "surface": "זָכֹ֣ר",
+      "gloss": "ka tuna"
+    },
+    {
+      "surface": "תִּזְכֹּ֗ר",
+      "gloss": "ka tuna"
+    },
+    {
+      "surface": "אֵ֤ת",
+      "gloss": "⟨את⟩",
+      "marks": "abin da"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "עָשָׂה֙",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶ֔יךָ",
+      "gloss": "Elohimka"
+    },
+    {
+      "surface": "לְפַרְעֹ֖ה",
+      "gloss": "wa Parʻo"
+    },
+    {
+      "surface": "וּלְכָל",
+      "gloss": "da kuma duka"
+    },
+    {
+      "surface": "מִצְרָֽיִם",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T05:05:49.539025132Z",
+  "model": "glm-5.2"
+}

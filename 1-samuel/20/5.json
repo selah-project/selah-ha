@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 20:5",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Sa'anan kuma Dawuda ya ce ga Yehonatan: Ga shi, gobe ⟨ne⟩ sabon wata, kuma ni zan zauna tare da sarki don cin abinci; ka bar ni in ɓuya cikin danya har zuwa maraice na uku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "sabon wata"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "gobe"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "zauna"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "zan zauna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "don cin abinci"
+    },
+    {
+      "surface": "ושלחתני",
+      "gloss": "ka bar ni"
+    },
+    {
+      "surface": "ונסתרתי",
+      "gloss": "inan ɓuya"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "cikin danya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "maraice"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "na uku"
+    }
+  ],
+  "timestamp": "2026-08-12T09:21:26.965778573Z",
+  "model": "glm-5.2"
+}

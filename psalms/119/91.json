@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Don hukuncinka, ⟨suka⟩ tsaya a yau; domin duka bayinka ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "לְֽ֭מִשְׁפָּטֶיךָ",
+      "gloss": "Don hukuncinka"
+    },
+    {
+      "surface": "עָמְד֣וּ",
+      "gloss": "⟨suka⟩ tsaya"
+    },
+    {
+      "surface": "הַיּ֑וֹם",
+      "gloss": "a yau"
+    },
+    {
+      "surface": "כִ֖י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הַכֹּ֣ל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "עֲבָדֶֽיךָ",
+      "gloss": "bayinka ⟨ne⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:43:54.512459146Z",
+  "model": "glm-5.2"
+}

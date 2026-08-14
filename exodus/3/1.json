@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma Moshe yana kiwon ⟨את⟩ gādon Yitro surukinsa, firist na Midyan, kuma ya jagoranci ⟨את⟩ gādon baya ⟨da⟩ hamada, kuma ya zo tūdun Elohim, Horeva.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Kuma Moshe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yana"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kiwon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gādon"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "gādon"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "surukinsa"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "firist"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "kuma ya jagoranci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gādon"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "gādon"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "baya"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "hamada"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kuma ya zo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tūdun"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tūdun"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "Horeva"
+    }
+  ],
+  "timestamp": "2026-08-12T00:30:53.477273795Z",
+  "model": "glm-5.2"
+}

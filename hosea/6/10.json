@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 6:10",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "A cikin ⟨bayan⟩ Baiti na ISra'ila na ga abin tsoro; a can akwai karuwanci na Efrayim, ISra'ila ya ɓata.",
+  "tokens": [
+    {
+      "surface": "בְּבֵית֙",
+      "gloss": "A cikin ⟨bayan⟩ Baiti"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "na ISra'ila"
+    },
+    {
+      "surface": "רָאִ֖יתִי",
+      "gloss": "na ga"
+    },
+    {
+      "surface": "שעריריה",
+      "gloss": "abin tsoro"
+    },
+    {
+      "surface": "שָׁ֚ם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "זְנ֣וּת",
+      "gloss": "karuwanci"
+    },
+    {
+      "surface": "לְאֶפְרַ֔יִם",
+      "gloss": "na Efrayim"
+    },
+    {
+      "surface": "נִטְמָ֖א",
+      "gloss": "ya ɓata"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "ISra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T18:08:15.025308698Z",
+  "model": "glm-5.2"
+}

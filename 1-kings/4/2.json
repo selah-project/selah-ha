@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma waɗannan ⟨su ne⟩ mashawartan da ke wurinsa: Azaryahu ɗan Tsadok, ⟨shi ne⟩ kohen.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kuma waɗannan"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "mashawarta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ke wurinsa"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azaryahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    }
+  ],
+  "timestamp": "2026-08-12T10:57:41.325334721Z",
+  "model": "glm-5.2"
+}

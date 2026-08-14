@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 3:20",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Don me ake bada haske ga wajen mai ciki, da kuma rayuwa ga masu jin dɗi a rai?",
+  "tokens": [
+    {
+      "surface": "לָ֤מָּה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "יִתֵּ֣ן",
+      "gloss": "ake bada"
+    },
+    {
+      "surface": "לְעָמֵ֣ל",
+      "gloss": "ga wajen mai ciki"
+    },
+    {
+      "surface": "א֑וֹר",
+      "gloss": "haske"
+    },
+    {
+      "surface": "וְ֝חַיִּ֗ים",
+      "gloss": "da kuma rayuwa"
+    },
+    {
+      "surface": "לְמָ֣רֵי",
+      "gloss": "ga masu jin"
+    },
+    {
+      "surface": "נָֽפֶשׁ",
+      "gloss": "rai"
+    }
+  ],
+  "timestamp": "2026-08-12T21:38:51.158086440Z",
+  "model": "glm-5.2"
+}

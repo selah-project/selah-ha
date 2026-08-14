@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Jama'a suka watse a duk ƙasar Mitsrayim domin su tattara gãya ⟨a maimakon⟩ damma.",
+  "tokens": [
+    {
+      "surface": "וַיָּפֶץ",
+      "gloss": "suka watse"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "Jama'a"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לְקֹשֵׁשׁ",
+      "gloss": "domin su tattara"
+    },
+    {
+      "surface": "קַשׁ",
+      "gloss": "gãya"
+    },
+    {
+      "surface": "לַתֶּבֶן",
+      "gloss": "⟨a maimakon⟩ damma"
+    }
+  ],
+  "timestamp": "2026-08-13T03:02:20.988926315Z",
+  "model": "glm-5.2"
+}

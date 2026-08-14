@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma Moshe ya yi ⟨את⟩ motoci ⟨את⟩ da shanu, ya kuma bayar dasu ga ʟewiyawa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Kuma Moshe ya yi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motoci"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "motoci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ da",
+      "marks": "shanu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ya kuma bayar"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ su"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ʟewiyawa"
+    }
+  ],
+  "timestamp": "2026-08-12T03:29:39.867775531Z",
+  "model": "glm-5.2"
+}

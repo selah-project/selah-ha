@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "A rana ta Shabbat, a kowace rana ta Shabbat, za a tsara shi a gaban Yahweh dore ⟨daga⟩ ⟨אֵת⟩ banī Isra'īla — alkawari madawwami.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "A rana ta"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a kowace rana ta"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "za a tsara shi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "dore"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "banī Isra'īla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "banī"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'īla"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alkawari"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "madawwami"
+    }
+  ],
+  "timestamp": "2026-08-12T02:48:48.721602242Z",
+  "model": "glm-5.2"
+}

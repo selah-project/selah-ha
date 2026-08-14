@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Mosheh ya tafi, ya yi magana da ⟨את⟩ waɗannan kalmomi ga duka Isra'ila.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ya yi magana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waɗannan kalmomi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kalmomi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T05:55:09.936197695Z",
+  "model": "glm-5.2"
+}

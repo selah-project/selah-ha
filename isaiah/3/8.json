@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Dõmin Urushalima ta buɗe, kuma Yehuda ya fãɗo; dõmin harshensu da ayyukansu ⟨suna⟩ a kan Yahweh, don tãka tsagi ga idãnunɗaukakken sunansa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "ta buɗe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Urushalima"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "kuma Yehuda"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ya fãɗo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "harshensu"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "da ayyukansu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "don tãka tsagi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "idãnu"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ɗaukakken sunansa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:58:21.750709770Z",
+  "model": "glm-5.2"
+}

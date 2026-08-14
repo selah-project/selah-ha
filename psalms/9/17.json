@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Ya bayyana Yahweh, ⟨ya⟩ yi ⟨hukunci⟩; a cikin aikin hannayensa an kama mugun ⟨mutum⟩. Higgaion. Selah.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "ya bayyana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨hukunci⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨ya⟩ yi"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "a cikin aikin"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "hannayensa"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "an kama"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mugun ⟨mutum⟩"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higgaion"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T19:20:10.559996338Z",
+  "model": "glm-5.2"
+}

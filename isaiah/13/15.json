@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Duk wanda aka same za a caka masa shi, kuma duk wanda aka kama za ya faɗi ⟨a⟩ cikin takobi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Duk"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "wanda aka same"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "za a caka masa shi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma duk"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "wanda aka kama"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "za ya faɗi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "⟨a⟩ cikin takobi"
+    }
+  ],
+  "timestamp": "2026-08-12T13:14:03.241862594Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Shi ne ya gina ⟨את⟩ Eilot, ya mayar da ita ga Yehuda, a bayan da sarki ya kwanta tare da iyayensa.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ya gina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eilot"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Eilot"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "ya mayar da ita"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ga Yehuda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "a bayan"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ya kwanta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "iyayensa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:52:52.691420987Z",
+  "model": "glm-5.2"
+}

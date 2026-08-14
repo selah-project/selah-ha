@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Tsare kai, ka kada ka manta ⟨את⟩ Yahweh, wanda Ya fitar da ka daga ƙasar Mitsrayim, daga gidan bayi.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "tsare kai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kada ka"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "manta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "Ya fitar da ka"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "daga gidan"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bayi"
+    }
+  ],
+  "timestamp": "2026-08-12T05:03:00.229102821Z",
+  "model": "glm-5.2"
+}

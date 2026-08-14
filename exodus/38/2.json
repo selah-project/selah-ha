@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 38:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Kuma ya yi ƙahonansa a kan kusannensa huɗu; daga gare shi ne ⟨suka kasance⟩ ƙahonansa, kuma ya rufe shi da ⟨farantin⟩ tagulla.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ƙahonansa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "huɗu"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "kusannensa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare shi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "suka kasance"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ƙahonansa"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "kuma ya rufe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi (altar ɗin)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tagulla"
+    }
+  ],
+  "timestamp": "2026-08-12T01:36:06.197801716Z",
+  "model": "glm-5.2"
+}

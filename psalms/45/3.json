@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Ka fi kyau ⟨ne⟩ daga ɗiy'an adam, an zuba ⟨ne⟩ alheri a kan leɓun ka, saboda haka Elohim ya sanyi wa albarka ⟨ne⟩ har abada.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "ka fi kyau"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "daga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ɗiy'an adam"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "an zuba"
+    },
+    {
+      "surface": "חן",
+      "gloss": "alheri"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "a kan leɓun ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "ya sanyi wa albarka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-13T03:08:10.979002783Z",
+  "model": "glm-5.2"
+}

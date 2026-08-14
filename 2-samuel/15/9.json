@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma sarki ya ce masa, \"Ka tafi cikin salama.\" Kuma ⟨ya tashi⟩, ya tafi Ḥebron.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ka tafi"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "cikin salama"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "Kuma ya tashi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "Ḥebron"
+    }
+  ],
+  "timestamp": "2026-08-12T10:20:20.149548477Z",
+  "model": "glm-5.2"
+}

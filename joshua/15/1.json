@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 15:1",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Sa'anan kuma ⟨an rabo⟩ kati ne ga ƙabilar ɓangaren Yahuda, ga iyalansu, har zuwa iyaka ta Edom, hamada ta Tsin, ne a kudu, daga ƙarshen kudu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Sa'anan kuma ⟨an rabo⟩"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "kati"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ga ƙabilar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓangaren"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ga iyalansu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "iyaka"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "hamada"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Tsin"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ne a kudu"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "daga ƙarshen"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "kudu"
+    }
+  ],
+  "timestamp": "2026-08-12T06:42:21.460535776Z",
+  "model": "glm-5.2"
+}

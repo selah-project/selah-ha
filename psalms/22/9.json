@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "“Ka jefa ⟨a kan⟩ Yahweh, ya bari Ya tsince shi, ya tsare shi, domin yana nẽsa lɗabi a cikinsa.”",
+  "tokens": [
+    {
+      "surface": "גֹּ֣ל",
+      "gloss": "Ka jefa"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨a kan⟩"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יְפַלְּטֵ֑הוּ",
+      "gloss": "ya bari Ya tsince shi"
+    },
+    {
+      "surface": "יַ֝צִּילֵ֗הוּ",
+      "gloss": "ya tsare shi"
+    },
+    {
+      "surface": "כִּ֘י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "חָ֥פֵֽץ",
+      "gloss": "yana nẽsa lɗabi"
+    },
+    {
+      "surface": "בּֽוֹ",
+      "gloss": "a cikinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:26:20.245135656Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 35:6",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Kuma ku yanka Pesah, kuma ku tsarkaka kanku, kuma ku shirya ga 'yan'uwanku, don su yi a cewar kalmar Yahweh da hannun Mosheh.",
+  "tokens": [
+    {
+      "surface": "ושחטו",
+      "gloss": "kuma ku yanka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesah",
+      "marks": "Pesah"
+    },
+    {
+      "surface": "והתקדשו",
+      "gloss": "kuma ku tsarkaka kanku"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "kuma ku shirya"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "ga 'yan'uwanku"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "don su yi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "a cewar kalmar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "da hannun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:00.711862282Z",
+  "model": "glm-5.2"
+}

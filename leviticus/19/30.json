@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "⟨את⟩ Asabarina kuke kiyaye, kuma masallacina kuke girmamawa; ni ne Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asabarina"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Asabarina"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "kuke kiyaye"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "kuma masallacina"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kuke girmamawa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T02:36:19.803047961Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma Yahweh ya ce wa Mosheh, \"Me kake kururuwa Mini? Ka faɗa wa banana Isra'ila su tafi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Me"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "kake kururuwa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Mini"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ka faɗa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "banana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "su tafi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:49:27.954131686Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 77,
+  "translation": "Ruwa sun gan ka, Elohim, ruwa sun gan ka; sun yi rawa, har ma taskoki sun girgiza.",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "sun gan ka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "sun gan ka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "sun yi rawa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "har ma"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "sun girgiza"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "taskoki"
+    }
+  ],
+  "timestamp": "2026-08-12T20:07:28.891587465Z",
+  "model": "glm-5.2"
+}

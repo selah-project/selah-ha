@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Kuma suka yi hadaya ⟨את⟩ ƴaƴansu da ⟨את⟩ ƴaƴansu mata ga aljannu masu cutarwa.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "Kuma suka yi hadaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴaƴansu"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ƴaƴansu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƴaƴansu mata"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ƴaƴansu mata"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "ga aljannu masu cutarwa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:30:05.949074431Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 149,
+  "translation": "Faɗuɗa Yah! Ku rera wa Yahweh waƙa ta sabuwa, yabẽ shi a cikin taron masu tawali'u.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Faɗuɗa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Ku rera wa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "waƙa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ta sabuwa"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "yabẽ shi"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "a cikin taron"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "masu tawali'u"
+    }
+  ],
+  "timestamp": "2026-08-12T21:00:01.524114936Z",
+  "model": "glm-5.2"
+}

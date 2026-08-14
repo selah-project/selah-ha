@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 1:3",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma ⟨ya faru⟩ a cikin shekara ta arba'in, a wata na goma sha ɗaya, a rana ta ɗaya ⟨na⟩ watan, Moshe ya faɗa wa ʾyaʾyan ʾYisra'el, gwargwadon dukkan abin da Yahweh ya umurce ⟨את⟩ ⟨shi⟩ ⟨don ya faɗa musu⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ⟨ya faru⟩"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "a cikin shekara ta arba'in"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "a wata na goma sha"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "wata"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "a rana ta ɗaya"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "⟨na⟩ watan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ʾyaʾyan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ʾYisra'el"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "gwargwadon dukkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨shi⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "⟨don ya faɗa musu⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T04:53:23.712714425Z",
+  "model": "glm-5.2"
+}

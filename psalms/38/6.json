@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Sun yi wari, sun ruɗe, ƙwararanꞌina, saboda wãtãcena.",
+  "tokens": [
+    {
+      "surface": "הִבְאִ֣ישׁוּ",
+      "gloss": "Sun yi wari"
+    },
+    {
+      "surface": "נָמַקּ֭וּ",
+      "gloss": "sun ruɗe"
+    },
+    {
+      "surface": "חַבּוּרֹתָ֑י",
+      "gloss": "ƙwararanꞌina"
+    },
+    {
+      "surface": "מִפְּנֵ֗י",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "אִוַּלְתִּֽי",
+      "gloss": "wãtãcena"
+    }
+  ],
+  "timestamp": "2026-08-12T19:40:42.131873544Z",
+  "model": "glm-5.2"
+}

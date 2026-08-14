@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Sai ka shiga wajen sarki, ka kuma yi magana da shi kamar wannan magana.\" Sai Yoav ya sanya ⟨את⟩ kalmomin a bakinta.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "Sai ka shiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wajen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ka kuma yi magana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "da shi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ya sanya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalmomin"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "a bakinta"
+    }
+  ],
+  "timestamp": "2026-08-12T10:18:36.195410852Z",
+  "model": "glm-5.2"
+}

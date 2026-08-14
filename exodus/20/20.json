@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma Mosheh ya ce wa mutãnen, Kada ku ji tsõro, domin don gwada ku ne Elohim Ya zo, kuma domin tsõronsu Ya kasance a gaban ku, domin kada ku yi zunubi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ku ji tsõro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "don"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "gwada"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku",
+      "marks": "ku"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Ya zo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "kuma domin"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "Ya kasance"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "tsõronsu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "gaban ku"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "domin kada"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "ku yi zunubi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:56:48.497257847Z",
+  "model": "glm-5.2"
+}

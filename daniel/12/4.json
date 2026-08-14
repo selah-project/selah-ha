@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 12:4",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma kai, Daniel, ka ɓoye waɗannan kalmomi, kuma ka shaida littafin har zuwa lokacin ƙarshe; da yawa za su gudu-larẽwa, kuma ilimi zai yawaita.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kuma kai"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "סתם",
+      "gloss": "ka ɓoye"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "waɗannan kalmomi"
+    },
+    {
+      "surface": "וחתם",
+      "gloss": "kuma ka shaida"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "littafin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "lokacin"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ƙarshe"
+    },
+    {
+      "surface": "ישטטו",
+      "gloss": "za su gudu-larẽwa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "ותרבה",
+      "gloss": "kuma zai yawaita"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "ilimi"
+    }
+  ],
+  "timestamp": "2026-08-12T23:23:15.381520030Z",
+  "model": "glm-5.2"
+}

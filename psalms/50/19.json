@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 50:19",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "Bakin ka ka tura zuwa sharri, kuma harshen ka ya ɗora zagi.",
+  "tokens": [
+    {
+      "surface": "פיך",
+      "gloss": "bakinka"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "ka tura"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "zuwa sharri"
+    },
+    {
+      "surface": "ולשונך",
+      "gloss": "harshen ka"
+    },
+    {
+      "surface": "תצמיד",
+      "gloss": "ya ɗora"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "zagi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:47:22.278296938Z",
+  "model": "glm-5.2"
+}

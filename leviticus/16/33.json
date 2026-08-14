@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "kuma yana yin fansa ⟨את⟩ tsarkin tsarki, da ⟨את⟩ damit tarawa, kuma ⟨a kan⟩ ⟨altar ɗin⟩ yana yin fansa; kuma ⟨a kan⟩ firistoci, da kuma ⟨a kan⟩ dukkan al'ummar taruwā, yana yin fansa.",
+  "tokens": [
+    {
+      "surface": "וְכִפֶּר",
+      "gloss": "kuma yana yin fansa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tsarkin tsarki"
+    },
+    {
+      "surface": "מִקְדַּשׁ",
+      "gloss": "tsarkin"
+    },
+    {
+      "surface": "הַקֹּדֶשׁ",
+      "gloss": "tsarki"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "da ⟨את⟩",
+      "marks": "damit tarawa"
+    },
+    {
+      "surface": "אֹהֶל",
+      "gloss": "dami"
+    },
+    {
+      "surface": "מוֹעֵד",
+      "gloss": "tarawa"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "kuma ⟨a kan⟩ ⟨את⟩",
+      "marks": "altar ɗin"
+    },
+    {
+      "surface": "הַמִּזְבֵּחַ",
+      "gloss": "altar ɗin"
+    },
+    {
+      "surface": "יְכַפֵּר",
+      "gloss": "yana yin fansa"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "kuma ⟨a kan⟩"
+    },
+    {
+      "surface": "הַכֹּהֲנִים",
+      "gloss": "firistoci"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "da kuma ⟨a kan⟩"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "al'ummar"
+    },
+    {
+      "surface": "הַקָּהָל",
+      "gloss": "taruwā"
+    },
+    {
+      "surface": "יְכַפֵּר",
+      "gloss": "yana yin fansa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:22:00.000939260Z",
+  "model": "glm-5.2"
+}

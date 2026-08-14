@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 109,
+  "translation": "Kuma ni na kasance ⟨a zama⟩ wulakanci gare su; sun gan ni, sun girgiza kawunansu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kuma ni"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "na kasance"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "wulakanci"
+    },
+    {
+      "surface": "להם",
+      "gloss": "gare su"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "sun gan ni"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "sun girgiza"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "kawunansu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:36:15.725195551Z",
+  "model": "glm-5.2"
+}

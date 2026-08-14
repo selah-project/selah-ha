@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Yahweh, nuna mini hanyarka, kuma ka shiryar da ni a hanyar madaidaici, saboda masu bijirewa.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "nuna mini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "hanyarka"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "kuma ka shiryar da ni"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "a hanyar"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "madaidaici"
+    },
+    {
+      "surface": "למען",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "masu bijirewa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:24:24.233460841Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Qohelet ya nemi ya sami kalmomi na natsuwar zuciya, kuma abin da aka rubuta ya kasance da daidaito — kalmomi na gaskiya.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "ya nemi"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ya sami"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalmomi"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "na natsuwar zuciya"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "kuma abin da aka rubuta"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ya kasance da daidaito"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalmomi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "na gaskiya"
+    }
+  ],
+  "timestamp": "2026-08-12T22:50:54.254932244Z",
+  "model": "glm-5.2"
+}

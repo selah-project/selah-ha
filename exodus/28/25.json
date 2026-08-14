@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 28:25",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "⟨את⟩ Kuma ⟨אֵת⟩ biyun daga ƙarshen igiyoyin biyu za ka sanya a saman waɗannan furen zinare biyu, kuma za ka sanya su a kan kugadun ephod ɗin zuwa gaban gefensa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ Kuma ⟨אֵת⟩",
+      "marks": "biyun"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "daga ƙarshen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "igiyoyin"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "za ka sanya"
+    },
+    {
+      "surface": "על",
+      "gloss": "a saman"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "המשבצות",
+      "gloss": "waɗannan furen zinare"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "kuma za ka sanya"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כתפות",
+      "gloss": "kugadun"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ephod ɗin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מול",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "gefensa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:16:01.370741256Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Sai mutanen suka ɗauka daga abincinsu, ⟨amma⟩ ⟨את⟩ baki na Yahweh ba su tambaya ba.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Sai suka ɗauka"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "daga abincinsu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baki"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "su tambaya"
+    }
+  ],
+  "timestamp": "2026-08-12T06:26:49.386734794Z",
+  "model": "glm-5.2"
+}

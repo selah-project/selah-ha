@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kasarku ⟨ta⟩ zama hamada, biraninku an ƙone su da wuta; ƙasarku a gaban ku baƙi suna cin ⟨את⟩ ta, kuma ⟨ta⟩ zama kamar rusasshiyar baƙi.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "kasarku"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "hamada"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "biraninku"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "an ƙone su"
+    },
+    {
+      "surface": "אש",
+      "gloss": "da wuta"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "ƙasarku"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "a gaban ku"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "baƙi"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "suna cin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ta (ƙasarku)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "kuma ⟨ta⟩ zama"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "kamar rusasshiyar"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "baƙi"
+    }
+  ],
+  "timestamp": "2026-08-12T12:56:13.152049319Z",
+  "model": "glm-5.2"
+}

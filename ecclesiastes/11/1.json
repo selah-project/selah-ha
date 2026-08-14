@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Aika fulawarka a kan fuskar ruwan, domin cikin yawaita kwanina zaka same ⟨shi⟩.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Aika"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "fulawarka"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskar"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "cikin yawaita"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kwanina"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "zaka same ⟨shi⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T02:35:42.054742438Z",
+  "model": "glm-5.2"
+}

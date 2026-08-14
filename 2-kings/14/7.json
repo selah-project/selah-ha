@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 14:7",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Shi ne ya doke ⟨את⟩ Edom a cikin Kwarin Gishiri, goma dubu, ya kuma kame ⟨את⟩ Sela a yaƙi, ya kuma kira ⟨את⟩ sunanta Joktheel, har zuwa wannan yini.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Shi ne"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ya doke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "a cikin Kwarin"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Gishiri"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "goma"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "ותפש",
+      "gloss": "ya kuma kame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sela"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "a yaƙi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ya kuma kira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunanta"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sunanta"
+    },
+    {
+      "surface": "יקתאל",
+      "gloss": "Joktheel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "wannan yini"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-12T12:25:12.401601699Z",
+  "model": "glm-5.2"
+}

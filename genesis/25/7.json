@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 25:7",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma waɗannan kwana-nin sheƙu-nuwar rayuwar Avraham, wanda ya rayu, ⟨sune⟩ ɗari shekara da saba'in shekara da biyar sheƙaru.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kuma waɗannan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwana-nin"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sheƙu-nuwar"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "rayuwar"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ya rayu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "da saba'in"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "da biyar"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sheƙaru"
+    }
+  ],
+  "timestamp": "2026-08-11T23:48:25.002440637Z",
+  "model": "glm-5.2"
+}

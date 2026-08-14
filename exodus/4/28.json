@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Musa ya faɗa wa Aharon ⟨את⟩ dukan kalmomin Yahweh waɗanda Ya aiko shi da su, da ⟨kuma⟩ ⟨את⟩ dukan alamun da Ya umurce shi da su.",
+  "tokens": [
+    {
+      "surface": "וַיַּגֵּ֤ד",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "מֹשֶׁה֙",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "לְאַֽהֲרֹ֔ן",
+      "gloss": "wa Aharon"
+    },
+    {
+      "surface": "אֵ֛ת",
+      "gloss": "⟨את⟩",
+      "marks": "dukan kalmomin"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "דִּבְרֵ֥י",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "שְׁלָח֑וֹ",
+      "gloss": "Ya aiko shi da su"
+    },
+    {
+      "surface": "וְאֵ֥ת",
+      "gloss": "⟨kuma⟩ ⟨את⟩",
+      "marks": "dukan alamun"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "הָאֹתֹ֖ת",
+      "gloss": "alamun"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "צִוָּֽהוּ",
+      "gloss": "Ya umurce shi da su"
+    }
+  ],
+  "timestamp": "2026-08-12T00:34:21.933155551Z",
+  "model": "glm-5.2"
+}

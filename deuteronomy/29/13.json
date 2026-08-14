@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma ba ⟨את⟩ ⟨tare⟩ da ku kawai ne ni inake yankewa ⟨את⟩ ⟨alkawarin⟩ wannan da ⟨את⟩ ⟨la'anar⟩ wannan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kuma ba"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨tare⟩ da ku"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "kawai"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "inake yankewa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alkawarin"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "alkawarin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "la'anar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la'anar"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-12T05:48:22.684543911Z",
+  "model": "glm-5.2"
+}

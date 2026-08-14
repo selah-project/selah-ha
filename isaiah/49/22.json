@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 49:22",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Haka Adonai Yahweh ya ce: Ga shi, zan ɗora hannuNa zuwa ga al'ummai, kuma zuwa ga ƙasashe in ɗauki alamaNa, kuma za su kawo ɗiyanka a cikin kyanduna, kuma 'yarka a kugadanku za a ɗauke su.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "haka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "zan ɗora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "al'ummai"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hannuNa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma zuwa ga"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ƙasashe"
+    },
+    {
+      "surface": "ארים",
+      "gloss": "in ɗauki"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "alamaNa"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "kuma za su kawo"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ɗiyanka"
+    },
+    {
+      "surface": "בחצן",
+      "gloss": "a cikin kyanduna"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "kuma 'yarka"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "kugadanku"
+    },
+    {
+      "surface": "תנשאנה",
+      "gloss": "za a ɗauke su"
+    }
+  ],
+  "timestamp": "2026-08-12T14:20:43.591039068Z",
+  "model": "glm-5.2"
+}

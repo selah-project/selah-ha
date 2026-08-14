@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 3:33",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma sarki ya yi wa Abner makoki, ya ce: \"Kamar mutuwar wani mutum maras hankali ne Abner ya mutu?\"",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "Kuma ya yi wa...makoki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "הכמות",
+      "gloss": "kamar mutuwar"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "wani mutum maras hankali"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ya mutu"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    }
+  ],
+  "timestamp": "2026-08-12T09:54:47.115643290Z",
+  "model": "glm-5.2"
+}

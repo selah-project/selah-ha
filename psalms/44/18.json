@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Duk wannan ⟨ne⟩ ya same mu, kuma ba mu manta da kai ba, kuma ba mun yi ƙarya ⟨ba⟩ cikin alkawarin ka.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "ya same mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "mu manta da kai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "mun yi ƙarya"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "cikin alkawarin ka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:44:37.056015892Z",
+  "model": "glm-5.2"
+}

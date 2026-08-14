@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma dattijan Isra'ila duk suka zo, kuma Laɗiyyawa suka ɗauki ⟨את⟩ akwatin.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "kuma suka zo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "dattijan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "kuma suka ɗauki"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Laɗiyyawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "akwatin"
+    }
+  ],
+  "timestamp": "2026-08-13T02:41:12.567154368Z",
+  "model": "glm-5.2"
+}

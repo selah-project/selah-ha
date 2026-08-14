@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma ya gina ⟨את⟩ ɗakin da'ira a kan duka gida, tsayinsa ⟨ne⟩ ƙafafu biyar; kuma ya ɗaure ⟨את⟩ gida da itacen cedar.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "kuma ya gina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗakin da'ira"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "ɗakin da'ira"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "biyar"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ƙafafu"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "tsayinsa"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "kuma ya ɗaure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gida"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "da itacen"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedar"
+    }
+  ],
+  "timestamp": "2026-08-12T11:00:49.638655431Z",
+  "model": "glm-5.2"
+}

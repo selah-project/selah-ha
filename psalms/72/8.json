@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 72,
+  "translation": "Kuma yana mulki daga tekun ⟨har⟩ zuwa tekun, kuma daga kogin ⟨har⟩ zuwa ƙarshen ƙasa.",
+  "tokens": [
+    {
+      "surface": "וְ֭יֵרְדְּ",
+      "gloss": "kuma yana mulki"
+    },
+    {
+      "surface": "מִיָּ֣ם",
+      "gloss": "daga tekun"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "⟨har⟩ zuwa"
+    },
+    {
+      "surface": "יָ֑ם",
+      "gloss": "tekun"
+    },
+    {
+      "surface": "וּ֝מִנָּהָ֗ר",
+      "gloss": "kuma daga kogin"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "⟨har⟩ zuwa"
+    },
+    {
+      "surface": "אַפְסֵי",
+      "gloss": "ƙarshen"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:02:55.449936764Z",
+  "model": "glm-5.2"
+}

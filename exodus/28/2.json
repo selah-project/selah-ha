@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Kuma za ka yi tufafin tsarkaka ga Aharon ɗan'uwanka, domin daraja da kyautuwa.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "kuma za ka yi"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "tufafin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsarkaka"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ga Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ɗan'uwanka"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "domin daraja"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "da kyautuwa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:11:21.857156250Z",
+  "model": "glm-5.2"
+}

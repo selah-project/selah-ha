@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Amma ni, a cikin chesedɗinka na dogara, zuciyata za ta yi murna a cikin yaƙuƙanka. Ina raira waƙa ga Yahweh, domin ya kyautata min.",
+  "tokens": [
+    {
+      "surface": "וַאֲנִ֤י",
+      "gloss": "amma ni"
+    },
+    {
+      "surface": "בְּחַסְדְּךָ֣",
+      "gloss": "a cikin chesedɗinka"
+    },
+    {
+      "surface": "בָטַחְתִּי֮",
+      "gloss": "na dogara"
+    },
+    {
+      "surface": "יָ֤גֵ֥ל",
+      "gloss": "za ta yi murna"
+    },
+    {
+      "surface": "לִבִּ֗י",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "בִּֽישׁוּעָ֫תֶ֥ךָ",
+      "gloss": "a cikin yaƙuƙanka"
+    },
+    {
+      "surface": "אָשִׁ֥ירָה",
+      "gloss": "ina raira waƙa"
+    },
+    {
+      "surface": "לַיהוָ֑ה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "גָמַ֣ל",
+      "gloss": "ya kyautata"
+    },
+    {
+      "surface": "עָלָֽי",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-08-12T19:19:51.798607747Z",
+  "model": "glm-5.2"
+}

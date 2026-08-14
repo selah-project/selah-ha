@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Da fatan ⟨ne⟩ hanyoyina za a daidaita su don in kiyaye dokokinka.",
+  "tokens": [
+    {
+      "surface": "אַ֭חֲלַי",
+      "gloss": "Da fatan"
+    },
+    {
+      "surface": "יִכֹּ֥נוּ",
+      "gloss": "za a daidaita su"
+    },
+    {
+      "surface": "דְרָכָ֗י",
+      "gloss": "hanyoyina"
+    },
+    {
+      "surface": "לִשְׁמֹ֥ר",
+      "gloss": "don in kiyawe"
+    },
+    {
+      "surface": "חֻקֶּֽיךָ",
+      "gloss": "dokokinka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:40:40.726930760Z",
+  "model": "glm-5.2"
+}

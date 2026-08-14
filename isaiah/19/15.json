@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma ba za a yi wa Mitsrayim kowana aiki ba, wanda kai ko wutsiya, gushen dabino ko ciyawa za ta iya yi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "za a yi"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "wa Mitsrayim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "kowane aiki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "za ta iya yi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kai"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "ko wutsiya"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "gushen dabino"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "ko ciyawa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:08:03.491367802Z",
+  "model": "glm-5.2"
+}

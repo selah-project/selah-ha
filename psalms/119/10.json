@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Da dukkan zuciyata na neme ka, kada ka bani tuntuɓar daga cikin dokokinka.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Da duk"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "na neme ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "ka bani tuntuɓar"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "daga cikin dokokinka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:42:09.172727809Z",
+  "model": "glm-5.2"
+}

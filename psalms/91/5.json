@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 91,
+  "translation": "Ba za ka ji tsoro ba daga tsoron dare, ⟨ko⟩ daga kibiya da ke tashi yawo a rana.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "za ka ji tsoro"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "daga tsoron"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "dare"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "daga kibiya"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "da ke tashi yawo"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "a rana"
+    }
+  ],
+  "timestamp": "2026-08-12T20:21:07.550647809Z",
+  "model": "glm-5.2"
+}

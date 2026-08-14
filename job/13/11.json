@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Ba haka ba ⟨ce⟩, tsayuwarsa za ta firgita ⟨את⟩ ku, kuma tsoratarsa za ta faɗa a kanku?",
+  "tokens": [
+    {
+      "surface": "הֲלֹ֣א",
+      "gloss": "Ba haka ba"
+    },
+    {
+      "surface": "שְׂ֭אֵתוֹ",
+      "gloss": "⟨ce⟩ tsayuwarsa"
+    },
+    {
+      "surface": "תְּבַעֵ֣ת",
+      "gloss": "za ta firgita"
+    },
+    {
+      "surface": "אֶתְכֶ֑ם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "וּ֝פַחְדּ֗וֹ",
+      "gloss": "kuma tsoratarsa"
+    },
+    {
+      "surface": "יִפֹּ֥ל",
+      "gloss": "za ta faɗa"
+    },
+    {
+      "surface": "עֲלֵיכֶֽם",
+      "gloss": "a kanku"
+    }
+  ],
+  "timestamp": "2026-08-12T21:48:37.912132682Z",
+  "model": "glm-5.2"
+}

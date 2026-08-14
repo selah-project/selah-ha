@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 136,
+  "translation": "Ku gode wa Adonai na ubanni, domin chesed ⟨nasa⟩ har abada.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Ku gode wa"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai na"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "ubanni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed ⟨nasa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:53:15.183407454Z",
+  "model": "glm-5.2"
+}

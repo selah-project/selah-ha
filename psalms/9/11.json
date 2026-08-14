@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma su dogara gare ⟨ka⟩ masu sanin sunanka, domin ba ka barin masu neman ⟨ka⟩, Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "kuma su dogara"
+    },
+    {
+      "surface": "בך",
+      "gloss": "gare ⟨ka⟩"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "masu sanin"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunanka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "ka barin"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "masu neman ⟨ka⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T19:19:14.919081446Z",
+  "model": "glm-5.2"
+}

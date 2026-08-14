@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma Shamuwel bai rigaya ya san ⟨את⟩ Yahweh ba, ko kalmar Yahweh ba ta rigaya an bayyana mata gare shi ba.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "kuma Shamuwel"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "bai rigaya"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ya san"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "ko ba ta rigaya"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "an bayyana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mata gare shi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalmar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T08:32:49.603585417Z",
+  "model": "glm-5.2"
+}

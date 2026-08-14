@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 42:9",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Kuma Yosef ya tuna ⟨את⟩ mafarkai da ya yi mafarkinsu, kuma ya ce musu, \"Kuna leƙen asiri ne; don kallon tsirar ƙasar ne kuka zo.\"",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "Kuma ya tuna"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafarkai"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "mafarkai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "ya yi mafarkinsu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "leƙen asiri"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "don kallon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsirar ƙasar"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "tsirar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "kuka zo"
+    }
+  ],
+  "timestamp": "2026-08-12T00:14:28.647761193Z",
+  "model": "glm-5.2"
+}

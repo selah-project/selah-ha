@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 18:3",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Dawuda ya kuma ci ⟨את⟩ Hadadezer sarkin Ƨoba, ⟨har⟩ Hamata, a tafiyarsa don ya dora hannunsa ⟨a⟩ kogin Furat.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ya kuma ci"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Ƨoba"
+    },
+    {
+      "surface": "חמתה",
+      "gloss": "⟨har⟩ Hamata"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "a tafiyarsa"
+    },
+    {
+      "surface": "להציב",
+      "gloss": "don ya dora"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hannunsa"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "⟨a⟩ kogin"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Furat"
+    }
+  ],
+  "timestamp": "2026-08-13T00:19:02.543684304Z",
+  "model": "glm-5.2"
+}

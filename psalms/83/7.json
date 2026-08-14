@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 83,
+  "translation": "Palalan Edom da Isma'ilawa, Moab da Hagarawa;",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "Palalan"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "da Isma'ilawa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "da Hagarawa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:11:53.476444379Z",
+  "model": "glm-5.2"
+}

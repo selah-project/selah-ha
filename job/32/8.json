@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 32:8",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Amma shi ne ruhu ⟨a⟩ cikin mutum, kuma numfashin Shaddai ya sa su fahimta.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "amma"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "shi ne"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "⟨a⟩ cikin mutum"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "numfashin"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "תבינם",
+      "gloss": "ya sa su fahimta"
+    }
+  ],
+  "timestamp": "2026-08-12T22:09:14.146815154Z",
+  "model": "glm-5.2"
+}

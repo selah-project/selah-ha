@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 8:7",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Domin Yahweh Elohiminka Yana kai ka zuwa ƙasa mai kyau — ƙasar magudanan ruwa, masu sha da ƙwari masu zurfi, da ke fitowa cikin ƙwari da kuma cikin tsaunuka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminka"
+    },
+    {
+      "surface": "מביאך",
+      "gloss": "Yana kai ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "magudanan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "עינת",
+      "gloss": "masu sha"
+    },
+    {
+      "surface": "ותהמת",
+      "gloss": "da ƙwari masu zurfi"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "da ke fitowa"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "cikin ƙwari"
+    },
+    {
+      "surface": "ובהר",
+      "gloss": "da kuma cikin tsaunuka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:11:40.399519063Z",
+  "model": "glm-5.2"
+}

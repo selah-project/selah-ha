@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Duk wanda ya yi wa rai mugun tamkar, a idanun shaidu ⟨ne⟩ a kashe mai-kisan; kuma shaida ɗaya ba za ta yi shaida a kan rai ⟨don⟩ a mutu ba.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Duk"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "wanda ya yi wa... mugun tamkar"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rai"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "a idanun"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "shaidu"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "a kashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mai-kisan"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "mai-kisan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kuma shaida"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "za ta yi shaida"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "a kan rai"
+    },
+    {
+      "surface": "למות",
+      "gloss": "don a mutu"
+    }
+  ],
+  "timestamp": "2026-08-12T04:48:38.373734522Z",
+  "model": "glm-5.2"
+}

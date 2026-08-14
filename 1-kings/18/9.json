@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma ⟨ya⟩ ce, mē na yi laifi, cewa kai kana bãwa ⟨את⟩ bārinka a hannun Ahab don kashe ni?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ⟨ya⟩ ce"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mē"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "na yi laifi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kana bãwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bārinka"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bārinka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "a hannun"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "don kashe ni"
+    }
+  ],
+  "timestamp": "2026-08-12T11:37:30.844638417Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Yehoshua ya yi maka waƙaƙƙen duhu, ya kuma yi wa'ƙa ⟨את⟩ 'ya'yan Yisra'ela a Giv'at Ha'aralot.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Yehoshua ya yi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maka"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "waƙaƙƙen"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "duhu"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "ya kuma yi wa'ƙa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'ya'yan Yisra'ela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'ela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Giv'at"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "Ha'aralot"
+    }
+  ],
+  "timestamp": "2026-08-12T06:17:12.850736226Z",
+  "model": "glm-5.2"
+}

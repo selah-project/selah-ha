@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 16:12",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma na sanya zoben hanci a hancinḵi, da maƙullan kunne a kunnenḵi, kuma kambin ƙawa a kan kanḵi.",
+  "tokens": [
+    {
+      "surface": "וָאֶתֵּ֥ן",
+      "gloss": "kuma na sanya"
+    },
+    {
+      "surface": "נֶ֨זֶם֙",
+      "gloss": "zoben hanci"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אַפֵּ֔ךְ",
+      "gloss": "hancinḵi"
+    },
+    {
+      "surface": "וַעֲגִילִ֖ים",
+      "gloss": "da maƙullan kunne"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אָזְנָ֑יִךְ",
+      "gloss": "kunnenḵi"
+    },
+    {
+      "surface": "וַעֲטֶ֥רֶת",
+      "gloss": "kambi"
+    },
+    {
+      "surface": "תִּפְאֶ֖רֶת",
+      "gloss": "na ƙawa"
+    },
+    {
+      "surface": "בְּרֹאשֵֽׁךְ",
+      "gloss": "a kan kanḵi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:16:03.902082701Z",
+  "model": "glm-5.2"
+}

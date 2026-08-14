@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 145,
+  "translation": "Yahweh yana Kiyaye ⟨את⟩ duk waɗanda suke sonSa, kuma ⟨את⟩ dukkan miyãgunu zai Halaka.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "yana Kiyaye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duk waɗanda suke sonSa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "waɗanda suke sonSa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan miyãgunu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "miyãgunu"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "zai Halaka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:58:30.062300555Z",
+  "model": "glm-5.2"
+}

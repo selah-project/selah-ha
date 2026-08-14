@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 115,
+  "translation": "Yahweh ya ƙara muku, ku da kuma ƙwannan ku.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "Ya ƙara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "muku"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da kuma"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ƙwannan ku"
+    }
+  ],
+  "timestamp": "2026-08-12T20:38:15.595069737Z",
+  "model": "glm-5.2"
+}

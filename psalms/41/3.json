@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Yahweh zai tsare sh, kuma zai raya sh; ya sa ya zama mai albarka a ƙasa, kuma kada ka ba sh ga merin sunan maƙiyansa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "zai tsare sh"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "kuma zai raya sh"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "ya sa ya zama mai albarka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "ka ba sh"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ga merin sunan"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "maƙiyansa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:42:39.708711263Z",
+  "model": "glm-5.2"
+}

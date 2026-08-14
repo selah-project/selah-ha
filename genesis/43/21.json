@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 43:21",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Kuma ⟨ya faru⟩, lokacin da muka zo wurin masauqi, muka buɗe ⟨את⟩ jaka mu, kuma ga shĩ, azurar kowane mutum tana cikin bakiwar jakarsa, azurar mu cikin ma'auninsa; muka mayar da ⟨את⟩ ⟨sh⟩ a hannunmu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ⟨ya faru⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lokacin da"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "muka zo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wurin"
+    },
+    {
+      "surface": "המלון",
+      "gloss": "masauqi"
+    },
+    {
+      "surface": "ונפתחה",
+      "gloss": "muka buɗe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jaka mu"
+    },
+    {
+      "surface": "אמתחתינו",
+      "gloss": "jaka mu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kuma ga shĩ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "azurar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "tana cikin bakiwar"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "jakarsa"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "azurar mu"
+    },
+    {
+      "surface": "במשקלו",
+      "gloss": "cikin ma'auninsa"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "muka mayar da"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨sh⟩",
+      "marks": "a hannunmu"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "a hannunmu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:17:30.068745733Z",
+  "model": "glm-5.2"
+}

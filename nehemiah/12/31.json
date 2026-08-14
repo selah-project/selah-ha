@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 12:31",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma na sa ⟨את⟩ shugabannin Yahuda su hau sama da bango, na kuma tsayar da ƙungiyoyin godiya guda biyu manya, da jerin gwano zuwa dama, sama da bango, zuwa ƙofar Toka.",
+  "tokens": [
+    {
+      "surface": "ואעלה",
+      "gloss": "kuma na sa su hau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shugabannin"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "shugabannin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sama da"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "ואעמידה",
+      "gloss": "na kuma tsayar da"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "guda biyu"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "ƙungiyoyin godiya"
+    },
+    {
+      "surface": "גדולת",
+      "gloss": "manya"
+    },
+    {
+      "surface": "ותהלכת",
+      "gloss": "da jerin gwano"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "zuwa dama"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sama da"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "zuwa ƙofar"
+    },
+    {
+      "surface": "האשפת",
+      "gloss": "Toka"
+    }
+  ],
+  "timestamp": "2026-08-12T23:51:33.420485433Z",
+  "model": "glm-5.2"
+}

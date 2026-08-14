@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma saniya da bear za su kiwo tare, 'ya'yansu za su kwanta tare, kuma zaki kamar shanu zai ci straw.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "kuma saniya"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "da bear"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "za su kiwo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tare"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "za su kwanta"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "'ya'yansu"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "kuma zaki"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "kamar shanu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zai ci"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "straw"
+    }
+  ],
+  "timestamp": "2026-08-12T13:17:25.378026075Z",
+  "model": "glm-5.2"
+}

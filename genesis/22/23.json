@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma Betu'el ya haifa ⟨את⟩ Ribka; waɗannan takwas ne Milkah ta haifa wa Najor, ɗan'uwan Avraham.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "Kuma Betu'el"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ribka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ribka"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "takwas"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ta haifa"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milkah"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "wa Najor"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ɗan'uwan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-08-11T23:42:05.976999775Z",
+  "model": "glm-5.2"
+}

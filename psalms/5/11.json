@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Ka amshe musu laifi, Elohim; su fado daga shawarwari nasu; ka kore su cikin yawaitatun tawayensu, domin sun tona maka rigima.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "ka amshe musu laifi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "su fado"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "daga shawarwari nasu"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "cikin yawaitatun"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "tawayensu"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "ka kore su"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "sun tona maka rigima"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨an saka shi a cikin 'kara'⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T19:12:53.498426994Z",
+  "model": "glm-5.2"
+}

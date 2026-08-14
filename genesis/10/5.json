@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Daga waɗannan, tsibirai ⟨na⟩ ƙasashe sun rabu cikin ƙasashensu, kowane mutum a cikin yarensa, a cikin iyalansu, cikin ƙasashensu.",
+  "tokens": [
+    {
+      "surface": "מֵאֵלֶּה",
+      "gloss": "daga waɗannan"
+    },
+    {
+      "surface": "נִפְרְדוּ",
+      "gloss": "sun rabu"
+    },
+    {
+      "surface": "אִיֵּי",
+      "gloss": "tsibirai"
+    },
+    {
+      "surface": "הַגּוֹיִם",
+      "gloss": "⟨na⟩ ƙasashe"
+    },
+    {
+      "surface": "בְּאַרְצֹתָם",
+      "gloss": "cikin ƙasashensu"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "לִלְשֹׁנוֹ",
+      "gloss": "a cikin yarensa"
+    },
+    {
+      "surface": "לְמִשְׁפְּחֹתָם",
+      "gloss": "a cikin iyalansu"
+    },
+    {
+      "surface": "בְּגוֹיֵהֶם",
+      "gloss": "cikin ƙasashensu"
+    }
+  ],
+  "timestamp": "2026-08-11T23:27:46.277889118Z",
+  "model": "glm-5.2"
+}

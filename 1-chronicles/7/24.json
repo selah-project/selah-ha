@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma 'yarsa ⟨ce⟩ Sheerah; kuma ta gina ⟨את⟩ Bet-Horon ƙarami da ⟨את⟩ babba, da ⟨את⟩ Uzzen-Sheerah.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "kuma 'yarsa"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheerah"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "kuma ta gina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Horon ƙarami"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "ƙarami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "babba"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "babba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Uzzen-Sheerah"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzzen"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheerah"
+    }
+  ],
+  "timestamp": "2026-08-13T00:04:12.809869637Z",
+  "model": "glm-5.2"
+}

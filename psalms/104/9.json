@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 104,
+  "translation": "Í geometric bauniyan da ⟨ba⟩ za su wuce, ⟨ba⟩ za su koma su rufe ⟨את⟩ ƙasar.",
+  "tokens": [
+    {
+      "surface": "גְּֽבוּל",
+      "gloss": "bauniya"
+    },
+    {
+      "surface": "שַׂ֭מְתָּ",
+      "gloss": "ka aza"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "⟨ba⟩"
+    },
+    {
+      "surface": "יַֽעֲבֹר֑וּן",
+      "gloss": "za su wuce"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "⟨ba⟩"
+    },
+    {
+      "surface": "יְ֝שׁוּב֗וּן",
+      "gloss": "za su koma"
+    },
+    {
+      "surface": "לְכַסּ֥וֹת",
+      "gloss": "su rufe"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "ƙasar"
+    }
+  ],
+  "timestamp": "2026-08-12T20:25:04.726289861Z",
+  "model": "glm-5.2"
+}

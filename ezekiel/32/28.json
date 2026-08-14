@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 32:28",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Kai kuma, a tsakiyar waɗanda ba a kaci za a lalace ka, kuma za ka kwanta tare da ⟨את⟩ waɗanda aka kashe da takobi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kai kuma"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "a tsakiyar"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "waɗanda ba a kaci"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "za a lalace ka"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "kuma za ka kwanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waɗanda aka kashe da takobi"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "waɗanda aka kashe"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "da takobi"
+    }
+  ],
+  "timestamp": "2026-08-12T17:39:10.721732119Z",
+  "model": "glm-5.2"
+}

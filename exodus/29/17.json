@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma ⟨את⟩ daiƙin ka ɗora shi guntu-guntu, kuma ka wanke cikinsa da ƙafafunsa, kaka saka akan guntu-gantunsa da kansa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Kuma ⟨את⟩",
+      "marks": "daiƙin"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "daiƙin"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "ka ɗora shi guntu-guntu"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "guntu-gantunsa"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "kaka wanke"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "cikinsa"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "da ƙafafunsa"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "kaka saka"
+    },
+    {
+      "surface": "על",
+      "gloss": "akan"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "guntu-gantunsa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da akan"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kansa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:17:46.845668885Z",
+  "model": "glm-5.2"
+}

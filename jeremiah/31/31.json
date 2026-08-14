@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Ga shi, kwanaki suna zuwa, maganar Yahweh, kuma na yanke ⟨את⟩ al'amar da ⟨gida⟩ na Yisra'el da ⟨את⟩ ⟨gida⟩ na Yehuda, sabuwar al'amar.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "באים",
+      "gloss": "suna zuwa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "maganar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "kuma na yanke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al'amar da gida na Yisra'el"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gida na Yehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "al'amar"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "sabuwar"
+    }
+  ],
+  "timestamp": "2026-08-12T16:00:12.438418685Z",
+  "model": "glm-5.2"
+}

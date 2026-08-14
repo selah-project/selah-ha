@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma Mosheh da Aharon suka yi, kamar yadda Yahweh ya umurce su, haka suka yi.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֥עַשׂ",
+      "gloss": "Kuma suka yi"
+    },
+    {
+      "surface": "מֹשֶׁ֖ה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "וְאַהֲרֹ֑ן",
+      "gloss": "da Aharon"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֨ר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צִוָּ֧ה",
+      "gloss": "ya umurce"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֹתָ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "כֵּ֥ן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "עָשֽׂוּ",
+      "gloss": "suka yi"
+    }
+  ],
+  "timestamp": "2026-08-13T01:46:25.695908245Z",
+  "model": "glm-5.2"
+}

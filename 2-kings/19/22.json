@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 19:22",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "⟨את⟩ wa ka yi wa wulãki, kuma ka raina, kuma a kan wa ka ɗaukaka murya, kuma ka tãwo idãnunka zuwa sama, ⟨a⟩ kan Tsarkin Isra'ila?",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "wa"
+    },
+    {
+      "surface": "מִ֤י",
+      "gloss": "wa"
+    },
+    {
+      "surface": "חֵרַ֨פְתָּ֙",
+      "gloss": "ka yi wa wulãki"
+    },
+    {
+      "surface": "וְגִדַּ֔פְתָּ",
+      "gloss": "kuma ka raina"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "kuma a kan"
+    },
+    {
+      "surface": "מִ֖י",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הֲרִימֹ֣תָ",
+      "gloss": "ka ɗaukaka"
+    },
+    {
+      "surface": "ק֑וֹל",
+      "gloss": "murya"
+    },
+    {
+      "surface": "וַתִּשָּׂ֥א",
+      "gloss": "kuma ka tãwo"
+    },
+    {
+      "surface": "מָר֛וֹם",
+      "gloss": "zuwa sama"
+    },
+    {
+      "surface": "עֵינֶ֖יךָ",
+      "gloss": "idãnunka"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "קָד֥וֹשׁ",
+      "gloss": "Tsarkin"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T12:40:09.242543218Z",
+  "model": "glm-5.2"
+}

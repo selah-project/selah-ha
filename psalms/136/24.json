@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 136,
+  "translation": "kuma ya tsage mu daga maƙiyanimu, domin har abada chesed ⟨nasa⟩.",
+  "tokens": [
+    {
+      "surface": "ויפרקנו",
+      "gloss": "kuma ya tsage mu"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "daga maƙiyanimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed ⟨nasa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:52:28.491653705Z",
+  "model": "glm-5.2"
+}

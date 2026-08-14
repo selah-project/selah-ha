@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 140,
+  "translation": "Shugaban ⟨waɗanda⟩ su kewaye ni, ⟨babban⟩ wahalar leɓunsu ta rufe su.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Shugaban"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "⟨waɗanda⟩ su kewaye ni"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "wahalar"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "leɓunsu"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "ta rufe su"
+    }
+  ],
+  "timestamp": "2026-08-12T20:53:39.718381693Z",
+  "model": "glm-5.2"
+}

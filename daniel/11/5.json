@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 11:5",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma sarkin kudu zai yi ƙarfi, kuma ɗaya daga cikin shugabanninsa, kuma zai yi ƙarfi a kansa, kuma zai yi mulki; mulkinsa zai zama babba, mulkinsa.",
+  "tokens": [
+    {
+      "surface": "וְיֶחֱזַ֥ק",
+      "gloss": "kuma zai yi ƙarfi"
+    },
+    {
+      "surface": "מֶֽלֶךְ",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "הַנֶּ֖גֶב",
+      "gloss": "kudu"
+    },
+    {
+      "surface": "וּמִן",
+      "gloss": "kuma daga"
+    },
+    {
+      "surface": "שָׂרָ֑יו",
+      "gloss": "shugabanninsa"
+    },
+    {
+      "surface": "וְיֶחֱזַ֤ק",
+      "gloss": "kuma zai yi ƙarfi"
+    },
+    {
+      "surface": "עָלָיו֙",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "וּמָשָׁ֔ל",
+      "gloss": "kuma zai yi mulki"
+    },
+    {
+      "surface": "מִמְשָׁ֥ל",
+      "gloss": "mulkinsa"
+    },
+    {
+      "surface": "רַ֖ב",
+      "gloss": "babba"
+    },
+    {
+      "surface": "מֶמְשַׁלְתּֽוֹ",
+      "gloss": "mulkinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T23:20:05.076854980Z",
+  "model": "glm-5.2"
+}

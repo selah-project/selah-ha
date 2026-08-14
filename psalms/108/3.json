@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 108,
+  "translation": "Tashi, gitar yanga da kurbiya; ni in tada asuba.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Tashi"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "gitar yanga"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "da kurbiya"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ni in tada"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "asuba"
+    }
+  ],
+  "timestamp": "2026-08-12T20:35:34.145213642Z",
+  "model": "glm-5.2"
+}

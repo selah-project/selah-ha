@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 44:18",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Ba su sani ba, kuma ba su fahimta ba, domin an shafa manja idanunsu ⟨don⟩ kada su gani, da zukatansu ⟨don⟩ kada su yi hankali.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "su sani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "su fahimta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "טח",
+      "gloss": "an shafa manja"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "idanunsu"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "⟨idanunsu⟩"
+    },
+    {
+      "surface": "מהשכיל",
+      "gloss": "kada su yi hankali"
+    },
+    {
+      "surface": "לבתם",
+      "gloss": "zukatansu"
+    }
+  ],
+  "timestamp": "2026-08-12T14:16:55.470651805Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 39:29",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Da ⟨את⟩ belin shesh mai minga, da ulu na tekhelet, da arghaman, da ulu na tola'at shani, aikin mai saɗa, kamar yadda Yahweh ya umurci ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ da",
+      "marks": "belin"
+    },
+    {
+      "surface": "האבנט",
+      "gloss": "belin"
+    },
+    {
+      "surface": "שש",
+      "gloss": "shesh"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "mai minga"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "da ulu na tekhelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "da arghaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "da tola'at"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shani"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "רקם",
+      "gloss": "mai saɗa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-12T01:41:31.190686222Z",
+  "model": "glm-5.2"
+}

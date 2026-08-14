@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 77,
+  "translation": "Kwarai guda, shin Adonai zai ƙi har abadā, kuma ba zai sake yin yarda ba har abadā?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "kwarai guda"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "shin ... zai ƙi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "zai sake"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "yin yarda"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "har abadā"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:25.556564146Z",
+  "model": "glm-5.2"
+}

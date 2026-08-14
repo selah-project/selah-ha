@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma daga kabilar ⟨na⟩ Yissaskar, ⟨את⟩ Qishyon da ⟨את⟩ makiyayanta, ⟨את⟩ Daberath da ⟨את⟩ makiyayanta.",
+  "tokens": [
+    {
+      "surface": "וּמִמַּטֵּ֣ה",
+      "gloss": "Kuma daga kabilar"
+    },
+    {
+      "surface": "יִשָּׂשכָ֔ר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Qishyon"
+    },
+    {
+      "surface": "קִשְׁי֖וֹן",
+      "gloss": "Qishyon"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "da ⟨את⟩",
+      "marks": "makiyayanta"
+    },
+    {
+      "surface": "מִגְרָשֶׁ֑הָ",
+      "gloss": "makiyayanta"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Daberath"
+    },
+    {
+      "surface": "דָּֽבְרַ֖ת",
+      "gloss": "Daberath"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "da ⟨את⟩",
+      "marks": "makiyayanta"
+    },
+    {
+      "surface": "מִגְרָשֶֽׁהָ",
+      "gloss": "makiyayanta"
+    }
+  ],
+  "timestamp": "2026-08-12T07:02:19.598448602Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Wanne ne wannan mutumin, wanda yake jin tsoron Yahweh? Shi zai koya masa hanya ⟨da⟩ zai zaɓa.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Wanne"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "wanda yake jin tsoron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "Shi zai koya masa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "zai zaɓa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:30:00.580231897Z",
+  "model": "glm-5.2"
+}

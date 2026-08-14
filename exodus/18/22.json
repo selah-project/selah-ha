@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 18:22",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma su yi ⟨את⟩ shari'a ⟨ga⟩ mutane a kowane lokaci, kuma ya zama kowane babban al'amari za su kawo ⟨a⟩ wurinka, kuma kowane ƙaramin al'amari su su yi shari'a, ⟨don⟩ sauƙaƙa ⟨wa⟩ kanku, kuma su ɗauki ⟨abu⟩ tare da ⟨את⟩ kai.",
+  "tokens": [
+    {
+      "surface": "וְשָׁפְטוּ",
+      "gloss": "Kuma su yi shari'a"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mutane"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "a kowane"
+    },
+    {
+      "surface": "עֵת",
+      "gloss": "lokaci"
+    },
+    {
+      "surface": "וְהָיָה",
+      "gloss": "kuma ya zama"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "kowace"
+    },
+    {
+      "surface": "הַדָּבָר",
+      "gloss": "al'amari"
+    },
+    {
+      "surface": "הַגָּדֹל",
+      "gloss": "babban"
+    },
+    {
+      "surface": "יָבִיאוּ",
+      "gloss": "za su kawo"
+    },
+    {
+      "surface": "אֵלֶיךָ",
+      "gloss": "a wurinka"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "kuma kowane"
+    },
+    {
+      "surface": "הַדָּבָר",
+      "gloss": "al'amari"
+    },
+    {
+      "surface": "הַקָּטֹן",
+      "gloss": "ƙaramin"
+    },
+    {
+      "surface": "יִשְׁפְּטוּ",
+      "gloss": "su yi shari'a"
+    },
+    {
+      "surface": "הֵם",
+      "gloss": "su"
+    },
+    {
+      "surface": "וְהָקֵל",
+      "gloss": "⟨don⟩ sauƙaƙa"
+    },
+    {
+      "surface": "מֵֽעָלֶיךָ",
+      "gloss": "wa kanku"
+    },
+    {
+      "surface": "וְנָשְׂאוּ",
+      "gloss": "kuma su ɗauki"
+    },
+    {
+      "surface": "אִתָּֽךְ",
+      "gloss": "⟨abu⟩ tare da ⟨את⟩ kai"
+    }
+  ],
+  "timestamp": "2026-08-13T04:03:14.559427801Z",
+  "model": "glm-5.2"
+}

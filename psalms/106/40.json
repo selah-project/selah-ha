@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Kuma fushin Yahweh ya ƙaru a kan mutanensa, kuma ya ƙi ⟨את⟩ gadoonsa.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Kuma ... ya ƙaru"
+    },
+    {
+      "surface": "אף",
+      "gloss": "fushin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "a kan mutanensa"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "kuma ya ƙi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gadoonsa"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "gadoonsa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:30:05.949595135Z",
+  "model": "glm-5.2"
+}

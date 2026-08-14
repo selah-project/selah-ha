@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Sa'an nan Shelomoh ya ce: \"Yahweh ya ce ⟨zai⟩ zauna a cikin duhu.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "sa'an nan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "⟨zai⟩ zauna"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "a cikin duhu"
+    }
+  ],
+  "timestamp": "2026-08-12T11:09:26.315900838Z",
+  "model": "glm-5.2"
+}

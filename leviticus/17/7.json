@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma kada su yanka ⟨את⟩ hadayoyinsu a ƙoƙari ga shanu masu gashi ba su rabu da su, wanda suke cin jima'i bayansu, wannan ⟨ce⟩ doka ta har abada zata zama a gare su, ga zuriyarsu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kuma kada"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "su yanka"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ba su rabu da su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadayoyinsu"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "hadayoyinsu"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "a ƙoƙari ga shanu masu gashi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "הם",
+      "gloss": "suke"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "cin jima'i"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "bayansu"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "doka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ta har abada"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zata zama"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a gare su"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ga zuriyarsu"
+    }
+  ],
+  "timestamp": "2026-08-12T02:31:27.577225235Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "sai yanzu ka raba ⟨את⟩ ƙasar ⟨a matsayin⟩ gado zuwa ga kabilu guda tara, da rabin kabilar Menashhe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "sai yanzu"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ka raba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "⟨a matsayin⟩ gado"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "kabilu guda tara"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "da rabin"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "kabilar"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Menashhe"
+    }
+  ],
+  "timestamp": "2026-08-12T06:40:50.539567015Z",
+  "model": "glm-5.2"
+}

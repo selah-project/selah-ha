@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Amma ni ma zuciyata ⟨na⟩ da shi kamar ku; ba ni fado ⟨daga⟩ kuku; kuma ⟨tare da⟩ ⟨את⟩ wañne ba shi da kamar wañannan?",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "Amma ni ma"
+    },
+    {
+      "surface": "לִ֤י",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "לֵבָ֨ב",
+      "gloss": "zuciya"
+    },
+    {
+      "surface": "כְּֽמוֹכֶ֗ם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba ni fado"
+    },
+    {
+      "surface": "נֹפֵ֣ל",
+      "gloss": "fado"
+    },
+    {
+      "surface": "אָנֹכִ֣י",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מִכֶּ֑ם",
+      "gloss": "kuku"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "wañne"
+    },
+    {
+      "surface": "מִי",
+      "gloss": "wañne"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "ba shi da"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "אֵֽלֶּה",
+      "gloss": "wañannan"
+    }
+  ],
+  "timestamp": "2026-08-12T21:50:05.195823185Z",
+  "model": "glm-5.2"
+}

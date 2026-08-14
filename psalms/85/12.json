@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 85,
+  "translation": "Gaskiya daga ƙasa za ta tsiro, kuma adalci daga sama yana duba ƙasa.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "gaskiya"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasa"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "za ta tsiro"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "kuma adalci"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "daga sama"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "yana duba ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:52.026536216Z",
+  "model": "glm-5.2"
+}

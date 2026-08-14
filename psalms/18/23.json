@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Dōmin dukkān hukuncīnSa sunā gābanī, kuma dokaṡanSa bā zā nī tura daga gare nī ba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dōmin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkān"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "hukuncīnSa"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "sunā gābanī"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "kuma dokaṡanSa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bā zā nī"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "tura"
+    },
+    {
+      "surface": "מני",
+      "gloss": "daga gare nī"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:35.470756439Z",
+  "model": "glm-5.2"
+}

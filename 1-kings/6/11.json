@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 6:11",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma ⟨akwai⟩ maganar Yahweh zuwa ga Shelomah ⟨ya ce⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "maganar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ya ce⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T11:00:49.638786408Z",
+  "model": "glm-5.2"
+}

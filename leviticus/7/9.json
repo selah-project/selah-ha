@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 7:9",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma kowane sadaka na hatsi ⟨da⟩ ake yin burodi a cikin tanda, da kowane ⟨da⟩ ake yinwa a cikin kwanon mirgine, da ⟨wanda⟩ a kan farantin gwangwani, ga kohen ⟨da⟩ yake kawo ⟨את⟩ ta — ta nasa za ta kasance.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "da kowane"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "sadaka na hatsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "ake yin burodi"
+    },
+    {
+      "surface": "בתנור",
+      "gloss": "a cikin tanda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da kowane"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ake yinwa"
+    },
+    {
+      "surface": "במרחשת",
+      "gloss": "a cikin kwanon mirgine"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da a kan"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "farantin gwangwani"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ga kohen"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "⟨da⟩ yake kawo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ta (sadaka)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ga nasa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "za ta kasance"
+    }
+  ],
+  "timestamp": "2026-08-12T01:47:45.167669835Z",
+  "model": "glm-5.2"
+}

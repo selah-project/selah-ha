@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 5:15",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma shugabannin 'ya'yan Yisra'el sun zo, sun yi kuka ga Par'oh, ⟨suna cewa⟩: \"Don me kake aikatawa haka ga bayinka?\"",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Kuma sun zo"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "shugabannin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "sun yi kuka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'oh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨suna cewa⟩"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Don me"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kake aikatawa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "haka"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "ga bayinka"
+    }
+  ],
+  "timestamp": "2026-08-12T00:35:48.985427025Z",
+  "model": "glm-5.2"
+}

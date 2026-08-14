@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 145,
+  "translation": "Yahweh yana ɗaukar ⟨nauyin⟩ dukkan waɗanda suka faɗi, kuma yana ɗaga dukkan waɗanda aka karkata.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "yana ɗaukar ⟨nauyin⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "waɗanda suka faɗi"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "kuma yana ɗaga"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "waɗanda aka karkata"
+    }
+  ],
+  "timestamp": "2026-08-12T20:58:36.362001244Z",
+  "model": "glm-5.2"
+}

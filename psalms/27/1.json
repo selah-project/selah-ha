@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Na Dawuda. Yahweh ⟨ne⟩ haskena kuma cetonawata — wa zan ji tsōro? Yahweh ⟨ne⟩ katangar râyata — wa zan gōdā?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Na Dawuda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "haskena"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "kuma cetonawata"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "zan ji tsōro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "katanga"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "râyata"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "zan gōdā"
+    }
+  ],
+  "timestamp": "2026-08-12T19:32:02.849793867Z",
+  "model": "glm-5.2"
+}

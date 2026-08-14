@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma game da kowane rai na wanda ya mutu, ba zai zo ba; ⟨don⟩ ubansa da ⟨don⟩ uwarsa ba zai ɗauke tsafi ba.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "kuma game da"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "rai"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wanda ya mutu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "zai zo"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "⟨don⟩ ubansa"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "⟨don⟩ uwarsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "zai ɗauke tsafi"
+    }
+  ],
+  "timestamp": "2026-08-12T02:44:33.391693587Z",
+  "model": "glm-5.2"
+}

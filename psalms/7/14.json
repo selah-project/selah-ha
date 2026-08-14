@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 7:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma dõminsa ya shirya kayan mutuwa; kibiyoyinsa ga waɗanda ke bin sa, ya yi aiki.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "Kuma dõminsa"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ya shirya"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kayan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mutuwa"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "kibiyoyinsa"
+    },
+    {
+      "surface": "לדלקים",
+      "gloss": "ga waɗanda ke bin sa"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "ya yi aiki"
+    }
+  ],
+  "timestamp": "2026-08-12T19:14:26.990388988Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 25:5",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Sa'an nan Dawuda ya aiko da samari goma, kuma Dawuda ya ce wa samaran: Ku hau Karmel, ku kuma je Nabal, ku tambaye shi da suna ta cewa ⟨a yi⟩ lafiya.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ya aiko da"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "goma"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "samari"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "לנערים",
+      "gloss": "wa samaran"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ku hau"
+    },
+    {
+      "surface": "כרמלה",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "ku kuma je"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "ושאלתם",
+      "gloss": "ku tambaye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "da suna ta"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "⟨a yi⟩ lafiya"
+    }
+  ],
+  "timestamp": "2026-08-12T09:34:19.665463201Z",
+  "model": "glm-5.2"
+}

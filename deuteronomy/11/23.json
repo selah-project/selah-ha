@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "sa'an nan Yahweh zai kore ⟨את⟩ dukkan wadannan al'ummai daga gabanku, kuma ku gārma al'ummai manya masu ƙarfi fiye da ku,",
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "sa'an nan zai kore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan wadannan al'ummai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "wadannan al'ummai"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wadannan"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "daga gabanku"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "kuma ku gārma"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "al'ummai"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "manya"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "masu ƙarfi"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "fiye da ku"
+    }
+  ],
+  "timestamp": "2026-08-12T05:12:15.286991503Z",
+  "model": "glm-5.2"
+}

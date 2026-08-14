@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Ɗana, ka kiyaye maganata, kuma umarnaina ka ajiye ⟨את⟩ ⟨a cikin⟩ kanka.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ɗana"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ka kiyaye"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "maganata"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "kuma umarnaina"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "ka ajiye"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "⟨a cikin⟩ kanka"
+    }
+  ],
+  "timestamp": "2026-08-12T21:09:09.914285698Z",
+  "model": "glm-5.2"
+}

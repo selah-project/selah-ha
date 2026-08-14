@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 62,
+  "translation": "A kan Elohim dogara tāḍā ta da ɗaukākā ta; dutse karfīna, mafākata ⟨ta⟩ a cikin Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "tāḍā ta"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "da ɗaukākā ta"
+    },
+    {
+      "surface": "צור",
+      "gloss": "dutse"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "karfīna"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mafākata"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "a cikin Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T19:55:42.967292509Z",
+  "model": "glm-5.2"
+}

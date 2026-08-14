@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 13:8",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Sa'anan Avram ya ce wa Lut: \"Bari, ina roƙonka, babu yaƙi tsakanina da kai, kuma tsakanin mafarana da mafaranka, domin maza 'yan'uwa ne mu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sa'anan … ya ce"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bari"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ina roƙonka"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "babu"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "yaƙi"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tsakanina"
+    },
+    {
+      "surface": "וביניך",
+      "gloss": "da kai"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "kuma tsakanin"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "mafarana"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "mafaranka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "maza"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "'yan'uwa ne"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-08-11T23:32:51.082159707Z",
+  "model": "glm-5.2"
+}

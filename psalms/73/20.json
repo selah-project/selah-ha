@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 73,
+  "translation": "Kamar mafarki na wanda ya tashi daga barci, haka ne, Adonai, a tayar da kai ⟨da⟩ kamansu, za ka raina.",
+  "tokens": [
+    {
+      "surface": "כַּחֲל֥וֹם",
+      "gloss": "kamar mafarki"
+    },
+    {
+      "surface": "מֵהָקִ֑יץ",
+      "gloss": "na wanda ya tashi daga barci"
+    },
+    {
+      "surface": "אֲ֝דֹנָי",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בָּעִ֤יר",
+      "gloss": "a tayar da kai"
+    },
+    {
+      "surface": "צַלְמָ֬ם",
+      "gloss": "kamansu"
+    },
+    {
+      "surface": "תִּבְזֶֽה",
+      "gloss": "za ka raina"
+    }
+  ],
+  "timestamp": "2026-08-12T20:05:18.940990134Z",
+  "model": "glm-5.2"
+}

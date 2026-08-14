@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma wani mutum daga zangin Lewi ya tafi, kuma ya auri ⟨את⟩ 'yar Lewi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Kuma ya tafi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wani mutum"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "daga zangin"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "kuma ya auri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'yar Lewi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "'yar"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:30:27.408027067Z",
+  "model": "glm-5.2"
+}

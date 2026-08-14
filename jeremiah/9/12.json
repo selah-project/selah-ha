@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma Yahweh ya ce: Domin sun bar ⟨את⟩ dokata da na sanya gaban su, kuma ba su saurari muryata, kuma ba su tafi a cikinta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "sun bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dokata"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "dokata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "na sanya"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "gaban su"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sauurari"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "muryata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "suka tafi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a cikinta"
+    }
+  ],
+  "timestamp": "2026-08-13T02:12:37.979550688Z",
+  "model": "glm-5.2"
+}

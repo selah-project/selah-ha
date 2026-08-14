@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 3:7",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ɗaʾen ʾIsra'el suka aikata ⟨את⟩ miyagun a idonun Yahweh, suka manta da ⟨את⟩ Yahweh, Elohim nasu, kuma suka bauta wa ⟨את⟩ Baʿal da ⟨את⟩ Ashira.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Kuma suka aikata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗaʾen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ʾIsra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miyagun"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "miyagun"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idonun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישכחו",
+      "gloss": "suka manta da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim nasu"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "kuma suka bauta wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baʿal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baʿal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Ashira"
+    },
+    {
+      "surface": "האשרות",
+      "gloss": "Ashira"
+    }
+  ],
+  "timestamp": "2026-08-12T07:11:44.558567744Z",
+  "model": "glm-5.2"
+}

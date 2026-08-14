@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma duk Yisra'ela sun sauka zuwa Pelishtiyawa, don su kaƙa kowane mutum ⟨את⟩ ƙwallon-fasansa da ⟨את⟩ gabansa da ⟨את⟩ gatariansa da ⟨את⟩ belinsa.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Kuma suka sauka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'ela"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "zuwa Pelishtiyawa"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "don su kaƙa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙwallon-fasansa"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "ƙwallon-fasansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "gabansa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "gabansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "gatariansa"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "gatariansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "belinsa"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "belinsa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:00:00.273338252Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 123,
+  "translation": "Nuna mana falala, Yahweh, nuna mana falala, domin muka cika girma da wulāntaŋa.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Nuna mana falala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "nuna mana falala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "רב",
+      "gloss": "muka cika girma"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "muka cika"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "da wulāntaŋa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:51:13.333844230Z",
+  "model": "glm-5.2"
+}

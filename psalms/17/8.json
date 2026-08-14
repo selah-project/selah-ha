@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Ka tsare ni kamar ɗanɗanon ido, a cikin inuwar fuka-fukanku ka ɓoye ni.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "ka tsare ni"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "kamar ɗanɗanon"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ido"
+    },
+    {
+      "surface": "עין",
+      "gloss": ""
+    },
+    {
+      "surface": "בצל",
+      "gloss": "a cikin inuwar"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "fuka-fukanku"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "ka ɓoye ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:22:03.507465458Z",
+  "model": "glm-5.2"
+}

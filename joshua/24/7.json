@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 24:7",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Suka kira zuwa ga Yahweh, kuma ya sanya duhu tsakaninku da mutanen Mitsrayim, kuma ya kawo teku a kansu, ya rufe su, idaninku suka ga ⟨את⟩ abin da na aikata a Mitsrayim, kuma kuka zauna a cikin hamada kwana da yawa.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "suka kira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kuma ya sanya"
+    },
+    {
+      "surface": "מאפל",
+      "gloss": "duhu"
+    },
+    {
+      "surface": "ביניכם",
+      "gloss": "tsakaninku"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "mutanen Mitsrayim"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kuma ya kawo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teku"
+    },
+    {
+      "surface": "הים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "ya rufe su"
+    },
+    {
+      "surface": "ותראינה",
+      "gloss": "suka ga"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "idaninku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "na aikata"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "a Mitsrayim"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "kuma kuka zauna"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a cikin hamada"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "da yawa"
+    }
+  ],
+  "timestamp": "2026-08-12T07:10:11.991967670Z",
+  "model": "glm-5.2"
+}

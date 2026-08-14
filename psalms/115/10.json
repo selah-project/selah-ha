@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 115,
+  "translation": "Ya gidan Aharon, ku dogara da Yahweh; taimakonsu ⟨ne⟩ ⟨kuma⟩ garkuwarsu ⟨shi⟩.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ku dogara"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "da Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "taimakonsu"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "⟨kuma⟩ garkuwarsu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ne⟩ ⟨shi⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:38:17.507835124Z",
+  "model": "glm-5.2"
+}

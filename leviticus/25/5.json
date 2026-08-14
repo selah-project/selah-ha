@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "⟨את⟩ abin da ya tsiro da kansa daga girbinka, kada ka girbe, kuma ⟨את⟩ 'ya'yan inabin da ba a kula da itacen, kada ka tattara; shekarar hutawa ta cikakkiya ⟨ce⟩ ga ƙasa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin da ya tsiro da kansa"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "abin da ya tsiro da kansa"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "girbinka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "ka girbe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "'ya'yan inabin"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "'ya'yan inabin"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "da ba a kula da itacen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "ka tattara"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "shekarar"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "hutawa ta cikakkiya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ce⟩"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ga ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:54:08.642331374Z",
+  "model": "glm-5.2"
+}

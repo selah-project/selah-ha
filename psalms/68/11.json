@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 68,
+  "translation": "Tarkarka ta zauna a cikinta; da nagewarka, sai ka shirya ⟨ga⟩ matalauci, ya Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "tarkarka"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ta zauna"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a cikinta"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "sai ka shirya"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "da nagewarka"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "⟨ga⟩ matalauci"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T20:01:14.572584103Z",
+  "model": "glm-5.2"
+}

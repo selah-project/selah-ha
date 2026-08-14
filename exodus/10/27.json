@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma Yahweh ya ƙarfafa ⟨את⟩ zuciyar Paroh, yadda ya ƙi sako su.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Kuma ya ƙarfafa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuciyar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciyar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yadda ba"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ya ƙi"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "sako su"
+    }
+  ],
+  "timestamp": "2026-08-12T00:41:08.862761711Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Sai ya ce wa ƴa'yansa mata, «Ina yake? Don me kuka bar ⟨את⟩ wancan mutumin? Ku kira shi, ya ci laɗabi.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sai ya ce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "ƴa'yansa mata"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "ina yake"
+    },
+    {
+      "surface": "למה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "kuka bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wancan mutumin"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wancan mutumin"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "ku kira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ya ci"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "laɗabi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:29:53.901224963Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 7:15",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Amma chesed na ba zai juye daga gare shi ba, kamar yadda na juye shi daga wajen Sha'ul, wanda na juye daga gabanka.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "amma chesed na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "zai juye"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare shi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "הסרתי",
+      "gloss": "na juye"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "daga wajen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "הסרתי",
+      "gloss": "na juye"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "daga gabanka"
+    }
+  ],
+  "timestamp": "2026-08-12T10:02:17.940753166Z",
+  "model": "glm-5.2"
+}

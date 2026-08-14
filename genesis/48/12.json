@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 48,
+  "translation": "Kuma Yosef ya fitar da ⟨אֵת⟩ su daga tsakanin gwiwoyunSA, ya kuma yi lallashi zuwa ƙasa a gabanSA.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Kuma ya fitar da"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "daga tsakanin"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "gwiwoyunSA"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ya kuma yi lallashi"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "a gabanSA"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "zuwa ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:22:16.008559151Z",
+  "model": "glm-5.2"
+}

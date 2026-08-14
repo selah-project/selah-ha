@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 39:9",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Da ⟨sai⟩ Nebuẓaradan, shugaban ⟨waɗanda⟩ ake kashewa, ya gudanar da gudun hijira zuwa Babel: ⟨את⟩ sauran al'ummar da ⟨suke⟩ a cikin birnin, da ⟨את⟩ waɗanda suka faɗi, waɗanda suka faɗi a kansa, da ⟨את⟩ sauran al'ummar da ⟨suke⟩ a cikin sajo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sauran"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "sauran"
+    },
+    {
+      "surface": "העם",
+      "gloss": "al'ummar"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "da suke"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a cikin birnin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "waɗanda suka faɗi"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "waɗanda suka faɗi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "suka faɗi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sauran"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "sauran"
+    },
+    {
+      "surface": "העם",
+      "gloss": "al'ummar"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "da suke a cikin sajo"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "ya gudanar da gudun hijira"
+    },
+    {
+      "surface": "נבוזר",
+      "gloss": "Nebuẓar"
+    },
+    {
+      "surface": "אדן",
+      "gloss": "adan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "⟨waɗanda⟩ ake kashewa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    }
+  ],
+  "timestamp": "2026-08-12T16:18:03.182365564Z",
+  "model": "glm-5.2"
+}

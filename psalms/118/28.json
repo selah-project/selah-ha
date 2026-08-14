@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 118,
+  "translation": "El ⟨na⟩ Kai ne, kuma zan gode maka; Elohim ⟨na⟩, zan ɗauka Kai tsaye.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai ne"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "kuma zan gode maka"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "zan ɗauka Kai tsaye"
+    }
+  ],
+  "timestamp": "2026-08-12T20:39:18.021816522Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma bayin ⟨na⟩ sarki waɗanda ke a ƙofar ⟨na⟩ sarki sun ce wa Mordekai: «Don me kake wuce ⟨את⟩ umarnin ⟨na⟩ sarki?»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "kuma sun ce"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bayin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda ke"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "a ƙofar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "wa Mordekai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "don me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "kake wuce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umarnin"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "umarnin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    }
+  ],
+  "timestamp": "2026-08-13T02:36:32.682984627Z",
+  "model": "glm-5.2"
+}

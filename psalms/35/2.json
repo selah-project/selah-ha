@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Dauko ⟨ta⟩ garkuwa da garkuwa-babba, kuma tashi zuwa taimakona.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "Dauko"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "garkuwa"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "da garkuwa-babba"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "kuma tashi"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "zuwa taimakona"
+    }
+  ],
+  "timestamp": "2026-08-12T19:37:40.031728032Z",
+  "model": "glm-5.2"
+}

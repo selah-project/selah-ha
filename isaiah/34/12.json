@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Sarakunan ba za su kasance a can a kira masarauta, kuma dukkan sarakunanta za su kasance babu komai.",
+  "tokens": [
+    {
+      "surface": "חריה",
+      "gloss": "sarakunan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ba za su kasance"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "masarauta"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "a kira"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma dukkan"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "sarakunanta"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "za su kasance"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "babu komai"
+    }
+  ],
+  "timestamp": "2026-08-12T13:52:44.144095003Z",
+  "model": "glm-5.2"
+}

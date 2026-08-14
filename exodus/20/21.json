@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma mutãnen sun tsaya a nesa, kuma Moshe ya kusa da haske-duhu, wanda a can Elohim yake.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Kuma sun tsaya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "a nesa"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "kuma Moshe"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "ya kusa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "haske-duhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:54:49.264187616Z",
+  "model": "glm-5.2"
+}

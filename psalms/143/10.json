@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 143,
+  "translation": "Ka kõya min yin ĩRanka, dõmin Kai ne Eloah na; Rũhanka ta alhẽri ta shiryar da ni a cikin ƙasar mĩshor.",
+  "tokens": [
+    {
+      "surface": "לַמְּדֵנִי",
+      "gloss": "Ka kõya min"
+    },
+    {
+      "surface": "לַעֲשׂוֹת",
+      "gloss": "yin"
+    },
+    {
+      "surface": "רְצוֹנְךָ",
+      "gloss": "ĩRanka"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "אֱלוֹהַי",
+      "gloss": "⟨ne⟩ Eloah na"
+    },
+    {
+      "surface": "רוּחֲךָ",
+      "gloss": "Rũhanka"
+    },
+    {
+      "surface": "טוֹבָה",
+      "gloss": "ta alhẽri"
+    },
+    {
+      "surface": "תַּנְחֵנִי",
+      "gloss": "ta shiryar da ni"
+    },
+    {
+      "surface": "בְּאֶרֶץ",
+      "gloss": "a cikin ƙasar"
+    },
+    {
+      "surface": "מִישׁוֹר",
+      "gloss": "mĩshor"
+    }
+  ],
+  "timestamp": "2026-08-12T20:54:04.449938141Z",
+  "model": "glm-5.2"
+}

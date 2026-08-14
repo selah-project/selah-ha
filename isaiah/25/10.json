@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 25:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Domi hannun Yahweh zai hutu a kan wannan dutsen, kuma Moab za a yi masa daka a ƙarƙashinsa kamar yadda ake daka tushe a cikin tarkace a Madmenah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domi"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "zai hutu"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hannun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a kan dutse"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ונדוש",
+      "gloss": "za a yi masa daka"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "a ƙarƙashinsa"
+    },
+    {
+      "surface": "כהדוש",
+      "gloss": "kamar yadda ake daka"
+    },
+    {
+      "surface": "מתבן",
+      "gloss": "tushe"
+    },
+    {
+      "surface": "במי",
+      "gloss": "a cikin"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "tarkace a Madmenah"
+    }
+  ],
+  "timestamp": "2026-08-12T13:32:21.510857209Z",
+  "model": "glm-5.2"
+}

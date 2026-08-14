@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 38:6",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "A kan me gindinta aka nutsa? Ko wane ya ajiye dutse kusurwarta?",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "מָ֭ה",
+      "gloss": "me"
+    },
+    {
+      "surface": "אֲדָנֶ֣יהָ",
+      "gloss": "gindinta"
+    },
+    {
+      "surface": "הָטְבָּ֑עוּ",
+      "gloss": "aka nutsa"
+    },
+    {
+      "surface": "א֥וֹ",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מִֽי",
+      "gloss": "wane"
+    },
+    {
+      "surface": "יָ֝רָ֗ה",
+      "gloss": "ya ajiye"
+    },
+    {
+      "surface": "אֶ֣בֶן",
+      "gloss": "dutse",
+      "marks": "dutse kusurwarta"
+    },
+    {
+      "surface": "פִּנָּתָֽהּ",
+      "gloss": "kusurwarta"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:00.710132651Z",
+  "model": "glm-5.2"
+}

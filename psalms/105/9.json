@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Da ⟨ya⟩ yanke ⟨את⟩ Avraham, da rantsuwarsa ⟨ga⟩ Yitschaq,",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "da"
+    },
+    {
+      "surface": "כָּ֭רַת",
+      "gloss": "yanke"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אַבְרָהָ֑ם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וּשְׁב֣וּעָת֖וֹ",
+      "gloss": "da rantsuwarsa"
+    },
+    {
+      "surface": "לְיִשְׂחָֽק",
+      "gloss": "⟨ga⟩ Yitschaq"
+    }
+  ],
+  "timestamp": "2026-08-12T20:29:12.936072972Z",
+  "model": "glm-5.2"
+}

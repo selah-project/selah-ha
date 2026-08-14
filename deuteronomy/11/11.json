@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 11:11",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "amma ⟨⟩ƙasar da kuke ketarewa can ⟨don⟩ ku gāra ta, ƙasa ⟨ce⟩ ta duwatsu da kwari, tana sha ruwan ruwan sama na sama.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "amma ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ke ketarewa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "can"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "⟨don⟩ ku gāra ta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ta duwatsu"
+    },
+    {
+      "surface": "ובקעת",
+      "gloss": "da kwari"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "ruwan sama"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "na sama"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "tana sha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwan"
+    }
+  ],
+  "timestamp": "2026-08-12T05:10:43.393570401Z",
+  "model": "glm-5.2"
+}

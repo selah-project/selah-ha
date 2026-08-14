@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 94,
+  "translation": "Wanda ya shuka kunne, ⟨bã⟩ zai saurari? Shin wanda ya naɗa ido, ⟨bã⟩ zai duba?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Wanda ya shuka"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kunne",
+      "marks": "kunne"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "⟨bã⟩"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "zai saurari"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Shin"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "wanda ya naɗa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ido",
+      "marks": "ido"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "⟨bã⟩"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "zai duba"
+    }
+  ],
+  "timestamp": "2026-08-14T00:02:34.044454302Z",
+  "model": "glm-5.2"
+}

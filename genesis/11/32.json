@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma kwana-nan Terah sun kasance shekaru biyar da ɗari biyu; kuma Terah ya mutu a Charan.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "kuma suka kasance"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwana-nan"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "biyar"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "da ɗari biyu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kuma ya mutu"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "a Charan"
+    }
+  ],
+  "timestamp": "2026-08-11T23:31:14.822427690Z",
+  "model": "glm-5.2"
+}

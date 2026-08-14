@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma kohanim ba su iya tsayawa don yin aiki, saboda girgijen, domin girmamayar Yahweh ta cika ⟨את⟩ gidan Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "su iya"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohanim"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "tsayawa"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "don yin aiki"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "girgijen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ta cika"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "girmamayar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T11:09:26.315758028Z",
+  "model": "glm-5.2"
+}

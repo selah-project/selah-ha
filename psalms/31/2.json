@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Cikin ⟨ne⟩ kai, Yahweh, na nemi mafaka; bari ba zan taɓa jin kunya ⟨na⟩ har abada ba; cikin adalcinka ka tsĩre ni.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "cikin kai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "na nemi mafaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bari ba"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "zan jin kunya"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "cikin adalcinka"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "ka tsĩre ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:33:21.993748703Z",
+  "model": "glm-5.2"
+}

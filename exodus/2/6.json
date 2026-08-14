@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma ta buɗe ⟨shi⟩ kuma ta ga ⟨את⟩ yaron, kuma gani, yaro yana kuka, kuma ta yi masa rahama, kuma ta ce, \"Daga ʿyaʼyan Ibraniyawa wannan ⟨ne⟩?\"",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "ta buɗe"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "ta ga shi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaron"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "yaron"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "gani"
+    },
+    {
+      "surface": "נער",
+      "gloss": "yaro"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "yana kuka"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "ta yi masa rahama"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ta ce"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "daga ʿyaʼyan"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ibraniyawa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-12T00:29:26.798678622Z",
+  "model": "glm-5.2"
+}

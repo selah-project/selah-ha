@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Ƙarshen magana, ⟨an⟩ ji duka: Elohim ka ji tsoron ⟨את⟩, kuma ka kiyaye ⟨את⟩ dokokinsa, domin wannan ⟨shine⟩ duk ⟨abin⟩ mutum.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "ƙarshen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "magana"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "an ji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ka ji tsoron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "dokokinsa"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "dokokinsa"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ka kiyaye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mutum"
+    }
+  ],
+  "timestamp": "2026-08-12T22:50:29.321537641Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Gõra ƙasa za ta cika da sanin ⟨את⟩ girman Yahweh, kamar yadda ruwa ke rufewa ⟨a⟩ kan teku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gõra"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "za ta cika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "da sanin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "girman"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "girman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kamar ruwa"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "ke rufewa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "teku"
+    }
+  ],
+  "timestamp": "2026-08-12T18:49:25.982502701Z",
+  "model": "glm-5.2"
+}

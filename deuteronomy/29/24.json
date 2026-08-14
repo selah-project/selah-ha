@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "kuma za su faɗi: 'Don sun bar ⟨את⟩ alkawarin Yahweh, Elohin ubanninsu, wanda Ya yanke agunsu, a lokacin da Ya fitar da ⟨את⟩ su daga ƙasar Mitsrayim.'",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "kuma za su faɗi"
+    },
+    {
+      "surface": "על",
+      "gloss": "Don"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "sun bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alkawarin"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alkawarin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ubanninsu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "Ya yanke"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "agunsu"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "a lokacin da Ya fitar da"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T05:50:53.769331231Z",
+  "model": "glm-5.2"
+}

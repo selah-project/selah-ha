@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Ɗaya ne na faɗa, amma ba zan amsa ba, kuma ⟨sau⟩ biyu, amma ba zan ƙara ba.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Ɗaya"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "na faɗa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "zan amsa"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "zan ƙara"
+    }
+  ],
+  "timestamp": "2026-08-12T22:17:12.434483292Z",
+  "model": "glm-5.2"
+}

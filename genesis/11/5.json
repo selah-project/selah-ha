@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Yahweh ya sauka don ya duba ⟨את⟩ birnin da ⟨את⟩ hasumiyar, wanda ƴaƴan adam suka gina.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Kuma ya sauka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "don ya duba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birnin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "hasumiyar"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "hasumiyar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "suka gina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴaƴan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adam"
+    }
+  ],
+  "timestamp": "2026-08-11T23:30:13.996815168Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 32:22",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "kuma ka ba su ⟨את⟩ ƙasar nan da ka rantsuwa ga ƙasashensu za ka musu, ƙasa mai zub da nono da zuma;",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "kuma ka ba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar nan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "ka rantsuwa"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "ga ƙasashensu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "za ka ba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "mai gudan zuba"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "nono"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "da zuma"
+    }
+  ],
+  "timestamp": "2026-08-12T16:04:14.437639727Z",
+  "model": "glm-5.2"
+}

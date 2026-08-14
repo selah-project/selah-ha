@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 7:18",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "sa'an nan zan tabbatar da ⟨את⟩ kujerar mulkinKa, kamar yadda na yanka alkawari ga Dawida ubanka, ina cewa: Ba za a yanke masa mutum mai mulki a cikin Yisra'el ba.",
+  "tokens": [
+    {
+      "surface": "והקימותי",
+      "gloss": "sa'an nan zan tabbatar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kujerar mulkinKa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kujerar"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "mulkinKa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "na yanka alkawari"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ga Dawida"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ubanka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ina cewa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "za a yanke"
+    },
+    {
+      "surface": "לך",
+      "gloss": "masa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "mai mulki"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "a cikin Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-13T02:43:37.648560587Z",
+  "model": "glm-5.2"
+}

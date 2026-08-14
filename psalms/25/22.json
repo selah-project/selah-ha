@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Elohim, ka fansa ⟨את⟩ Yisira'el daga dukkan masĩfatunsa.",
+  "tokens": [
+    {
+      "surface": "פְּדֵה",
+      "gloss": "ka fansa"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yisira'el"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisira'el"
+    },
+    {
+      "surface": "מִכֹּל",
+      "gloss": "daga dukkan"
+    },
+    {
+      "surface": "צָרוֹתָיו",
+      "gloss": "masĩfatunsa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:46.508858594Z",
+  "model": "glm-5.2"
+}

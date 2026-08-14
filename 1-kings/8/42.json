@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "domin za su ji ⟨את⟩ sunanka mai girma da ⟨את⟩ hannunka mai ƙarfi da hannunka mai gēgē, kuma ya zo ya yi addu'a zuwa wannan gida,—",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "za su ji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunanka"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunanka"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "mai girma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "hannunka"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hannunka"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "mai ƙarfi"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "da hannunka"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "mai gēgē"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "kuma ya zo"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "ya yi addu'a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-13T02:04:29.789579101Z",
+  "model": "glm-5.2"
+}

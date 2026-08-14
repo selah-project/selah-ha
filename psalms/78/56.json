@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Kuma suka jarraba, suka tada tawaye ga ⟨את⟩ Elohim Elyon, kuma shaidunsa ba su kula ba.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "kuma suka jarraba"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "suka tada tawaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Elyon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "kuma shaidunsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "su kula"
+    }
+  ],
+  "timestamp": "2026-08-12T20:09:56.046807495Z",
+  "model": "glm-5.2"
+}

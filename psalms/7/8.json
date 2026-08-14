@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma majalissar al'ummomi za ta kẽka kẽɗe kai; kuma a kan ta, zuwa mazaɓi, koma.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "Kuma majalissar"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "al'ummomi"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "za ta kẽka kẽɗe kai"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "kuma a kan ta"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "zuwa mazaɓi"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "koma"
+    }
+  ],
+  "timestamp": "2026-08-12T19:17:23.148240543Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma wani mutum, idan zabin maniyyi ya fita daga gare shi, kuma ya wanke jikinsa ⟨da⟩ ⟨את⟩ ruwa, ⟨to⟩ ba shi da tsarka har yamma.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "kuma wani mutum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "idan"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ya fita"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare shi"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "zabin"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "maniyyi"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "kuma ya wanke"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukan jikinsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jikinsa"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ba shi da tsarka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "yamma"
+    }
+  ],
+  "timestamp": "2026-08-12T02:30:31.422710816Z",
+  "model": "glm-5.2"
+}

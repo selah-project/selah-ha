@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Kuma ⟨את⟩ ɗan'uwanku ƙaraman ku kawo min, kuma maganarku za a tabbatar, kuma ba za ku mutu ba. Kuma suka yi haka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Kuma ⟨את⟩",
+      "marks": "ɗan'uwanku"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ɗan'uwanku"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ƙaraman"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "ku kawo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "kuma za a tabbatar"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "maganarku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "za ku mutu"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "Kuma suka yi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    }
+  ],
+  "timestamp": "2026-08-12T00:16:08.400602442Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Dukansu malamai na — in fahimta fiye dã sũ, dõmin shaiduõrka sũ ne tunã-tunãna.",
+  "tokens": [
+    {
+      "surface": "מִכָּל",
+      "gloss": "fiye dã dukansu"
+    },
+    {
+      "surface": "מְלַמְּדַ֥י",
+      "gloss": "malamai na"
+    },
+    {
+      "surface": "הִשְׂכַּ֣לְתִּי",
+      "gloss": "in fahimta"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "עֵדְוֺתֶ֗יךָ",
+      "gloss": "shaiduõrka"
+    },
+    {
+      "surface": "שִׂיחָ֨ה",
+      "gloss": "sũ ne tunã-tunã"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-08-12T20:46:34.411001381Z",
+  "model": "glm-5.2"
+}

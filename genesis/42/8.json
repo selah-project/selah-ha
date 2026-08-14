@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Kuma Yusufu ya gane ⟨את⟩ ɗan'uwansa, amma sũ ba su gane shi ba.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "Kuma ya gane"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusufu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗan'uwansa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ɗan'uwansa"
+    },
+    {
+      "surface": "והם",
+      "gloss": "amma sũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "su gane shi ba"
+    }
+  ],
+  "timestamp": "2026-08-12T00:15:10.287343302Z",
+  "model": "glm-5.2"
+}

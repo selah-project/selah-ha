@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 100,
+  "translation": "ku bauta wa ⟨את⟩ Yahweh cikin farin ciki, ku zo gabansa cikin rera waƙa.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "ku bauta wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "cikin farin ciki"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ku zo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "gabansa"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "cikin rera waƙa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:25:10.020260649Z",
+  "model": "glm-5.2"
+}

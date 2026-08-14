@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 77,
+  "translation": "Kuma na ce: Muna taushewa ce — ⟨sai⟩ shekarun dama na Elyon.",
+  "tokens": [
+    {
+      "surface": "וָ֭אֹמַר",
+      "gloss": "Kuma na ce"
+    },
+    {
+      "surface": "חַלּ֣וֹתִי",
+      "gloss": "Muna taushewa"
+    },
+    {
+      "surface": "הִ֑יא",
+      "gloss": "ce"
+    },
+    {
+      "surface": "שְׁ֝נ֗וֹת",
+      "gloss": "shekarun"
+    },
+    {
+      "surface": "יְמִ֣ין",
+      "gloss": "dama"
+    },
+    {
+      "surface": "עֶלְיֽוֹן",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-12T20:05:49.264720375Z",
+  "model": "glm-5.2"
+}

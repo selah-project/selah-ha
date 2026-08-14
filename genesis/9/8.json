@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Elohim ya faɗa wa Noach da ⟨את⟩ yaɗansa waɗanda ⟨suke⟩ tare da shi, ⟨don ya faɗa⟩:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "da"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "yaɗansa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yaɗansa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨don ya faɗa⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T03:01:20.088735754Z",
+  "model": "glm-5.2"
+}

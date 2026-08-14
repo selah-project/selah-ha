@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Yanzu ku tashi, ku tsallaka ⟨don ku⟩ ⟨את⟩ rafin Zered. Kuma muka tsallaka ⟨את⟩ rafin Zered.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Yanzu"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ku tashi"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "ku tsallaka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨don ku⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rafin"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "rafin"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "Kuma muka tsallaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rafin"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "rafin"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    }
+  ],
+  "timestamp": "2026-08-12T04:51:18.668027656Z",
+  "model": "glm-5.2"
+}

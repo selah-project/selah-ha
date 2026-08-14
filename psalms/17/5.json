@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Matakan na sun riƙe ⟨a⟩ hanyoyinka, ƙafafuwa na ba su girgiza.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "suka riƙe"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "matakan na"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "⟨a⟩ hanyoyinka"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "su girgiza"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ƙafafuwa na"
+    }
+  ],
+  "timestamp": "2026-08-12T19:22:03.506897093Z",
+  "model": "glm-5.2"
+}

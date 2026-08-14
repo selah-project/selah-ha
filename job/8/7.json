@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 8:7",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma farkonka zai kasance ⟨kaɗan⟩, kuma ƙarshenka zai yi yawa ⟨sosai⟩.",
+  "tokens": [
+    {
+      "surface": "וְהָיָ֣ה",
+      "gloss": "Kuma zai kasance"
+    },
+    {
+      "surface": "רֵאשִׁיתְךָ֣",
+      "gloss": "farkonka"
+    },
+    {
+      "surface": "מִצְעָ֑ר",
+      "gloss": "⟨kaɗan⟩"
+    },
+    {
+      "surface": "וְאַחֲרִיתְךָ֗",
+      "gloss": "kuma ƙarshenka"
+    },
+    {
+      "surface": "יִשְׂגֶּ֥ה",
+      "gloss": "zai yi yawa"
+    },
+    {
+      "surface": "מְאֹֽד",
+      "gloss": "⟨sosai⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T21:44:17.681404604Z",
+  "model": "glm-5.2"
+}

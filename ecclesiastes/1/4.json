@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Ƙarnĩ yana tafiya, kuma ƙarnĩ yana zuwa, kuma ƙasã ta tsaya tsawon lõkãci.",
+  "tokens": [
+    {
+      "surface": "דּוֹר",
+      "gloss": "Ƙarnĩ"
+    },
+    {
+      "surface": "הֹלֵךְ",
+      "gloss": "yana tafiya"
+    },
+    {
+      "surface": "וְדוֹר",
+      "gloss": "kuma ƙarnĩ"
+    },
+    {
+      "surface": "בָּא",
+      "gloss": "yana zuwa"
+    },
+    {
+      "surface": "וְהָאָרֶץ",
+      "gloss": "kuma ƙasã"
+    },
+    {
+      "surface": "לְעוֹלָם",
+      "gloss": "ta tsaya tsawon lõkãci"
+    },
+    {
+      "surface": "עֹמָדֶת",
+      "gloss": "⟨ta tsaya⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T22:40:50.431093029Z",
+  "model": "glm-5.2"
+}

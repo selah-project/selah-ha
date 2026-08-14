@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Mutum mai hikima ⟨an⟩ yi ⟨shi⟩ shari'a ⟨da⟩ ⟨את⟩ mutum wawaye, ko ⟨ya⟩ fushi ko ⟨ya⟩ dariya, ⟨kuma⟩ babu kwanciyar hankali.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mai hikima"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "an yi shari'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutum"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "wawaye"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "ko ya fushi"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "ko ya dariya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "kwanciyar hankali"
+    }
+  ],
+  "timestamp": "2026-08-12T21:32:05.828802559Z",
+  "model": "glm-5.2"
+}

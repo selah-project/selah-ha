@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Kuma Ya'ƙuɓ ya aiko, kuma ya kir̃a Rarah da Ɩɛ'a zuwa daji, zuwa garken sa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kuma ya aiko"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'ƙuɓ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kuma ya kir̃a"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rarah"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "da Ɩɛ'a"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "zuwa daji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "garken sa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:57:56.473955250Z",
+  "model": "glm-5.2"
+}

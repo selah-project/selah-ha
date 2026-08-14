@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma idan ⟨wani⟩ ⟨את⟩ shigin da sayansa, wanda ba daga shigin mallakarsa ba, ya keɓe wa Yahweh,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shigin"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "shigin"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "da sayansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "daga shigin"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "mallakarsa"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "ya keɓe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T03:03:28.437830255Z",
+  "model": "glm-5.2"
+}

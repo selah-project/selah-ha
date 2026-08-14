@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "A cikin umarninka zan yi tunani, kuma zan duba hanyoyinka.",
+  "tokens": [
+    {
+      "surface": "בְּפִקֻּדֶ֥יךָ",
+      "gloss": "a cikin umarninka"
+    },
+    {
+      "surface": "אָשִׂ֑יחָה",
+      "gloss": "zan yi tunani"
+    },
+    {
+      "surface": "וְ֝אַבִּ֗יטָה",
+      "gloss": "kuma zan duba"
+    },
+    {
+      "surface": "אֹרְחֹתֶֽיךָ",
+      "gloss": "hanyoyinka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:28:14.242737241Z",
+  "model": "glm-5.2"
+}

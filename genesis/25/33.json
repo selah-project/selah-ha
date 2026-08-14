@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 25:33",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Sai Yaʿaqov ya ce: \"Ka rantsa mini kamar yau.\" Sai ⟨ya⟩ rantsa masa, kuma ya sayar da ⟨את⟩ gurguzarsa ga Yaʿaqov.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sai ya ce"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaʿaqov"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "ka rantsa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mini"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kamar yau"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "sai ya rantsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "kuma ya sayar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gurguzarsa"
+    },
+    {
+      "surface": "בכרתו",
+      "gloss": "gurguzarsa"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ga Yaʿaqov"
+    }
+  ],
+  "timestamp": "2026-08-11T23:45:40.524379467Z",
+  "model": "glm-5.2"
+}

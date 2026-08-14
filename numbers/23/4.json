@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma Elohim ya haɗu da Bilam, kuma ya ce masa: ⟨אֵת⟩ mataimaka bakwai na tsara, kuma na ɗora shanu da ramuka a kan mataimaki.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "Kuma ya haɗu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mataimaka bakwai"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "bakwai"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "mataimaka"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "na tsara"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "kuma na ɗora"
+    },
+    {
+      "surface": "פר",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "da ramuka"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "a kan mataimaki"
+    }
+  ],
+  "timestamp": "2026-08-12T04:23:56.121116142Z",
+  "model": "glm-5.2"
+}

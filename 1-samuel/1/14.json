@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Sai ʿEli ya ce mata, \"Har yaushe za ki zama mashiya? Cire ⟨את⟩ giyar ki daga gare ki!\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sai ya ce"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "mata"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ʿEli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Har"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "yaushe"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "za ki zama mashiya"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "Cire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giyar ki"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "giyar ki"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "daga gare ki"
+    }
+  ],
+  "timestamp": "2026-08-13T01:58:52.080481095Z",
+  "model": "glm-5.2"
+}

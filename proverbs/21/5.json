@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Tsare-tsaren ⟨na⟩ mai ƙwazo, babu shakka ⟨yana kaiwa⟩ ga yawa; amma kowane mai gaggawa, babu shakka ⟨yana kaiwa⟩ ga ƙaranci.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "tsare-tsare"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "mai ƙwazo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "babu shakka"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "ga yawa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "amma kowane"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "mai gaggawa"
+    },
+    {
+      "surface": "אך",
+      "gloss": "babu shakka"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "ga ƙaranci"
+    }
+  ],
+  "timestamp": "2026-08-12T21:22:44.926517239Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Adonai, duk sha'awata ⟨tana⟩ a gabanka, kuma numfashina ba a ɓoye daga gareka ba.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "a gabanka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "sha'awata"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "kuma numfashina"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "daga gareka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "a ɓoye ⟨ba⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T19:40:00.605130136Z",
+  "model": "glm-5.2"
+}

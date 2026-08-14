@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 94:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 94,
+  "translation": "don ba shi kwanciyar hankali daga kwanakin sharri, har a yi wa mugun rami.",
+  "tokens": [
+    {
+      "surface": "להשקיט",
+      "gloss": "don ba shi kwanciyar hankali"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gare shi"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "daga kwanakin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sharri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "a yi rami"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "wa mugun"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "rami"
+    }
+  ],
+  "timestamp": "2026-08-12T20:21:28.682596621Z",
+  "model": "glm-5.2"
+}

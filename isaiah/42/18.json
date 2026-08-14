@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Kurame, ku saurare! Kuma makafe, ku duba, don ku gani!",
+  "tokens": [
+    {
+      "surface": "הַחֵרְשִׁ֖ים",
+      "gloss": "kurame"
+    },
+    {
+      "surface": "שְׁמָ֑עוּ",
+      "gloss": "ku saurare"
+    },
+    {
+      "surface": "וְהַעִוְרִ֖ים",
+      "gloss": "kuma makafe"
+    },
+    {
+      "surface": "הַבִּ֥יטוּ",
+      "gloss": "ku duba"
+    },
+    {
+      "surface": "לִרְאֽוֹת",
+      "gloss": "don ku gani"
+    }
+  ],
+  "timestamp": "2026-08-12T14:07:44.550854813Z",
+  "model": "glm-5.2"
+}

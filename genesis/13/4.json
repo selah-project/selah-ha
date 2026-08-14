@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 13:4",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "zuwa wurin ⟨da⟩ altar da ya yi a can a farko, kuma Avram ya kira a can cikin sunan Yahweh.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "wurin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "⟨da⟩ altar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "a farko"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kuma ya kira"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "cikin sunan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T23:31:21.208402830Z",
+  "model": "glm-5.2"
+}

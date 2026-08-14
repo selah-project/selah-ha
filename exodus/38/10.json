@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 38:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Ginandinsu ashirin, da ƙafafun su ashirin, tagulla; da kugiyan ginannai da zobensu, azurfa.",
+  "tokens": [
+    {
+      "surface": "עמודיהם",
+      "gloss": "Ginandinsu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "da ƙafafun su"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tagulla"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "da kugiyan"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "na ginannai"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "da zobensu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "azurfa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:32:00.683428749Z",
+  "model": "glm-5.2"
+}

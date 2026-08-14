@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Wa ya ƙidayar ƙura na Ya'akub, kuma adadin ⟨את⟩ rabin Isra'ila? Mutãna ta mutuwa mutãnen masu adalci, kuma ƙarshena ya kama da kõshensu.",
+  "tokens": [
+    {
+      "surface": "מִ֤י",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מָנָה֙",
+      "gloss": "ya ƙidayar"
+    },
+    {
+      "surface": "עֲפַ֣ר",
+      "gloss": "ƙura"
+    },
+    {
+      "surface": "יַעֲקֹ֔ב",
+      "gloss": "na Ya'akub"
+    },
+    {
+      "surface": "וּמִסְפָּ֖ר",
+      "gloss": "kuma adadin"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "rabin"
+    },
+    {
+      "surface": "רֹ֣בַע",
+      "gloss": "rabin"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "תָּמֹ֤ת",
+      "gloss": "ta mutuwa"
+    },
+    {
+      "surface": "נַפְשִׁי֙",
+      "gloss": "rai na"
+    },
+    {
+      "surface": "מ֣וֹת",
+      "gloss": "mutuwar"
+    },
+    {
+      "surface": "יְשָׁרִ֔ים",
+      "gloss": "masu adalci"
+    },
+    {
+      "surface": "וּתְהִ֥י",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "אַחֲרִיתִ֖י",
+      "gloss": "ƙarshena"
+    },
+    {
+      "surface": "כָּמֹֽהוּ",
+      "gloss": "kamar shi"
+    }
+  ],
+  "timestamp": "2026-08-12T04:19:56.132821212Z",
+  "model": "glm-5.2"
+}

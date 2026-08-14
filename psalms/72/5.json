@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 72,
+  "translation": "Suna tsoron ⟨ka⟩ tare da rana, kuma a gaban wata, tsara da tsara.",
+  "tokens": [
+    {
+      "surface": "יִֽירָא֥וּךָ",
+      "gloss": "suna tsoron ⟨ka⟩"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "שָׁ֑מֶשׁ",
+      "gloss": "rana"
+    },
+    {
+      "surface": "וְלִפְנֵ֥י",
+      "gloss": "kuma a gaban"
+    },
+    {
+      "surface": "יָ֝רֵ֗חַ",
+      "gloss": "wata"
+    },
+    {
+      "surface": "דּ֣וֹר",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "דּוֹרִֽים",
+      "gloss": "da tsara"
+    }
+  ],
+  "timestamp": "2026-08-12T20:02:55.449151557Z",
+  "model": "glm-5.2"
+}

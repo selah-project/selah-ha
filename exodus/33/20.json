@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Kuma ya ce: \"Ba za ka iya ganin ⟨את⟩ fuskata ba, domin ba zai gan ni mutum ⟨ya⟩ raye.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "za ka iya"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "ganin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuskata"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "zai gan ni"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "⟨ya⟩ raye"
+    }
+  ],
+  "timestamp": "2026-08-12T01:28:43.123097610Z",
+  "model": "glm-5.2"
+}

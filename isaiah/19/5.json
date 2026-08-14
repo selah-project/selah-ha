@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma ruwa zai ƙare daga teku, kuma kogin zai bushe ya kwanta.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "kuma zai ƙare"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "daga teku"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "kuma kogin"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "zai bushe"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ya kwanta"
+    }
+  ],
+  "timestamp": "2026-08-12T13:24:51.022015143Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "kuma ya dora ⟨את⟩ hannunsa a kan kan hadayar zunubi, kuma ya yanka ⟨את⟩ hadayar zunubi a wurin kafar holoka'ost.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "kuma ya dora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannunsa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hannunsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "hadayar zunubi"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "kuma ya yanka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadayar zunubi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "hadayar zunubi"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "a wurin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kafar holoka'ost"
+    }
+  ],
+  "timestamp": "2026-08-12T01:52:44.789407772Z",
+  "model": "glm-5.2"
+}

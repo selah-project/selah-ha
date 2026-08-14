@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma ⟨את⟩ saura mutanen ya ba shi a hannun Avishai ɗan'uwansa, ya shirya ⟨don⟩ haɗuwa da ƴan Ammon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "saura mutanen"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "saura"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya ba shi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "a hannun"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Avishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ɗan'uwansa"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "ya shirya"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "⟨don⟩ haɗuwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴan"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-08-12T10:09:24.119125684Z",
+  "model": "glm-5.2"
+}

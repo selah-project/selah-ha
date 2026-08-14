@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Da mugaye su yawaita, laifi ma yawaita; amma masu adalci za su kalli fadarsu.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "Da su yawaita"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mugaye"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "yawaita"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "laifi"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "amma masu adalci"
+    },
+    {
+      "surface": "במפלתם",
+      "gloss": "za su kalli fadarsu"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "⟨za su kalli⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T21:32:30.957892014Z",
+  "model": "glm-5.2"
+}

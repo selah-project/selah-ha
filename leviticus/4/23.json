@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 4:23",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "ko kuma an sanar da shi zunubin da ya yi, to ya kawo ⟨את⟩ hadayarsa — ɗan akuyar awaki, namiji, mara laifi.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ko kuma"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "an sanar da shi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": ""
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "zunubin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "בה",
+      "gloss": ""
+    },
+    {
+      "surface": "והביא",
+      "gloss": "to ya kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadayarsa"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "hadayarsa"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ɗan akuyar"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "awaki"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "namiji"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "mara laifi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:53:27.085371915Z",
+  "model": "glm-5.2"
+}

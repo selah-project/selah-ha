@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "Kuma Yosef ya yi wa bayinsa oda — ⟨את⟩ masu magani — su shafa fitsarin waji ⟨את⟩ mahaifinsa, sa'an nan masu magani suka shafa fitsarin waji ⟨את⟩ Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "kuma ya yi wa... oda"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayinsa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bayinsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masu magani"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "masu magani"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "su shafa fitsarin waji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahaifinsa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "mahaifinsa"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "suka shafa fitsarin waji"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "masu magani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-13T01:45:07.559721889Z",
+  "model": "glm-5.2"
+}

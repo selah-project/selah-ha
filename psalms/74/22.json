@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 74,
+  "translation": "Tashi, ya Elohim, yi shari'ar ƙārinka; ka tuna da wulācinka daga wani mutum maras hankali dukan rana.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "tashi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "yi shari'a"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "ƙārinka"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ka tuna da"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "wulācinka"
+    },
+    {
+      "surface": "מני",
+      "gloss": "daga"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "wani mutum maras hankali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rana"
+    }
+  ],
+  "timestamp": "2026-08-12T20:04:23.760122701Z",
+  "model": "glm-5.2"
+}

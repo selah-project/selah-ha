@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma matan masu wasa suka amsa juna, suka ce: «Sha'ula ya kashe dubunsa, kuma Dawida dubu goma na nasa.»",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "suka amsa"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "matan"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "masu wasa"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ya kashe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ula"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "dubunsa"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "kuma Dawida"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "dubu goma na nasa"
+    }
+  ],
+  "timestamp": "2026-08-12T09:15:55.025177532Z",
+  "model": "glm-5.2"
+}

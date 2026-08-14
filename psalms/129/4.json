@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 129,
+  "translation": "Yahweh ⟨ne⟩ mai adalci, ya yanke igiyoyin masu laifi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mai adalci"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "ya yanke"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "igiyoyin"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "masu laifi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:48:36.650129831Z",
+  "model": "glm-5.2"
+}

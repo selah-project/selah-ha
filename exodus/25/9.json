@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Duka abin da ni nake nuna ⟨את⟩ maka, ⟨את⟩ tsarin Mishkan da ⟨את⟩ tsarin dukkan kayan sa, haka kuke aikatawa.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "nake nuna"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ maka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsarin"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "tsarin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "tsarin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kayan sa"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kuke aikatawa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:05:36.587042289Z",
+  "model": "glm-5.2"
+}

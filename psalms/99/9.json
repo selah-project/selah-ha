@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 99,
+  "translation": "Ɗaukaka ku Yahweh, Elohim mu, kuma ku lallaɓa ku don girmama ⟨a⟩ dutsen tsarkinsa, domin tsarkaka ne Yahweh, Elohim mu.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Ɗaukaka ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim mu"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "kuma ku lallaɓa ku"
+    },
+    {
+      "surface": "להר",
+      "gloss": "⟨a⟩ dutsen"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "tsarkinsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "tsarkaka ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim mu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:23:52.693346301Z",
+  "model": "glm-5.2"
+}

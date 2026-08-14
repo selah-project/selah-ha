@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 47:23",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Yūsufu ya ce wa mutānen: Gāsu, inā sayan ku yau, da ⟨את⟩ filinku, ga Paroh; ga ku zāra, kuma ku shuka ⟨את⟩ ƙasar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yūsufu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutānen"
+    },
+    {
+      "surface": "הן",
+      "gloss": "gāsu"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "inā sayan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "filinku"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "filinku"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ga Paroh"
+    },
+    {
+      "surface": "הא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zāra"
+    },
+    {
+      "surface": "וזרעתם",
+      "gloss": "kuma ku shuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ƙasar"
+    }
+  ],
+  "timestamp": "2026-08-12T00:24:15.090081214Z",
+  "model": "glm-5.2"
+}

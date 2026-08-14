@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 35:10",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Kuma Elohim Ya ce masa, \"Sunka Ya'akov; ba za a kira sunka da Ya'akov ⟨ba⟩ bayan wannan, amma Yisra'el zai zama sunka,\" kuma Ya kira ⟨את⟩ sunansa Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma Ya ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "za a kira"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunka"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bayan wannan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ba⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "amma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zai zama"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunka"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kuma Ya kira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunansa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T00:03:11.272317661Z",
+  "model": "glm-5.2"
+}

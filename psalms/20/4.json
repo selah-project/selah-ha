@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Ya tuna ⟨da⟩ duka gudun muƙaminka, kuma ƙorarfarka ya ɗauka ⟨a matsayin⟩ kitso. Selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Ya tuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "gudun muƙaminka"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "kuma ƙorarfarka"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "ya ɗauka ⟨a matsayin⟩ kitso"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T19:25:57.282476813Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Baƙin ciki ya fi dariya kyau, domin fuskar da ba ta da daɗi tana sanya zuciya ta gyaru.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ya fi kyau"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "baƙin ciki"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "fiye da dariya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "da ba ta da daɗi"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "fuskar"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "tana sanya ta gyaru"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciya"
+    }
+  ],
+  "timestamp": "2026-08-13T02:34:47.997998936Z",
+  "model": "glm-5.2"
+}

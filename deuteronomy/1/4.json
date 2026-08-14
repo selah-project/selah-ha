@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Bayan ya yi wa Siḥon, sarkin ʾAmori, wanda ke zaune a Ḥeshvon, ruwa, ⟨את⟩ da ⟨har⟩ ʿOg, sarkin Bashan, wanda ke zaune a ʿAshtarot, a ʾEdreʿi.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Bayan"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "ya yi wa ... ruwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Siḥon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Siḥon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ʾAmori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ke zaune"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "a Ḥeshvon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ da ⟨har⟩"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ʿOg"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ke zaune"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "a ʿAshtarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "a ʾEdreʿi"
+    }
+  ],
+  "timestamp": "2026-08-12T04:53:23.713482257Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 9:15",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Yahudawan da⟨suke⟩ a cikin Shushan sun taru, ⟨kuma⟩ a ranar goma sha huɗu ga watan Adar, suka kashe a cikin Shushan mutane dari uku, amma ⟨a⟩ ⟨kan⟩ fashi ba ⟨suka⟩ miƙa ⟨את⟩ hannunsu ba.",
+  "tokens": [
+    {
+      "surface": "וַיִּקָּהֲלוּ",
+      "gloss": "sunku taru"
+    },
+    {
+      "surface": "היהודיים",
+      "gloss": "Yahudawan"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "da"
+    },
+    {
+      "surface": "בְּשׁוּשָׁן",
+      "gloss": "a cikin Shushan"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "בְּיוֹם",
+      "gloss": "a ranar"
+    },
+    {
+      "surface": "אַרְבָּעָה",
+      "gloss": "huɗu"
+    },
+    {
+      "surface": "עָשָׂר",
+      "gloss": "goma sha"
+    },
+    {
+      "surface": "לְחֹדֶשׁ",
+      "gloss": "ga watan"
+    },
+    {
+      "surface": "אֲדָר",
+      "gloss": "Adar"
+    },
+    {
+      "surface": "וַיַּהַרְגוּ",
+      "gloss": "suka kashe"
+    },
+    {
+      "surface": "בְּשׁוּשָׁן",
+      "gloss": "a cikin Shushan"
+    },
+    {
+      "surface": "שְׁלֹשׁ",
+      "gloss": "uku"
+    },
+    {
+      "surface": "מֵאָה",
+      "gloss": "dari"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "וּבַבִּזָּה",
+      "gloss": "amma a kan fashi"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שָׁלְחוּ",
+      "gloss": "suka miƙa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "hannunsu"
+    },
+    {
+      "surface": "יָדָם",
+      "gloss": "hannunsu"
+    }
+  ],
+  "timestamp": "2026-08-12T23:00:53.104609521Z",
+  "model": "glm-5.2"
+}

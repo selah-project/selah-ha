@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 23:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma a cikin ruwa mai yawa irin shuka na Shichor, girbin kogin ⟨ya kasance⟩ amfanin ta; ta kuma zama kasuwar al'ummai.",
+  "tokens": [
+    {
+      "surface": "ובמים",
+      "gloss": "kuma a cikin ruwa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mai yawa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "irin shuka"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "Shichor"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "girbin"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "kogin"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "amfanin ta"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ta kuma zama"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "kasuwar"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "al'ummai"
+    }
+  ],
+  "timestamp": "2026-08-12T13:37:39.410859096Z",
+  "model": "glm-5.2"
+}

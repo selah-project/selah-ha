@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma za ka yi magana da shi, kuma za ka sanya ⟨את⟩ kalmomi a bakinsa, kuma Ni, Zan kasance tare da bakinka da tare da bakinsa, kuma Zan koya maku ⟨את⟩ abin da za ku aikata.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "Kuma za ka yi magana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "da shi"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "kuma za ka sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalmomi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kalmomi"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "a bakinsa"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "kuma Ni"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Zan kasance"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "bakinka"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "da"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "bakinsa"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "kuma Zan koya maku"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨ku⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "za ku aikata"
+    }
+  ],
+  "timestamp": "2026-08-12T00:34:50.226390987Z",
+  "model": "glm-5.2"
+}

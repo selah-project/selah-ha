@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 51:20",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 51,
+  "translation": "Ya'yan ki sun gaji, sun kwanta a kan kan tituna duka, kamar bera a cikin tarko, sun cika da fushin Yahweh, da tsawatar Elohim naki.",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "Ya'yan ki"
+    },
+    {
+      "surface": "עלפו",
+      "gloss": "sun gaji"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "sun kwanta"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "a kan kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "tituna"
+    },
+    {
+      "surface": "כתוא",
+      "gloss": "kamar bera"
+    },
+    {
+      "surface": "מכמר",
+      "gloss": "a cikin tarko"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "sun cika da"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "fushin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "da tsawatar"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naki"
+    }
+  ],
+  "timestamp": "2026-08-12T14:26:22.935580231Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 23:11",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma ya dage ⟨את⟩ dawakai da sarakunan Yahuda suka keɓe wa shamshi, daga ƙofar shiga Bayit Yahweh zuwa dakin Natan-Melek, bawan sarki, wanda ke cikin Parwarim; kuma ⟨את⟩ motocin shamshi ya ƙone da wuta.",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "kuma ya dage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dawakai"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "dawakai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "suka keɓe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sarakunan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "wa shamshi"
+    },
+    {
+      "surface": "מבא",
+      "gloss": "daga ƙofar shiga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bayit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "לשכת",
+      "gloss": "dakin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "-Melek"
+    },
+    {
+      "surface": "הסריס",
+      "gloss": "bawan sarki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda ke"
+    },
+    {
+      "surface": "בפרורים",
+      "gloss": "cikin Parwarim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "motocin shamshi"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "motocin"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "shamshi"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ya ƙone"
+    },
+    {
+      "surface": "באש",
+      "gloss": "da wuta"
+    }
+  ],
+  "timestamp": "2026-08-12T12:48:00.215635754Z",
+  "model": "glm-5.2"
+}

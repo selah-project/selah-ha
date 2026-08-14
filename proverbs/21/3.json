@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 21:3",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "A yi adalci da shari'a, ana zaɓar ⟨wannan⟩ ga Yahweh fiye da hadaya.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "A yi"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "adalci"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "da shari'a"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "ana zaɓar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "fiye da hadaya"
+    }
+  ],
+  "timestamp": "2026-08-12T21:24:46.853133345Z",
+  "model": "glm-5.2"
+}

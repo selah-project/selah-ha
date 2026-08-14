@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma ku kiyaye ⟨את⟩ ɗokokina da ⟨את⟩ hukuncaina, waɗannan da mutum zai yi ⟨את⟩ su, kuma yā rayu a cikinsu; ni ne Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "kuma ku kiyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗokokina"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ɗokokina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "hukuncaina"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukuncaina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "zai yi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ su",
+      "marks": "su"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "kuma yā rayu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "a cikinsu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T02:22:50.814159937Z",
+  "model": "glm-5.2"
+}

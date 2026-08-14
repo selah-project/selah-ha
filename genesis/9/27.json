@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 9:27",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "\"Elohim ya faɗaɗa ⟨wa⟩ Yefet, kuma ⟨shi⟩ za ya zauna cikin bukkokin Shem, kuma Kena'an ⟨ya⟩ zama bawa ⟨ne⟩ gare su.\"",
+  "tokens": [
+    {
+      "surface": "יפת",
+      "gloss": "ya faɗaɗa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליפת",
+      "gloss": "⟨wa⟩ Yefet"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "kuma ⟨shi⟩ za ya zauna"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "cikin bukkokin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ⟨ya⟩ zama"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "bawa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "gare su"
+    }
+  ],
+  "timestamp": "2026-08-11T23:26:00.405307972Z",
+  "model": "glm-5.2"
+}

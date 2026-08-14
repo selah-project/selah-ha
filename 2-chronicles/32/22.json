@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 32:22",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Don haka Yahweh ya ceci Yechizkiyahu da ⟨את⟩ mazaunan Yerushalaim daga hannun Sancheriv sarkin Asshur, kuma daga hannun kowa, ya kuma shiryar da su a kewaye.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "ya ceci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yechizkiyahu"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yechizkiyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mazaunan Yerushalaim"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sancheriv"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asshur"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "kuma daga hannun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowa"
+    },
+    {
+      "surface": "וינהלם",
+      "gloss": "ya shiryar da su"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "a kewaye"
+    }
+  ],
+  "timestamp": "2026-08-13T02:57:23.180610557Z",
+  "model": "glm-5.2"
+}

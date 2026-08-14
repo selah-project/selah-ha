@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 148,
+  "translation": "Ku yabo ⟨Shi⟩ rana da wata, ku yabo ⟨Shi⟩ duka taurari haske.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ku yabo Shi"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "rana"
+    },
+    {
+      "surface": "ורח",
+      "gloss": "da wata"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ku yabo Shi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "taurari"
+    },
+    {
+      "surface": "אור",
+      "gloss": "haske"
+    }
+  ],
+  "timestamp": "2026-08-12T21:00:00.671520681Z",
+  "model": "glm-5.2"
+}

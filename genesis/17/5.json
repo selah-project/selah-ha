@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma ba za a kira sunanka Avram ⟨ce⟩ ba. Sai sunanka ya kasance Avraham, domin ni ne na sanya ka ⟨zuwa⟩ uba na tarin jama'ar al'ummai.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kuma ba"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "za a kira"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunanka"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunanka"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunanka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אב",
+      "gloss": "uba"
+    },
+    {
+      "surface": "המון",
+      "gloss": "tarin jama'a"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "al'ummai"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "na sanya ka"
+    }
+  ],
+  "timestamp": "2026-08-11T23:35:49.967180313Z",
+  "model": "glm-5.2"
+}

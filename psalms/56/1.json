@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 56,
+  "translation": "Ga shugaban mawaƙa, akan \"Jurabin da ba ta jin komai a nesa,\" na Dawuda, miktam, a lokacin da Falisɗawa suka kama ⟨את⟩ shi a Gati.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga shugaban mawaƙa"
+    },
+    {
+      "surface": "על",
+      "gloss": "akan"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "\"jurabin"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "da ba ta jin komai"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "a nesa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na Dawuda"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "a lokacin da suka kama"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falisɗawa"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "a Gati"
+    }
+  ],
+  "timestamp": "2026-08-12T19:52:27.010983881Z",
+  "model": "glm-5.2"
+}

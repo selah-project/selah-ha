@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Yahweh ya mayar min ⟨ce⟩ a cewa adalcena, a cewa tsabtacena a gaban idanunsa.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ya mayar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "a cewa adalcena"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "a cewa tsabtacena"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "idanunsa"
+    }
+  ],
+  "timestamp": "2026-08-12T10:41:41.040324449Z",
+  "model": "glm-5.2"
+}

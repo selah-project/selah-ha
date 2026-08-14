@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "ezekiel 16:58",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "⟨את⟩ ɓatar da ka yi, da ⟨את⟩ abubuwan yaƙyanka, kai kana ɗauke su, nan ne maganar Yahweh.",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓatar da ka yi"
+    },
+    {
+      "surface": "זִמָּתֵךְ",
+      "gloss": "ɓatar da ka yi"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "da ⟨את⟩",
+      "marks": "abubuwan yaƙyanka"
+    },
+    {
+      "surface": "תּוֹעֲבוֹתַיִךְ",
+      "gloss": "abubuwan yaƙyanka"
+    },
+    {
+      "surface": "אַתְּ",
+      "gloss": "kai"
+    },
+    {
+      "surface": "נְשָׂאתִים",
+      "gloss": "kana ɗauke su"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "nan ne maganar"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T17:09:36.103713224Z",
+  "model": "glm-5.2"
+}

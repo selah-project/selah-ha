@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Zebulun ba ya korar ⟨את⟩ mazauna Kitron, da ⟨את⟩ mazauna Nahalol; sai Ƙanan'awa ya zauna a tsakansa, suka zama bayin tilas.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "ya kora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazauna"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mazauna"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "mazauna"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mazauna"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalol"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sai ya zauna"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Ƙanan'awa"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "a tsakansa"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "suka zama"
+    },
+    {
+      "surface": "למס",
+      "gloss": "bayin tilas"
+    }
+  ],
+  "timestamp": "2026-08-12T07:16:48.441524174Z",
+  "model": "glm-5.2"
+}

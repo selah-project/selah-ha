@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Sannan Serug ya rayu, bayan ya haifar da ⟨את⟩ Nahor, shekara ɗari biyu, kuma ya haifi ƴaƴa maza da ƴaƴa mata.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kuma ya rayu"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ya haifar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ɗari biyu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "kuma ya haifi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ƴaƴa maza"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "kuma ƴaƴa mata"
+    }
+  ],
+  "timestamp": "2026-08-11T23:28:56.498288491Z",
+  "model": "glm-5.2"
+}

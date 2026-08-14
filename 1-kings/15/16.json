@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma yaki ya kasance a tsakanin Asa da Baasha, sarki ne ⟨na⟩ Yisra'el, duk kwanakinsu.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "kuma yaki"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "בין",
+      "gloss": "a tsakanin"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "kwanakinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T11:32:33.752574862Z",
+  "model": "glm-5.2"
+}

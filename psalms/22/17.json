@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Domin karnuka sun kewaye ni; ƙungiyar mugu sun kewaye ni; ⟨suna⟩ yin kama da zaki ga hannaye na da ƙafafu na.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "sun kewaye ni"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "karnuka"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ƙungiyar"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "mugu"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "sun kewaye ni"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "kama da zaki"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hannaye na"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "da ƙafafu na"
+    }
+  ],
+  "timestamp": "2026-08-12T19:27:12.569682108Z",
+  "model": "glm-5.2"
+}

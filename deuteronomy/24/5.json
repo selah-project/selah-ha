@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 24:5",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Sa'an nan idan wani mutum ya auri mace sabuwa, ba zai fita ⟨a⟩ yaƙi ba, kuma ba za a buɗe masa ⟨abin⟩ a kowane al'amari ba; yana da 'yanci a gida ⟨na⟩ shekara guda, kuma ya bada wa ⟨את⟩ matar da ya aura murna.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Sa'an nan idan"
+    },
+    {
+      "surface": "יִקַּ֥ח",
+      "gloss": "ya aura"
+    },
+    {
+      "surface": "אִישׁ֙",
+      "gloss": "wani mutum"
+    },
+    {
+      "surface": "אִשָּׁ֣ה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "חֲדָשָׁ֔ה",
+      "gloss": "sabuwa"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יֵצֵא֙",
+      "gloss": "zai fita"
+    },
+    {
+      "surface": "בַּצָּבָ֔א",
+      "gloss": "a yaƙi"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יַעֲבֹ֥ר",
+      "gloss": "za a buɗe"
+    },
+    {
+      "surface": "עָלָ֖יו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "a kowane"
+    },
+    {
+      "surface": "דָּבָ֑ר",
+      "gloss": "al'amari"
+    },
+    {
+      "surface": "נָקִ֞י",
+      "gloss": "'yanci"
+    },
+    {
+      "surface": "יִהְיֶ֤ה",
+      "gloss": "yana da"
+    },
+    {
+      "surface": "לְבֵיתוֹ֙",
+      "gloss": "a gida"
+    },
+    {
+      "surface": "שָׁנָ֣ה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "אֶחָ֔ת",
+      "gloss": "guda"
+    },
+    {
+      "surface": "וְשִׂמַּ֖ח",
+      "gloss": "kuma ya bada wa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "matar"
+    },
+    {
+      "surface": "אִשְׁתּ֥וֹ",
+      "gloss": "matar"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לָקָֽח",
+      "gloss": "ya aura"
+    }
+  ],
+  "timestamp": "2026-08-12T05:35:08.374997406Z",
+  "model": "glm-5.2"
+}

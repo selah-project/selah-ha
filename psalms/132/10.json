@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 132,
+  "translation": "Don sha'awar Dawida, bāronka, kada ka juya ⟨bisa⟩ fuskar Mashíajinka.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "don sha'awar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bāronka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ka juya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨bisa⟩ fuskar"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashíajinka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:48:12.722442171Z",
+  "model": "glm-5.2"
+}

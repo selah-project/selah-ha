@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 34:8",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Kuma ƴan Isra'ila sun yi kuka ⟨את⟩ Moshe a cikin filayen Moab, kwanaki talatin, kuma kwanakun kuka da makoki na Moshe sun ƙare.",
+  "tokens": [
+    {
+      "surface": "ויבכו",
+      "gloss": "sun yi kuka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "a cikin filayen"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "talatin"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "ויתמו",
+      "gloss": "sun ƙare"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwanakun"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "da makoki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "na Moshe"
+    }
+  ],
+  "timestamp": "2026-08-12T06:04:54.436846102Z",
+  "model": "glm-5.2"
+}

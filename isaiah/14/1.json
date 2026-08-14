@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 14:1",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Domin Yahweh zai nuna tausayiwa ga ⟨את⟩ Ya'aƙob, kuma zai zaɓa ⟨har⟩ sai a cikin Isira'ila, kuma zai sa su su huta a ƙasarsu, kuma baƙo zai shiga tare da su, kuma za a ɗaure su a kan gidan Ya'aƙob.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "zai nuna tausayiwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ya'aƙob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aƙob"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "kuma zai zaɓa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨har⟩ sai"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "a cikin Isira'ila"
+    },
+    {
+      "surface": "והניחם",
+      "gloss": "kuma zai sa su su huta"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "ƙasarsu"
+    },
+    {
+      "surface": "ונלוה",
+      "gloss": "kuma zai shiga"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "baƙo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "tare da su"
+    },
+    {
+      "surface": "ונספחו",
+      "gloss": "kuma za a ɗaure su"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aƙob"
+    }
+  ],
+  "timestamp": "2026-08-12T13:18:47.604947324Z",
+  "model": "glm-5.2"
+}

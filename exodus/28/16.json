@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Mai kāla huɗu ⟨za ta kasance⟩ an nade; faɗin yatsu tsawonta, kuma faɗin yatsu faɗinta.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "Mai kāla huɗu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨za ta kasance⟩"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "an nade"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "faɗin yatsu"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "tsawonta"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "kuma faɗin yatsu"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "faɗinta"
+    }
+  ],
+  "timestamp": "2026-08-12T01:11:43.492224858Z",
+  "model": "glm-5.2"
+}

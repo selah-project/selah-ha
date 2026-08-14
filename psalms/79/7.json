@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 79,
+  "translation": "Dõmin sun ci ⟨את⟩ Ya'ƙub, kuma mazauninsa suka bã shi fàƙwà.",
+  "tokens": [
+    {
+      "surface": "כִּ֭י",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "אָכַ֣ל",
+      "gloss": "sun ci"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "Ya'ƙub"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "Ya'ƙub"
+    },
+    {
+      "surface": "וְֽאֶת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "mazauninsa"
+    },
+    {
+      "surface": "נָוֵ֥הוּ",
+      "gloss": "mazauninsa"
+    },
+    {
+      "surface": "הֵשַֽׁמּוּ",
+      "gloss": "suka bã fàƙwà"
+    }
+  ],
+  "timestamp": "2026-08-12T20:13:51.597362394Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "La'ana ⟨ke a kankat⟩ a cikin birni, kuma la'ana ⟨ke a kankat⟩ a cikin gona.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "La'ana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ke a kankat"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a cikin birni"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "kuma la'ana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ke a kankat"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a cikin gona"
+    }
+  ],
+  "timestamp": "2026-08-12T05:43:46.295200335Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 4:3",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "idanakahōran da aka shafa ya yi zunubi don laifin mutãnen, to ya kawo don zunubin da ya yi, ragon ɗan shanu mara gyāra ga Yahweh, ga zunubi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahōran"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "da aka shafa"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "ya yi zunubi"
+    },
+    {
+      "surface": "לאשמת",
+      "gloss": "don laifin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "to ya kawo"
+    },
+    {
+      "surface": "על",
+      "gloss": "don"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "zunubin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ragon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "mara gyāra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ga zunubi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:46:24.176525781Z",
+  "model": "glm-5.2"
+}

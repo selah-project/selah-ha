@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 16:18",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma suka auna da omer, ⟨amma⟩ wanda ya yawaita bai yawaita ba, ⟨kuma⟩ wanda ya rage bai rage ba; kowane mutum gwargwadon abincin sa ya tara.",
+  "tokens": [
+    {
+      "surface": "וימדו",
+      "gloss": "Kuma suka auna"
+    },
+    {
+      "surface": "בעמר",
+      "gloss": "da omer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨amma⟩ bai"
+    },
+    {
+      "surface": "העדיף",
+      "gloss": "yawaita"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "ba wanda"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "⟨kuma⟩ wanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bai"
+    },
+    {
+      "surface": "החסיר",
+      "gloss": "rage"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ba kowane mutum"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "gwargwadon"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "abincin sa"
+    },
+    {
+      "surface": "לקטו",
+      "gloss": "ya tara"
+    }
+  ],
+  "timestamp": "2026-08-12T00:51:55.390943954Z",
+  "model": "glm-5.2"
+}

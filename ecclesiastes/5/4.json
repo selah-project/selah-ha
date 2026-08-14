@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Mafi kyau ⟨ne⟩ abin da ba ka yi wa'adi ba, fiye da ka yi wa'adi kuma ba ka cika ba.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mafi kyau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ka yi wa'adi"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "fiye da ka yi wa'adi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "ka cika ba"
+    }
+  ],
+  "timestamp": "2026-08-12T22:44:14.828768454Z",
+  "model": "glm-5.2"
+}

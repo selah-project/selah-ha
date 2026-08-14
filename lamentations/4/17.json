@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 4:17",
+  "book": "lamentations",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Har yanzu idanenu suna ƙarewa ⟨a⟩ duban taimakonmu — ⟨shi⟩ iska; a cikin tsammaninmu muna tsammani ⟨a⟩ wata al'umma da ba za ta iya cetonmu ba.",
+  "tokens": [
+    {
+      "surface": "עודינה",
+      "gloss": "har yanzu"
+    },
+    {
+      "surface": "תכלינה",
+      "gloss": "suna ƙarewa"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "idanenu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "עזרתנו",
+      "gloss": "taimakonmu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "iska"
+    },
+    {
+      "surface": "בצפיתנו",
+      "gloss": "a cikin tsammaninmu"
+    },
+    {
+      "surface": "צפינו",
+      "gloss": "muna tsammani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "wata al'umma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "za ta iya cetonmu"
+    }
+  ],
+  "timestamp": "2026-08-12T22:38:36.431835284Z",
+  "model": "glm-5.2"
+}

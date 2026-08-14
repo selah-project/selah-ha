@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 1:31",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Asher ba ya korar ⟨את⟩ mazauna Akko, da ⟨את⟩ mazauna Tsidon, da ⟨את⟩ Achlab, da ⟨את⟩ Akzib, da ⟨את⟩ Helbah, da ⟨את⟩ Afek, da ⟨את⟩ Rehov;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "ya kora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazauna"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mazauna"
+    },
+    {
+      "surface": "עכו",
+      "gloss": "Akko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "mazauna"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mazauna"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Achlab"
+    },
+    {
+      "surface": "אחלב",
+      "gloss": "Achlab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Akzib"
+    },
+    {
+      "surface": "אכזיב",
+      "gloss": "Akzib"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Helbah"
+    },
+    {
+      "surface": "חלבה",
+      "gloss": "Helbah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Afek"
+    },
+    {
+      "surface": "אפיק",
+      "gloss": "Afek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Rehov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehov"
+    }
+  ],
+  "timestamp": "2026-08-12T07:16:48.441726660Z",
+  "model": "glm-5.2"
+}

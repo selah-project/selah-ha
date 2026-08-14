@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 171,
+  "ref": "psalms 119:171",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Lebãna na zã su yãwa gõɗe, dõmin kana koya mini ƙa'idojinka.",
+  "tokens": [
+    {
+      "surface": "תבענה",
+      "gloss": "su yãwa"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "Lebãna na"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "gõɗe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "kana koya mini"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ƙa'idojinka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:44:26.659788522Z",
+  "model": "glm-5.2"
+}

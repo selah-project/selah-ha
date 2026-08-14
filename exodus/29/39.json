@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "⟨את⟩ tumakin guda ka yi a safe, kuma ⟨את⟩ tumakin na biyu ka yi tsakanin maraice.",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tumakin guda"
+    },
+    {
+      "surface": "הַכֶּ֥בֶשׂ",
+      "gloss": "tumakin"
+    },
+    {
+      "surface": "הָאֶחָ֖ד",
+      "gloss": "guda"
+    },
+    {
+      "surface": "תַּעֲשֶׂ֣ה",
+      "gloss": "ka yi"
+    },
+    {
+      "surface": "בַבֹּ֑קֶר",
+      "gloss": "a safe"
+    },
+    {
+      "surface": "וְאֵת֙",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "tumakin na biyu"
+    },
+    {
+      "surface": "הַכֶּ֣בֶשׂ",
+      "gloss": "tumakin"
+    },
+    {
+      "surface": "הַשֵּׁנִ֔י",
+      "gloss": "na biyu"
+    },
+    {
+      "surface": "תַּעֲשֶׂ֖ה",
+      "gloss": "ka yi"
+    },
+    {
+      "surface": "בֵּ֥ין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "הָעַרְבָּֽיִם",
+      "gloss": "maraice"
+    }
+  ],
+  "timestamp": "2026-08-12T01:14:27.817422515Z",
+  "model": "glm-5.2"
+}

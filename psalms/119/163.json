@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Karya na ƙi, ina ƙi ta, amma Torarka na so.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "Karya"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "na ƙi"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "ina ƙi ta"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "amma Torarka"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "na so"
+    }
+  ],
+  "timestamp": "2026-08-12T20:43:34.603500114Z",
+  "model": "glm-5.2"
+}

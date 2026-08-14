@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Domi ba sa maganar salama, a kan masu kwantar da hankali a ƙasa, kalmomin zagi suna tunanin su.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "maganar salama"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": ""
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "masu kwantar da hankali"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a ƙasa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "zagi"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "suna tunanin su"
+    }
+  ],
+  "timestamp": "2026-08-12T19:37:19.671061691Z",
+  "model": "glm-5.2"
+}

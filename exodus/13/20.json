@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Suka tafi daga Sukkot, suka sansa a Etam, a gefen jeji.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "suka tafi daga"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "suka sansa"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "a Etam"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "a gefen"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "jeji"
+    }
+  ],
+  "timestamp": "2026-08-12T00:47:50.184533369Z",
+  "model": "glm-5.2"
+}

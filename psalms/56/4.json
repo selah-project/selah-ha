@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 56,
+  "translation": "A rán da na fi tsoro, ni, gare ka ne na dogara.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "A rán"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "da na fi tsoro"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gare ka"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ne na dogara"
+    }
+  ],
+  "timestamp": "2026-08-12T19:52:27.011497526Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "shida daga cikin sunayensu a kan ⟨duhun⟩ daya, da ⟨את⟩ sunayen ⟨shida⟩ da suka rage a kan ⟨duhun⟩ ta biyu, gwargwadon haihuwarsu.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "shida"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "daga cikin sunayensu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "⟨duhun⟩"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "daya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "sunayen"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sunayen"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "⟨shida⟩"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "da suka rage"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "⟨duhun⟩"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ta biyu"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "gwargwadon haihuwarsu"
+    }
+  ],
+  "timestamp": "2026-08-12T01:08:53.248785451Z",
+  "model": "glm-5.2"
+}

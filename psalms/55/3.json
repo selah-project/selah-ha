@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 55,
+  "translation": "Ka ba ni kunne, ka amsa ni, ina rarrafe cikin bācīna, ina gudu.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Ka ba ni kunne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ka amsa ni"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "ina rarrafe"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "cikin bācīna"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "ina gudu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:52:54.794440088Z",
+  "model": "glm-5.2"
+}

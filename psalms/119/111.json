@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Na gaji ⟨את⟩ shaidun-ka har abada, domin su ne murnar zuciya-ta.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "na gaji"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "shaidun-ka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "murna"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciya-ta"
+    },
+    {
+      "surface": "המה",
+      "gloss": "su ne"
+    }
+  ],
+  "timestamp": "2026-08-12T20:44:58.368713979Z",
+  "model": "glm-5.2"
+}

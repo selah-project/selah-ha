@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 55,
+  "translation": "Ni zuwa Elohim zan kira, kuma Yahweh zai cece ni.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "zan kira"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kuma Yahweh"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "zai cece ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:51:29.219732173Z",
+  "model": "glm-5.2"
+}

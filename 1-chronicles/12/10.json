@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Ezer shi ⟨ne⟩ na farko, Ovadyah na biyu, Eliyav na uku.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "Ezer"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "shi ⟨ne⟩ na farko"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Ovadyah"
+    },
+    {
+      "surface": "השני",
+      "gloss": "na biyu"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliyav"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "na uku"
+    }
+  ],
+  "timestamp": "2026-08-13T00:08:58.058942674Z",
+  "model": "glm-5.2"
+}

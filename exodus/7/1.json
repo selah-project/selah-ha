@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Yahweh ya ce wa Mosheh: \"Duba, na sanya ka ⟨a matsayin⟩ Elohim ga Paroh, kuma Aharon ɗan'uwanka zai zama annabin ka.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "duba"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "na sanya ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ga Paroh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "kuma Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ɗan'uwanka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zai zama"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "annabin ka"
+    }
+  ],
+  "timestamp": "2026-08-12T00:36:41.986094942Z",
+  "model": "glm-5.2"
+}

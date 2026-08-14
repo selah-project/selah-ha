@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "⟨A matsayin⟩ hadaya, hadayar farko kuke kawo ⟨את⟩ su ga Yahweh, amma ba za a hau ⟨su⟩ a kan altarin don wari mai natsuwa ba.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "hadaya"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "hadayar farko"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "kuke kawo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "amma game da"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba za a"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "hau"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "don wari"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "mai natsuwa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:42:44.661664441Z",
+  "model": "glm-5.2"
+}

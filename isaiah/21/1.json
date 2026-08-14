@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Abin ɗauka ⟨na⟩ jejin teku. Kamar guguwoji a kudu suna wucewa, yana zuwa daga jeji, daga ƙasa mai girma.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "abin ɗauka"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "jeji"
+    },
+    {
+      "surface": "ים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "kamar guguwoji"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "a kudu"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "suna wucewa"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "daga jeji"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yana zuwa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasa"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "mai girma"
+    }
+  ],
+  "timestamp": "2026-08-12T13:26:51.196457403Z",
+  "model": "glm-5.2"
+}

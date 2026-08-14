@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 101,
+  "translation": "Ba zan sanya ⟨abu na beliya'al⟩ a gaban idanuwata ba. Aikin masu karkata na ƙi, ba zai daɗe da ni ba.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אָשִׁ֨ית",
+      "gloss": "zan sanya"
+    },
+    {
+      "surface": "לְנֶ֥גֶד",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "עֵינַ֗י",
+      "gloss": "idanuwata"
+    },
+    {
+      "surface": "דְּֽבַר",
+      "gloss": "abu"
+    },
+    {
+      "surface": "בְּלִ֫יָּ֥עַל",
+      "gloss": "na beliya'al"
+    },
+    {
+      "surface": "עֲשֹֽׂה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "סֵטִ֥ים",
+      "gloss": "masu karkata"
+    },
+    {
+      "surface": "שָׂנֵ֑אתִי",
+      "gloss": "na ƙi"
+    },
+    {
+      "surface": "לֹ֖א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יִדְבַּ֣ק",
+      "gloss": "zai daɗe"
+    },
+    {
+      "surface": "בִּֽי",
+      "gloss": "da ni"
+    }
+  ],
+  "timestamp": "2026-08-12T20:26:26.310125259Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma mutãnen za su yi tãƙaita, mutum game da mutum, kuma mutum game da makwãbcinsa; yãrõye za su yi tãka tsagi a kan dattijai, kuma wanda aka ƙẽɗe a cikin mai daraja.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "kuma za a dãma"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "game da mutum"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kuma mutum"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "game da makwãbcinsa"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "za su yi tãka tsagi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "yãrõye"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "a kan dattijai"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "kuma wanda aka ƙẽɗe"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "a cikin mai daraja"
+    }
+  ],
+  "timestamp": "2026-08-12T12:58:21.750192747Z",
+  "model": "glm-5.2"
+}

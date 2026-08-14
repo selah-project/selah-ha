@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma ⟨Ya⟩ ce, \"Me ka aikata? Muryar jinin ɗan'uwanka tana kururuwa Zuwa gare Ni daga ƙasar.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ⟨Ya⟩ ce"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Me"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ka aikata"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Muryar"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "jinin"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ɗan'uwanka"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "tana kururuwa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Zuwa gare Ni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ƙasar"
+    }
+  ],
+  "timestamp": "2026-08-11T23:22:40.582516149Z",
+  "model": "glm-5.2"
+}

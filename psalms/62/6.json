@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 62,
+  "translation": "Shi kaɗai, ga Elohim, ya yi shiru, raiṅa; domin daga gare shi fata ce ta gani.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "shi kaɗai"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ga Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "ya yi shiru"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "raiṅa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare shi"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "fata ta"
+    }
+  ],
+  "timestamp": "2026-08-12T19:55:42.967006659Z",
+  "model": "glm-5.2"
+}

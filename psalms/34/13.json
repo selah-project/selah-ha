@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Wãne ne mutumin da yake neman rai, yana ƙaunar kwanãki, don ya ga ⟨gaskiya⟩ alhẽri?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wãne ne"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "da yake neman"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "rai"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yana ƙaunar"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanãki"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "don ya ga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "alhẽri"
+    }
+  ],
+  "timestamp": "2026-08-12T19:36:12.485120699Z",
+  "model": "glm-5.2"
+}

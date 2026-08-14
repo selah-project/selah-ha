@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "kujerar sarautarka, Elohim, ⟨ita ce⟩ har abadada; sandar daidaito ⟨ita ce⟩ sandar mulkininka.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "kujerar sarautarka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "da abadada"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sandar"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "daidaito"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sandar"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "mulkininka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:46:42.948619101Z",
+  "model": "glm-5.2"
+}

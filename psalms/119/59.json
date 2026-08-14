@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 119:59",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Na yi la'akari da hanyoyina, kuma na mayar ƙafafuwa ⟨zuwa⟩ ga shaidoshinka.",
+  "tokens": [
+    {
+      "surface": "חִשַּׁ֥בְתִּי",
+      "gloss": "Na yi la'akari"
+    },
+    {
+      "surface": "דְרָכָ֑י",
+      "gloss": "da hanyoyina"
+    },
+    {
+      "surface": "וָאָשִׁ֥יבָה",
+      "gloss": "kuma na mayar"
+    },
+    {
+      "surface": "רַגְלַ֗י",
+      "gloss": "ƙafafuwa"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨zuwa⟩ ga"
+    },
+    {
+      "surface": "עֵדֹתֶֽיךָ",
+      "gloss": "shaidoshinka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:41:22.325767780Z",
+  "model": "glm-5.2"
+}

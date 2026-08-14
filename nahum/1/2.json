@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 1:2",
+  "book": "nahum",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "El mai kishi kuma mai rama, Yahweh; mai rama Yahweh, kuma mai zurfin fushi; Yahweh yana rama ga masu tsanansa, kuma Shi yana kiyaye ⟨fushi⟩ ga maƙiyansa.",
+  "tokens": [
+    {
+      "surface": "אֵ֣ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "קַנּ֤וֹא",
+      "gloss": "mai kishi"
+    },
+    {
+      "surface": "וְנֹקֵם֙",
+      "gloss": "kuma mai rama"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נֹקֵ֥ם",
+      "gloss": "mai rama"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וּבַ֣עַל",
+      "gloss": "kuma mai"
+    },
+    {
+      "surface": "חֵמָ֑ה",
+      "gloss": "zurfin fushi"
+    },
+    {
+      "surface": "נֹקֵ֤ם",
+      "gloss": "yana rama"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לְצָרָ֔יו",
+      "gloss": "ga masu tsanansa"
+    },
+    {
+      "surface": "וְנוֹטֵ֥ר",
+      "gloss": "kuma yana kiyaye"
+    },
+    {
+      "surface": "ה֖וּא",
+      "gloss": "Shi"
+    },
+    {
+      "surface": "לְאֹיְבָֽיו",
+      "gloss": "ga maƙiyansa"
+    }
+  ],
+  "timestamp": "2026-08-12T18:48:33.759476762Z",
+  "model": "glm-5.2"
+}

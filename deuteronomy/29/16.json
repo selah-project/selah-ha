@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma kuka ga ⟨את⟩ ⟨abubuwan ɓarna⟩ su da ⟨את⟩ ⟨gumakansu⟩ — itace da dutse, azurfa da zinari, waɗanda ke tare da su.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "Kuma kuka ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abubuwan ɓarna"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "abubuwan ɓarna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "gumakansu"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "gumakansu"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "itace"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "da dutse"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "azurfa"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "da zinari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "tare da su"
+    }
+  ],
+  "timestamp": "2026-08-12T05:48:22.685171686Z",
+  "model": "glm-5.2"
+}

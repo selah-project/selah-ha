@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Sai suka tsarkake ⟨את⟩ Qadesh a Galili a cikin tsaunin Naftali, da ⟨את⟩ Shechem a cikin tsaunin Efrayim, da ⟨את⟩ Qiryat-Arba' ita ce Hevron a cikin tsaunin Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "Sai suka tsarkake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qadesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qadesh"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "a Galili"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a cikin tsaunin"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Shechem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shechem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a cikin tsaunin"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Qiryat-Arba'"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba'"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ita ce"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a cikin tsaunin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-12T07:02:28.242775265Z",
+  "model": "glm-5.2"
+}

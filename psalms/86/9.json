@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 86,
+  "translation": "Duk ⟨kabilun⟩ da ka yi za su zo, kuma su lallasa su bauta wa gabanka, Adonai, ⟨kuma⟩ su ɗaukaka sunanka.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kabilun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ka yi"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "za su zo"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "kuma su lallasa su bauta"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ga gabanka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "kuma su ɗaukaka"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "sunanka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:14:48.323858780Z",
+  "model": "glm-5.2"
+}

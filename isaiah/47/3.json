@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Za a bayyana tsiranku, har ana ganina bayan kunyarku; ramuwar gayya Ni ⟨ne⟩ zan yi, ba zan hana ⟨kai⟩ mutum ba.",
+  "tokens": [
+    {
+      "surface": "תִּגָּל֙",
+      "gloss": "Za a bayyana"
+    },
+    {
+      "surface": "עֶרְוָתֵ֔ךְ",
+      "gloss": "tsiranku"
+    },
+    {
+      "surface": "גַּ֥ם",
+      "gloss": "har"
+    },
+    {
+      "surface": "תֵּרָאֶ֖ה",
+      "gloss": "ana gani"
+    },
+    {
+      "surface": "חֶרְפָּתֵ֑ךְ",
+      "gloss": "bayan kunyarku"
+    },
+    {
+      "surface": "נָקָ֣ם",
+      "gloss": "ramuwar gayya"
+    },
+    {
+      "surface": "אֶקָּ֔ח",
+      "gloss": "Ni zan yi"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "ba zan"
+    },
+    {
+      "surface": "אֶפְגַּ֖ע",
+      "gloss": "hana"
+    },
+    {
+      "surface": "אָדָֽם",
+      "gloss": "mutum"
+    }
+  ],
+  "timestamp": "2026-08-12T14:21:30.023192555Z",
+  "model": "glm-5.2"
+}

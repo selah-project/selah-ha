@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 1:14",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma idan hadayarsa tsuntsu ce ta ƙonewa ga Yahweh, to ⟨za a⟩ kusantar da ⟨daga⟩ tururuwa ko ⟨daga⟩ 'ya'yan itatuwan jingina ⟨את⟩ hadayarsa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨daga⟩"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "tsuntsu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ta ƙonewa"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "hadayarsa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "to ⟨za a⟩ kusantar da"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨daga⟩"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "tururuwa"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨daga⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "jingina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadayarsa"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "hadayarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:44:26.063610861Z",
+  "model": "glm-5.2"
+}

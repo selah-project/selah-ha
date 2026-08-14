@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kada ku yi haka ga Yahweh, Elohin ku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ku yi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohin ku"
+    }
+  ],
+  "timestamp": "2026-08-12T05:13:25.439215427Z",
+  "model": "glm-5.2"
+}

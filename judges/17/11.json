@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 17:11",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma Lewin ya yarda ya zauna tare da ⟨את⟩ mutumin, kuma samurin ya kasance gare shi kamar ɗaya daga cikin 'ya'yansa.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "ya yarda"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Lewin"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ya zauna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutumin"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "samurin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gare shi"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "kamar ɗaya"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "daga cikin 'ya'yansa"
+    }
+  ],
+  "timestamp": "2026-08-12T08:04:41.714104631Z",
+  "model": "glm-5.2"
+}

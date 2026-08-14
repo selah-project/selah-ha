@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma macijin ya faɗa wa mace, \"Ba zã ku mutu ba.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya faɗa"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "macijin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "מות",
+      "gloss": "zã"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "ku mutu ba"
+    }
+  ],
+  "timestamp": "2026-08-11T23:22:50.487332610Z",
+  "model": "glm-5.2"
+}

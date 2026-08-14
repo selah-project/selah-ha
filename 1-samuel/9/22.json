@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 9:22",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Sai Shemu'el ya dauko ⟨את⟩ Shaul da ⟨את⟩ bāwōnsa, ya kai su cikin dakin, ya ba su wuri a tsakanin baki kusan mutāne talatin.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ya dauko"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bāwōnsa"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "bāwōnsa"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "ya kai su"
+    },
+    {
+      "surface": "לשכתה",
+      "gloss": "cikin dakin"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "su"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "wuri"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "a tsakanin"
+    },
+    {
+      "surface": "הקרואים",
+      "gloss": "baki"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "suna"
+    },
+    {
+      "surface": "כשלשים",
+      "gloss": "kusan talatin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutāne"
+    }
+  ],
+  "timestamp": "2026-08-12T08:47:52.505975081Z",
+  "model": "glm-5.2"
+}

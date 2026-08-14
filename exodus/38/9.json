@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Kuma ya yi ⟨את⟩ ɗakin-shago, a ƙwarters gefen kudu, haske-gefen kudu; waɗannan allunan ɗakin-shago na suna linin da aka nade, ɗari cikin dogaro.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗakin-shago"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ɗakin-shago"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "a ƙwarters"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "gefen kudu"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "haske-gefen kudu"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "allunan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "na ɗakin-shago"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linin"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "da aka nade"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "cikin dogaro"
+    }
+  ],
+  "timestamp": "2026-08-12T01:32:00.683194060Z",
+  "model": "glm-5.2"
+}

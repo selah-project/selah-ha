@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 7:22",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": " domin ba ni na yi magana ⟨da⟩ ⟨את⟩ ubanninku, kuma ba ni na umurta su, a rana da nake fitar ⟨את⟩ ⟨da⟩ su daga ƙasar Mitsrayim, game da lambobin ƙwarye da yanka.",
+  "tokens": [
+    {
+      "surface": "כִּ֠י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "דִבַּ֤רְתִּי",
+      "gloss": "na yi magana"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ubanninku"
+    },
+    {
+      "surface": "אֲבֽוֹתֵיכֶם֙",
+      "gloss": "ubanninku"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "צִוִּיתִ֔ים",
+      "gloss": "ni na umurta su"
+    },
+    {
+      "surface": "בְּי֛וֹם",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "da nake fitar"
+    },
+    {
+      "surface": "אוֹתָ֖ם",
+      "gloss": "⟨את⟩ ⟨da⟩ su"
+    },
+    {
+      "surface": "מֵאֶ֣רֶץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "מִצְרָ֑יִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "game da"
+    },
+    {
+      "surface": "דִבְרֵ֥י",
+      "gloss": "lambobin"
+    },
+    {
+      "surface": "עוֹלָ֖ה",
+      "gloss": "ƙwarye"
+    },
+    {
+      "surface": "וָזָֽבַח",
+      "gloss": "da yanka"
+    }
+  ],
+  "timestamp": "2026-08-12T15:12:41.238529475Z",
+  "model": "glm-5.2"
+}

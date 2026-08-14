@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 14:31",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma Yisra'el ya ga ⟨את⟩ hannun ⟨nasan⟩ mai girma da Yahweh ya yi a Mitsrayim, kuma mutanen suka ji tsoron ⟨את⟩ Yahweh, kuma suka yi imani da Yahweh da kuma da Mose bawanSa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Kuma ya ga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannun"
+    },
+    {
+      "surface": "היד",
+      "gloss": "hannun"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "mai girma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "a Mitsrayim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "kuma suka ji tsoron"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמינו",
+      "gloss": "kuma suka yi imani"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "da Yahweh"
+    },
+    {
+      "surface": "ובמשה",
+      "gloss": "da kuma da Mose"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "bawanSa"
+    }
+  ],
+  "timestamp": "2026-08-13T01:44:56.132060547Z",
+  "model": "glm-5.2"
+}

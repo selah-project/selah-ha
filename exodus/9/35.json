@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Zuciyar Paroh ta ƙarfafa, kuma ba ya aiko ⟨da⟩ ⟨את⟩ ƴan Isra'ila, kamar yadda Yahweh ya faɗa da hannun Mosheh.",
+  "tokens": [
+    {
+      "surface": "וַֽיֶּחֱזַק֙",
+      "gloss": "ta ƙarfafa"
+    },
+    {
+      "surface": "לֵ֣ב",
+      "gloss": "zuciyar"
+    },
+    {
+      "surface": "פַּרְעֹ֔ה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "שִׁלַּ֖ח",
+      "gloss": "ya aiko"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ƴan Isra'ila"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "ƴan"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֛ר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "דִּבֶּ֥ר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בְּיַד",
+      "gloss": "da hannun"
+    },
+    {
+      "surface": "מֹשֶֽׁה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-12T00:38:31.305062359Z",
+  "model": "glm-5.2"
+}

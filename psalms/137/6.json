@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 137,
+  "translation": "Ta manne harshena da fadar bakina, idan ba na tunãtar da kai ba, idan ba na tãkawa ⟨את⟩ Yerushalaim a saman farin cikina ba.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "ta manne"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "harshena"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "da fadar bakina"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "na tunãtar da kai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "na tãkawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "על",
+      "gloss": "a saman"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "farin"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "cikina"
+    }
+  ],
+  "timestamp": "2026-08-12T20:56:31.197470104Z",
+  "model": "glm-5.2"
+}

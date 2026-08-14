@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Dominator shi ⟨ya⟩ kafa ta a kan teku, kuma a kan koguna ⟨shi⟩ ya tabbatar da ita.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dominator"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "ya kafa ta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kuma a kan"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "koguna"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "ya tabbatar da ita"
+    }
+  ],
+  "timestamp": "2026-08-12T19:31:04.709343797Z",
+  "model": "glm-5.2"
+}

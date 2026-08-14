@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 12:21",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Da Mosheh ya kira dukkan tsofaffin Yisra'el, ya ce musu: Ku janye ku riƙe ku da dabbobin garken ga iyalanku, ku yanka Pesaḥ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Da ya kira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ga dukkan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "tsofaffin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "משכו",
+      "gloss": "Ku janye"
+    },
+    {
+      "surface": "וקחו",
+      "gloss": "ku riƙe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ku da"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dabbobin garken"
+    },
+    {
+      "surface": "למשפחתיכם",
+      "gloss": "ga iyalanku"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "ku yanka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesaḥ"
+    }
+  ],
+  "timestamp": "2026-08-12T00:45:19.787017277Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Abinci ku siye daga ⟨את⟩ gare su da azurfa, ku ci; kuma ruwa ku siye daga ⟨את⟩ gare su da azurfa, ku sha.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "abinci"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "ku siye"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "daga ⟨את⟩ gare su"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "da azurfa"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ku ci"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "ku siye"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "daga ⟨את⟩ gare su"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "da azurfa"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "ku sha"
+    }
+  ],
+  "timestamp": "2026-08-13T01:53:59.837361488Z",
+  "model": "glm-5.2"
+}

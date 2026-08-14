@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 4:19",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kai ne, sarki, wanda ⟨ya⟩ girma ya ƙarfafa; kuma girmanka ya girma, ya isa sama, kuma mulkinka ⟨ya kai⟩ zuwa ƙarshen ƙasa.",
+  "tokens": [
+    {
+      "surface": "אנתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "די",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "⟨ka⟩ girma"
+    },
+    {
+      "surface": "ותקפת",
+      "gloss": "ka ƙarfafa"
+    },
+    {
+      "surface": "ורבותך",
+      "gloss": "kuma girmanka"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "ya girma"
+    },
+    {
+      "surface": "ומטת",
+      "gloss": "ya isa"
+    },
+    {
+      "surface": "לשמיא",
+      "gloss": "sama"
+    },
+    {
+      "surface": "ושלטנך",
+      "gloss": "kuma mulkinka"
+    },
+    {
+      "surface": "לסוף",
+      "gloss": "zuwa ƙarshen"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T23:05:26.069640421Z",
+  "model": "glm-5.2"
+}

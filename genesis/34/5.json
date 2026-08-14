@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Kuma Ya'aƙub ya ji cewa ⟨ya⟩ gurɓata ⟨את⟩ Dinah ɗiyarsa, kuma ɗiyansa sun kasance a ⟨את⟩ dabbobinsa a cikin gona, kuma Ya'aƙub ya shiru har sun zo.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Kuma Ya'aƙub"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ya ji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "gurɓata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinah"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ɗiyarsa"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "kuma ɗiyansa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sun kasance"
+    },
+    {
+      "surface": "את",
+      "gloss": "a ⟨את⟩",
+      "marks": "dabbobinsa"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "dabbobinsa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a cikin gona"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "kuma ya shiru"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aƙub"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "באם",
+      "gloss": "sun zo"
+    }
+  ],
+  "timestamp": "2026-08-12T00:05:27.190905662Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Haƙiƙa an sace ni daga ƙasar HaIbraniyawa, kuma har nan ma ba na komai ba na yi ⟨don⟩ a sa ni cikin ramin dare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "haƙiƙa"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "an sace"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "HaIbraniyawa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kuma har"
+    },
+    {
+      "surface": "פה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "na yi"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "komai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "don"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a sa ni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "cikin ramin dare"
+    }
+  ],
+  "timestamp": "2026-08-12T00:10:56.474609211Z",
+  "model": "glm-5.2"
+}

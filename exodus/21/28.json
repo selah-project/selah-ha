@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma idan shanu sun yi wa ⟨את⟩ mutum ko ⟨את⟩ mace kahon, kuma ya mutu, a kai shi duwatsu, za a jefa shi duwatsu, ⟨wannan⟩ shanun; kuma ba za a ci ⟨את⟩ naman sa; kuma mai shanun ⟨ya kasance⟩ maras laifi.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "sun yi wa...kahon"
+    },
+    {
+      "surface": "שור",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutum"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mace"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "kuma ya mutu"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "a kai shi duwatsu"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "za a jefa shi duwatsu"
+    },
+    {
+      "surface": "השור",
+      "gloss": "⟨wannan⟩ shanun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba za"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "a ci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naman sa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "naman sa"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "kuma mai"
+    },
+    {
+      "surface": "השור",
+      "gloss": "shanun"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "maras laifi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:59:25.389410904Z",
+  "model": "glm-5.2"
+}

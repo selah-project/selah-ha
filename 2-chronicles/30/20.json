@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma Yahweh ya sauraro Yehizkiyahu, kuma ya warjeri ⟨את⟩ jama'a.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Kuma ya sauraro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yehizkiyahu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "kuma ya warjeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jama'a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    }
+  ],
+  "timestamp": "2026-08-13T02:56:04.590353874Z",
+  "model": "glm-5.2"
+}

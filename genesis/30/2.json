@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma fushin Yaʻaqov ya ƙaru a kan Racheli, kuma ya ce: Shin ni ⟨ni⟩ a madadin Elohim ne, wanda ya hana ka ƴaƴan ciki?",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "kuma ya ƙaru"
+    },
+    {
+      "surface": "אף",
+      "gloss": "fushin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaʿaqov"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "a kan Racheli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "Shin ni a madadin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "ya hana"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ƴaƴan"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "ciki"
+    }
+  ],
+  "timestamp": "2026-08-11T23:55:47.897797304Z",
+  "model": "glm-5.2"
+}

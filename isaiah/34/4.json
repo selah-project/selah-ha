@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 34:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Kuma dukan rundunar samaniya za ta narka, kuma samaniya za a naɗa su kamar littafi, kuma duka rundunoninsu za su gurgunta, kamar yadda ganye ke faɗuwa daga inabi, kuma kamar yadda 'ya'yan itacen ɓaure ke faɗuwa.",
+  "tokens": [
+    {
+      "surface": "ונמקו",
+      "gloss": "Kuma za ta narka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "rundunar"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samaniya"
+    },
+    {
+      "surface": "ונגלו",
+      "gloss": "kuma za a naɗa su"
+    },
+    {
+      "surface": "כספר",
+      "gloss": "kamar littafi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samaniya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma duka"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "rundunoninsu"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "za su gurgunta"
+    },
+    {
+      "surface": "כנבל",
+      "gloss": "kamar yadda yake faɗuwa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ganye"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "daga inabi"
+    },
+    {
+      "surface": "וכנבלת",
+      "gloss": "kuma kamar yadda yake faɗuwa"
+    },
+    {
+      "surface": "מתאנה",
+      "gloss": "'ya'yan itacen ɓaure"
+    }
+  ],
+  "timestamp": "2026-08-12T13:51:55.436542050Z",
+  "model": "glm-5.2"
+}

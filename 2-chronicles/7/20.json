@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 7:20",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "sa'an nan zanshe su daga ƙasata da na bayar musu, ⟨את⟩ wannan gida da na tsarkake wa sunaNa zan jefa daga kan fuskata, kuma zan sa shi zama misali da abin zagi a tsakanin dukkan mutane.",
+  "tokens": [
+    {
+      "surface": "ונתשתים",
+      "gloss": "sa'an nan zanshe su"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "daga"
+    },
+    {
+      "surface": "אדמתי",
+      "gloss": "ƙasata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "na bayar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wannan gida"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הקדשתי",
+      "gloss": "na tsarkake wa"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "sunaNa"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "zan jefa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "daga kan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskata"
+    },
+    {
+      "surface": "ואתננו",
+      "gloss": "kuma zan sa shi zama"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "misali"
+    },
+    {
+      "surface": "ולשנינה",
+      "gloss": "da abin zagi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a tsakanin dukkan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mutane"
+    }
+  ],
+  "timestamp": "2026-08-13T02:43:37.648942063Z",
+  "model": "glm-5.2"
+}

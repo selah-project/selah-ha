@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 23:18",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "⟨ga⟩ Avraham a matsayin dukiya, a gaban 'ya'yan Chet, a gaban dukkan masu shiga ta ƙofar gari nasa.",
+  "tokens": [
+    {
+      "surface": "לאברהם",
+      "gloss": "⟨ga⟩ Avraham"
+    },
+    {
+      "surface": "למקנה",
+      "gloss": "a matsayin dukiya"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a gaban dukkan"
+    },
+    {
+      "surface": "באי",
+      "gloss": "masu shiga"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ta ƙofar"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "gari nasa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:43:04.352543436Z",
+  "model": "glm-5.2"
+}

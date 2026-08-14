@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 50:14",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "Kuma Yosef ya koma Mitsrayim, shi da ƴan'uwansa da duk waɗanda suka haura ⟨את⟩ tare da shi don binne ⟨את⟩ mahaifinsa, a bayan binne shi ⟨את⟩ mahaifinsa.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Kuma ya koma"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "da ƴan'uwansa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da duk"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "waɗanda suka haura"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ tare da shi"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "don binne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahaifinsa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "mahaifinsa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "a bayan"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "binne shi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahaifinsa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "mahaifinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:29:07.235271465Z",
+  "model": "glm-5.2"
+}

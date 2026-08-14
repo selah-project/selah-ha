@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Kuma ⟨את⟩ mutãtenessa za su koya, tsakanin tsarkaka da abin da ba a tsarkake, kuma tsakanin mahorata da tsarkakkẽ, za su sanar da su.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mutãtenessa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mutãtenessa"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "za su koya"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsarkaka"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "da abin da ba a tsarkake"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "kuma tsakanin"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "mahorata"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "da tsarkakkẽ"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "za su sanar da su"
+    }
+  ],
+  "timestamp": "2026-08-12T18:01:06.180547747Z",
+  "model": "glm-5.2"
+}

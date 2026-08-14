@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma ⟨Ya⟩ ce gare ni, ɗan adam, tsaya a ƙafafuka, kuma ina yi magana ⟨את⟩ kai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ⟨Ya⟩ ce"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "tsaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "ƙafafuka"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "kuma ina yi magana"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kai"
+    }
+  ],
+  "timestamp": "2026-08-12T16:48:33.838447988Z",
+  "model": "glm-5.2"
+}

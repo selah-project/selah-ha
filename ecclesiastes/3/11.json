@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 3:11",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "⟨Shi⟩ ya sanya ⟨את⟩ duka, kyau a lõkacinsa; harma ⟨את⟩ har abada ya sanya a cikin zukãtansu, tare da ⟨wannan⟩ cewa bã zã mutum ya samu ⟨את⟩ aikin da Elohim ya yi ba, daga farko har zuwa ƙarshe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya sanya"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "kyau"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "a lõkacinsa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "harma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "har abada"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya sanya"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "a cikin zukãtansu"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bã zã"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ya samu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aikin"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "daga farko"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ƙarshe"
+    }
+  ],
+  "timestamp": "2026-08-12T22:41:42.636910320Z",
+  "model": "glm-5.2"
+}

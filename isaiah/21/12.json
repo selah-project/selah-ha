@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Mai tsaron ya ce: \"Safiya ta zo, kuma dare ma. Idan kuna neman, ku nema; ku koma, ku zo.\"",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "mai tsaron"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ta zo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "safiya"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "dare ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "kuna neman"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "ku nema"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ku koma"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "ku zo"
+    }
+  ],
+  "timestamp": "2026-08-12T13:22:40.659701154Z",
+  "model": "glm-5.2"
+}

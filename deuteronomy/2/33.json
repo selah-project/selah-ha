@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "kuma Yahweh, Elohim mu, ya ba shi ⟨a gabanmu⟩, mun buɗe ⟨את⟩ shi da ⟨את⟩ 'ya'yansa maza da ⟨את⟩ dukan mutanensa.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "kuma ya ba shi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim mu"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "a gabanmu"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "mun buɗe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "'ya'yansa maza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mutanensa"
+    }
+  ],
+  "timestamp": "2026-08-12T04:53:54.150062996Z",
+  "model": "glm-5.2"
+}

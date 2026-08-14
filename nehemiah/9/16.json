@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Amma su da kakanmu sun yi girman kai, kuma suka tauraya ⟨את⟩ wuyansu, kuma ba su saurari ⟨ba⟩ a cikin umarninka.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Amma su"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "da kakanmu"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "suna yin girman kai"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "kuma suka tauraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuyansu"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "wuyansu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "saurari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a cikin"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "umarninka"
+    }
+  ],
+  "timestamp": "2026-08-12T23:45:30.275443222Z",
+  "model": "glm-5.2"
+}

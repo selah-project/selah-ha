@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Babu tunãtarwa ga na farko, kuma ga waɗanda za su biyo baya, waɗanda za su kasance, ba za a riƙa musu tunãtarwa ba tare da waɗanda za su kasance a ƙarshe.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "tunãtarwa"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "ga na farko"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kuma ga"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "waɗanda za su biyo baya"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "waɗanda za su kasance"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "za a riƙa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "tunãtarwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "waɗanda za su kasance"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "a ƙarshe"
+    }
+  ],
+  "timestamp": "2026-08-12T22:39:41.745915696Z",
+  "model": "glm-5.2"
+}

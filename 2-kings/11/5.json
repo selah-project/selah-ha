@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 11:5",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma ya umarce su yana cewa: wannan ⟨ne⟩ kalmar da kuke aikatawa — ɓangaren uku daga cikin ku, masu shiga ⟨na⟩ ranar Asabar, da masu tsaron wurin gadi na gidan sarki.",
+  "tokens": [
+    {
+      "surface": "ויצום",
+      "gloss": "Kuma ya umarce su"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kalmar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "kuke aikatawa"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "ɓangaren uku"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "daga cikin ku"
+    },
+    {
+      "surface": "באי",
+      "gloss": "masu shiga"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ranar Asabar"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "da masu tsaron"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "wurin gadi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    }
+  ],
+  "timestamp": "2026-08-12T12:18:14.891460930Z",
+  "model": "glm-5.2"
+}

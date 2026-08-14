@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "kuma ⟨את⟩ waɗannan mazaɓa↚ ya yi, kuma ⟨את⟩ kwantena ya yi a kan waɗannan mazaɓa↚.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "waɗannan mazaɓa↚"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "waɗannan mazaɓa↚"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "kwantena"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "kwantena"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "waɗannan mazaɓa↚"
+    }
+  ],
+  "timestamp": "2026-08-13T00:41:53.286891668Z",
+  "model": "glm-5.2"
+}

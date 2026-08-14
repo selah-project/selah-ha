@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "⟨Domin⟩ na ce: chesed za a gina shi har abada; sama, kai za ka tabbatar da amincinka a cikinsu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨Domin⟩"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "na ce"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "za a gina"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "za ka tabbatar da"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "amincinka"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "a cikinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:17:54.379738572Z",
+  "model": "glm-5.2"
+}

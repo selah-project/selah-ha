@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "'Ya'yan Mosheh ⟨su ne⟩ Gershom da Eliezer.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "'Ya'yan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "da Eliezer"
+    }
+  ],
+  "timestamp": "2026-08-13T00:25:14.319580727Z",
+  "model": "glm-5.2"
+}

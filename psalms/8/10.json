@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Yahweh, Adonai mu, māh girman sunanka a dukan ƙasa!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai mu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "māh"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "girman"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunanka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a dukan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-13T03:07:36.187649820Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Dukan taron Isra'ila za su yi ⟨את⟩ shi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "taron"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "za su yi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:44:49.665588747Z",
+  "model": "glm-5.2"
+}

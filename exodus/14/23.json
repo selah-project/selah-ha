@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 14:23",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma Mitsrayim suka bi, suka shiga bayansu — dukan dawakai na Paroh, motocinsa da mahayan dawakansa — zuwa tsakiyar teku.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "suka bi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "suka shiga"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "bayansu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "dawakai"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "motocinsa"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "da mahayan dawakansa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "tsakiyar"
+    },
+    {
+      "surface": "הים",
+      "gloss": "teku"
+    }
+  ],
+  "timestamp": "2026-08-12T00:45:34.747703105Z",
+  "model": "glm-5.2"
+}

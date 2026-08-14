@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 4:44",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Waɗannan su ne waɗanda aka ƙidaya na iyalansu, dubu uku da ɗari biyu.",
+  "tokens": [
+    {
+      "surface": "וַיִּהְי֥וּ",
+      "gloss": "suka kasance"
+    },
+    {
+      "surface": "פְקֻדֵיהֶ֖ם",
+      "gloss": "waɗanda aka ƙidaya"
+    },
+    {
+      "surface": "לְמִשְׁפְּחֹתָ֑ם",
+      "gloss": "na iyalansu"
+    },
+    {
+      "surface": "שְׁלֹ֥שֶׁת",
+      "gloss": "uku"
+    },
+    {
+      "surface": "אֲלָפִ֖ים",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "וּמָאתָֽיִם",
+      "gloss": "da ɗari biyu"
+    }
+  ],
+  "timestamp": "2026-08-13T01:51:30.173801184Z",
+  "model": "glm-5.2"
+}

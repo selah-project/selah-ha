@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 115,
+  "translation": "Hannuwansu amma ba su taɓa; ƙafafunsu amma ba su tafiya; ba su muryar cikin makogaronsu.",
+  "tokens": [
+    {
+      "surface": "יְדֵיהֶ֤ם",
+      "gloss": "hannuwansu"
+    },
+    {
+      "surface": "וְלֹ֬א",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "יְמִישׁ֗וּן",
+      "gloss": "su taɓa"
+    },
+    {
+      "surface": "רַ֭גְלֵיהֶם",
+      "gloss": "ƙafafunsu"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "יְהַלֵּ֑כוּ",
+      "gloss": "su tafiya"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יֶ֝הְגּ֗וּ",
+      "gloss": "su muryar"
+    },
+    {
+      "surface": "בִּגְרוֹנָֽם",
+      "gloss": "cikin makogaronsu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:37:43.495428229Z",
+  "model": "glm-5.2"
+}

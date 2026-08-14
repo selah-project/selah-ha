@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 75,
+  "translation": "Muna gōdarwa maka, Elohim, muna gōdarwa, kuma sunan ka ya kusa, ⟨suna⟩ fayyace abin mamākin ka.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "Muna gōdarwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "muna gōdarwa"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "kuma ya kusa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunan ka"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "⟨suna⟩ fayyace"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "abin mamākin ka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:07:42.802786257Z",
+  "model": "glm-5.2"
+}

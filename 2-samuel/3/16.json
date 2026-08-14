@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 3:16",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma mijinta ya tafi ⟨את⟩ ita, yana tafiya kuma yana kuka a bayanta, har zuwa Bachurim. Kuma Avner ya ce masa, \"Ka tafi, ka koma.\" Sai ya koma.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Kuma ya tafi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ita",
+      "marks": "ita"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "mijinta"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "yana tafiya"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "kuma yana kuka"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "a bayanta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "בחרים",
+      "gloss": "Bachurim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ⟨ya ce⟩"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ka tafi"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ka koma"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "Sai ya koma"
+    }
+  ],
+  "timestamp": "2026-08-12T09:49:29.390843051Z",
+  "model": "glm-5.2"
+}

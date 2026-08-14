@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 56:5",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 56,
+  "translation": "Kuma zan ba musu a cikin gidana da kuma a cikin katangata ⟨ne⟩ alama da suna mafi kyau daga ƴaƴa maza da daga ƴaƴa mata; suna na har abada ⟨ce⟩ zan ba shi, wanda ba za a yanke shi ba.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Kuma zan ba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "a cikin gidana"
+    },
+    {
+      "surface": "ובחומתי",
+      "gloss": "da kuma a cikin katangata"
+    },
+    {
+      "surface": "יד",
+      "gloss": "alama"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "da suna"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mafi kyau"
+    },
+    {
+      "surface": "מבנים",
+      "gloss": "daga ƴaƴa maza"
+    },
+    {
+      "surface": "ומבנות",
+      "gloss": "da daga ƴaƴa mata"
+    },
+    {
+      "surface": "שם",
+      "gloss": "suna"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na har abada"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "zan ba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "za a yanke shi ba"
+    }
+  ],
+  "timestamp": "2026-08-13T02:11:05.705860827Z",
+  "model": "glm-5.2"
+}

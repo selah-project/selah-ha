@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 3:5",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma daga baya ⟨aka miƙa⟩ ƙorarin da ake ciƙa, da ⟨wadan⟩ sabon wata, da duk idan-uku na Yahweh masu tsarkake, da duk abin da ⟨mutum⟩ ya miƙa da son ransa ga Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "kuma daga baya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ƙorari"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "da ake ciƙa"
+    },
+    {
+      "surface": "ולחדשים",
+      "gloss": "da ⟨wadan⟩ sabon wata"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "da dukan"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "idan-uku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "המקדשים",
+      "gloss": "masu tsarkake"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "da duk"
+    },
+    {
+      "surface": "מתנדב",
+      "gloss": "abin da ⟨mutum⟩ ya miƙa"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "da son ransa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T23:30:06.556426119Z",
+  "model": "glm-5.2"
+}

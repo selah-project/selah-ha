@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma mutum wanda ya kwanta tare da ⟨את⟩ kawar sa, tsira'ar kawun sa ya bayyana, laifin su za su ɗauka, ba su da ɗiya za su mutu.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Kuma mutum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ya kwanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "tare da ⟨את⟩",
+      "marks": "kawar sa"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "kawar sa"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "tsira'ar"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "kawun sa"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ya bayyana"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "laifin su"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "za su ɗauka"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "ba su da ɗiya"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "za su mutu"
+    }
+  ],
+  "timestamp": "2026-08-12T02:41:24.393516428Z",
+  "model": "glm-5.2"
+}

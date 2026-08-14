@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Ku nemi Yahweh da ƙarfinsa, ku nemi fuskarsa kullum.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Ku nemi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "da ƙarfinsa"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ku nemi"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuskarsa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kullum"
+    }
+  ],
+  "timestamp": "2026-08-12T20:30:42.271174882Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma yaron ya girma, ta kawo shi wa bint Paroh, ya kasance mata ⟨a matsayin⟩ ɗa. Kuma ta kira sunansa Mosheh, ta ce, \"Dõmin daga cikin ruwa nã drawn shi.\"",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Kuma ya girma"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "yaron"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "ta kawo shi"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "wa bint"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mata"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "⟨a matsayin⟩ ɗa"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "Kuma ta kira"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ta ce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Dõmin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga cikin"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "nã drawn shi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:28:37.317708513Z",
+  "model": "glm-5.2"
+}

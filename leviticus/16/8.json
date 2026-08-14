@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma Aharon ya jefar da kori a kan ⟨а⟩ biyun nagin: kori ɗaya ga Yahweh, kuma kori ɗaya ga Azazel.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "kuma ya jefar da"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "biyun"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "nagin"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "⟨а⟩ kori"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "kori"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "kuma kori"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "ga Azazel"
+    }
+  ],
+  "timestamp": "2026-08-12T02:28:32.619341625Z",
+  "model": "glm-5.2"
+}

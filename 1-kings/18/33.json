@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma ya shirya ⟨את⟩ itatuwan, kuma ya yanka ⟨את⟩ sa-nan, kuma ya sa shi a kan itatuwan.",
+  "tokens": [
+    {
+      "surface": "וַֽיַּעֲרֹ֖ךְ",
+      "gloss": "kuma ya shirya"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "itatuwan"
+    },
+    {
+      "surface": "הָֽעֵצִ֑ים",
+      "gloss": "itatuwan"
+    },
+    {
+      "surface": "וַיְנַתַּח֙",
+      "gloss": "kuma ya yanka"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sa-nan"
+    },
+    {
+      "surface": "הַפָּ֔ר",
+      "gloss": "sa-nan"
+    },
+    {
+      "surface": "וַיָּ֖שֶׂם",
+      "gloss": "kuma ya sa"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הָעֵצִֽים",
+      "gloss": "itatuwan"
+    }
+  ],
+  "timestamp": "2026-08-12T11:40:30.477413136Z",
+  "model": "glm-5.2"
+}

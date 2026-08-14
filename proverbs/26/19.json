@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Haka ne mutumin da yake yaudara ⟨את⟩ abokinsa, kuma yana cewa: \"Ashe, ban yi wasa ba?\"",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "da yake yaudara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abokinsa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "abokinsa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "kuma yana cewa"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ashe"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "yin wasa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-12T21:30:40.950326044Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma Yehoshua ya raunana ⟨את⟩ Amalek da ⟨את⟩ mutanensa da bakin takobi.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "Kuma ya raunana"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mutanensa"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "da bakin"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "takobi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:52:07.177580087Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ka sa ⟨את⟩ madubin ƙorawa a gaban ƙofar mahallin ⟨alwala⟩ awan taro.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "kuma ka sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madubin ƙorawa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "madubin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ƙorawa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ƙofar"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "mahallin ⟨alwala⟩"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "awan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "taro"
+    }
+  ],
+  "timestamp": "2026-08-13T01:47:29.194660226Z",
+  "model": "glm-5.2"
+}

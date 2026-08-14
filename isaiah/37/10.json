@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 37:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Haka za ku faɗa wa Chizkiyahu sarkin Yehudah, kuna cewa: Kada Elohim naka ya ringa yaudare ka, wanda kake dogaro da shi, yana cewa: Yerushalaim ba za a ba shi a hannun sarkin Ashur ba.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Haka"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "za ku faɗa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuna cewa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "ישאך",
+      "gloss": "ya ringa yaudare ka"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "kake dogaro"
+    },
+    {
+      "surface": "בו",
+      "gloss": "da shi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "za a ba shi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "a hannun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-13T02:09:30.599668931Z",
+  "model": "glm-5.2"
+}

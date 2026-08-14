@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 5:4",
+  "book": "micah",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma wannan shi ⟨ne⟩ salama. Assur, idan ya zo cikin ƙasarmu, kuma idan ya taka cikin fadar mu, sa'an nan za mu tada a kansa makiyayi guda bakwai, da shugabanni takwas na mutane.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salama"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "idan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ya zo"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "cikin ƙasarmu"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "ya taka"
+    },
+    {
+      "surface": "בארמנתינו",
+      "gloss": "cikin fadar mu"
+    },
+    {
+      "surface": "והקמנו",
+      "gloss": "za mu tada"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "guda bakwai"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "makiyayi"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "da takwas"
+    },
+    {
+      "surface": "נסיכי",
+      "gloss": "shugabanni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "na mutane"
+    }
+  ],
+  "timestamp": "2026-08-12T18:41:09.786100833Z",
+  "model": "glm-5.2"
+}

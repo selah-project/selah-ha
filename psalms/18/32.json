@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Domin wa ya zama Eloah banda Yahweh? Kuma wa ya zama dutsen banda Elohim mu?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "banda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kuma wa"
+    },
+    {
+      "surface": "צור",
+      "gloss": "dutse"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "banda"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim mu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:24:17.083525815Z",
+  "model": "glm-5.2"
+}

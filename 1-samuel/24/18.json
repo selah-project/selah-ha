@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 24:18",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma ya ce wa Dawuda, \"Ka fi ni adalci, domin ka sani ni kyauta ta kyakkyawa, alhali kuwa ni na sani ka mugun nema.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "adalci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ka fi ni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גמלתני",
+      "gloss": "ka sani"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "kyauta ta kyakkyawa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "alhali kuwa ni"
+    },
+    {
+      "surface": "גמלתיך",
+      "gloss": "na sani ka"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mugun nema"
+    }
+  ],
+  "timestamp": "2026-08-12T09:29:36.089044408Z",
+  "model": "glm-5.2"
+}

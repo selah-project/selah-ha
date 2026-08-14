@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Da ni'imãma ne masu tsare shaidunSa, suna nemanSa da dukkan zuciya.",
+  "tokens": [
+    {
+      "surface": "אַ֭שְׁרֵי",
+      "gloss": "da ni'imãma ne"
+    },
+    {
+      "surface": "נֹצְרֵ֥י",
+      "gloss": "masu tsare"
+    },
+    {
+      "surface": "עֵדֹתָ֗יו",
+      "gloss": "shaidunSa"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "לֵ֥ב",
+      "gloss": "zuciya"
+    },
+    {
+      "surface": "יִדְרְשֽׁוּהוּ",
+      "gloss": "suna nemanSa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:41:45.994841771Z",
+  "model": "glm-5.2"
+}

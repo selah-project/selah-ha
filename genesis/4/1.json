@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma ⟨adamu⟩ ya san ⟨את⟩ Chavvah matarsa, ta yi ciki, ta haifi ⟨את⟩ Qayin, ta ce: \"Na sami mutum ⟨את⟩ ⟨tare da⟩ Yahweh.\"",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "kuma adamu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ya san"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chavvah"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chavvah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "matarsa"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ta yi ciki"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ta haifi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qayin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ta ce"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "na sami"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨tare da⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T23:20:49.061231727Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma Sha'ul ya gina ⟨את⟩ hadari ga Yahweh; ⟨shi⟩ shi ne farkon ⟨hadari⟩ da ya fara gina ⟨hadari⟩ ga Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Kuma ya gina"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "hadari"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hadari"
+    },
+    {
+      "surface": "החל",
+      "gloss": "shi ne farkon"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "da ya fara gina"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "hadari"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T09:07:15.218544780Z",
+  "model": "glm-5.2"
+}

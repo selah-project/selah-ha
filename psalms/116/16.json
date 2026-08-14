@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 116,
+  "translation": "Yā Yahweh, cēwa nĩ bārinka ne; nĩ bārinka ne, ɗan bārinka mace, ka buɗe ƙuƙumena.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "yā"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cēwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bārinka ne"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bārinka ne"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "bārinka mace"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "ka buɗe"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "ƙuƙumena"
+    }
+  ],
+  "timestamp": "2026-08-12T20:39:35.419369386Z",
+  "model": "glm-5.2"
+}

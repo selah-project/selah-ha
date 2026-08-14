@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Re'uven, Shim'on, Lewi, da Yehuda.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Re'uven"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shim'on"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "da Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-12T00:30:06.058426067Z",
+  "model": "glm-5.2"
+}

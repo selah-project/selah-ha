@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Sai makiyana suka zo suka kore su, sai Mosheh ya tashi ya cece su, ya kuma shayar da ⟨את⟩ garkinsu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "sai suka zo"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "makiyana"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "suka kore su"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "sai ya tashi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "ya cece su"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ya kuma shayar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garkinsu"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "garkinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:29:53.900440145Z",
+  "model": "glm-5.2"
+}

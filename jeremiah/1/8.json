@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kada ka ji tsoro daga gare su, domin ⟨את⟩ nake tare da ka, don in tsire ka, ne'amarmar Yahweh.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תִּירָא",
+      "gloss": "ka ji tsoro"
+    },
+    {
+      "surface": "מִפְּנֵיהֶם",
+      "gloss": "daga gare su"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אִתְּךָ",
+      "gloss": "⟨את⟩",
+      "marks": "tare da ka"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "nake"
+    },
+    {
+      "surface": "לְהַצִּילֶךָ",
+      "gloss": "don in tsire ka"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "ne'amarmar"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T14:54:02.485239019Z",
+  "model": "glm-5.2"
+}

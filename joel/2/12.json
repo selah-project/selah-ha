@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joel 2:12",
+  "book": "joel",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma ma zuwa yanzu, maganar Yahweh: Ku koma mini da dukkan zuciyarku, da kuma azumi da kuka da kum babban rana.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kuma ma"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zuwa yanzu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "maganar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ku koma"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "mini"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "zuciyarku"
+    },
+    {
+      "surface": "ובצום",
+      "gloss": "da kuma azumi"
+    },
+    {
+      "surface": "ובבכי",
+      "gloss": "da kuka"
+    },
+    {
+      "surface": "ובמספד",
+      "gloss": "da kum babban rana"
+    }
+  ],
+  "timestamp": "2026-08-13T02:20:20.376474871Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 82,
+  "translation": "Ba su sani ba, kuma ba su fahimta ⟨ba⟩; cikin duhu suana tafiya; duk tsarin gadon ƙasa suna girgiza.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יָֽדְע֨וּ",
+      "gloss": "sun sani"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יָבִ֗ינוּ",
+      "gloss": "suna fahimta"
+    },
+    {
+      "surface": "בַּחֲשֵׁכָ֥ה",
+      "gloss": "cikin duhu"
+    },
+    {
+      "surface": "יִתְהַלָּ֑כוּ",
+      "gloss": "suna tafiya"
+    },
+    {
+      "surface": "יִ֝מּ֗וֹטוּ",
+      "gloss": "suna girgiza"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "מוֹסְדֵי",
+      "gloss": "tsarin gadon"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:13:29.425707325Z",
+  "model": "glm-5.2"
+}

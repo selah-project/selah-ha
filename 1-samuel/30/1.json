@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma ⟨ya zo aukuwa⟩, a lokacin da Dawuda da mutanensa suka zo Tsiklag, a rana ta uku, Amalekawa sun kai farma kan kudu da kuma kan Tsiklag, suka buge ⟨את⟩ Tsiklag, suka ƙona ta da wuta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ⟨ya zo aukuwa⟩"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "a lokacin da suka zo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "da mutanensa"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ta uku"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "Amalekawa"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "sun kai farma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "kudu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "da kuma kan"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "suka buge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "suka ƙone"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ta"
+    },
+    {
+      "surface": "באש",
+      "gloss": "da wuta"
+    }
+  ],
+  "timestamp": "2026-08-12T09:44:55.612406037Z",
+  "model": "glm-5.2"
+}

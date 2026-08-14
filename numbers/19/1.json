@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 19:1",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Yahweh ya yi magana da Mosheh da kuma da Aharon, ⟨yana cewa⟩,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ya yi magana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "da kuma da"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨yana cewa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T04:16:27.139166133Z",
+  "model": "glm-5.2"
+}

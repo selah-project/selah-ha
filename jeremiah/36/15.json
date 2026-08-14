@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 36:15",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Suka ce masa: \"Zauna ⟨kalā⟩, ka karanta ⟨shī⟩ a cikin kunānmu.\" Sa'an nan Baruk ya karanta ⟨shī⟩ a cikin kunān su.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Zauna"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨kalā⟩"
+    },
+    {
+      "surface": "וקראנה",
+      "gloss": "ka karanta"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "a cikin kunānmu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ya karanta"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruk"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "a cikin kunān su"
+    }
+  ],
+  "timestamp": "2026-08-12T16:11:44.374830487Z",
+  "model": "glm-5.2"
+}

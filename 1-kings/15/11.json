@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 15:11",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma Asa ya aikata abin da ⟨ya kasance⟩ daidai a idanun Yahweh, kamar Dawuda mahaifinsa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya aikata"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "daidai"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "kamar Dawuda"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "mahaifinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T11:29:00.784451816Z",
+  "model": "glm-5.2"
+}

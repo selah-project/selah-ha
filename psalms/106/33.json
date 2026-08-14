@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Domi ⟨sū⟩ suka ɓata ⟨את⟩ ruhunsa, ⟨har⟩ ya faɗi da tuntuɓe da leɓensa.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Domi"
+    },
+    {
+      "surface": "הִמְר֥וּ",
+      "gloss": "suka ɓata"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ruhunsa"
+    },
+    {
+      "surface": "רוּח֑וֹ",
+      "gloss": "ruhunsa"
+    },
+    {
+      "surface": "וַ֝יְבַטֵּ֗א",
+      "gloss": "ya faɗi da tuntuɓe"
+    },
+    {
+      "surface": "בִּשְׂפָתָֽיו",
+      "gloss": "da leɓensa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:32:00.704131955Z",
+  "model": "glm-5.2"
+}

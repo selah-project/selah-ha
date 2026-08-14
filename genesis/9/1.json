@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma Elohim ya albarkaci ⟨את⟩ Noach da ⟨את⟩ ƴaƴansa, kuma Ya ce musu, \"Ku ɗauya 'ya'ya, kuma ku yawaita, kuma ku cika ⟨את⟩ ƙasa.\"",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Kuma ya albarkaci"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƴaƴansa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ƴaƴansa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma Ya ce"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Ku ɗauya 'ya'ya"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "kuma ku yawaita"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "kuma ku cika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:26:41.591117765Z",
+  "model": "glm-5.2"
+}

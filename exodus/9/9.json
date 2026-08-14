@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 9:9",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma ya kasance ga ƙura a kan dukan ƙasar Mitsrayim, kuma ya kasance a kan adam da a kan shanu ga ciwon da yake furewa cikin kurajen dukan ƙasar Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "לאבק",
+      "gloss": "ga ƙura"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨adamai⟩"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da a kan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "לשחין",
+      "gloss": "ga ciwon"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "da yake furewa"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "cikin kuraje"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "cikin dukan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:38:26.386179954Z",
+  "model": "glm-5.2"
+}

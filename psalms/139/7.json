@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 139,
+  "translation": "Ina zaan tafi daga Ruharka? Kuma ina zaan gudu daga gaban Ka?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ina zaan"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "tafi"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "daga Ruharka"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "Kuma ina zaan"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "gudu daga gaban Ka"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "gudu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:52:46.345629403Z",
+  "model": "glm-5.2"
+}

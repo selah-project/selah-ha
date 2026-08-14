@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Sa'an nan Yahweh Elohim ya gina ⟨את⟩ ɓangarun da ya ɗauko daga ⟨adamu⟩ ya sanya mace, ya kuma kawo ta ga ⟨adamu⟩.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ya gina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓangarun"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "ɓangarun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ya ɗauko"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨adamu⟩"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ya sanya mace"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "ya kuma kawo ta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨adamu⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T23:19:14.020399382Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Ɗan barci kaɗan, ɗan bãyar hankãli kaɗan, ɗan runguma hannu kaɗan don kwãna;",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "kaɗan"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "barci"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kaɗan"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "bãyar hankãli"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kaɗan"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "runguma"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "hannu"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "don kwãna"
+    }
+  ],
+  "timestamp": "2026-08-12T21:06:01.297320666Z",
+  "model": "glm-5.2"
+}

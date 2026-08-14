@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 96,
+  "translation": "Ku yi wa Yahweh waƙa, ku gaishe sunansa, ku bada labari daga yini zuwa yini na tserewarsa.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ku yi waƙa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ku gaishe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ku bada labari"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "daga yini"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "zuwa yini"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "na tserewarsa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:47.187848338Z",
+  "model": "glm-5.2"
+}

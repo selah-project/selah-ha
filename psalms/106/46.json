@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Kuma ya sa ⟨su⟩ ⟨a matsayin⟩ masu rahama a gaban dukkan masu kama su sansani.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Kuma ya sa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ su",
+      "marks": "masu rahama"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "⟨a matsayin⟩ masu rahama"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "masu kama su sansani"
+    }
+  ],
+  "timestamp": "2026-08-12T20:30:48.828743525Z",
+  "model": "glm-5.2"
+}

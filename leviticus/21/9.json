@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma ɗiyar wani kohani, idan ta fara ya yi karuwanci, ⟨את⟩ ubanta ⟨ita⟩ tana gurza; da wuta za a ƙone ta.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "kuma ɗiyar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wani"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "idan"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "ta fara ya gurza"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "yin karuwanci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubanta"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ubanta"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ita⟩"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "tana gurza"
+    },
+    {
+      "surface": "באש",
+      "gloss": "da wuta"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "za a ƙone ta"
+    }
+  ],
+  "timestamp": "2026-08-12T02:44:33.391257163Z",
+  "model": "glm-5.2"
+}

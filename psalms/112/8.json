@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 112,
+  "translation": "Zuciyarsa tana da goyon baya, ba zai ji tsoro ba — har sai ya ga ⟨a kan⟩ maƙiyansa.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "tana da goyon baya"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zuciyarsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "zai ji tsoro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har sai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨a kan⟩"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ya ga"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "maƙiyansa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:37:28.721365526Z",
+  "model": "glm-5.2"
+}

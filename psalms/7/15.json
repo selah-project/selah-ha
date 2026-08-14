@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Ga shi, yana haɗuwa da mugun nufi, ya yi ciki da wahala, kuma ya haifa ƙarya.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ga shi"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "yana haɗuwa"
+    },
+    {
+      "surface": "און",
+      "gloss": "da mugun nufi"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "ya yi ciki"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "da wahala"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "kuma ya haifa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ƙarya"
+    }
+  ],
+  "timestamp": "2026-08-12T19:14:26.990526497Z",
+  "model": "glm-5.2"
+}

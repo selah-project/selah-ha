@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 79,
+  "translation": "Waƙa ta Asaph. Elohim, al'ummai sun shiga cikin gado'arka, sun ɓata ⟨את⟩ fadar tsarkarka, sun sanya ⟨את⟩ Yerushalaim a matsayin tarin dutse.",
+  "tokens": [
+    {
+      "surface": "מִזְמ֗וֹר",
+      "gloss": "Waƙa"
+    },
+    {
+      "surface": "לְאָ֫סָ֥ף",
+      "gloss": "ta Asaph"
+    },
+    {
+      "surface": "אֱֽלֹהִ֡ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בָּ֤אוּ",
+      "gloss": "sun shiga"
+    },
+    {
+      "surface": "גוֹיִ֨ם",
+      "gloss": "al'ummai"
+    },
+    {
+      "surface": "בְּֽנַחֲלָתֶ֗ךָ",
+      "gloss": "cikin gado'arka"
+    },
+    {
+      "surface": "טִ֭מְּאוּ",
+      "gloss": "sun ɓata"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "fadar tsarkarka"
+    },
+    {
+      "surface": "הֵיכַ֣ל",
+      "gloss": "fadar"
+    },
+    {
+      "surface": "קָדְשֶׁ֑ךָ",
+      "gloss": "tsarkarka"
+    },
+    {
+      "surface": "שָׂ֖מוּ",
+      "gloss": "sun sanya"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "יְרוּשָׁלִַ֣ם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "לְעִיִּֽים",
+      "gloss": "a matsayin tarin dutse"
+    }
+  ],
+  "timestamp": "2026-08-12T20:13:48.656361262Z",
+  "model": "glm-5.2"
+}

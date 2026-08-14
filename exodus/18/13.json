@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma ⟨a kaunarsa⟩ a ranar da ta biyo bayan jiya, Mosheh ya zauna don yin shari'a ⟨את⟩ mutãne, kuma mutãne suka tsaya a wajen Mosheh daga safe har yamma.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ⟨a kaunarsa⟩"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "a ranar da ta biyo bayan jiya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ya zauna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "don yin shari'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutãne"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãne"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "kuma suka tsaya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãne"
+    },
+    {
+      "surface": "על",
+      "gloss": "a wajen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "safe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "yamma"
+    }
+  ],
+  "timestamp": "2026-08-12T00:54:39.685006926Z",
+  "model": "glm-5.2"
+}

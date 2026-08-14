@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 9:4",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma Yahweh za ya bambanta tsakanin dabbobin Yisra'el da dabbobin Mitsrayim; kuma ba za a mutu ba daga dukkan abin da na 'ya'yan Yisra'el ⟨ke⟩ komai.",
+  "tokens": [
+    {
+      "surface": "והפלה",
+      "gloss": "Kuma za ya bambanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "dabbobin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "dabbobin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba za a mutu ba"
+    },
+    {
+      "surface": "ימות",
+      "gloss": ""
+    },
+    {
+      "surface": "מכל",
+      "gloss": "daga dukkan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abinda na 'ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨ke⟩ komai"
+    }
+  ],
+  "timestamp": "2026-08-13T01:45:33.823673381Z",
+  "model": "glm-5.2"
+}

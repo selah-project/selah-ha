@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 24:5",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Ɗauki mɓangaren ⟨na⟩ tunkuɗa, kuma kuwa tarin ƙasusuwan a ƙarƙashin ⟨ta⟩, tafasa yadda ya kamata, e, dafa ƙasusuwanta a cikin ⟨ta⟩.",
+  "tokens": [
+    {
+      "surface": "מִבְחַר",
+      "gloss": "mɓangare"
+    },
+    {
+      "surface": "הַצֹּאן",
+      "gloss": "na tunkuɗa"
+    },
+    {
+      "surface": "לָקוֹחַ",
+      "gloss": "ɗauki"
+    },
+    {
+      "surface": "וְגַם",
+      "gloss": "kuma kuwa"
+    },
+    {
+      "surface": "דּוּר",
+      "gloss": "tarin"
+    },
+    {
+      "surface": "הָעֲצָמִים",
+      "gloss": "ƙasusuwan"
+    },
+    {
+      "surface": "תַּחְתֶּיהָ",
+      "gloss": "a ƙarƙashin ⟨ta⟩"
+    },
+    {
+      "surface": "רַתַּח",
+      "gloss": "tafasa yadda ya kamata"
+    },
+    {
+      "surface": "רְתָחֶיהָ",
+      "gloss": "tafasar ⟨ta⟩"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "e"
+    },
+    {
+      "surface": "בָּשְׁלוּ",
+      "gloss": "dafa"
+    },
+    {
+      "surface": "עֲצָמֶיהָ",
+      "gloss": "ƙasusuwanta"
+    },
+    {
+      "surface": "בְּתוֹכָהּ",
+      "gloss": "a cikin ⟨ta⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T17:29:31.511155993Z",
+  "model": "glm-5.2"
+}

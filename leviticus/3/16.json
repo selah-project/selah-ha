@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma babban malamin ya ƙone ⟨su⟩ a kan dāgaba — abincin hadayar wuta don yaji jin dadi; dukkan kitson na Yahweh ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "וְהִקְטִירָ֥ם",
+      "gloss": "Kuma ya ƙone"
+    },
+    {
+      "surface": "הַכֹּהֵ֖ן",
+      "gloss": "babban malamin"
+    },
+    {
+      "surface": "הַמִּזְבֵּ֑חָה",
+      "gloss": "a kan dāgaba"
+    },
+    {
+      "surface": "לֶ֤חֶם",
+      "gloss": "abincin"
+    },
+    {
+      "surface": "אִשֶּׁה֙",
+      "gloss": "hadayar wuta"
+    },
+    {
+      "surface": "לְרֵ֣יחַ",
+      "gloss": "don yaji"
+    },
+    {
+      "surface": "נִיחֹ֔חַ",
+      "gloss": "jin dadi"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dukka"
+    },
+    {
+      "surface": "חֵ֖לֶב",
+      "gloss": "kitson"
+    },
+    {
+      "surface": "לַיהוָֽה",
+      "gloss": "na Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:44:18.416345661Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma kwanakin Dawid sun kusa mutuwa, sai ya yi wa ⟨את⟩ Shelomoh ɗan'ensa umarni, ⟨yana cewa⟩:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "kuma sun kusa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "למות",
+      "gloss": "mutuwa"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "sai ya yi wa umarni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗan'ensa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨yana cewa⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T02:03:42.227518303Z",
+  "model": "glm-5.2"
+}

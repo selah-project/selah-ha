@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 103,
+  "translation": "Wanda ke fanshe rayuwarka daga ruguwar lalata, wanda ke sanya muki a kai — chesed da rahama,",
+  "tokens": [
+    {
+      "surface": "הַגּוֹאֵ֣ל",
+      "gloss": "wanda ke fanshe"
+    },
+    {
+      "surface": "מִשַּׁ֣חַת",
+      "gloss": "daga ruguwar lalata"
+    },
+    {
+      "surface": "חַיָּ֑יְכִי",
+      "gloss": "rayuwarka"
+    },
+    {
+      "surface": "הַֽ֝מְעַטְּרֵ֗כִי",
+      "gloss": "wanda ke sanya muki a kai"
+    },
+    {
+      "surface": "חֶ֣סֶד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "וְרַחֲמִֽים",
+      "gloss": "rahama"
+    }
+  ],
+  "timestamp": "2026-08-12T20:28:21.659837254Z",
+  "model": "glm-5.2"
+}

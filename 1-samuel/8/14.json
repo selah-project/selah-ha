@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ⟨את⟩ gonarku, da ⟨את⟩ lambun inabinku, da itayen zaituninku masu kyau zai ɗauka, kuma ya ba wa bayinsa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Kuma ⟨את⟩",
+      "marks": "gonarku"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "gonarku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "lambun inabinku"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "lambun inabinku"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "da itayen zaituninku"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "masu kyau"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "zai ɗauka"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "kuma ya ba"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "wa bayinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T08:40:43.635925990Z",
+  "model": "glm-5.2"
+}

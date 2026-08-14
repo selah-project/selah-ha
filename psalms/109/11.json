@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 109,
+  "translation": "Mai bashi ya kama duka abin da ⟨yake⟩ na nasa, kuma baƙi su yi fashi ƙoƙarinsa.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "ya kama"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "mai bashi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na nasa"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "kuma su yi fashi"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "baƙi"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "ƙoƙarinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:35:07.491271090Z",
+  "model": "glm-5.2"
+}

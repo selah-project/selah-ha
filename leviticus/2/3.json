@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma abin da ya rage daga mincha, na Aharon da na ɗiyansa ⟨ne⟩, tsarki ne na tsarkoka, daga hadayoyin wuta na Yahweh.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "Kuma abin da ya rage"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "da na ɗiyansa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsarki"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "na tsarkoka"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "daga hadayoyin wuta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "na Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:45:53.898158574Z",
+  "model": "glm-5.2"
+}

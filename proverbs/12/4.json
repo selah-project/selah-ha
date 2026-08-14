@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Mace mai ƙarfi ⟨ta⟩ kambi ne ga mijinta, amma wadda ke haifar da kunya kamar būshewa cikin ƙasuwanta ⟨ce⟩.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "mace"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mai ƙarfi"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "kambi"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ga mijinta"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "amma kamar būshewa"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "cikin ƙasuwanta"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "wadda ke haifar da kunya"
+    }
+  ],
+  "timestamp": "2026-08-12T21:13:52.252655759Z",
+  "model": "glm-5.2"
+}

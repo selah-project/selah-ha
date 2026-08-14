@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 146,
+  "translation": "Wanda ke yin sama da ƙasa, ⟨את⟩ tekun da ⟨את⟩ duk abin da yake cikinsu, wanda ke kiyaye gaskiya har abada:",
+  "tokens": [
+    {
+      "surface": "עֹשֶׂ֤ה",
+      "gloss": "Wanda ke yin"
+    },
+    {
+      "surface": "שָׁ֘מַ֤יִם",
+      "gloss": "sama"
+    },
+    {
+      "surface": "וָאָ֗רֶץ",
+      "gloss": "da ƙasa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tekun"
+    },
+    {
+      "surface": "הַיָּ֥ם",
+      "gloss": "tekun"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "duk abin da yake cikinsu"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "בָּ֑ם",
+      "gloss": "yake cikinsu"
+    },
+    {
+      "surface": "הַשֹּׁמֵ֖ר",
+      "gloss": "wanda ke kiyaye"
+    },
+    {
+      "surface": "אֱמֶ֣ת",
+      "gloss": "gaskiya"
+    },
+    {
+      "surface": "לְעוֹלָֽם",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-12T20:59:42.117877459Z",
+  "model": "glm-5.2"
+}

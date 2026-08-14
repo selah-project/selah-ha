@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kada ka ba ni cikin rai-nan masu ƙwace, ⟨domin⟩ sun tashi a kan ni masu shaida na ƙarya, ⟨kuma⟩ suna hura tashin hankali.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "ka ba ni"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "cikin rai-nan"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "masu ƙwace"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨domin⟩"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "sun tashi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "a kan ni"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "masu shaida"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "na ƙarya"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "⟨kuma⟩ suna hura"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tashin hankali"
+    }
+  ],
+  "timestamp": "2026-08-13T02:24:24.233618819Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 24:18",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma suka bar ⟨את⟩ gidan Yahweh, Elohim na ubanninsu, suka bauta wa ⟨את⟩ Asherim da ⟨את⟩ gumaka; sa'an nan fushi ya kasance a kan Yehuda da Urushalima saboda laifinsu ⟨na⟩ wannan.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "suka bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "ubanninsu"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "suka bauta wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asherim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Asherim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "gumaka"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "gumaka"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "sa'an nan ya kasance"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "fushi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "da Urushalima"
+    },
+    {
+      "surface": "באשמתם",
+      "gloss": "saboda laifinsu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-13T02:52:14.262707450Z",
+  "model": "glm-5.2"
+}

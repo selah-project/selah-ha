@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Wannan shine ta'aziyata a cikin wahalata, cewa maganarka ta rayar da ni.",
+  "tokens": [
+    {
+      "surface": "זֹ֣את",
+      "gloss": "Wannan"
+    },
+    {
+      "surface": "נֶחָמָתִ֣י",
+      "gloss": "shine ta'aziyata"
+    },
+    {
+      "surface": "בְעָנְיִ֑י",
+      "gloss": "a cikin wahalata"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "אִמְרָתְךָ֣",
+      "gloss": "maganarka"
+    },
+    {
+      "surface": "חִיָּֽתְנִי",
+      "gloss": "ta rayar da ni"
+    }
+  ],
+  "timestamp": "2026-08-12T20:42:29.294866788Z",
+  "model": "glm-5.2"
+}

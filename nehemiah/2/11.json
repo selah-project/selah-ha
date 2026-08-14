@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Sa'an nan na zuwa Yerushalaim, na kasance a can kwanaki uku.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "na zuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "na kasance"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "uku"
+    }
+  ],
+  "timestamp": "2026-08-12T23:37:50.939245149Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 26:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Shaɗaɗɗen biyar za su zama ⟨ne⟩ abubuwan da aka haɗa, ɗaya zuwa wata; kuma shaɗaɗɗen biyar ⟨da aka haɗa⟩, ɗaya zuwa wata.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "biyar"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "Shaɗaɗɗen"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "za su zama"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "abubuwan da aka haɗa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "kuma shaɗaɗɗen biyar"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": ""
+    },
+    {
+      "surface": "חברת",
+      "gloss": "da aka haɗa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "wata"
+    }
+  ],
+  "timestamp": "2026-08-12T01:10:03.302755736Z",
+  "model": "glm-5.2"
+}

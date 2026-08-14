@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Yana tafiya zuwa kudu, kuma yana kewayawa zuwa arewa, yana kewayawa kewayawa ⟨yana⟩ tafiya iska; kuma a kan hanyoyin zagayowarsa ⟨ta⟩ koma ⟨ce⟩ iska.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "⟨yana⟩ tafiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "kudu"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "kuma ⟨yana⟩ kewayawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "arewa"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "⟨yana⟩ kewayawa"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "kewayawa"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "⟨yana⟩ tafiya"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "iska"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kuma a kan"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "hanyoyin zagayowarsa"
+    },
+    {
+      "surface": "שב",
+      "gloss": "⟨ta⟩ koma"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "iska"
+    }
+  ],
+  "timestamp": "2026-08-12T22:41:51.961951946Z",
+  "model": "glm-5.2"
+}

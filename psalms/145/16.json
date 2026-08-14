@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 145,
+  "translation": "Kana buɗe ⟨את⟩ hannunKa, kuma kana ɗanɗana wa kowane rai abin da yake so.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "Kana buɗe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannunKa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hannunKa"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "kuma kana ɗanɗana wa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "חי",
+      "gloss": "rai"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "abin da yake so"
+    }
+  ],
+  "timestamp": "2026-08-12T20:58:36.362263146Z",
+  "model": "glm-5.2"
+}

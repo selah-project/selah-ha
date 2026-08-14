@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 35:8",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "da man shafawa don hasken fitila, da kayan kamshi don man shafawa na shafawa, da don turaren kayan kamshi.",
+  "tokens": [
+    {
+      "surface": "ושמן",
+      "gloss": "da man shafawa"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "don hasken fitila"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "da kayan kamshi"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "don man shafawa"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "na shafawa"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "da don turaren"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "kayan kamshi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:20:16.527101470Z",
+  "model": "glm-5.2"
+}

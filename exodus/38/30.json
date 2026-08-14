@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Kuma ya yi da ita ⟨את⟩ gadajen ƙofar Tantanar Taro, da ⟨את⟩ madubbin tagulla, da ⟨את⟩ injin-gidan tagullar da ke nasa, da ⟨את⟩ duk kayan aikin madubbin.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "da ita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gadajen ƙofar Tantanar Taro"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "gadajen"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ƙofar"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tantanar"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Taro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "madubbin tagulla"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "madubbin"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tagulla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "injin-gidan tagullar"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "injin-gidan"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tagullar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ke nasa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "duk kayan aikin madubbin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kayan aikin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madubbin"
+    }
+  ],
+  "timestamp": "2026-08-12T01:33:46.534229277Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 15:13",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma ⟨ma⟩ Maakah, mahaifiyarsa, ya cire ta daga ⟨zama⟩ sarauniya, domin ta yi abin tsoro ga Asherah; kuma Asa ya yanke ⟨את⟩ abin tsoronta, ya ƙone ⟨shi⟩ a cikin kwaryar Kidron.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maakah"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakah"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mahaifiyarsa"
+    },
+    {
+      "surface": "ויסרה",
+      "gloss": "ya cire ta"
+    },
+    {
+      "surface": "מגבירה",
+      "gloss": "daga sarauniya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ta yi"
+    },
+    {
+      "surface": "מפלצת",
+      "gloss": "abin tsoro"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "ga Asherah"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "kuma ya yanke"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin tsoronta"
+    },
+    {
+      "surface": "מפלצתה",
+      "gloss": "abin tsoronta"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "ya ƙone"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "a cikin kwarya"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    }
+  ],
+  "timestamp": "2026-08-12T11:32:33.752124321Z",
+  "model": "glm-5.2"
+}

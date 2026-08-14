@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma Yahweh ya ce wa Mosheh: \"Ka je wurin Paroh, kuma ka ce masa: 'Haka ya ce Yahweh: Ka saki ⟨את⟩ mutana, su bauta min.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Ka je"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wurin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "kuma ka ce"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Haka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Ka saki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutana"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mutana"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "su bauta min"
+    }
+  ],
+  "timestamp": "2026-08-12T00:37:38.438147467Z",
+  "model": "glm-5.2"
+}

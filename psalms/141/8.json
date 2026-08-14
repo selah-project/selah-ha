@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 141,
+  "translation": "Domin idãnũ na suna zuwa gare ka, Yahweh, Adonai; a gare ka na nẽmi mafaka; kar ka binciye rãna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zuwa gare ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "idãnũ na"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "a gare ka"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "na nẽmi mafaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kar"
+    },
+    {
+      "surface": "תער",
+      "gloss": "ka binciye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rãna"
+    }
+  ],
+  "timestamp": "2026-08-12T20:55:23.710608571Z",
+  "model": "glm-5.2"
+}

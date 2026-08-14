@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 147,
+  "translation": "Rera wa Yahweh da godiya, ku rera wa Elohim mu da kinori.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Rera"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "da godiya"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ku rera"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "wa Elohim mu"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "da kinori"
+    }
+  ],
+  "timestamp": "2026-08-12T20:59:27.647461391Z",
+  "model": "glm-5.2"
+}

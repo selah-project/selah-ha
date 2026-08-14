@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Yahweh yana kusa da masu fashe zuciya, kuma ⟨את⟩ masu lalacewar ruhu yana tsira.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "yana kusa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "da masu fashe"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "masu lalacewar ruhu"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "masu lalacewa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "yana tsira"
+    }
+  ],
+  "timestamp": "2026-08-12T19:35:30.032752122Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 51,
+  "translation": "Ka yí mini yawa ⟨ka⟩ wanke ni daga laifina, kuma daga zunubata ka tsarkake ni.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "Ka yí mini yawa"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "⟨ka⟩ wanke ni"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "daga laifina"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "kuma daga zunubata"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "ka tsarkake ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:53:16.448493212Z",
+  "model": "glm-5.2"
+}

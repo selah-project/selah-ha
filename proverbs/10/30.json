@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Salihu har abada ba za a girgiza shi ba; amma mugaye ba za su zauna ⟨a⟩ ƙasa ba.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "salihu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "za a girgiza shi"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "amma mugaye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "za su zauna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨a⟩ ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T21:10:44.482026332Z",
+  "model": "glm-5.2"
+}

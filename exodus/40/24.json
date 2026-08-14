@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ya sa ⟨את⟩ fitilar a cikin tantanin tarawa, faɗa da teburin, a gefen mazaunin dake kudu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ya sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fitilar"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "fitilar"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "a cikin tantanin"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tarawa"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "faɗa da"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "teburin"
+    },
+    {
+      "surface": "על",
+      "gloss": "a gefen"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "gefen"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mazaunin"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "dake kudu"
+    }
+  ],
+  "timestamp": "2026-08-12T01:38:57.191541625Z",
+  "model": "glm-5.2"
+}

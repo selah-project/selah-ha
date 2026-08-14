@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 148,
+  "translation": "Kuma ya tsayar da su don aba har abadī, doka ya bayar wadda ba za a wuce ba.",
+  "tokens": [
+    {
+      "surface": "וַיַּעֲמִידֵ֣ם",
+      "gloss": "kuma ya tsayar da su"
+    },
+    {
+      "surface": "לָעַ֣ד",
+      "gloss": "don aba"
+    },
+    {
+      "surface": "לְעוֹלָ֑ם",
+      "gloss": "har abadī"
+    },
+    {
+      "surface": "חָק",
+      "gloss": "doka"
+    },
+    {
+      "surface": "נָ֝תַ֗ן",
+      "gloss": "ya bayar"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "wadda ba"
+    },
+    {
+      "surface": "יַעֲבֽוֹר",
+      "gloss": "za a wuce"
+    }
+  ],
+  "timestamp": "2026-08-12T20:59:46.345289714Z",
+  "model": "glm-5.2"
+}

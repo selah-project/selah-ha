@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Duk abin da ba shi da fikafikai da maƙoƙi a cikin ruwa, abin ƙyama shi ne a gare ku.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ba shi da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "fikafikai"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "da maƙoƙi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "a cikin ruwa"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "abin ƙyama"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a gare ku"
+    }
+  ],
+  "timestamp": "2026-08-12T01:58:16.625635871Z",
+  "model": "glm-5.2"
+}

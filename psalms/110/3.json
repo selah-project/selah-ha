@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 110,
+  "translation": "Jama'arka suna nan da son rai a ranar ƙarfin da ka mallaka, cikin ƙawunan tsarki; daga cikin mahaifa, a wayewar gari, gare ka ⟨ne⟩ ruwan sanyi na kuruciyar da ka mallaka.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Jama'arka"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "suna nan da son rai"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a ranar"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "ƙarfin da ka mallaka"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "cikin ƙawunan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsarki"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "daga cikin mahaifa"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "a wayewar gari"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gare ka"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ruwan sanyi"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "na kuruciyar da ka mallaka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:36:36.247658277Z",
+  "model": "glm-5.2"
+}

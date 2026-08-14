@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ya kawo ⟨את⟩ sauron zunubi, kuma Aharon da ɗiy'ansa suka dora ⟨את⟩ hannuwansu a kan kan sauron zunubi.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "ya kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sauron zunubi"
+    },
+    {
+      "surface": "פר",
+      "gloss": "sauron"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "zunubi"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "suka dora"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "da ɗiy'ansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannuwansu"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hannuwansu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "פר",
+      "gloss": "sauron"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "zunubi"
+    }
+  ],
+  "timestamp": "2026-08-12T02:04:37.616523833Z",
+  "model": "glm-5.2"
+}

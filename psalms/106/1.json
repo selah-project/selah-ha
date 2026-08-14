@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Ku gaisa Yah; ku gode wa Yahweh, domin ⟨ya⟩ kyau ⟨ne⟩, domin chesed ⟨sa⟩ har abada.",
+  "tokens": [
+    {
+      "surface": "הַֽלְלוּ",
+      "gloss": "Ku gaisa"
+    },
+    {
+      "surface": "יָ֨הּ",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הוֹד֣וּ",
+      "gloss": "ku gode wa"
+    },
+    {
+      "surface": "לַיהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "ט֑וֹב",
+      "gloss": "kyau"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "חַסְדּֽוֹ",
+      "gloss": "chesed ⟨sa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:31:06.727489080Z",
+  "model": "glm-5.2"
+}

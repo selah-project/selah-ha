@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Ƙasar 'ya' ita zuwa gishiri, saboda laifin mazaunananta.",
+  "tokens": [
+    {
+      "surface": "אֶ֣רֶץ",
+      "gloss": "Ƙasar"
+    },
+    {
+      "surface": "פְּ֭רִי",
+      "gloss": "'ya' ita"
+    },
+    {
+      "surface": "לִמְלֵחָ֑ה",
+      "gloss": "zuwa gishiri"
+    },
+    {
+      "surface": "מֵ֝רָעַ֗ת",
+      "gloss": "saboda laifin"
+    },
+    {
+      "surface": "יֹ֣שְׁבֵי",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "בָֽהּ",
+      "gloss": "ta"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:58.889485820Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Za a binciri masu girman kai, domin sun ɓata ni da ƙarya; ni kuma ina yi tunani a cikin umarninka.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "za a binciri"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "masu girman kai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "da ƙarya"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "sun ɓata ni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni kuma"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "ina yi tunani"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "a cikin umarninka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:27:57.941650073Z",
+  "model": "glm-5.2"
+}

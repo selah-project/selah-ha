@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Mugun yana shirin cuta wa adalci, kuma yana gorgorāsa ga shi haƙoransa.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "yana shirin"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Mugun"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "cuta wa adalci"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "kuma yana gorgorāsa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "haƙoransa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:38:22.872152491Z",
+  "model": "glm-5.2"
+}

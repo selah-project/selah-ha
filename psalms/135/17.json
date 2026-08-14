@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 135,
+  "translation": "Kunnuwa suna musu amma ba sa sauraro, har abin da ⟨babu⟩ numfashi yana cikin bakinsu.",
+  "tokens": [
+    {
+      "surface": "אָזְנַ֣יִם",
+      "gloss": "kunnuwa"
+    },
+    {
+      "surface": "לָ֭הֶם",
+      "gloss": "suna musu"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "יַאֲזִ֑ינוּ",
+      "gloss": "sauraro"
+    },
+    {
+      "surface": "אַ֝֗ף",
+      "gloss": "har"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "יֶשׁ",
+      "gloss": "wanda yake"
+    },
+    {
+      "surface": "ר֥וּחַ",
+      "gloss": "numfashi"
+    },
+    {
+      "surface": "בְּפִיהֶֽם",
+      "gloss": "cikin bakinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:51:01.046066090Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 18:7",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma Yahweh ⟨ya kasance⟩ tare da shi, a duk abin da ya fita ya yi hikima; kuma ya tada tawaye a kan sarkin Ashur, kuma bai bauta masa ba.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kuma ⟨ya kasance⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tare da shi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ya fita"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "ya yi hikima"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "kuma ya tada tawaye"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "a kan sarkin"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "bai bauta masa ba"
+    }
+  ],
+  "timestamp": "2026-08-12T12:32:35.821900601Z",
+  "model": "glm-5.2"
+}

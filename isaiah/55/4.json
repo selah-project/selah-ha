@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 55,
+  "translation": "Ga shi! Shaida ga al'umma ⟨ne⟩ na ba shi, shugaba kuma mai umarni ga al'umma.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ga shi!"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Shaida"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "al'umma"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "na ba shi"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "shugaba"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "kuma mai umarni"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "al'umma"
+    }
+  ],
+  "timestamp": "2026-08-13T02:10:45.031479253Z",
+  "model": "glm-5.2"
+}

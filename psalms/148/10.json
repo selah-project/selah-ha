@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 148,
+  "translation": "Dabbobin daji da dukan dabbobi, ƙwarai da tsuntsayen fuka-fuki",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "dabbobin daji"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da dukan"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "dabbobi"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ƙwarai"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "da tsuntsayen"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "fuka-fuki"
+    }
+  ],
+  "timestamp": "2026-08-12T20:57:39.255005494Z",
+  "model": "glm-5.2"
+}

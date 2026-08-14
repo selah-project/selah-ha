@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Kuma ya cire ⟨את⟩ allahn ɓarna da ⟨את⟩ siffar, daga gidan Yahweh, da dukkan dabaru da ya gina a kan tsaunin gidan Yahweh da kuma a Yerushalaim, kuma ya jefa su wajen birnin.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Kuma ya cire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allahn ɓarna"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "allahn"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "ɓarna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "siffar"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "siffar"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "daga gidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "dabaru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ya gina"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a kan tsaunin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "da kuma a Yerushalaim"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "kuma ya jefa"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "su wajen"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "birnin"
+    }
+  ],
+  "timestamp": "2026-08-13T02:58:20.174068340Z",
+  "model": "glm-5.2"
+}

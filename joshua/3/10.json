@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma Yehoshua ya ce: \"Da wannan za ku sani cewa El mai rai yana cikinku, kuma yana ƙora ƙwara ya kore ku ɗaya daga gaban ku ⟨את⟩ Ƙana'aniyawa da ⟨את⟩ Hittiyawa da ⟨את⟩ Hiviyawa da ⟨את⟩ Periziyawa da ⟨את⟩ Girgashiyawa, da Ƙamoriyawa da Ƙebusiyawa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "Da wannan"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "za ku sani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "mai rai"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "yana cikinku"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "kuma yana ƙora"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "ƙwara ya kore"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "ku ɗaya daga gaban ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ƙana'aniyawa"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Ƙana'aniyawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Hittiyawa"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hittiyawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Hiviyawa"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hiviyawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Periziyawa"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Periziyawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Girgashiyawa"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgashiyawa"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "da Ƙamoriyawa"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "da Ƙebusiyawa"
+    }
+  ],
+  "timestamp": "2026-08-12T06:09:02.005361972Z",
+  "model": "glm-5.2"
+}

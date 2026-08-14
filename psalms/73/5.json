@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 73,
+  "translation": "A cikin wahalar mutumwa su ba su nan, kuma tare da mutane ba a taɓa su.",
+  "tokens": [
+    {
+      "surface": "בַּעֲמַ֣ל",
+      "gloss": "A cikin wahalar"
+    },
+    {
+      "surface": "אֱנ֣וֹשׁ",
+      "gloss": "mutumwa"
+    },
+    {
+      "surface": "אֵינֵ֑מוֹ",
+      "gloss": "su ba su nan"
+    },
+    {
+      "surface": "וְעִם",
+      "gloss": "kuma tare da"
+    },
+    {
+      "surface": "אָ֝דָ֗ם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יְנֻגָּֽעוּ",
+      "gloss": "a taɓa su"
+    }
+  ],
+  "timestamp": "2026-08-12T20:06:10.776202500Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Mosheh da Aharon sun tafi, suka tattara ⟨את⟩ dukkan gaɓɓan ƴan Isra'ila.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "suka tafi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "da Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "suka tattara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan gaɓɓan ƴan Isra'ila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "gaɓɓan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T00:31:08.720356396Z",
+  "model": "glm-5.2"
+}

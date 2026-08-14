@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 13:12",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "za ka raba wa Yahweh duk wanda yake buɗe mahaifa, da kuma duk fari na dabba da ke nan gare ka, ⟨wa⟩ maza, ⟨suna⟩ na Yahweh.",
+  "tokens": [
+    {
+      "surface": "והעברת",
+      "gloss": "za ka raba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "wanda yake buɗe"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "mahaifa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da kuma duk"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "fari"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "dabba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ke nan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gare ka"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "⟨wa⟩ maza"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨suna⟩ na Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T00:44:27.387852850Z",
+  "model": "glm-5.2"
+}

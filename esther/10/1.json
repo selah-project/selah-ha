@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma sarkin Achashverosh ya sanya haraji a ƙasa da tsibiran teku.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Kuma ya sanya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "מס",
+      "gloss": "haraji",
+      "marks": "haraji"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "da tsibiran"
+    },
+    {
+      "surface": "הים",
+      "gloss": "teku"
+    }
+  ],
+  "timestamp": "2026-08-14T00:02:34.041979682Z",
+  "model": "glm-5.2"
+}

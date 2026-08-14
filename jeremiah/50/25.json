@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 50:25",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "Yahweh ya buɗe ⟨את⟩ taskarsa, kuma ya fitar da ⟨את⟩ kayan aikin fushinsa, domin aiki ⟨ne⟩ na Adonai Yahweh Sebaot cikin ƙasar Kasdim.",
+  "tokens": [
+    {
+      "surface": "פָּתַ֤ח",
+      "gloss": "ya buɗe"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "taskarsa"
+    },
+    {
+      "surface": "א֣וֹצָר֔וֹ",
+      "gloss": "taskarsa"
+    },
+    {
+      "surface": "וַיּוֹצֵ֖א",
+      "gloss": "kuma ya fitar da"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kayan aikin fushinsa"
+    },
+    {
+      "surface": "כְּלֵ֣י",
+      "gloss": "kayan aikin"
+    },
+    {
+      "surface": "זַעְמ֑וֹ",
+      "gloss": "fushinsa"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "מְלָאכָ֣ה",
+      "gloss": "aiki"
+    },
+    {
+      "surface": "הִ֗יא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "לַֽאדֹנָ֧י",
+      "gloss": "na Adonai"
+    },
+    {
+      "surface": "יְהוִ֛ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צְבָא֖וֹת",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "בְּאֶ֥רֶץ",
+      "gloss": "cikin ƙasar"
+    },
+    {
+      "surface": "כַּשְׂדִּֽים",
+      "gloss": "Kasdim"
+    }
+  ],
+  "timestamp": "2026-08-12T16:35:25.509126487Z",
+  "model": "glm-5.2"
+}

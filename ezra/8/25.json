@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma na auna musu ⟨את⟩ azurfa da ⟨את⟩ zinari da ⟨את⟩ kayan aikin, gudummawar gidan Elohim mu, da sarki ya ɗaukaka, da masu ba shi shawara, da sarakunansa, da duka Isra'ila ⟨waɗanda⟩ ake samu.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "kuma na auna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azurfa"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "azurfa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "zinari"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zinari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kayan aikin"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "kayan aikin"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "gudummawar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim mu"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "da ya ɗaukaka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "da masu ba shi shawara"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "da sarakunansa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da duka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "⟨waɗanda⟩ ake samu"
+    }
+  ],
+  "timestamp": "2026-08-12T23:31:39.330269159Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 36:8",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Yanzu sai ka yi wa'adi da ⟨את⟩ Adonai⟨na⟩ sarkin Ashur, ni kuma zan ba ka dawakai dubu biyu — idan za ka iya samun mahaya a kansu!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "sai ka yi wa'adi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonai⟨na⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai⟨na⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ni kuma zan ba ka"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dubu biyu"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "dawakai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "za ka iya"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "samun"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "mahaya"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "a kansu"
+    }
+  ],
+  "timestamp": "2026-08-12T13:58:42.154003928Z",
+  "model": "glm-5.2"
+}

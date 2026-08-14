@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Wanda Ya tsara, gaba ɗaya, zukatansu — Mai fahimtar duka ayyukansu.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Wanda Ya tsara"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "gaba ɗaya"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "zukatansu"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "Mai fahimtar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ayyukansu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:36:55.143898243Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "da ⟨את⟩ igbiyoyi biyu, da ⟨את⟩ kitse ⟨ne⟩ da yake a kansu, wanda yake a kan ⟨את⟩ ƙwannafi, da ⟨את⟩ sassan hanta, tare da igbiyoyi zai cire su,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "igbiyoyi biyu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "igbiyoyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kitse"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "kitse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "yake a kansu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "yake a kan"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "ƙwannafi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "sassan hanta"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "sassan hanta"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "hanta"
+    },
+    {
+      "surface": "על",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "igbiyoyi"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "za ya cire"
+    }
+  ],
+  "timestamp": "2026-08-12T01:42:21.508904084Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 3:18",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Na ce ni, a cikin zuciyata, game da lissafin 'ya'yan adam, don ya tsare su Elohim, da kuma ganin cewa su ⟨ne⟩ dabbobi su ne a kansu.",
+  "tokens": [
+    {
+      "surface": "אָמַ֤רְתִּֽי",
+      "gloss": "Na ce"
+    },
+    {
+      "surface": "אֲנִי֙",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בְּלִבִּ֔י",
+      "gloss": "a cikin zuciyata"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "game da"
+    },
+    {
+      "surface": "דִּבְרַת֙",
+      "gloss": "lissafin"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "הָאָדָ֔ם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "לְבָרָ֖ם",
+      "gloss": "don ya tsare su"
+    },
+    {
+      "surface": "הָאֱלֹהִ֑ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וְלִרְא֕וֹת",
+      "gloss": "da kuma ganin"
+    },
+    {
+      "surface": "שְׁהֶם",
+      "gloss": "cewa su"
+    },
+    {
+      "surface": "בְּהֵמָ֥ה",
+      "gloss": "dabbobi"
+    },
+    {
+      "surface": "הֵ֖מָּה",
+      "gloss": "su ne"
+    },
+    {
+      "surface": "לָהֶֽם",
+      "gloss": "a kansu"
+    }
+  ],
+  "timestamp": "2026-08-12T22:43:05.330829553Z",
+  "model": "glm-5.2"
+}

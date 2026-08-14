@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "domin kada a shagaltar da ƙarfinka a cikin baƙo, kuma ƙwazazzalonka a cikin gida ⟨na⟩ wanda ba ya san ka;",
+  "tokens": [
+    {
+      "surface": "פֶּן",
+      "gloss": "kada"
+    },
+    {
+      "surface": "יִשְׂבְּע֣וּ",
+      "gloss": "a shagaltar da"
+    },
+    {
+      "surface": "זָרִ֣ים",
+      "gloss": "a cikin baƙo"
+    },
+    {
+      "surface": "כֹּחֶ֑ךָ",
+      "gloss": "ƙarfinka"
+    },
+    {
+      "surface": "וַ֝עֲצָבֶ֗יךָ",
+      "gloss": "kuma ƙwazazzalonka"
+    },
+    {
+      "surface": "בְּבֵ֣ית",
+      "gloss": "a cikin gida"
+    },
+    {
+      "surface": "נָכְרִֽי",
+      "gloss": "⟨na⟩ wanda ba ya san ka"
+    }
+  ],
+  "timestamp": "2026-08-12T21:03:52.985096207Z",
+  "model": "glm-5.2"
+}

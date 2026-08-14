@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma sarki na Yisra'el ya ce wa bayinsa, \"Shin ba ku sani ba cewa na mu ⟨ne⟩ Ramot-Gil'ad? Kuma mu mã shirya ɗaukar ⟨את⟩ ta daga hannun sarki na Aram?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bayinsa"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Shin ba ku sani ba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na mu"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "Kuma mu"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "mã shirya"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "ɗaukar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ta"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-12T11:48:53.113759275Z",
+  "model": "glm-5.2"
+}

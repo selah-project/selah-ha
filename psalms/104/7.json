@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 104,
+  "translation": "Daga tƙabbarmu za su gudu, daga muryar ƙorar ku za su gaggasha.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Daga"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "tƙabbarmu"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "za su gudu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "קול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "ƙorar ku"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "za su gaggasha"
+    }
+  ],
+  "timestamp": "2026-08-12T20:27:45.488947688Z",
+  "model": "glm-5.2"
+}

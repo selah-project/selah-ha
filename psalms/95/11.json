@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 95,
+  "translation": "saboda haka na rantsuwa da fushina: ba za su shiga zuwa hutu ba.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "saboda haka"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "na rantsuwa"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "da fushina"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ba za"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "su shiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "hutu ba"
+    }
+  ],
+  "timestamp": "2026-08-12T20:20:35.140721363Z",
+  "model": "glm-5.2"
+}

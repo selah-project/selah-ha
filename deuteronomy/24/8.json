@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 24:8",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Ka yi hankali game da ciwon suga, ka kula da yawa, ka yi ⟨abin⟩; a duk abin da firistocin ʿadadin Lewi za su koya ⟨את⟩ maku — kamar yadda na umurce su, haka ku kula ku yi.",
+  "tokens": [
+    {
+      "surface": "הִשָּׁ֧מֶר",
+      "gloss": "Ka yi hankali"
+    },
+    {
+      "surface": "בְּנֶֽגַע",
+      "gloss": "game da ciwon"
+    },
+    {
+      "surface": "הַצָּרַ֛עַת",
+      "gloss": "suga"
+    },
+    {
+      "surface": "לִשְׁמֹ֥ר",
+      "gloss": "ka kula"
+    },
+    {
+      "surface": "מְאֹ֖ד",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "וְלַעֲשׂ֑וֹת",
+      "gloss": "ka yi"
+    },
+    {
+      "surface": "כְּכֹל֩",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "abin"
+    },
+    {
+      "surface": "יוֹר֨וּ",
+      "gloss": "za su koya"
+    },
+    {
+      "surface": "אֶתְכֶ֜ם",
+      "gloss": "⟨את⟩ maku",
+      "marks": "firistocin"
+    },
+    {
+      "surface": "הַכֹּהֲנִ֧ים",
+      "gloss": "firistocin"
+    },
+    {
+      "surface": "הַלְוִיִּ֛ם",
+      "gloss": "ʿadadin Lewi"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֥ר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צִוִּיתִ֖ם",
+      "gloss": "na umurce"
+    },
+    {
+      "surface": "תִּשְׁמְר֥וּ",
+      "gloss": "ku kula"
+    },
+    {
+      "surface": "לַעֲשֽׂוֹת",
+      "gloss": "ku yi"
+    }
+  ],
+  "timestamp": "2026-08-12T05:35:08.375637811Z",
+  "model": "glm-5.2"
+}

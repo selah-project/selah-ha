@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma Mitsrayim za su sani cewa ni ne Yahweh, a lokacin da nake nisantawa ⟨ne⟩ a cikin Parʿo, a cikin dawakansa da mahayan dawakansa.\"",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "kuma za su sani"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "a lokacin da nake nisantawa"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "a cikin Parʿo"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "a cikin dawakansa"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "da mahayan dawakansa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:50:28.625621061Z",
+  "model": "glm-5.2"
+}

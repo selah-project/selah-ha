@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 13:10",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Sa'an nan Amnon ya ce wa Tamar, \"Kai abincin dakin ciki, in ci daga hannunka.\" Sai Tamar ta yi ⟨את⟩ kekunan da ta yi, kuma ta kai wa Amnon ɗan'uwanta dakin ciki.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sa'an nan ya ce"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "הבריה",
+      "gloss": "abincin"
+    },
+    {
+      "surface": "החדר",
+      "gloss": "dakin ciki"
+    },
+    {
+      "surface": "ואברה",
+      "gloss": "in ci"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "daga hannunka"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "sai ta yi"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kekunan"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "kekunan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ta yi"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "kuma ta kai"
+    },
+    {
+      "surface": "לאמנון",
+      "gloss": "wa Amnon"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ɗan'uwanta"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "dakin ciki"
+    }
+  ],
+  "timestamp": "2026-08-12T10:17:09.252036849Z",
+  "model": "glm-5.2"
+}

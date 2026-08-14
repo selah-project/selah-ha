@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 68,
+  "translation": "Ga shugaban waƙa, na Dawuda, waƙa, rera-waƙa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga shugaban waƙa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na Dawuda"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "waƙa"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "rera-waƙa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:58:47.745726854Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 11:23",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Yahweh ya ce wa Mosheh: \"Asã Yahweh ta gajarta? Yanzu zã ka ga ko kalãna ta tabbata a gare ka ko a'a.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "היד",
+      "gloss": "Asã"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "ta gajarta"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Yanzu"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "zã ka ga"
+    },
+    {
+      "surface": "היקרך",
+      "gloss": "ko ta tabbata"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalãna"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a'a"
+    }
+  ],
+  "timestamp": "2026-08-12T03:50:16.774482396Z",
+  "model": "glm-5.2"
+}

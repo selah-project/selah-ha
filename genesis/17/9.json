@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma Elohim Ya ce wa Avraham, \"Kai kuma ka riƙe ⟨את⟩ alkawarina, kai da zuriyarka ⟨ne⟩ a bayanka, tsaraɗinsu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma Ya ce"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Kai kuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alkawarina"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alkawarina"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ka riƙe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "da zuriyarka"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "a bayanka"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "tsaraɗinsu"
+    }
+  ],
+  "timestamp": "2026-08-11T23:34:22.161229312Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 23:24",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Asael ɗan'uwan Yoab cikin ⟨na⟩ talatin; Elchana ɗan Dodo, Bet-Lechem.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Asael"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ɗan'uwan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "cikin talatin"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Elchana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "Dodo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-08-12T10:43:42.638447099Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Ku faɗa wa muminin cewa ⟨zai⟩ yi masa alhẽri, domin ⟨su⟩ za su ci 'ya'yan ayyukansu.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ku faɗa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wa muminin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨zai⟩ yi masa alhẽri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ayyukansu"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "⟨su⟩ za su ci"
+    }
+  ],
+  "timestamp": "2026-08-12T12:58:00.987079765Z",
+  "model": "glm-5.2"
+}

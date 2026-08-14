@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma dukan al'ummomi za su yi maku alkawari saboda kuna ƙasar da ake so, in ji Yahweh na ṣaba'a.",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "kuma za su yi maku alkawari"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "al'ummomi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨ku⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "da ake so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "in ji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ṣaba'a"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:53.178461849Z",
+  "model": "glm-5.2"
+}

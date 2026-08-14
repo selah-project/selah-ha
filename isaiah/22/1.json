@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Burden na ⟨na⟩ kwarin gani. Me ya same ki yanzu, cewa duka kika haura ⟨zuwa⟩ rufafi?",
+  "tokens": [
+    {
+      "surface": "מַשָּׂ֖א",
+      "gloss": "Burden"
+    },
+    {
+      "surface": "גֵּ֣יא",
+      "gloss": "kwarin"
+    },
+    {
+      "surface": "חִזָּי֑וֹן",
+      "gloss": "gani"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "Me"
+    },
+    {
+      "surface": "לָּ֣ךְ",
+      "gloss": "ya same ki"
+    },
+    {
+      "surface": "אֵפ֔וֹא",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "עָלִ֥ית",
+      "gloss": "kika haura"
+    },
+    {
+      "surface": "כֻּלָּ֖ךְ",
+      "gloss": "duka"
+    },
+    {
+      "surface": "לַגַּגּֽוֹת",
+      "gloss": "rufafi"
+    }
+  ],
+  "timestamp": "2026-08-12T13:29:55.126993925Z",
+  "model": "glm-5.2"
+}

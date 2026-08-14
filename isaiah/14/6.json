@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 14:6",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "⟨Wanda⟩ yana duka mutane da fushi, buguwa ⟨da⟩ ba ta daina, yana bautar da al'umma da taurin kai, yana bin mutane ⟨ba⟩ a kange komai.",
+  "tokens": [
+    {
+      "surface": "מַכֶּ֤ה",
+      "gloss": "yana duka"
+    },
+    {
+      "surface": "עַמִּים֙",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "בְּעֶבְרָ֔ה",
+      "gloss": "da fushi"
+    },
+    {
+      "surface": "מַכַּ֖ת",
+      "gloss": "buguwa"
+    },
+    {
+      "surface": "בִּלְתִּ֣י",
+      "gloss": "ba ta"
+    },
+    {
+      "surface": "סָרָ֑ה",
+      "gloss": "daina"
+    },
+    {
+      "surface": "רֹדֶ֤ה",
+      "gloss": "yana bautar da"
+    },
+    {
+      "surface": "בָאַף֙",
+      "gloss": "da taurin kai"
+    },
+    {
+      "surface": "גוֹיִ֔ם",
+      "gloss": "al'umma"
+    },
+    {
+      "surface": "מֻרְדָּ֖ף",
+      "gloss": "yana bin mutane"
+    },
+    {
+      "surface": "בְּלִ֥י",
+      "gloss": "ba"
+    },
+    {
+      "surface": "חָשָֽׂךְ",
+      "gloss": "a kange"
+    }
+  ],
+  "timestamp": "2026-08-12T13:17:26.543984140Z",
+  "model": "glm-5.2"
+}

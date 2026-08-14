@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 2:3",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "«Kuma ka kiyaye ⟨את⟩ aikin kula na Yahweh Elohim naka, don ka tafiya a cikin hanyoyinSa, don kiyaye dokokinSa, umarninSa, hukuncinSa, da shaidarSa, kamar yadda aka rubuta a cikin Torah na Mosheh, domin ka yi hikima a duk abin da kake yiwa, ⟨kuma⟩ a duk inda kake juyarwa ⟨can⟩.»",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Kuma ka kiyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aikin kula"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "aikin kula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "don ka tafiya"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "a cikin hanyoyinSa"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "don kiyaye"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "dokokinSa"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "umarninSa"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "hukuncinSa"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "da shaidarSa"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "kamar yadda aka rubuta"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "a cikin Torah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "למען",
+      "gloss": "domin"
+    },
+    {
+      "surface": "תשכיל",
+      "gloss": "ka yi hikima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kake yiwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨kuma⟩ ⟨את⟩",
+      "marks": "duk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "kake juyarwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨can⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T02:03:42.227997445Z",
+  "model": "glm-5.2"
+}

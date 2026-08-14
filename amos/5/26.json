@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma kuka ɗauki ⟨את⟩ Sikkut sarkinku, da ⟨את⟩ Kiyyun gumakanku, taurarin allahnku, wanda kuka yi wa kanku.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "Kuma kuka ɗauki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikkut"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikkut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "sarkinku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Kiyyun"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiyyun"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "gumakanku"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "taurarin"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "allahnku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "kuka yi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wa kanku"
+    }
+  ],
+  "timestamp": "2026-08-13T02:20:00.696647136Z",
+  "model": "glm-5.2"
+}

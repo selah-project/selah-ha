@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "A cikin Elohim muna yabawa dukan ⟨alin⟩ rana, kuma sunanka za mu gode har abada. Sela.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "A cikin Elohim"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "muna yabawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ranan"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "kuma sunanka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "za mu gode"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-12T19:44:18.940852044Z",
+  "model": "glm-5.2"
+}

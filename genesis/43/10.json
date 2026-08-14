@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "⟨Domin⟩ idan ba mu yi jinkiri ba, lallai ⟨da⟩ yanzu muna dawowa wannan ⟨na⟩ sau biyu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨Domin⟩"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "idan ba"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "mu yi jinkiri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lallai"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "⟨da⟩ yanzu"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "muna dawowa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "⟨na⟩ sau biyu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:17:18.124563610Z",
+  "model": "glm-5.2"
+}

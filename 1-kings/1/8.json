@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 1:8",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "amma Tsadok kohen, da Benayahu ɗan Yehoyada, da Natan annabi, da Shim'i, da Re'i, da ƙwararrun mazan waɗanda suke na Dawuda, ba su kasance tare da Adonijah ba.",
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "amma Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "da Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "da Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabi"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "da Shim'i"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "da Re'i"
+    },
+    {
+      "surface": "והגבורים",
+      "gloss": "da ƙwararrun maza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "suke na Dawuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "היו",
+      "gloss": "suka kasance"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adonijah"
+    }
+  ],
+  "timestamp": "2026-08-12T10:45:55.615682117Z",
+  "model": "glm-5.2"
+}

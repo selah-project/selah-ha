@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Kuma suka yi ⟨את⟩ duwatsun shoham, an kewaye su da saitin zinariya, an sussaƙa su sussaƙar hatimi, a kan sunayen 'ya'yan Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "kuma suka yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duwatsun shoham"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "duwatsun"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "an kewaye su"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "da saitin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinariya"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "an sussaƙa su"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "sussaƙar"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "hatimi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sunayen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T01:37:35.135186097Z",
+  "model": "glm-5.2"
+}

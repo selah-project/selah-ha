@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 9:14",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma ⟨את⟩ ranar hutarka ta tsarki ka sanar da su, kuma ka umarce su da umarni, da ƙa'idoji, da shari'a, ta hannun Moshe bawan ka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ranar hutarka ta tsarki"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ranar hutu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ta tsarkinka"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "ka sanar da"
+    },
+    {
+      "surface": "להם",
+      "gloss": "su"
+    },
+    {
+      "surface": "ומצוות",
+      "gloss": "kuma da umarni"
+    },
+    {
+      "surface": "וחקים",
+      "gloss": "da ƙa'idoji"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "da shari'a"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "ka umarce"
+    },
+    {
+      "surface": "להם",
+      "gloss": "su"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ta hannun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bawan ka"
+    }
+  ],
+  "timestamp": "2026-08-12T23:45:30.275044982Z",
+  "model": "glm-5.2"
+}

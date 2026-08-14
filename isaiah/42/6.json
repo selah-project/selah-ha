@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 42:6",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Ni Yahweh, na kira ka cikin adalci, kuma zan riƙe ka da hannunka, kuma zana kula da kai, kuma zan sa ka ⟨zama⟩ alkawari ga mutane, ⟨zaman⟩ haske ga al'ummai;",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "na kira ka"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "cikin adalci"
+    },
+    {
+      "surface": "ואחזק",
+      "gloss": "kuma zan riƙe ka"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "da hannunka"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "kuma zan kula da kai"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "kuma zan sa ka"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "⟨zama⟩ alkawari"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ga mutane"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "⟨zaman⟩ haske"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ga al'ummai"
+    }
+  ],
+  "timestamp": "2026-08-12T14:03:18.239842772Z",
+  "model": "glm-5.2"
+}

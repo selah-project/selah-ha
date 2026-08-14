@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 17:21",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Domin ⟨an⟩ tsage Yisra'el daga gidan Dawida, kuma suka naɗa ⟨את⟩ Yarov'am ɗan Nevat sarki, kuma Yarov'am ya kori ⟨את⟩ Yisra'el daga bin Yahweh, ya kuma sa su yi zunubi babba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "tsage"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "daga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "suka naɗa sarki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarov'am"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarov'am"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "ya kori"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarov'am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "daga bī"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והחטיאם",
+      "gloss": "ya sa su yi zunubi"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "zunubi"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "babba"
+    }
+  ],
+  "timestamp": "2026-08-12T12:34:12.664187373Z",
+  "model": "glm-5.2"
+}

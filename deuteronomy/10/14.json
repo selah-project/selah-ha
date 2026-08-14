@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Ga, na Yahweh Elohimka ⟨ne⟩ sama da saman sama, ƙasa da duk abin da yake cikinta.",
+  "tokens": [
+    {
+      "surface": "הֵן",
+      "gloss": "Ga"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "Elohimka"
+    },
+    {
+      "surface": "הַשָּׁמַיִם",
+      "gloss": "sama"
+    },
+    {
+      "surface": "וּשְׁמֵי",
+      "gloss": "da saman"
+    },
+    {
+      "surface": "הַשָּׁמָיִם",
+      "gloss": "sama"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "da duk"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "בָּהּ",
+      "gloss": "yake cikinta"
+    }
+  ],
+  "timestamp": "2026-08-12T05:09:35.222593900Z",
+  "model": "glm-5.2"
+}

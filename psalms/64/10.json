@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 64,
+  "translation": "Kuma duk mutum zai ji tsoro, su kuma su faɗa aikin Elohim, aikinSa kuma su yi tunani a kansa.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "Kuma zai ji tsoro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "su kuma su faɗa"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "aikinSa kuma"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "su yi tunani a kansa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:54:50.980352684Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 1:22",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "A duk wannan Ayyob bai yi zunubi ba, kuma ba ya ba wa Elohim wani abu na banza.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "A duk"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bai ... ba"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "yi zunubi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayyob"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "wani abu na banza"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "wa Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T21:37:31.823339141Z",
+  "model": "glm-5.2"
+}

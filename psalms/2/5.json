@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Sa'an nan zai yi musu magana cikin fushinsa, kuma cikin taurin kisansa zai firgita su.",
+  "tokens": [
+    {
+      "surface": "אָ֤ז",
+      "gloss": "sa'an nan"
+    },
+    {
+      "surface": "יְדַבֵּ֣ר",
+      "gloss": "zhi yi magana"
+    },
+    {
+      "surface": "אֵלֵ֣ימוֹ",
+      "gloss": "musu"
+    },
+    {
+      "surface": "בְאַפּ֑וֹ",
+      "gloss": "cikin fushinsa"
+    },
+    {
+      "surface": "וּֽבַחֲרוֹנ֥וֹ",
+      "gloss": "kuma cikin taurin kisansa"
+    },
+    {
+      "surface": "יְבַהֲלֵֽמוֹ",
+      "gloss": "zai firgita su"
+    }
+  ],
+  "timestamp": "2026-08-13T02:22:44.596379754Z",
+  "model": "glm-5.2"
+}

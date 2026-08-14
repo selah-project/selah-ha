@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Har sai da ba a tsinke igiyar azurfa ba, da ba a karya ƙwanar zinariya ba, da ba a karya tukwanya a maɓuɓuwar ruwa ba, da ba a karya ƙwallo a rijiyar ba;",
+  "tokens": [
+    {
+      "surface": "עַ֣ד",
+      "gloss": "Har sai"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יֵרָחֵק",
+      "gloss": "a tsinke"
+    },
+    {
+      "surface": "חֶ֣בֶל",
+      "gloss": "igiyar"
+    },
+    {
+      "surface": "הַכֶּ֔סֶף",
+      "gloss": "azurfa"
+    },
+    {
+      "surface": "וְתָרֻ֖ץ",
+      "gloss": "a karya"
+    },
+    {
+      "surface": "גֻּלַּ֣ת",
+      "gloss": "ƙwanar"
+    },
+    {
+      "surface": "הַזָּהָ֑ב",
+      "gloss": "zinariya"
+    },
+    {
+      "surface": "וְתִשָּׁ֤בֶר",
+      "gloss": "a karya"
+    },
+    {
+      "surface": "כַּד֙",
+      "gloss": "tukwanya"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הַמַּבּ֔וּעַ",
+      "gloss": "maɓuɓuwar ruwa"
+    },
+    {
+      "surface": "וְנָרֹ֥ץ",
+      "gloss": "a karya"
+    },
+    {
+      "surface": "הַגַּלְגַּ֖ל",
+      "gloss": "ƙwallo"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הַבּֽוֹר",
+      "gloss": "rijiyar"
+    }
+  ],
+  "timestamp": "2026-08-12T22:51:26.881638311Z",
+  "model": "glm-5.2"
+}

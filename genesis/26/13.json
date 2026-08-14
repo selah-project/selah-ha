@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma mutumin ya girma, kuma ya ci gaba da tafiya da girma, har ya zama babba ⟨sauɗin⟩ mai yawa.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "kuma ya girma"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kuma ya ci gaba"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "da tafiya"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "da girma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya zama"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "babba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mai yawa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:50:01.396003897Z",
+  "model": "glm-5.2"
+}

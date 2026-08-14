@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "da ⟨אַת⟩ Hiyiyi, da ⟨אַת⟩ Arakiyi, da ⟨אַת⟩ Siniyi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ da ⟨אַת⟩",
+      "marks": "Hiyiyi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hiyiyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ da ⟨אַת⟩",
+      "marks": "Arakiyi"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Arakiyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ da ⟨אַת⟩",
+      "marks": "Siniyi"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Siniyi"
+    }
+  ],
+  "timestamp": "2026-08-12T23:54:52.906277790Z",
+  "model": "glm-5.2"
+}

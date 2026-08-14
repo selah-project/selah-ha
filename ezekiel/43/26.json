@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 43:26",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Tsawon kwanaki bakwai za su yanka ⟨don⟩ ⟨את⟩ dabarahar kuma za su tsarkake ⟨את⟩ ⟨ta⟩, kuma za su cika ⟨ne⟩ kwandon ⟨ta⟩.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "tsawon kwanaki bakwai"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "יכפרו",
+      "gloss": "za su yanka don"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dabarahar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "dabarahar"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "kuma za su tsarkake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ta"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "kuma za su cika"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kwandon ta"
+    }
+  ],
+  "timestamp": "2026-08-12T18:00:57.640217951Z",
+  "model": "glm-5.2"
+}

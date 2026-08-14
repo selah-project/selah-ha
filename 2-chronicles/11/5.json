@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Rehav'am ya zauna a Yerushalaim, ya gina birane don kariya a Yahuda.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ya zauna"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehav'am"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "a Yerushalaim"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ya gina"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "birane"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "don kariya"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "a Yahuda"
+    }
+  ],
+  "timestamp": "2026-08-13T02:44:40.345302311Z",
+  "model": "glm-5.2"
+}

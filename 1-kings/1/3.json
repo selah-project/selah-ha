@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Suka nemi 'yar mata mai kyau a duk iyakar Yisra'el, suka samu ⟨את⟩ Avishag mace ta Shunem, suka kawo ta ⟨ga⟩ sarki.",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "Suka nemi"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "'yar mata"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "iyakar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "suka samu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "mace ta Shunem"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "suka kawo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ta"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "⟨ga⟩ sarki"
+    }
+  ],
+  "timestamp": "2026-08-13T02:03:39.107359294Z",
+  "model": "glm-5.2"
+}

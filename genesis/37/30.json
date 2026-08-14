@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma ya koma wa 'yan'uwansa, ya ce: \"Yaron ba shi ba, kuma ni, ina zan nufa?\"",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ya koma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "'yan'uwansa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "yaron"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ba shi ba"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ina"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בא",
+      "gloss": "zan nufa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:09:02.598673876Z",
+  "model": "glm-5.2"
+}

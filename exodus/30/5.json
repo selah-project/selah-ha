@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma kana yi ⟨את⟩ sandunan da itacen shitta, kuma kana rufewa ⟨את⟩ su da zinari.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "kana yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandunan"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "sandunan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "itacen"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitta"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "kana rufewa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinari"
+    }
+  ],
+  "timestamp": "2026-08-12T01:13:58.753736384Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma za ka rubuta a kan duwatsun ⟨את⟩ dukkan maganganun wannan Torah, ka bayyana sosai.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "kuma za ka rubuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "duwatsun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan maganganun wannan Torah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maganganun"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "wannan Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ka bayyana"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "sosai"
+    }
+  ],
+  "timestamp": "2026-08-12T05:40:47.642970353Z",
+  "model": "glm-5.2"
+}

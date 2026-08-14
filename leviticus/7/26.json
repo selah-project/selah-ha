@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma kowane jini, kada ku ci, a dukiyar zama-ku, ⟨ko⟩ na tsuntsu ⟨ko⟩ na dabba.",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "kuma kowane"
+    },
+    {
+      "surface": "דָּם֙",
+      "gloss": "jini"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תֹאכְל֔וּ",
+      "gloss": "ku ci"
+    },
+    {
+      "surface": "בְּכֹ֖ל",
+      "gloss": "a dukiyar"
+    },
+    {
+      "surface": "מוֹשְׁבֹתֵיכֶ֑ם",
+      "gloss": "zama-ku"
+    },
+    {
+      "surface": "לָע֖וֹף",
+      "gloss": "na tsuntsu"
+    },
+    {
+      "surface": "וְלַבְּהֵמָֽה",
+      "gloss": "ko na dabba"
+    }
+  ],
+  "timestamp": "2026-08-13T01:48:21.420552841Z",
+  "model": "glm-5.2"
+}

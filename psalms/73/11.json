@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 73,
+  "translation": "Kuma suna cewa, \"Ta yaya El zai sani? Kuma akwai ilimi a cikin Elyon?\"",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Kuma suna cewa"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Ta yaya"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zai sani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "Kuma akwai"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ilimi"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "a cikin Elyon"
+    }
+  ],
+  "timestamp": "2026-08-12T20:04:36.856301545Z",
+  "model": "glm-5.2"
+}

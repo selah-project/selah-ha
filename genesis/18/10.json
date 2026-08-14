@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 18:10",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma ya ce, lalle zan koma zuwa gare ka a lokacin rai, ⟨kuma⟩ ga, ⟨za a haifa⟩ ɗa ga Sarah matarka. Kuma Sarah tana sauraro a ƙofar tantin, kuma ⟨shi⟩ a bayansa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "lalle zan koma"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "kowanne"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zuwa gare ka"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "a lokacin"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "rai"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "⟨kuma⟩ ga"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗa"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "ga Sarah"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "matarka"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "Kuma Sarah"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "tana sauraro"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "a ƙofar"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tantin"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kuma ⟨shi⟩"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "a bayansa"
+    }
+  ],
+  "timestamp": "2026-08-13T01:42:46.120850727Z",
+  "model": "glm-5.2"
+}

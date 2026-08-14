@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma Athaliya ta ji ⟨את⟩ muryar jama'a suna gudu da yabon ⟨gaisuwar⟩ ⟨את⟩ sarki, ta zo wa jama'a zuwa gidan Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "Kuma ta ji"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Athaliya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muryar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "suna gudu"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "da yabon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ta zo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "בית",
+      "gloss": "zuwa gida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "na Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-13T02:51:28.480049611Z",
+  "model": "glm-5.2"
+}

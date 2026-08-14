@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kada ka bar ta, ⟨kuma⟩ za ta tsare ka; ka ƙaunace ta, ⟨kuma⟩ za ta kiyaye ka.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "ka bar ta"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "⟨kuma⟩ za ta tsare ka"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ka ƙaunace ta"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "⟨kuma⟩ za ta kiyaye ka"
+    }
+  ],
+  "timestamp": "2026-08-12T21:04:08.738187331Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Ka nuna mini hanya cikin gaskiyarka, ka koya min, domin Kai ⟨ne⟩ Elohin nanina gyara, ⟨את⟩ Kai nana jira dukan rana.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Ka nuna mini hanya"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "cikin gaskiyarka"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "ka koya min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "nanina gyara"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "Kai"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "nana jira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rana"
+    }
+  ],
+  "timestamp": "2026-08-12T19:29:38.257756531Z",
+  "model": "glm-5.2"
+}

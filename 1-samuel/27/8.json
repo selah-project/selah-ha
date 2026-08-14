@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 27:8",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Dāwīd da mazansa sun tāra, suka kai wa hari Gāshūrī, da Gīrzī, da ʿAmālēkī; domin su ne mazaunan ƙasar, dāari, a hanyar zuwa Shūr, har zuwa ƙasar Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "suka tāra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dāwīd"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "da mazansa"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "suka kai wa hari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Gāshūrī"
+    },
+    {
+      "surface": "והגרזי",
+      "gloss": "da Gīrzī"
+    },
+    {
+      "surface": "והעמלקי",
+      "gloss": "da ʿAmālēkī"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "su ne"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dāari"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "dāari"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "a hanyar zuwa"
+    },
+    {
+      "surface": "שורה",
+      "gloss": "Shūr"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T09:38:30.654176127Z",
+  "model": "glm-5.2"
+}

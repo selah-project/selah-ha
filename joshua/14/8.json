@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 14:8",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "kuma ƴan'uwana da suka hawa tare da ni sun narkar da ⟨את⟩ zuciyar jama'a, amma ni na cika bin Yahweh Elohim na.",
+  "tokens": [
+    {
+      "surface": "ואחי",
+      "gloss": "kuma ƴan'uwana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "suka hawa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "tare da ni"
+    },
+    {
+      "surface": "המסיו",
+      "gloss": "sun narkar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuciyar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciyar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "amma ni"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "na cika bin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    }
+  ],
+  "timestamp": "2026-08-12T06:41:01.481166059Z",
+  "model": "glm-5.2"
+}

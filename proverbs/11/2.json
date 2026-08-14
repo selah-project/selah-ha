@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Ya zo girman kai, sai ya zo waɗinki, amma ⟨tare da⟩ ⟨את⟩ masu tawali'u ⟨akwai⟩ hikima.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "ya zo"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "girman kai"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "sai ya zo"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "waɗinki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "masu tawali'u"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "masu tawali'u"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikima"
+    }
+  ],
+  "timestamp": "2026-08-12T21:12:25.753911250Z",
+  "model": "glm-5.2"
+}

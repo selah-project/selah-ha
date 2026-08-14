@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 102,
+  "translation": "Saboda fushinka da taurin kaiƙõyinka, domin Kai ka ɗauke ni ⟨sama⟩ ka jefa ni ⟨ƙasa⟩.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "fushinka"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "taurin kaiƙoyinka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "ka ɗauke ni"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "ka jefa ni"
+    }
+  ],
+  "timestamp": "2026-08-12T20:24:44.092489723Z",
+  "model": "glm-5.2"
+}

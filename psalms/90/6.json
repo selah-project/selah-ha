@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 90,
+  "translation": "Safiyar tã yi fure, ⟨sai⟩ ta gudãne; yamma ⟨ake⟩ yanke ta, kuma ta bushe.",
+  "tokens": [
+    {
+      "surface": "בַּ֭בֹּקֶר",
+      "gloss": "safiyar"
+    },
+    {
+      "surface": "יָצִ֣יץ",
+      "gloss": "tã yi fure"
+    },
+    {
+      "surface": "וְחָלָ֑ף",
+      "gloss": "ta gudãne"
+    },
+    {
+      "surface": "לָ֝עֶ֗רֶב",
+      "gloss": "yamma"
+    },
+    {
+      "surface": "יְמוֹלֵ֥ל",
+      "gloss": "yanke ta"
+    },
+    {
+      "surface": "וְיָבֵֽשׁ",
+      "gloss": "kuma ta bushe"
+    }
+  ],
+  "timestamp": "2026-08-12T20:21:41.709096037Z",
+  "model": "glm-5.2"
+}

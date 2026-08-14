@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Amma idan kuka ƙi, kuma kuka tada tawaye, takobi za ku ci, domin bakin Yahweh ya yi magana.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "amma idan"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "kuka ƙi"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "kuma kuka tada tawaye"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "takobi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "za ku ci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bakin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya yi magana"
+    }
+  ],
+  "timestamp": "2026-08-12T12:54:50.226026999Z",
+  "model": "glm-5.2"
+}

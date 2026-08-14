@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Idan ⟨wani⟩ ya so ya yi shari'a da shi, ba zai iya amsa masa ba ɗaya daga cikin dubu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ya so"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "ya yi shari'a"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "da shi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "zai amsa masa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "מני",
+      "gloss": "daga cikin"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dubu"
+    }
+  ],
+  "timestamp": "2026-08-13T02:31:17.422339741Z",
+  "model": "glm-5.2"
+}

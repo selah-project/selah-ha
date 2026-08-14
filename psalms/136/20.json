@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 136,
+  "translation": "Da kuma Og sarkin Bashan, cewa har har abada chesed ⟨sa⟩.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "Da kuma Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed ⟨sa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:52:59.510322124Z",
+  "model": "glm-5.2"
+}

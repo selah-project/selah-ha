@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 85,
+  "translation": "chesed da gaskiya sun haɗu, adalci da salama sun sumbace.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "da gaskiya"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "sun haɗu"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adalci"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "da salama"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "sun sumbace"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:52.026415661Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 85,
+  "translation": "Lalle ne, kuɓutarwarsa tana kusa da waɗanda suke jin tsoronsa, domin ⟨ya⟩ zaunar da ɗaukaka a cikin ƙasarmu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "lalle ne"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "tana kusa"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "da waɗanda suke jin tsoronsa"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "kuɓutarwarsa"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "domin ⟨ya⟩ zaunar da"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ɗaukaka"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "a cikin ƙasarmu"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:52.026268163Z",
+  "model": "glm-5.2"
+}

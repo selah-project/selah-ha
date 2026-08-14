@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Hanya ka sa don zuwa ⟨ta⟩ takobi, ⟨את⟩ Rabbah ta 'ya'yan Ammon, da ⟨את⟩ Yahuda⟨a⟩ Yerushalaim ⟨mai⟩ kagara.",
+  "tokens": [
+    {
+      "surface": "דֶּ֣רֶךְ",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "תָּשִׂ֔ים",
+      "gloss": "ka sa"
+    },
+    {
+      "surface": "לָב֣וֹא",
+      "gloss": "don zuwa"
+    },
+    {
+      "surface": "חֶ֔רֶב",
+      "gloss": "takobi"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbah"
+    },
+    {
+      "surface": "רַבַּ֣ת",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "בְּנֵֽי",
+      "gloss": "ta 'ya'yan"
+    },
+    {
+      "surface": "עַמּ֑וֹן",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Yahuda"
+    },
+    {
+      "surface": "יְהוּדָ֥ה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "בִירוּשָׁלִַ֖ם",
+      "gloss": "a Yerushalaim"
+    },
+    {
+      "surface": "בְּצוּרָֽה",
+      "gloss": "mai kagara"
+    }
+  ],
+  "timestamp": "2026-08-12T17:18:40.472240305Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Shin, Elohim na jama'ai sun tsira da ⟨את⟩ su, waɗanda ubannina suka hallaka — ⟨את⟩ Gozan da ⟨את⟩ Haran da Retsef da ƴa'ƴan Eden waɗanda ke cikin Telassar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Shin, sun tsira da su"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ su"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "jama'ai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "ubannina suka hallaka"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "ubannina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "da Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "da ƴa'ƴan"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda ke"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "cikin Telassar"
+    }
+  ],
+  "timestamp": "2026-08-13T02:09:30.600080116Z",
+  "model": "glm-5.2"
+}

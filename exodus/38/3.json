@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Kuma ya yi ⟨את⟩ dukkan kayan altar ɗin — ⟨את⟩ tukwane, da ⟨את⟩ gatari, da ⟨את⟩ kwano, da ⟨את⟩ cokali, da ⟨את⟩ maşallar wuta; dukkan kayansa da tagulla ya yi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan kayan altar ɗin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kayan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar ɗin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukwane"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "tukwane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "gatari"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "gatari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kwano"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "kwano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cokali"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "cokali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "maşallar wuta"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "maşallar wuta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kayansa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tagulla"
+    }
+  ],
+  "timestamp": "2026-08-12T01:36:06.197990586Z",
+  "model": "glm-5.2"
+}

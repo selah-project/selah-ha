@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 64,
+  "translation": "Ga ⟨maestro⟩, waƙa ta Dawuda.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga ⟨maestro⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "waƙa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ta Dawuda"
+    }
+  ],
+  "timestamp": "2026-08-12T19:56:54.524591619Z",
+  "model": "glm-5.2"
+}

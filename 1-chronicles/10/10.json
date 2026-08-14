@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma suka saka ⟨את⟩ kayan sa cikin gidan elahihensu, kuma ⟨את⟩ kwanyarsa suka dora a gidan Dagon.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "suka saka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kayan sa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kayan sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "cikin gidan"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "elahihensu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "kwanyarsa"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "suka dora"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a gidan"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-08-13T00:10:00.791846739Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Don ɗaure sarakoransa cikin ransa, kuma dattijansa ya yi su hikima.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "Don ɗaure"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "sarakoransa"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "cikin ransa"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "kuma dattijansa"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "ya yi su hikima"
+    }
+  ],
+  "timestamp": "2026-08-12T20:29:09.799218047Z",
+  "model": "glm-5.2"
+}

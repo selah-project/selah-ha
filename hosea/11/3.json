@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma nī, na koya wa Efrayim tafiya, naukea su a hannuwana; amma ba su sani ba cē inã warkẽwa musu.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "kuma nī"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "na koya wa"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "naukea su"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "hannuwana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "suka sani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cē"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "inã warkẽwa musu"
+    }
+  ],
+  "timestamp": "2026-08-13T02:20:34.684992361Z",
+  "model": "glm-5.2"
+}

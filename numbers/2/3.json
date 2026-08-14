@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 2:3",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma waɗanda suke sansawa a gabas, ⟨a gefen⟩ fitar rana, ⟨sune⟩ tuta ta sansan Yahuda, da sojojinsu; kuma shugaban ɗiyán Yahuda ⟨shine⟩ Nachshon ɗan Aminadav.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "Kuma waɗanda suke sansawa"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "a gabas"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "⟨a gefen⟩ fitar rana"
+    },
+    {
+      "surface": "דגל",
+      "gloss": "tuta"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "sansan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "da sojojinsu"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "kuma shugaban"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ɗiyán"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "⟨shine⟩ Nachshon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadav"
+    }
+  ],
+  "timestamp": "2026-08-12T03:11:51.726190930Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 23:10",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Faɗi wa ɗiy'an Isra'ila, kuma ka ce musu: Lokacin da kuke shiga ⟨cikin⟩ ƙasar da nake bayar maku, kuka girbi girbinta, to kuna kawo ⟨את⟩ gomar farkon girbinku ga kohen.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Faɗi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiy'an"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "kuma ka ce"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Lokacin da"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "kuke shiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨cikin⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nake bayar"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "maku"
+    },
+    {
+      "surface": "וקצרתם",
+      "gloss": "kuka girbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "girbinta"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "girbinta"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "kuna kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gomar"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "gomar"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "farkon"
+    },
+    {
+      "surface": "קצירכם",
+      "gloss": "girbinku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    }
+  ],
+  "timestamp": "2026-08-12T02:45:13.115797691Z",
+  "model": "glm-5.2"
+}

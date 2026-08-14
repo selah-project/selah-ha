@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 6:14",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma Dawuda yana rawa da dukkan ƙarfi a gaban Yahweh, kuma Dawida ya sao efoda na linan.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Kuma Dawuda"
+    },
+    {
+      "surface": "מכרכר",
+      "gloss": "yana rawa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ƙarfi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "kuma Dawuda"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "ya sao"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efoda"
+    },
+    {
+      "surface": "בד",
+      "gloss": "na linan"
+    }
+  ],
+  "timestamp": "2026-08-12T10:07:34.763300189Z",
+  "model": "glm-5.2"
+}

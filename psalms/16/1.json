@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Zabin rubutu na Dawuda. Tsounda ni, ya El, domin ni na nẽsta mafaka a gare ka.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Zabin rubutu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na Dawuda"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Tsounda ni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ya El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "na nẽsta mafaka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "a gare ka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:21:45.170532415Z",
+  "model": "glm-5.2"
+}

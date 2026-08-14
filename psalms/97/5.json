@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 97,
+  "translation": "Dutse sun narka kamar gwangwani daga gaban Yahweh, daga gaban Adonai ⟨na⟩ dukkan ƙasa.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "dutse"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "kamar gwangwani"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "sun narka"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:23:44.933701117Z",
+  "model": "glm-5.2"
+}

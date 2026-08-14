@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 68,
+  "translation": "Uban marayu, kuma alkalin bazawara, Elohim ⟨ne⟩ a cikin mazauninsa na tsarki.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Uban"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "marayu"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "kuma alkalin"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "bazawara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "a cikin mazauninsa"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "na tsarki"
+    }
+  ],
+  "timestamp": "2026-08-12T20:01:34.473030231Z",
+  "model": "glm-5.2"
+}

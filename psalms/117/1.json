@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 117,
+  "translation": "Faɗi ⟨את⟩ Yahweh, dukan kasashe, ku yabe shi, dukan al'ummomi.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Faɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kasashe"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "ku yabe shi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "al'ummomi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:38:25.008051713Z",
+  "model": "glm-5.2"
+}

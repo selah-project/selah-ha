@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Domin ⟨shi⟩ ya cika rai mai ƙwaƙwalwa, kuma rai mai yunwa ya cika da abin mai kyau.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "ya cika"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rai"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "mai ƙwaƙwalwa"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "kuma rai"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "mai yunwa"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ya cika"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "abin mai kyau"
+    }
+  ],
+  "timestamp": "2026-08-12T20:32:38.485848315Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 52,
+  "translation": "Sabõda haka jama'ata za ta san sunãna; sabõda haka ⟨a⟩ wannan rãnar za ta sani cẽwa ni ne ⟨ne⟩ mai magana — ga ni ina nan!",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Sabõda haka"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "za ta san"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "jama'ata"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "sunãna"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "sabõda haka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rãnar"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cẽwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "mai magana"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ga ni ina nan"
+    }
+  ],
+  "timestamp": "2026-08-13T02:10:54.050755297Z",
+  "model": "glm-5.2"
+}

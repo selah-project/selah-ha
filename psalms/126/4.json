@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 126,
+  "translation": "Ka mayar, Yahweh, ⟨את⟩ koma mu, kamar rafuka a cikin ƙasar Kudu!",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Ka mayar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koma mu"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "koma mu"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "kamar rafuka"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "a cikin ƙasar Kudu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:50:38.447364277Z",
+  "model": "glm-5.2"
+}

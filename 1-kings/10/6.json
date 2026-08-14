@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Sai ta faɗa wa ⟨sarki⟩: Gaskiya ⟨ne⟩ labarin da na ji a ƙasata, game da kalaminka da game da hikimarka.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Sai ta faɗa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨sarki⟩"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "Gaskiya"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "labarin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "na ji"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "a ƙasata"
+    },
+    {
+      "surface": "על",
+      "gloss": "game da"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "kalaminka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da game da"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "hikimarka"
+    }
+  ],
+  "timestamp": "2026-08-13T04:03:29.906164199Z",
+  "model": "glm-5.2"
+}

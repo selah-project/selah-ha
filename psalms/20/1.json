@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Ga shugaban mawaka, waƙa ta Dawuda.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga shugaban mawaka"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "waƙa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ta Dawuda"
+    }
+  ],
+  "timestamp": "2026-08-12T19:25:57.281970320Z",
+  "model": "glm-5.2"
+}

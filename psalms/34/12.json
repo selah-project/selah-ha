@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Ku zo, ya ƴaƴa, ku saurare ni; tsoron Yahweh zan koya muku.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Ku zo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ya ƴaƴa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ku saurare"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "tsoron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "zan koya muku"
+    }
+  ],
+  "timestamp": "2026-08-12T19:34:50.128012773Z",
+  "model": "glm-5.2"
+}

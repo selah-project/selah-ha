@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 4:7",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "«Kuma Ni zan ja zuwa gare ka, zuwa ga kogin Kishon, ⟨את⟩ Sisera, shugaban sojojin Yavin, da ⟨את⟩ motocinsa da ⟨את⟩ tarin sa, kuma zan bayar da shi a cikin hannunka.»",
+  "tokens": [
+    {
+      "surface": "ומשכתי",
+      "gloss": "Kuma zan ja"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zuwa gare ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "kogin"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sisera"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sojojin"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Yavin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "motocinsa"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "motocinsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "tarin sa"
+    },
+    {
+      "surface": "המונו",
+      "gloss": "tarin sa"
+    },
+    {
+      "surface": "ונתתיהו",
+      "gloss": "kuma zan bayar da shi"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "a cikin hannunka"
+    }
+  ],
+  "timestamp": "2026-08-12T07:30:56.379438568Z",
+  "model": "glm-5.2"
+}

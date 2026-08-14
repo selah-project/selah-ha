@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma Shemuël ya yi magana da mutãnen a kan ⟨את⟩ hukuncin mulki, kuma ya rubuta a cikin littãfi, kuma ya ajiye shi a gaban Yahweh. Kuma Shemuël ya tura ⟨את⟩ duka mutãnen, kowane mutum zuwa gidansa.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Kuma ya yi magana"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukuncin mulki"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukuncin"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "mulki"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "kuma ya rubuta"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "a cikin littãfi"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "kuma ya ajiye"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "Kuma ya tura"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka mutãnen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "zuwa gidansa"
+    }
+  ],
+  "timestamp": "2026-08-12T08:46:03.518364130Z",
+  "model": "glm-5.2"
+}

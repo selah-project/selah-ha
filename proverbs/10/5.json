@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Wanda yake tattara ⟨a⟩ lokacin bazara ⟨shi⟩ ɗan mai hankali ne; wanda yake barci ⟨a⟩ lokacin girbi ⟨shi⟩ ɗan da ke haifar da kunya.",
+  "tokens": [
+    {
+      "surface": "אֹגֵ֣ר",
+      "gloss": "wanda yake tattara"
+    },
+    {
+      "surface": "בַּ֭קַּיִץ",
+      "gloss": "⟨a⟩ lokacin bazara"
+    },
+    {
+      "surface": "בֵּ֣ן",
+      "gloss": "⟨shi⟩ ɗan"
+    },
+    {
+      "surface": "מַשְׂכִּ֑יל",
+      "gloss": "mai hankali"
+    },
+    {
+      "surface": "נִרְדָּ֥ם",
+      "gloss": "wanda yake barci"
+    },
+    {
+      "surface": "בַּ֝קָּצִ֗יר",
+      "gloss": "⟨a⟩ lokacin girbi"
+    },
+    {
+      "surface": "בֵּ֣ן",
+      "gloss": "⟨shi⟩ ɗan"
+    },
+    {
+      "surface": "מֵבִֽישׁ",
+      "gloss": "da ke haifar da kunya"
+    }
+  ],
+  "timestamp": "2026-08-12T21:10:26.729675448Z",
+  "model": "glm-5.2"
+}

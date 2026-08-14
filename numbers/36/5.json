@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Mosheh ya umarci ⟨את⟩ ƴan Isra'il a bisa maganar Yahweh, yana cewa: \"Haka kabilar ƴan Yosef suna magana da gaskiya.\"",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ya umarci"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'il"
+    },
+    {
+      "surface": "על",
+      "gloss": "a bisa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "magana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kabila"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "suna magana da gaskiya"
+    }
+  ],
+  "timestamp": "2026-08-12T04:51:48.969845783Z",
+  "model": "glm-5.2"
+}

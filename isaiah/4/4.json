@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Idan Adonai ya wanki ⟨את⟩ dãɗar ƙaunata Tsiyyon, kuma ya tsaftacesa ⟨את⟩ jinin Yerushalaim daga tsakãninta, da rũhin shari'a da rũhin konewa,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "ya wanki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dãɗar ƙaunata Tsiyyon"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "dãɗar"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ʼya'yan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "jinin Yerushalaim"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "jinin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "ya tsaftacesa"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "daga tsakãninta"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "da rũhin"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "shari'a"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "da rũhin"
+    },
+    {
+      "surface": "בער",
+      "gloss": "konewa"
+    }
+  ],
+  "timestamp": "2026-08-12T13:03:49.277523235Z",
+  "model": "glm-5.2"
+}

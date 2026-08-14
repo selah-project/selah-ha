@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Wāƙe ba ya neman fahimta, amma ⟨don⟩ a bayyana ⟨abin da ke cikin⟩ zuciyarsa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ya nema"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "wāƙe"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "fahimta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨don⟩"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "a bayyana"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zuciyarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T21:20:37.062745449Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 20:15",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "kuma ba za ka yankewa ⟨את⟩ chesed ɗinka daga gidana har abadad ba, kuma ⟨babu⟩ a cikin yankewar Yahweh ⟨את⟩ maƙiyai Dauda, kowane ɗaya daga kan fuskar ƙasa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "za ka yankewa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chesed ɗinka"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed ɗinka"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "daga"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "gidana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ⟨babu⟩"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "a cikin yankewar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maƙiyai Dauda"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "maƙiyai"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dauda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane ɗaya"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "daga kan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskar"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T09:17:32.962455011Z",
+  "model": "glm-5.2"
+}

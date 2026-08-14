@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 8:9",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma za ka kawo ⟨את⟩ haɗin-Lewiyabbá a gaban Tindi-Taro, kuma za ka taru da ⟨את⟩ duka tarar ɗiyán-Isra'ila.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "kuma za ka kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haɗin-Lewiyabbá"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "haɗin-Lewiyabbá"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tindi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Taro"
+    },
+    {
+      "surface": "והקהלת",
+      "gloss": "kuma za ka taru da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "tarar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyán"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T03:38:11.121273718Z",
+  "model": "glm-5.2"
+}

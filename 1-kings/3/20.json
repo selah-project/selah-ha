@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ta tashi tsakkiyar dare, kuma ta riƙe ⟨את⟩ ɗāna daga gare ni, yayin da bāwarki ke barci, kuma ta kwantar da shi a cikinta, kuma ɗanta wanda ya mutu ta kwantar a cikina.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "kuma ta tashi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "tsakkiyar"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "dare"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "kuma ta riƙe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗāna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗāna"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "daga gare ni"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "bāwarki"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "barci"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "kuma ta kwantar da shi"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "a cikinta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "ɗanta"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ɗanta"
+    },
+    {
+      "surface": "המת",
+      "gloss": "wanda ya mutu"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "ta kwantar"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "a cikina"
+    }
+  ],
+  "timestamp": "2026-08-12T10:57:46.523237550Z",
+  "model": "glm-5.2"
+}

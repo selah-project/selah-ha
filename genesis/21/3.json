@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma Avraham ya kira ⟨את⟩ sunan ɗansa ⟨ne⟩, wanda aka haifa masa, wanda Sarahah ta haifa masa, Yitschaq.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Kuma ya kira"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "suna"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗansa"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "wanda aka haifa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ta haifa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarahah"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaq"
+    }
+  ],
+  "timestamp": "2026-08-11T23:42:25.565044204Z",
+  "model": "glm-5.2"
+}

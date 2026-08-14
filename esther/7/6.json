@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Ester ta faɗa, \"Mutumin nan maƙiyi ne, Haman mugun nan.\" Kuma Haman ya firgita a gaban sarki da sarauniya.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kuma ta faɗa"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "צר",
+      "gloss": "maƙiyi"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "kuma ƙażafi"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mugun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "kuma Haman"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "ya firgita"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "da sarauniya"
+    }
+  ],
+  "timestamp": "2026-08-12T23:03:27.735274314Z",
+  "model": "glm-5.2"
+}

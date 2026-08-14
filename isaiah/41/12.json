@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Za ka nēme su, amma ba za ka sāme su ba — mutānen ĩtūnarka; za su zama kamar bābu, kuma kamar bābkōmutānen yāinkaka.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "za ka nēme su"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "za ka sāme su"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mutānen"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "ĩtūnarka"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "za su zama"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "kamar bābu"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "kuma kamar bābkōm"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mutānen"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "yāinkaka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:09:26.511068074Z",
+  "model": "glm-5.2"
+}

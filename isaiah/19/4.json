@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 19:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma za Ni in mika ⟨את⟩ Mitsrayim a hannun masu mulki masu tsanani, kuma sarki mai ƙarfi za yi musu mulki, — maganar Adonai, Yahweh Sebaot.",
+  "tokens": [
+    {
+      "surface": "וסכרתי",
+      "gloss": "kuma za Ni in mika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "a hannun"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "masu mulki"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "masu tsanani"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "kuma sarki"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mai ƙarfi"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "za yi mulki"
+    },
+    {
+      "surface": "בם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "maganar"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    }
+  ],
+  "timestamp": "2026-08-12T13:29:36.758727321Z",
+  "model": "glm-5.2"
+}

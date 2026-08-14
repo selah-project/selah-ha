@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma 'ya'yan Nadav ⟨su ne⟩ Seled da Appayim; kuma Seled ya mutu ba shi da 'ya'ya.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Kuma 'ya'yan"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Seled"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "da Appayim"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kuma ya mutu"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Seled"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "'ya'ya"
+    }
+  ],
+  "timestamp": "2026-08-13T02:38:37.760790880Z",
+  "model": "glm-5.2"
+}

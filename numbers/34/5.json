@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 34:5",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Kuma ⟨a⟩ iyaka za ta juya daga Atsmon ⟨zuwa⟩ rafin Mitsrayim, kuma fitattun ⟨santa⟩ za su kasance ⟨a⟩ teku.",
+  "tokens": [
+    {
+      "surface": "ונסב",
+      "gloss": "za ta juya"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "iyaka"
+    },
+    {
+      "surface": "מעצמון",
+      "gloss": "daga Atsmon"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "rafin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kuma za su kasance"
+    },
+    {
+      "surface": "תוצאתיו",
+      "gloss": "fitattunsa"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "⟨a⟩ teku"
+    }
+  ],
+  "timestamp": "2026-08-12T04:45:41.068389278Z",
+  "model": "glm-5.2"
+}

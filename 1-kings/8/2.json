@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma duk mutanen Isra'ila suka taru zuwa ga sarki Shlomoh a watan Ha-Etanim, a cikin biki — ⟦wato⟧ shi ne wata na bakwai.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "suka taru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "a watan"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "Ha-Etanim"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "a cikin biki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟦wato⟧ shi ne"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "wata"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "na bakwai"
+    }
+  ],
+  "timestamp": "2026-08-12T11:07:22.966703862Z",
+  "model": "glm-5.2"
+}

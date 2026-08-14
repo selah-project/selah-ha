@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma za ka sa can ⟨את⟩ akwatin shaidar, kuma za ka rufe ⟨את⟩ akwatin da ⟨da⟩ katanga.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Kuma za ka sa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin shaidar"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "shaidar"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "kuma za ka rufe"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katanga"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "katanga"
+    }
+  ],
+  "timestamp": "2026-08-12T01:43:28.244393212Z",
+  "model": "glm-5.2"
+}

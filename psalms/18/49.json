@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 18:49",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Mai ceto na daga maƙiyata, har da masu tayar da min tashin hankali, Kai ka ɗauke ni; daga mutumin tashin hankali Kai ka tsira da ni.",
+  "tokens": [
+    {
+      "surface": "מפלטי",
+      "gloss": "Mai ceto na"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "daga maƙiyata"
+    },
+    {
+      "surface": "אף",
+      "gloss": "har da"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "masu tayar da min tashin hankali"
+    },
+    {
+      "surface": "תרוממני",
+      "gloss": "Kai ka ɗauke ni"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "daga mutumin"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tashin hankali"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "Kai ka tsira da ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:23:13.471322407Z",
+  "model": "glm-5.2"
+}

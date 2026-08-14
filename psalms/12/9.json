@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "A kewaye, mugaye suna yawo ⟨a ko'ina⟩; an ɗaukaka ƙasƙanci ⟨a tsakanin⟩ 'ya'yan adam.",
+  "tokens": [
+    {
+      "surface": "סָבִ֗יב",
+      "gloss": "A kewaye"
+    },
+    {
+      "surface": "רְשָׁעִ֥ים",
+      "gloss": "mugaye"
+    },
+    {
+      "surface": "יִתְהַלָּכ֑וּן",
+      "gloss": "suna yawo"
+    },
+    {
+      "surface": "כְּרֻ֥ם",
+      "gloss": "an ɗaukaka"
+    },
+    {
+      "surface": "זֻ֝לּ֗וּת",
+      "gloss": "ƙasƙanci"
+    },
+    {
+      "surface": "לִבְנֵ֥י",
+      "gloss": "⟨a tsakanin⟩ 'ya'yan"
+    },
+    {
+      "surface": "אָדָֽם",
+      "gloss": "adam"
+    }
+  ],
+  "timestamp": "2026-08-12T19:18:03.430162811Z",
+  "model": "glm-5.2"
+}

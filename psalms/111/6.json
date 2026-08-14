@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 111,
+  "translation": "Ƙarfin ayyukansa Ya sanar wa mutanensa, don ya bayar musu gado ⟨na⟩ al'ummomi.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "ƙarfin"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ayyukansa"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "Ya sanar"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "wa mutanensa"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "don ya bayar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "gado"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "al'ummomi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:36:27.646806154Z",
+  "model": "glm-5.2"
+}

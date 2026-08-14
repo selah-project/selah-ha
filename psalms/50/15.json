@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "Kuma ka kira ni a rana ta wahala, ⟨ni⟩ zan tsatar da kai, kuma za ka girmama ni.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "Kuma ka kira ni"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana ta"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "wahala"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "⟨ni⟩ zan tsatar da kai"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "kuma za ka girmama ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:48:34.444589866Z",
+  "model": "glm-5.2"
+}

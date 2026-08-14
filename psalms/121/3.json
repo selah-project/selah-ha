@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 121,
+  "translation": "Kada ya bada ⟨don⟩ ƙafar ka ta yi girgiza, kada ya barta mai tsaron ka ya yi bargo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ya bada"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "⟨don⟩ ta yi girgiza"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ƙafar ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ya barta...ya yi bargo"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "mai tsaron ka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:47:06.619977234Z",
+  "model": "glm-5.2"
+}

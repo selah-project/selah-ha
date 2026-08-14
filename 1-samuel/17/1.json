@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma Pelishtiyim sun tattara ⟨את⟩ sansaninsu don yaki, kuma sun taru a Sokoh, wanda ⟨na⟩ Yahuda ⟨ne⟩, kuma sun sansanta tsakanin Sokoh da Azekah, a Efes-Damim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "kuma sun tattara"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtiyim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sansaninsu"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "sansaninsu"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "don yaki"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "kuma sun taru"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "na Yahuda"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "kuma sun sansanta"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azekah"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "a Efes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damim"
+    }
+  ],
+  "timestamp": "2026-08-12T09:10:48.163185524Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma sojojin Kasdiyawa sun bi sarki baya, suka kama shi a cikin fadar Yeriho, kuma dukkan sojojinsa sun watse ⟨daga⟩ kansa.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "suka bi baya"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sojojin"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdiyawa"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "suka kama"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi",
+      "marks": "shi"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "a cikin fadar"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yeriho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma dukkan"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "sojojinsa"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "sun watse"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "daga kansa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:50:51.383406801Z",
+  "model": "glm-5.2"
+}

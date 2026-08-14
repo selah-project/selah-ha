@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Ya ce a cikin zuciyarsa, ⟨ce⟩, 'El ya manta; ya ɓoye fuskarsa; ba zai taɓa gani ba, har abada.'",
+  "tokens": [
+    {
+      "surface": "אָמַ֣ר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "בְּ֭לִבּוֹ",
+      "gloss": "a cikin zuciyarsa"
+    },
+    {
+      "surface": "שָׁ֣כַֽח",
+      "gloss": "ya manta"
+    },
+    {
+      "surface": "אֵ֑ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הִסְתִּ֥יר",
+      "gloss": "ya ɓoye"
+    },
+    {
+      "surface": "פָּנָ֗יו",
+      "gloss": "fuskarsa"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "רָאָ֥ה",
+      "gloss": "zai taɓa gani"
+    },
+    {
+      "surface": "לָנֶֽצַח",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:23.012682956Z",
+  "model": "glm-5.2"
+}

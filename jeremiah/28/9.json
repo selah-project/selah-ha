@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 28:9",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Annabī wanda zai annabta sulhu, a lokacin da kalamī na annabī ya zo, ⟨a nan⟩ a san annabī wanda Yahweh ya aiko shi ⟨da⟩ gaskiya.",
+  "tokens": [
+    {
+      "surface": "הנביא",
+      "gloss": "annabī"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "zai annabta"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "sulhu"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "a lokacin da … ya zo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalamī"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "na annabī"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "a san"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabī"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ya aiko shi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "⟨da⟩ gaskiya"
+    }
+  ],
+  "timestamp": "2026-08-12T15:50:46.702189918Z",
+  "model": "glm-5.2"
+}

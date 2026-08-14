@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Ka nade ⟨daga⟩ kaina wulakanci da ƙyama, domin na tsare shaidoshinka.",
+  "tokens": [
+    {
+      "surface": "גַּ֣ל",
+      "gloss": "ka nade"
+    },
+    {
+      "surface": "מֵֽ֭עָלַי",
+      "gloss": "⟨daga⟩ kaina"
+    },
+    {
+      "surface": "חֶרְפָּ֣ה",
+      "gloss": "wulakanci"
+    },
+    {
+      "surface": "וָב֑וּז",
+      "gloss": "da ƙyama"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עֵדֹתֶ֣יךָ",
+      "gloss": "shaidoshinka"
+    },
+    {
+      "surface": "נָצָֽרְתִּי",
+      "gloss": "na tsare"
+    }
+  ],
+  "timestamp": "2026-08-12T20:41:41.499530528Z",
+  "model": "glm-5.2"
+}

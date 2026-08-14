@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 17:10",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma kowane mutum daga cikin gidan Yisra'el, kuma daga cikin baƙin da yake baƙunci a tsakaninku, wanda ya ci kowane jini, to Ni zan fuskantar ⟨ni⟩ wannan rai mai cin ⟨את⟩ jinin, kuma zan yanke ⟨את⟩ shi daga tsakiyar mutanensa.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Kuma mutum"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "daga cikin gidan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kuma daga cikin"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "baƙin"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "da yake baƙunci"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "a tsakaninku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ya ci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowanne"
+    },
+    {
+      "surface": "דם",
+      "gloss": "jini"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "to Ni zan fuskantar"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuska⟨ni⟩"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "wannan rai"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "mai cin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jinin"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "jinin"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "kuma zan yanke"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ shi",
+      "marks": "daga tsakiyar"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "daga tsakiyar"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "mutanensa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:29:38.735566804Z",
+  "model": "glm-5.2"
+}

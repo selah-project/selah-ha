@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 6:21",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma Shelomah ya rufe ⟨את⟩ gidan daga ciki da zinariya da aka rufe, kuma ya tsaga jeri na zinariya a gaban ɗakin ciki, kuma ya rufe shi da zinariya.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "Kuma ya rufe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "מפנימה",
+      "gloss": "daga ciki"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "da zinariya"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "da aka rufe"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "kuma ya tsaga"
+    },
+    {
+      "surface": "ברתיקות",
+      "gloss": "jeri"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "na zinariya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "ɗakin ciki"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "kuma ya rufe shi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "da zinariya"
+    }
+  ],
+  "timestamp": "2026-08-12T10:59:50.158982763Z",
+  "model": "glm-5.2"
+}

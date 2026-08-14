@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Idanuwata kullum ⟨suna⟩ a kan Yahweh, domin shi zāi fitar da ƙafafuna daga drāro.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "idanuwata"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kullum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "zāi fitar da"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "daga drāro"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ƙafafuna"
+    }
+  ],
+  "timestamp": "2026-08-12T19:30:15.623758535Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 79,
+  "translation": "Har zuwa lokáça ne, Yahweh, zaka yi fushi har abàda? Zà ⟨ta⟩ ɓàrƙè wutà kìsmar kishinka?",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "מָ֣ה",
+      "gloss": "lokáça"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תֶּאֱנַ֣ף",
+      "gloss": "zaka yi fishi"
+    },
+    {
+      "surface": "לָנֶ֑צַח",
+      "gloss": "har abàda"
+    },
+    {
+      "surface": "תִּבְעַ֥ר",
+      "gloss": "zà ɓàrƙè"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "kìsmar"
+    },
+    {
+      "surface": "אֵ֝֗שׁ",
+      "gloss": "wutà"
+    },
+    {
+      "surface": "קִנְאָתֶֽךָ",
+      "gloss": "kishinwa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:13:51.596757770Z",
+  "model": "glm-5.2"
+}

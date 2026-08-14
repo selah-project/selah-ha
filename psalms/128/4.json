@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 128,
+  "translation": "Ga shi, ⟨shĩ⟩, hakĩƙa, haka za a albarkaci mutumin da ke tsoron Yahweh.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ga shi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨shĩ⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hakĩƙa"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "za a albarkaci"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "da ke tsoron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T20:47:56.263486997Z",
+  "model": "glm-5.2"
+}

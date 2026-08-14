@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 131,
+  "translation": "Lalle ⟨na⟩ daidaita, kuma na natsu wa ⟨da⟩ raina, kamar yaro da aka ƙwarar da shi a kan uwarsa; kamar yaro da aka ƙwarar da shi a kaina, haka ⟨ne⟩ raina.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Lalle"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "⟨na⟩ daidaita"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "kuma na natsu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "wa ⟨da⟩ raina"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "kamar yaro"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a kai"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "uwarsa"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "kamar yaro"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a kaina"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "raina"
+    }
+  ],
+  "timestamp": "2026-08-12T20:48:29.108840094Z",
+  "model": "glm-5.2"
+}

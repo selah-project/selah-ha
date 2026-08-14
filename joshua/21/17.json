@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma daga kabilar Binjamin ⟨an bā⟩ ⟨את⟩ Gibʿon da ⟨את⟩ māgraśanta, ⟨את⟩ Geba da ⟨את⟩ māgraśanta.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Kuma daga kabilar"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibʿon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibʿon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "māgraśanta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "māgraśanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "māgraśanta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "māgraśanta"
+    }
+  ],
+  "timestamp": "2026-08-12T06:59:12.802429378Z",
+  "model": "glm-5.2"
+}

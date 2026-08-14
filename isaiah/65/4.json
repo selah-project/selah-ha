@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 65,
+  "translation": "masu zama a tsakanin kaburbura, kuma suna kwana a cikin waɗansu wuraren da aka ɓoye; masu cin naman alade, da ruwan abubuwa da aka gurgunta a cikin kayansu.",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "masu zama"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "a tsakanin kaburbura"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "kuma a cikin wuraren da aka ɓoye"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "suna kwana"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "masu cin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "naman"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "alade"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "da ruwan"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "abubuwa da aka gurgunta"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "a cikin kayansu"
+    }
+  ],
+  "timestamp": "2026-08-12T14:47:25.107371445Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Bā zā kasance ⟨da⟩ waɗansu alloli ba a gaban nawa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Bā"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zā kasance"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "alloli"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wasu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nawa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:55:37.074534944Z",
+  "model": "glm-5.2"
+}

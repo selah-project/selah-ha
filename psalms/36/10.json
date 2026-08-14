@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Domin ⟨a⟩ wurinka ⟨akwai⟩ maɓoyin rai, a cikin haskenka mu ga haske.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עִ֭מְּךָ",
+      "gloss": "a wurinka"
+    },
+    {
+      "surface": "מְק֣וֹר",
+      "gloss": "maɓoyin"
+    },
+    {
+      "surface": "חַיִּ֑ים",
+      "gloss": "rai"
+    },
+    {
+      "surface": "בְּ֝אוֹרְךָ֗",
+      "gloss": "a cikin haskenka"
+    },
+    {
+      "surface": "נִרְאֶה",
+      "gloss": "mu ga"
+    },
+    {
+      "surface": "אֽוֹר",
+      "gloss": "haske"
+    }
+  ],
+  "timestamp": "2026-08-12T19:36:32.700074614Z",
+  "model": "glm-5.2"
+}

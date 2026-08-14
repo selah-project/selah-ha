@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma idan ba za ku saurari muryar Yahweh ba, kuma ka tawaye da ⟨את⟩ bakin Yahweh, to hannun Yahweh zai kasance a kanku da kuma a ga jikinku.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "za ku saurari"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "kuma ka tawaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakin"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bakin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "to zai kasance"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hannun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "a kanku"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "da kuma a ga jikinku"
+    }
+  ],
+  "timestamp": "2026-08-12T08:52:01.441595447Z",
+  "model": "glm-5.2"
+}

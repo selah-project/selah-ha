@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Reʼayah ɗan Shoval ya haifa ⟨את⟩ Yachath, kuma Yachath ya haifa ⟨את⟩ Achumai da ⟨את⟩ Lahad. Waɗannan ⟨sune⟩ iyalai na Tsarʼathi.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "Reʼayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shoval"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yachath"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yachath"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "kuma Yachath"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Achumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Waɗannan"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "iyalai"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "na Tsarʼathi"
+    }
+  ],
+  "timestamp": "2026-08-13T00:00:43.080850109Z",
+  "model": "glm-5.2"
+}

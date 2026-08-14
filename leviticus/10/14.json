@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 10:14",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma ⟨את⟩ ƙirjin gunduma da ⟨את⟩ ƙafar gaisuwa, ku ci su a wuri mai tsarki; kai da ɗukãka da 'yankãka ⟨את⟩ ⟨tare⟩, domin an ba ku niči da ničin ɗukãku, daga hadayun salaman 'ya'ban Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "ƙirjin gunduma"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ƙirjin"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "gunduma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙafar gaisuwa"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ƙafar"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "gaisuwa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ku ci"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "a wuri"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mai tsarki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "da ɗukãka"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "da 'yankãka"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨tare⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "ničinku"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "ničin"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ɗukãku"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "an ba"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "daga hadayun"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "salaman"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'ban"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T02:06:45.515301749Z",
+  "model": "glm-5.2"
+}

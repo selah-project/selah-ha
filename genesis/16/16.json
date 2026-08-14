@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma Avram ɗan shekara tamanin da shida ne a lokacin da Hagar ta haifa ⟨את⟩ Yishma'el ga Avram.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Kuma Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "tamanin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "da shida"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "a lokacin da ta haifa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishma'el"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishma'el"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "ga Avram"
+    }
+  ],
+  "timestamp": "2026-08-11T23:36:40.900152979Z",
+  "model": "glm-5.2"
+}

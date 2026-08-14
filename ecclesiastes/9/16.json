@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma ni na ce: hikima ⟨ce⟩ mafi kyau daga ƙarfi, amma hikimar mutumin talauci an wulakanta ⟨ta⟩, kuma kalamansa ba a saurarun su.",
+  "tokens": [
+    {
+      "surface": "וְאָמַרְתִּי",
+      "gloss": "kuma na ce"
+    },
+    {
+      "surface": "אָנִי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "טוֹבָה",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "חָכְמָה",
+      "gloss": "hikima"
+    },
+    {
+      "surface": "מִגְּבוּרָה",
+      "gloss": "daga ƙarfi"
+    },
+    {
+      "surface": "וְחָכְמַת",
+      "gloss": "amma hikimar"
+    },
+    {
+      "surface": "הַמִּסְכֵּן",
+      "gloss": "mutumin talauci"
+    },
+    {
+      "surface": "בְּזוּיָה",
+      "gloss": "an wulakanta"
+    },
+    {
+      "surface": "וּדְבָרָיו",
+      "gloss": "kuma kalamansa"
+    },
+    {
+      "surface": "אֵינָם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נִשְׁמָעִים",
+      "gloss": "a saurarun su"
+    }
+  ],
+  "timestamp": "2026-08-12T22:48:10.939760664Z",
+  "model": "glm-5.2"
+}

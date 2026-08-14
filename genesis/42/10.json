@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Kuma suka ce masa, \"A'a, ubangijina! Kuma bã ƴan bautarka suka zo don sayan abinci.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Kuma suka ce"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "A'a"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ubangijina"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "Kuma bã ƴan bautarka"
+    },
+    {
+      "surface": "באו",
+      "gloss": "suka zo"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "don sayan"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "abinci"
+    }
+  ],
+  "timestamp": "2026-08-12T00:14:28.648103235Z",
+  "model": "glm-5.2"
+}

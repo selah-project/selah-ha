@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma yanzu, zan sanar da ⟨את⟩ ku, inã faɗa, ⟨את⟩ abin da ni nake yi wa gonar ina: cire shinge nata, kuma ⟨za⟩ kasance ⟨don⟩ a diba; ruguje ganuwarta, kuma ⟨za⟩ kasance a ƙafa a mata.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kuma yanzu"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "zan sanar da"
+    },
+    {
+      "surface": "נא",
+      "gloss": "inã faɗa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nake yi"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "wa gonar ina"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "cire"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "shinge nata"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kuma ⟨za⟩ kasance"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "⟨don⟩ a diba"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ruguje"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "ganuwarta"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kuma ⟨za⟩ kasance"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "a ƙafa a mata"
+    }
+  ],
+  "timestamp": "2026-08-12T13:03:30.761183969Z",
+  "model": "glm-5.2"
+}

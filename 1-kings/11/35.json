@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 11:35",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "kuma zan ɗauki mulku daga hannun ɗansa, kuma zan ba shi ⟨ga⟩ kai, ⟨את⟩ gomman ƙabilun.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "kuma zan ɗauki"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "mulku"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗansa"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "kuma zan ba shi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨ga⟩ kai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gomman ƙabilun"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "gomman"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "ƙabilun"
+    }
+  ],
+  "timestamp": "2026-08-13T03:05:00.086686267Z",
+  "model": "glm-5.2"
+}

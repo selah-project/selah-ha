@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma ba su iya ⟨ba⟩ kohanim su shiga cikin beyt Yahweh, domin girman Yahweh ya cika ⟨את⟩ beyt Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "suka iya"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohanim"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "su shiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "beyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ya cika"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "girman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beyt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "beyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-13T02:42:48.749599308Z",
+  "model": "glm-5.2"
+}

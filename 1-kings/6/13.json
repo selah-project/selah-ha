@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma zan zauna tsakanin ƴan Yisra'el, kuma ba zan bar ⟨את⟩ mutãna Yisra'el ba.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "Kuma zan zauna"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba zan"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutãna"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mutãna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T11:05:16.560036395Z",
+  "model": "glm-5.2"
+}

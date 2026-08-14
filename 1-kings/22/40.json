@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 22:40",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma Ahab ya kwanta da ubanninsa, kuma Ahazia ɗan sa ya mulƙi a maddashinsa.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Kuma...ya kwanta"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "עם",
+      "gloss": "da"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ubanninsa"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "kuma...ya mulƙi"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahazia"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗan sa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "a maddashinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T11:49:36.598298376Z",
+  "model": "glm-5.2"
+}

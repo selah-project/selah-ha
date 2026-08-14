@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma tun daga lokacin da na zo wurin Paroh don yi magana da sunanka, ya cutar da wannan mutanen, amma ku ba ka ceto ⟨את⟩ mutanenka ⟨kwata-kwata⟩.\"",
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "Kuma tun daga lokacin"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "da na zo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wurin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "don yi magana"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "da sunanka"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ya cutar da"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "amma ku ba ka ceto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ba⟩"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "ka ceto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanenka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mutanenka"
+    }
+  ],
+  "timestamp": "2026-08-12T00:32:28.908392572Z",
+  "model": "glm-5.2"
+}

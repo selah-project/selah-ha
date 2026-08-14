@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 51:20",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 51,
+  "translation": "Takalmi ne ⟨kai⟩ zuwa gareNi, kayan yaki; kuma da kai zan danya al'ummai, kuma da kai zan lalata mulkai.",
+  "tokens": [
+    {
+      "surface": "מַפֵּץ",
+      "gloss": "takalmi"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "לִ֔י",
+      "gloss": "zuwa gareNi"
+    },
+    {
+      "surface": "כְּלֵ֖י",
+      "gloss": "kayan"
+    },
+    {
+      "surface": "מִלְחָמָ֑ה",
+      "gloss": "yaki"
+    },
+    {
+      "surface": "וְנִפַּצְתִּ֤י",
+      "gloss": "kuma zan danya"
+    },
+    {
+      "surface": "בְךָ֙",
+      "gloss": "da kai"
+    },
+    {
+      "surface": "גּוֹיִ֔ם",
+      "gloss": "al'ummai"
+    },
+    {
+      "surface": "וְהִשְׁחַתִּ֥י",
+      "gloss": "kuma zan lalata"
+    },
+    {
+      "surface": "בְךָ֖",
+      "gloss": "da kai"
+    },
+    {
+      "surface": "מַמְלָכֽוֹת",
+      "gloss": "mulkai"
+    }
+  ],
+  "timestamp": "2026-08-12T16:41:30.777280013Z",
+  "model": "glm-5.2"
+}

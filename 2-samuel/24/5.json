@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma suka tsallaka ⟨את⟩ Yarden, kuma suka sansanta a Aroer, dama ⟨ta⟩ birnin ⟨wanda⟩ yake cikin kwarin Gad, da kuma zuwa Yazer,",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "suka tsallaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "kuma suka sansanta"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "a Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "dama"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨wanda⟩"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "kwarin"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "da kuma zuwa"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer"
+    }
+  ],
+  "timestamp": "2026-08-12T10:46:24.818316095Z",
+  "model": "glm-5.2"
+}

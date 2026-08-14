@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 40:1",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ⟨ya faru⟩ a baya ⟨na⟩ abubuwan nan, mashayar ⟨na⟩ sarkin Mitsrayim da ma'aikin gasa sun yi laifi wa ubangijinsu, wa sarkin Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ⟨ya faru⟩"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "a baya"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "⟨na⟩ abubuwan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "sun yi laifi"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "mashayar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨na⟩ sarkin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והאפה",
+      "gloss": "da ma'aikin gasa"
+    },
+    {
+      "surface": "לאדניהם",
+      "gloss": "wa ubangijinsu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "wa sarkin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:11:39.175555573Z",
+  "model": "glm-5.2"
+}

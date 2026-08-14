@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Yahweh sai ya aiko da Yerubba'al, da Bedan, da Yifta, da Shemu'el, ya kuwa tsare ku daga hannun maƙiyanku daga ko'ina, kuka zauna lafiya.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sai ya aiko da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerubba'al"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubba'al"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yifta"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yifta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shemu'el"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "ya kuwa tsare"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ku"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "maƙiyanku"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "daga ko'ina"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "kuka zauna"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "lafiya"
+    }
+  ],
+  "timestamp": "2026-08-12T08:57:19.850970571Z",
+  "model": "glm-5.2"
+}

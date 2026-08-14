@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Bari su kasance cikin firgita saboda kunyarsu, waɗanda suke cewa mini, Aha! Aha!",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "Bari su kasance cikin firgita"
+    },
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "sakamakon"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "kunyarsu"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "waɗanda suke cewa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mini"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha!"
+    }
+  ],
+  "timestamp": "2026-08-12T19:41:33.953437725Z",
+  "model": "glm-5.2"
+}

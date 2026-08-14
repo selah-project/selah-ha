@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 4:16",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Domi kamar shanu mara jin biyayya Yisra'el ya ɓuya, yanzu Yahweh zai kiwo su kamar tunkuna a cikin faɗi.",
+  "tokens": [
+    {
+      "surface": "כִּי֙",
+      "gloss": "domi"
+    },
+    {
+      "surface": "כְּפָרָ֣ה",
+      "gloss": "kamar shanu"
+    },
+    {
+      "surface": "סֹרֵרָ֔ה",
+      "gloss": "mara jin biyayya"
+    },
+    {
+      "surface": "סָרַ֖ר",
+      "gloss": "ya ɓuya"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עַתָּה֙",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "יִרְעֵ֔ם",
+      "gloss": "zai kiwo su"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כְּכֶ֖בֶשׂ",
+      "gloss": "kamar tunkuna"
+    },
+    {
+      "surface": "בַּמֶּרְחָֽב",
+      "gloss": "a cikin faɗi"
+    }
+  ],
+  "timestamp": "2026-08-12T18:12:53.906635995Z",
+  "model": "glm-5.2"
+}

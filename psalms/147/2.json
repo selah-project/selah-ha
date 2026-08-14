@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 147,
+  "translation": "Yahweh ⟨ne⟩ mai gina Yerushalaim, ⟨shi⟩ yana tattara waɗanda aka kora na Yisra'el.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "mai ginawa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "waɗanda aka kora"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "yana tattara"
+    }
+  ],
+  "timestamp": "2026-08-12T20:59:11.686019910Z",
+  "model": "glm-5.2"
+}

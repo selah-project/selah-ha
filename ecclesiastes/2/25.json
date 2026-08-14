@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Domin wa zai iya ci, kuma wa zai iya jin dāɗi, ⟨ban da⟩ ni?",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "מִ֥י",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יֹאכַ֛ל",
+      "gloss": "zai iya ci"
+    },
+    {
+      "surface": "וּמִ֥י",
+      "gloss": "kuma wa"
+    },
+    {
+      "surface": "יָח֖וּשׁ",
+      "gloss": "zai iya jin dāɗi"
+    },
+    {
+      "surface": "ח֥וּץ",
+      "gloss": "⟨ban da⟩"
+    },
+    {
+      "surface": "מִמֶּֽנִּי",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-12T22:39:48.800064666Z",
+  "model": "glm-5.2"
+}

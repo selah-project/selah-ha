@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 19:20",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Ya bar ⟨את⟩ shānō, ya gudu bayan Eliyahu, ya ce: \"Bari in sumbaci ubana da uwata, in bi ka.\" Kuma ya ce masa: \"Ka tafi ka koma, domin menene na yi maka?\"",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Ya bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shānō"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "shānō"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "ya gudu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "Bari in sumbaci"
+    },
+    {
+      "surface": "נא",
+      "gloss": "(boro)"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "ubana"
+    },
+    {
+      "surface": "ולאמי",
+      "gloss": "da uwata"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "in bi"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ka tafi"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ka koma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "menene"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "na yi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    }
+  ],
+  "timestamp": "2026-08-12T11:41:22.253007680Z",
+  "model": "glm-5.2"
+}

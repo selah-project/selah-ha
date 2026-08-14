@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Kuma ƙasuskun ⟨na⟩ kohanim ya ƙone a saman mizbachotinsu, ya kuma tsarkake ⟨את⟩ Yehuda da ⟨את⟩ Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "Kuma ƙasuskun"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "kohanim"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ya ƙone"
+    },
+    {
+      "surface": "על",
+      "gloss": "a saman"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "mizbachotinsu"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "ya kuma tsarkake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-13T02:58:37.372887711Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 2:24",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Tashi ku tafi, ku tsallaka ⟨את⟩ wadiyar Arnon, ga, na baka ⟨את⟩ Sichon sarkin Cheshbon haʿEmori, da ⟨את⟩ kasarsa; fara kama, kaƙƙari yaki da shi.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "tashi"
+    },
+    {
+      "surface": "סעו",
+      "gloss": "ku tafi"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "ku tsallaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wadiyar Arnon"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "wadiyar"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "na baka"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "⟨a hannunka⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sichon sarkin Cheshbon haʿEmori"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "haʿEmori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kasarsa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "kasarsa"
+    },
+    {
+      "surface": "החל",
+      "gloss": "fara"
+    },
+    {
+      "surface": "רש",
+      "gloss": "kama"
+    },
+    {
+      "surface": "והתגר",
+      "gloss": "kaƙƙari"
+    },
+    {
+      "surface": "בו",
+      "gloss": "da shi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "yaki"
+    }
+  ],
+  "timestamp": "2026-08-12T04:54:53.183251371Z",
+  "model": "glm-5.2"
+}

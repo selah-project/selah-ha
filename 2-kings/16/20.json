@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma Achaz ya kwanta da ubanninsa, aka binne shi da ubanninsa a cikin birnin Dawida, kuma Chizkiya ɗansa ya yi sarki a mukaminsa.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Kuma ya kwanta"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "da"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ubanninsa"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "aka binne shi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "da"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ubanninsa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a cikin birnin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "kuma ya yi sarki"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗansa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "a mukaminsa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:30:50.908798038Z",
+  "model": "glm-5.2"
+}

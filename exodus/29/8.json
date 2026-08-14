@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma ⟨את⟩ ƴaƴansa za ka kusanto, kuma za ka sa su riguna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "ƴaƴansa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ƴaƴansa"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "za ka kusanto"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "kuma za ka sa su"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "riguna"
+    }
+  ],
+  "timestamp": "2026-08-12T01:13:31.223021692Z",
+  "model": "glm-5.2"
+}

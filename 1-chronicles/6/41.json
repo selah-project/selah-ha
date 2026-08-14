@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma ⟨את⟩ gonar birnin da ⟨את⟩ ƙauyukanta sun ba Kalev ɗan Yefunne.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Kuma ⟨את⟩",
+      "marks": "gonar birnin"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "gonar"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙauyukanta"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "ƙauyukanta"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "sun ba"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefunne"
+    }
+  ],
+  "timestamp": "2026-08-13T00:02:51.500076583Z",
+  "model": "glm-5.2"
+}

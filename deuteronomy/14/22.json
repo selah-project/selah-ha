@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Tsada ka tsada ⟨את⟩ dukkan amfanin irinka, wanda filin ke fitar, shekara shekara.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Tsada"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "ka tsada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan amfanin irinka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "amfanin"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "irinka"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "⟨abin da⟩ filin ke fitar"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "filin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    }
+  ],
+  "timestamp": "2026-08-12T05:20:23.221624202Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma kuma ga Lęwiyawa, babu ⟨buƙatar⟩ ɗaukar ⟨את⟩ mazaunin da ⟨את⟩ dukkan kayan sa, don aikin sa.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Kuma kuma"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ga Lęwiyawa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ɗaukar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazaunin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mazaunin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukkan kayan sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kayan sa"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "don aikin sa"
+    }
+  ],
+  "timestamp": "2026-08-13T00:26:40.825476656Z",
+  "model": "glm-5.2"
+}

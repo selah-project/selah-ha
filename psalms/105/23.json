@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Kuma Yisra'el ya shiga Mitsrayim, kuma Ya'aƙoub ya yi ƙwaraƙwara a ƙasar Cham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Kuma ya shiga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "kuma Ya'aƙoub"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ya yi ƙwaraƙwara"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    }
+  ],
+  "timestamp": "2026-08-12T20:29:09.799351078Z",
+  "model": "glm-5.2"
+}

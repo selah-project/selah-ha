@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Ya'yan Yefet ⟨sune⟩ Gomer, da Magog, da Madai, da Yawan, da Tuwal, da Meshek, da Tiras.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ya'yan"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefet"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "da Magog"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "da Madai"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "da Yawan"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "da Tuwal"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "da Meshek"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "da Tiras"
+    }
+  ],
+  "timestamp": "2026-08-12T23:54:20.747792441Z",
+  "model": "glm-5.2"
+}

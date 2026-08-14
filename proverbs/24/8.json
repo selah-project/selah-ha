@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Wanda yake yiwa shirin yi mugun aiki, ⟨suna⟩ mai girman laifi za a kira shi.",
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "wanda yake yiwa shirin yi"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "mugun aiki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨suna⟩"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "mai"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "girman laifi"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "za a kira shi"
+    }
+  ],
+  "timestamp": "2026-08-12T21:28:20.549157532Z",
+  "model": "glm-5.2"
+}

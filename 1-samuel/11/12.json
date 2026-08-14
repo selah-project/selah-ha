@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma mutanen suka ce wa Shemu'el: Wane ne ⟨ne⟩ ke cewa Sha'ul zai yi mulki a mu? Ku kawo ⟨su⟩ waɗannan mutane mu kashe su.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wane ne"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "ke cewa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "zai yi mulki"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "a mu"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Ku kawo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "waɗannan mutane"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "mu kashe su"
+    }
+  ],
+  "timestamp": "2026-08-12T08:52:57.760456585Z",
+  "model": "glm-5.2"
+}

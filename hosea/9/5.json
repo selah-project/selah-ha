@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Mẽ ne zã kuẽ yi a rana crarawã, da kuma a rana ga biki, ⟨ga⟩ Yahweh?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mẽ ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "zã kuẽ yi"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "crarawã"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "da kuma a rana"
+    },
+    {
+      "surface": "חג",
+      "gloss": "biki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T18:21:18.178295210Z",
+  "model": "glm-5.2"
+}

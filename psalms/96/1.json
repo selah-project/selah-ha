@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 96,
+  "translation": "Ku yi wa Yahweh waƙa ta sabuwa, ku yi wa Yahweh waƙa, duka ⟨ta⟩ ƙasa.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ku yi waƙa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "waƙa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ta sabuwa"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ku yi waƙa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:47.187439808Z",
+  "model": "glm-5.2"
+}

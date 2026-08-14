@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Sai ya juya ⟨את⟩ fuskarsa zuwa bango, ya yi salla ga Yahweh, yana cewa:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Sai ya juya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuskarsa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuskarsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "bango"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ya yi salla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:41:28.317353464Z",
+  "model": "glm-5.2"
+}

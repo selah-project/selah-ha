@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 9:24",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma Yehu ya cika hannunsa da baka, ya buge ⟨את⟩ Yehoram tsakanin wuyayensa, kuma kibiya ta fita daga zuciyarsa, kuma ya yi latti a motarsa.",
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "Kuma Yehu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ya cika"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hannunsa"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "da baka"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ya buge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoram"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "זרעיו",
+      "gloss": "wuyayensa"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "kuma ta fita"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "kibiya"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "daga zuciyarsa"
+    },
+    {
+      "surface": "ויכרע",
+      "gloss": "kuma ya yi latti"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "a motarsa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:08:00.379379818Z",
+  "model": "glm-5.2"
+}

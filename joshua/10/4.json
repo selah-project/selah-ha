@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Ku hau zuwa gare ni, kuma ku taimake ni, mu ji ⟨את⟩ Givon, domin ⟨ta⟩ ta yi sulhu ⟨את⟩ Yehoshua da ⟨את⟩ ban Yisra'el.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "ku hau"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zuwa gare ni"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "kuma ku taimake ni"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "mu ji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "⟨ta⟩ ta yi sulhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ban"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T06:30:10.211361011Z",
+  "model": "glm-5.2"
+}

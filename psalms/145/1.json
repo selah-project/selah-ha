@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 145,
+  "translation": "Gajimawa na Dawudi. Niƙa ɗauke ka, Elohim na, ⟨sarki⟩, kuma niƙa yi wa sunanka alƙawari, har abada, har abada.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Gajimawa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na Dawudi"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "niƙa ɗauke ka"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨sarki⟩"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "kuma niƙa yi wa alƙawari"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunanka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-12T20:58:15.171660813Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 19:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma shi kamar ango ne yana fita daga ɗakinsa; yana murna kamar jarumi don gudan hanyar.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Kuma shi"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "kamar ango"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yana fita"
+    },
+    {
+      "surface": "מחפתו",
+      "gloss": "daga ɗakinsa"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "yana murna"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "kamar jarumi"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "don gudan"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "hanyar"
+    }
+  ],
+  "timestamp": "2026-08-12T19:26:43.766209798Z",
+  "model": "glm-5.2"
+}

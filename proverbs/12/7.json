@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 12:7",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "An rushe masu mugun nufi, kuma ba su nan; kuma gidan mutane masu adalci, zai tsaya.",
+  "tokens": [
+    {
+      "surface": "הפוך",
+      "gloss": "An rushe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "masu mugun nufi"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "kuma ba su nan"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "kuma gidan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "mutane masu adalci"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "zai tsaya"
+    }
+  ],
+  "timestamp": "2026-08-12T21:12:47.306084671Z",
+  "model": "glm-5.2"
+}

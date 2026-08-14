@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Ya juya ⟨את⟩ ruwansu ya zama jini, kuma ya kashe ⟨את⟩ kifensu.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Ya juya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruwansu"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "ruwansu"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "ya zama jini"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kuma ya kashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kifensu"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "kifensu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:32:38.418393852Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Marabuci, ina kiran Yahweh, kuma daga maƙiyana ana ceton ni.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "Marabuci"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ina kiran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kuma daga"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "maƙiyana"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "ana ceton ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:22:54.294773002Z",
+  "model": "glm-5.2"
+}

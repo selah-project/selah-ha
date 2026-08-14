@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma har jinin marar laifi da ya zuba, ya cika ⟨את⟩ Yerushalaim da jinin marar laifi; kuma Yahweh bai yi sha'awar yafewa ba.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Kuma har"
+    },
+    {
+      "surface": "דם",
+      "gloss": "jinin"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "marar laifi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "ya zuba"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ya cika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "דם",
+      "gloss": "da jinin"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "marar laifi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "yi sha'awar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "yafewa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:50:46.664948263Z",
+  "model": "glm-5.2"
+}

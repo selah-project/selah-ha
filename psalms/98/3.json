@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 98,
+  "translation": "Ya tuna da chesed sa, da amincinsa, ga gida⟨n⟩ Yisra'el; dukkan ƙarshen ƙasa sun ga ⟨את⟩ ceton Elohim mu.",
+  "tokens": [
+    {
+      "surface": "זָ֘כַ֤ר",
+      "gloss": "Ya tuna da"
+    },
+    {
+      "surface": "חַסְדּ֨וֹ",
+      "gloss": "chesed sa"
+    },
+    {
+      "surface": "וֶֽאֱֽמוּנָתוֹ֮",
+      "gloss": "da amincinsa"
+    },
+    {
+      "surface": "לְבֵ֪ית",
+      "gloss": "ga gida"
+    },
+    {
+      "surface": "יִשְׂרָ֫אֵ֥ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "רָא֥וּ",
+      "gloss": "sun ga"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "אַפְסֵי",
+      "gloss": "ƙarshen"
+    },
+    {
+      "surface": "אָ֑רֶץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "אֵ֝֗ת",
+      "gloss": "⟨את⟩",
+      "marks": "ceton"
+    },
+    {
+      "surface": "יְשׁוּעַ֥ת",
+      "gloss": "ceton"
+    },
+    {
+      "surface": "אֱלֹהֵֽינוּ",
+      "gloss": "Elohim mu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:27:27.573899446Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 7:28",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma kogin zai yawo da kwadi, kuma su hau su koma cikin gidanka, da cikin ɗakin kwanciyarka, da kan gadonka, da cikin gidan bayinka, da cikin mutanka, da cikin tandirinka, da cikin kwaliyanka.",
+  "tokens": [
+    {
+      "surface": "ושרץ",
+      "gloss": "Kuma zai yawo"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "kogin"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "da kwadi"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "kuma su hau"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "su koma"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "cikin gidanka"
+    },
+    {
+      "surface": "ובחדר",
+      "gloss": "da cikin ɗakin"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "kwanciyarka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da kan"
+    },
+    {
+      "surface": "מטתך",
+      "gloss": "gadonka"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "da cikin gidan"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "bayinka"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "da cikin mutanka"
+    },
+    {
+      "surface": "ובתנוריך",
+      "gloss": "da cikin tandirinka"
+    },
+    {
+      "surface": "ובמשארותיך",
+      "gloss": "da cikin kwaliyanka"
+    }
+  ],
+  "timestamp": "2026-08-12T00:37:38.438512116Z",
+  "model": "glm-5.2"
+}

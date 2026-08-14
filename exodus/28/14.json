@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 28:14",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "da guntai biyu na sarƙa na zinari mai tsafta; da gefe za ka yi ⟨את⟩ ⟨su⟩, aikin yadde, kuma za ka sa ⟨את⟩ guntan sarƙoƙin yadde a kan matsuganan.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "da guntai biyu"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "na sarƙa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "na zinari"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mai tsafta"
+    },
+    {
+      "surface": "מגבלת",
+      "gloss": "da gefe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "za ka yi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨su⟩",
+      "marks": "guntan sarƙa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "yadde"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "kuma za ka sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guntan sarƙoƙin yadde"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "guntan sarƙa"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "na yadde"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "המשבצת",
+      "gloss": "matsuganan"
+    }
+  ],
+  "timestamp": "2026-08-12T01:11:43.491853919Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Ka yi magana da duka ⟨taron⟩ majalisar ɗiyán Yísra'el, kuma ka ce musu: Tsarkaka ku kasance, domin ni ni⟨ne⟩ mai tsarki, Yahweh Elohim ku.",
+  "tokens": [
+    {
+      "surface": "דַּבֵּר",
+      "gloss": "Ka yi magana"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "da"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "עֲדַת",
+      "gloss": "majalisar"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "ɗiyán"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yísra'el"
+    },
+    {
+      "surface": "וְאָמַרְתָּ",
+      "gloss": "kuma ka ce"
+    },
+    {
+      "surface": "אֲלֵהֶם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "קְדֹשִׁים",
+      "gloss": "Tsarkaka"
+    },
+    {
+      "surface": "תִּהְיוּ",
+      "gloss": "ku kasance"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "קָדוֹשׁ",
+      "gloss": "mai tsarki"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶם",
+      "gloss": "Elohim ku"
+    }
+  ],
+  "timestamp": "2026-08-12T02:33:47.914518841Z",
+  "model": "glm-5.2"
+}

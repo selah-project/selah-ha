@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 102,
+  "translation": "Za ka tashi, za ka yi wa Tsiyon rahama, domin lokaci ya yi don nuna mata alheri, domin ajanda ta zo.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "za ka tashi"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "za ka yi wa...rahama"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עת",
+      "gloss": "lokaci ya yi"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "don nuna mata alheri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ta zo"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ajanda"
+    }
+  ],
+  "timestamp": "2026-08-12T20:25:44.538028779Z",
+  "model": "glm-5.2"
+}

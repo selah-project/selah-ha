@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Ya lâlâce ka, Yisra'el, cewa ⟨a cikin ni⟩ ⟨ce⟩ taimakonka.",
+  "tokens": [
+    {
+      "surface": "שִֽׁחֶתְךָ֥",
+      "gloss": "Ya lâlâce ka"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "בִ֥י",
+      "gloss": "a cikin ni"
+    },
+    {
+      "surface": "בְעֶזְרֶֽךָ",
+      "gloss": "taimakonka"
+    }
+  ],
+  "timestamp": "2026-08-12T18:18:15.689855424Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Babu lafiya a jikina saboda fushinka, babu salama a kasanina saboda zunubana.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Babu"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "lafiya"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "a jikina"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "fushinka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salama"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "a kasanina"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "zunubana"
+    }
+  ],
+  "timestamp": "2026-08-12T19:40:58.833629325Z",
+  "model": "glm-5.2"
+}

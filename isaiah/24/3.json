@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "A zuba ⟨za a zuba⟩ ⟨את⟩ ƙasa gaba ɗaya, kuma a yi fashi ⟨za a yi⟩ fashi gaba ɗaya; domin Yahweh ya faɗa ⟨את⟩ wannan kalma.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "A zuba"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "⟨za a zuba⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "kuma a yi fashi"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "⟨za a yi⟩ fashi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan kalma"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kalma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-12T13:38:29.696039654Z",
+  "model": "glm-5.2"
+}

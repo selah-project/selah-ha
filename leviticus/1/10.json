@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma idan daga garken awaki ⟨ne⟩ hadayarsa, daga tumaki ko daga awaki, don ƙorfe — namiji ⟨ne⟩, cikakke, ya kawo ⟨shin⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "garken awaki"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "hadayarsa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "tumaki"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "awaki"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "don ƙorfe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "namiji"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "cikakke"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "ya kawo ⟨shin⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T01:45:05.936485295Z",
+  "model": "glm-5.2"
+}

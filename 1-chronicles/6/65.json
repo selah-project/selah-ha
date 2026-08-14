@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma daga cikin kabilar Gad ⟨ne⟩ ⟨את⟩ Ramoth a Gilead da ⟨את⟩ makiyayanta, da ⟨את⟩ Machanaim da ⟨את⟩ makiyayanta.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kuma daga cikin kabilar"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramoth"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Ramoth"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "a Gilead"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "makiyayanta"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "makiyayanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Machanaim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Machanaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "makiyayanta"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "makiyayanta"
+    }
+  ],
+  "timestamp": "2026-08-13T00:02:05.254043853Z",
+  "model": "glm-5.2"
+}

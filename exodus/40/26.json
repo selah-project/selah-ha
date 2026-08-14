@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ya sanya ⟨את⟩ ⟨nadari⟩ bagaden zinare a cikinihin Taron, a gaban Zane.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Kuma ya sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagaden zinare"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bagaden"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zinare"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "a cikinihin"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Taron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "Zane"
+    }
+  ],
+  "timestamp": "2026-08-12T01:39:20.114285165Z",
+  "model": "glm-5.2"
+}

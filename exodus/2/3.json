@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 2:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma ba ta iya ⟨ko⟩ ɓoye shi sai, kuma ta dauke masa akwati na ciyayi, kuma ta shafa shi da loda da danniyar fosta; kuma ta sa ⟨את⟩ yaron a ciki, kuma ta aje shi a cikin ciyayi a gabar kogin.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kuma ba"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "ta iya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sai"
+    },
+    {
+      "surface": "הצפינו",
+      "gloss": "ɓoye shi"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "kuma ta dauke"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "akwati"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "na ciyayi"
+    },
+    {
+      "surface": "ותחמרה",
+      "gloss": "kuma ta shafa"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "da loda"
+    },
+    {
+      "surface": "ובזפת",
+      "gloss": "da danniyar fosta"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "kuma ta sa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a ciki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaron"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "yaron"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "kuma ta aje shi"
+    },
+    {
+      "surface": "בסוף",
+      "gloss": "a cikin ciyayi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a gabar"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "gabar"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "kogin"
+    }
+  ],
+  "timestamp": "2026-08-12T00:30:27.408514412Z",
+  "model": "glm-5.2"
+}

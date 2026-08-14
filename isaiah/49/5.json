@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 49:5",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Kuma yanzu, Yahweh ya faɗa — wanda Ya tsara ni daga ciki ⟨don⟩ zama bayanSa — don mayar da Ya'aƙubba a gareShi, kuma Isra'ila ba za a tattara ba, ⟨Amma⟩ zan girmama a idanun Yahweh, kuma Elohim na ya zama ƙarfata.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kuma yanzu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יצרי",
+      "gloss": "wanda Ya tsara ni"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "daga ciki"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "don zama bawa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a gareShi"
+    },
+    {
+      "surface": "לשובב",
+      "gloss": "don mayar da"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aƙubba"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a gareShi"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "kuma Isra'ila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "za a tattara"
+    },
+    {
+      "surface": "ואכבד",
+      "gloss": "kuma zan girmama"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "kuma Elohim na"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ya zama"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ƙarfata"
+    }
+  ],
+  "timestamp": "2026-08-12T14:22:13.762083595Z",
+  "model": "glm-5.2"
+}

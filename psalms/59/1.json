@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 59,
+  "translation": "Ga shugaban mawaƙa. \"Kada ka halaka.\" Na Daud. Miktam. A lokacin da Shaul ya aiko, suka yi lura da ⟨את⟩ gida su kashe shi.",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּ֣חַ",
+      "gloss": "Ga shugaban mawaƙa"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תַּשְׁחֵת֮",
+      "gloss": "ka halaka"
+    },
+    {
+      "surface": "לְדָוִ֪ד",
+      "gloss": "Na Daud"
+    },
+    {
+      "surface": "מִ֫כְתָּ֥ם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "בִּשְׁלֹ֥חַ",
+      "gloss": "A lokacin aiko"
+    },
+    {
+      "surface": "שָׁא֑וּל",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וַֽיִּשְׁמְר֥וּ",
+      "gloss": "suka yi lura"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "gida"
+    },
+    {
+      "surface": "הַ֝בַּ֗יִת",
+      "gloss": "gida"
+    },
+    {
+      "surface": "לַהֲמִיתֽוֹ",
+      "gloss": "su kashe shi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:53:35.864010002Z",
+  "model": "glm-5.2"
+}

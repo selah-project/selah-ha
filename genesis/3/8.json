@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Suka ji ⟨את⟩ muryar Yahweh Elohim tana yawo a cikin gidan yãntsẽ a lokacin iskar rana, kuma Adãm da matarsa suka ɓōyẽ daga gabin Yahweh Elohim cikin tsakanin itaçen gidan yãntsẽ.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "suka ji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muryar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "tana yawo"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "a cikin gidan yãntsẽ"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "a lokacin iskar"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rana"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "suka ɓōyẽ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adãm"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "da matarsa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "cikin tsakanin"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "itaçen"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "gidan yãntsẽ"
+    }
+  ],
+  "timestamp": "2026-08-11T23:20:26.974117156Z",
+  "model": "glm-5.2"
+}

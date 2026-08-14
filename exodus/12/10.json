@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma kada ku bar komai daga gare shi har safe; amma abin da ya rage daga gare shi har safe a cikin wuta za ku ƙone shi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kuma kada"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "ku bar komai"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare shi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "safe"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "amma abin da ya rage"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare shi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "safe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "a cikin wuta"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "za ku ƙone"
+    }
+  ],
+  "timestamp": "2026-08-12T00:42:34.080601821Z",
+  "model": "glm-5.2"
+}

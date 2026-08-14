@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Domi Ya fashe ƙofofen tagulla, kuma gudummunan ƙarfe Ya yanke.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Domi"
+    },
+    {
+      "surface": "שִׁ֭בַּר",
+      "gloss": "Ya fashe"
+    },
+    {
+      "surface": "דַּלְת֣וֹת",
+      "gloss": "ƙofofen"
+    },
+    {
+      "surface": "נְחֹ֑שֶׁת",
+      "gloss": "tagulla"
+    },
+    {
+      "surface": "וּבְרִיחֵ֖י",
+      "gloss": "kuma gudummunan"
+    },
+    {
+      "surface": "בַרְזֶ֣ל",
+      "gloss": "ƙarfe"
+    },
+    {
+      "surface": "גִּדֵּֽעַ",
+      "gloss": "Ya yanke"
+    }
+  ],
+  "timestamp": "2026-08-12T20:33:13.222095373Z",
+  "model": "glm-5.2"
+}

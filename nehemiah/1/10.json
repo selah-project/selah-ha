@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 1:10",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma ⟨sũ⟩ bayin ka ne da mutanen ka, waɗanda ka fansa da ƙarfin ka ⟨na⟩ girma da kuma da hannunka ⟨ta⟩ ƙarfi.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "kuma su"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "bayin ka"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "da mutanen ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "ka fansa"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "da ƙarfin ka"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "girma"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "da kuma hannunka"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "ƙarfi"
+    }
+  ],
+  "timestamp": "2026-08-12T23:33:49.187577298Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Dukan bazawara da maraya, kada ku damu ⟨da⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "bazawara"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "da maraya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "ku damu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:59:13.310801412Z",
+  "model": "glm-5.2"
+}

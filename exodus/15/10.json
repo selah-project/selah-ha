@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Ka hurfa da iskarka, ⟨ta⟩ rufe su ⟨te⟩ teku; sun nutse kamar ƙarafa a cikin ruwayen maƙamashi.",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "Ka hurfa"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "da iskarka"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "rufe su"
+    },
+    {
+      "surface": "ים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "sun nutse"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "kamar ƙarafa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "a cikin ruwayen"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "maƙamashi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:45:41.056083274Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Ya'adin cuta ne — idan ya kasance a cikin mutum — kuma a kawo shi ⟨ne⟩ ga kohen.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "ya'adin cuta"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "cutar tsãraɓa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "idan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "a cikin mutum"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "kuma a kawo shi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    }
+  ],
+  "timestamp": "2026-08-12T02:09:56.102106264Z",
+  "model": "glm-5.2"
+}

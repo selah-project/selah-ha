@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 63,
+  "translation": "rai na ta manne ⟨a⟩ baya gare ka; dama ⟨ta⟩ ka ce ⟨ta⟩ riƙe ni.",
+  "tokens": [
+    {
+      "surface": "דָּבְקָ֣ה",
+      "gloss": "ta manne"
+    },
+    {
+      "surface": "נַפְשִׁ֣י",
+      "gloss": "rai na"
+    },
+    {
+      "surface": "אַחֲרֶ֑יךָ",
+      "gloss": "baya gare ka"
+    },
+    {
+      "surface": "בִּ֝֗י",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תָּמְכָ֥ה",
+      "gloss": "ce ⟨ta⟩ riƙe"
+    },
+    {
+      "surface": "יְמִינֶֽךָ",
+      "gloss": "dama ⟨ta⟩ ka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:55:30.575589024Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma Kena'an ya haifa ⟨את⟩ Tsidon ɗansa na fari da ⟨את⟩ Het.",
+  "tokens": [
+    {
+      "surface": "וּכְנַ֗עַן",
+      "gloss": "Kuma Kena'an"
+    },
+    {
+      "surface": "יָלַ֛ד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidon"
+    },
+    {
+      "surface": "צִידֹ֥ן",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "בְּכֹר֖וֹ",
+      "gloss": "ɗansa na fari"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Het"
+    },
+    {
+      "surface": "חֵֽת",
+      "gloss": "Het"
+    }
+  ],
+  "timestamp": "2026-08-11T23:29:20.448989485Z",
+  "model": "glm-5.2"
+}

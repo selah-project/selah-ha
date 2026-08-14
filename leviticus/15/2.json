@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 15:2",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Ku yi magana da ɗiyai Yisra'el, kuma ku ce musu: Duk mutum idan akwai mai gudā ⟨daga⟩ jikinsa, gudānsa ⟨ne⟩ mara-tsarki shi ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Ku yi magana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "kuma ku ce"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mutum"
+    },
+    {
+      "surface": "איש",
+      "gloss": "duk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "idan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akwai"
+    },
+    {
+      "surface": "זב",
+      "gloss": "mai gudā"
+    },
+    {
+      "surface": "מבשרו",
+      "gloss": "⟨daga⟩ jikinsa"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "gudānsa"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "mara-tsarki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi ⟨ne⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T02:21:08.929802008Z",
+  "model": "glm-5.2"
+}

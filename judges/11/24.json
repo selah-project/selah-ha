@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 11:24",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Ba haka lalle ne, ⟨את⟩ abin da Kemosh, allahinka, ya ba ka gajiya, za ka gaji ⟨את⟩ shi, kuma ⟨את⟩ duk abin da Yahweh, Elohim mu, ya kora daga gabanmu, ⟨את⟩ shi za mu gaji?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ba haka lalle ne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "יורישך",
+      "gloss": "ya ba ka gajiya"
+    },
+    {
+      "surface": "כמוש",
+      "gloss": "Kemosh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "allahinka"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ shi",
+      "marks": "za ka gaji"
+    },
+    {
+      "surface": "תירש",
+      "gloss": "za ka gaji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "duk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "ya kora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim mu"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "daga gabanmu"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ shi",
+      "marks": "za mu gaji"
+    },
+    {
+      "surface": "נירש",
+      "gloss": "za mu gaji"
+    }
+  ],
+  "timestamp": "2026-08-12T07:52:19.110536557Z",
+  "model": "glm-5.2"
+}

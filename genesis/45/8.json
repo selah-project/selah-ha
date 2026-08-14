@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 45:8",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Sai yanzu, ba ku ⟨ne⟩ suka aiko ni ⟨את⟩ hither, amma haƙiƙa Elohim ⟨ne⟩; kuma ya sanya ni uba ga Fir'auna, da ubangiji ga dukan gidansa, da mai mulki a duk ƙasar Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Sai yanzu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "suka aiko"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hither"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amma"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "haƙiƙa Elohim"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "kuma ya sanya ni"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "uba"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ga Fir'auna"
+    },
+    {
+      "surface": "ולאדון",
+      "gloss": "da ubangiji"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ga dukan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gidansa"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "da mai mulki"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:22:24.294874270Z",
+  "model": "glm-5.2"
+}

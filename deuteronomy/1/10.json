@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Yahweh, Elohim naku, Ya sanya ku da yawa; ga kku, kuke yau kamar taurarin sama da yawa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim naku"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "Ya sanya ku da yawa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "ga kku, kuke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "kamar taurarin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "da yawa"
+    }
+  ],
+  "timestamp": "2026-08-12T04:50:02.623015204Z",
+  "model": "glm-5.2"
+}

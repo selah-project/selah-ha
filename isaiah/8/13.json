@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "⟨את⟩ Yahweh Tsabaot, ⟨את⟩ ⟨shi⟩ ne kuke tsarkaka, kuma Shi ne tsoron ku, kuma Shi ne ginshiƙin tsoro ⟨na⟩ ku.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צְבָא֖וֹת",
+      "gloss": "Tsabaot"
+    },
+    {
+      "surface": "אֹת֣וֹ",
+      "gloss": "⟨את⟩ ⟨shi⟩",
+      "marks": "kuke tsarkaka"
+    },
+    {
+      "surface": "תַקְדִּ֑ישׁוּ",
+      "gloss": "kuke tsarkaka"
+    },
+    {
+      "surface": "וְה֥וּא",
+      "gloss": "kuma Shi"
+    },
+    {
+      "surface": "מוֹרַאֲכֶ֖ם",
+      "gloss": "tsoron ku"
+    },
+    {
+      "surface": "וְה֥וּא",
+      "gloss": "kuma Shi"
+    },
+    {
+      "surface": "מַֽעֲרִֽצְכֶֽם",
+      "gloss": "ginshiƙin tsaro ⟨na⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T13:05:31.569715476Z",
+  "model": "glm-5.2"
+}

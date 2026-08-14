@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 99,
+  "translation": "Da ƙarfin Sarkin da yake ƙaunar shari'a, ka kafa daidaito, shari'a da adalci a cikin Yaƙubu ka aikata.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "Da ƙarfin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Sarkin"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "shari'a"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yake ƙaunar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "ka kafa"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "daidaito"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "shari'a"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "da adalci"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "a cikin Yaƙubu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "aikata"
+    }
+  ],
+  "timestamp": "2026-08-12T20:25:28.402952455Z",
+  "model": "glm-5.2"
+}

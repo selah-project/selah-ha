@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 31:21",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Ya gudu shi da duk abin da yake ⟨na⟩ shi, ya tashi ya tsallaka ⟨את⟩ kogin, ya sanya ⟨את⟩ fuskarsa ⟨zuwa⟩ Dutsen Gilʿad.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "ya gudu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yake ⟨na⟩ ⟨shi⟩"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ya tashi"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ya tsallaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kogin"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "kogin"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ya sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuskarsa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuskarsa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "⟨zuwa⟩ Dutsen"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilʿad"
+    }
+  ],
+  "timestamp": "2026-08-11T23:59:36.266901952Z",
+  "model": "glm-5.2"
+}

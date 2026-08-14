@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma daga rabin kabilar ⟨na⟩ Menashsheh, ⟨את⟩ Taanak da ⟨את⟩ makiyayanta, da ⟨את⟩ Gath-Rimmon da ⟨את⟩ makiyayanta — birane biyu.",
+  "tokens": [
+    {
+      "surface": "וּמִֽמַּחֲצִית֙",
+      "gloss": "Kuma daga rabin"
+    },
+    {
+      "surface": "מַטֵּ֣ה",
+      "gloss": "kabilar"
+    },
+    {
+      "surface": "מְנַשֶּׁ֔ה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Taanak"
+    },
+    {
+      "surface": "תַּעְנַךְ֙",
+      "gloss": "Taanak"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "da ⟨את⟩",
+      "marks": "makiyayanta"
+    },
+    {
+      "surface": "מִגְרָשֶׁ֔הָ",
+      "gloss": "makiyayanta"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Gath-Rimmon"
+    },
+    {
+      "surface": "גַּת",
+      "gloss": "Gath"
+    },
+    {
+      "surface": "רִמּ֖וֹן",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "da ⟨את⟩",
+      "marks": "makiyayanta"
+    },
+    {
+      "surface": "מִגְרָשֶׁ֑הָ",
+      "gloss": "makiyayanta"
+    },
+    {
+      "surface": "עָרִ֖ים",
+      "gloss": "birane"
+    },
+    {
+      "surface": "שְׁתָּֽיִם",
+      "gloss": "biyu"
+    }
+  ],
+  "timestamp": "2026-08-12T07:02:19.597951620Z",
+  "model": "glm-5.2"
+}

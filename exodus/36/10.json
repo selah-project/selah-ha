@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Kuma ya haɗa ⟨את⟩ wataye biyar guda ɗaya zuwa ɗaya, kuma wataye biyar ya haɗa su ɗaya zuwa ɗaya.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "kuma ya haɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wataye biyar"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "biyar"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "wataye"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "kuma biyar"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "wataye"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ya haɗa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ɗaya"
+    }
+  ],
+  "timestamp": "2026-08-12T01:34:21.373543048Z",
+  "model": "glm-5.2"
+}

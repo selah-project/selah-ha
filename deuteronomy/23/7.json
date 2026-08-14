@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kada ka neman salamar su da jininsu dukan kwanakin ka, har abadā.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Kada ka"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "neman"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "salamar su"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "da jininsu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "kwanakin ka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abadā"
+    }
+  ],
+  "timestamp": "2026-08-13T01:56:16.223253471Z",
+  "model": "glm-5.2"
+}

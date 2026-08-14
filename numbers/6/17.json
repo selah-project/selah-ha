@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 6:17",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma ⟨את⟩ ram ɗin zai yi shinin hadayar salama ga Yahweh, a kan ƙwaryar gurasar da ba a yi ta da yisti ba, kuma babban limamin zai yi ⟨את⟩ hadayar gurasarsa da ⟨את⟩ hadayar abin sha nasa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Kuma ⟨את⟩",
+      "marks": "ram ɗin"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ram ɗin"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "zai yi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "shinin"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "hadayar salama"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "סל",
+      "gloss": "ƙwaryar"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "gurasar da ba a yi ta da yisti ba"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "kuma zai yi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "babban limamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadayar gurasarsa"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "hadayar gurasarsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "hadayar abin sha nasa"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "hadayar abin sha nasa"
+    }
+  ],
+  "timestamp": "2026-08-12T03:29:09.111718252Z",
+  "model": "glm-5.2"
+}

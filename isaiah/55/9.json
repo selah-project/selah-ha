@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 55,
+  "translation": "Dõmin sun tãku samã daga ƙasa, haka dai hanyõyĩna suka tãka daga hanyõyĩnku, kuma tunãnĩna daga tunãninku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "sun tãku"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samã"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka dai"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "suka tãka"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "hanyõyĩna"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "daga hanyõyĩnku"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "kuma tunãnĩna"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "daga tunãninku"
+    }
+  ],
+  "timestamp": "2026-08-13T02:10:57.991070059Z",
+  "model": "glm-5.2"
+}

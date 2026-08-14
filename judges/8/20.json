@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 8:20",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ya ce wa Yeter, ɗan fari, \"Tashi, ka kashe ⟨את⟩ su.\" Amma yaron bai ciro takobinsa ba, domin ya ji tsoro, domin yana ƙaramin yaro har yanzu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "ליתר",
+      "gloss": "wa Yeter"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "ɗan farinsa"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Tashi"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ka kashe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ su",
+      "marks": "su"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Amma bai"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "ciro"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "yaron"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "takobinsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ya ji tsoro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "yana har yanzu"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ƙaramin yaro"
+    }
+  ],
+  "timestamp": "2026-08-13T01:57:57.332051435Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 16:6",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "A lokacin nan Retsin sarkin Aram ya mayar da ⟨את⟩ Eylat ga Aram, kuma ya kore ⟨את⟩ Yahudawa daga Eylot; Aramiyawa suka zo Eylat suka zauna can har zuwa wannan rana.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "a lokacin"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "nan"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "ya mayar"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eylat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eylat"
+    },
+    {
+      "surface": "לארם",
+      "gloss": "ga Aram"
+    },
+    {
+      "surface": "וינשל",
+      "gloss": "kuma ya kore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahudawa"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yahudawa"
+    },
+    {
+      "surface": "מאילות",
+      "gloss": "daga Eylot"
+    },
+    {
+      "surface": "וארמים",
+      "gloss": "Aramiyawa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "suka zo"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eylat"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "suka zauna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "wannan rana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-12T12:32:12.248383900Z",
+  "model": "glm-5.2"
+}

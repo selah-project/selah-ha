@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "da ⟨את⟩ 'yar jakan daji, da ⟨את⟩ ha-tahmas, da ⟨את⟩ ha-shahap, da ⟨את⟩ ha-netes, bisa ga jinsinsu;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "'yar jakan daji"
+    },
+    {
+      "surface": "בת",
+      "gloss": "'yar"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "jakan daji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ha-tahmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "ha-tahmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ha-shahap"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "ha-shahap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ha-netes"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "ha-netes"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "bisa ga jinsinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T05:16:45.542802314Z",
+  "model": "glm-5.2"
+}

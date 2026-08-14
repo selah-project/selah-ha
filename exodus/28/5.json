@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Kuma ⟨su⟩ su riƙi ⟨אֵת⟩ zinariya da ⟨אֵת⟩ tekhet da ⟨אֵת⟩ argaman da ⟨אֵת⟩ tola'at shani da ⟨אֵת⟩ shesh.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "kuma su"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "su riƙi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨אֵת⟩",
+      "marks": "zinariya"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zinariya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ da ⟨אֵת⟩",
+      "marks": "tekhet"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "tekhet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ da ⟨אֵת⟩",
+      "marks": "argaman"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "argaman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ da ⟨אֵת⟩",
+      "marks": "tola'at shani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tola'at"
+    },
+    {
+      "surface": "השני",
+      "gloss": "shani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ da ⟨אֵת⟩",
+      "marks": "shesh"
+    },
+    {
+      "surface": "השש",
+      "gloss": "shesh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:11:22.055902331Z",
+  "model": "glm-5.2"
+}

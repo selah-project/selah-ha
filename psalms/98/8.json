@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 98,
+  "translation": "Koguna su kaɗa faka, tsaunuka su yi kira da muryar murna.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "Koguna"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "su kaɗa"
+    },
+    {
+      "surface": "כף",
+      "gloss": "faka"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "sau ɗaya"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tsaunuka"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "su rera"
+    }
+  ],
+  "timestamp": "2026-08-12T20:24:44.462863273Z",
+  "model": "glm-5.2"
+}

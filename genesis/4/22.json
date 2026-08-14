@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 4:22",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma Sila ma ⟨ita⟩ ta haifa ⟨את⟩ Tuval-Qayn, mai haɗaƙe wa dukkan mai yin aikin ƙarfa da ƙarfe. Kuma ƙanwar Tuval-Qayn ⟨ce⟩ Na'ama.",
+  "tokens": [
+    {
+      "surface": "וצלה",
+      "gloss": "Kuma Sila"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ita"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ta haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tuval-Qayn"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "Tuval"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayn"
+    },
+    {
+      "surface": "לטש",
+      "gloss": "mai haɗaƙe wa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "mai yin aikin"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ƙarfa"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "da ƙarfe"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "Kuma ƙanwar"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "Tuval"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayn"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "Na'ama"
+    }
+  ],
+  "timestamp": "2026-08-11T23:21:52.861992705Z",
+  "model": "glm-5.2"
+}

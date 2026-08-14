@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 102,
+  "translation": "Dõmin toka kamar burodi na ci, ⟨kuma⟩ abin sha na na gauraya da kuka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "toka"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "kaman burodi"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "na ci"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "abin sha na"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "da kuka"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "na gauraya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:24:44.092334840Z",
+  "model": "glm-5.2"
+}

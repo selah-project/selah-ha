@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma gidan Isra'ila ya kira ⟨את⟩ sunansa Man, kuma ⟨shí⟩ yana kamar irin ƙorar yana fari, kuma ɗanɗanonsa yana kamar wainar da aka yi da zuma.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "kuma ya kira"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunansa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Man"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kuma shí"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "yana kamar irin"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ƙorar"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "yana fari"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "kuma ɗanɗanonsa"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "yana kamar wainar"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "da aka yi da zuma"
+    }
+  ],
+  "timestamp": "2026-08-12T00:52:23.526460153Z",
+  "model": "glm-5.2"
+}

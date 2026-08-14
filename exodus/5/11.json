@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Ku, ku tafi, ku riƙi ku damma daga inda zaku samu, domin ba a raguwa daga aikinku ⟨da⟩ komai.",
+  "tokens": [
+    {
+      "surface": "אַתֶּם",
+      "gloss": "Ku"
+    },
+    {
+      "surface": "לְכוּ",
+      "gloss": "ku tafi"
+    },
+    {
+      "surface": "קְחוּ",
+      "gloss": "ku riƙi"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תֶּבֶן",
+      "gloss": "damma"
+    },
+    {
+      "surface": "מֵאֲשֶׁר",
+      "gloss": "daga inda"
+    },
+    {
+      "surface": "תִּמְצָאוּ",
+      "gloss": "zaku samu"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נִגְרָע",
+      "gloss": "a raguwa"
+    },
+    {
+      "surface": "מֵעֲבֹדַתְכֶם",
+      "gloss": "daga aikinku"
+    },
+    {
+      "surface": "דָּבָר",
+      "gloss": "komai"
+    }
+  ],
+  "timestamp": "2026-08-13T03:02:20.988632262Z",
+  "model": "glm-5.2"
+}

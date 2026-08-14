@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma a Chorev kuka tada fushin ⟨את⟩ Yahweh, sai Yahweh ya fusata da ku don ya halaka ku.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "Kuma a Chorev"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "kuka tada fushin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "sai ya fusata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "da ku"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "don ya halaka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    }
+  ],
+  "timestamp": "2026-08-12T05:07:00.846585238Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "A cikin Yahweh raina za ta yaba da girma; masu tawali'u za su ji, su kuma su yi murna.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "A cikin Yahweh"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "za ta yaba da girma"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "raina"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "za su ji"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "masu tawali'u"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "su kuma su yi murna"
+    }
+  ],
+  "timestamp": "2026-08-12T19:37:12.534935163Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 45:20",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "'Idan ku ba ku yi tausasawa kan kayanku ba, domin nagartaccen abu na dukan ƙasar Mitsrayim nasu kė ne.'",
+  "tokens": [
+    {
+      "surface": "ועינכם",
+      "gloss": "Idan ku ba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "ku yi tausasawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "כליכם",
+      "gloss": "kayanku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nagartaccen abu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "na dukan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nasu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kė ne"
+    }
+  ],
+  "timestamp": "2026-08-12T00:21:41.112811462Z",
+  "model": "glm-5.2"
+}

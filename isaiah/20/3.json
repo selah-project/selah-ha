@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 20:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma Yahweh ya ce, \"Kamar yadda bawa na Yeshayahu ya tafi tsĩrāra da ɓarɓoshiya, shekaru uku, alama da mu'jiza a kan Mitsrayim da a kan Kush,\"",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֣אמֶר",
+      "gloss": "Kuma Yahweh ya ce"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": ""
+    },
+    {
+      "surface": "כַּאֲשֶׁ֥ר",
+      "gloss": "Kamar yadda"
+    },
+    {
+      "surface": "הָלַ֛ךְ",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "עַבְדִּ֥י",
+      "gloss": "bawa na"
+    },
+    {
+      "surface": "יְשַׁעְיָ֖הוּ",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "עָר֣וֹם",
+      "gloss": "tsĩrāra"
+    },
+    {
+      "surface": "וְיָחֵ֑ף",
+      "gloss": "da ɓarɓoshiya"
+    },
+    {
+      "surface": "שָׁלֹ֤שׁ",
+      "gloss": "uku"
+    },
+    {
+      "surface": "שָׁנִים֙",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "א֣וֹת",
+      "gloss": "alama"
+    },
+    {
+      "surface": "וּמוֹפֵ֔ת",
+      "gloss": "da mu'jiza"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "מִצְרַ֖יִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "da a kan"
+    },
+    {
+      "surface": "כּֽוּשׁ",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-08-12T13:29:11.729811325Z",
+  "model": "glm-5.2"
+}

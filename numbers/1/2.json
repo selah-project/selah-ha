@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Ku ɗauka ⟨את⟩ kan ⟨duhu⟩ dukan taron ɗiyan Yisra'el, bisa iyalansu, bisa gidajen ubanninsu, a cikin adadin sunayen, dukan namiji, bisa gumakansu.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Ku ɗauka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan dukan taron ɗiyan Yisra'el"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "taron"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "bisa iyalansu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "bisa gidajen"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ubanninsu"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "a cikin adadin"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sunayen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "namiji"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "bisa gumakansu"
+    }
+  ],
+  "timestamp": "2026-08-12T03:10:39.904520169Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma sarki Dawuda ya ji ⟨את⟩ dukkan waɗannan abubuwan, ⟨kuma⟩ ya ɓata masa rai sosai.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Kuma sarki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ya ji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "abubuwan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "⟨kuma⟩ ya ɓata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "rai sosai"
+    }
+  ],
+  "timestamp": "2026-08-12T10:12:38.099607389Z",
+  "model": "glm-5.2"
+}

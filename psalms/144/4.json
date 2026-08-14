@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 144,
+  "translation": "Mutum yana kama da iska baƙaƙe, kwanakinsa kamar inuwa ⟨ne⟩ da ke wucewa.",
+  "tokens": [
+    {
+      "surface": "אָ֭דָם",
+      "gloss": "Mutum"
+    },
+    {
+      "surface": "לַהֶ֣בֶל",
+      "gloss": "iska baƙaƙe"
+    },
+    {
+      "surface": "דָּמָ֑ה",
+      "gloss": "yana kama da"
+    },
+    {
+      "surface": "יָ֝מָ֗יו",
+      "gloss": "kwanakinsa"
+    },
+    {
+      "surface": "כְּצֵ֣ל",
+      "gloss": "kamar inuwa"
+    },
+    {
+      "surface": "עוֹבֵֽר",
+      "gloss": "da ke wucewa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:56:34.105169721Z",
+  "model": "glm-5.2"
+}

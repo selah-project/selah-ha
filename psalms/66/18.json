@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 66,
+  "translation": "Rashin gaskiya, idan na gani a cikin zuciyata, ba zai saurari Adonai ba.",
+  "tokens": [
+    {
+      "surface": "אָ֭וֶן",
+      "gloss": "rashin gaskiya"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "רָאִ֣יתִי",
+      "gloss": "na gani"
+    },
+    {
+      "surface": "בְלִבִּ֑י",
+      "gloss": "a cikin zuciyata"
+    },
+    {
+      "surface": "לֹ֖א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יִשְׁמַ֣ע",
+      "gloss": "zai saurari"
+    },
+    {
+      "surface": "אֲדֹנָֽי",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-08-12T19:58:01.406001222Z",
+  "model": "glm-5.2"
+}

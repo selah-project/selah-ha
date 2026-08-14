@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma aka fada wa Yoav, \"Ga shi, sarki yana kuka, yana taɓa harma game da Avshalom.\"",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kuma aka fada"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "wa Yoav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "yana kuka"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "yana taɓa harma"
+    },
+    {
+      "surface": "על",
+      "gloss": "game da"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-12T10:35:06.498264683Z",
+  "model": "glm-5.2"
+}

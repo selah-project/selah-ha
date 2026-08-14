@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Domin Kai ne ⟨da⟩ Ya fitar da ni daga ciki, Kai Ya sa ni dogara, a nonowar uwa ta.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "Kai ne"
+    },
+    {
+      "surface": "גֹחִ֣י",
+      "gloss": "⟨da⟩ Ya fitar da ni"
+    },
+    {
+      "surface": "מִבָּ֑טֶן",
+      "gloss": "daga ciki"
+    },
+    {
+      "surface": "מַ֝בְטִיחִ֗י",
+      "gloss": "Kai Ya sa ni dogara"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שְׁדֵ֥י",
+      "gloss": "nonowar"
+    },
+    {
+      "surface": "אִמִּֽי",
+      "gloss": "uwa ta"
+    }
+  ],
+  "timestamp": "2026-08-12T19:26:20.245408040Z",
+  "model": "glm-5.2"
+}

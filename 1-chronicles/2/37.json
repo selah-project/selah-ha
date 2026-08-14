@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "kuma Zabad ya haifa ⟨את⟩ Eflal, kuma Eflal ya haifa ⟨את⟩ Obed.",
+  "tokens": [
+    {
+      "surface": "וְזָבָד֙",
+      "gloss": "kuma Zabad"
+    },
+    {
+      "surface": "הוֹלִ֣יד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Eflal"
+    },
+    {
+      "surface": "אֶפְלָ֔ל",
+      "gloss": "Eflal"
+    },
+    {
+      "surface": "וְאֶפְלָ֖ל",
+      "gloss": "kuma Eflal"
+    },
+    {
+      "surface": "הוֹלִ֥יד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Obed"
+    },
+    {
+      "surface": "עוֹבֵֽד",
+      "gloss": "Obed"
+    }
+  ],
+  "timestamp": "2026-08-12T23:55:53.943660481Z",
+  "model": "glm-5.2"
+}

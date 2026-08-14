@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 103,
+  "translation": "Ku gaisa Yahweh, dukkan sojojinsa, masu bauta masu, ⟨waɗanda⟩ suke aikin nufinsa.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Ku gaisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "sojojinsa"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "masu bauta masu"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "masu aikin"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "nufinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:24:53.252836712Z",
+  "model": "glm-5.2"
+}

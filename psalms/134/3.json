@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 134,
+  "translation": "Yahweh ya gaishe ka daga Tsiyon, Mai yin sama da ƙasa.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "ya gaishe ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "daga Tsiyon"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Mai yin"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "da ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:49:29.149929105Z",
+  "model": "glm-5.2"
+}

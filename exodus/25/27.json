@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Daidai da mahaɗin zobbojin za su kasance, ⟨su kasance⟩ gidajen sanduna don ɗauka ⟨את⟩ teburin.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "Daidai da"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "mahaɗin"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "za su kasance"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "zobbojin"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "⟨su kasance⟩ gidajen"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "sanduna"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "don ɗauka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teburin"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "teburin"
+    }
+  ],
+  "timestamp": "2026-08-13T01:46:36.901283063Z",
+  "model": "glm-5.2"
+}

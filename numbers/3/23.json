@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 3:23",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Iyalan ha-Gershuni za su kafa sansani a baya da-Mishkan, yammacin.",
+  "tokens": [
+    {
+      "surface": "משפחת",
+      "gloss": "iyalan"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "ha-Gershuni"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "a baya"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "da-Mishkan"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "za su kafa sansani"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "yammacin"
+    }
+  ],
+  "timestamp": "2026-08-12T03:14:41.920794008Z",
+  "model": "glm-5.2"
+}

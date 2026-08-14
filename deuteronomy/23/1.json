@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Ba za ⟨ya⟩ riɓe mutum ⟨את⟩ matar ubansa ba, kuma ba zai ɓuɗe gashin ubansa ba.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ייקח",
+      "gloss": "za ⟨ya⟩ riɓe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matar"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "matar"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubansa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "zai ɓuɗe"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "gashin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubansa"
+    }
+  ],
+  "timestamp": "2026-08-12T05:34:33.038797259Z",
+  "model": "glm-5.2"
+}

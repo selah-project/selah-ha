@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "kuma don ruhu na shari'a, ga wanda yake zaune a kan shari'a, kuma don ƙarfi ⟨ga⟩ masu mayar da yaki ⟨zuwa⟩ ƙofar.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "kuma don ruhu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "na shari'a"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "ga wanda yake zaune"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "shari'a"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "kuma don ƙarfi"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "masu mayar da"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "yaki"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "ƙofar"
+    }
+  ],
+  "timestamp": "2026-08-12T13:39:50.118801517Z",
+  "model": "glm-5.2"
+}

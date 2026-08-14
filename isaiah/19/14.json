@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Yahweh ya haɗa a cikin ⟨ta⟩ ruhu ta ɓatar; kuma sun ɓatar da ⟨את⟩ Mitsrayim a kowane aikin ⟨ta⟩, kamar yadda mashaye ke tururuwa a cikin emetic ⟨nasa⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ya haɗa"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "a cikin ⟨ta⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "ta ɓatar"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "kuma sun ɓatar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a kowane"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "aikin ⟨ta⟩"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "kamar yadda ke tururuwa"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "mashaye"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "a cikin emetic ⟨nasa⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T02:08:03.491215073Z",
+  "model": "glm-5.2"
+}

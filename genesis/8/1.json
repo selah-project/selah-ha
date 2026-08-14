@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Elohim ya tuna ⟨את⟩ Noach da ⟨את⟩ dukkan wata ⟨dabbobin⟩ raye da ⟨את⟩ dukkan wata shanu ⟨da⟩ ⟨suke⟩ ⟨את⟩ shi a cikin jirgi, sa'an nan Elohim ya sa iska ta wuce a kan ƙasa, ruwa kuma ya yi shuru.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "ya tuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "wata dabbobin raye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "wata shanu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "a cikin jirgi"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ya sa ta wuce"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "iska"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "ya yi shuru"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ruwa kuma"
+    }
+  ],
+  "timestamp": "2026-08-11T23:26:19.815085582Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "cewa Yahweh ya bayyana ga Shelomah a karo na biyu, kamar yadda ya bayyana a gare shi a Givʿon.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ya bayyana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "a karo na biyu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ya bayyana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a gare shi"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "a Givʿon"
+    }
+  ],
+  "timestamp": "2026-08-12T11:15:06.572824425Z",
+  "model": "glm-5.2"
+}

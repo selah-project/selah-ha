@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 11:2",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Nachash ɗan Ammon ya ce musu, \"Da wannan ⟨shart⟩ zan yanke alkawari da ku: cizon ku kowanne idon dama, na sa shi zagi a kan dukkan Isra'ila.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nachash"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "ɗan Ammon"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "Da wannan"
+    },
+    {
+      "surface": "אכרת",
+      "gloss": "zan yanke alkawari"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "da ku"
+    },
+    {
+      "surface": "בנקור",
+      "gloss": "cizon"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowanne"
+    },
+    {
+      "surface": "עין",
+      "gloss": "idon"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "dama"
+    },
+    {
+      "surface": "ושמתיה",
+      "gloss": "na sa shi zama"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "zagi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T08:48:58.042088559Z",
+  "model": "glm-5.2"
+}

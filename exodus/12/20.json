@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Duk abin da aka yista, ba za ku ci ba; a duk mazauninku kuna cin burodi marasa yisti.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Duk"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "abin da aka yista"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "za ku ci"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "mazauninku"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kuna cin"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "burodi marasa yisti"
+    }
+  ],
+  "timestamp": "2026-08-13T01:45:53.394913405Z",
+  "model": "glm-5.2"
+}

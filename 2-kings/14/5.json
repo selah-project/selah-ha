@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma ya zama, lokacin da mulki ya ƙarfafa a hannunsa, ya yi wa ⟨את⟩ bayinsa masu kashe ⟨את⟩ sarkin, ubansa, duka.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ya zama"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lokacin da"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "ya ƙarfaka"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mulki"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "a hannunsa"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ya yi wa duka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayinsa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bayinsa"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "masu kashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarkin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubansa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:25:12.401190724Z",
+  "model": "glm-5.2"
+}

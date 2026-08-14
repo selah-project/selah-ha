@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 60,
+  "translation": "Elohim ya faɗa a cikin tsarkinsa: zan yi murna, zan raba Shekem, kuma kwarin Sukkot zan auna.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "a cikin tsarkinsa"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "zan yi murna"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "zan raba"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "kuma kwarin"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "zan auna"
+    }
+  ],
+  "timestamp": "2026-08-12T19:55:13.478487073Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma Shelomah ya ƙaunari ⟨את⟩ Yahweh don tafiya a cikin ƙa'idojin Dawid ubansa; sai a cikin wuraren tsayi kawai ⟨shi⟩ yana yin hadaya, kuma yana turawa ⟨cessal⟩.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "kuma ya ƙaunari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "don tafiya"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "a cikin ƙa'idojin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubansa"
+    },
+    {
+      "surface": "רק",
+      "gloss": "sai kawai"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "a cikin wuraren tsayi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "yana yin hadaya"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "kuma yana turawa cessal"
+    }
+  ],
+  "timestamp": "2026-08-12T10:56:14.529856697Z",
+  "model": "glm-5.2"
+}

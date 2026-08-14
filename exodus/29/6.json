@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma za ka sanya ⟨את⟩ rawanin a kansa, kuma za ka sanya ⟨את⟩ kambin tsarki a kan rawanin.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "kuma za ka sanya"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "rawanin"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "kuma za ka sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambin tsarki"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "kambin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tsarki"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "rawanin"
+    }
+  ],
+  "timestamp": "2026-08-12T01:13:31.222698707Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kai kankuma, ka umurci ⟨את⟩ firistocin da suke ɗaukar akwatin alkawari, ka ce musu, A lokacin da ku zo har zuwa ƙarshen ruwan Yarden, a cikin Yarden ku tsaya.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kai kankuma"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "ka umurci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "firistocin"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "firistocin"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "da suke ɗaukar"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "alkawari"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka ce musu"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "A lokacin da ku zo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ƙarshen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "a cikin Yarden"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "ku tsaya"
+    }
+  ],
+  "timestamp": "2026-08-12T06:12:29.492975214Z",
+  "model": "glm-5.2"
+}

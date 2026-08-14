@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Mutãnenka mãsu sa'a! bayinka mãsu sa'a waɗannan, masu tsayawa a gabanka kullum, masu sauraron ⟨את⟩ hikimarka!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Mãsu sa'a"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "mutãnenka"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mãsu sa'a"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "bayinka"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "masu tsayawa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "a gabanka"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kullum"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "masu sauraron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hikimarka"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "hikimarka"
+    }
+  ],
+  "timestamp": "2026-08-13T03:05:10.298334297Z",
+  "model": "glm-5.2"
+}

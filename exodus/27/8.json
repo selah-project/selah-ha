@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "A cinye shi da alluna za ka yi ⟨את⟩ shi, kamar yadda aka nuna ⟨את⟩ ka a kan dutsen, haka za su yi.",
+  "tokens": [
+    {
+      "surface": "נָבוּב",
+      "gloss": "a cinye shi"
+    },
+    {
+      "surface": "לֻחֹת",
+      "gloss": "da alluna"
+    },
+    {
+      "surface": "תַּעֲשֶׂה",
+      "gloss": "za ka yi"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "הֶרְאָה",
+      "gloss": "aka nuna"
+    },
+    {
+      "surface": "אֹתְךָ",
+      "gloss": "⟨את⟩",
+      "marks": "ka"
+    },
+    {
+      "surface": "בָּהָר",
+      "gloss": "a kan dutsen"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "יַעֲשׂוּ",
+      "gloss": "za su yi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:06:53.717055589Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "da shuɗi, da jajaye, da jajayen tsutsa, da linin kyalli, da gashin awaki",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "da shuɗi"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "da jajaye"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "da tsutsar"
+    },
+    {
+      "surface": "שני",
+      "gloss": "jajayen"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "da linin kyalli"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "da gashin awaki"
+    }
+  ],
+  "timestamp": "2026-08-12T01:09:35.753118972Z",
+  "model": "glm-5.2"
+}

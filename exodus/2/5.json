@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma ʿyar Paroh ta saqa don wankawa a gefen kogin, kuma ƙwankwafanta suna tafiya a hannun kogin, kuma ta ga ⟨את⟩ akwatin cikin ciyawa, kuma ta aiko da ⟨את⟩ bāwarta ⟨ta mata⟩, kuma ta ɗauke shi.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "ta saqa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ʿyar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "don wankawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a gefen"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "kogin"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "ƙwankwafanta"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "suna tafiya"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hannun"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "kogin"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "ta ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "ciyawa"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "ta aiko da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bāwarta"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "bāwarta"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "ta ɗauke shi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:29:26.797924153Z",
+  "model": "glm-5.2"
+}

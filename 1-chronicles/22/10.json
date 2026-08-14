@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 22:10",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Shi ne zai gina gida don sunana, kuma shi zã zama mini ɗa, kuma Ni ina zama masa uba, kuma Na shirya kujerar mulkinsa a kan Yisra'el har abada.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Shi"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "zai gina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "don sunana"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kuma shi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zai zama"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mini"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ɗa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kuma Ni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "uba"
+    },
+    {
+      "surface": "והכינותי",
+      "gloss": "kuma Na shirya"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kujerar"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "mulkinsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abada"
+    }
+  ],
+  "timestamp": "2026-08-13T00:27:02.732728391Z",
+  "model": "glm-5.2"
+}

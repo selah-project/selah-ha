@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kada ka ƙi ɗan'uwanka a zuciyarka; lallashe kai ka yi wa ⟨את⟩ abokinka gargaɗi, kuma kada ka ɗauki laifi a kansa.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תִשְׂנָ֥א",
+      "gloss": "ka ƙi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ɗan'uwanka"
+    },
+    {
+      "surface": "אָחִ֖יךָ",
+      "gloss": "ɗan'uwanka"
+    },
+    {
+      "surface": "בִּלְבָבֶ֑ךָ",
+      "gloss": "a zuciyarka"
+    },
+    {
+      "surface": "הוֹכֵ֤חַ",
+      "gloss": "lallashe kai"
+    },
+    {
+      "surface": "תּוֹכִ֨יחַ֙",
+      "gloss": "ka yi wa gargaɗi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "abokinka"
+    },
+    {
+      "surface": "עֲמִיתֶ֔ךָ",
+      "gloss": "abokinka"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תִשָּׂ֥א",
+      "gloss": "ka ɗauki"
+    },
+    {
+      "surface": "עָלָ֖יו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "חֵֽטְא",
+      "gloss": "laifi"
+    }
+  ],
+  "timestamp": "2026-08-12T02:36:00.542043988Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Yahweh ya ƙarfafa ⟨את⟩ zuciyar Paroh sarkin Mitsrayim, sai ya biya baya ʼyaʼyan Yisra'el; amma ʼyaʼyan Yisra'el suna fita da yãno.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ya ƙarfafa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuciyar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciyar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "sai ya biya baya"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "a baya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ʼyaʼyan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "amma ʼyaʼyan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "suna fita"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "da yãno"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "tsayi"
+    }
+  ],
+  "timestamp": "2026-08-13T01:45:35.184007034Z",
+  "model": "glm-5.2"
+}

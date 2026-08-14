@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Ɗana, idan za ka karɓa maganganuNa, kuma umarniNa za ka ɓoye ⟨את⟩ tare da kai,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ɗana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "za ka karɓa"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "maganganuNa"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "kuma umarniNa"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "za ka ɓoye"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tare da kai"
+    }
+  ],
+  "timestamp": "2026-08-12T21:05:41.231584356Z",
+  "model": "glm-5.2"
+}

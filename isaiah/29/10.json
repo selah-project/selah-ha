@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Domi Yahweh ya zuba a kanku ruhun buda'i, kuma ya rufe ⟨את⟩ idanku; ⟨את⟩ annabawa, da ⟨את⟩ shugabanninku masu gani, ya rufe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domi"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "ya zuba"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "a kanku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhun"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "buda'i"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "kuma ya rufe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idanku"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "idanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "annabawa"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "annabawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "shugabanninku"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "shugabanninku"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "masu gani"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ya rufe"
+    }
+  ],
+  "timestamp": "2026-08-12T13:42:53.213794316Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Ka daina fushi, ka bar taurin kai, kada ka takaƙaice, domin yana kaiwa ne kawai ga cutarwa.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "ka daina"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "fushi"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ka bar"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "taurin kai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "ka takaƙaice"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kawai"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "domin yana kaiwa ga cutarwa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:38:45.294836814Z",
+  "model": "glm-5.2"
+}

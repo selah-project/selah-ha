@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Idanuwata sun gajere ⟨don⟩ tsira-tarka, da ⟨don⟩ maganar adalinka.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Idanuwata"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "sun gajere"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "tsira-tarka"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "da maganar"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "adalinka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:46:12.018519140Z",
+  "model": "glm-5.2"
+}

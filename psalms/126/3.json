@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 126,
+  "translation": "Yahweh ya yi abin mamaki tare da mu, mun kasance masu farin ciki.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "ya yi abin mamaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "tare da mu"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "mun kasance"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "masu farin ciki"
+    }
+  ],
+  "timestamp": "2026-08-12T20:50:38.447253310Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 98,
+  "translation": "A gaban Yahweh, domin ⟨ya⟩ zo ya yi shari'a ⟨ga⟩ ƙasa; ⟨zai⟩ yi wa amfanin duniya shari'a da adalci, kuma ⟨לאת⟩ al'ummai da maida gaskiya.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨ya⟩ zo"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ya yi shari'a ⟨ga⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "⟨zai⟩ yi wa shari'a"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "amfanin duniya",
+      "marks": "amfanin duniya"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "da adalci"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "kuma ⟨לאת⟩ al'ummai",
+      "marks": "al'ummai"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "da maida gaskiya"
+    }
+  ],
+  "timestamp": "2026-08-14T00:21:33.733497590Z",
+  "model": "glm-5.2"
+}

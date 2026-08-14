@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Masoyana da abokana suna tsaye ⟨a⟩ nesa saboda cutata, kuma kusannina suna tsaye da nesa.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "masoyana"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "da abokana"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "⟨a⟩ nesa"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "saboda cutata"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "suna tsaye"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "kuma kusannina"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "da nesa"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "suna tsaye"
+    }
+  ],
+  "timestamp": "2026-08-12T19:40:00.605614454Z",
+  "model": "glm-5.2"
+}

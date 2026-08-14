@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 42:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Ba zai gãji ba, kuma ba zai watse ba, har ya sanya ãda a ƙasa, kuma tsibirai za su jira Tõratsa.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "יִכְהֶה",
+      "gloss": "zai gãji"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יָרוּץ",
+      "gloss": "zai watse"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "har"
+    },
+    {
+      "surface": "יָשִׂים",
+      "gloss": "ya sanya"
+    },
+    {
+      "surface": "בָּאָרֶץ",
+      "gloss": "a ƙasa"
+    },
+    {
+      "surface": "מִשְׁפָּט",
+      "gloss": "ãda"
+    },
+    {
+      "surface": "וּלְתוֹרָתוֹ",
+      "gloss": "kuma Tõratsa"
+    },
+    {
+      "surface": "אִיִּים",
+      "gloss": "tsibirai"
+    },
+    {
+      "surface": "יְיַחֵלוּ",
+      "gloss": "za su jira"
+    }
+  ],
+  "timestamp": "2026-08-12T14:09:00.176347622Z",
+  "model": "glm-5.2"
+}

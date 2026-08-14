@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 109,
+  "translation": "Ta kasance ⟨a kansa⟩ kamar tufa da ya rufe, da kuma kamar beli da yake damƙawa kullum.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "ta kasance"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨a kansa⟩"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "kamar tufa"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "da ya rufe"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "da kuma kamar beli"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kullum"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "da yake damƙawa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:35:52.763480291Z",
+  "model": "glm-5.2"
+}

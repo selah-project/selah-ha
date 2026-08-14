@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Don daga gaba za ka duba ⟨את⟩ ƙasar, amma can ba za ka shiga ba zuwa cikin ƙasar wanda ni na bai wa 'ya'yan Yisra'el.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Don"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "daga gaba"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "za ka duba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "amma can"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "za ka shiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa cikin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "na bai wa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T06:00:08.175517867Z",
+  "model": "glm-5.2"
+}

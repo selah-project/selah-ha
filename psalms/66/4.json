@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 66,
+  "translation": "Dukan ƙasa za su lallashi gare ⟨ka⟩, kuma za su rera maka waƙa, za su rera sunan ⟨ka⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "za su lallashi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gare ⟨ka⟩"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "kuma za su rera waƙa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "za su rera"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunan ⟨ka⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T19:58:35.447153747Z",
+  "model": "glm-5.2"
+}

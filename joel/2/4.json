@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 2:4",
+  "book": "joel",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kamar kamannin dawakai ne kamanninsu, kuma kamar mahayan-doki, haka suke gudan.",
+  "tokens": [
+    {
+      "surface": "כְּמַרְאֵ֥ה",
+      "gloss": "kamar kamannin"
+    },
+    {
+      "surface": "סוּסִ֖ים",
+      "gloss": "dawakai"
+    },
+    {
+      "surface": "מַרְאֵ֑הוּ",
+      "gloss": "kamanninsu"
+    },
+    {
+      "surface": "וּכְפָרָשִׁ֖ים",
+      "gloss": "kuma kamar mahayan-doki"
+    },
+    {
+      "surface": "כֵּ֥ן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "יְרוּצֽוּן",
+      "gloss": "suke gudan"
+    }
+  ],
+  "timestamp": "2026-08-12T18:28:28.913067002Z",
+  "model": "glm-5.2"
+}

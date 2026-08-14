@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Idan ɗan-marƙa ⟨ne⟩ yake kawo, ⟨את⟩ hadayarsa, kuma ya kawo ⟨את⟩ shi a gaban Yahweh.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "ɗan-marƙa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "yake kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadayarsa"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "hadayarsa"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "kuma ya kawo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi",
+      "marks": "shi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:45:44.047407934Z",
+  "model": "glm-5.2"
+}

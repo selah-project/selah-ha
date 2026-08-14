@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kai ne, Yahweh, kada ka nisanta; ƙarfina, gaggafa zuwa taimakona.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kai ne,"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ka nisanta"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "ƙarfina"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "zuwa taimakona"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "gaggafa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:27:12.570258137Z",
+  "model": "glm-5.2"
+}

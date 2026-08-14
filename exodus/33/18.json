@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Kuma ⟨ya⟩ ce: \"Nuna mini, ina roɗonka, ⟨את⟩ girmankinka.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ⟨ya⟩ ce"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "Nuna mini"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ina roɗonka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "girmankinka"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "girmankinka"
+    }
+  ],
+  "timestamp": "2026-08-12T01:28:43.122761702Z",
+  "model": "glm-5.2"
+}

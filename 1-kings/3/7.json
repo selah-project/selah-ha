@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "\"Kuma yanzu, Yahweh Elohim na, Kai ka sanya ⟨את⟩ bawanka ya zama sarki a maimakon Dawida ubana; alhali kuwa ni ḥarami ne, ba na san yadda ake fita da shiga.\"",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kuma yanzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "ka saraƙe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bawanka"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bawanka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a maimakon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubana"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "alhali kuwa ni"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ḥarami"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "ƙarami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "na san"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "fita"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "da shiga"
+    }
+  ],
+  "timestamp": "2026-08-12T10:57:09.739216615Z",
+  "model": "glm-5.2"
+}

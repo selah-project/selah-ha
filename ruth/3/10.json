@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 3:10",
+  "book": "ruth",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ⟨ya⟩ ce, ana alkawari ⟨ne⟩ a gare ⟨ka⟩ ga Yahweh, 'ya ta ƙārata; kyautatawar nafarka ta ƙarshe ta fi ta farko, watau ba ta bi bāya bayan samari, ko matalauci ko arziki.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ⟨ya⟩ ce"
+    },
+    {
+      "surface": "ברוכה",
+      "gloss": "ana alkawari ⟨ne⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "ke",
+      "marks": "a gare ⟨ka⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "'ya ta ƙārata"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "kyautatawa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ta"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "ta ƙarshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ta fi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ta farko"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "watau ba"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "ta bi bāya bayan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "samari"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דל",
+      "gloss": "matalauci"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "arziki"
+    }
+  ],
+  "timestamp": "2026-08-14T00:02:34.045648258Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma Dawuda ya yi sha'awar, ya kuma ce, «Wa zai ba ni sha ⟨na⟩ ruwa daga rijiyar Bet-Lehem, wadda ke a kofar?»",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "ya yi sha'awar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya kuma ce"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "zai ba ni sha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "daga rijiyar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wadda ke"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "a kofar"
+    }
+  ],
+  "timestamp": "2026-08-12T10:44:38.100101752Z",
+  "model": "glm-5.2"
+}

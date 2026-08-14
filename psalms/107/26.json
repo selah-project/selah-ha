@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Suna hawa sama, suna saukawa cikin taskoki, ransu tana narkewa cikin wahala.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "suna hawa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "suna saukawa"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "cikin taskoki"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ransu"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "cikin wahala"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "tana narkewa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:34:04.047160075Z",
+  "model": "glm-5.2"
+}

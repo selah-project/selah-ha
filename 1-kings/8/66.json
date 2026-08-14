@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "1-kings 8:66",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "A rana ta takwas ya aike da ⟨את⟩ jama'a, suka yi wa ⟨את⟩ sarki albarka, suka tafi zuwa tantocinsu, masu murna kuma masu farin ciki, saboda dukan nagari da Yahweh ya yi wa Dawid bawansa, da kuma Yisra'el jama'arsa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "A rana"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ta takwas"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ya aike da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jama'a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "suka yi wa ⟨albarka⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "suka tafi"
+    },
+    {
+      "surface": "לאהליהם",
+      "gloss": "zuwa tantocinsu"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "masu murna"
+    },
+    {
+      "surface": "וטובי",
+      "gloss": "kuma masu farin"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ciki"
+    },
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "nagari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawid"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "bawansa"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "da kuma Yisra'el"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jama'arsa"
+    }
+  ],
+  "timestamp": "2026-08-12T11:08:23.229414168Z",
+  "model": "glm-5.2"
+}

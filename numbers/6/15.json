@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 6:15",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Da kuma kwandon burodi maras yisti; gurasorin gari mai kyau da aka gauraya da man shanu, da farallan burodi maras yisti da aka shafa man shanu, da hadayar garinsu, da hadayar abin sha su.",
+  "tokens": [
+    {
+      "surface": "וסל",
+      "gloss": "Da kuma kwandon"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "burodi maras yisti"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "gari mai kyau"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "gurasorin"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "da aka gauraya"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "da man shanu"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "da farallan"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "burodi maras yisti"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "da aka shafa"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "man shanu"
+    },
+    {
+      "surface": "ומנחתם",
+      "gloss": "da hadayar garinsu"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "da hadayar abin sha su"
+    }
+  ],
+  "timestamp": "2026-08-12T03:35:04.494317495Z",
+  "model": "glm-5.2"
+}

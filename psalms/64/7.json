@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 64,
+  "translation": "Suna binciken mugayen ayyuka; sun cewa, \"Mun cika bincike mai zurfi,\" ⟨kuma⟩ tsakanin kowane mutum da zuciya suna da zurfi.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "Suna binciken"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "mugayen ayyuka"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "Mun cika"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "bincike"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "mai zurfi"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "⟨kuma⟩ tsakanin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowɗe mutum"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "da zuciya"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "suna da zurfi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:56:36.738277499Z",
+  "model": "glm-5.2"
+}

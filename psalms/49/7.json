@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Waɗanda suke dogaro a kan ƙarfinsu, kuma a yawaitãwar dũkiyarsu suke yawan-gõdiya;",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "waɗanda suke dogaro"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ƙarfinsu"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "kuma a yawaitãwar"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "dũkiyarsu"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "suke yawan-gõdiya"
+    }
+  ],
+  "timestamp": "2026-08-12T19:46:21.616986531Z",
+  "model": "glm-5.2"
+}

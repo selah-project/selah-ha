@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma kohen ya umurci, kuma suka cire ⟨את⟩ duwatsun da cutar ke a cikinsu, kuma suka jefa ⟨את⟩ su wajen wajen birni, zuwa wuri mai maras tsarki.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "Kuma ya umurci"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "kuma suka cire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duwatsun"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "duwatsun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "a cikinsu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "cutar"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "kuma suka jefa"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ su"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wajen"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "wajen"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "birni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "wuri"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "mai maras tsarki"
+    }
+  ],
+  "timestamp": "2026-08-12T02:13:59.912000220Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 102,
+  "translation": "Gama an gama kamar hayaƙi, kwana na, kuma ƙashina kamar wuta sun kone.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gama"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "an gama"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "kamar hayaƙi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwana na"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "kuma ƙashina"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "קד",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "sun kone"
+    }
+  ],
+  "timestamp": "2026-08-12T20:26:50.366493006Z",
+  "model": "glm-5.2"
+}

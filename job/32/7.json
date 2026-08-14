@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 32:7",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Na ce: Kwana za su yi magana, kuma yawan shekaru za su koya kaunar hikima.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "na ce"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "za su yi magana"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "yawan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "ידיעו",
+      "gloss": "za su koya"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kaunar hikima"
+    }
+  ],
+  "timestamp": "2026-08-12T22:09:14.146677584Z",
+  "model": "glm-5.2"
+}

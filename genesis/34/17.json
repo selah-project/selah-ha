@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Kuma idan ba ku saurare mu ba don kaciya, to za mu riƙi ⟨את⟩ ɗiyarmu, mu kuma mu tafi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ku saurare"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "don kaciya"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "to za mu riƙi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗiyarmu"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "ɗiyarmu"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "mu kuma mu tafi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:05:12.234479381Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 24:6",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma na fitar da ubanninku daga Mitsrayim, kuma kuka zo teku, kuma mutanen Mitsrayim suka bi ubanninku gaba da motoci da mahaya, ⟨har⟩ teku Ṣuf.",
+  "tokens": [
+    {
+      "surface": "ואוציא",
+      "gloss": "kuma na fitar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubanninku"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ubanninku"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "daga Mitsrayim"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "kuma kuka zo"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "teku"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "kuma suka bi gaba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "mutanen Mitsrayim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "baya"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ubanninku"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "da motoci"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "da mahaya"
+    },
+    {
+      "surface": "ים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Ṣuf"
+    }
+  ],
+  "timestamp": "2026-08-12T07:10:11.991775104Z",
+  "model": "glm-5.2"
+}

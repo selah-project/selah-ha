@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 127,
+  "translation": "Ga shi! ⟨Gado⟩ ta Yahweh ne ⟨sune⟩ ɗiyayya; lada, 'ya'yan ciki.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ga shi!"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "⟨Gado⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ta Yahweh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "⟨sune⟩ ɗiyayya"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "lada"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "ciki"
+    }
+  ],
+  "timestamp": "2026-08-12T20:51:26.085877124Z",
+  "model": "glm-5.2"
+}

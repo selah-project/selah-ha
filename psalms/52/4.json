@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 52,
+  "translation": "Rãnunã tana shirya fanfanãni, kamar wuƙa mai kaifan wari, mai aikata zãgi.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "fanfanãni"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "tana shirya"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "Rãnunã"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "kamar wuƙa"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "mai kaifan wari"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mai aikata"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "zãgi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:51:58.458423557Z",
+  "model": "glm-5.2"
+}

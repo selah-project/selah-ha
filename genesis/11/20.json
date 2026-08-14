@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Reu ya rayu shekaru biyu da talatin, kuma ya haifa ⟨את⟩ Serug.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Kuma ya rayu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "da talatin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "kuma ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    }
+  ],
+  "timestamp": "2026-08-11T23:31:32.023503578Z",
+  "model": "glm-5.2"
+}

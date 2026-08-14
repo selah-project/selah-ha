@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "kuma ya kusatar da ⟨את⟩ kai da ⟨את⟩ dukkan 'yan'uwanka ɗan'awan Lewi tare da kai, kuma kuna neman ⟨ko⟩ babban malami ma?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "kuma ya kusatar da"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kai",
+      "marks": "kai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ɗan'uwanka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ɗan'uwanka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗan'uwan"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tare da kai",
+      "marks": "tare da kai"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "kuma kuna neman"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨ko⟩ ma"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "babban malami"
+    }
+  ],
+  "timestamp": "2026-08-13T01:52:09.781434481Z",
+  "model": "glm-5.2"
+}

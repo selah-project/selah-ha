@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Paroh ya yiwa ⟨את⟩ zuciyarsa nauyi, ma a wannan lokacin, kuma bai tura ⟨את⟩ mutãnen ba.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "ya yiwa nauyi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuciyarsa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zuciyarsa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "a lokacin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "tura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutãnen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    }
+  ],
+  "timestamp": "2026-08-13T01:44:58.125852942Z",
+  "model": "glm-5.2"
+}

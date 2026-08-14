@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 136:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 136,
+  "translation": "Kuma ya kashe sarakuna masu ƙarfi, cewa har har abada chesed ⟨sa⟩.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "Kuma ya kashe"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "sarakuna"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "masu ƙarfi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed ⟨sa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:52:59.510040603Z",
+  "model": "glm-5.2"
+}

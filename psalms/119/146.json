@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 146,
+  "ref": "psalms 119:146",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Na kira ka, ka cece ni, ⟨kuma⟩ shaidokinka ni zan kula.",
+  "tokens": [
+    {
+      "surface": "קראתיך",
+      "gloss": "Na kira ka"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ka cece ni"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "⟨kuma⟩ ni zan kula"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "shaidokinka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:43:21.628193868Z",
+  "model": "glm-5.2"
+}

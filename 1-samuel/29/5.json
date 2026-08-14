@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Shin ba wannan ne Dawid ne, wanda suke amsa masa cikin rawa, ⟨suna cewa⟩, \"Shaul ya ci ⟨da⟩ dubbansa, kuma Dawid ⟨da⟩ gomboBoxansa\"?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Shin ba"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "suke amsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "cikin rawa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "suna cewa"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ya ci"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "da dubbansa"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "kuma Dawid"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "da gomboBoxansa"
+    }
+  ],
+  "timestamp": "2026-08-12T09:45:00.963770135Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 29:19",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma za su ƙara masu tawali'u a cikin Yahweh murna, kuma matalauta cikin mutane a Tsarkakin Yisra'el za su yi murna.",
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "Kuma za su ƙara"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "masu tawali'u"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "a cikin Yahweh"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "murna"
+    },
+    {
+      "surface": "ואביוני",
+      "gloss": "kuma matalauta cikin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "a Tsarkakin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "za su yi murna"
+    }
+  ],
+  "timestamp": "2026-08-12T13:46:35.039160610Z",
+  "model": "glm-5.2"
+}

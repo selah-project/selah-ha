@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 142,
+  "translation": "Na kurã ka, Yahweh, na ce: Kai ne mafakata, gurgabata a ƙasar masu rai.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "na kurã ka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zuwa gare ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "na ce"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ne mafakata"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "gurgabata"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "masu rai"
+    }
+  ],
+  "timestamp": "2026-08-12T20:54:30.530243731Z",
+  "model": "glm-5.2"
+}

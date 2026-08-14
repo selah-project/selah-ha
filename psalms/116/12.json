@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 116,
+  "translation": "Mene zan mayar wa Yahweh, domin duka ⟨abubuwan alherin⟩ da Yake yi a gare ni?",
+  "tokens": [
+    {
+      "surface": "מָֽה",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "אָשִׁ֥יב",
+      "gloss": "zan mayar wa"
+    },
+    {
+      "surface": "לַיהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כָּֽל",
+      "gloss": "domin duka"
+    },
+    {
+      "surface": "תַּגְמוּל֥וֹהִי",
+      "gloss": "⟨abubuwan alherin⟩ da Yake yi"
+    },
+    {
+      "surface": "עָלָֽי",
+      "gloss": "a gare ni"
+    }
+  ],
+  "timestamp": "2026-08-12T20:38:58.949026271Z",
+  "model": "glm-5.2"
+}

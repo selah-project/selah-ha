@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Kuma ta yi ciki, ta haifi ɗa, kuma ya kira ⟨את⟩ sunansa Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "kuma ta yi ciki"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ta haifi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kuma ya kira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunansa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-08-12T00:10:12.827871110Z",
+  "model": "glm-5.2"
+}

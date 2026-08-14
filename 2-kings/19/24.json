@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 19:24",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "«Ni na tono rãma, in sha ruwan baƙo, kuma na bushe dukkan magudanan ruwan Matsor da sãsannan ƙafãfuna.»",
+  "tokens": [
+    {
+      "surface": "אֲנִ֣י",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "קַ֔רְתִּי",
+      "gloss": "na tono rãma"
+    },
+    {
+      "surface": "וְשָׁתִ֖יתִי",
+      "gloss": "kuma in sha"
+    },
+    {
+      "surface": "מַ֣יִם",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "זָרִ֑ים",
+      "gloss": "baƙo"
+    },
+    {
+      "surface": "וְאַחֲרִ֛יב",
+      "gloss": "kuma na bushe"
+    },
+    {
+      "surface": "בְּכַ֥ף",
+      "gloss": "da sãsannan"
+    },
+    {
+      "surface": "פְּעָמַ֖י",
+      "gloss": "ƙafãfuna"
+    },
+    {
+      "surface": "כֹּ֥ל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "יְאֹרֵ֥י",
+      "gloss": "magudanan ruwan"
+    },
+    {
+      "surface": "מָצֹֽור",
+      "gloss": "Matsor"
+    }
+  ],
+  "timestamp": "2026-08-12T12:40:09.242962560Z",
+  "model": "glm-5.2"
+}

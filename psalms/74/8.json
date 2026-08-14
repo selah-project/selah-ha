@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 74,
+  "translation": "Suka ce a cikin zukatansu, \"Mu tona musu gaba ɗaya!\" Suka ƙone duk wuraren taron El a cikin ƙasa.",
+  "tokens": [
+    {
+      "surface": "אָמְר֣וּ",
+      "gloss": "Suka ce"
+    },
+    {
+      "surface": "בְ֭לִבָּם",
+      "gloss": "a cikin zukatansu"
+    },
+    {
+      "surface": "נִינָ֣ם",
+      "gloss": "Mu tona musu"
+    },
+    {
+      "surface": "יָ֑חַד",
+      "gloss": "gaba ɗaya"
+    },
+    {
+      "surface": "שָׂרְפ֖וּ",
+      "gloss": "Suka ƙone"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "מוֹעֲדֵי",
+      "gloss": "wuraren taron"
+    },
+    {
+      "surface": "אֵ֣ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בָּאָֽרֶץ",
+      "gloss": "a cikin ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:05:29.304354633Z",
+  "model": "glm-5.2"
+}

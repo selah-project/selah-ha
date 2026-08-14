@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 5:10",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Haka muka nemi sunayensu don mu sanar da kai, ⟨domin⟩ mu rubuta sunayen waɗannan maza waɗanda ⟨suke⟩ shugabanninsu.",
+  "tokens": [
+    {
+      "surface": "וְאַ֣ף",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "שְׁמָהָתְהֹ֛ם",
+      "gloss": "sunayensu"
+    },
+    {
+      "surface": "שְׁאֵ֥לְנָא",
+      "gloss": "muka nemi"
+    },
+    {
+      "surface": "לְּהֹ֖ם",
+      "gloss": "daga"
+    },
+    {
+      "surface": "לְהוֹדָעוּתָ֑ךְ",
+      "gloss": "don mu sanar da kai"
+    },
+    {
+      "surface": "דִּ֛י",
+      "gloss": "⟨domin⟩"
+    },
+    {
+      "surface": "נִכְתֻּ֥ב",
+      "gloss": "mu rubuta"
+    },
+    {
+      "surface": "שֻׁם",
+      "gloss": "sunayen"
+    },
+    {
+      "surface": "גֻּבְרַיָּ֖א",
+      "gloss": "maza"
+    },
+    {
+      "surface": "דִּ֥י",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "בְרָאשֵׁיהֹֽם",
+      "gloss": "⟨suke⟩ shugabanninsu"
+    }
+  ],
+  "timestamp": "2026-08-12T23:27:33.250030845Z",
+  "model": "glm-5.2"
+}

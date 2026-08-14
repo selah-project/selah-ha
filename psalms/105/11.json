@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Da cewa: «⟨Ni⟩ zan bā ka ⟨את⟩ ƙasar Kenaʿan a matsayin igiyar gado⟨nku⟩.»",
+  "tokens": [
+    {
+      "surface": "לֵאמֹ֗ר",
+      "gloss": "da cewa"
+    },
+    {
+      "surface": "לְךָ֗",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אֶתֵּ֥ן",
+      "gloss": "zan bā"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar Kenaʿan"
+    },
+    {
+      "surface": "אֶ֣רֶץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "כְּנַ֑עַן",
+      "gloss": "Kenaʿan"
+    },
+    {
+      "surface": "חֶ֥בֶל",
+      "gloss": "a matsayin igiya"
+    },
+    {
+      "surface": "נַחֲלַתְכֶֽם",
+      "gloss": "gado⟨nku⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:29:12.936363571Z",
+  "model": "glm-5.2"
+}

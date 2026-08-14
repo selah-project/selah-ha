@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 62,
+  "translation": "Shi kaɗai, daga wajensa masu girma sun yi shawarar don su ƙora; sun jin ƙarya da bakinsu suna albarkata, kuma a cikinsu suna la'ana. ⟨Tsaya⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "shi kaɗai"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "daga wajensa masu girma"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "sun yi shawarar"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "don su ƙora"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "sun jin daɗi"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ƙarya"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "da bakinsu"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "suna albarkata"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "kuma a cikinsu"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "suna la'ana"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "⟨Tsaya⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T19:55:42.966755407Z",
+  "model": "glm-5.2"
+}

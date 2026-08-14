@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Ka nuna mini alheri, Yahweh, domin na kasance mai rauni; ka warke ni, Yahweh, domin ƙashina sun firgita.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ka nuna mini alheri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "na kasance mai rauni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "ka warke ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "sun firgita"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ƙashina"
+    }
+  ],
+  "timestamp": "2026-08-12T19:16:14.602418185Z",
+  "model": "glm-5.2"
+}

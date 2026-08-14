@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 97,
+  "translation": "Haske ⟨an⟩ shuka ga mai adalci, da kuma ga masu tsaftar zuciya, farin ciki.",
+  "tokens": [
+    {
+      "surface": "א֭וֹר",
+      "gloss": "Haske"
+    },
+    {
+      "surface": "זָרֻ֣עַ",
+      "gloss": "⟨an⟩ shuka"
+    },
+    {
+      "surface": "לַצַּדִּ֑יק",
+      "gloss": "ga mai adalci"
+    },
+    {
+      "surface": "וּֽלְיִשְׁרֵי",
+      "gloss": "da kuma ga masu tsaftar"
+    },
+    {
+      "surface": "לֵ֥ב",
+      "gloss": "zuciya"
+    },
+    {
+      "surface": "שִׂמְחָֽה",
+      "gloss": "farin ciki"
+    }
+  ],
+  "timestamp": "2026-08-12T20:23:59.404919573Z",
+  "model": "glm-5.2"
+}

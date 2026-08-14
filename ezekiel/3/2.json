@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Sa'an nan na buɗe ⟨את⟩ bakina, kuma ya sa ni ci ⟨את⟩ wannan gungume.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "Sa'an nan na buɗe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakina"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bakina"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "kuma ya sa ni ci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan gungume"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "gungumen"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-12T16:55:42.473705604Z",
+  "model": "glm-5.2"
+}

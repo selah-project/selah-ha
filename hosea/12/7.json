@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 12:7",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma kai, ga Elohiminka ka koma; chesed da shari'a ka riƙe, kuma ka doriya ga Elohiminka, kullum.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kuma kai"
+    },
+    {
+      "surface": "באלהיך",
+      "gloss": "ga Elohiminka"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ka koma"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed da"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "shari'a"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ka riƙe"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "kuma ka doriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminka"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kullum"
+    }
+  ],
+  "timestamp": "2026-08-12T18:19:06.484455317Z",
+  "model": "glm-5.2"
+}

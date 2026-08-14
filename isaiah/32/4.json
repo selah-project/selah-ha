@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Zuciyag masu gaggawa za su fahimta ilimi, kuma harshen masu tumma za yi gaggawa don yin magana da sarari.",
+  "tokens": [
+    {
+      "surface": "וּלְבַ֥ב",
+      "gloss": "Zuciyar"
+    },
+    {
+      "surface": "נִמְהָרִ֖ים",
+      "gloss": "masu gaggawa"
+    },
+    {
+      "surface": "יָבִ֣ין",
+      "gloss": "za su fahimta"
+    },
+    {
+      "surface": "לָדָ֑עַת",
+      "gloss": "ilimi"
+    },
+    {
+      "surface": "וּלְשׁ֣וֹן",
+      "gloss": "kuma harshen"
+    },
+    {
+      "surface": "עִלְּגִ֔ים",
+      "gloss": "masu tumma"
+    },
+    {
+      "surface": "תְּמַהֵ֖ר",
+      "gloss": "za yi gaggawa"
+    },
+    {
+      "surface": "לְדַבֵּ֥ר",
+      "gloss": "don yin magana"
+    },
+    {
+      "surface": "צָחֽוֹת",
+      "gloss": "da sarari"
+    }
+  ],
+  "timestamp": "2026-08-13T02:09:10.036045563Z",
+  "model": "glm-5.2"
+}

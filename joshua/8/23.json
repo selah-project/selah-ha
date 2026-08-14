@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ⟨את⟩ sarkin Ha-Ay suka kāme shi da rai, suka kawo ⟨את⟩ shi kusa da Yehoshua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Kuma ⟨את⟩",
+      "marks": "sarkin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ha-Ay"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "suka kāme shi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "da rai"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "suka kawo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi",
+      "marks": "shī"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kusa da"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    }
+  ],
+  "timestamp": "2026-08-13T01:56:37.317892478Z",
+  "model": "glm-5.2"
+}

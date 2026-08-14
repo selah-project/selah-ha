@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Ku gode wa Yahweh da kinori; da navel ɗin igiyoyi goma ku rera wa ⟨shí⟩.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Ku gode"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "da kinori"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "da navel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "igiyoyi goma"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ku rera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wa ⟨shí⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T19:37:50.304148140Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 30:19",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Hanyar namun za a sama, hanyar macijin a kan dutsen, hanyar jirgin ruwa a tsakiyar teku, da hanyar mutum a cikin budurwa.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "namun za"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "a sama"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "macijin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "צור",
+      "gloss": "dutsen"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "אניה",
+      "gloss": "jirgin ruwa"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "a tsakiyar"
+    },
+    {
+      "surface": "ים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "da hanyar"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "בעלמה",
+      "gloss": "a cikin budurwa"
+    }
+  ],
+  "timestamp": "2026-08-12T21:35:33.959516143Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 114,
+  "translation": "Dũtse, kuna rawa kamar rãƙuma; kãnu, kamar ɗiya na gãnon?”",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "yã dũtse"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "kuna rawa"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "kamar rãƙuma"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "yã kãnu"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "kamar ɗiya"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "na gãnon"
+    }
+  ],
+  "timestamp": "2026-08-12T20:37:25.943749622Z",
+  "model": "glm-5.2"
+}

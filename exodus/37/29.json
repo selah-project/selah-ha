@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma ya yi ⟨את⟩ manen shafawa na tsarki, kuma ⟨את⟩ tururi na ƙanshi, marme; aikin mai yin turare.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manen shafawa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "manen"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "shafawa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsarki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "tururi"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "tururi"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ƙanshi"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "marme"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "mai yin turare"
+    }
+  ],
+  "timestamp": "2026-08-12T01:29:25.521520252Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 149,
+  "translation": "Gwashin ɗaukakar El ⟨yake⟩ a cikin makogwansu, da takobi masu kaifan gefe biyu ⟨a⟩ cikin hannunsu.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "gwashin ɗaukakar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "a cikin makogwansu"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "da takobi"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "masu kaifan gefe biyu"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "a cikin hannunsu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:58:17.297338865Z",
+  "model": "glm-5.2"
+}

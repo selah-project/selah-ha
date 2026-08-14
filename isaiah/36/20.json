@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 36:20",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Wane ne daga cikin dukkan Elohim na ƙasashen nan da suka ceci ⟨את⟩ ƙasarsu daga hannuna, har Yahweh ya cece ⟨את⟩ Yerushalaim daga hannuna?",
+  "tokens": [
+    {
+      "surface": "מִ֗י",
+      "gloss": "Wane ne"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "daga cikin dukan"
+    },
+    {
+      "surface": "אֱלֹהֵ֤י",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "הָֽאֲרָצוֹת֙",
+      "gloss": "ƙasashen"
+    },
+    {
+      "surface": "הָאֵ֔לֶּה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הִצִּ֥ילוּ",
+      "gloss": "suka ceci"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasarsu"
+    },
+    {
+      "surface": "אַרְצָ֖ם",
+      "gloss": "ƙasarsu"
+    },
+    {
+      "surface": "מִיָּדִ֑י",
+      "gloss": "daga hannuna"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "har"
+    },
+    {
+      "surface": "יַצִּ֧יל",
+      "gloss": "ya cece"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "יְרוּשָׁלִַ֖͏ם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "מִיָּדִֽי",
+      "gloss": "daga hannuna"
+    }
+  ],
+  "timestamp": "2026-08-12T13:56:45.522654606Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 56,
+  "translation": "A cikin Elohim zan yabi ⟨ta⟩ kalma; a cikin Yahweh zan yabi ⟨ta⟩ kalma.",
+  "tokens": [
+    {
+      "surface": "בֵּֽ֭אלֹהִים",
+      "gloss": "a cikin Elohim"
+    },
+    {
+      "surface": "אֲהַלֵּ֣ל",
+      "gloss": "zan yabi"
+    },
+    {
+      "surface": "דָּבָ֑ר",
+      "gloss": "kalma"
+    },
+    {
+      "surface": "בַּיהוָ֗ה",
+      "gloss": "a cikin Yahweh"
+    },
+    {
+      "surface": "אֲהַלֵּ֥ל",
+      "gloss": "zan yabi"
+    },
+    {
+      "surface": "דָּבָֽר",
+      "gloss": "kalma"
+    }
+  ],
+  "timestamp": "2026-08-12T19:49:38.877310183Z",
+  "model": "glm-5.2"
+}

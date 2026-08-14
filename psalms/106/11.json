@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Ruwa ya rufe masu tursasawa; ɗaya daga cikinsu ba ya rage.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "ruwa ya rufe"
+    },
+    {
+      "surface": "מים",
+      "gloss": ""
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "masu tursasawa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "daga cikinsu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "ya rage"
+    }
+  ],
+  "timestamp": "2026-08-12T20:31:40.171810484Z",
+  "model": "glm-5.2"
+}

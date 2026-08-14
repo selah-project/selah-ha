@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Sai Rav-Shaƙeh ya koma baya, kuma ya same ⟨את⟩ sarkin Ashur yana yaƙi da Libnah; domin ya ji cewa ya tafi daga Lakish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "sai ya koma baya"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Shaƙeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "kuma ya same"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarkin Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "yana yaƙi"
+    },
+    {
+      "surface": "על",
+      "gloss": "da"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libnah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ya ji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "daga Lakish"
+    }
+  ],
+  "timestamp": "2026-08-12T12:36:38.621184483Z",
+  "model": "glm-5.2"
+}

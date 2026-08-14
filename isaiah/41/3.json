@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Yana bin su, yana wucewa lafiya — hanyar da ƙafafunsa ba za ta zo ba.",
+  "tokens": [
+    {
+      "surface": "יִרְדְּפֵם",
+      "gloss": "yana bin su"
+    },
+    {
+      "surface": "יַעֲבוֹר",
+      "gloss": "yana wucewa"
+    },
+    {
+      "surface": "שָׁלוֹם",
+      "gloss": "lafiya"
+    },
+    {
+      "surface": "אֹרַח",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "בְּרַגְלָיו",
+      "gloss": "ƙafafunsa"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יָבוֹא",
+      "gloss": "za ta zo"
+    }
+  ],
+  "timestamp": "2026-08-13T02:09:47.563871569Z",
+  "model": "glm-5.2"
+}

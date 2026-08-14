@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "⟨Su⟩ sama suna furta girman ⟨ga⟩ El, kuma faɗin sama yana bayyana aikin hannayensa.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "suna furta"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "girman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "kuma aikin"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hannayensa"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "yana bayyana"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "faɗin sama"
+    }
+  ],
+  "timestamp": "2026-08-12T19:26:07.584482113Z",
+  "model": "glm-5.2"
+}

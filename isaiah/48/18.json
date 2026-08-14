@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 48:18",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 48,
+  "translation": "Da ka dā saurā umurna-na, ⟨to⟩ da salamar ta zā ta zama kamar kogi, da adalca ka kamar igiyoyin ruwan teku!",
+  "tokens": [
+    {
+      "surface": "ל֥וּא",
+      "gloss": "Da"
+    },
+    {
+      "surface": "הִקְשַׁ֖בְתָּ",
+      "gloss": "ka dā saurā"
+    },
+    {
+      "surface": "לְמִצְוֺתָ֑י",
+      "gloss": "umurna-na"
+    },
+    {
+      "surface": "וַיְהִ֤י",
+      "gloss": "da ... zā ta zama"
+    },
+    {
+      "surface": "כַנָּהָר֙",
+      "gloss": "kamar kogi"
+    },
+    {
+      "surface": "שְׁלוֹמֶ֔ךָ",
+      "gloss": "salamar ta"
+    },
+    {
+      "surface": "וְצִדְקָתְךָ֖",
+      "gloss": "da adalca ka"
+    },
+    {
+      "surface": "כְּגַלֵּ֥י",
+      "gloss": "kamar igiyoyin"
+    },
+    {
+      "surface": "הַיָּֽם",
+      "gloss": "ruwan teku"
+    }
+  ],
+  "timestamp": "2026-08-12T14:18:37.223593055Z",
+  "model": "glm-5.2"
+}

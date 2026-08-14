@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 40:18",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma Mosheh ya tada ⟨את⟩ ɗakín tabernakel, ya sanya ⟨את⟩ ƙafafunsa, ya dora ⟨את⟩ alluƙansa, ya sanya ⟨את⟩ tsaguna, kuma ya tada ⟨את⟩ ginshiƙansa.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Kuma ya tada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗakín tabernakel"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ɗakín tabernakel"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ya sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙafafunsa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ƙafafunsa"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ya dora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ alluƙansa",
+      "marks": "alluƙansa"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "alluƙansa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ya sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ tsaguna",
+      "marks": "tsaguna"
+    },
+    {
+      "surface": "בריחיו",
+      "gloss": "tsaguna"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "kuma ya tada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ginshiƙansa"
+    },
+    {
+      "surface": "עמודיו",
+      "gloss": "ginshiƙansa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:43:45.362651135Z",
+  "model": "glm-5.2"
+}

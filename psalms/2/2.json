@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Sarakunan ƙasa suka tsaya, kuma masu iko suka taru tare, a kan Yahweh da a kan Mashíacinsa.",
+  "tokens": [
+    {
+      "surface": "יִ֥תְיַצְּב֨וּ",
+      "gloss": "suka tsaya"
+    },
+    {
+      "surface": "מַלְכֵי",
+      "gloss": "sarakukan"
+    },
+    {
+      "surface": "אֶ֗רֶץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "וְרוֹזְנִ֥ים",
+      "gloss": "kuma masu iko"
+    },
+    {
+      "surface": "נֽוֹסְדוּ",
+      "gloss": "suka taru"
+    },
+    {
+      "surface": "יָ֑חַד",
+      "gloss": "tare"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "da a kan"
+    },
+    {
+      "surface": "מְשִׁיחֽוֹ",
+      "gloss": "Mashíacinsa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:22:51.941226027Z",
+  "model": "glm-5.2"
+}

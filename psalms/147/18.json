@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 147,
+  "translation": "Yana aiko da kalmar Sa, yana narke su; Yana hurawa isar Sa — ruwa yana gudā.",
+  "tokens": [
+    {
+      "surface": "יִשְׁלַ֣ח",
+      "gloss": "Yana aiko da"
+    },
+    {
+      "surface": "דְּבָר֣וֹ",
+      "gloss": "kalmar Sa"
+    },
+    {
+      "surface": "וְיַמְסֵ֑ם",
+      "gloss": "yana narke su"
+    },
+    {
+      "surface": "יַשֵּׁ֥ב",
+      "gloss": "Yana hurawa"
+    },
+    {
+      "surface": "ר֝וּח֗וֹ",
+      "gloss": "isar Sa"
+    },
+    {
+      "surface": "יִזְּלוּ",
+      "gloss": "yana gudā"
+    },
+    {
+      "surface": "מָֽיִם",
+      "gloss": "ruwa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:59:20.613732730Z",
+  "model": "glm-5.2"
+}

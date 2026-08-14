@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 5:1",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Ku ji wannan, ku kohanim, kuma ku saurara, ya rantse Yisra'el, kuma ya rantse sarki, ku saurara da kunnuwa, domin ⟨a gare ku ne⟩ shari'a, domin ku kasance kuwa tarko a Mitzpah, da kuma faifai da aka baza a saman Tavor.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ku ji"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ku kohanim"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "kuma ku saurara"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya rantse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "kuma ya rantse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "ku saurara da kunnuwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a gare ku"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "shari'a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "פח",
+      "gloss": "tarko"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ku kasance"
+    },
+    {
+      "surface": "למצפה",
+      "gloss": "a Mitzpah"
+    },
+    {
+      "surface": "ורשת",
+      "gloss": "da kuma faifai"
+    },
+    {
+      "surface": "פרושה",
+      "gloss": "da aka baza"
+    },
+    {
+      "surface": "על",
+      "gloss": "a saman"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tavor"
+    }
+  ],
+  "timestamp": "2026-08-12T18:14:20.942981327Z",
+  "model": "glm-5.2"
+}

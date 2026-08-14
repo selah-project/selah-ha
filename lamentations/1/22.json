@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 1:22",
+  "book": "lamentations",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Bari dukkan ĩyinsu ta zo a gabanka, kuma ka yi musu kamar yadda ka yi mini, a kan dukkan laifuffukana; domin abubuwan gusata sun yawaita, zuciyata kuma tana da ciwo.",
+  "tokens": [
+    {
+      "surface": "תבא",
+      "gloss": "Bari...ta zo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "ĩyinsu"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "a gabanka"
+    },
+    {
+      "surface": "ועולל",
+      "gloss": "kuma ka yi musu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "gare su"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "עוללת",
+      "gloss": "ka yi mini"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "laifuffukana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "sun yawaita"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "abubuwan gusata"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "zuciyata kuma"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "tana da ciwo"
+    }
+  ],
+  "timestamp": "2026-08-12T22:32:17.246907637Z",
+  "model": "glm-5.2"
+}

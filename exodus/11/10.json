@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Mosheh da Aharon sun yi ⟨את⟩ dukkan al'ojin nan gabanin Paroh, amma Yahweh ya ƙarfafa ⟨את⟩ zuciyar Paroh, kuma ba ya tura ⟨את⟩ ƴaƴan Yisra'el daga ƙasarsa.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Kuma Mosheh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "da Aharon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "sun yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗukkan al'ojin nan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ɗukkan"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "al'ojin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gabanin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "amma ya ƙarfafa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuciyar Paroh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciyar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ya tura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴaƴan Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴaƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "daga ƙasarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:37:27.399307917Z",
+  "model": "glm-5.2"
+}

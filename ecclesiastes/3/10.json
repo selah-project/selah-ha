@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Na gani ⟨את⟩ aikin wahala, wanda Elohim ya baiwa ɗiyãn Ãdam, su yi aiki a cikinsa.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Na gani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aikin wahala"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "aikin wahala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya baiwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ɗiyãn"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Ãdam"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "su yi aiki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a cikinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:41:42.636317029Z",
+  "model": "glm-5.2"
+}

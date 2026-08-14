@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 17:8",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma ni zan bayar maka, da kuma zuriyarka daga baya, ⟨את⟩ ƙasar da kake ƙetare a cikinta, ⟨את⟩ duka ƙasar Kenaan, don riƙe na har abada, kuma zan zama musu Elohim.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Kuma ni zan bayar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "da kuma zuriyarka"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "daga baya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "da kake ƙetare a cikinta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "don riƙe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na har abada"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "kuma zan zama"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T23:35:49.967735630Z",
+  "model": "glm-5.2"
+}

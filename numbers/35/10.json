@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Faɗi ga ɗiyai Isra'ila, kuma ka ce musu: Lokacin da kuke tsallaka ⟨את⟩ Yarden zuwa ƙasar Kenaan:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Faɗi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "kuma ka ce"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Lokacin da"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kuke"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "tsallaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "zuwa ƙasar"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-12T04:47:22.935706654Z",
+  "model": "glm-5.2"
+}

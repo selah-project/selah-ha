@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Ya kuma kama ⟨את⟩ ʿAgag sarkin ʿAmaleq mai rai, kuma ⟨את⟩ dukkan mutanen ya keɓe su gabaɗaya zuwa baki na takobi.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "ya kuma kama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ʿAgag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "ʿAgag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ʿAmaleq"
+    },
+    {
+      "surface": "חי",
+      "gloss": "mai rai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "dukkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "ya keɓe su gabaɗaya"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "zuwa baki na"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "takobi"
+    }
+  ],
+  "timestamp": "2026-08-12T08:58:50.581214896Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 11:6",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma ɓangaren uku a ƙofar Sur, kuma ɓangaren uku a ƙofar bayan masu gudu, kuma kuna tsaron ⟨את⟩ wurin gadi na gidan a matsayin shingen tsaro.",
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "Kuma ɓangaren uku"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "a ƙofar"
+    },
+    {
+      "surface": "סור",
+      "gloss": "Sur"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "kuma ɓangaren uku"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "a ƙofar"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "masu gudu"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "kuma kuna tsaron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wurin gadi"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "wurin gadi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "na gidan"
+    },
+    {
+      "surface": "מסח",
+      "gloss": "a matsayin shingen tsaro"
+    }
+  ],
+  "timestamp": "2026-08-12T12:18:14.891733453Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 17:30",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma ya juya daga wajensa gāba wani, kuma ya ce kamar ⟨shī⟩ maganar nan, kuma mutānen suka amsa shi da magana kamar maganar farko.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Kuma ya juya"
+    },
+    {
+      "surface": "מאצלו",
+      "gloss": "daga wajensa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gāba"
+    },
+    {
+      "surface": "מול",
+      "gloss": "gābiyar"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wani"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kamar ⟨shī⟩ maganar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "וישבהו",
+      "gloss": "kuma suka amsa shi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutānen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "da magana"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kamar maganar"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "farko"
+    }
+  ],
+  "timestamp": "2026-08-12T09:12:25.928189529Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 20:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Yanzu na sani cewa Yahweh ya cece Mashíacinsa; zai amsa shi daga sama na tsarkinsa, da ƙarfin ceto na dama gare Shi.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "na sani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "ya cece"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashíacinsa"
+    },
+    {
+      "surface": "יענהו",
+      "gloss": "zai amsa shi"
+    },
+    {
+      "surface": "משמי",
+      "gloss": "daga sama na"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "tsarkinsa"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "da ƙarfin"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "ceto"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "dama gare Shi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:26:51.438752717Z",
+  "model": "glm-5.2"
+}

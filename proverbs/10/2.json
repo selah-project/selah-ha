@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Ganima ta rashin adalci ba ta wadãta, amma adalci yana 'yantarwa daga mutuwa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "ta wadãta"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "Ganima"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ta rashin adalci"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "amma adalci"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "yana 'yantarwa"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "daga mutuwa"
+    }
+  ],
+  "timestamp": "2026-08-12T21:10:40.351963270Z",
+  "model": "glm-5.2"
+}

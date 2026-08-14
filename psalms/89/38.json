@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Kamar wata ⟨za ta⟩ tabbata har abada, kuma ⟨a matsayin⟩ shaida a cikin gajimare ⟨ita ce⟩ amincciya. Selah.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "kamar wata"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "⟨za ta⟩ tabbata"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kuma ⟨a matsayin⟩ shaida"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "a cikin gajimare"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "amincciya"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T20:15:46.723520716Z",
+  "model": "glm-5.2"
+}

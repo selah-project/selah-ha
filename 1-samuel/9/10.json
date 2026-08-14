@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Sa'an nan Sha'ul ya ce wa bāyansa, \"Magana tana da kyau; zo mu tafi.\" Sa'an nan suka tafi zuwa ⟨a cikin⟩ garin da mutumin ⟨na⟩ Elohim yake a can.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sa'an nan ya ce"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "wa bāyansa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tana da kyau"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Magana"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "zo"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "mu tafi"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "Sa'an nan suka tafi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "garin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "na Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T08:45:48.628627178Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Kuma ya ce musu, \"A'a; don amma tsirar ƙasar kuka zo don kallonta.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "A'a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amma"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "tsirar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "kuka zo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "don kallonta"
+    }
+  ],
+  "timestamp": "2026-08-12T00:14:28.648482409Z",
+  "model": "glm-5.2"
+}

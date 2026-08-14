@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "An tsumbura birnin tõho; an rufe kõne gida daga shiga.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "an tsumbura"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tõho"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "an rufe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõne"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "daga shiga"
+    }
+  ],
+  "timestamp": "2026-08-12T13:33:38.013769998Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 88,
+  "translation": "Ɗomin ta cika da cuta ne rai na, kuma rayuwa ta ta kai Sheol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ɗomin"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ta cika"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "da cuta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rai na"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "kuma rayuwa ta"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "ta kai"
+    }
+  ],
+  "timestamp": "2026-08-12T20:18:27.634751008Z",
+  "model": "glm-5.2"
+}

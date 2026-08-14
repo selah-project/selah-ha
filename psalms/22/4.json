@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Amma Kai tsarki ⟨ne⟩, Mai zauna a tsakanin yabon Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Amma Kai"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "tsarki"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "⟨ne⟩, Mai zauna"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "a tsakanin yabon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el."
+    }
+  ],
+  "timestamp": "2026-08-12T19:28:09.874180852Z",
+  "model": "glm-5.2"
+}

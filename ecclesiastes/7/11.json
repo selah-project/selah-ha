@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Hikima tana da kyau ⟨tare⟩ da gado, kuma wata fa'ida ce waɗanda ke kallon rana.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "tana da kyau"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Hikima"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨tare⟩ da"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "gado"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "kuma wata fa'ida ⟨ce⟩"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "waɗanda ke kallon"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rana"
+    }
+  ],
+  "timestamp": "2026-08-12T22:45:58.398797435Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Bari su kasance cikin kunya kuma su ruɗe tare, masu neman rãna don su halaka ta; bari su ja baya kuma su ɓata rai, masu nufin mini cuta.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Bari su kasance cikin kunya"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "kuma su ruɗe"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tare"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "masu neman"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rãna"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "don su halaka ta"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "bari su ja baya"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "baya"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "kuma su ɓata rai"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "masu nufin"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mini cuta"
+    }
+  ],
+  "timestamp": "2026-08-12T19:41:33.953283934Z",
+  "model": "glm-5.2"
+}

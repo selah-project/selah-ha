@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 109,
+  "translation": "Dominatora ni matalauci ne kuma fama, kuma zuciyata ta raunata a cikina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dominatora"
+    },
+    {
+      "surface": "עני",
+      "gloss": "matalauci"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "kuma fama"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "kuma zuciyata"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ta raunata"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "a cikina"
+    }
+  ],
+  "timestamp": "2026-08-12T20:35:06.768763003Z",
+  "model": "glm-5.2"
+}

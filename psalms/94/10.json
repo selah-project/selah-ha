@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 94,
+  "translation": "Shin wanda ke yi wa al'ummai wa'azi, ⟨bã⟩ zai tona gaskiya? Wanda ke koya wa mutum ilimi, ⟨bã⟩ zai sani?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "wanda ke yi wa... wa'azi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "al'ummai"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "⟨bã⟩"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "zai tona gaskiya"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "Wanda ke koya wa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ilimi"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:00.705622695Z",
+  "model": "glm-5.2"
+}

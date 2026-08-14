@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "⟨את⟩ akwatin, da ⟨את⟩ sandunansa, ⟨את⟩ murhin-rukunani, da ⟨את⟩ katanga ta rufewar;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "sandunansa"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "sandunansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murhin-rukunani"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "murhin-rukunani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "katanga"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "katanga"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ta rufewar"
+    }
+  ],
+  "timestamp": "2026-08-12T01:21:42.203937138Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Ku rera wa Yahweh, ku yi ⟨את⟩ Yahweh gõdiya, domin ya tsĩrar da ⟨את⟩ rai-nā mātākā daga hannun masu mugun-ni.",
+  "tokens": [
+    {
+      "surface": "שִׁירוּ",
+      "gloss": "ku rera"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "הַלְלוּ",
+      "gloss": "ku yi gõdiya"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הִצִּיל",
+      "gloss": "ya tsĩrar da"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "rai-nā mātākā"
+    },
+    {
+      "surface": "נֶפֶשׁ",
+      "gloss": "rai-nā"
+    },
+    {
+      "surface": "אֶבְיוֹן",
+      "gloss": "mātākā"
+    },
+    {
+      "surface": "מִיַּד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "מְרֵעִים",
+      "gloss": "masu mugun-ni"
+    }
+  ],
+  "timestamp": "2026-08-12T15:33:17.204666584Z",
+  "model": "glm-5.2"
+}

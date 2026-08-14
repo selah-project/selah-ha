@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Suna damfara ƙafafunsa da ƙwanƙwasa, baƙin ƙarfe ya shiga rãgonsa.",
+  "tokens": [
+    {
+      "surface": "עִנּ֣וּ",
+      "gloss": "Suna damfara"
+    },
+    {
+      "surface": "בַכֶּ֣בֶל",
+      "gloss": "da ƙwanƙwasa"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ƙafafunsa"
+    },
+    {
+      "surface": "בַּ֝רְזֶ֗ל",
+      "gloss": "baƙin ƙarfe"
+    },
+    {
+      "surface": "בָּ֣אָה",
+      "gloss": "ya shiga"
+    },
+    {
+      "surface": "נַפְשֽׁוֹ",
+      "gloss": "rãgonsa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:30:25.425835380Z",
+  "model": "glm-5.2"
+}

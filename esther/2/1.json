@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "A bayan waɗannan abubuwan, a sauƙaƙe fushin sarki Achashverosh, ya tuna ⟨את⟩ Vashti, da ⟨את⟩ abin da ta yi, da ⟨את⟩ abin da aka yanke a kanta.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "A bayan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "abubuwan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "a sauƙaƙe"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "fushin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ya tuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vashti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "abin da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ta yi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "abin da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "aka yanke"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "a kanta"
+    }
+  ],
+  "timestamp": "2026-08-12T22:54:26.359709172Z",
+  "model": "glm-5.2"
+}

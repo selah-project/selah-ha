@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 43:8",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Kuma Yehuda ya ce wa Yisiraʼel ubansa, \"Aika yaron ⟨tare⟩ da ni, mu tashi mu je, mu rayu kuma ba mu mutu ba — mu da kai da ƙanannanmu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisiraʼel"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubansa"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "Aika"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "yaron"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "da ni"
+    },
+    {
+      "surface": "ונקומה",
+      "gloss": "mu tashi"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "mu je"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "mu rayu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "mu mutu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ba — mu"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da kai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "גם",
+      "gloss": "da"
+    },
+    {
+      "surface": "טפנו",
+      "gloss": "ƙanannanmu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:17:07.375902618Z",
+  "model": "glm-5.2"
+}

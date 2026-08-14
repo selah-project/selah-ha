@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma ya yi abin da ⟨ne⟩ mai kyau a idanun Yahweh, amma ba da zuciya cikakkiya ba.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "abin da ⟨ne⟩ mai kyau"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רק",
+      "gloss": "amma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "da zuciya"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "cikakkiya"
+    }
+  ],
+  "timestamp": "2026-08-13T02:52:40.318190110Z",
+  "model": "glm-5.2"
+}

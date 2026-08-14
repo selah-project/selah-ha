@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 2:9",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma bint Paroh ta ce mata, \"Ka kai ⟨את⟩ wannan yaron, ka shayar da shi gare ni, ni zan baka ladar aiki.\" Kuma ⟨ta⟩ mace ta ɗauki ⟨את⟩ yaron, ta shayar da shi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Kuma ta ce"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mata"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bint"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "היליכי",
+      "gloss": "ka kai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan yaron"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "yaron"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "והינקהו",
+      "gloss": "ka shayar da shi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "zan baka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ladar aiki"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "ladar aikinka"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "Kuma ta ɗauki"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "⟨ta⟩ mace"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "yaron"
+    },
+    {
+      "surface": "ותניקהו",
+      "gloss": "ta shayar da shi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:28:37.317425418Z",
+  "model": "glm-5.2"
+}

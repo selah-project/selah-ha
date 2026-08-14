@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 147,
+  "translation": "⟨Shi⟩ yana ƙidaya yawan taurari, ga dukansu sunaye Yake kira.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "yana ƙidaya"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "yawan"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "taurari"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "ga dukansu"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sunaye"
+    },
+    {
+      "surface": "יקררא",
+      "gloss": "Yake kira"
+    }
+  ],
+  "timestamp": "2026-08-12T20:59:11.686295408Z",
+  "model": "glm-5.2"
+}

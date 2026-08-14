@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 113,
+  "translation": "Wa wane ne kamar Yahweh, Elohim mu, Wanda Yake ɗaukaka kansa ⟨don⟩ zama?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Wa wane"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "kamar Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim mu"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "Wanda Yake ɗaukaka kansa"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "zama"
+    }
+  ],
+  "timestamp": "2026-08-12T20:35:20.563214924Z",
+  "model": "glm-5.2"
+}

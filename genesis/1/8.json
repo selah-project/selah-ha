@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma Elohim ya kira fadin Sama. Kuma ⟨akwai⟩ maremare, kuma ⟨akwai⟩ safiya — rana ta biyu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kuma ya kira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "fadi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Sama"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ⟨akwai⟩"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "maremare"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ⟨akwai⟩"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "safiya"
+    },
+    {
+      "surface": "יום",
+      "gloss": "rana"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ta biyu"
+    }
+  ],
+  "timestamp": "2026-08-11T23:17:46.443199039Z",
+  "model": "glm-5.2"
+}

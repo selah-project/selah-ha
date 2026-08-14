@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma ⟨ya faru⟩, a lokacin da mulkin Rehav'am ya tabbata, da shi ma ya ƙarfafa, ya bar ⟨את⟩ torat na Yahweh, kuma duka Isra'ila tare da shi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ⟨ya faru⟩"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "a lokacin da ya tabbata"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "mulkin"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehav'am"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "da shi ma ya ƙarfafa"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "ya bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torat"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "torat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma duka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tare da shi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:45:15.669257443Z",
+  "model": "glm-5.2"
+}

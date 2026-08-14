@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Arpakshad ya rayu shekaru talatin da biyar, ya haifa ⟨את⟩ Shelach.",
+  "tokens": [
+    {
+      "surface": "וְאַרְפַּכְשַׁד",
+      "gloss": "kuma Arpakshad"
+    },
+    {
+      "surface": "חַי",
+      "gloss": "ya rayu"
+    },
+    {
+      "surface": "חָמֵשׁ",
+      "gloss": "biyar"
+    },
+    {
+      "surface": "וּשְׁלֹשִׁים",
+      "gloss": "kuma talatin"
+    },
+    {
+      "surface": "שָׁנָה",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "וַיּוֹלֶד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Shelach"
+    },
+    {
+      "surface": "שָׁלַח",
+      "gloss": "Shelach"
+    }
+  ],
+  "timestamp": "2026-08-11T23:29:52.571369151Z",
+  "model": "glm-5.2"
+}

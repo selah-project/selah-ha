@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma sarki ya mutu, aka kai Shomeron, aka binne ⟨את⟩ sarki a Shomeron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Kuma sarki ya mutu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": ""
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "aka kai"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "aka binne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "a Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-12T11:49:36.597698863Z",
+  "model": "glm-5.2"
+}

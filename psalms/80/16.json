@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 80,
+  "translation": "⟨da⟩ itacen da damarka ta dasa, ⟨da⟩ ɗan da ka ƙarfafa wa kanka.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "⟨da⟩ itacen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "ta dasa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "damarka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "ka ƙarfafa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wa kanka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:52.270903946Z",
+  "model": "glm-5.2"
+}

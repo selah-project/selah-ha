@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Gafarar bakina, ka karɓa, Yahweh, kuma dokocinka ka koya min.",
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "gafarar"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bakina"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "ka karɓa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ina roƙonka⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "kuma dokocinka"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ka koya min"
+    }
+  ],
+  "timestamp": "2026-08-12T20:43:03.474545361Z",
+  "model": "glm-5.2"
+}

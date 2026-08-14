@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 75,
+  "translation": "Dāmin ƙasa tā nārugū, da dukkan mazaunanta, ni ni ne daidaita na ginshiƙan ta. Selah.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "Dāmin tā nārugū"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "mazaunanta"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni ni ne"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "daidaita na"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "ginshiƙan ta"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T20:07:42.803101815Z",
+  "model": "glm-5.2"
+}

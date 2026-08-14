@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Abin ɗauka na Ninewa; littafin hangen Naxum ⟨dan⟩ Elkoshi.",
+  "tokens": [
+    {
+      "surface": "מַשָּׂ֖א",
+      "gloss": "abin ɗauka"
+    },
+    {
+      "surface": "נִֽינְוֵ֑ה",
+      "gloss": "Ninewa"
+    },
+    {
+      "surface": "סֵ֧פֶר",
+      "gloss": "littafin"
+    },
+    {
+      "surface": "חֲז֛וֹן",
+      "gloss": "hangen"
+    },
+    {
+      "surface": "נַח֖וּם",
+      "gloss": "Naxum"
+    },
+    {
+      "surface": "הָאֶלְקֹשִֽׁי",
+      "gloss": "Elkoshi"
+    }
+  ],
+  "timestamp": "2026-08-12T18:48:33.759205079Z",
+  "model": "glm-5.2"
+}

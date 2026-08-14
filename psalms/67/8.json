@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 67,
+  "translation": "Elohim ya yi mu albarka, kuma dukkan ƙarshen ƙasa su ji tsoron ⟨את⟩ Shi.",
+  "tokens": [
+    {
+      "surface": "יְבָרְכֵ֥נוּ",
+      "gloss": "ya yi mu albarka"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וְיִֽירְא֥וּ",
+      "gloss": "kuma su ji tsoron"
+    },
+    {
+      "surface": "אֹ֝ת֗וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "Shi"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "אַפְסֵי",
+      "gloss": "ƙarshen"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:36.813354052Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 78:44",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Kuma Ya juya koginansu zuwa jini, da rafukanansu, har ba za su iya sha ba.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "Kuma Ya juya"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "zuwa jini"
+    },
+    {
+      "surface": "יאריהם",
+      "gloss": "koginanansu"
+    },
+    {
+      "surface": "ונזליהם",
+      "gloss": "da rafukanansu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "har ba"
+    },
+    {
+      "surface": "ישתיון",
+      "gloss": "za su iya sha ba"
+    }
+  ],
+  "timestamp": "2026-08-12T20:09:16.016268530Z",
+  "model": "glm-5.2"
+}

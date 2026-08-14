@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 21:6",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma dattijai na wannan birnin, masu kusa da ⟨wanda aka kashe⟩, za su wanke ⟨את⟩ hannuwansu a kan maraƙiyar da aka yanke wuyanta a cikin kwari.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Kuma duka"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "dattijai"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "masu kusa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "wanda aka kashe"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "za su wanke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannuwansu"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hannuwansu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "maraƙiyar"
+    },
+    {
+      "surface": "הערופה",
+      "gloss": "da aka yanke wuyanta"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "a cikin kwari"
+    }
+  ],
+  "timestamp": "2026-08-12T05:25:37.608631120Z",
+  "model": "glm-5.2"
+}

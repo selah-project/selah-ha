@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma ta ƙara haifa ⟨את⟩ ɗan'uwansa, ⟨את⟩ Hevel. Hevel ya kasance makiyin tumaki, kuma Qayin ya kasance mai noma ƙasa.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "kuma ta ƙara"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗan'uwansa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ɗan'uwansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "makiyin"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "tumaki"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "kuma Qayin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mai noma"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:20:49.061554970Z",
+  "model": "glm-5.2"
+}

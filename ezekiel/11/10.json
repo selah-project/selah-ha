@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Da takobi za ku faɗi; a kan iyakar Yisra'el zan yi maku ⟨את⟩ shari'a; kuma za ku sani cewa Ni Ni ne Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "da takobi"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "za ku faɗi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "iyakar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "zan yi shari'a"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ku"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "kuma za ku sani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-13T03:05:54.493621716Z",
+  "model": "glm-5.2"
+}

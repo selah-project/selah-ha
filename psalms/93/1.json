@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 93,
+  "translation": "Yahweh ya mulki, ⟨ya⟩ sa ɗaukaka, ya sa; Yahweh ya dami ƙarfi, ya θare ⟨da⟩ ita; fa'ari ⟨duniya⟩ ta tabbata, ba za ta girgiza ba.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya mulki"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ɗaukaka"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "ya sa"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "ya sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ƙarfi"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "ya dami"
+    },
+    {
+      "surface": "אף",
+      "gloss": "fa'ari"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ta tabbata"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "duniya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "za ta girgiza"
+    }
+  ],
+  "timestamp": "2026-08-12T20:22:05.842835141Z",
+  "model": "glm-5.2"
+}

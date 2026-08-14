@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma yanzu, ko da gaske ⟨ne⟩, ni ga'el ⟨ne⟩, amma akwai ga'el wanda ya fi kusa da ni.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kuma yanzu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko da"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "gaske ⟨ne⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ga'el"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "amma"
+    },
+    {
+      "surface": "יש",
+      "gloss": "akwai"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ga'el"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "wanda ya fi kusa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "da ni"
+    }
+  ],
+  "timestamp": "2026-08-12T22:28:11.295394703Z",
+  "model": "glm-5.2"
+}

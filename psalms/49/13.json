@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Kuma mutum a cikin daraja ba ya kwana ⟨sai⟩ an kwatanta shi kamar dabbōjin an halaka su.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "kuma mutum"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "a cikin daraja"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ya kwana"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "an kwatanta shi"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "kamar dabbōjin"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "an halaka su"
+    }
+  ],
+  "timestamp": "2026-08-12T19:48:18.095480488Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Kuma fitar da mashi, kuma toshe ⟨ta⟩ hanyar ⟨don⟩ haɗuwa da masu bin saꞌina; faɗa wa raina, 'Ģato inĩ.",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "Kuma fitar da"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "mashi"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "kuma toshe"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "⟨don⟩ haɗuwa da"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "masu bin saꞌina"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "faɗa wa"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "raina"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "Ģato"
+    },
+    {
+      "surface": "אני",
+      "gloss": "inĩ"
+    }
+  ],
+  "timestamp": "2026-08-12T19:37:40.031861603Z",
+  "model": "glm-5.2"
+}

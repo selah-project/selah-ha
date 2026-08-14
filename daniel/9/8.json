@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Yahweh, gare mu ⟨ne⟩ kunyar fuska, ga sarakunanmu, shugabanninmu, da kuma ga ubanninmu, cewa mun yi laifi a gare ka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "gare mu"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "kunyar"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "fuska"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "ga sarakunanmu"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "shugabanninmu"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "da kuma ga ubanninmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cewar"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "mun yi laifi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a gare ka"
+    }
+  ],
+  "timestamp": "2026-08-12T23:16:49.488981031Z",
+  "model": "glm-5.2"
+}

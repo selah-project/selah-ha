@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 61,
+  "translation": "Domin ka kasance mafaka gare ni, hasumiya ta ƙarfi daga gaban mai gaba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ka kasance"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "mafaka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "hasumiya"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ta ƙarfi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mai gaba"
+    }
+  ],
+  "timestamp": "2026-08-12T19:56:36.732668857Z",
+  "model": "glm-5.2"
+}

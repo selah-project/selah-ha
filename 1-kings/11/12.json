@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Sai da kawai a cikin kwanakinka ba zan yi ta ba, saboda Dawuda ubanka; daga hannun ɗanka nì zan tsaga ta.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sai da kawai"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "a cikin kwanakinka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "zan yi ta"
+    },
+    {
+      "surface": "למען",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ubanka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ɗanka"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "nì zan tsaga ta"
+    }
+  ],
+  "timestamp": "2026-08-12T11:17:24.318811172Z",
+  "model": "glm-5.2"
+}

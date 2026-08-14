@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Al'ummar sun gutsutsanta a kan Moshe, suna cewa: \"Me za mu sha?\"",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "sun gutsutsanta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Al'ummar"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "suna cewa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Me"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "za mu sha"
+    }
+  ],
+  "timestamp": "2026-08-13T01:45:41.151904127Z",
+  "model": "glm-5.2"
+}

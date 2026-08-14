@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 19:8",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma idan Yahweh, Elohim naka, ya faɗaɗa ⟨את⟩ iyakarka, kamar yadda Ya rantse wa ubanninka, kuma Ya baka ⟨את⟩ dukkan ƙasar da Ya faɗa ⟨za⟩ Ya bawa ubanninka,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "ya faɗaɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyakarka"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "iyakarka"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "Ya rantse"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "wa ubanninka"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "kuma Ya baka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lalle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan ƙasar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ya faɗa"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "⟨za⟩ Ya bawa"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "ubanninka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:29:13.207232608Z",
+  "model": "glm-5.2"
+}

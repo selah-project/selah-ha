@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 95,
+  "translation": "Ku zo, mu bauta mu koma gusu, mu grieve a gaban Yahweh wanda Ya fi mu.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Ku zo"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "mu bauta mu koma gusu"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "mu grieve"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "mu daka gindi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "wanda Ya fi mu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:23:07.240774767Z",
+  "model": "glm-5.2"
+}

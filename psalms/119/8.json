@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "⟨את⟩ dokokinka zan kiyaye; kada ka bar ni gaba ɗaya.",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dokokinka"
+    },
+    {
+      "surface": "חֻקֶּ֥יךָ",
+      "gloss": "dokokinka"
+    },
+    {
+      "surface": "אֶשְׁמֹ֑ר",
+      "gloss": "zan kiyaye"
+    },
+    {
+      "surface": "אַֽל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תַּעַזְבֵ֥נִי",
+      "gloss": "ka bar ni"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "har"
+    },
+    {
+      "surface": "מְאֹֽד",
+      "gloss": "gaba ɗaya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:40:40.727405117Z",
+  "model": "glm-5.2"
+}

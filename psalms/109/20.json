@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 109,
+  "translation": "Wannan ita ce aikin masu zagi ⟨את⟩ daga ⟨tare da⟩ Yahweh, da masu magana ⟨da⟩ mugunta ⟨a⟩ kan rai-na.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "masu zagi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ daga ⟨tare da⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "da masu magana"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mugunta"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨a⟩ kan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rai-na"
+    }
+  ],
+  "timestamp": "2026-08-12T20:35:52.763657336Z",
+  "model": "glm-5.2"
+}

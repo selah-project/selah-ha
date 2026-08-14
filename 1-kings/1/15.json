@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Sai Bat-Sheva ta shiga wurin sarki cikin ɗakinsa, kuma sarki ya tsufa sosai, kuma Avishag mace ta Shunem tana bauta wa ⟨את⟩ sarki.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Sai ta shiga"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wurin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "cikin ɗakinsa"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "kuma sarki"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ya tsufa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "kuma Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "mace ta Shunem"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "tana bauta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    }
+  ],
+  "timestamp": "2026-08-12T10:46:47.971606545Z",
+  "model": "glm-5.2"
+}

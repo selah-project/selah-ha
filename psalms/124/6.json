@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 124,
+  "translation": "Ya tabbata Yahweh, wanda bai ba mu ⟨a matsayin⟩ ganima ga haƙoransu.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Ya tabbata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "wanda bai"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "ba mu"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ganima"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "ga haƙoransu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:49:46.227297994Z",
+  "model": "glm-5.2"
+}

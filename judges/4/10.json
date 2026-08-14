@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma Barak ya kira ⟨את⟩ Zevulun da ⟨את⟩ Naftali ⟨zuwa⟩ Qedesh; kuma ya hau a ƙafafunsa goma dubu ⟨na⟩ maza, kuma Devorah ta hau tare da shi.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "kuma ya kira"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zevulun"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Naftali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "Qedesh"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kuma ya hau"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "a ƙafafunsa"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "goma"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "na maza"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "kuma ta hau"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tare da shi"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Devorah"
+    }
+  ],
+  "timestamp": "2026-08-13T01:57:58.503715110Z",
+  "model": "glm-5.2"
+}

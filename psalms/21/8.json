@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "gama ⟨sarkin⟩ yana dogaro da Yahweh, kuma ta cikin chesed na Elyon, ba za ya girgiza ba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gama"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨sarkin⟩"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "yana dogaro"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "da Yahweh"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "kuma ta cikin chesed"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "na Elyon"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "za ya girgiza"
+    }
+  ],
+  "timestamp": "2026-08-12T19:27:52.146596435Z",
+  "model": "glm-5.2"
+}

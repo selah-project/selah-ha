@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Dangane da dukkan abin da Yahweh ya umurci ⟨את⟩ Moshe, haka ne ƴan Isra'il suka yi ⟨את⟩ dukkan aikin.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Dangane da dukkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka ne"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'il"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan aikin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "aikin"
+    }
+  ],
+  "timestamp": "2026-08-12T01:38:30.925896445Z",
+  "model": "glm-5.2"
+}

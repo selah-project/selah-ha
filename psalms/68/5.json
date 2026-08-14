@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 68,
+  "translation": "Ku raira wa Elohim, ku busa wa sunansa, ku ɗaukaka wanda yake hawa cikin hamada, a cikin Yah ⟨ne⟩ sunansa, kuma ku murna a gaban sa.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ku raira wa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ku busa wa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "ku ɗaukaka"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "wanda yake hawa"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "cikin hamada"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "a cikin Yah"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "kuma ku murna"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "a gaban sa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:01:34.472712590Z",
+  "model": "glm-5.2"
+}

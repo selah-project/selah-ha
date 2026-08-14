@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Domi ya sanya m da santsi ⟨a⟩ idanunsa, don ya nemi laifinsa ⟨ya⟩ ƙi shi.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "domi"
+    },
+    {
+      "surface": "הֶחֱלִ֣יק",
+      "gloss": "ya sanya m da santsi"
+    },
+    {
+      "surface": "אֵלָ֣יו",
+      "gloss": "⟨a⟩ kansa"
+    },
+    {
+      "surface": "בְּעֵינָ֑יו",
+      "gloss": "idanunsa"
+    },
+    {
+      "surface": "לִמְצֹ֖א",
+      "gloss": "don ya nemi"
+    },
+    {
+      "surface": "עֲוֺנ֣וֹ",
+      "gloss": "laifinsa"
+    },
+    {
+      "surface": "לִשְׂנֹֽא",
+      "gloss": "⟨ya⟩ ƙi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:38:09.780677266Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Ku saurari wannan, dukan mutane; ku ba da kunne, dukan mazauna ɗan duniya.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ku saurari"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "ku ba da kunne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mazauna"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "ɗan duniya"
+    }
+  ],
+  "timestamp": "2026-08-12T19:48:33.162222559Z",
+  "model": "glm-5.2"
+}

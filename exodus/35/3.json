@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Kada ku kunna wuta a dukkunan mazaunanku, a ranar Asabar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "ku kunna"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a dukkunan"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "mazaunanku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a ranar"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Asabar"
+    }
+  ],
+  "timestamp": "2026-08-12T01:28:12.206182929Z",
+  "model": "glm-5.2"
+}

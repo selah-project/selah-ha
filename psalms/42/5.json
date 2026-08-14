@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Wadannan ina tuna su, kuma ina zuba ⟨a kaina⟩ raina, cewa ina wucewa cikin taron jama'a, ina jagorantar su har zuwa gidan Elohim, da muryar bushara da godeji, ⟨suna⟩ taron da ke kiyaye biki.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "wadannan"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ina tuna"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "kuma ina zuba"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a kaina"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "raina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "ina wucewa"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "cikin taron jama'a"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "ina jagorantar su"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "da muryar"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "busHara"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "da godeji"
+    },
+    {
+      "surface": "המון",
+      "gloss": "taron da ke"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "kiyaye biki"
+    }
+  ],
+  "timestamp": "2026-08-12T19:42:36.585906137Z",
+  "model": "glm-5.2"
+}

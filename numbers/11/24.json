@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 11:24",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Mosheh ya fita, ya yi wa mutãne maganã ⟨את⟩ kãlyen Yahweh, ya tãra mutãnen sũnã da goggaye saba'in daga cikin dattijen mutãne, ya tsayar da su a kewayen ⟨את⟩ ãdã.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Kuma ya fita"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ya yi wa ... maganã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kãlyen Yahweh"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kãlyen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ya tãra"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "saba'in"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "daga cikin dattijen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãne"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ya tsayar da"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "a kewayen"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ãdã"
+    }
+  ],
+  "timestamp": "2026-08-12T03:50:16.774625225Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 19:14",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma iyaka ⟨ya⟩ kewaye ⟨את⟩ shi daga arewa Channaton, kuma fitattun ⟨wurayensa⟩ sun kasance ⟨a⟩ kwarin Yiftach־El.",
+  "tokens": [
+    {
+      "surface": "ונסב",
+      "gloss": "kuma ⟨ya⟩ kewaye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iyaka (shi)"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "iyaka"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "daga arewa"
+    },
+    {
+      "surface": "חנתן",
+      "gloss": "Channaton"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kuma sun kasance"
+    },
+    {
+      "surface": "תצאתיו",
+      "gloss": "fitattun ⟨wurayensa⟩"
+    },
+    {
+      "surface": "גי",
+      "gloss": "kwarin"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftach (sashi na farko)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El (sashi na biyu)"
+    }
+  ],
+  "timestamp": "2026-08-12T06:52:29.060279526Z",
+  "model": "glm-5.2"
+}

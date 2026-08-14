@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma na yi wa ⟨את⟩ alƙalanku umarni a lokacin nan, ina cewa: \"Ku saurara ⟨shari'a⟩ tsakanin 'yan'uwanku, kuma ku yi shari'a ta adalci tsakanin mutum da ⟨tsakanin⟩ ɗan'uwansa, da ⟨tsakanin⟩ baƙonsa.",
+  "tokens": [
+    {
+      "surface": "וָאֲצַוֶּה֙",
+      "gloss": "kuma na yi wa umarni"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "alkalanku"
+    },
+    {
+      "surface": "שֹׁ֣פְטֵיכֶ֔ם",
+      "gloss": "alkalanku"
+    },
+    {
+      "surface": "בָּעֵ֥ת",
+      "gloss": "a lokacin"
+    },
+    {
+      "surface": "הַהִ֖וא",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לֵאמֹ֑ר",
+      "gloss": "ina cewa"
+    },
+    {
+      "surface": "שָׁמֹ֤עַ",
+      "gloss": "ku saurara"
+    },
+    {
+      "surface": "בֵּין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "אֲחֵיכֶם֙",
+      "gloss": "yan'uwanku"
+    },
+    {
+      "surface": "וּשְׁפַטְתֶּ֣ם",
+      "gloss": "kuma ku yi shari'a"
+    },
+    {
+      "surface": "צֶ֔דֶק",
+      "gloss": "ta adalci"
+    },
+    {
+      "surface": "בֵּֽין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "וּבֵין",
+      "gloss": "da tsakanin"
+    },
+    {
+      "surface": "אָחִ֖יו",
+      "gloss": "dan'uwansa"
+    },
+    {
+      "surface": "וּבֵ֥ין",
+      "gloss": "da tsakanin"
+    },
+    {
+      "surface": "גֵּרֽוֹ",
+      "gloss": "bakonsa"
+    }
+  ],
+  "timestamp": "2026-08-12T04:55:25.271890805Z",
+  "model": "glm-5.2"
+}

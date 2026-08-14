@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 7:4",
+  "book": "micah",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Mafiya kyāwunsu kamar ciyawāwa ce, mai gātar kai tsaye kamar bāyān shāshēn: rānar masu lura da kai, ziyārarka ta zo; yanzu za a yi musu āmiru.",
+  "tokens": [
+    {
+      "surface": "טוֹבָם",
+      "gloss": "mafiya kyāwunsu"
+    },
+    {
+      "surface": "כְּחֵדֶק",
+      "gloss": "kamar ciyawāwa"
+    },
+    {
+      "surface": "יָשָׁר",
+      "gloss": "mai gātar kai tsaye"
+    },
+    {
+      "surface": "מִמְּסוּכָה",
+      "gloss": "kamar bāyān shāshēn"
+    },
+    {
+      "surface": "יוֹם",
+      "gloss": "rānar"
+    },
+    {
+      "surface": "מְצַפֶּיךָ",
+      "gloss": "masu lura da kai"
+    },
+    {
+      "surface": "פְּקֻדָּתְךָ",
+      "gloss": "ziyārarka"
+    },
+    {
+      "surface": "בָּאָה",
+      "gloss": "ta zo"
+    },
+    {
+      "surface": "עַתָּה",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "תִּהְיֶה",
+      "gloss": "za a yi"
+    },
+    {
+      "surface": "מְבוּכָתָם",
+      "gloss": "āmiru"
+    }
+  ],
+  "timestamp": "2026-08-12T18:46:20.476784948Z",
+  "model": "glm-5.2"
+}

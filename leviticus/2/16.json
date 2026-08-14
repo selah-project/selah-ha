@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma kohen ya ƙone abin tunawa da shi, ⟨את⟩ tunawa da shi, daga hatsin da aka daka da man sa, akan dukan turaren marmari nasa; wuta ga Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "Kuma ya ƙone"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin tunawa da shi"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "tunawa da shi"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "daga hatsin da aka daka"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "da man sa"
+    },
+    {
+      "surface": "על",
+      "gloss": "akan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "turaren marmari nasa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:42:04.002349803Z",
+  "model": "glm-5.2"
+}

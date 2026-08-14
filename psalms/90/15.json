@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 90,
+  "translation": "Ka sa mu yi murna daidai da kwanakin da ka shaƙe mu, shekarun da muka ga mugunta.",
+  "tokens": [
+    {
+      "surface": "שַׂ֭מְּחֵנוּ",
+      "gloss": "Ka sa mu yi murna"
+    },
+    {
+      "surface": "כִּימ֣וֹת",
+      "gloss": "daidai da kwanakin"
+    },
+    {
+      "surface": "עִנִּיתָ֑נוּ",
+      "gloss": "da ka shaƙe mu"
+    },
+    {
+      "surface": "שְׁנ֗וֹת",
+      "gloss": "shekarun"
+    },
+    {
+      "surface": "רָאִ֥ינוּ",
+      "gloss": "da muka ga"
+    },
+    {
+      "surface": "רָעָֽה",
+      "gloss": "mugunta"
+    }
+  ],
+  "timestamp": "2026-08-12T20:21:19.568749819Z",
+  "model": "glm-5.2"
+}

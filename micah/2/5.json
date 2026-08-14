@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Saboda haka ba za a kasancewa a gare ka ⟨wanda zai jefa⟩ igiya a cikin kuri'a, a cikin taron Yahweh.",
+  "tokens": [
+    {
+      "surface": "לָכֵן֙",
+      "gloss": "Saboda haka"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יִֽהְיֶ֣ה",
+      "gloss": "za a kasancewa"
+    },
+    {
+      "surface": "לְךָ֔",
+      "gloss": "a gare ka"
+    },
+    {
+      "surface": "מַשְׁלִ֥יךְ",
+      "gloss": "⟨wanda zai jefa⟩"
+    },
+    {
+      "surface": "חֶ֖בֶל",
+      "gloss": "igiya"
+    },
+    {
+      "surface": "בְּגוֹרָ֑ל",
+      "gloss": "a cikin kuri'a"
+    },
+    {
+      "surface": "בִּקְהַ֖ל",
+      "gloss": "a cikin taron"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T18:40:20.384487167Z",
+  "model": "glm-5.2"
+}

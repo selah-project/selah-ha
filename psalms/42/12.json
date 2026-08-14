@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Don me ka gajiyã, rãyar da ni? Kuma don me kake rawa a cikin ni? Tsammani Elohim, domin har yanzu zan gõde wa; shi ne ceton fuskata, kuma Elohim na.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Don me"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "ka gajiyã"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rãyar da ni"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Kuma don me"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "kake rawa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a cikin ni"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "Tsammani"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "har yanzu"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "zan gõde wa"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "shi ne ceton"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskata"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "kuma Elohim na"
+    }
+  ],
+  "timestamp": "2026-08-12T19:41:41.913483487Z",
+  "model": "glm-5.2"
+}

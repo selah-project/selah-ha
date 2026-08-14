@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 9:11",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma zan tsayar da ⟨את⟩ alkawarina ⟨את⟩ ku, kuma ba za a yanke duk wani jiki sake ba ta hanyar ruwan ambaliya, kuma ba za a kasance ambaliya sake ba don lalata ƙasa.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "Kuma zan tsayar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alkawarina"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alkawarina"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba za"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "a yanke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "jiki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sake"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "ta hanyar ruwan"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ambaliya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba za"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "a kasance"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sake"
+    },
+    {
+      "surface": "מבול",
+      "gloss": "ambaliya"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "don lalata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:28:08.188800677Z",
+  "model": "glm-5.2"
+}

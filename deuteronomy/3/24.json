@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 3:24",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Adonai Yahweh, kai ka fara nuna wa bārinka ⟨את⟩ girmanka da ⟨את⟩ ƙarfinka, domin wane El ne a cikin sama da cikin ƙasa da zai yi kamar ayyukanka da kamar ƙarfin ƙarfin ka?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "החלות",
+      "gloss": "ka fara"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "nuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bārinka"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bārinka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "girmanka"
+    },
+    {
+      "surface": "גדלך",
+      "gloss": "girmanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ƙarfinka"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ƙarfin ka"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "mai ƙarfi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "domin"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "a cikin sama"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "da cikin ƙasa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "zai yi"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "kamar ayyukanka"
+    },
+    {
+      "surface": "וכגבורתך",
+      "gloss": "da kamar ƙarfin ka"
+    }
+  ],
+  "timestamp": "2026-08-12T04:54:26.464719572Z",
+  "model": "glm-5.2"
+}

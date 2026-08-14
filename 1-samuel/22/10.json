@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "kuma ya tambaye shi ⟨ta⟩ Yahweh, kuma ya ba shi abinci, kuma ⟨את⟩ takoben Goliyat ɗan Filistiya ya ba shi.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ya tambaye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ta Yahweh"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "kuma abinci"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "takoben Goliyat"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "takoben"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goliyat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ɗan Filistiya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    }
+  ],
+  "timestamp": "2026-08-12T09:24:14.608331035Z",
+  "model": "glm-5.2"
+}

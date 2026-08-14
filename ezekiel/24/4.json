@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 24:4",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Tara ɓangarorinta a cikinta, kowane ɓangare mai kyau, cinya da kugu, ⟨da⟩ ƙasusuwa na zaɓe ka cika.",
+  "tokens": [
+    {
+      "surface": "אֱסֹ֤ף",
+      "gloss": "Tara"
+    },
+    {
+      "surface": "נְתָחֶ֨יהָ֙",
+      "gloss": "ɓangarorinta"
+    },
+    {
+      "surface": "אֵלֶ֔יהָ",
+      "gloss": "a cikinta"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "נֵ֥תַח",
+      "gloss": "ɓangare"
+    },
+    {
+      "surface": "ט֖וֹב",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "יָרֵ֣ךְ",
+      "gloss": "cinya"
+    },
+    {
+      "surface": "וְכָתֵ֑ף",
+      "gloss": "da kugu"
+    },
+    {
+      "surface": "מִבְחַ֥ר",
+      "gloss": "na zaɓe"
+    },
+    {
+      "surface": "עֲצָמִ֖ים",
+      "gloss": "ƙasusuwa"
+    },
+    {
+      "surface": "מַלֵּֽא",
+      "gloss": "ka cika"
+    }
+  ],
+  "timestamp": "2026-08-14T00:11:56.193766573Z",
+  "model": "glm-5.2"
+}

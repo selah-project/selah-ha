@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 103,
+  "translation": "wanda yake cika da nagari ƙawarwarka, ⟨don⟩ matasarka ta sabanta kamar ⟨ta⟩ uwar gaggaro.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "wanda yake cika"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "da nagari"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "ƙawarwarka"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "ta sabanta"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "kamar ⟨ta⟩ uwar gaggaro"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "matasarka"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:00.706466866Z",
+  "model": "glm-5.2"
+}

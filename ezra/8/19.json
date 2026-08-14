@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ⟨את⟩ Hashabya, da ⟨את⟩ ⟨tare da⟩ shi Yeshaya, daga cikin 'ya'yan Merari, 'yan'uwansa da 'ya'yansu, ashirin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hashabya"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Hashabya"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ ⟨tare da⟩ shi"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Yeshaya"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "daga cikin 'ya'yan"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "'yan'uwansa"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "da 'ya'yansu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    }
+  ],
+  "timestamp": "2026-08-12T23:35:12.542803603Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kada ka yi noma da shanu da jakẽ dabam tare.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Kada ka"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "yi noma"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "da shanu"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "da jakẽ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "dabam tare"
+    }
+  ],
+  "timestamp": "2026-08-12T05:22:39.184019159Z",
+  "model": "glm-5.2"
+}

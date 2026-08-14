@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Sai manzanni suka koma wurinsa, ya kuma ce musu, \"Me haka, kun koma?\"",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "suka koma"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "manzanni"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "wurinsa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya kuma ce"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Me"
+    },
+    {
+      "surface": "זה",
+      "gloss": "haka"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "kun koma"
+    }
+  ],
+  "timestamp": "2026-08-12T11:53:47.210267323Z",
+  "model": "glm-5.2"
+}

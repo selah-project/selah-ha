@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Zakunan sun talauci kuma sun ji yunwa, amma masu neman Yahweh, ba za su rasa kowace kyau ba.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "Zakunan"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "sun talauci"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "kuma sun ji yunwa"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "amma masu neman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "za su rasa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowace"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kyau"
+    }
+  ],
+  "timestamp": "2026-08-12T19:34:50.127859303Z",
+  "model": "glm-5.2"
+}

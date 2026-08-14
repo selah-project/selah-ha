@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma Ya fitar da ni zuwa wuri mai faɗi, Ya 'yantar da ni, domin Ya yarda da ni.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "Kuma Ya fitar da ni"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "zuwa wuri mai faɗi"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "Ya 'yantar da ni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "Ya yarda"
+    },
+    {
+      "surface": "בי",
+      "gloss": "da ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:24:20.562086168Z",
+  "model": "glm-5.2"
+}

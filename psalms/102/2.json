@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 102,
+  "translation": "Yahweh, saurari addu'ata, kuma ƙararrata ⟨ta⟩ zuwa gare ku ta zo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "saurari"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "addu'ata"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "kuma ƙararrata"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zuwa gare ku"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ta zo"
+    }
+  ],
+  "timestamp": "2026-08-12T20:26:50.366219461Z",
+  "model": "glm-5.2"
+}

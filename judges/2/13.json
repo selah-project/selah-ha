@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Sai suka bar ⟨את⟩ Yahweh, kuma suka bauta wa Ba'al da ⟨ga⟩ Ashtaroth.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "sai suka bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "kuma suka bauta wa"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "⟨ga⟩ Ba'al"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "da ⟨ga⟩ Ashtaroth"
+    }
+  ],
+  "timestamp": "2026-08-12T07:13:13.340808717Z",
+  "model": "glm-5.2"
+}

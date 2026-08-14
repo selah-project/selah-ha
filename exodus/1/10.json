@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 1:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "\"Bari mu yi hikima ga su, don kada su yawaita, har idan ya faru ana yaki, su kuma su shiga wa waɗanda suke ƙin mu, su yakẽ mu, su kuma su tashi daga ƙasa.\"",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Bari mu"
+    },
+    {
+      "surface": "נתחכמה",
+      "gloss": "yi hikima"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ga su"
+    },
+    {
+      "surface": "פן",
+      "gloss": "don kada"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "su yawaita"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "har idan ya faru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ana"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "ana yaki"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "yaki"
+    },
+    {
+      "surface": "ונוסף",
+      "gloss": "su kuma su shiga"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "su"
+    },
+    {
+      "surface": "על",
+      "gloss": "wa"
+    },
+    {
+      "surface": "שנאינו",
+      "gloss": "waɗanda suke ƙin mu"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "su yakẽ mu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "su kuma su tashi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:28:39.624454188Z",
+  "model": "glm-5.2"
+}

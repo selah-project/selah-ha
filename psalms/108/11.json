@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 108,
+  "translation": "Wane zai kai ni cikin birnin katanga? Wane zai shiga ni har Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Wane"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "zan kai ni"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "birni"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "katanga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wane"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "zan shiga ni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-13T02:27:40.709308463Z",
+  "model": "glm-5.2"
+}

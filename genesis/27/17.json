@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma ta bada ⟨את⟩ abincin ɗanɗano da ⟨את⟩ burodi, wanda ta shirya, a hannun Ya'aƙub ɗanta.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "kuma ta bada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abincin ɗanɗano"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "abincin ɗanɗano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "burodi"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "burodi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ta shirya"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "a hannun"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aƙub"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ɗanta"
+    }
+  ],
+  "timestamp": "2026-08-13T01:44:07.402521238Z",
+  "model": "glm-5.2"
+}

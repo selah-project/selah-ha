@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Sai Sarki Shelomah ya zama sarki a kan duka Isra'ela.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Sai ya kasance"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Sarki"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ela"
+    }
+  ],
+  "timestamp": "2026-08-12T10:57:41.325138766Z",
+  "model": "glm-5.2"
+}

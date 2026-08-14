@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Kuma mutumin ya shigar da ⟨את⟩ mutanen cikin gida Yosef, ya ba su ruwa, suka wanke ƙafafunsu, kuma ya ba ciyarwa ga jakinsu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Kuma ya shigar da"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "cikin gida"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "suka wanke"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ƙafafunsu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kuma ya ba"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "ciyarwa"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "ga jakinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:17:30.069345310Z",
+  "model": "glm-5.2"
+}

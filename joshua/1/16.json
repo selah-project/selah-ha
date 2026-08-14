@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Suka amsa ⟨את⟩ Yahushu'a, suna cewa: Duk abin da ka umurce mu za mu yi, kuma zuwa kowane wuri da ka aikō mu za mu tafi.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Suka amsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahushu'a"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahushu'a"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "suna cewa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "ka umurce mu"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "za mu yi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma zuwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wuri da"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "ka aikō mu"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "za mu tafi"
+    }
+  ],
+  "timestamp": "2026-08-12T06:07:37.263966120Z",
+  "model": "glm-5.2"
+}

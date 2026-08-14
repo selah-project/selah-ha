@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma Ibraniyawa da yawa suka tsallaka ⟨את⟩ Yarden, ⟨zuwa⟩ ƙasar Gad da Gil'ad, kuma Sha'ul har yanzu yana a Gilgal, kuma dukan jama'a suna gudu tsoho ⟨a bayansa⟩.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Kuma Ibraniyawa"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "suka tsallaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "da Gil'ad"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Kuma Sha'ul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "har yanzu yana"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "a Gilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma dukan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "suna gudu tsoho"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "⟨a bayansa⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T02:01:07.324790062Z",
+  "model": "glm-5.2"
+}

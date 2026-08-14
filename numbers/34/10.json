@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 34:10",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Kuma ku nuna mana ku ⟨da kanku⟩ iyaka zuwa gabas, daga Chatsar-Enan zuwa Shepham.",
+  "tokens": [
+    {
+      "surface": "והתאויתם",
+      "gloss": "kuma ku nuna mana ku"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "iyaka"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "zuwa gabas"
+    },
+    {
+      "surface": "מחצר",
+      "gloss": "daga Chatsar-"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Enan"
+    },
+    {
+      "surface": "שפמה",
+      "gloss": "zuwa Shepham"
+    }
+  ],
+  "timestamp": "2026-08-13T01:53:22.047026417Z",
+  "model": "glm-5.2"
+}

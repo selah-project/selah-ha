@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 81,
+  "translation": "Babu ⟨zai kasance⟩ a cikinka El baƙo, kuma kada ka yin lalle ga El na ƙasashen waje.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "babu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨zai kasance⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "a cikinka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "baƙo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "ka yin lalle"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ga El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "na ƙasashen waje"
+    }
+  ],
+  "timestamp": "2026-08-12T20:11:00.202517448Z",
+  "model": "glm-5.2"
+}

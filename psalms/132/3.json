@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 132,
+  "translation": "Idan in shiga cikin alharmi na gida, idan in hau akan gadon kwana na,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "in shiga"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "cikin alharmi"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "na gida"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idam"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "in hau"
+    },
+    {
+      "surface": "על",
+      "gloss": "akan"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "gadon kwana"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-08-12T20:49:23.742285839Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kada ka motsa iyakar tsohuwa, kuma a cikin gonakin marayu kada ka shiga.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "ka motsa"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "iyakar"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tsohuwa"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "kuma a cikin gonakin"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "marayu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ka shiga"
+    }
+  ],
+  "timestamp": "2026-08-12T21:26:28.069864993Z",
+  "model": "glm-5.2"
+}

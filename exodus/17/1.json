@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 17:1",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Sai duka taron 'ya'an Yisra'el suka tashi daga hamada Sin, a kan tafiyarsu, a cewar Yahweh, suka sansana a Rəfídim, ⟨kuma⟩ babu ruwa don mutãne su sha.",
+  "tokens": [
+    {
+      "surface": "וַ֠יִּסְעוּ",
+      "gloss": "sai suka tashi"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duku"
+    },
+    {
+      "surface": "עֲדַ֨ת",
+      "gloss": "taron"
+    },
+    {
+      "surface": "בְּנֵֽי",
+      "gloss": "'ya'an"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֧ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מִמִּדְבַּר",
+      "gloss": "daga hamada"
+    },
+    {
+      "surface": "סִ֛ין",
+      "gloss": "Sin"
+    },
+    {
+      "surface": "לְמַסְעֵיהֶ֖ם",
+      "gloss": "a kan tafiyarsu"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a"
+    },
+    {
+      "surface": "פִּ֣י",
+      "gloss": "cewar"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וַֽיַּחֲנוּ֙",
+      "gloss": "suka sansana"
+    },
+    {
+      "surface": "בִּרְפִידִ֔ים",
+      "gloss": "a Rəfídim"
+    },
+    {
+      "surface": "וְאֵ֥ין",
+      "gloss": "⟨kuma⟩ babu"
+    },
+    {
+      "surface": "מַ֖יִם",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "לִשְׁתֹּ֥ת",
+      "gloss": "don sha"
+    },
+    {
+      "surface": "הָעָֽם",
+      "gloss": "mutãne"
+    }
+  ],
+  "timestamp": "2026-08-13T03:02:33.991414307Z",
+  "model": "glm-5.2"
+}

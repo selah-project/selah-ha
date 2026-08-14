@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma Binyamin ya haifa ⟨את⟩ Bela, ⟨ne⟩ ɗan'ansa na fari; Ashbel ⟨ne⟩ na biyu, kuma Aharah ⟨ne⟩ na uku.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Kuma Binyamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ɗan'ansa na fari"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "na biyu"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "kuma Aharah"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "na uku"
+    }
+  ],
+  "timestamp": "2026-08-13T00:05:47.459814782Z",
+  "model": "glm-5.2"
+}

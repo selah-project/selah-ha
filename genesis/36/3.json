@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "da ⟨את⟩ Bosmath ɗiyar Jishmael, ƙanwar Nevayot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Bosmath"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmath"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɗiyar"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jishmael"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ƙanwar"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nevayot"
+    }
+  ],
+  "timestamp": "2026-08-12T00:04:50.003003671Z",
+  "model": "glm-5.2"
+}

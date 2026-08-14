@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 26:5",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Reuven, ⟨ne⟩ fari na Yisra'el; ƴaƴan Reuven: ⟨na⟩ Chanok, kabila ta ⟨mutanen⟩ Chanok; ⟨na⟩ Palu, kabila ta ⟨mutanen⟩ Palu.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "fari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴaƴan"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanok"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kabila"
+    },
+    {
+      "surface": "החנכי",
+      "gloss": "ta Chanok"
+    },
+    {
+      "surface": "לפלוא",
+      "gloss": "Palu"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kabila"
+    },
+    {
+      "surface": "הפלאי",
+      "gloss": "ta Palu"
+    }
+  ],
+  "timestamp": "2026-08-12T04:24:22.268709931Z",
+  "model": "glm-5.2"
+}

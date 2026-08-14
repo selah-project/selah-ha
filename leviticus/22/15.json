@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma kada su bata ⟨את⟩ abubuwan tsarki na 'ya'yan Yisra'el, ⟨את⟩ abin da suke ɗaukaka wa Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "su bata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abubuwan tsarki na 'ya'ban Yisra'el"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "abubuwan tsarki na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin da suke ɗaukaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "suke ɗaukaka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T02:40:31.402630788Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "\"Ni, ga shi, alkawarina ⟨ne⟩ ⟨את⟩ tare da kai, kuma za ka zama uba ga tarin jama'ar al'ummai.\"",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alkawarina"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tare da kai"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "kuma za ka zama"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "uba"
+    },
+    {
+      "surface": "המון",
+      "gloss": "tarin jama'a"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "al'ummai"
+    }
+  ],
+  "timestamp": "2026-08-11T23:39:20.544525404Z",
+  "model": "glm-5.2"
+}

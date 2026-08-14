@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Daouda ya rike tufafinsa, ya fashe su, har dukkan mutanen da suka kasance ⟨את⟩ tare da shi.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ya rike"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daouda"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "tufafinsa"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "ya fashe su"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "har"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "tare da shi"
+    }
+  ],
+  "timestamp": "2026-08-12T09:56:33.571444893Z",
+  "model": "glm-5.2"
+}

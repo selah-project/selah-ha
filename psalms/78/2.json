@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Inã buɗe bakĩna ⟨a⟩ cikin misãli, inã zũra ãbũbuwan dãɓãnu daga tsoho.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Inã buɗe"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "cikin misãli"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bakĩna"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "inã zũra"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "ãbũbuwan dãɓãnu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "daga"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "tsoho"
+    }
+  ],
+  "timestamp": "2026-08-12T20:08:44.734319234Z",
+  "model": "glm-5.2"
+}

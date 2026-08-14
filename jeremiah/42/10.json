@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 42:10",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Idan kun dawō kuna zauna a ƙasar nan, Ni zan gina ku, kuma ba zan rushe ba, kuma Ni zan shuka ku, kuma ba zan tsire ⟨ku⟩ ba, domin Na yi nadama game da mugunyar da Na yi muku.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kun dawō"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "kuna zauna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "Ni zan gina"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba zan"
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "rushe"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "kuma Ni zan shuka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba zan"
+    },
+    {
+      "surface": "אתוש",
+      "gloss": "tsire"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "Na yi nadama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "game da"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mugunyar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "Na yi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "muku"
+    }
+  ],
+  "timestamp": "2026-08-12T16:26:04.134920869Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Sa'an nan ⟨ya⟩ ɗauko ⟨את⟩ idanuwansa, kuma ⟨ya⟩ ga ⟨את⟩ mata da ⟨את⟩ yaran, kuma ⟨ya⟩ ce, \"Wane ne waɗannan ⟨tare⟩ da kai?\" Kuma ⟨ya⟩ ce, \"Yaran da Elohim ya nuna masa alheri ⟨את⟩ bawanka.\"",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "kuma ya ɗauko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idanuwansa"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "idanuwansa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "kuma ya ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mata"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "mata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "yaran"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "yaran"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wane"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tare da kai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "yaran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ya nuna masa alheri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bawanka"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bawanka"
+    }
+  ],
+  "timestamp": "2026-08-11T23:57:38.147574635Z",
+  "model": "glm-5.2"
+}

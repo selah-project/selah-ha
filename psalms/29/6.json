@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma yana sanya su su yi rawa kamar maraƙi; Lebanon da Sirion kamar ɗan shanu na daji.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "kuma yana sanya su su yi rawa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "maraƙi"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanon"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "da Sirion"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "shanu na daji"
+    }
+  ],
+  "timestamp": "2026-08-12T19:31:24.195043318Z",
+  "model": "glm-5.2"
+}

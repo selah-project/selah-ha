@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma zā ni sansanta a kewaye da kai kamar da'ira, kuma zā na kāre maka sansani, kuma zā ni tura matakai na soja a kanku.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "Kuma zā ni sansanta"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "kamar da'ira"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "a kewaye da kai"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "kuma zā na kāre maka"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "a kanku"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "sansani"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "kuma zā ni tura"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "a kanku"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "matakai na soja"
+    }
+  ],
+  "timestamp": "2026-08-12T13:45:03.418077Z",
+  "model": "glm-5.2"
+}

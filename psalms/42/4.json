@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Hawaye na sun zama abincina rana da dare, a cikin faɗa mini dukan rana: \"Ina ne Elohim dinka?\"",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "sun zama"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "hawaye"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "abinci"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "rana"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "da dare"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "a cikin faɗa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rana"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ina ne"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim dinka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:24:24.463501577Z",
+  "model": "glm-5.2"
+}

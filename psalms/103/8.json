@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 103,
+  "translation": "Mai tausayi ne kuma mai gafara, Yahweh, mai haƙuri da fushi, kuma mai yawa ⟨a⟩ chesed.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Mai tausayi"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "kuma mai gafara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "mai haƙuri"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "da fushi"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "kuma mai yawa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:42.538995575Z",
+  "model": "glm-5.2"
+}

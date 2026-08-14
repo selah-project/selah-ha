@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Kuma zan dora zuriyarsa har abada, kuma kujerarsu ⟨za ta kasance⟩ kamar kwanakin sama.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "kuma zan dora"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "zuriyarsa"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "kuma kujerarsa"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kamar kwanakin"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sama"
+    }
+  ],
+  "timestamp": "2026-08-12T20:18:22.918471101Z",
+  "model": "glm-5.2"
+}

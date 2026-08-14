@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Daɗaɗɗin farin ciki ⟨ga⟩ mutanen da suka sani raɗin murna! A hasken fuskarka, su Yahweh, suna tafiya.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Daɗaɗɗin farin ciki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨ga⟩ mutanen"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "da suka sani"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "raɗin murna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באור",
+      "gloss": "A hasken"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuskarka"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "suna tafiya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:16:02.576306229Z",
+  "model": "glm-5.2"
+}

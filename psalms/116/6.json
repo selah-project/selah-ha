@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 116,
+  "translation": "Yahweh yana kiyaye ⟨marasa hankali⟩; na kasance cikin ƙasƙanci, kuma ya cece ni.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "yana kiyaye"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "marasa hankali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "na kasance cikin ƙasƙanci"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "ya cece"
+    }
+  ],
+  "timestamp": "2026-08-12T20:40:42.497667702Z",
+  "model": "glm-5.2"
+}

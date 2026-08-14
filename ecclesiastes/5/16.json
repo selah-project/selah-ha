@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Haka dukan kwanakin sa a cikin duhu suna ci, daushi da yawa, da cutarsa, da fushi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "haka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "kwanakin sa"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "a cikin duhu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "suna ci"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "daushi"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "da cutarsa"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "da fushi"
+    }
+  ],
+  "timestamp": "2026-08-12T22:45:14.338415032Z",
+  "model": "glm-5.2"
+}

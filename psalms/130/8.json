@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 130,
+  "translation": "Kuma shi zai fanshi ⟨את⟩ Yisra'el daga dukkan laifuffukansa.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "kuma shi"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "zai fanshi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "daga dukkan"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "laifuffukansa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:27:37.884512364Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Ka kuɓutar da ⟨את⟩ mutanenka, kuma ka albarkaci ⟨את⟩ gadoɗinka, ka kiwo su, kuma ka ɗauke su, har abada.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Ka kuɓutar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanenka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mutanenka"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "kuma ka albarkaci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gadoɗinka"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "gadoɗinka"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "ka kiwo su"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "kuma ka ɗauke su"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "abada"
+    }
+  ],
+  "timestamp": "2026-08-12T19:29:04.295509036Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Saurari kuna, sama, kuma ina magana, ⟨kuma⟩ sa ji ƙasa, fadin bakina.",
+  "tokens": [
+    {
+      "surface": "הַאֲזִ֥ינוּ",
+      "gloss": "saurari kuna"
+    },
+    {
+      "surface": "הַשָּׁמַ֖יִם",
+      "gloss": "sama"
+    },
+    {
+      "surface": "וַאֲדַבֵּ֑רָה",
+      "gloss": "kuma ina magana"
+    },
+    {
+      "surface": "וְתִשְׁמַ֥ע",
+      "gloss": "⟨kuma⟩ sa ji"
+    },
+    {
+      "surface": "הָאָ֖רֶץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "אִמְרֵי",
+      "gloss": "fadin"
+    },
+    {
+      "surface": "פִֽי",
+      "gloss": "bakina"
+    }
+  ],
+  "timestamp": "2026-08-12T05:59:18.877647919Z",
+  "model": "glm-5.2"
+}

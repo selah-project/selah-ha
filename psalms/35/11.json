@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Sunã tãhuwar shaiduai na tskillanci; abin da ban san ba sunã tambayar ni.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "Sunã tãhuwar"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "shaiduai"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "na tskillanci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ban"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "san ba"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "sunã tambayar ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:36:50.787254052Z",
+  "model": "glm-5.2"
+}

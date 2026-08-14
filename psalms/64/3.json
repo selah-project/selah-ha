@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 64,
+  "translation": "Ka ɓoye ni daga ⟨asirin⟩ taron masu mugunya, daga tada hawā na masu aikata laifi.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "Ka ɓoye ni"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "daga ⟨asirin⟩ taron"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "masu mugunya"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "daga tada hawā"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "masu aikata"
+    },
+    {
+      "surface": "און",
+      "gloss": "laifi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:56:54.525101938Z",
+  "model": "glm-5.2"
+}

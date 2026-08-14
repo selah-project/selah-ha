@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 12:22",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Domin ba zai Yahweh ⟨ya watsar⟩ da ⟨את⟩ mutanensa saboda sunansa mai girma, domin Yahweh ya nufi ya yi ⟨את⟩ ku masa zuwa ga mutane.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba zai"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "⟨ya watsar⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanensa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mutanensa"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "mai girma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "ya nufi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "zuwa ga mutane"
+    }
+  ],
+  "timestamp": "2026-08-12T08:50:47.272335961Z",
+  "model": "glm-5.2"
+}

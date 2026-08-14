@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 61:2",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 61,
+  "translation": "don in kira shekarar da ake so ga Yahweh, da ranar ramuwar gayya ga Elohim mu, don in ba da ta'aziyya ga duka masu rake.",
+  "tokens": [
+    {
+      "surface": "לקרא",
+      "gloss": "don in kira"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "shekarar"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "da ake so"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "da ranar"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ramuwar gayya"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ga Elohim mu"
+    },
+    {
+      "surface": "לנחם",
+      "gloss": "don in ba da ta'aziyya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "אבלים",
+      "gloss": "masu rake"
+    }
+  ],
+  "timestamp": "2026-08-12T14:39:16.752608190Z",
+  "model": "glm-5.2"
+}

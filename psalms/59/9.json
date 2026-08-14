@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 59,
+  "translation": "Amma kai, Yahweh, za ka yi musu dariya; za ka ba duka al'ummul ⟨a⟩ wulakanci.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "amma kai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "za ka yi dariya"
+    },
+    {
+      "surface": "למו",
+      "gloss": "musu"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "za ka ba wulakanci"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "al'ummul"
+    }
+  ],
+  "timestamp": "2026-08-12T19:54:19.662853965Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 48,
+  "translation": "Kuma Yisra'el ya ga ⟨את⟩ ɗiy'an Yosef, sai ya ce: \"Wãne ne waɗannan?\"",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "kuma ya ga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗiy'an Yosef"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiy'an"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sai ya ce"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wãne ne"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    }
+  ],
+  "timestamp": "2026-08-12T00:23:13.834587504Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "⟨Akwai⟩ ⟨את⟩ teku ɗaya, da ⟨את⟩ shanu goma sha biyu a ƙarƙashinsa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teku"
+    },
+    {
+      "surface": "הים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "shanu goma sha biyu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "goma sha"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "a ƙarƙashinsa"
+    }
+  ],
+  "timestamp": "2026-08-13T00:41:53.287438426Z",
+  "model": "glm-5.2"
+}

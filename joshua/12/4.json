@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 12:4",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma iyakan Ọg, sarkin Bashan, daga saura a cikin Ɓarafai, wanda yake zaune a Ashtarot da kuma a Edre'i.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "Kuma iyakan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ọg"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "מיתר",
+      "gloss": "daga saura"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "Ɓarafai"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "wanda yake zaune"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "a Ashtarot"
+    },
+    {
+      "surface": "ובאדרעי",
+      "gloss": "da kuma a Edre'i"
+    }
+  ],
+  "timestamp": "2026-08-12T06:38:26.886558413Z",
+  "model": "glm-5.2"
+}

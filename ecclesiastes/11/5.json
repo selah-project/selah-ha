@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kamar yadda kai ba ka sani ba hanyar ⟨ne⟩ iska, kamar yadda ⟨ne⟩ ƙasusuwa a cikin ciki mai cike, haka ba za ka san ⟨את⟩ aikin Elohim ba wanda yake yi ⟨את⟩ komai.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ba ka"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "sani"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "iska"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "kamar yadda ƙasusuwa"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "a cikin ciki"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "mai cike"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "haka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "za ka san"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aikin"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yake yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "komai"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "komai"
+    }
+  ],
+  "timestamp": "2026-08-13T02:36:34.497913080Z",
+  "model": "glm-5.2"
+}

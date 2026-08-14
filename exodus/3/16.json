@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": " \"Ka tafi, kuma ka tara ⟨את⟩ dattijon Yisra'el, kuma ka ce musu, 'Yahweh, Elohin ubanninku, ya bayyana gare ni — Elohin Avraham, Yitschaq, da Ya'aqov — yana cewa: Lalle Nã ziyarta ⟨את⟩ ku, da ⟨את⟩ abin da ake yi muku a Mitsrayim.'",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ka tafi"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "kuma ka tara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dattijon"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "dattijon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "kuma ka ce"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "ubanninku"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ya bayyana"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaq"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "da Ya'aqov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "Lalle Nã"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "ziyarta ku"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "abin da ake yi muku"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "abin da ake yi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "muku"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "a Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:34:59.504712151Z",
+  "model": "glm-5.2"
+}

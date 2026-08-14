@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "A cikin girman kai na mugunta, ⟨sunā⟩ bi bin miskini; a bauta a cikin zzzzagzub da suka shirya.",
+  "tokens": [
+    {
+      "surface": "בְּגַאֲוַ֣ת",
+      "gloss": "a cikin girman kai"
+    },
+    {
+      "surface": "רָ֭שָׁע",
+      "gloss": "na mugunta"
+    },
+    {
+      "surface": "יִדְלַ֣ק",
+      "gloss": "suna bin"
+    },
+    {
+      "surface": "עָנִ֑י",
+      "gloss": "miskini"
+    },
+    {
+      "surface": "יִתָּפְשׂ֓וּ",
+      "gloss": "a bauta"
+    },
+    {
+      "surface": "בִּמְזִמּ֖וֹת",
+      "gloss": "a cikin shirye-shiryen"
+    },
+    {
+      "surface": "ז֣וּ",
+      "gloss": "da"
+    },
+    {
+      "surface": "חָשָֽׁבוּ",
+      "gloss": "suka shirya"
+    }
+  ],
+  "timestamp": "2026-08-12T19:20:57.168328699Z",
+  "model": "glm-5.2"
+}

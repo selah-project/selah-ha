@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Suka kuma riƙe shi, suka jefa shi ⟨את⟩ cikin ramin; ramin kuma ya bushe, babu ruwa a cikinsa.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "suka kuma riƙe shi"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "suka jefa shi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "cikin ramin"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "cikin ramin"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "ramin kuma"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ya bushe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a cikinsa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:09:15.577463240Z",
+  "model": "glm-5.2"
+}

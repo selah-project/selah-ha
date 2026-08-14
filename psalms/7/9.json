@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Yahweh yana shari'ar al'ummomi: ka yi min shari'a, Yahweh, a cewar adalcina da cewar cikakciyar da ⟨take⟩ a cikina.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "yana shari'ar"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "al'ummomi"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "ka yi min shari'a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "a cewar adalcina"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "da cewar cikakciyar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a cikina"
+    }
+  ],
+  "timestamp": "2026-08-13T02:22:54.094475457Z",
+  "model": "glm-5.2"
+}

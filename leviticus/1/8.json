@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma 'ya'yan Aharon, kohanim, su shirya ⟨את⟩ gāje-gājen, ⟨את⟩ kān, da ⟨את⟩ kitse, a kan itātuwan da ke a kan wutar da ke a kan gadon hadaya.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "kuma su shirya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gāje-gājen"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "gāje-gājen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kān"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kān"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kitse"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "kitse"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "itātuwan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da ke"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "האש",
+      "gloss": "wutar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da ke"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "gadon hadaya"
+    }
+  ],
+  "timestamp": "2026-08-12T01:42:56.547103323Z",
+  "model": "glm-5.2"
+}

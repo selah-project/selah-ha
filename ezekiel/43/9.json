@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 43:9",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Yanzu sai su{kā} nĩsa ⟨את⟩ zina'arsu da gawawwakin sarakansu daga gare ni, kuma zan zauna a tsakãninsu har abadā.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Yanzu"
+    },
+    {
+      "surface": "ירחקו",
+      "gloss": "su{nĩsa}"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zina'arsu"
+    },
+    {
+      "surface": "זנותם",
+      "gloss": "zina'arsu"
+    },
+    {
+      "surface": "ופגרי",
+      "gloss": "da gawawwakin"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "sarakansu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daga gare ni"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "kuma zan zauna"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "a tsakãninsu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abadā"
+    }
+  ],
+  "timestamp": "2026-08-12T17:59:21.831610032Z",
+  "model": "glm-5.2"
+}

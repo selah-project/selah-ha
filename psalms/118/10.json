@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 118,
+  "translation": "Duk ⟨al'ummomin⟩ sun kewaye ni; a cikin sunan Yahweh ⟨zan⟩ yanka su.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Duk"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "⟨al'ummomin⟩"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "sun kewaye ni"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "a cikin sunan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨zai⟩ tabbas"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "⟨zan⟩ yanka su"
+    }
+  ],
+  "timestamp": "2026-08-12T20:39:17.391158563Z",
+  "model": "glm-5.2"
+}

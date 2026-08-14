@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Ku raira waƙa ga Yahweh, wanda yake zauna a Tsiyon, ku bayyana a tsakanin al'ummai ayyukansa.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ku raira waƙa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wanda yake zauna"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "a Tsiyon"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "ku bayyana"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "a tsakanin al'ummai"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ayyukansa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:19:14.919213164Z",
+  "model": "glm-5.2"
+}

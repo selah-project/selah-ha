@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Duk ⟨al'umman⟩, ku dοku kuɗe idanuku, ku kururu wa Elohim da muryar jimai!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Duk"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "⟨al'umman⟩"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ku dοku"
+    },
+    {
+      "surface": "כף",
+      "gloss": "kuɗe idanuku"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ku kururu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "da muryar"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "jimai"
+    }
+  ],
+  "timestamp": "2026-08-12T19:46:50.978028851Z",
+  "model": "glm-5.2"
+}

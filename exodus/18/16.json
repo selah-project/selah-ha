@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "\"Dõmin idan wani al'amari ya fito musu, yana zuwa gare ni, in kã yi shari'a tsakanin mutum da kãwunsa, kuma in bayyana musu ⟨את⟩ ƙa'idojin Elohim da ⟨את⟩ dõkõkinsa.\"",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dõmin idan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ya fito"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wani al'amari"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yana zuwa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "in kã yi shari'a"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kãwunsa"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "kuma in bayyana musu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙa'idojin"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "ƙa'idojin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dõkõkinsa"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "dõkõkinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:54:39.685698338Z",
+  "model": "glm-5.2"
+}

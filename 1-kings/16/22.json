@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma jama'a waɗanda ⟨suke⟩ a baya Omri sun yi ƙarfi a kan ⟨את⟩ jama'a waɗanda ⟨suke⟩ a baya Tibni ɗan Ginath; sai Tibni ya mutu, kuma Omri ya yi sarauta.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Kuma ... sun yi ƙarfi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "a baya"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jama'a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "a baya"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "Ginath"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "sai ... ya mutu"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "kuma ... ya yi sarauta"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-08-12T11:36:23.465260947Z",
+  "model": "glm-5.2"
+}

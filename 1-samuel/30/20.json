@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma Dawuda ya riƙe ⟨את⟩ duka garken tumaki da shanu; a kai su gaba a gaban wannan dabbobin, kuma suka ce: Wannan shi ne ganimar Dawuda.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ya riƙe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka garken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "garken tumaki"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "da shanu"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "a kai su gaba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "dabbobin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ganimar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    }
+  ],
+  "timestamp": "2026-08-13T02:01:10.796029228Z",
+  "model": "glm-5.2"
+}

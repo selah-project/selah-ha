@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 73,
+  "translation": "Da shawararka kana shiryar da ni, kuma daga baya zaka ɗauke ni ⟨zuwa⟩ girma.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "da shawararka"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "kana shiryar da ni"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "kuma daga baya"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "girma"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "zaka ɗauke ni"
+    }
+  ],
+  "timestamp": "2026-08-12T20:06:25.047138533Z",
+  "model": "glm-5.2"
+}

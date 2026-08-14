@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma mafi kyau daga duka biyun ⟨ne⟩ ⟨את⟩ wanda ba a halitta ba har yanzu, wanda ba ya ganin ⟨את⟩ mummunan aikin da ake yi a ƙarƙashin rana.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "Kuma mafi kyau"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "daga duka biyun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "har yanzu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a halitta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ya ganin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mummunan aikin"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mummunan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ake yi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a ƙarƙashin"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rana"
+    }
+  ],
+  "timestamp": "2026-08-12T22:43:49.908145363Z",
+  "model": "glm-5.2"
+}

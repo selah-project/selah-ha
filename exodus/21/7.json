@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma idan wani mutum ya sayar da ⟨את⟩ ƴarsa ta zama baiwa, ba za ta fita ba kamar yadda bayi maza suke fita.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "ya sayar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wani mutum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴarsa"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ƴarsa"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "ta zama baiwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "za ta fita"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "kamar yadda suke fita"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "bayi maza"
+    }
+  ],
+  "timestamp": "2026-08-13T01:46:23.148031428Z",
+  "model": "glm-5.2"
+}

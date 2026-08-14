@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kada ka yi wa bawa ƙarya ga ubangijinsa, domin ya tsina maka, kuma ka yi laifi.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תַּלְשֵׁ֣ן",
+      "gloss": "ka yi wa... ƙarya"
+    },
+    {
+      "surface": "עֶ֭בֶד",
+      "gloss": "bawa"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "ubangijinsa"
+    },
+    {
+      "surface": "פֶּֽן",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יְקַלֶּלְךָ֥",
+      "gloss": "ya tsina maka"
+    },
+    {
+      "surface": "וְאָשָֽׁמְתָּ",
+      "gloss": "kuma ka yi laifi"
+    }
+  ],
+  "timestamp": "2026-08-12T21:34:05.673841534Z",
+  "model": "glm-5.2"
+}

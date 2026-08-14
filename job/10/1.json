@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 10:1",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Raina tana ƙi ⟨ce⟩ a cikin rayuwata; zan bar daƙunan raina ⟨a kaina⟩, zan yi magana cikin baƙin cikin raina.",
+  "tokens": [
+    {
+      "surface": "נקטה",
+      "gloss": "ta ƙi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "raina"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "a cikin rayuwata"
+    },
+    {
+      "surface": "אעזבה",
+      "gloss": "zan bar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨a kaina⟩"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "daƙon raina"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "zan yi magana"
+    },
+    {
+      "surface": "במר",
+      "gloss": "a cikin baƙin ciki"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "raina"
+    }
+  ],
+  "timestamp": "2026-08-12T21:50:21.748683750Z",
+  "model": "glm-5.2"
+}

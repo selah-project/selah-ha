@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 109,
+  "translation": "Sãra wani mugun mutum a kansa, kuma Adami ya tsaya a dāminsa ta dama.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "Sãra"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wani mugun mutum"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "kuma Adami"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ya tsaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "dāminsa ta dama"
+    }
+  ],
+  "timestamp": "2026-08-13T02:27:43.561841646Z",
+  "model": "glm-5.2"
+}

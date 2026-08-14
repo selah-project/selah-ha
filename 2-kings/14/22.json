@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Shi ne ya gina ⟨את⟩ Eylat, kuma ya mayar da ita ga Yehuda, a baya da sarki ya kwanta tare da mataffansa.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Shi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ya gina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eylat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eylat"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "kuma ya mayar da ita"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ga Yehuda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "a baya da"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ya kwanta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "mataffansa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:28:01.568421945Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma Eliyahu ya ce wa dukan jama'a, \"Kusance ni.\" Dukan jama'a suka kusance shi, sai ya gyara ⟨את⟩ maginin Yahweh da aka rushe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wa dukan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Kusance ni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "suka kusance"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "sai ya gyara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maginin"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "maginin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "da aka rushe"
+    }
+  ],
+  "timestamp": "2026-08-12T11:40:50.056427687Z",
+  "model": "glm-5.2"
+}

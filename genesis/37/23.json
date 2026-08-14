@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma ya faru, lokacin da Yosef ya zo ga ɗan'uwansa, suka fasa Yosef ⟨את⟩ tufafinsa ⟨את⟩ — ⟨את⟩ tufafin faɗaɗɗen da yake a kansa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya faru"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lokacin da"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ya zo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ɗan'uwansa"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "suka fasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tufafinsa"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "tufafinsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tufafin faɗaɗɗen"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "tufafin"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "faɗaɗɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yake a kansa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:09:15.577303576Z",
+  "model": "glm-5.2"
+}

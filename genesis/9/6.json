@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Wanda ya zuba jinin ⟨mutum⟩, da ⟨mutum⟩ za a zuba jininsa; domin a cikin ɗimbin Elohim Ya yi ⟨את⟩ ⟨mutum⟩.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "wanda ya zuba"
+    },
+    {
+      "surface": "דם",
+      "gloss": "jin"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "na ⟨mutum⟩"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "da ⟨mutum⟩"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "jininsa"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "za a zuba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "a cikin ɗimbin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨mutum⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨mutum⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T03:01:32.073827951Z",
+  "model": "glm-5.2"
+}

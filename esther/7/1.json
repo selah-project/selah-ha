@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Sai sarki da Haman suka zo ⟨don⟩ su sha tare da Ester malka.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "sai...suka zo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "da Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "su sha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "malka"
+    }
+  ],
+  "timestamp": "2026-08-12T22:59:10.105874276Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 40:21",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ya kawo ⟨את⟩ akwatin zuwa cikin mazauni, ya kuma sa ⟨את⟩ gadin tsari, ya rufe akwatin shaidar, kamar yadda Yahweh ya umurci ⟨את⟩ Mosheh.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ya kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa cikin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mazauni"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ya kuma sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gadin tsari"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "gadin tsari"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "na rufewa"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "ya rufe"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "shaidar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:38:57.190974103Z",
+  "model": "glm-5.2"
+}

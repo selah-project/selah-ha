@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Garkuwata ⟨ta kasance⟩ a kan Elohim, mai tsirar da masu kaɗaici a zuciya.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "Garkuwata"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "mai tsirar da"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "masu kaɗaici"
+    },
+    {
+      "surface": "לב",
+      "gloss": "a zuciya"
+    }
+  ],
+  "timestamp": "2026-08-13T02:22:54.094900315Z",
+  "model": "glm-5.2"
+}

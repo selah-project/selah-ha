@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Kuma ya yi ⟨את⟩ sandunan guga itacen Ṣhittim, kuma ya rufe ⟨את⟩ su ⟨da⟩ ƙarfe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandunan"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "sandunan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "guga itacen"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "Ṣhittim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "kuma ya rufe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ su"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "⟨da⟩ ƙarfe"
+    }
+  ],
+  "timestamp": "2026-08-12T01:30:54.476604024Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 70,
+  "translation": "Ga ⟨mai⟩ gudanarwa, ⟨na⟩ Dawuda, don tunatarwa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga ⟨mai⟩ gudanarwa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "⟨na⟩ Dawuda"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "don tunatarwa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:00:52.667556751Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Kuma Yahweh ya mayar da ⟨את⟩ bautar Iyob, a lokacin da yake yin addu'a don kawunsa, kuma Yahweh ya ƙara ⟨את⟩ duka abin da ke na Iyob, zuwa ninki biyu.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Kuma Yahweh"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ya mayar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bautar"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "bautar"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "a lokacin da yake yin addu'a"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "don"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kawunsa"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "kuma ya ƙara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "ke na Iyob"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "zuwa ninki biyu"
+    }
+  ],
+  "timestamp": "2026-08-12T22:22:33.813907877Z",
+  "model": "glm-5.2"
+}

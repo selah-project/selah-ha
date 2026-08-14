@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "A'a, amma a cikin Torat Yahweh nishadarsa ⟨take⟩, kuma a cikin Torarsa yana tunani yini da dare.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "A'a"
+    },
+    {
+      "surface": "אִ֥ם",
+      "gloss": "amma"
+    },
+    {
+      "surface": "בְּתוֹרַ֥ת",
+      "gloss": "a cikin Torat"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חֶ֫פְצ֥וֹ",
+      "gloss": "nishadarsa"
+    },
+    {
+      "surface": "וּֽבְתוֹרָת֥וֹ",
+      "gloss": "kuma a cikin Torarsa"
+    },
+    {
+      "surface": "יֶהְגֶּ֗ה",
+      "gloss": "yana tunani"
+    },
+    {
+      "surface": "יוֹמָ֥ם",
+      "gloss": "yini"
+    },
+    {
+      "surface": "וָלָֽיְלָה",
+      "gloss": "da dare"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:34.929394426Z",
+  "model": "glm-5.2"
+}

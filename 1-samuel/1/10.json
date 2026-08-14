@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma ita ⟨tana da⟩ ciwo a rai, kuma ta yi salla ga Yahweh, kuma tana kuka ta yi kuka da yawa.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "kuma ita"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "⟨tana da⟩ ciwo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "a rai"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "kuma ta yi salla"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "kuma tana kuka"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "ta yi kuka"
+    }
+  ],
+  "timestamp": "2026-08-12T08:18:48.714210928Z",
+  "model": "glm-5.2"
+}

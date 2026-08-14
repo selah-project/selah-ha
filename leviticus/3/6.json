@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 3:6",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma idan daga garken tumaki ⟨ne⟩ hadayarsa, domin hadayar shalom ga Yahweh, namiji ko mace, ba tare da lahani ⟨ne⟩ zai kawo shi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "garken tumaki"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "hadayarsa"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "domin hadaya"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "namiji"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ba tare da lahani"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "zai kawo shi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:45:44.047276499Z",
+  "model": "glm-5.2"
+}

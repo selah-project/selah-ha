@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Kamar yadda barewa ke neman magudanar ruwa, haka rãna ta nema gare ka, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "kamar barewa"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ke neman"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "magudanar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rãna ta"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ta nema"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gare ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-13T02:24:24.463180130Z",
+  "model": "glm-5.2"
+}

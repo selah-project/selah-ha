@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 14:20",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Mun sani, Yahweh, mun san mugayen aikinmu da laifin ubanninmu, domin mun yi mukiyya ⟨a⟩ gare Ka.",
+  "tokens": [
+    {
+      "surface": "ידענו",
+      "gloss": "Mun sani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רשענו",
+      "gloss": "mun san mugayen aikinmu"
+    },
+    {
+      "surface": "עון",
+      "gloss": "laifin"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ubanninmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "mun yi mukiyya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨a⟩ gare Ka"
+    }
+  ],
+  "timestamp": "2026-08-12T15:27:16.639928544Z",
+  "model": "glm-5.2"
+}

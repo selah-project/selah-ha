@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 149,
+  "translation": "Isra'ila ya murna a cikin Mahaliccinsa; 'ya'yan Tsiyon su yi farin ciki a cikin Sarkinsu.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ya murna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "a cikin Mahaliccinsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "su yi farin ciki"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "a cikin Sarkinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T21:00:01.524346169Z",
+  "model": "glm-5.2"
+}

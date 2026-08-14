@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma Betsalel ya yi ⟨את⟩ akwatin ⟨ne⟩ daga itacen shitta — tsawon sa ⟨ne⟩ kafanni biyu da rabi, faɗin sa ⟨ne⟩ kafanni biyu da ribi, tsayin sa ⟨ne⟩ kafanni biyu da ribi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "daga itacen"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitta"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "kafanni biyu"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "da ribi"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "tsawon sa"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "kafanni biyu"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "da ribi"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "faɗin sa"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "kafanni biyu"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "da ribi"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "tsayin sa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:32:12.066022518Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Sai ta sauka ⟨zuwa⟩ gonar bayar-gwan, kuma ta yi a cikin dukkan abin da surukar ta umurce ta.",
+  "tokens": [
+    {
+      "surface": "וַתֵּרֶד",
+      "gloss": "Sai ta sauka"
+    },
+    {
+      "surface": "הַגֹּרֶן",
+      "gloss": "gonar bayar-gwan"
+    },
+    {
+      "surface": "וַתַּעַשׂ",
+      "gloss": "kuma ta yi"
+    },
+    {
+      "surface": "כְכֹל",
+      "gloss": "a cikin dukkan"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "צִוָּתָה",
+      "gloss": "ta umurce ta"
+    },
+    {
+      "surface": "חֲמוֹתָהּ",
+      "gloss": "surukar"
+    }
+  ],
+  "timestamp": "2026-08-12T22:29:20.891571008Z",
+  "model": "glm-5.2"
+}

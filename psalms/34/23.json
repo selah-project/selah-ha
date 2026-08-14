@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Yahweh na fansar rayukan bayin Sa, kuma duk waɗanda suke neman mafaka a gare Shi ba za su yi laifi ba.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "na fansar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rayukan"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bayin Sa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "za su yi laifi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "waɗanda suke neman mafaka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a gare Shi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:34:30.580441875Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Domin ɓaƴan Isra'ila za su zauna kwanaki da yawa babu sarki, kuma babu shugaba, kuma babu hadaya, kuma babu tsari, kuma babu ẹfọd, kuma babu terafim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "za su zauna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓaƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "shugaba"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "hadaya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "tsari"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ẹfọd"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "terafim"
+    }
+  ],
+  "timestamp": "2026-08-12T18:13:00.125635166Z",
+  "model": "glm-5.2"
+}

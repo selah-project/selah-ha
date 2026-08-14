@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 84,
+  "translation": "Ko tsuntsu ya sami gida, da tsuntsu mai yawo gida don kai, wanda ya ajiye 'ya'yansa, ⟨har⟩ ⟨a⟩ ⟨kan⟩ ⟨את⟩ madubbanka, Yahweh Ɗaukaka, Sarkina, kuma Elohim na!",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "tsuntsu"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "ya sami"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "da tsuntu mai yawo"
+    },
+    {
+      "surface": "קן",
+      "gloss": "gida"
+    },
+    {
+      "surface": "לה",
+      "gloss": "don kai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ya ajiye"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "'ya'yansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madubbanka"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "madubbanka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ɗaukaka"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Sarkina"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "kuma Elohim na"
+    }
+  ],
+  "timestamp": "2026-08-12T20:17:32.244623412Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Ga ⟨wanda ke⟩ shiryarwa. Zaburi na Dawuda.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga ⟨wanda ke⟩ shiryarwa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Zaburi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na Dawuda"
+    }
+  ],
+  "timestamp": "2026-08-12T19:21:44.872052186Z",
+  "model": "glm-5.2"
+}

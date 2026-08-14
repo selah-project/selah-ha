@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma Elohim ya faɗa wa Avraham: Sarai matarka, kada ka kira ⟨את⟩ sunanta Sarai, domin Sarah sunanta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya faɗa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "matarka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ka kira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunanta"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sunanta"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sunanta"
+    }
+  ],
+  "timestamp": "2026-08-11T23:36:34.617203944Z",
+  "model": "glm-5.2"
+}

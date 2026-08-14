@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kowane mutum uwar sa da mahaifin sa ku girma; kuma ⟨את⟩ Shaɗotata ku kiyaye; ni ni⟨ne⟩ Yahweh Elohim ku.",
+  "tokens": [
+    {
+      "surface": "אִישׁ",
+      "gloss": "Kowane mutum"
+    },
+    {
+      "surface": "אִמּוֹ",
+      "gloss": "uwar sa"
+    },
+    {
+      "surface": "וְאָבִיו",
+      "gloss": "da mahaifin sa"
+    },
+    {
+      "surface": "תִּירָאוּ",
+      "gloss": "ku girma"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Shaɗotata"
+    },
+    {
+      "surface": "שַׁבְּתֹתַי",
+      "gloss": "Shaɗotata"
+    },
+    {
+      "surface": "תִּשְׁמֹרוּ",
+      "gloss": "ku kiyaye"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶם",
+      "gloss": "Elohim ku"
+    }
+  ],
+  "timestamp": "2026-08-12T02:33:47.914674596Z",
+  "model": "glm-5.2"
+}

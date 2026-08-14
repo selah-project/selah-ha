@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 73,
+  "translation": "Lalle abu ne komai ⟨na⟩ tsarkake ⟨ne⟩ zuciyata, kuma na wankfa hannuwana cikin tsarki.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "lalle"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "komai\/abu ne komai"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "na tsarkake"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "kuma na wankfa"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "a cikin tsarki"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "hannuwana"
+    }
+  ],
+  "timestamp": "2026-08-12T20:05:06.173114970Z",
+  "model": "glm-5.2"
+}

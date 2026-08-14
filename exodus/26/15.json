@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma za ka yi ⟨את⟩ alluran Mishkan, itacen shitta masu tsayuwa.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "kuma za ka yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alluran"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "alluran"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "itacen"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitta"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "masu tsayuwa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:09:10.951447137Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Ya yi shari'a ⟨את⟩ shari'ar matalauci da miskini, sa'an nan ⟨ne⟩ abin alheri. Shin wannan ba shi ne sanin Ni ba? inyassar Yahweh.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Ya yi shari'a"
+    },
+    {
+      "surface": "דין",
+      "gloss": "shari'ar"
+    },
+    {
+      "surface": "עני",
+      "gloss": "matalauci"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "da miskini"
+    },
+    {
+      "surface": "אז",
+      "gloss": "sa'an nan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "abin alheri"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Shin ba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "shi ne"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "sanin"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Ni"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "inyassar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T15:35:06.996053241Z",
+  "model": "glm-5.2"
+}

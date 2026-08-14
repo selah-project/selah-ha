@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 13:53",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma idan kohen ya duba, sai gani, ba ya yaduwa ⟨a cikin⟩ jiyyar wuni ko ⟨a cikin⟩ tsoka ko ⟨a cikin⟩ aro ko ⟨a cikin⟩ kowane kayan fata —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ya duba"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sai gani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "ya yaduwa"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "cutar"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "⟨a cikin⟩ jiyyar wuni"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "⟨a cikin⟩ tsoka"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "⟨a cikin⟩ aro"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨a cikin⟩ kowane"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kayan"
+    },
+    {
+      "surface": "עור",
+      "gloss": "fata"
+    }
+  ],
+  "timestamp": "2026-08-13T01:49:21.083424002Z",
+  "model": "glm-5.2"
+}

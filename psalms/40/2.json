@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Na jira, na jira Yahweh, sai ⟨ya⟩ sauko gare ni, kuma ⟨ya⟩ ji kukan nã.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Na jira"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "na jira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "sai ⟨ya⟩ sauko"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "kuma ⟨ya⟩ ji"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "kukan nã"
+    }
+  ],
+  "timestamp": "2026-08-12T19:41:18.408858235Z",
+  "model": "glm-5.2"
+}

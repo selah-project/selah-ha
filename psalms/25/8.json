@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Yahweh ⟨shi ne⟩ mai kyau da mai gaskiya, don haka yana koya wa masu zunubi cikin hanya.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "da mai gaskiya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "don"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "yana koya wa"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "masu zunubi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "cikin hanya"
+    }
+  ],
+  "timestamp": "2026-08-12T19:29:38.258421995Z",
+  "model": "glm-5.2"
+}

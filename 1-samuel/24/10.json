@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma Dāwūd ya ce wa Sha'ul, \"Don me kake sauraron ⟨את⟩ maganganun mutāne, suna cewa, 'Ga shi, Dāwūd yana neman mugunar maka?'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dāwūd"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "wa Sha'ul"
+    },
+    {
+      "surface": "למה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "kake sauraron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maganganun"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maganganun"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mutāne"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "suna cewa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dāwūd"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "yana neman"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "mugunar maka"
+    }
+  ],
+  "timestamp": "2026-08-12T09:28:57.903661182Z",
+  "model": "glm-5.2"
+}

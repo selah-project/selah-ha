@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Kuma ya yi ⟨את⟩ rigar haɓiyar, aikin saƙa, gaba ɗaya shuɼa.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֛עַשׂ",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "rigar"
+    },
+    {
+      "surface": "מְעִ֥יל",
+      "gloss": "rigar"
+    },
+    {
+      "surface": "הָאֵפֹ֖ד",
+      "gloss": "haɓiyar"
+    },
+    {
+      "surface": "מַעֲשֵׂ֣ה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "אֹרֵ֑ג",
+      "gloss": "saƙa"
+    },
+    {
+      "surface": "כְּלִ֖יל",
+      "gloss": "gaba ɗaya"
+    },
+    {
+      "surface": "תְּכֵֽלֶת",
+      "gloss": "shuɼa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:38:12.944007762Z",
+  "model": "glm-5.2"
+}

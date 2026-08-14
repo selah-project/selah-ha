@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Kuma suka yi ⟨את⟩ furen kambin tsarkaka, zinari marmari, suka rubuta ⟨a⟩ kai shi rubutun buɗe zane na mutum, Tsarkaka ga Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "furen kambin"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "furen"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "kambin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tsarkaka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinari"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "marmari"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "suka rubuta"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨a⟩ kai shi"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "rubutun"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "buɗe zane"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Tsarkaka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:41:31.190964107Z",
+  "model": "glm-5.2"
+}

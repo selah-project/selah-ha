@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 33:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Kuma an tāra fashin ku, ana tāra wa kamar tsātsa, kamar yadda fari-fari ke gudu a cikinsa.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "kuma an tāra"
+    },
+    {
+      "surface": "שללכם",
+      "gloss": "fashin ku"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ana tāra wa"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "kamar tsātsa"
+    },
+    {
+      "surface": "כמשק",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "fari-fari"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "ke gudu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a cikinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T13:51:00.072119137Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Ka ba ni goyon baya, in ceka, kuma na duba ⟨a⟩ dokokinka ba tare da ƙarewa ba.",
+  "tokens": [
+    {
+      "surface": "סְעָדֵ֥נִי",
+      "gloss": "Ka ba ni goyon baya"
+    },
+    {
+      "surface": "וְאֶשְָׁעֵ֑ה",
+      "gloss": "in ceka"
+    },
+    {
+      "surface": "וְאֶשְׂעֶ֖ה",
+      "gloss": "kuma na duba"
+    },
+    {
+      "surface": "בְּחֻקֶּ֣יךָ",
+      "gloss": "⟨a⟩ dokokinka"
+    },
+    {
+      "surface": "תָּמִֽיד",
+      "gloss": "ba tare da ƙarewa ba"
+    }
+  ],
+  "timestamp": "2026-08-12T20:46:13.344021630Z",
+  "model": "glm-5.2"
+}

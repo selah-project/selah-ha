@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 140,
+  "translation": "Sun kaifafa harshensu kamar maciji; sumun ƙäshuwa a ƙarƙashin lebensu. Selah.",
+  "tokens": [
+    {
+      "surface": "שָׁנֲנוּ",
+      "gloss": "Sun kaifafa"
+    },
+    {
+      "surface": "לְשׁוֹנָם",
+      "gloss": "harshensu"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "נָחָשׁ",
+      "gloss": "maciji"
+    },
+    {
+      "surface": "חֲמַת",
+      "gloss": "sumun"
+    },
+    {
+      "surface": "עַכְשׁוּב",
+      "gloss": "ƙäshuwa"
+    },
+    {
+      "surface": "תַּחַת",
+      "gloss": "a ƙarƙashin"
+    },
+    {
+      "surface": "שְׂפָתֵימוֹ",
+      "gloss": "lebensu"
+    },
+    {
+      "surface": "סֶלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-13T02:28:12.933915447Z",
+  "model": "glm-5.2"
+}

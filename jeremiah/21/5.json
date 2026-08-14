@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma ni da kaina zan yi ⟨את⟩ yaki da ku, da hannu da aka miƙa, da kuma ƙwarya mai ƙarfi, da fushi, da guruwa, da kuma fusata mai girma.",
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "kuma zan yi yaki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ da ku"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "da hannu"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "da aka miƙa"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "da kuma ƙwarya"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "mai ƙarfi"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "da fushi"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "da guruwa"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "da kuma fusata"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mai girma"
+    }
+  ],
+  "timestamp": "2026-08-12T15:35:46.289796954Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma akwai akwatín Yahweh a cikin gundumar Pelishtiyim tsawon watanni bakwai.",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֧י",
+      "gloss": "Kuma akwai"
+    },
+    {
+      "surface": "אֲרוֹן",
+      "gloss": "akwatín"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בִּשְׂדֵ֥ה",
+      "gloss": "a cikin gundumar"
+    },
+    {
+      "surface": "פְלִשְׁתִּ֖ים",
+      "gloss": "Pelishtiyim"
+    },
+    {
+      "surface": "שִׁבְעָ֥ה",
+      "gloss": "bakwai"
+    },
+    {
+      "surface": "חֳדָשִֽׁים",
+      "gloss": "watanni"
+    }
+  ],
+  "timestamp": "2026-08-12T08:37:18.518331289Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 39:25",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Kuma suka yi ƙarrawai na zinari tsarkakakke, kuma suka saka ⟨את⟩ ƙarrawan a tsakanin rummanan a kan ƙugin rigunar, a kewaye, a tsakanin rummanan.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Kuma suka yi"
+    },
+    {
+      "surface": "פעמני",
+      "gloss": "ƙarrawai"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinari"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tsarkakakke"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "kuma suka saka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙarrawan"
+    },
+    {
+      "surface": "הפעמנים",
+      "gloss": "ƙarrawan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "a tsakanin"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "rummanan"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "ƙugin"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "rigunar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewaye"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "a tsakanin"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "rummanan"
+    }
+  ],
+  "timestamp": "2026-08-12T01:40:07.472862936Z",
+  "model": "glm-5.2"
+}

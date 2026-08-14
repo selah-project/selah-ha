@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 6:7",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Sa'an nan waɗannan shugabanni da masu larden suka taru agushi a wajen sarki, kuma suka ce masa haka: \"Ya Darius sarki, ka rayu har abadā!\"",
+  "tokens": [
+    {
+      "surface": "אֱ֠דַיִן",
+      "gloss": "sa'an nan"
+    },
+    {
+      "surface": "סָרְכַיָּ֤א",
+      "gloss": "shugabanni"
+    },
+    {
+      "surface": "וַאֲחַשְׁדַּרְפְּנַיָּא֙",
+      "gloss": "da masu larden"
+    },
+    {
+      "surface": "אִלֵּ֔ן",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "הַרְגִּ֖ישׁוּ",
+      "gloss": "suka taru agushi"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a wajen"
+    },
+    {
+      "surface": "מַלְכָּ֑א",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "וְכֵן֙",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "אָמְרִ֣ין",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "לֵ֔הּ",
+      "gloss": "masa"
+    },
+    {
+      "surface": "דָּרְיָ֥וֶשׁ",
+      "gloss": "Darius"
+    },
+    {
+      "surface": "מַלְכָּ֖א",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "לְעָלְמִ֥ין",
+      "gloss": "har abadā"
+    },
+    {
+      "surface": "חֱיִֽי",
+      "gloss": "ka rayu"
+    }
+  ],
+  "timestamp": "2026-08-12T23:11:18.188778846Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma ⟨ni⟩ zan sanya ⟨את⟩ ɗan baiwar mace ya zama al'umma, domin shiriyar tsatsayinka ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗan baiwar mace"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "baiwar mace"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ya zama al'umma"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "zan sanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tsatsayinka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shiriya ⟨ne⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T23:41:51.535311887Z",
+  "model": "glm-5.2"
+}

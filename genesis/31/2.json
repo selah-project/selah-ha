@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Kuma Ya'ƙuɓ ya duba ⟨את⟩ fuskarkin Lavan, kuma ga shi, ba shi ke tare da shi kamar jiya da shUBAR ranan nan ba.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "kuma ya duba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'ƙuɓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuskarkin"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskarkin"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kuma ga shi"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ba shi ke"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tare da shi"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "kamar jiya"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "da shUBAR ranan nan"
+    }
+  ],
+  "timestamp": "2026-08-11T23:57:56.473665072Z",
+  "model": "glm-5.2"
+}

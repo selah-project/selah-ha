@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Sai dai zuwa ga katange baya, ba ya shiga; kuma zuwa ga dakin hadaya, ba zai kusanta, domin guntuwa ⟨a cikin⟩ shi take; kuma kada ya ɓata ⟨את⟩ tsarkakakkaka wuraren-na, domin Ni ne Yahweh, Mai tsarkake su.”",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sai dai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "katange baya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ya shiga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma zuwa ga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "dakin hadaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "zai kusanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "מום",
+      "gloss": "guntuwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨a cikin⟩ shi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "ya ɓata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsarkakakkaka wuraren-na"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "tsarkakakkaka wuraren-na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "Mai tsarkake su"
+    }
+  ],
+  "timestamp": "2026-08-12T02:40:27.061567867Z",
+  "model": "glm-5.2"
+}

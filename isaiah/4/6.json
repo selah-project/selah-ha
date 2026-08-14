@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma za a yi mafaka don inuwa a rana daga zafi, da wurin mafaka da wurin ɓoyewa daga guguwa da daga ruwan sama.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "Kuma za a yi mafaka"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "don zama"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "inuwa"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "daga zafi"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "da wurin mafaka"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "da wurin ɓoyewa"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "daga guguwa"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "da daga ruwan sama"
+    }
+  ],
+  "timestamp": "2026-08-12T13:00:27.008945595Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kada a yafa ta yisti; niyyata ce ⟨את⟩ shi rabon su daga hadayar-wutana; tsarkin-tsarkane ⟨ne⟩, kamar ⟨hadaorar⟩ zunubi da ⟨hadaorar⟩ laifi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "a yafa"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ta yisti"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "shi rabon su"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "niyyata ce"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "shi rabon su"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "daga hadayar-wutana"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsarkin"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "tsarkane"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "kamar hadaorar zunubi"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "da kamar hadaorar laifi"
+    }
+  ],
+  "timestamp": "2026-08-13T03:02:44.755304561Z",
+  "model": "glm-5.2"
+}

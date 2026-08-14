@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 71,
+  "translation": "Zan shiga da ƙarfin Adonai Yahweh, zan tunatar da adalcinka, Kai kaɗai.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "Zan shiga"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "da ƙarfin"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "zan tunatar da"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "adalcinka"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "Kai kaɗai"
+    }
+  ],
+  "timestamp": "2026-08-12T20:01:29.228384405Z",
+  "model": "glm-5.2"
+}

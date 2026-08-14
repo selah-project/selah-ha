@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Muka kuma kama ⟨את⟩ dukkan biranen sa a lokacin nan, ba a birni ⟨ne⟩ da ba mu tãwo daga gare su; garu sittin, dukkan yankin Argob, masarautar ʿOg a Bashan.",
+  "tokens": [
+    {
+      "surface": "וַנִּלְכֹּ֤ד",
+      "gloss": "Muka kuma kama"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan biranen sa"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "עָרָיו֙",
+      "gloss": "biranen sa"
+    },
+    {
+      "surface": "בָּעֵ֣ת",
+      "gloss": "a lokacin"
+    },
+    {
+      "surface": "הַהִ֔וא",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הָֽיְתָה֙",
+      "gloss": "a"
+    },
+    {
+      "surface": "קִרְיָ֔ה",
+      "gloss": "birni"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לָקַ֖חְנוּ",
+      "gloss": "mu tãwo"
+    },
+    {
+      "surface": "מֵֽאִתָּ֑ם",
+      "gloss": "⟨את⟩",
+      "marks": "daga gare su"
+    },
+    {
+      "surface": "שִׁשִּׁ֥ים",
+      "gloss": "sittin"
+    },
+    {
+      "surface": "עִיר֙",
+      "gloss": "garuruwa"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "חֶ֣בֶל",
+      "gloss": "yankin"
+    },
+    {
+      "surface": "אַרְגֹּ֔ב",
+      "gloss": "Argob"
+    },
+    {
+      "surface": "מַמְלֶ֥כֶת",
+      "gloss": "masarautar"
+    },
+    {
+      "surface": "ע֖וֹג",
+      "gloss": "ʿOg"
+    },
+    {
+      "surface": "בַּבָּשָֽׁן",
+      "gloss": "a Bashan"
+    }
+  ],
+  "timestamp": "2026-08-12T04:56:41.230570788Z",
+  "model": "glm-5.2"
+}

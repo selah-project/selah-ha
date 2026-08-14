@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Abin da gazam ya bari, arbé ya cinye shi; kuma abin da arbé ya bari, yaleq ya cinye shi; kuma abin da yaleq ya bari, ḥasil ya cinye shi.",
+  "tokens": [
+    {
+      "surface": "יֶתֶר",
+      "gloss": "Abin da ya bari"
+    },
+    {
+      "surface": "הַגָּזָם",
+      "gloss": "gazam"
+    },
+    {
+      "surface": "אָכַל",
+      "gloss": "ya cinye shi"
+    },
+    {
+      "surface": "הָאַרְבֶּה",
+      "gloss": "arbé"
+    },
+    {
+      "surface": "וְיֶתֶר",
+      "gloss": "kuma abin da ya bari"
+    },
+    {
+      "surface": "הָאַרְבֶּה",
+      "gloss": "arbé"
+    },
+    {
+      "surface": "אָכַל",
+      "gloss": "ya cinye shi"
+    },
+    {
+      "surface": "הַיָּלֶק",
+      "gloss": "yaleq"
+    },
+    {
+      "surface": "וְיֶתֶר",
+      "gloss": "kuma abin da ya bari"
+    },
+    {
+      "surface": "הַיֶּלֶק",
+      "gloss": "yaleq"
+    },
+    {
+      "surface": "אָכַל",
+      "gloss": "ya cinye shi"
+    },
+    {
+      "surface": "הֶחָסִיל",
+      "gloss": "ḥasil"
+    }
+  ],
+  "timestamp": "2026-08-13T23:59:48.405835546Z",
+  "model": "glm-5.2"
+}

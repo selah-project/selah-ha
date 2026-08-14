@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 136,
+  "translation": "Yana bayar da abinci ga dukkan jiki, domin har abada chesed ⟨nasa⟩.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Yana bayar da"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "abinci"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ga dukkan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "jiki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed ⟨nasa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:51:50.613392436Z",
+  "model": "glm-5.2"
+}

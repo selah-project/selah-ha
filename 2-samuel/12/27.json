@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma Yoav ya aiko manzanni zuwa Dawuda, ya ce: Na yi yaƙi da Rabbah, har ila yau na kama ⟨את⟩ birnin ruwa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Kuma ⟨ya⟩ aiko"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "manzanni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "Na yi yaƙi"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "da Rabbah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "har ila yau"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "na kama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birnin"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ruwa"
+    }
+  ],
+  "timestamp": "2026-08-12T10:11:11.390482265Z",
+  "model": "glm-5.2"
+}

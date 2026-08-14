@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 6:13",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Wannan ⟨ne⟩ qorban na Aharon da 'ya'yansa, wanda za su kusanto wa Yahweh a ranar a shafe ⟨את⟩ shi: goma sha ɗaya cikin efa, gari mai laushi da aka yiwa ni'ima, abin hadaya na dāuwamāmu, rabin sa safe, rabin sa kuma maraice.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Wannan"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "da 'ya'yansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "za su kusanto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "a shafe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi",
+      "marks": "shi"
+    },
+    {
+      "surface": "עשירת",
+      "gloss": "goma sha ɗaya cikin"
+    },
+    {
+      "surface": "האפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "gari mai kyau"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "abin hadaya na ni'ima"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "na dāuwamāmu"
+    },
+    {
+      "surface": "מחציתה",
+      "gloss": "rabin sa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "safe"
+    },
+    {
+      "surface": "ומחציתה",
+      "gloss": "rabin sa kuma"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "maraice"
+    }
+  ],
+  "timestamp": "2026-08-12T01:54:57.889295699Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma ⟨את⟩ gidajen Yerushalaim kuka ƙidaya, kuka lalata ⟨את⟩ gidajen don ƙarfafa ganuwar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gidajen"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "gidajen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "kuka ƙidaya"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "kuka lalata"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "gidajen"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "don ƙarfafa"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ganuwar"
+    }
+  ],
+  "timestamp": "2026-08-12T13:27:10.918431815Z",
+  "model": "glm-5.2"
+}

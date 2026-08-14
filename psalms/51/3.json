@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 51,
+  "translation": "Ka nuna mini alheri, yā Elohim, a cikin chesed ⟨naka⟩; a cewar yawan raḥame ⟨naka⟩ ka goge laifuffafana.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ka nuna mini alheri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "a cikin chesed ⟨naka⟩"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "a cewar yawan"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "raḥame ⟨naka⟩"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "ka goge"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "laifuffafana"
+    }
+  ],
+  "timestamp": "2026-08-12T19:53:16.448332076Z",
+  "model": "glm-5.2"
+}

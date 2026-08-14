@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Sai na yi ⟨את⟩ Ya'azanya ɗan Yirmeyahu ɗan Habatsanya, da ⟨את⟩ 'yan'uwansa, da ⟨את⟩ dukkan 'ya'yansa, da ⟨את⟩ dukkan gidan ⟨ha⟩Rekabawa ⟨na kai su⟩.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Sai na yi ⟨na kai su⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ya'azanya"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "Ya'azanya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "Habatsanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ da",
+      "marks": "'yan'uwansa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "'yan'uwansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ da",
+      "marks": "dukkan 'ya'yansa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "'ya'yansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ da",
+      "marks": "dukkan gidan Rekabawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "⟨ha⟩Rekabawa"
+    }
+  ],
+  "timestamp": "2026-08-12T16:09:11.063518569Z",
+  "model": "glm-5.2"
+}

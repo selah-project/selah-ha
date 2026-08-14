@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma yanzu zan bayyana ⟨את⟩ rashinta a gaban masoyanta, kuma wani mutum ba zai tsiratar da ita daga hannuna ba.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kuma yanzu"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "zan bayyana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rashinta"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "rashinta"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "masoyanta"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kuma wani mutum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "zai tsiratar da ita"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "daga hannuna"
+    }
+  ],
+  "timestamp": "2026-08-12T18:10:59.394640833Z",
+  "model": "glm-5.2"
+}

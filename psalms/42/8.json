@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Tehom yana kiran Tehom maimakon, ga muryar magudanan ruwanka; duk rugujewanku da gizogizanka sun wuce gare ni.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Tehom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maimakon"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "Tehom"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "yana kiran"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ga muryar"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "magudanan ruwanka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "rugujewanku"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "da gizogizanka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "sun wuce"
+    }
+  ],
+  "timestamp": "2026-08-12T19:42:36.586428069Z",
+  "model": "glm-5.2"
+}

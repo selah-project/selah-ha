@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 24:16",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Ya ɗan adam, ga ni ina ɗaukar ⟨daga⟩ wajinka ⟨את⟩ abin da idanunka suka so ta bugun jini, amma kada ki yi makoki, kuma kada ki yi kuka, kuma hawaye ki kada su ringa fado.",
+  "tokens": [
+    {
+      "surface": "בֶּן",
+      "gloss": "ya ɗan"
+    },
+    {
+      "surface": "אָדָ֕ם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "הִנְנִ֨י",
+      "gloss": "ga ni"
+    },
+    {
+      "surface": "לֹקֵ֧חַ",
+      "gloss": "ina ɗaukar"
+    },
+    {
+      "surface": "מִמְּךָ֛",
+      "gloss": "wajinka"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "abin da idanunka suka so"
+    },
+    {
+      "surface": "מַחְמַ֥ד",
+      "gloss": "abin da...so"
+    },
+    {
+      "surface": "עֵינֶ֖יךָ",
+      "gloss": "idanunka"
+    },
+    {
+      "surface": "בְּמַגֵּפָ֑ה",
+      "gloss": "ta bugun jini"
+    },
+    {
+      "surface": "וְלֹ֤א",
+      "gloss": "amma kada ki"
+    },
+    {
+      "surface": "תִסְפֹּד֙",
+      "gloss": "yi makoki"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "kuma kada ki"
+    },
+    {
+      "surface": "תִבְכֶּ֔ה",
+      "gloss": "yi kuka"
+    },
+    {
+      "surface": "וְל֥וֹא",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תָב֖וֹא",
+      "gloss": "su ringa fado"
+    },
+    {
+      "surface": "דִּמְעָתֶֽךָ",
+      "gloss": "hawaye ki"
+    }
+  ],
+  "timestamp": "2026-08-12T17:28:02.511169465Z",
+  "model": "glm-5.2"
+}

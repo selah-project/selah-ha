@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 20:14",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma Avimelekh ya ɗauki garken tumaki da shanu da bayi da kuyangi, ya ba Avraham, ya mayar masa da ⟨את⟩ Sarai matarsa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kuma ya ɗauki"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "garken tumaki"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "da shanu"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "da bayi"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "da kuyangi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ya mayar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarai"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "matarsa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:41:17.439626690Z",
+  "model": "glm-5.2"
+}

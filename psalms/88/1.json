@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 88,
+  "translation": "Waƙa, waƙar kiɗa ga ɗiyen Korach, ga ⟨maɓiyin⟩ waƙa, akan Machalath Leannoth. Maskil ga Heman ɗan Ezrači.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Waƙa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "waƙar kiɗa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ga ɗiyen"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "ga ⟨maɓiyin⟩ waƙa"
+    },
+    {
+      "surface": "על",
+      "gloss": "akan"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalath"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "Leannoth"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "ga Heman"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "ɗan Ezrači"
+    }
+  ],
+  "timestamp": "2026-08-12T20:18:27.634174219Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Waɗannan ɗiyar Kham, a cikin ƙabilunsu, a cikin harsunansu, a cikin ƙasashensu, a cikin al'ummominsu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Waɗannan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyar"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "a cikin ƙabilunsu"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "a cikin harsunansu"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "a cikin ƙasashensu"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "a cikin al'ummominsu"
+    }
+  ],
+  "timestamp": "2026-08-13T01:44:26.761166409Z",
+  "model": "glm-5.2"
+}

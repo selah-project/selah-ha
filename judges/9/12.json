@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Sai itãwan suka ce wa inabar inabi, 'Ka tahi, kai, ka riƙe mulki a kan mu.'",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Suka ce"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "itãwan"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "wa inabar inabi"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Ka tahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "ke",
+      "marks": "kai"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "ka riƙe mulki"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "a kan mu"
+    }
+  ],
+  "timestamp": "2026-08-14T00:02:34.042548645Z",
+  "model": "glm-5.2"
+}

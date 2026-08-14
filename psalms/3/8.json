@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Tashi, Yahweh! Cece ni, Elohim na! Domin ka duka ⟨את⟩ dukkan maƙiyana ⟨a⟩ gashi; haƙoran masu rashin adalci ka kaƙashe.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tashi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "Cece ni"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ka duka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗukkan maƙiyana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ɗukkan"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "maƙiyana"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "⟨a⟩ gashi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "haƙoran"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "masu rashin adalci"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "ka kaƙashe"
+    }
+  ],
+  "timestamp": "2026-08-12T19:16:55.221605534Z",
+  "model": "glm-5.2"
+}

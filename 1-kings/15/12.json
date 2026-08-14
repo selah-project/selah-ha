@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma ya kori ɗakunan karuwai daga ƙasar, kuma ya cire ⟨את⟩ duka gumakan karya da ubanninsa suka yi.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Kuma ya kori"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ɗakunan karuwai"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "kuma ya cire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka gumakan karya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "gumakan karya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ubanninsa"
+    }
+  ],
+  "timestamp": "2026-08-12T11:29:00.784647409Z",
+  "model": "glm-5.2"
+}

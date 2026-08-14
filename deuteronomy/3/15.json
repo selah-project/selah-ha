@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ga Makhir na ba ⟨את⟩ Gileʿad.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "Kuma ga Makhir"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "na ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gileʿad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileʿad"
+    }
+  ],
+  "timestamp": "2026-08-12T04:56:01.749716811Z",
+  "model": "glm-5.2"
+}

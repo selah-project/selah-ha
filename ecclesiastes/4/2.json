@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma na yaba, ni, ⟨את⟩ matattan da suka rigaya sun mutu, fiye da masu rai, waɗanda suke rai har yanzu.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "Kuma na yaba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matattan"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "matattan"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "da suka rigaya"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "suna mutu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fiye da"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "masu rai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "המה",
+      "gloss": "su"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "suke rai"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "har yanzu"
+    }
+  ],
+  "timestamp": "2026-08-12T22:43:49.907978236Z",
+  "model": "glm-5.2"
+}

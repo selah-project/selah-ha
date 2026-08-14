@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 145,
+  "translation": "Sha'awar waɗanda suke girmamaSa za Yi, kuma ⟨את⟩ ƙurarSu zai Ji, kuma zai Tsire su.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "sha'awar"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "waɗanda suke girmamaSa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "za Yi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ƙurarSu"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "ƙurarSu"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "zai Ji"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "kuma zai Tsire su"
+    }
+  ],
+  "timestamp": "2026-08-12T20:58:30.062167935Z",
+  "model": "glm-5.2"
+}

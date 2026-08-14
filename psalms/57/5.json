@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 57,
+  "translation": "Rai-na yana cikin zakiya, ina kwance a tsakanin wadanda ke cin wuta, 'ya'yan adam, wadanda hakora-su mashi ne da kibiyoyi, kuma harshen-su takobi mai kaifi.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "rai-na"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "zakiya"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ina kwance"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "wadanda ke cin wuta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "hakora-su"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "mashi"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "da kibiyoyi"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "kuma harshen-su"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "takobi"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "mai kaifi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:52:19.790238892Z",
+  "model": "glm-5.2"
+}

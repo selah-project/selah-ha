@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 148,
+  "translation": "Yabo ga Yah! Ku yabo ⟨את⟩ Yahweh daga sama, ku yabo ⟨Shi⟩ cikin masu tsayi.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ku yabo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ku yabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ku yabo Shi"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "cikin masu tsayi"
+    }
+  ],
+  "timestamp": "2026-08-12T21:00:00.671205064Z",
+  "model": "glm-5.2"
+}

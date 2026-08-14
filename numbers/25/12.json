@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "\"Saboda haka ka ce: 'Ga ni ina bayar da shi ⟨ga⟩ shi ⟨את⟩ alkawarina, alheri.'\"",
+  "tokens": [
+    {
+      "surface": "לָכֵ֖ן",
+      "gloss": "Saboda haka"
+    },
+    {
+      "surface": "אֱמֹ֑ר",
+      "gloss": "ka ce"
+    },
+    {
+      "surface": "הִנְנִ֨י",
+      "gloss": "Ga ni"
+    },
+    {
+      "surface": "נֹתֵ֥ן",
+      "gloss": "ina bayar da shi"
+    },
+    {
+      "surface": "ל֛וֹ",
+      "gloss": "⟨ga⟩ shi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "alkawarina"
+    },
+    {
+      "surface": "בְּרִיתִ֖י",
+      "gloss": "alkawarina"
+    },
+    {
+      "surface": "שָׁלֽוֹם",
+      "gloss": "alheri"
+    }
+  ],
+  "timestamp": "2026-08-13T01:52:44.232150339Z",
+  "model": "glm-5.2"
+}

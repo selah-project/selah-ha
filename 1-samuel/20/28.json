@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 20:28",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma Yehonatan ya amsa ⟨את⟩ Sha'ul: 'Dawudi ya neme ni da yawa ⟨yaɓa⟩ zuwa Bet-Lechem.'",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "kuma ya amsa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha'ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "ya neme"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawudi"
+    },
+    {
+      "surface": "מעמדי",
+      "gloss": "⟨yaɓa⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-08-12T09:17:37.713965177Z",
+  "model": "glm-5.2"
+}

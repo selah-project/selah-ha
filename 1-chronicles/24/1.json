@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma ga sassa na ʼyaʼyan ʼAharon: ʼyaʼyan ʼAharon ⟨su⟩ Nadav da ʼAvihu, ʼElʽazar da ʼItamar.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Kuma ga ʼyaʼyan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ʼAharon"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "sassa na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ʼyaʼyan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ʼAharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "da ʼAvihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ʼElʽazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "da ʼItamar"
+    }
+  ],
+  "timestamp": "2026-08-13T00:28:00.259564024Z",
+  "model": "glm-5.2"
+}

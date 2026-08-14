@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Sai ⟨ta⟩ ga cowa ⟨ta⟩ na ƙudurin tafiya ⟨tare⟩ da ita, sai ta daina magana ⟨da⟩ ita.",
+  "tokens": [
+    {
+      "surface": "וַתֵּ֕רֶא",
+      "gloss": "sai ⟨ta⟩ ga"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "cowa"
+    },
+    {
+      "surface": "מִתְאַמֶּ֥צֶת",
+      "gloss": "ta na ƙudurin"
+    },
+    {
+      "surface": "הִ֖יא",
+      "gloss": "⟨ta⟩"
+    },
+    {
+      "surface": "לָלֶ֣כֶת",
+      "gloss": "tafiya"
+    },
+    {
+      "surface": "אִתָּ֑הּ",
+      "gloss": "⟨את⟩ tare da ita",
+      "marks": "tare da ita"
+    },
+    {
+      "surface": "וַתֶּחְדַּ֖ל",
+      "gloss": "sai ta daina"
+    },
+    {
+      "surface": "לְדַבֵּ֥ר",
+      "gloss": "magana"
+    },
+    {
+      "surface": "אֵלֶֽיהָ",
+      "gloss": "⟨da⟩ ita"
+    }
+  ],
+  "timestamp": "2026-08-13T02:35:16.293610376Z",
+  "model": "glm-5.2"
+}

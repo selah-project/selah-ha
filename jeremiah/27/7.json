@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 27:7",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma duk mutane za su bauta masa, ⟨את⟩ ɗansa da ⟨את⟩ ɗan ɗansa, har zuwa lokacin da ya zo ⟨lokacin⟩ ƙasarsa, shi ma; kuma za su bauta a kansa mutane da yawa da sarakuna masu girma.",
+  "tokens": [
+    {
+      "surface": "וְעָבְד֤וּ",
+      "gloss": "Kuma za su bauta"
+    },
+    {
+      "surface": "אֹתוֹ֙",
+      "gloss": "⟨את⟩",
+      "marks": "masa"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "הַגּוֹיִ֔ם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ɗansa"
+    },
+    {
+      "surface": "בְּנ֖וֹ",
+      "gloss": "ɗansa"
+    },
+    {
+      "surface": "וְאֶֽת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ɗan ɗansa"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "בְּנ֑וֹ",
+      "gloss": "ɗansa"
+    },
+    {
+      "surface": "עַ֣ד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "בֹּא",
+      "gloss": "ya zo"
+    },
+    {
+      "surface": "עֵ֤ת",
+      "gloss": "lokacin"
+    },
+    {
+      "surface": "אַרְצוֹ֙",
+      "gloss": "ƙasarsa"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "shi ma"
+    },
+    {
+      "surface": "ה֔וּא",
+      "gloss": "⟨shi⟩"
+    },
+    {
+      "surface": "וְעָ֤בְדוּ",
+      "gloss": "kuma za su bauta"
+    },
+    {
+      "surface": "בוֹ֙",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "גוֹיִ֣ם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "רַבִּ֔ים",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "וּמְלָכִ֖ים",
+      "gloss": "da sarakuna"
+    },
+    {
+      "surface": "גְּדֹלִֽים",
+      "gloss": "masu girma"
+    }
+  ],
+  "timestamp": "2026-08-12T15:49:53.865660201Z",
+  "model": "glm-5.2"
+}

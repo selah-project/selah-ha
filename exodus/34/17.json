@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Elohin ⟨na⟩ abin-gwangwani ba za ka yi ⟨a⟩ kanku ba.",
+  "tokens": [
+    {
+      "surface": "אֱלֹהֵ֥י",
+      "gloss": "Elohin"
+    },
+    {
+      "surface": "מַסֵּכָ֖ה",
+      "gloss": "abin-gwangwani"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תַעֲשֶׂה",
+      "gloss": "za ka yi"
+    },
+    {
+      "surface": "לָּֽךְ",
+      "gloss": "kanku"
+    }
+  ],
+  "timestamp": "2026-08-12T01:21:44.664609870Z",
+  "model": "glm-5.2"
+}

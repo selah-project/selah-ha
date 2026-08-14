@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 74,
+  "translation": "Kada ka manta da muryar maƙiyanka, gāwayen waɗanda suke tashi a kan ka suna hawa ba tare da tsayawa ba.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ka manta da"
+    },
+    {
+      "surface": "קול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "maƙiyanka"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "gāwayen"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "waɗanda suke tashi a kan ka"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "suna hawa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ba tare da tsayawa ba"
+    }
+  ],
+  "timestamp": "2026-08-12T20:04:23.760304517Z",
+  "model": "glm-5.2"
+}

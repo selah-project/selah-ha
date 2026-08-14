@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 97,
+  "translation": "Yahweh ya mulki, ⟨ta⟩ yi murna ⟨ce⟩ ƙasa, tsibirai da yawa suka yi murna.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya mulki"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "⟨ta⟩ yi murna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ce⟩ ƙasa"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "suka yi murna"
+    },
+    {
+      "surface": "איים",
+      "gloss": "tsibirai"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "da yawa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:23:41.195661878Z",
+  "model": "glm-5.2"
+}

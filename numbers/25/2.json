@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 25:2",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma sunã kira sunã gayyatar mutãne zuwa hadayu na gumakansu; kuma mutãne suka ci, kuma suka lallashe suka bauta wa gumakansu.",
+  "tokens": [
+    {
+      "surface": "ותקראן",
+      "gloss": "kuma sunã kira sunã gayyatar"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "zuwa mutãne"
+    },
+    {
+      "surface": "לזבחי",
+      "gloss": "zuwa hadayu"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "na gumakansu"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "kuma suka ci"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãne"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "kuma suka lallashe suka bauta"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "wa gumakansu"
+    }
+  ],
+  "timestamp": "2026-08-12T04:24:29.973567700Z",
+  "model": "glm-5.2"
+}

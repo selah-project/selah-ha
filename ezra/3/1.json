@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Sa'an nan kuma ⟨da⟩ wata na bakwai ya iso, kuma ɗiyān Yisra'el ⟨suna⟩ a cikin birāne, sai mutānen suka taru kamar mutum ɗaya zuwa Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "ya iso"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "wata"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "na bakwai"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "kuma ɗiyān"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "a cikin birāne"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "sai suka taru"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutānen"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "kamar mutum"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-12T23:26:16.129049847Z",
+  "model": "glm-5.2"
+}

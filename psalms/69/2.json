@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Tsĩra ni, Elohim, dõmin ruwa ya shigo har zuwa rãyar ꞌrãʼa.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Tsĩra ni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ya shigo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rayar ꞌrãʼa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:00:18.106643411Z",
+  "model": "glm-5.2"
+}

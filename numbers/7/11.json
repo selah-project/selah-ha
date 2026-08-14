@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma Yahweh ya faɗa wa Moshe: „Wani shugaba ⟨ne⟩ a rana guda, shugaba ɗaya a rana guda, su kusantar da ⟨את⟩ hadayarsu domin sadaukarwar altarin.‟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "shugaba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "shugaba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "su kusantar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadayarsu"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "hadayarsu"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "domin sadaukarwar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarin"
+    }
+  ],
+  "timestamp": "2026-08-12T03:34:27.011785490Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma zan shuka ta ⟨ga⟩ ni a ƙasa, kuma zan nuna wa ⟨את⟩ Lo-Ruhamah rahama, kuma zan faɗa wa Lo-Ammi: Ƙasãna kai ne, kuma shi zai faɗi: Elohim na kai ne.",
+  "tokens": [
+    {
+      "surface": "וּזְרַעְתִּיהָ",
+      "gloss": "Kuma zan shuka ta"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "⟨ga⟩ ni"
+    },
+    {
+      "surface": "בָּאָרֶץ",
+      "gloss": "a ƙasa"
+    },
+    {
+      "surface": "וְרִחַמְתִּי",
+      "gloss": "kuma zan nuna wa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamah"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רֻחָמָה",
+      "gloss": "Ruhamah"
+    },
+    {
+      "surface": "וְאָמַרְתִּי",
+      "gloss": "kuma zan faɗa wa"
+    },
+    {
+      "surface": "לְלֹא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "עַמִּי",
+      "gloss": "Ammi"
+    },
+    {
+      "surface": "עַמִּי",
+      "gloss": "Ƙasãna"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "kai ne"
+    },
+    {
+      "surface": "וְהוּא",
+      "gloss": "kuma shi"
+    },
+    {
+      "surface": "יֹאמַר",
+      "gloss": "zai faɗi"
+    },
+    {
+      "surface": "אֱלֹהָי",
+      "gloss": "Elohim na kai ne"
+    }
+  ],
+  "timestamp": "2026-08-13T23:44:56.051240868Z",
+  "model": "glm-5.2"
+}

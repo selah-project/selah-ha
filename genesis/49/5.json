@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Shimeʻon da Lewi ʼanʼuwa ne; kayan tashin hankali su ne takubansu.",
+  "tokens": [
+    {
+      "surface": "שִׁמְע֥וֹן",
+      "gloss": "Shimeʻon"
+    },
+    {
+      "surface": "וְלֵוִ֖י",
+      "gloss": "da Lewi"
+    },
+    {
+      "surface": "אַחִ֑ים",
+      "gloss": "ʼanʼuwa"
+    },
+    {
+      "surface": "כְּלֵ֥י",
+      "gloss": "kayan"
+    },
+    {
+      "surface": "חָמָ֖ס",
+      "gloss": "tashin hankali"
+    },
+    {
+      "surface": "מְכֵרֹתֵיהֶֽם",
+      "gloss": "takubansu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:26:29.311816810Z",
+  "model": "glm-5.2"
+}

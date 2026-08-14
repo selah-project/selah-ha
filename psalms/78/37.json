@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Kuma zuciyarsu ba ta yawaita ⟨ba⟩ ta daidaita tare da shi, kuma ba su yi aminci ⟨ba⟩ ga alkawarinsa.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "Kuma zuciyarsu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ta yawaita ⟨ba⟩ ta daidaita"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tare da shi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba su"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "yi aminci ⟨ba⟩"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "ga alkawarinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:09:37.146410141Z",
+  "model": "glm-5.2"
+}

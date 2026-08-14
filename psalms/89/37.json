@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 89:37",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Zuriyarsa za ta kasance har abada, kuma kursiyinsa ⟨zai kasance⟩ kamar rana a gaban ni.",
+  "tokens": [
+    {
+      "surface": "זרעו",
+      "gloss": "zuriyarsa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "za ta kasance"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "kuma kursiyinsa"
+    },
+    {
+      "surface": "כשמש",
+      "gloss": "kamar rana"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "a gaban ni"
+    }
+  ],
+  "timestamp": "2026-08-12T20:15:46.723214847Z",
+  "model": "glm-5.2"
+}

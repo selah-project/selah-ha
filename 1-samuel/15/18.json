@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma Yahweh ya aike ka a hanya, ya ce: Tafi, ka sadaukar da ⟨את⟩ masu zunubi ⟨את⟩ Amaleka, ka yaƙa da shi, har a kāre su ⟨את⟩ ⟨su⟩.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "Kuma ya aike ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "a hanya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tafi"
+    },
+    {
+      "surface": "ויהחרמתה",
+      "gloss": "ka sadaukar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masu zunubi"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "masu zunubi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "ka yaƙa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "da shi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "a kāre su"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨su⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T09:01:17.723503348Z",
+  "model": "glm-5.2"
+}

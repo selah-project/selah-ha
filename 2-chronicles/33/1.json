@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 33:1",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Ɗan shekara goma sha biyu Menashsheh a lokacin mulkinsa, kuma shekara hamsin da biyar ya yi mulki a Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "בֶּן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "שְׁתֵּ֥ים",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "עֶשְׂרֵ֛ה",
+      "gloss": "goma"
+    },
+    {
+      "surface": "שָׁנָ֖ה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "מְנַשֶּׁ֣ה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "בְמָלְכ֑וֹ",
+      "gloss": "a lokacin mulkinsa"
+    },
+    {
+      "surface": "וַחֲמִשִּׁ֤ים",
+      "gloss": "kuma hamsin"
+    },
+    {
+      "surface": "וְחָמֵשׁ֙",
+      "gloss": "da biyar"
+    },
+    {
+      "surface": "שָׁנָ֔ה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "מָלַ֖ךְ",
+      "gloss": "ya yi mulki"
+    },
+    {
+      "surface": "בִּירוּשָׁלִָֽם",
+      "gloss": "a Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-13T02:58:00.742554717Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Ya gina a kaina, ya kewaye ni da guba da wahala.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "ya gina"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a kaina"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "ya kewaye ni"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "da guba"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "da wahala"
+    }
+  ],
+  "timestamp": "2026-08-12T22:32:34.518287921Z",
+  "model": "glm-5.2"
+}

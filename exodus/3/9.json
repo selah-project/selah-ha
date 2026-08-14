@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma yanzu, ga, ƙurar ɗa'Ya'yan Yisra'el tana zuwa gare Ni, kuma Na kuma ga ⟨את⟩} damuwar da Mitsrayim ke damuwa ⟨את⟩ su.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kuma yanzu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "ƙura"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗa'Ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "באה",
+      "gloss": "tana zuwa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gare Ni"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Na ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "damuwa"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "damuwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "ke damuwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    }
+  ],
+  "timestamp": "2026-08-12T00:33:58.528944174Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 137,
+  "translation": "Ta yaya za mu rera ⟨את⟩ waƙar Yahweh, a kan ƙasa ta waje?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Ta yaya"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "za mu rera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waƙar"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "waƙar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ta waje"
+    }
+  ],
+  "timestamp": "2026-08-12T20:56:06.167275154Z",
+  "model": "glm-5.2"
+}

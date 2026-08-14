@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 5:1",
+  "book": "song-of-songs",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Na zo lambuna, 'uwata, amarya: na cire murina tare da ganyen watanina, na ci zanin linadina tare da zanina, na sha giyata tare da madarata; ku ci, ku sha, ⟨kuma⟩ ku shiga sanyi, masu soyayya.",
+  "tokens": [
+    {
+      "surface": "באתי",
+      "gloss": "na zo"
+    },
+    {
+      "surface": "לגני",
+      "gloss": "lambuna"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "'uwata"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "amarya"
+    },
+    {
+      "surface": "אריתי",
+      "gloss": "na cire"
+    },
+    {
+      "surface": "מורי",
+      "gloss": "murina"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ganyen watanina"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "na ci"
+    },
+    {
+      "surface": "יערי",
+      "gloss": "zanin linadina"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "דבשי",
+      "gloss": "zanina"
+    },
+    {
+      "surface": "שתיתי",
+      "gloss": "na sha"
+    },
+    {
+      "surface": "ייני",
+      "gloss": "giyata"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "חלבי",
+      "gloss": "madarata"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ku ci"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ku sha"
+    },
+    {
+      "surface": "ושכרו",
+      "gloss": "kuma ku shiga sanyi"
+    },
+    {
+      "surface": "דודים",
+      "gloss": "masu soyayya"
+    }
+  ],
+  "timestamp": "2026-08-12T22:24:34.801248595Z",
+  "model": "glm-5.2"
+}

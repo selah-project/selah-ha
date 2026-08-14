@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Ba na zauna tare da mutanen ƙarya, kuma tare da masu ɓoye ba zan shiga.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "na zauna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ƙarya"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kuma tare da"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "masu ɓoye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "zan shiga"
+    }
+  ],
+  "timestamp": "2026-08-12T19:32:03.188432941Z",
+  "model": "glm-5.2"
+}

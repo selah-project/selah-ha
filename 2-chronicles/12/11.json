@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 12:11",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma ⟨ya kasance⟩ a duk lokacin da sarki ya shiga gidan Yahweh, masu gadi sun shigo, suna ɗauke su, kuma suna mayar da su zuwa dakin masu gadi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨ya kasance⟩"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "a duk lokacin da"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ya shiga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sun shigo"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "masu gadi"
+    },
+    {
+      "surface": "ונשאום",
+      "gloss": "suna ɗauke su"
+    },
+    {
+      "surface": "והשבום",
+      "gloss": "kuma suna mayar da su"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "תא",
+      "gloss": "dakin"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "masu gadi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:46:08.380214608Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Amma ya bar ⟨את⟩ shawarar dattijon da suka ba shi, kuma ya yi shawara da ⟨את⟩ yaran da suka girma ⟨את⟩ ⟨tare⟩ ⟨da⟩ ⟨sh⟩, masu tsayawa a gaban sa.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Amma ya bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shawarar dattijon"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "shawarar"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "dattijon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "suka ba shi"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "kuma ya yi shawara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaran"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "yaran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "suka girma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨tare⟩ ⟨da⟩ ⟨sh⟩"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "masu tsayawa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "a gaban sa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:44:41.022070109Z",
+  "model": "glm-5.2"
+}

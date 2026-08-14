@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 77,
+  "translation": "Shin El ya manta binḍiga? Ko a cikin fushi ya rufe rahamansa? Selah.",
+  "tokens": [
+    {
+      "surface": "הֲשָׁכַ֣ח",
+      "gloss": "Shin ya manta"
+    },
+    {
+      "surface": "חַנּ֣וֹת",
+      "gloss": "binḍiga"
+    },
+    {
+      "surface": "אֵ֑ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "קָפַ֥ץ",
+      "gloss": "ya rufe"
+    },
+    {
+      "surface": "בְּ֝אַ֗ף",
+      "gloss": "a cikin fushi"
+    },
+    {
+      "surface": "רַחֲמָ֥יו",
+      "gloss": "rahamansa"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T20:05:49.264580411Z",
+  "model": "glm-5.2"
+}

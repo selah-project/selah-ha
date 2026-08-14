@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Ka umurci ⟨את⟩ ƴan Isra'il, su kawo maka man zaitun tsafi, an daka shi, don hasken, don kawo ⟨har⟩ fitila ta ci gaba da kona:",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Ka umurci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴan Isra'il"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'il"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "su kawo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "man"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zaitun"
+    },
+    {
+      "surface": "זך",
+      "gloss": "tsafi"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "an daka shi"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "don hasken"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "don kawo"
+    },
+    {
+      "surface": "נר",
+      "gloss": "fitila"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ta ci gaba da kona"
+    }
+  ],
+  "timestamp": "2026-08-12T02:52:23.855741192Z",
+  "model": "glm-5.2"
+}

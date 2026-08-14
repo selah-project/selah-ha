@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 124,
+  "translation": "Waƙar hawa, na Dawuda. Lällãi ba Yahweh ⟨ya⟩ kasance a gare mu ba, ⟨ya⟩ ce yanzu, ga Isra'ila,",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Waƙar"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na Dawuda"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "Lällãi ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "⟨ya⟩ kasance"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a gare mu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "⟨ya⟩ ce"
+    },
+    {
+      "surface": "נא",
+      "gloss": "yanzu, ga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T20:48:55.924433600Z",
+  "model": "glm-5.2"
+}

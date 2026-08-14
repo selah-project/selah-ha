@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 13:5",
+  "book": "zechariah",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma ⟨za⟩ faɗa, \"Ba annabi ne ⟨nake⟩; mutum ne mai aiki ⟨da⟩ ƙasa ⟨nake⟩, domin wani mutum ya saya ni tun kuruciyata.\"",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "kuma ⟨za⟩ faɗa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "annabi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ne ⟨nake⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mai aiki"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "⟨da⟩ ƙasa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨nake⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wani mutum"
+    },
+    {
+      "surface": "הקנני",
+      "gloss": "ya saya ni"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "tun kuruciyata"
+    }
+  ],
+  "timestamp": "2026-08-12T19:06:30.462573476Z",
+  "model": "glm-5.2"
+}

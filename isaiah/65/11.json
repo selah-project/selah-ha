@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 65,
+  "translation": "Kuma kū kuwa masu barin Yahweh, masu manta da ⟨את⟩ dutsena mai tsarki, masu shirya tebur ga Gad, kuma masu cika wa Meni abin sha na gauraya:",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "kuma kū kuwa"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "masu barin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "masu manta da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dūtаNa mai tsarki"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dutsena"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mai tsarki"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "masu shirya"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "ga Gad"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tebur"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "kuma masu cika wa"
+    },
+    {
+      "surface": "למני",
+      "gloss": "Meni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "abin sha na gauraya"
+    }
+  ],
+  "timestamp": "2026-08-12T14:46:42.560133396Z",
+  "model": "glm-5.2"
+}

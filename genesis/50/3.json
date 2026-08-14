@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 50:3",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "Suka cika masa kwana arba'in, domin haka ake cika kwanakin waɗanda aka shafa fitsarin waji, kuma Mitsrayim suka yi masa kuka kwana saba'in.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "suka cika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "kwana arba'in"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "ake cika"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "החנטים",
+      "gloss": "waɗanda aka shafa fitsarin waji"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "kuma suka yi kuka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "kwana saba'in"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kwana"
+    }
+  ],
+  "timestamp": "2026-08-13T01:45:07.560274883Z",
+  "model": "glm-5.2"
+}

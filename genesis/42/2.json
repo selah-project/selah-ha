@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 42:2",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Kuma ya ce, \"Ga shi, na ji cewa akwai hatimi a Mitsrayim. Ku sauko can, ku saya mana daga can, mu rayu, mu kuma karimu mutu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "na ji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "akwai"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "hatimi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "a Mitsrayim"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "ku sauko"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "can"
+    },
+    {
+      "surface": "ושברו",
+      "gloss": "ku saya"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mana"
+    },
+    {
+      "surface": "משם",
+      "gloss": "daga can"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "mu rayu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mu kuma kari"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "mutu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:16:40.548807932Z",
+  "model": "glm-5.2"
+}

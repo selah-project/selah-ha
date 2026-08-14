@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Ya aiko mutum a gaban ⟨su⟩; Yosef, ana sayar da shi ⟨a matsayin⟩ bawa.",
+  "tokens": [
+    {
+      "surface": "שָׁלַ֣ח",
+      "gloss": "Ya aiko"
+    },
+    {
+      "surface": "לִפְנֵיהֶ֣ם",
+      "gloss": "a gaban ⟨su⟩"
+    },
+    {
+      "surface": "אִ֑ישׁ",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "לְעֶ֗בֶד",
+      "gloss": "⟨a matsayin⟩ bawa"
+    },
+    {
+      "surface": "נִמְכַּ֥ר",
+      "gloss": "ana sayar da shi"
+    },
+    {
+      "surface": "יוֹסֵֽף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-08-12T20:30:25.425605422Z",
+  "model": "glm-5.2"
+}

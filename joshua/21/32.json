@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 21:32",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma daga kabilar ⟨ne⟩ Naphtali ⟨an ba⟩ ⟨את⟩ birni ⟨na⟩ mafaka ga ⟨mai⟩ kashin ⟨jini⟩: ⟨את⟩ Kedesh a Galili da ⟨את⟩ mahaɗanta, da ⟨את⟩ Chamot-Dor da ⟨את⟩ mahaɗanta, da ⟨את⟩ Kartan da ⟨את⟩ mahaɗanta — birane uku.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Kuma daga kabilar"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naphtali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birni na mafaka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "birni"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "na mafaka"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ga kashin jini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesh a Galili"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "a Galili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "mahaɗanta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mahaɗanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Chamot-Dor"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamot"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "-Dor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "mahaɗanta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mahaɗanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Kartan"
+    },
+    {
+      "surface": "קרתן",
+      "gloss": "Kartan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "mahaɗanta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mahaɗanta"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "birane"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "uku"
+    }
+  ],
+  "timestamp": "2026-08-12T06:59:30.900258447Z",
+  "model": "glm-5.2"
+}

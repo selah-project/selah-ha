@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kalmomin masu hikima ana saurarar su cikin shiru, ⟨suno⟩ da kurumyar ⟨ce⟩ ta wanda ke mulkãwa a cikin wãyi.",
+  "tokens": [
+    {
+      "surface": "דִּבְרֵ֣י",
+      "gloss": "Kalmomin"
+    },
+    {
+      "surface": "חֲכָמִ֔ים",
+      "gloss": "masu hikima"
+    },
+    {
+      "surface": "בְּנַ֖חַת",
+      "gloss": "cikin shiru"
+    },
+    {
+      "surface": "נִשְׁמָעִ֑ים",
+      "gloss": "ana saurarar su"
+    },
+    {
+      "surface": "מִזַּעֲקַ֥ת",
+      "gloss": "⟨suno⟩ da kurumyar"
+    },
+    {
+      "surface": "מוֹשֵׁ֖ל",
+      "gloss": "ta wanda ke mulkãwa"
+    },
+    {
+      "surface": "בַּכְּסִילִֽים",
+      "gloss": "a cikin wãyi"
+    }
+  ],
+  "timestamp": "2026-08-12T22:44:26.941518107Z",
+  "model": "glm-5.2"
+}

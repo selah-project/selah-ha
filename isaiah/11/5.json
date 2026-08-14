@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma adalci zai zama belin guje-gujensa, kuma aminci belin ƙwanton sa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kuma zai zama"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adalci"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "belin"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "guje-gujensa"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "kuma aminci"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "belin"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "ƙwanton sa"
+    }
+  ],
+  "timestamp": "2026-08-12T13:17:25.377571595Z",
+  "model": "glm-5.2"
+}

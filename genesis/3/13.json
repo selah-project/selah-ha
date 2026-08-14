@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma Yahweh Elohim ya ce wa ⟨ta⟩ mace, \"Mê wannan kaɗan ne ka aikata?\" Kuma ⟨ta⟩ mace ta ce, \"Macijin ya yi min yaudara, sai na ci.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "wa ⟨ta⟩ mace"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mê"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ka aikata"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Kuma ⟨ta⟩ ta ce"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "⟨ta⟩ mace"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "Macijin"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "ya yi min yaudara"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "sai na ci"
+    }
+  ],
+  "timestamp": "2026-08-11T23:22:18.147095114Z",
+  "model": "glm-5.2"
+}

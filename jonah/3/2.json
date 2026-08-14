@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Tashi, ka je Ninewa, ⟨itin⟩ babbar birni, ka yi mata ⟨את⟩ kiran da nake faɗa maka.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Tashi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka je"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninewa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨itin⟩ birni"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "babba"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "ka yi kira"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "mata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiran"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "kiran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ake faɗa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:21:01.537028836Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 83,
+  "translation": "Gebal da Ammon da Amalek, Peleshet tare da mazauna Tzur.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gebal"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "da Ammon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "da Amalek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mazauna"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tzur"
+    }
+  ],
+  "timestamp": "2026-08-12T20:11:53.476577950Z",
+  "model": "glm-5.2"
+}

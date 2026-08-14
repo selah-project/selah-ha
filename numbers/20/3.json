@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 20:3",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma mutanen suka yi husuma da Mosheh, suka faɗa cewa: \"Da ma mu mutu a lokacin mutuwar 'yan'uwammu a gaban Yahweh!\"",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "Kuma suka yi husuma"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "da"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "suka faɗa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "Da ma"
+    },
+    {
+      "surface": "גוענו",
+      "gloss": "mu mutu"
+    },
+    {
+      "surface": "בגוע",
+      "gloss": "a lokacin mutuwar"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "'yan'uwammu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T04:16:54.528066289Z",
+  "model": "glm-5.2"
+}

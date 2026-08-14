@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Ka sanya shi ya yi mulki a cikin ayyukan hannuwanka, duka ka sanya a ƙarƙashin ƙafafunsa.",
+  "tokens": [
+    {
+      "surface": "תַּ֭מְשִׁילֵהוּ",
+      "gloss": "Ka sanya shi ya yi mulki"
+    },
+    {
+      "surface": "בְּמַעֲשֵׂ֣י",
+      "gloss": "a cikin ayyukan"
+    },
+    {
+      "surface": "יָדֶ֑יךָ",
+      "gloss": "hannuwanka"
+    },
+    {
+      "surface": "כֹּ֝ל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "שַׁ֣תָּה",
+      "gloss": "ka sanya"
+    },
+    {
+      "surface": "תַֽחַת",
+      "gloss": "a ƙarƙashin"
+    },
+    {
+      "surface": "רַגְלָֽיו",
+      "gloss": "ƙafafunsa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:17:59.939607654Z",
+  "model": "glm-5.2"
+}

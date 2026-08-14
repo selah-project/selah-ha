@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Suka ga 'ya'yan ⟨Elohim⟩ ⟨את⟩ 'ya'yan mutane cewa suna kyawawa, suka riƙo ⟨a kansu⟩ mata daga duka waɗanda suka zaɓa.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "suka ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨Elohim⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'ya'yan mutane"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "suna kyawawa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "suna"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "suka riƙo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨a kansu⟩"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mata"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "daga duka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "suka zaɓa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:28:28.715012858Z",
+  "model": "glm-5.2"
+}

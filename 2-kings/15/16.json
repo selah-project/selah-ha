@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 15:16",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "A lokacin nan Menachem ya yi wa ⟨את⟩ Tifsah duka, da ⟨את⟩ duka wanda ke cikinta, da ⟨את⟩ iyakokinta daga Tirtsah, domin ba su buɗe masa, ya yi masa duka, ⟨את⟩ duka mata masu ciki ya tsage.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "A lokacin nan"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ya yi wa duka"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menachem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tifsah"
+    },
+    {
+      "surface": "תפסח",
+      "gloss": "Tifsah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "duka wanda ke cikinta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ke cikinta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "iyakokinta"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "iyakokinta"
+    },
+    {
+      "surface": "מתרצה",
+      "gloss": "daga Tirtsah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "su buɗe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ya yi masa duka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka mata masu ciki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "ההרותיה",
+      "gloss": "mata masu ciki"
+    },
+    {
+      "surface": "בקע",
+      "gloss": "ya tsage"
+    }
+  ],
+  "timestamp": "2026-08-12T12:26:46.518211931Z",
+  "model": "glm-5.2"
+}

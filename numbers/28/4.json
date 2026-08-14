@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "⟨את⟩ ɗanƙazar guda ɗaya ka yi shi safe, kuma ⟨את⟩ ɗanƙazar na biyu ka yi shi tsakanin maraice.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗanƙazar guda ɗaya"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ɗanƙazar"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "guda ɗaya"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ka yi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "safe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "ɗanƙazar na biyu"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ɗanƙazar"
+    },
+    {
+      "surface": "השני",
+      "gloss": "na biyu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ka yi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "maraice"
+    }
+  ],
+  "timestamp": "2026-08-12T04:35:00.046004825Z",
+  "model": "glm-5.2"
+}

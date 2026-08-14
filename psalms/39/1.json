@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Ga shugaban kiɗa, ga Yedutun. Zabura na Dawuda.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ga shugaban kiɗa"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "ga Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zabura"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na Dawuda"
+    }
+  ],
+  "timestamp": "2026-08-12T19:42:24.583590224Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 25:7",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma adadinsu, tare da ƴan'uwansu, waɗanda aka koya wa waƙa ga Yahweh, dukkan waɗanda suka fahimci ⟨suna⟩ ɗari biyu da tamanin da takwas.",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֤י",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "מִסְפָּרָם֙",
+      "gloss": "adadinsu"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "אֲחֵיהֶ֔ם",
+      "gloss": "ƴan'uwansu"
+    },
+    {
+      "surface": "מְלֻמְּדֵי",
+      "gloss": "waɗanda aka koya wa"
+    },
+    {
+      "surface": "שִׁ֖יר",
+      "gloss": "waƙa"
+    },
+    {
+      "surface": "לַיהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הַ֨מֵּבִ֔ין",
+      "gloss": "waɗanda suka fahimta"
+    },
+    {
+      "surface": "מָאתַ֖יִם",
+      "gloss": "ɗari biyu"
+    },
+    {
+      "surface": "שְׁמוֹנִ֥ים",
+      "gloss": "tamanin"
+    },
+    {
+      "surface": "וּשְׁמוֹנָֽה",
+      "gloss": "da takwas"
+    }
+  ],
+  "timestamp": "2026-08-13T00:28:27.861817040Z",
+  "model": "glm-5.2"
+}

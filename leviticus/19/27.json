@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Ba ku faɗa gefen kan ku ba, kuma ba ku lalata ⟨את⟩ gefen gemu ⟨naka⟩ ba.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "ku faɗa"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "gefen"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "kan ku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "ku lalata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gefen gemu"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "gefen"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "gemu ⟨naka⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T02:37:08.649144249Z",
+  "model": "glm-5.2"
+}

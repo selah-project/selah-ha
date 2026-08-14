@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 65:18",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 65,
+  "translation": "Domi maimaita ku yi murna da kuma kuka da farin ciki har abada a cikin abin da nake halittawa, domi ga ni ina halittawa ⟨את⟩ Yerushalaim ⟨a matsayin⟩ farin ciki, da mutanenta ⟨a matsayin⟩ marmari.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "domi"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "maimaita"
+    },
+    {
+      "surface": "שִׂ֤ישׂוּ",
+      "gloss": "ku yi murna"
+    },
+    {
+      "surface": "וְגִ֨ילוּ֙",
+      "gloss": "da kuma ku kuka da farin ciki"
+    },
+    {
+      "surface": "עֲדֵי",
+      "gloss": "har"
+    },
+    {
+      "surface": "עַ֔ד",
+      "gloss": "abada"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "a cikin abin da"
+    },
+    {
+      "surface": "אֲנִ֣י",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בוֹרֵ֑א",
+      "gloss": "nake halittawa"
+    },
+    {
+      "surface": "כִּי֩",
+      "gloss": "domi"
+    },
+    {
+      "surface": "הִנְנִ֨י",
+      "gloss": "ga ni"
+    },
+    {
+      "surface": "בוֹרֵ֧א",
+      "gloss": "ina halittawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "יְרוּשָׁלִַ֛ם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "גִּילָ֖ה",
+      "gloss": "farin ciki"
+    },
+    {
+      "surface": "וְעַמָּ֥הּ",
+      "gloss": "da mutanenta"
+    },
+    {
+      "surface": "מָשֽׂוֹשׂ",
+      "gloss": "marmari"
+    }
+  ],
+  "timestamp": "2026-08-12T14:48:23.529905092Z",
+  "model": "glm-5.2"
+}

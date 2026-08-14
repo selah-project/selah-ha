@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma suka zauna shekaru uku, ba ⟨akwai⟩ yaki tsakanin Aram da tsakanin Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Kuma suka zauna"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "uku"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "yaki"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da tsakanin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T11:48:53.113341117Z",
+  "model": "glm-5.2"
+}

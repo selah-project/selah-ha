@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Wãne ne ⟨shi⟩, wannan Sarkin almara? Yahweh Tsaba'ot, ⟨shi⟩ ⟨ne⟩ Sarkin almara. Selah.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wãne"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Sarkin"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "almara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsaba'ot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Sarkin"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "almara"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T19:28:44.107606839Z",
+  "model": "glm-5.2"
+}

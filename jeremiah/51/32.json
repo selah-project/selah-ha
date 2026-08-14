@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 51,
+  "translation": "Kuma hanyoyin wucewa an kama su, kuma ⟨את⟩ tafkuna sun ƙone da wuta, kuma mutanen yakin sun firgita.",
+  "tokens": [
+    {
+      "surface": "והמעברות",
+      "gloss": "kuma hanyoyin wucewa"
+    },
+    {
+      "surface": "נתפשו",
+      "gloss": "an kama su"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "tafkuna"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "tafkuna"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "sun ƙone"
+    },
+    {
+      "surface": "באש",
+      "gloss": "da wuta"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "kuma mutanen"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "yakin"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "sun firgita"
+    }
+  ],
+  "timestamp": "2026-08-12T16:41:48.335012835Z",
+  "model": "glm-5.2"
+}

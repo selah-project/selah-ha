@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 140,
+  "translation": "Na sani cewa Yahweh zai yi ⟨ne⟩ shari'a ga wanda aka ciwo shari'a, da hukuncin masu talauci.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Na sani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "zai yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דין",
+      "gloss": "shari'a"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ga wanda aka ciwo shari'a"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "da hukuncin"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "masu talauci"
+    }
+  ],
+  "timestamp": "2026-08-12T20:51:54.968516440Z",
+  "model": "glm-5.2"
+}

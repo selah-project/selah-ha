@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 15:14",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Menachem ɗan Gadi ya tashi daga Tirtsah, ya zo Shomron, ya yi wa ⟨את⟩ Shallum ɗan Yavesh duka a Shomron, ya kashe shi, ya kuma mulki a madadinsa.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ya tashi"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menachem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "מתרצה",
+      "gloss": "daga Tirtsah"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ya zo"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ya yi wa duka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "a Shomron"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ya kashe shi"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ya kuma mulki"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "a madadinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:26:46.517779806Z",
+  "model": "glm-5.2"
+}

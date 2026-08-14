@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "An albarkece a cikin birni, kuma an albarkece a cikin gona.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "An albarkece"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a cikin birni"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "kuma an albarkece"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a cikin gona"
+    }
+  ],
+  "timestamp": "2026-08-12T05:44:25.081668632Z",
+  "model": "glm-5.2"
+}

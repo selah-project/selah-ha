@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 6:22",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Haka ya faɗa Yahweh: Ga, wata al'umma tana zuwa daga ƙasar arewa, kuma wata al'umma mai girma tana tashi daga ƙofofin ƙasa.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "haka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wata al'umma"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tana zuwa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "arewa"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "kuma wata al'umma"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mai girma"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "tana tashi"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "daga ƙofofin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:12:16.482747451Z",
+  "model": "glm-5.2"
+}

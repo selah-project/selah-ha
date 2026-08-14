@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 40:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Abubuwa da yawa Ka yi, Yahweh Elohim⟨na⟩; abin al'ajibin⟨Ka⟩ da tunanin⟨Ka⟩ zuwa gare mu, babu wanda ya yi daidai da Kai! Zan faɗa kuma zan yi magana; sun yawaita ⟨sujudda⟩ a ƙidayar⟨su⟩.",
+  "tokens": [
+    {
+      "surface": "רַבּוֹת",
+      "gloss": "abubuwa da yawa"
+    },
+    {
+      "surface": "עָשִׂיתָ",
+      "gloss": "Ka yi"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "⟨Kai⟩"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהַי",
+      "gloss": "Elohim⟨na⟩"
+    },
+    {
+      "surface": "נִפְלְאֹתֶיךָ",
+      "gloss": "abin al'ajibin⟨Ka⟩"
+    },
+    {
+      "surface": "וּמַחְשְׁבֹתֶיךָ",
+      "gloss": "da tunanin⟨Ka⟩"
+    },
+    {
+      "surface": "אֵלֵינוּ",
+      "gloss": "zuwa gare mu"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "עֲרֹךְ",
+      "gloss": "wanda ya yi daidai"
+    },
+    {
+      "surface": "אֵלֶיךָ",
+      "gloss": "da Kai"
+    },
+    {
+      "surface": "אַגִּידָה",
+      "gloss": "Zan faɗa"
+    },
+    {
+      "surface": "וַאֲדַבֵּרָה",
+      "gloss": "kuma zan yi magana"
+    },
+    {
+      "surface": "עָצְמוּ",
+      "gloss": "sun yawaita"
+    },
+    {
+      "surface": "מִסַּפֵּר",
+      "gloss": "a ƙidayar⟨su⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T19:43:09.552160243Z",
+  "model": "glm-5.2"
+}

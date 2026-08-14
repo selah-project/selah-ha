@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 9:23",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Saboda haka, ana tsinare ku, ba za a yanke wani bawa daga cikinku ba, ⟨ku⟩ masu ɓaran itace da masu ɗaukar ruwa ne, don gidan Elohim na.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Saboda haka"
+    },
+    {
+      "surface": "ארורים",
+      "gloss": "ana tsinare ku"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba za a"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "yanke"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "daga cikinku"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "wani bawa"
+    },
+    {
+      "surface": "וחטבי",
+      "gloss": "⟨ku⟩ masu ɓaran"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "itace"
+    },
+    {
+      "surface": "ושאבי",
+      "gloss": "da masu ɗaukar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "don gidan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    }
+  ],
+  "timestamp": "2026-08-12T06:30:40.689361888Z",
+  "model": "glm-5.2"
+}

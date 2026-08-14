@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Domi koyarwa mai kyau na bã ku, koyarwa ta ⟨daga⟩ gare ni kada ku barẽ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domi"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "koyarwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "na bã"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "koyarwa ta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "ku barẽ"
+    }
+  ],
+  "timestamp": "2026-08-12T21:05:22.215232309Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Kuma dukan masu hikima masu yin ⟨את⟩ dukan aikin wurin tsarkakewa sun zo, kowane mutum daga aikinsa wanda suka ke yi.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "kuma suka zo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "masu hikima"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "masu yin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukan aikin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "wurin tsarkakewa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "daga aikinsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "המה",
+      "gloss": "su"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "suka ke yi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:34:01.708020223Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 73,
+  "translation": "Saboda haka girman kai ⟨ne⟩ wajensu a matsayin waƙa, tufagin tashin hankali ya rufe su.",
+  "tokens": [
+    {
+      "surface": "לָ֭כֵן",
+      "gloss": "Saboda haka"
+    },
+    {
+      "surface": "עֲנָקַ֣תְמוֹ",
+      "gloss": "wajensu a matsayin waƙa"
+    },
+    {
+      "surface": "גַאֲוָ֑ה",
+      "gloss": "girman kai"
+    },
+    {
+      "surface": "יַעֲטָף",
+      "gloss": "ya rufe"
+    },
+    {
+      "surface": "שִׁ֝֗ית",
+      "gloss": "tufagin"
+    },
+    {
+      "surface": "חָמָ֥ס",
+      "gloss": "tashin hankali"
+    },
+    {
+      "surface": "לָֽמוֹ",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-08-12T20:06:10.776417762Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 11:5",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Don halittar tabbatar da ⟨את⟩ rantsuwar da na rantsuwa ga ubanninku, don bayar musu ƙasa mai gudānon nono da zuma, kamar ⟨yadda yake⟩ wannan rānā, sai na amsa in ce: Amen, Yahweh.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "don halittar"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "tabbatar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rantsuwar"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "rantsuwar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "na rantsuwa"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "ga ubanninku"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "don bayar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "mai gudānon"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "nono"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "da zuma"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan rānā"
+    },
+    {
+      "surface": "ואען",
+      "gloss": "sai na amsa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "in ce"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T15:17:54.307957840Z",
+  "model": "glm-5.2"
+}

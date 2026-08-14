@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma Aharon da 'ya'yansa za su zo a lokacin da sansanin ke tafiya, kuma su sauka ⟨את⟩ kattai na allon, su rufe da shi ⟨את⟩ akwatin shaida.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "kuma za su zo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "da 'ya'yansa"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "a lokacin tafiya"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "sansanin"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "kuma su sauka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kattai na allon"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "kattai na"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "allon"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "su rufe"
+    },
+    {
+      "surface": "בה",
+      "gloss": "da shi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin shaida"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "shaida"
+    }
+  ],
+  "timestamp": "2026-08-12T03:15:29.240597260Z",
+  "model": "glm-5.2"
+}

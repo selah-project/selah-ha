@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma sarki ya ce wa mace, \"Je gidanka, ni ⟨kuma⟩ zan umarta a ◌̄rinka.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Je"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "gidanka"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ni kuma"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "zan umarta"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "a ◌̄rinka"
+    }
+  ],
+  "timestamp": "2026-08-12T10:13:48.867215295Z",
+  "model": "glm-5.2"
+}

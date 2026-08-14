@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Mene amfani a cikin jinina, a sa'ar sa'en na zuwa rami? Shin ƙura za ta gode maka? Shin ⟨za ta⟩ bayyana gaskiyarka?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mene"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "amfani"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "a cikin jinina"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "a sa'ar sa'en na zuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "rami"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "Shin ƙura za ta gode maka"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ƙura"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "Shin ⟨za ta⟩ bayyana"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "gaskiyarka"
+    }
+  ],
+  "timestamp": "2026-08-13T04:03:51.917205671Z",
+  "model": "glm-5.2"
+}

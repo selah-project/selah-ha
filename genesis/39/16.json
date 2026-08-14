@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 39:16",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Kuma ta ajiye tufafinsa wurinta, har sai ⟨lokacin da⟩ mijin shugabanta ya zo gidansa.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "Kuma ta ajiye"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "tufafinsa"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "wurinta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har sai"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "⟨lokacin da⟩ ya zo"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "shugabansa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gidansa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:11:00.895957765Z",
+  "model": "glm-5.2"
+}

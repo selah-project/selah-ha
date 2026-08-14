@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 37:12",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma ya yi wa ⟨shi⟩ gefen hannu a kewaye, kuma ya yi rawanin zinariya wa gefensa a kewaye.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wa shi"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "gefen"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "hannu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewaye"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "זר",
+      "gloss": "rawanin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinariya"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "wa gefensa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewaye"
+    }
+  ],
+  "timestamp": "2026-08-12T01:33:21.465428806Z",
+  "model": "glm-5.2"
+}

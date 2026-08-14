@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Elohim Ya ji ⟨wannan⟩, kuma Ya fusata sosai, kuma Ya ƙi Yisra'el da ƙarfi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ya ji"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "kuma Ya fusata"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "kuma Ya ƙi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T20:09:15.938677399Z",
+  "model": "glm-5.2"
+}

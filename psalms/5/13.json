@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 5:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Domin Kai, Yahweh, kana zaburar da ⟨את⟩ mai adalci; da yarda kana kewaye shi kamar garkuwa.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "אַתָּה֮",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "תְּבָרֵ֪ךְ",
+      "gloss": "kana zaburar da"
+    },
+    {
+      "surface": "צַ֫דִּ֥יק",
+      "gloss": "mai adalci"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כַּ֝צִּנָּ֗ה",
+      "gloss": "kamar garkuwa"
+    },
+    {
+      "surface": "רָצ֥וֹן",
+      "gloss": "da yarda"
+    },
+    {
+      "surface": "תַּעְטְרֶֽנּוּ",
+      "gloss": "kana kewaye shi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:11:58.840277073Z",
+  "model": "glm-5.2"
+}

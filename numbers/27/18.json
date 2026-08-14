@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 27:18",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma Yahweh ya ce wa Mosheh: \"Kaɗau ⟨a kanku⟩ ⟨את⟩ Yehoshua ɗan Nun, mutumin da akwai ruhu a cikinsa, kuma ka dora ⟨את⟩ hannunka a kansa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Kaɗau"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨a kanku⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a cikinsa"
+    },
+    {
+      "surface": "וסמכת",
+      "gloss": "kuma ka dora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannunka"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hannunka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    }
+  ],
+  "timestamp": "2026-08-12T04:33:15.404530549Z",
+  "model": "glm-5.2"
+}

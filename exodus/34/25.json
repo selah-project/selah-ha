@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Kada ka yanka ⟨akan⟩ abin da ya yi giciye jinin hadayar Na, kuma kada ya rage har gōde hadayar biki na Pesah.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תִשְׁחַ֥ט",
+      "gloss": "ka yanka"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "⟨akan⟩"
+    },
+    {
+      "surface": "חָמֵ֖ץ",
+      "gloss": "abin da ya yi giciye"
+    },
+    {
+      "surface": "דַּם",
+      "gloss": "jinin"
+    },
+    {
+      "surface": "זִבְחִ֑י",
+      "gloss": "hadayar Na"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "יָלִ֣ין",
+      "gloss": "ya rage har gōde"
+    },
+    {
+      "surface": "לַבֹּ֔קֶר",
+      "gloss": "⟨har gōde⟩"
+    },
+    {
+      "surface": "זֶ֖בַח",
+      "gloss": "hadayar"
+    },
+    {
+      "surface": "חַ֥ג",
+      "gloss": "biki"
+    },
+    {
+      "surface": "הַפָּֽסַח",
+      "gloss": "na Pesah"
+    }
+  ],
+  "timestamp": "2026-08-12T01:24:38.954258380Z",
+  "model": "glm-5.2"
+}

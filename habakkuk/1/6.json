@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "habakkuk 1:6",
+  "book": "habakkuk",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Gāna ina tãyar da ⟨את⟩ Kasdiyawa, wannan al'ummar da ⟨ke⟩ mai ɗaci kuma mai gudu, wadda ke tafiya zuwa faɗaɗɗen yankunan ƙasa, don ta riga ta mallaka mazaunan waɗanda ba nata ba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gāna"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ina"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "tãyar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kasdiyawa"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdiyawa"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "wannan al'ummar"
+    },
+    {
+      "surface": "המר",
+      "gloss": "mai ɗaci"
+    },
+    {
+      "surface": "והנמהר",
+      "gloss": "kuma mai gudu"
+    },
+    {
+      "surface": "ההולך",
+      "gloss": "wadda ke tafiya"
+    },
+    {
+      "surface": "למרחבי",
+      "gloss": "zuwa faɗaɗɗen yankunan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "don ta riga ta mallaka"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nata"
+    }
+  ],
+  "timestamp": "2026-08-12T18:50:24.293234843Z",
+  "model": "glm-5.2"
+}

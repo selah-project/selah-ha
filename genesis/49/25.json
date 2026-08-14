@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Daga El na uban ka, ⟨kuma⟩ ya taimake ka, ⟨kuma⟩ ⟨את⟩ Shaddai, ⟨kuma⟩ ya albarkace ka — albarkacin sama daga sama, albarkacin tekun da ke kwance a ƙasa, albarkacin nono da ciki.",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "daga El"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "na uban ka"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "ya taimake ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨kuma⟩ ⟨את⟩",
+      "marks": "Shaddai"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "ya albarkace ka"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "albarkacin"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "daga sama"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "albarkacin"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tekun"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "da ke kwance"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a ƙasa"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "albarkacin"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "nono"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "da ciki"
+    }
+  ],
+  "timestamp": "2026-08-12T00:27:50.974076335Z",
+  "model": "glm-5.2"
+}

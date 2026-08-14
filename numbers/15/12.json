@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Daidai da yawan da kuke yi, haka kuna yi wa guda ɗaya, a ccording to their number.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "Daidai da yawan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kuke yi"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "haka"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kuna yi"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "wa guda ɗaya"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "daidai da yawnsu"
+    }
+  ],
+  "timestamp": "2026-08-13T01:51:26.999285220Z",
+  "model": "glm-5.2"
+}

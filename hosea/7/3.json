@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Da muguntarsu suna fara farin cikin sarki, da karyarsu suna fara farin cikin shugabanni.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "da muguntarsu"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "suna fara farin ciki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "da karyarsu"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "shugabanni"
+    }
+  ],
+  "timestamp": "2026-08-12T18:14:32.740455713Z",
+  "model": "glm-5.2"
+}

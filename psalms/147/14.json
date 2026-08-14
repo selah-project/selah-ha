@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 147,
+  "translation": "Shi mai sanya zaman lafiya a cikin iyakoki ⟨ki⟩, da man alkama yana shayar da ⟨ki⟩.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "shi mai sanya"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "iyakoki ⟨ki⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "zaman lafiya"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "man"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "alkama"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "yana shayar da ⟨ki⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:58:53.108298967Z",
+  "model": "glm-5.2"
+}

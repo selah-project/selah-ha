@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Ya aika a cikinsu ƙuda, kuma ⟨ta⟩ ci su, da kuma kwadi, kuma ⟨ta⟩ lalata su.",
+  "tokens": [
+    {
+      "surface": "יְשַׁלַּ֬ח",
+      "gloss": "Ya aika"
+    },
+    {
+      "surface": "בָּהֶ֣ם",
+      "gloss": "a cikinsu"
+    },
+    {
+      "surface": "עָ֭רֹב",
+      "gloss": "ƙuda",
+      "marks": "ƙuda"
+    },
+    {
+      "surface": "וַיֹּאכְלֵ֑ם",
+      "gloss": "kuma ⟨ta⟩ ci su"
+    },
+    {
+      "surface": "וּ֝צְפַרְדֵּ֗עַ",
+      "gloss": "da kuma kwadi"
+    },
+    {
+      "surface": "וַתַּשְׁחִיתֵֽם",
+      "gloss": "kuma ⟨ta⟩ lalata su"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:00.703567979Z",
+  "model": "glm-5.2"
+}

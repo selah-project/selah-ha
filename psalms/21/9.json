@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "⟨Zaɓi⟩ ⟨ta⟩ yakãku ⟨za⟩ a samu dukkan maƙaƮanku; ⟨dama⟩ ta yakãku ⟨za⟩ a samu waɗanda suke ƙĩ ku.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "za a samu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ta yakãku"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "maƙaƮanku"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dama ta yakãku"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "za a samu"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "waɗanda suke ƙĩ ku"
+    }
+  ],
+  "timestamp": "2026-08-12T19:25:49.860869850Z",
+  "model": "glm-5.2"
+}

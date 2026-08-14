@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Suka musanya ⟨את⟩ girman godiyarsu da siffar shanu mai cin ciyawa.",
+  "tokens": [
+    {
+      "surface": "וַיָּמִ֥ירוּ",
+      "gloss": "Suka musanya"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "girman godiyarsu"
+    },
+    {
+      "surface": "כְּבוֹדָ֑ם",
+      "gloss": "girman godiyarsu"
+    },
+    {
+      "surface": "בְּתַבְנִ֥ית",
+      "gloss": "da siffar"
+    },
+    {
+      "surface": "שׁ֝֗וֹר",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "אֹכֵ֥ל",
+      "gloss": "mai cin"
+    },
+    {
+      "surface": "עֵֽשֶׂב",
+      "gloss": "ciyawa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:32:19.514959941Z",
+  "model": "glm-5.2"
+}

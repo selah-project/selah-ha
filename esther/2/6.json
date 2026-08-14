@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 2:6",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "wanda aka kora gudun hijira daga Urushalima tare da waɗanda aka kora gudun hijira tare da Yekonya, sarkin Yahuda, wanda Nebukadnesar, sarkin Babilon, ya kora gudun hijira.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "aka kora gudun hijira"
+    },
+    {
+      "surface": "מירושלים",
+      "gloss": "daga Urushalima"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "waɗanda aka kora gudun hijira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "הגלתה",
+      "gloss": "aka kora gudun hijira"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Yekonya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "ya kora gudun hijira"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnesar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    }
+  ],
+  "timestamp": "2026-08-12T22:55:27.916919600Z",
+  "model": "glm-5.2"
+}

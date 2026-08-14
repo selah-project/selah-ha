@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Kuma ya kawo ni zuwa ⟨cikin⟩ haikal, kuma ya auna ⟨את⟩ ginshiƙan, faɗin ƙafa shida daga nan, kuma faɗin ƙafa shida daga nan — faɗin ⟨na⟩ janɗi.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "kuma ya kawo ni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "haikal"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "kuma ya auna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ginshiƙan"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "ginshiƙan"
+    },
+    {
+      "surface": "שש",
+      "gloss": "shida"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ƙafa"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "faɗin"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "daga nan"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "kuma shida"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ƙafa"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "faɗin"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "daga nan"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "faɗin"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "janɗi"
+    }
+  ],
+  "timestamp": "2026-08-12T17:57:00.582907907Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "kuma a kan waɗanda aka hatima ⟨sũ⟩: Nechemjah, hatimiyar-gwamna, ɗan Chakaljah, da Tsidkiyah.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "kuma a kan"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "waɗanda aka hatima"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nechemjah"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "hatimiyar-gwamna"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "Chakaljah"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "da Tsidkiyah"
+    }
+  ],
+  "timestamp": "2026-08-12T23:48:04.584492037Z",
+  "model": "glm-5.2"
+}

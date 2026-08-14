@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Yehuda da Isra'ila sun kasance da yawa, kamar yashi wanda yake a bakin teku don yawa, suna cin abinci da shan abin sha kuma suna murna.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "da Isra'ila"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "kamar yashi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "yake a"
+    },
+    {
+      "surface": "הים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "don yawa"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "suna cin abinci"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "da shan abin sha"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "kuma suna murna"
+    }
+  ],
+  "timestamp": "2026-08-12T10:58:11.782272896Z",
+  "model": "glm-5.2"
+}

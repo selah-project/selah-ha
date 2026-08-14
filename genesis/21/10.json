@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Sai ta faɗi wa Avrahām: \"Kora bāwiyar nan da kuma ⟨את⟩ ɗanta, domin ɗan bāwiyar nan ba zai gaji tare da ɗāna, tare da Yitsḥaq ba.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Sai ta faɗi"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "wa Avrahām"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "Kora"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "bāwiyar"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da kuma ⟨את⟩",
+      "marks": "ɗanta"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ɗanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "zai gaji"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "bāwiyar"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗāna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsḥaq"
+    }
+  ],
+  "timestamp": "2026-08-11T23:40:57.444193346Z",
+  "model": "glm-5.2"
+}

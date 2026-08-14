@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma kohan zai yi ⟨את⟩ ƙorafin zunubi, kuma zai yafe wa ⟨waɗanda ake tsarkakewa⟩ daga tsaftar sa, kuma daga baya zai yanka ⟨את⟩ hadayar ƙonewa.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Kuma zai yi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙorafin zunubi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ƙorafin zunubi"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kuma zai yafe wa"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "⟨waɗanda ake tsarkakewa⟩"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "daga tsaftar sa"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "kuma daga baya"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "zai yanka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadayar ƙonewa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "hadayar ƙonewa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:16:50.863053480Z",
+  "model": "glm-5.2"
+}

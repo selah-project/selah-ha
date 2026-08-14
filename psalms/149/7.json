@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 149,
+  "translation": "Don aikata ramuwar gayya ⟨a⟩ cikin al'ummai, da gargaɗi ⟨a⟩ kan kabila-shi.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "don aikata"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "ramuwar gayya"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "a cikin al'ummai"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "da gargaɗi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "kabila-shi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:58:17.297471695Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Paroh ya kira Moshe, ya ce: \"Tafi, ku bauta wa ⟨את⟩ Yahweh; kawai garken ku da shanunku za a riƙe; har yaran ku su je tare da ku.\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ya kira"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "←"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "tafi"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ku bauta wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kawai"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "garken ku"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "da shanunku"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "za a riƙe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "har"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "yaran ku"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "su je"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "tare da ku"
+    }
+  ],
+  "timestamp": "2026-08-12T00:43:19.931843955Z",
+  "model": "glm-5.2"
+}

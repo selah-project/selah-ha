@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 19:19",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "kuma ku yi masa kamar yadda ya yi niyyar yi wa ⟨dan'uwansa⟩, don haka kayi ⟨cire⟩ sharrin daga cikinka.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "kuma ku yi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "זמם",
+      "gloss": "ya yi niyyar"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yi"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "wa ⟨dan'uwansa⟩"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "don haka kayi ⟨cire⟩"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sharrin"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "daga cikinka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:28:31.240150443Z",
+  "model": "glm-5.2"
+}

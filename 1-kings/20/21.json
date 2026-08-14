@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma sarkin Yisra'ela ya fita, ya doke ⟨את⟩ dawakai da ⟨את⟩ motocin doki, kuma ya yi wa Aram bugun babba.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kuma ya fita"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'ela"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ya doke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dawakai"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "dawakai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "motocin doki"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "motocin doki"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "kuma ya yi wa"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "babba"
+    }
+  ],
+  "timestamp": "2026-08-12T11:43:30.538093716Z",
+  "model": "glm-5.2"
+}

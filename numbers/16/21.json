@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 16:21",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "\"Ku rabu daga tsakiyar wannan tarīn, kuma zan halaka ⟨את⟩ su a rōkē.\"",
+  "tokens": [
+    {
+      "surface": "הבדלו",
+      "gloss": "Ku rabu"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "daga tsakiyar"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "tarīn"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "kuma zan halaka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "a rōkē"
+    }
+  ],
+  "timestamp": "2026-08-12T04:00:33.823448561Z",
+  "model": "glm-5.2"
+}

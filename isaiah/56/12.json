@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 56:12",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 56,
+  "translation": "Ku zo, in ɗauo giya, mu sha abin maye, kuma gobe za ta kasance kamar yau, babba, mai yawa sosai.",
+  "tokens": [
+    {
+      "surface": "אֵתָ֥יוּ",
+      "gloss": "ku zo"
+    },
+    {
+      "surface": "אֶקְחָה",
+      "gloss": "in ɗauo"
+    },
+    {
+      "surface": "יַ֖יִן",
+      "gloss": "giya"
+    },
+    {
+      "surface": "וְנִסְבְּאָ֣ה",
+      "gloss": "mu sha"
+    },
+    {
+      "surface": "שֵׁכָ֑ר",
+      "gloss": "abin maye"
+    },
+    {
+      "surface": "וְהָיָ֤ה",
+      "gloss": "kuma za ta kasance"
+    },
+    {
+      "surface": "כָזֶה֙",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "י֣וֹם",
+      "gloss": "yau"
+    },
+    {
+      "surface": "מָחָ֔ר",
+      "gloss": "gobe"
+    },
+    {
+      "surface": "גָּד֖וֹל",
+      "gloss": "babba"
+    },
+    {
+      "surface": "יֶ֥תֶר",
+      "gloss": "mai yawa"
+    },
+    {
+      "surface": "מְאֹֽד",
+      "gloss": "sosai"
+    }
+  ],
+  "timestamp": "2026-08-12T14:29:57.432563025Z",
+  "model": "glm-5.2"
+}

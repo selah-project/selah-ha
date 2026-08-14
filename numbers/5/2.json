@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Ka yi wa ⟨את⟩ ɓanayen Yisra'el umarni, kuma su tura daga sansanin duk wanda yake da cuta, da duk wanda yake da zub̃a, da duk wanda ba tsarkfaffe ne ⟨don⟩ rai.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Ka yi wa umarni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓanayen Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓanayen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "kuma su tura"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "sansanin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk wanda yake da"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "cuta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da duk wanda yake da"
+    },
+    {
+      "surface": "זב",
+      "gloss": "zub̃a"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da duk wanda"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ba tsarkfaffe ne"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "⟨don⟩ rai"
+    }
+  ],
+  "timestamp": "2026-08-12T03:33:08.753294865Z",
+  "model": "glm-5.2"
+}

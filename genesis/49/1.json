@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 49:1",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Kuma Ya'akob ya kira ɗan'uwansa ⟨zuwa⟩ ga 'ya'yansa maza, kuma ya ce: \"Ku taru, ni kuma zan gaya muku ⟨אַת⟩ abin da zai faru ⟨את⟩ da kuku ⟨אַת⟩ a ƙarshen kwanaki.\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ya kira"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ya'yansa maza"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "האספו",
+      "gloss": "ku taru"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "kuma zan gaya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "muku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨אַת⟩",
+      "marks": "abin da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "zai faru"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ da kuku"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "a ƙarshen"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kwanaki"
+    }
+  ],
+  "timestamp": "2026-08-12T00:26:49.890497300Z",
+  "model": "glm-5.2"
+}

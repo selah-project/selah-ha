@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Masu girman kai sun yi mini ba'a sosai, amma daga Tōrarka ba da juya baya ban juya ba.",
+  "tokens": [
+    {
+      "surface": "זֵ֭דִים",
+      "gloss": "Masu girman kai"
+    },
+    {
+      "surface": "הֱלִיצֻ֣נִי",
+      "gloss": "sun yi mini ba'a"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "sai"
+    },
+    {
+      "surface": "מְאֹ֑ד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "מִ֝תּֽוֹרָתְךָ֗",
+      "gloss": "daga Tōrarka"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נָטִֽיתִי",
+      "gloss": "da juya baya ban juya ba"
+    }
+  ],
+  "timestamp": "2026-08-12T20:42:29.295001492Z",
+  "model": "glm-5.2"
+}

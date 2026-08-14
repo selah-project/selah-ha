@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma Yahweh ya ƙarfafa ⟨את⟩ zuciyar Paroh, kuma bai saurari ba gare su, kamar yadda Yahweh ya faɗa wa Moshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "kuma ya ƙarfafa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuciyar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciyar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma bai"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "saurari"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ba gare su"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-12T00:38:26.386910716Z",
+  "model": "glm-5.2"
+}

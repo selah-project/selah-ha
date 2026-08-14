@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 76,
+  "translation": "Daga tɓargiwar kai, Elohim na Ya'aƙub, sun nutsu, ⟨duka⟩ dawakai da mahaya.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "daga tɓargiwar kai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aƙub"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "sun nutsu"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "dawakai"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "mahaya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:07:06.426918205Z",
+  "model": "glm-5.2"
+}

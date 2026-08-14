@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Domin mai fansarsu ⟨ne⟩ mai ƙarfi, shi zai yi ⟨את⟩ ɗaukamar ƙararrakinsu ⟨את⟩ ⟨a kan⟩ kai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "mai fansarsu"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "mai ƙarfi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "zai yi ɗaukamar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙararrakinsu"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "ƙararrakinsu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨a kan⟩ kai"
+    }
+  ],
+  "timestamp": "2026-08-12T21:26:28.070066007Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "Sai mutanaNa, kuma ina magana; ya Yisra'el, kuma ina yin shaida a kankai: Elohim, Elohiminka ⟨ni⟩ ne.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Sai"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mutanaNa"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "kuma ina magana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisra'el"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "kuma ina yin shaida"
+    },
+    {
+      "surface": "בך",
+      "gloss": "a kankai"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:47:06.797138981Z",
+  "model": "glm-5.2"
+}

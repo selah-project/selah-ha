@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ya saka ⟨את⟩) teburin a cikin tantanin tarawa, a gefen mazaunin dake arewa, a wajen gadin tsari.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ya saka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teburin"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "teburin"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "a cikin tantanin"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tarawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a gefen"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "gefen"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mazaunin"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "dake arewa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "a wajen"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "gadin tsari"
+    }
+  ],
+  "timestamp": "2026-08-12T01:38:57.191261947Z",
+  "model": "glm-5.2"
+}

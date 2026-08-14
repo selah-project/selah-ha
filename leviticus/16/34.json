@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 16:34",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "kuma wannan za ta kasance ⟨a gare ku⟩ ⟨a matsayin⟩ doka ta har abada, don yin fansa ⟨a kan⟩ ƴan Isra'ila daga dukkan zunubansu, ⟨sau ɗaya⟩ a cikin shekara; kuma ya yi kamar yadda Yahweh ya umurci ⟨את⟩ Mosheh.",
+  "tokens": [
+    {
+      "surface": "וְהָֽיְתָה",
+      "gloss": "kuma za ta kasance"
+    },
+    {
+      "surface": "זֹּאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "⟨a gare ku⟩"
+    },
+    {
+      "surface": "לְחֻקַּת",
+      "gloss": "⟨a matsayin⟩ doka"
+    },
+    {
+      "surface": "עוֹלָם",
+      "gloss": "ta har abada"
+    },
+    {
+      "surface": "לְכַפֵּר",
+      "gloss": "don yin fansa"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "⟨a kan⟩"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "ƴan"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "מִכָּל",
+      "gloss": "daga dukkan"
+    },
+    {
+      "surface": "חַטֹּאתָם",
+      "gloss": "zunubansu"
+    },
+    {
+      "surface": "אַחַת",
+      "gloss": "⟨sau ɗaya⟩"
+    },
+    {
+      "surface": "בַּשָּׁנָה",
+      "gloss": "a cikin shekara"
+    },
+    {
+      "surface": "וַיַּעַשׂ",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צִוָּה",
+      "gloss": "ya umurci"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-12T02:22:00.001373892Z",
+  "model": "glm-5.2"
+}

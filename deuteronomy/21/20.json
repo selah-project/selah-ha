@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 21:20",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "kuma su ce wa dattijen birninsa, 'Wannan ɗanmu mai taurin kai ne da mai tawaye, baya sauraren muryarmu; shi mai cin abinci yawa ne da maye.'",
+  "tokens": [
+    {
+      "surface": "וְאָמְר֞וּ",
+      "gloss": "kuma su ce"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "זִקְנֵי",
+      "gloss": "dattijen"
+    },
+    {
+      "surface": "עִיר֗וֹ",
+      "gloss": "birninsa"
+    },
+    {
+      "surface": "בְּנֵ֤נוּ",
+      "gloss": "ɗanmu"
+    },
+    {
+      "surface": "זֶה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "סוֹרֵ֣ר",
+      "gloss": "mai taurin kai"
+    },
+    {
+      "surface": "וּמֹרֶ֔ה",
+      "gloss": "mai tawaye"
+    },
+    {
+      "surface": "אֵינֶ֥נּוּ",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שֹׁמֵ֖עַ",
+      "gloss": "sauraren"
+    },
+    {
+      "surface": "בְּקֹלֵ֑נוּ",
+      "gloss": "muryarmu"
+    },
+    {
+      "surface": "זוֹלֵ֖ל",
+      "gloss": "mai cin abinci yawa"
+    },
+    {
+      "surface": "וְסֹבֵֽא",
+      "gloss": "da maye"
+    }
+  ],
+  "timestamp": "2026-08-12T05:23:28.633337254Z",
+  "model": "glm-5.2"
+}

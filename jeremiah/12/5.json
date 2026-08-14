@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 12:5",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Domi idan ⟨da⟩ ƙafafu ka gudu, suka gaji ka, to ta yaya za ku faɗa da dawakai? Kuma a ƙasar zaman lafiya ⟨kai⟩ ka kwantar da hankali, to ta yaya za ka yi a girman Yarden?",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "domi idan"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ƙafafu"
+    },
+    {
+      "surface": "רַגְלִ֥ים",
+      "gloss": "ƙafafu"
+    },
+    {
+      "surface": "רַ֨צְתָּה֙",
+      "gloss": "ka gudu"
+    },
+    {
+      "surface": "וַיַּלְא֔וּךָ",
+      "gloss": "suka gaji ka"
+    },
+    {
+      "surface": "וְאֵ֥יךְ",
+      "gloss": "to ta yaya"
+    },
+    {
+      "surface": "תְּתַֽחֲרֶ֖ה",
+      "gloss": "za ku faɗa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dawakai"
+    },
+    {
+      "surface": "הַסּוּסִ֑ים",
+      "gloss": "dawakai"
+    },
+    {
+      "surface": "וּבְאֶ֤רֶץ",
+      "gloss": "kuma a ƙasar"
+    },
+    {
+      "surface": "שָׁלוֹם֙",
+      "gloss": "zaman lafiya"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "⟨kai⟩"
+    },
+    {
+      "surface": "בוֹטֵ֔חַ",
+      "gloss": "ka kwantar da hankali"
+    },
+    {
+      "surface": "וְאֵ֥יךְ",
+      "gloss": "to ta yaya"
+    },
+    {
+      "surface": "תַּעֲשֶׂ֖ה",
+      "gloss": "za ka yi"
+    },
+    {
+      "surface": "בִּגְא֥וֹן",
+      "gloss": "a girman"
+    },
+    {
+      "surface": "הַיַּרְדֵּֽן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-12T15:21:56.274346750Z",
+  "model": "glm-5.2"
+}

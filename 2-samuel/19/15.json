@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma ya juya ⟨את⟩ zuciyar dukan mutumin Yahuda kamar mutum ɗaya. Kuma suka aiko wa ⟨sarkin⟩ cewa: 'Ka koma, kai da dukan bayinka.'",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Kuma ya juya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuciyar"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "zuciyar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mutum ɗaya"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "Kuma suka aiko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨sarkin⟩"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Ka koma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da dukan"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "bayinka"
+    }
+  ],
+  "timestamp": "2026-08-12T10:35:42.666828766Z",
+  "model": "glm-5.2"
+}

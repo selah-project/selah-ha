@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Wadda babu ⟨ga⟩ shugaba a gare ⟨ita⟩, babu mai kula, ko kuma mai mulki.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wadda"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a gare ⟨ita⟩"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "shugaba"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "mai kula"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ko kuma mai mulki"
+    }
+  ],
+  "timestamp": "2026-08-12T21:06:54.404191004Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ka sa ⟨את⟩ madubin zinari, don turare, a gaban akwatin shaida, kuma ka dora ⟨את⟩ kwafar ƙofar ⟨na⟩ mahallin ⟨alwala⟩.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "kuma ka sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madubin zinari"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "madubin"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zinari"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "don turare"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "shaida"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "kuma ka dora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kwafar ƙofar"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "kwafar"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ƙofar"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "⟨na⟩ mahallin ⟨alwala⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T01:47:29.194327129Z",
+  "model": "glm-5.2"
+}

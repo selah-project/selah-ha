@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "⟨Idan⟩ ina duba samanka, aikin yatsunsu, wata da taurari, waɗanda ka kafa;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨Idan⟩"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ina duba"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "samanka"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "yatsunsu"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "wata"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "da taurari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "ka kafa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:22:45.533156900Z",
+  "model": "glm-5.2"
+}

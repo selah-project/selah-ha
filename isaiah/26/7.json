@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Hanya ⟨ta⟩ mai adalci madaidaiciya ⟨ce⟩; Kai Mai kaɗaici, kana daidaita hanyar mai adalci.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "⟨ta⟩ mai adalci"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "madaidaiciya"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "Kai Mai kaɗaici"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mai adalci"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "kana daidaita"
+    }
+  ],
+  "timestamp": "2026-08-12T13:32:23.645947593Z",
+  "model": "glm-5.2"
+}

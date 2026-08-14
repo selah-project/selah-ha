@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Elohim na, a kaina raina tana rushe ⟨kanta⟩; saboda haka ina tunawa da kai daga ƙasar Yarden, da kuma Hermonai, daga Dutsen Mitsar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a kaina"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "raina"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "tana rushe"
+    },
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "ina tunawa da kai"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "da kuma Hermonai"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "daga Dutsen"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-08-12T19:42:36.586292694Z",
+  "model": "glm-5.2"
+}

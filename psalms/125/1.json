@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 125,
+  "translation": "Waƙar ⟨man⟩ hawa. Masu dogaro a Yahweh, suna kamar Dutsen Tsiyon, ba za a girgiza su ba, suna zaune har abada.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Waƙar"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "⟨man⟩ hawa"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "Masu dogaro"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "a Yahweh"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "suna kamar Dutsen"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "za a girgiza su"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "suna zaune"
+    }
+  ],
+  "timestamp": "2026-08-12T20:50:18.363865481Z",
+  "model": "glm-5.2"
+}

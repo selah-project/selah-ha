@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "⟨את⟩ Kuma ⟨koofar⟩ zaŋen ⟨na⟩ bayin ya rufe shi da zinariya, a ciki da wajen waje.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ Kuma ⟨koofar⟩",
+      "marks": "zaŋen"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "zaŋen"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "na bayin"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "ya rufe shi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "da zinariya"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "a ciki"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "da wajen waje"
+    }
+  ],
+  "timestamp": "2026-08-12T10:59:46.621659394Z",
+  "model": "glm-5.2"
+}

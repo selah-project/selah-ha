@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma za ka kawo ⟨את⟩ teburin, kuma za ka shirya ⟨את⟩ tsarinsa, kuma za ka kawo ⟨את⟩ ƙandilar, kuma za ka haskaka ⟨את⟩ fitilolta.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Kuma za ka kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teburin"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "teburin"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "kuma za ka shirya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsarinsa"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "tsarinsa"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "kuma za ka kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙandilar"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "ƙandilar"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "kuma za ka haskaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fitilolta"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "fitilolta"
+    }
+  ],
+  "timestamp": "2026-08-12T01:43:28.244532091Z",
+  "model": "glm-5.2"
+}

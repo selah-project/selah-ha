@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Kuma sama za ta yaba wa abin al'ajabin ka, Yahweh, hakuma amincin ka a cikin taron masu tsarki.",
+  "tokens": [
+    {
+      "surface": "והודו",
+      "gloss": "kuma za ta yaba wa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "abin al'ajabin ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hakuma"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "amincin ka"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "a cikin taron"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "masu tsarki"
+    }
+  ],
+  "timestamp": "2026-08-12T20:16:19.039458515Z",
+  "model": "glm-5.2"
+}

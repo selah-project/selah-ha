@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Ba ta kyakkyawa ga wawa ⟨ce⟩ magana ta ɗaukaka; ma'ana manzo yana da leɓe na ƙarya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ta kyakkyawa"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "ga wawa"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "leɓen"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ɗaukaka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ma'ana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yana da"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "manzo"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "leɓe"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "na ƙarya"
+    }
+  ],
+  "timestamp": "2026-08-12T21:19:09.559537705Z",
+  "model": "glm-5.2"
+}

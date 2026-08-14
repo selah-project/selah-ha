@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Yahweh Elohim ya yi wa adam umarni, yana cewa: «Daga kowane itacen gonar, cin ka za ka ci.»",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ya yi umarni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "wa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "Daga kowane"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "itacen"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "gonar"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "cin"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "za ka ci"
+    }
+  ],
+  "timestamp": "2026-08-13T01:42:37.481881668Z",
+  "model": "glm-5.2"
+}

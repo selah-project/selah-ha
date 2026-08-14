@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kamar buga wanda ya buge shi ne aka buge shi? Ko kamar kashe waɗanda aka kashe nasa ne aka kashe?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "Kamar buga"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "wanda ya buge shi"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "ne aka buge shi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "kamar kashe"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "waɗanda aka kashe nasa"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ne aka kashe"
+    }
+  ],
+  "timestamp": "2026-08-12T13:36:29.131306094Z",
+  "model": "glm-5.2"
+}

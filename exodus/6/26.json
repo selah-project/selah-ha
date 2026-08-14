@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 6:26",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Shi ne Aharon da Mosheh, waɗanda Yahweh ya faɗa musu, 'Ku fitar ⟨אַת⟩ ƴƴan Yisira'el daga ƙasar Mitsrayim bisa ga rundanoninsu.'",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "da Mosheh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "'Ku fitar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴan Yisira'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisira'el"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "bisa ga"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "rundanoninsu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:33:39.871573852Z",
+  "model": "glm-5.2"
+}

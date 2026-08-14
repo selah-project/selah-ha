@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Kowane mutum ⟨ne⟩ yana taimakon ⟨את⟩ abokinsa, kuma ga ɗan'uwansa yana cewa: «Ka ƙarfafa!»",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abokinsa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "abokinsa"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "yana taimakon"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "kuma ga ɗan'uwansa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ka ƙarfafa"
+    }
+  ],
+  "timestamp": "2026-08-12T14:02:43.782734701Z",
+  "model": "glm-5.2"
+}

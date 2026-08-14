@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Kuma ya aiki ⟨את⟩ ƴan'uwansa suka tafi; kuma ya ce musu, kada ku yi husuma a hanya.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Kuma ya aiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴan'uwansa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ƴan'uwansa"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "suka tafi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "ku yi husuma"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "a hanya"
+    }
+  ],
+  "timestamp": "2026-08-12T00:20:37.252500320Z",
+  "model": "glm-5.2"
+}

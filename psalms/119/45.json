@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Kuma zan tafi a faɗin wuri, domin na nemi umarninka.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "Kuma zan tafi"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "a faɗin wuri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "umarninka"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "na nemi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:42:16.445024827Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Yahweh, chesed ɗinka yana cikin samaniya; amincinka ⟨ya kai⟩ har zuwa gajimawa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "cikin samaniya"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed ɗinka"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "amincinka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "gajimawa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:38:03.563924092Z",
+  "model": "glm-5.2"
+}

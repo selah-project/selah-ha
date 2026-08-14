@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Kuma Yahweh yana tare da ⟨את⟩ Yosef, kuma ya zama mutum mai nasara, kuma yana cikin gidan ubangijinsa, wanda Mitsri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ya zama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya zama"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "mai nasara"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma yana"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "cikin gidan"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ubangijinsa"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "wanda Mitsri"
+    }
+  ],
+  "timestamp": "2026-08-12T00:13:02.771126608Z",
+  "model": "glm-5.2"
+}

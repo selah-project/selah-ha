@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma jama'a sun ji ƙishirwa can don ruwa, kuma jama'a sun gũna a kan Moshe, kuma ⟨su⟩ suka ce: Don me wannan ka fitar da mu daga Mitsrayim, don kashe ni da ⟨את⟩ ɗiyana da ⟨את⟩ dabbobina da ƙishirwa?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "kuma sun ji ƙishirwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "למים",
+      "gloss": "don ruwa"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "kuma sun gũna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ⟨su⟩ suka ce"
+    },
+    {
+      "surface": "למה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "ka fitar da mu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "daga Mitsrayim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "don kashe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ɗiyana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dabbobina"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "dabbobina"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "da ƙishirwa"
+    }
+  ],
+  "timestamp": "2026-08-13T03:02:35.576687272Z",
+  "model": "glm-5.2"
+}

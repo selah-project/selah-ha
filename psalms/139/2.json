@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 139,
+  "translation": "Kai ka san zaunata da tashina, ka fahimci tunanina daga nesa.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ka san"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "zaunata"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "da tashina"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "ka fahimci"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "tunanina"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "daga nesa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:54:18.438216226Z",
+  "model": "glm-5.2"
+}

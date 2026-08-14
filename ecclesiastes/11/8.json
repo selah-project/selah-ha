@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 11:8",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Domin idan mutum yana raye shekaru da yawa, a dukansu ya yi murna, kuma ya tuna ⟨את⟩ kwanakin duhu, domin za su yi da yawa; duk abin da ke zuwa ⟨ne⟩ iska.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "yana raye"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "בכלם",
+      "gloss": "a dukansu"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ya yi murna"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "kuma ya tuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kwanakin duhu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "duhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "za su yi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "abin da ke zuwa"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "iska"
+    }
+  ],
+  "timestamp": "2026-08-13T02:36:34.498609546Z",
+  "model": "glm-5.2"
+}

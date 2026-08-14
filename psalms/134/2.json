@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 134,
+  "translation": "Ku ɗauku hannayenku zuwa tsarkin, kuma ku gaisa ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Ku ɗauku"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "hannayenku"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "zuwa tsarkin"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "kuma ku gaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T20:49:29.149774994Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 124,
+  "translation": "lällãi ba Yahweh ⟨ya⟩ kasance a gare mu ba, a lokacin da mutane suka tashi a kan mu,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "lällãi ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "⟨ya⟩ kasance"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a gare mu"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "a lokacin da ... suka tashi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "a kan mu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mutane"
+    }
+  ],
+  "timestamp": "2026-08-12T20:48:55.924651927Z",
+  "model": "glm-5.2"
+}

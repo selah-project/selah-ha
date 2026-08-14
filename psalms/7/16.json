@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Rami ya yi, kuma ya haƙa shi; kuma ya fāɗo cikin ramin da ya yi.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "Rami"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "kuma ya haƙa shi"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "kuma ya fāɗo"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "cikin ramin"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "da ya yi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:14:26.990662664Z",
+  "model": "glm-5.2"
+}

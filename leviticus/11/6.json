@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma ⟨את⟩ ha-arnabet, don ⟨ta⟩ mai fitar da gera ⟨ce⟩, kuma ƙafar ba ta raba, marar-tsari ⟨ta⟩ ne a gare ku.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Kuma ⟨את⟩",
+      "marks": "ha-arnabet"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "ha-arnabet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "don"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "mai fitar da"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ta⟩"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "kuma ƙafar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "ta raba"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "marar-tsari"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ta⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a gare ku"
+    }
+  ],
+  "timestamp": "2026-08-12T02:05:14.854901423Z",
+  "model": "glm-5.2"
+}

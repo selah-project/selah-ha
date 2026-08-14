@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Amma kawai da kuri'a za a raba ⟨את⟩ ƙasa; a cikin sunayen kabilun ubanninsu za su gaji.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "amma kawai"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "da kuri'a"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "za a raba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "a cikin sunayen"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "kabilun"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ubanninsu"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "za su gaji"
+    }
+  ],
+  "timestamp": "2026-08-12T04:27:45.757542805Z",
+  "model": "glm-5.2"
+}

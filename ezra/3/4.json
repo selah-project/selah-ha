@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Sai suka yi ⟨את⟩ biki na Sūkkōt, kamar yadda aka rubuta, da ʿōlāt ta yini a yini cikin adādi, kamar hukunci, abin yini a rānata.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "sai suka yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biki"
+    },
+    {
+      "surface": "חג",
+      "gloss": "biki"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "na Sūkkōt"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "kamar yadda aka rubuta"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "da ʿōlāt"
+    },
+    {
+      "surface": "יום",
+      "gloss": "yini"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a yini"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "cikin adādi"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "kamar hukunci"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "abin"
+    },
+    {
+      "surface": "יום",
+      "gloss": "yini"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "a rānata"
+    }
+  ],
+  "timestamp": "2026-08-12T23:26:16.129729023Z",
+  "model": "glm-5.2"
+}

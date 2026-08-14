@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Shemuël ya saurari ⟨את⟩ dukkan maganganun ⟨al'ummar⟩, kuma ya faɗa su a cikin kunnuwan Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ya saurari"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan maganganun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maganganun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "al'ummar"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "ya faɗa su"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "a cikin kunnuwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T08:39:41.636047382Z",
+  "model": "glm-5.2"
+}

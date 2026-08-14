@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 57,
+  "translation": "⟨Zan⟩ gode maka a tsakanin al'ummai, Adonai, ⟨zan⟩ rera maka waƙa a tsakanin kasashe.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "⟨Zan⟩ gode maka"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "a tsakanin al'ummai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "⟨zan⟩ rera maka waƙa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "a tsakanin"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "kasashe"
+    }
+  ],
+  "timestamp": "2026-08-12T19:51:08.561056853Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Waɗannan ⟨ne⟩ su ne waɗanda suka tsallaka ⟨את⟩ Yarden a wata na farko, kuma shi yana cikewa a duk gefen kogin sa, suka kori ⟨את⟩ dukkan mutanen ƙwarurra zuwa gabas da zuwa yamma.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "su ne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "suka tsallaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "a wata"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "na farko"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kuma shi"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "yana cikewa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "gefen kogin sa"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "suka kori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan mutanen ƙwarurra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "mutanen ƙwarurra"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "zuwa gabas"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "da zuwa yamma"
+    }
+  ],
+  "timestamp": "2026-08-13T00:14:00.704672651Z",
+  "model": "glm-5.2"
+}

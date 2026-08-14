@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 66:7",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 66,
+  "translation": "Kafin ta yi āgōnin haihuwa, ta haifa; kafin āzā ta zo mata, ta tsira da namiji.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "kafin"
+    },
+    {
+      "surface": "תחיל",
+      "gloss": "ta yi āgōnin haihuwa"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ta haifa"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "kafin"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "zo"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "āzā"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mata"
+    },
+    {
+      "surface": "והמליטה",
+      "gloss": "ta tsira da"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "namiji"
+    }
+  ],
+  "timestamp": "2026-08-12T14:47:16.535767366Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma Sha'ul ya mutu, da 'ya'yansa maza uku, kuma dukkan iyalinsa − tare suka mutu.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Kuma ya mutu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "da uku"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "'ya'yansa maza"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma dukkan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iyalinsa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tare"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "suka mutu"
+    }
+  ],
+  "timestamp": "2026-08-13T00:10:44.407699509Z",
+  "model": "glm-5.2"
+}

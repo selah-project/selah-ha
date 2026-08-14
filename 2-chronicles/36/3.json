@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Kuma sarkin Mitsrayim ya cire shi a Yerushalaim, kuma ya yi ⟨את⟩ ƙasa ⟨hukunci⟩ na ɗari talanin azurfa da talanin zinari.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "Kuma ya cire shi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "a Yerushalaim"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "kuma ya yi ⟨hukunci⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "na ɗari"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talanin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "azurfa"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "da talanin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinari"
+    }
+  ],
+  "timestamp": "2026-08-13T02:59:42.571973072Z",
+  "model": "glm-5.2"
+}

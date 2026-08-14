@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 30:22",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma za ku ɓata ⟨את⟩ rufewar gumãkan azurfa ku, da ⟨את⟩ kãyan gumar narãrar zinãri ku, za ku wãtsa su kamar abin ɓata launin jinin haila; \"Ku fita!\" za ka faɗa masa.",
+  "tokens": [
+    {
+      "surface": "וטמאתם",
+      "gloss": "kuma za ku ɓata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rufewar"
+    },
+    {
+      "surface": "צפוי",
+      "gloss": "rufewar"
+    },
+    {
+      "surface": "פסילי",
+      "gloss": "gumãkan"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "azurfa ku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kãyan"
+    },
+    {
+      "surface": "אפדת",
+      "gloss": "kãyan"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "gumar narãrar"
+    },
+    {
+      "surface": "זהבך",
+      "gloss": "zinãri ku"
+    },
+    {
+      "surface": "תזרם",
+      "gloss": "za ku wãtsa su"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "abin ɓata launin jinin haila"
+    },
+    {
+      "surface": "צא",
+      "gloss": "ku fita"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "za ka faɗa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    }
+  ],
+  "timestamp": "2026-08-12T13:45:42.361359188Z",
+  "model": "glm-5.2"
+}

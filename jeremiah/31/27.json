@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Ga shi, kwanaki suna zuwa, maganar Yahweh, kuma zan shuka ⟨את⟩ gidan Yisra'el da ⟨את⟩ gidan Yehuda, zuriyar mutum da zuriyar dabbobi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "באים",
+      "gloss": "suna zuwa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "maganar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "kuma zan shuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan Yisra'el"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "gidan Yehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zuriyar"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "da zuriyar"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "dabbobi"
+    }
+  ],
+  "timestamp": "2026-08-12T15:59:22.492026284Z",
+  "model": "glm-5.2"
+}

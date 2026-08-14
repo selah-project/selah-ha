@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ya ɗauki ⟨את⟩ dukkan kitse da ke kan ɓangaren ciki, da ⟨את⟩ ɓangaren hanta, da ⟨את⟩ ƙafafu biyu, da ⟨את⟩ kitsen su, kuma Mosheh ya ƙone ⟨ne⟩ a altar ɗin.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ya ɗauki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan kitse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "kitse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da ke"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ɓangaren ciki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ɓangaren hanta"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "ɓangaren"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "hanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙafafu biyu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ƙafafu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kitsen su"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "kitsen su"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ya ƙone"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "a altar ɗin"
+    }
+  ],
+  "timestamp": "2026-08-12T02:04:37.616871824Z",
+  "model": "glm-5.2"
+}

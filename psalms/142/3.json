@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 142,
+  "translation": "Nã zubar da tunanina a gabanSa; ɓata ta ⟨ce⟩ a gabanSa, inã gaya masa.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "Nã zubar da"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "a gabanSa"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "tunanina"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "ɓata ta"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "a gabanSa"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "inã gaya masa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:54:48.400924970Z",
+  "model": "glm-5.2"
+}

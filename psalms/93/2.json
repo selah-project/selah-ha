@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 93,
+  "translation": "Kujerar ⟨mulkin⟩ ka ta tabbata daga da, daga har abada Kai ⟨ke⟩.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ta tabbata"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "kujerar ka"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "daga da"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "daga har abada"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    }
+  ],
+  "timestamp": "2026-08-12T20:22:05.843048098Z",
+  "model": "glm-5.2"
+}

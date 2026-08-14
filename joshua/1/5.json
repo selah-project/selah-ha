@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 1:5",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Ba zai tsaya ⟨za⟩ wani mutum a gaban ka dukan kwanakin rayuwar ka ba; kamar yadda na kasance tare da Moshe, ni zan kasance tare da kai; ba zan sassauta ka ba, kuma ba zan bar ka ba.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "zai tsaya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wani mutum"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "a gaban ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "rayuwar ka"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "na kasance"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ni zan kasance"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tare da kai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ארפך",
+      "gloss": "zai sassauta ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "zai bar ka"
+    }
+  ],
+  "timestamp": "2026-08-12T06:07:50.465662075Z",
+  "model": "glm-5.2"
+}

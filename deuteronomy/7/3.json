@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kada ka aurar da ⟨su⟩; ɗiyarka kada ka bawa ɗan sa, kuma ɗiyarsa kada ka ruɓo ga ɗanka.",
+  "tokens": [
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תִתְחַתֵּ֖ן",
+      "gloss": "ka aurar da"
+    },
+    {
+      "surface": "בָּ֑ם",
+      "gloss": "su"
+    },
+    {
+      "surface": "בִּתְּךָ֙",
+      "gloss": "ɗiyarka"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תִתֵּ֣ן",
+      "gloss": "ka bawa"
+    },
+    {
+      "surface": "לִבְנ֔וֹ",
+      "gloss": "ɗan sa"
+    },
+    {
+      "surface": "וּבִתּ֖וֹ",
+      "gloss": "kuma ɗiyarsa"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תִקַּ֥ח",
+      "gloss": "ka ruɓo"
+    },
+    {
+      "surface": "לִבְנֶֽךָ",
+      "gloss": "ga ɗanka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:02:21.164236142Z",
+  "model": "glm-5.2"
+}

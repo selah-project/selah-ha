@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Da ⟨את⟩ kudu, da ⟨את⟩ kwariyar kwarin Yeriho, birnin itatuwan dabino, har zuwa Tsoar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kudu"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "kudu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kwariyar"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "kwariyar"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "kwarin"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yeriho"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "itatuwan dabino"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-08-12T06:03:32.673643013Z",
+  "model": "glm-5.2"
+}

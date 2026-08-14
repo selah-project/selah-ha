@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 6:2",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma hannun Midyan ya ƙarfafa a kan Isra'ila; saboda Midyan, 'ya'yan Isra'ila suka yi wa kansu ⟨את⟩ ramuka waɗanda ke cikin duwatsu, da ⟨את⟩ kogon, da ⟨את⟩ katanga.",
+  "tokens": [
+    {
+      "surface": "ותעז",
+      "gloss": "ya ƙarfafa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hannun"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wa kansu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ramuka"
+    },
+    {
+      "surface": "המנהרות",
+      "gloss": "ramuka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda ke"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "cikin duwatsu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kogon"
+    },
+    {
+      "surface": "המערות",
+      "gloss": "kogon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "katanga"
+    },
+    {
+      "surface": "המצדות",
+      "gloss": "katanga"
+    }
+  ],
+  "timestamp": "2026-08-12T07:24:38.825946109Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma fushin Yahweh ta ƙara yin fushi da Isra'ila, sai ya tada ⟨את⟩ Dawuda a cikinsu, yana cewa, \"Tafi, ƙidaya ⟨את⟩ Isra'ila da ⟨את⟩ Yehuda.\"",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "Kuma ta ƙara"
+    },
+    {
+      "surface": "אף",
+      "gloss": "fushin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "yin fushi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "da Isra'ila"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "sai ya tada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawuda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "a cikinsu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tafi"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "ƙidaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isra'ila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-12T10:47:34.567657044Z",
+  "model": "glm-5.2"
+}

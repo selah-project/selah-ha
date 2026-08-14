@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 21:6",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma ya sa ⟨את⟩ ɗansa ya wuce cikin wuta, kuma ya yi tauraruwa, kuma ya gudanar da duba, kuma ya yi ⟨uwo⟩ da masan-boka; ya yawaita yin mugun ne a idanun Yahweh, don haɓinci.",
+  "tokens": [
+    {
+      "surface": "והעביר",
+      "gloss": "Kuma ya sa ya wuce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗansa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗansa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "a cikin wuta"
+    },
+    {
+      "surface": "ועונן",
+      "gloss": "kuma ya yi tauraruwa"
+    },
+    {
+      "surface": "ונחש",
+      "gloss": "kuma ya gudanar da duba"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "⟨uwo⟩"
+    },
+    {
+      "surface": "וידענים",
+      "gloss": "da masan-boka"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ya yawaita"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yin"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mugun"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "don haɓinci"
+    }
+  ],
+  "timestamp": "2026-08-13T02:07:15.206437938Z",
+  "model": "glm-5.2"
+}

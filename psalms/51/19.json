@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 51,
+  "translation": "Hadayoyin Elohim ⟨su ne⟩ ruhu da aka karye; zuciya da aka karye kuma aka kaɗa, Elohim, ba za ka ƙi ba.",
+  "tokens": [
+    {
+      "surface": "זִבְחֵי",
+      "gloss": "hadayoyin"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוּחַ",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "נִשְׁבָּרָה",
+      "gloss": "da aka karye"
+    },
+    {
+      "surface": "לֵב",
+      "gloss": "zuciya"
+    },
+    {
+      "surface": "נִשְׁבָּר",
+      "gloss": "da aka karye"
+    },
+    {
+      "surface": "וְנִדְכֶּה",
+      "gloss": "kuma aka kaɗa"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תִבְזֶה",
+      "gloss": "za ka ƙi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:50:51.042470020Z",
+  "model": "glm-5.2"
+}

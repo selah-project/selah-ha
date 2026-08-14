@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 2:3",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "'Ya'wan Yehuda: Er, da Onan, da Shelah — uku an haifa su ⟨ga shi⟩ daga 'yar Shu'a ⟨ta⟩ Kena'aniyawa. Kuma Er, fari na Yehuda, ya zama muguwa a idanin Yahweh, sai Ya kashe shi.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "'ya'wan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "da Onan"
+    },
+    {
+      "surface": "ושלה",
+      "gloss": "da Shelah"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "uku"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "an haifa su"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ga shi⟩"
+    },
+    {
+      "surface": "מבת",
+      "gloss": "daga 'yar"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shu'a"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "⟨ta⟩ Kena'aniyawa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ya zama"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "fari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "רע",
+      "gloss": "muguwa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "sai Ya kashe shi"
+    }
+  ],
+  "timestamp": "2026-08-12T23:57:17.391140520Z",
+  "model": "glm-5.2"
+}

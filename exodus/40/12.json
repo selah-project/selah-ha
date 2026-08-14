@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ka kusantar da ⟨את⟩ Aharon da ⟨את⟩ ƴaƴansa zuwa ƙofar tantin taro, ka wanke ⟨את⟩ su da ruwa.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "kuma ka kusantar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ƴaƴansa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ƴaƴansa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ƙofar"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent ɗin"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "taro"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ka wanke"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ su",
+      "marks": "su"
+    },
+    {
+      "surface": "במים",
+      "gloss": "da ruwa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:40:36.734558269Z",
+  "model": "glm-5.2"
+}

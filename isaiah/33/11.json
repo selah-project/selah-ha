@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Kuna da ciki ⟨da⟩ busasshen ciyawa, kuna haifuwa da itacen bushewa; iskõrinku wuta ⟨ce⟩, za ta ci ku.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "kuna da ciki"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "busasshen ciyawa"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "kuna haifuwa"
+    },
+    {
+      "surface": "קש",
+      "gloss": "itacen bushewa"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "iskõrinku"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "za ta ci ku"
+    }
+  ],
+  "timestamp": "2026-08-12T13:42:56.631179723Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 8:25",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kafin duwatsu suka nutse, a gaban tsaunuka, an haife ni.",
+  "tokens": [
+    {
+      "surface": "בְּטֶ֣רֶם",
+      "gloss": "kafin"
+    },
+    {
+      "surface": "הָרִ֣ים",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "הָטְבָּ֑עוּ",
+      "gloss": "suka nutse"
+    },
+    {
+      "surface": "לִפְנֵ֖י",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "גְבָע֣וֹת",
+      "gloss": "tsaunuka"
+    },
+    {
+      "surface": "חוֹלָֽלְתִּי",
+      "gloss": "an haife ni"
+    }
+  ],
+  "timestamp": "2026-08-13T02:28:55.075526878Z",
+  "model": "glm-5.2"
+}

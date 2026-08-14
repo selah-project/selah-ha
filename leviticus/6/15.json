@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 6:15",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma kohan da aka shafa, wanda ya gaji shi daga cikin 'ya'yansa, shi ne zai yi ⟨את⟩ ta; lissafin har abada wa Yahweh; gaba ɗaya za a turburya.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Kuma kohan"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "da aka shafa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "wanda ya gaji shi"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "daga cikin 'ya'yansa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "shi ne zai yi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ta",
+      "marks": "ta"
+    },
+    {
+      "surface": "חק",
+      "gloss": "lissafi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "gaba ɗaya"
+    },
+    {
+      "surface": "תקטר",
+      "gloss": "za a turburya"
+    }
+  ],
+  "timestamp": "2026-08-12T01:54:57.889731750Z",
+  "model": "glm-5.2"
+}

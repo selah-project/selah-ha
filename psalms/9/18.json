@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Suka koma mutanen mugunta ⟨zuwa⟩ Sheol, duk ⟨al'umomin⟩ da suka manta da Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Suka koma"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mutanen mugunta"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "⟨zuwa⟩ Sheol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "⟨al'umomin⟩"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "da suka manta da"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T19:20:10.560190809Z",
+  "model": "glm-5.2"
+}

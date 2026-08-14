@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 11:29",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma zai ⟨zama⟩ a lokacin da Yahweh, Elohim naku, ya kawo ku zuwa ƙasar da kuke shiga can don kuyi mata mulki, to kuna sanya ⟨את⟩ albashin a kan Dutsen Gerizim, da ⟨את⟩ la'anar a kan Dutsen Eival.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Kuma zai ⟨zama⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a lokacin da"
+    },
+    {
+      "surface": "יביאך",
+      "gloss": "ya kawo ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ke shiga"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "can"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "don kuyi mata mulki"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "to kuna sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "albashin"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "albashin"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Dutsen"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Gerizim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "la'anar"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "la'anar"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Dutsen"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eival"
+    }
+  ],
+  "timestamp": "2026-08-12T05:12:49.519263427Z",
+  "model": "glm-5.2"
+}

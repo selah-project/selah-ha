@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma Yoav ya yi yaƙi da Rabbat ⟨na⟩ ya'yan Ammon, ya kama ⟨את⟩ birnin mulki.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "Kuma ⟨ya⟩ yi yaƙi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "da Rabbat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨na⟩ ya'yan"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ya kama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birnin"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "mulki"
+    }
+  ],
+  "timestamp": "2026-08-12T10:11:11.390359404Z",
+  "model": "glm-5.2"
+}

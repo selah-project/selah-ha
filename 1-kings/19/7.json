@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma mal'ikin Yahweh ya koma a karo na biyu, kuma ya gẽfe shi, kuma ya ce, \"Tashi, ka ci, domin hanya tana da nisa sosai a gare ka.\"",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Kuma ya koma"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mal'ikin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "a karo na biyu"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "kuma ya gẽfe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Tashi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ka ci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "רב",
+      "gloss": "tana da nisa sosai"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "a gare ka"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "hanya"
+    }
+  ],
+  "timestamp": "2026-08-12T11:38:30.572360240Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 97,
+  "translation": "Duk waɗanda ke bauta wa siffōyi za a ɓata musu rai, ⟨su⟩ masu yabon abin bautawã ƙarya; ku bauta Masa, duk ku *Elohim*.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "za a ɓata musu rai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "waɗanda ke bauta wa"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "siffōyi"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "masu yabon"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "abin bautawã ƙarya"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "ku bauta Massu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ga Shi⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk ku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T20:23:44.934085189Z",
+  "model": "glm-5.2"
+}

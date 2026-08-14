@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Ya tsirar da ni daga maƙiyi⟨na⟩ mai ƙarfi, da kuma daga waɗanda suka ƙi ni, ⟨domin⟩ sun fi ni ƙarfi.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "Ya tsirar da ni"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "daga maƙiyi⟨na⟩"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mai ƙarfi"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "da kuma daga waɗanda suka ƙi ni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨domin⟩"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "sun fi ƙarfi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:24:20.561792262Z",
+  "model": "glm-5.2"
+}

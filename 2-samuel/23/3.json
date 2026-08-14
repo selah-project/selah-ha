@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Elohim na Yisra'el ya ce, Dutsen Yisra'el ya faɗa mini: Yana mulki a cikin mutum, adalci ne yake mulka cikin tsoron Elohim.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya faɗa mini"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨cewa⟩"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Dutsen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "yana mulki"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "a cikin mutum"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "adalci"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ne yake mulka"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "cikin tsoron"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T10:44:47.518923297Z",
+  "model": "glm-5.2"
+}

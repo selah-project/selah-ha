@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Yahweh ya ce wa Qayin, «Don me kake konewa, don me fuskarka ta faɗe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "kake konewa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨a kai⟩"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "da don me"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ta faɗe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuskarka"
+    }
+  ],
+  "timestamp": "2026-08-11T23:20:46.445152941Z",
+  "model": "glm-5.2"
+}

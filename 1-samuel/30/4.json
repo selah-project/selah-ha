@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Dawuda da mutanen da ⟨suka kasance⟩ tare da ⟨את⟩ shi suka ɗaukaka ⟨את⟩ muryoyinsu suka yi kuka, har sai ba su da karfi don yin kuka.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "suka ɗaukaka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "da mutanen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ tare da ⟨את⟩ shi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muryoyinsu"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "muryoyinsu"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "suka yi kuka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sai"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ba su da"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "a cikinsu"
+    },
+    {
+      "surface": "כח",
+      "gloss": "karfi"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "don yin kuka"
+    }
+  ],
+  "timestamp": "2026-08-12T09:44:55.612989179Z",
+  "model": "glm-5.2"
+}

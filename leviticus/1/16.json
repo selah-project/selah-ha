@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Ya cire ⟨את⟩ cikinsa tare da gashin sa, ya jefa ⟨את⟩ ⟨shi⟩ kusa da bagaden gabas, zuwa wajen toka.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "ya cire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cikinsa"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "cikinsa"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "tare da gashin sa"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "ya jefa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨shi⟩",
+      "marks": "cikinsa da gashin sa"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "kusa da"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bagaden"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "gabas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "wajen"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "toka"
+    }
+  ],
+  "timestamp": "2026-08-12T01:44:26.064000758Z",
+  "model": "glm-5.2"
+}

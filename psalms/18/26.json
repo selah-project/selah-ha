@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Tare da mai chesed ⟨kai⟩ nuna chesed; tare da jarumi mai cikakkiya ⟨kai⟩ nuna cikakkiya;",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "mai chesed"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "⟨kai⟩ nuna chesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "jarumi"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "mai cikakkiya"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "⟨kai⟩ nuna cikakkiya"
+    }
+  ],
+  "timestamp": "2026-08-12T19:24:42.843426490Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 71,
+  "translation": "Elohim, kada ka nisanta daga gare ni; Elohim na, zuwa taimako na, yi gaggawa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ka nisanta"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daga gare ni"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "zuwa taimako na"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "yi gaggawa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:00:33.792615442Z",
+  "model": "glm-5.2"
+}

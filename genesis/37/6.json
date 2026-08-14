@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma ya ce musu: \"Ku saurara, ina roƙonku, wannan mafarkin da na mafarka.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֖אמֶר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אֲלֵיהֶ֑ם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "שִׁמְעוּ",
+      "gloss": "Ku saurara"
+    },
+    {
+      "surface": "נָ֕א",
+      "gloss": "ina roƙonku"
+    },
+    {
+      "surface": "הַחֲל֥וֹם",
+      "gloss": "wannan mafarkin"
+    },
+    {
+      "surface": "הַזֶּ֖ה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "da"
+    },
+    {
+      "surface": "חָלָֽמְתִּי",
+      "gloss": "na mafarka"
+    }
+  ],
+  "timestamp": "2026-08-12T00:07:14.236016514Z",
+  "model": "glm-5.2"
+}

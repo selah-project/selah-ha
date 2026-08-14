@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Da ⟨את⟩ masu ja da baya daga bayan Yahweh, waɗanda ba su nemi ⟨את⟩ Yahweh kuma ba su tambaye Shi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Da ⟨את⟩",
+      "marks": "masu ja da baya"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "masu ja da baya"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "daga bayan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "su nemi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "su tambaye Shi"
+    }
+  ],
+  "timestamp": "2026-08-12T18:54:04.202738820Z",
+  "model": "glm-5.2"
+}

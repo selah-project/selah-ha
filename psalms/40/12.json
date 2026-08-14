@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kai, Yahweh, kada ka ɗaure rahamanka daga gare ni; chesedɗinka da gaskiyarka kullum suna kiyaye ni.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kada ka"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "ɗaure"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahamanka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daga gare ni"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesedɗinka"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "da gaskiyarka"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kullum"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "suna kiyaye ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:42:55.656398239Z",
+  "model": "glm-5.2"
+}

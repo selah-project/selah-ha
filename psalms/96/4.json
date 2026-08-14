@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 96,
+  "translation": "Domi Yahweh ⟨ne⟩ babba, kuma an yabe shi sosai, ⟨shi⟩ mai girmama ne a kan duka alloli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "babba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "kuma an yabe shi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "mai girmama"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨shi⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "alloli"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:47.188185467Z",
+  "model": "glm-5.2"
+}

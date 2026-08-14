@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 19:20",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "kuma sauran ⟨mutane⟩ ⟨za su⟩ ji su kuma su ji tsoro, su kuma su kara yi ba tare da su yi irin wannan abu na sharri ba a cikinka.",
+  "tokens": [
+    {
+      "surface": "והנשארים",
+      "gloss": "kuma sauran ⟨mutane⟩"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "⟨za su⟩ ji"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "su kuma su ji tsoro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "suka kara"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ba tare da su"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "suka yi irin wannan abu"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "na sharri"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "a cikinka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:28:31.240293844Z",
+  "model": "glm-5.2"
+}

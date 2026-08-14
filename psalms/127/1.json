@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 127,
+  "translation": "Waƙar hawa. Na Shelomo. Idan Yahweh ba ya gina ⟨alama⟩ gida, ∅ ne masu ginta suka gugga ⟨a kan⟩ shi; idan Yahweh ba ya tsaron ⟨alama⟩ birni, ∅ ne mai tsaro ya rataya.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Waƙar"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Na Shelomo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba ya"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "gina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "∅ ne"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "suka gugga"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "masu ginta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨a kan⟩ shi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba ya"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "tsaron"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "birni"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "∅ ne"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "ya rataya"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "mai tsaro"
+    }
+  ],
+  "timestamp": "2026-08-12T20:51:26.085326006Z",
+  "model": "glm-5.2"
+}

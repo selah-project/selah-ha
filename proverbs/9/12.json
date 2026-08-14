@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Idan ka yi hikima, domin kanka ka yi hikima; kuma idan ka zagi, kai kaɗan ⟨za⟩ ka ɗauki ⟨sakamakon⟩.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "id an"
+    },
+    {
+      "surface": "חָכַמְתָּ",
+      "gloss": "ka yi hikima"
+    },
+    {
+      "surface": "חָכַמְתָּ",
+      "gloss": "ka yi hikima"
+    },
+    {
+      "surface": "לָּךְ",
+      "gloss": "domin kanka"
+    },
+    {
+      "surface": "וְלַצְתָּ",
+      "gloss": "kuma idan ka zagi"
+    },
+    {
+      "surface": "לְבַדְּךָ",
+      "gloss": "kai kaɗan"
+    },
+    {
+      "surface": "תִשָּׂא",
+      "gloss": "⟨za⟩ ka ɗauki ⟨sakamakon⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T21:06:59.403146912Z",
+  "model": "glm-5.2"
+}

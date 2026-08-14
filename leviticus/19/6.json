@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "A rana ⟨ce⟩ da kuka zhiliba ⟨shi⟩ za a ci, kuma a washegari; abin da ya rage sai a ƙone shi da wuta.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "A rana"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "da kuka zhiliba"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "za a ci"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "kuma a washegari"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "abin da ya rage"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "⟨an fassara tare da 'sai a ƙone'⟩"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "⟨an fassara tare da 'sai a ƙone'⟩"
+    },
+    {
+      "surface": "באש",
+      "gloss": "da wuta"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "a ƙone shi"
+    }
+  ],
+  "timestamp": "2026-08-12T02:24:45.848622922Z",
+  "model": "glm-5.2"
+}

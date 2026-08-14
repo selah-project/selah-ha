@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Haka ya faɗa Adonai Yahweh: \"Kuma Ni zan dakatar da ⟨את⟩ tarbar tarin Mitsrayim a hannun Nevukhadretstsar sarkin Bavel.\"",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Haka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "Kuma Ni zan dakatar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tarbar tarin"
+    },
+    {
+      "surface": "המון",
+      "gloss": "tarbar tarin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "a hannun"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevukhadretstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-08-12T17:34:20.262626654Z",
+  "model": "glm-5.2"
+}

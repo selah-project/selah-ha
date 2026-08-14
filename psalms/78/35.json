@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Kuma suka tuna cewa Elohim ⟨ne⟩ dutsensu, da El Elyon ⟨ne⟩ mai fansarsu.",
+  "tokens": [
+    {
+      "surface": "וַֽ֭יִּזְכְּרוּ",
+      "gloss": "Kuma suka tuna"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "אֱלֹהִ֣ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוּרָ֑ם",
+      "gloss": "dutsensu"
+    },
+    {
+      "surface": "וְאֵ֥ל",
+      "gloss": "da El"
+    },
+    {
+      "surface": "עֶ֝לְיוֹן",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "גֹּאֲלָֽם",
+      "gloss": "mai fansarsu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:09:54.891128412Z",
+  "model": "glm-5.2"
+}

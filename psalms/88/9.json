@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 88,
+  "translation": "Ka nisanta saninkina daga gare ni, ka sanya ni abin ƙyama gare su; an tsare ni, kuma ba zan fito ba.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "ka nisanta"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "saninkina"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daga gare ni"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "ka sanya ni"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "abin ƙyama"
+    },
+    {
+      "surface": "למו",
+      "gloss": "gare su"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "an tsare ⟨ni⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "za ni fito"
+    }
+  ],
+  "timestamp": "2026-08-12T20:15:05.328082941Z",
+  "model": "glm-5.2"
+}

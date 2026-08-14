@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma ka yi ⟨את⟩ ta zama turare, hadin(gari) na aikin mai hadawa, gishiri, tsarkakakke ⟨ce⟩, tsarkaka.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "kuma ka yi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ta"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "turare"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "hadin(gari)"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "na aikin"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "mai hadawa"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "gishiri"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tsarkakakke"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsarkaka"
+    }
+  ],
+  "timestamp": "2026-08-12T01:17:04.400815811Z",
+  "model": "glm-5.2"
+}

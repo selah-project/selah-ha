@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 137,
+  "translation": "Ka tuna, Yahweh, ga ɗiyãn Edom ⟨את⟩ rãnar Yerushalaim, waɗanda suka faɗa: \"Ku lalata, ku lalata, har zuwa wajen tushenta!\"",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ka tuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ga ɗiyãn"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rãnar"
+    },
+    {
+      "surface": "יום",
+      "gloss": "rãnar"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "waɗanda suka faɗa"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "ku lalata"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "ku lalata"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "wajen tushenta"
+    },
+    {
+      "surface": "בה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-12T20:56:31.197610749Z",
+  "model": "glm-5.2"
+}

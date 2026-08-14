@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 10:14",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Idan na yi laifi, sai ka tsare ni, kuma ba za ka same ni ba laifi ba daga laifina.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "na yi laifi"
+    },
+    {
+      "surface": "ושמרתני",
+      "gloss": "sai ka tsare ni"
+    },
+    {
+      "surface": "ומעוני",
+      "gloss": "kuma daga laifina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תנקני",
+      "gloss": "za ka same ni ba laifi ba"
+    }
+  ],
+  "timestamp": "2026-08-13T02:31:32.193802465Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma haske ⟨ne⟩ mai daɗi, kuma yana kyau ga idanuwa ⟨don⟩ kallon ⟨את⟩ rana.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "kuma haske mai daɗi"
+    },
+    {
+      "surface": "האור",
+      "gloss": "haske"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "kuma yana kyau"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "ga idanuwa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "don kallon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rana"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rana"
+    }
+  ],
+  "timestamp": "2026-08-13T02:36:34.498430404Z",
+  "model": "glm-5.2"
+}

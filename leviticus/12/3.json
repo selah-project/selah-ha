@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma a rana ta takwas, a kaci fifin jikinsa.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Kuma a rana"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ta takwas"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "a kaci"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "jikin"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "fifin"
+    }
+  ],
+  "timestamp": "2026-08-12T02:07:44.968264703Z",
+  "model": "glm-5.2"
+}

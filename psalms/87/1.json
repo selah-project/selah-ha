@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 87,
+  "translation": "Ga ƴaƴan Korach mazmori, waƙa. Hungargarsa ⟨a cikin⟩ duhun tsarki.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Ga ƴaƴan"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmori"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "waƙa"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "Hungargarsa"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "⟨a cikin⟩ duhun"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsarki"
+    }
+  ],
+  "timestamp": "2026-08-12T20:18:11.749638640Z",
+  "model": "glm-5.2"
+}

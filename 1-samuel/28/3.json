@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Kuma Shemu'el ya mutu, kuma duka Yisra'el sun yi masa makoki, suka binne shi a Rama, ⟨wato⟩ a cikin birninsa. Kuma Sha'ul ya cire mägataba da ⟨את⟩ masu bada waraka daga ƙasa.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Kuma Shemu'el"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ya mutu"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "suka yi masa makoki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "suka binne shi"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "a Rama"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "a cikin birninsa"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Kuma Sha'ul"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ya cire"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "mägataba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "masu bada waraka"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "masu bada waraka"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "daga ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T09:37:38.615899102Z",
+  "model": "glm-5.2"
+}

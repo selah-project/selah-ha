@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 11:31",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Terah ya ɗauki ⟨את⟩ Avram ɗansa, da ⟨את⟩ Lot ɗan Haran ɗan ɗansa, da ⟨את⟩ Sarai amaryar sa, matar Avram ɗansa; kuma suka tafi ⟨את⟩ ⟨tare⟩ da su daga Ur-Kasdim, don su je ƙasar Kenaan; kuma suka zo har Charan, kuma suka zauna can.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kuma ya ɗauki"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Sarai"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "amaryar sa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "matar"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗansa"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "kuma suka tafi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨tare⟩"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "daga Ur"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "don su je"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kuma suka zo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Charan"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "kuma suka zauna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    }
+  ],
+  "timestamp": "2026-08-11T23:31:14.822243028Z",
+  "model": "glm-5.2"
+}

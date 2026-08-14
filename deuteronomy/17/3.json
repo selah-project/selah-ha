@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "kuma ya tafi, ya bauta wa wasu alloli, ya lallasa musu — ko ga rana, ko ga wata, ko ga duk wata rundunar sama, wadda ban umurta ⟨ba⟩ —",
+  "tokens": [
+    {
+      "surface": "וַיֵּלֶךְ",
+      "gloss": "kuma ya tafi"
+    },
+    {
+      "surface": "וַיַּעֲבֹד",
+      "gloss": "ya bauta"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "wa wasu alloli"
+    },
+    {
+      "surface": "אֲחֵרִים",
+      "gloss": "wasu"
+    },
+    {
+      "surface": "וַיִּשְׁתַּחוּ",
+      "gloss": "ya lallasa"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "וְלַשֶּׁמֶשׁ",
+      "gloss": "ko ga rana"
+    },
+    {
+      "surface": "אוֹ",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לַיָּרֵחַ",
+      "gloss": "ga wata"
+    },
+    {
+      "surface": "אוֹ",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "ga duk"
+    },
+    {
+      "surface": "צְבָא",
+      "gloss": "wata rundunar"
+    },
+    {
+      "surface": "הַשָּׁמַיִם",
+      "gloss": "sama"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wadda"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "צִוִּיתִי",
+      "gloss": "ban umurta"
+    }
+  ],
+  "timestamp": "2026-08-12T05:31:29.053011401Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Dõmin yanzu zã su faɗa: Babu sarki a gare mu, dõmin ba mu yi tsõro ba ⟨ga⟩ ⟨את⟩ Yahweh; to shĩ sarki, mẽ zai yi mana?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dõmin"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "zã su faɗa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Babu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a gare mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "mu yi tsõro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "to shĩ sarki"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mẽ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "zai yi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mana"
+    }
+  ],
+  "timestamp": "2026-08-12T18:21:07.134818482Z",
+  "model": "glm-5.2"
+}

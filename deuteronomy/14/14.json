@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "da ⟨את⟩ kowa daga cikin hankaka, bisa ga jinsinsa;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kowa daga cikin hankaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowa daga cikin"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "hankaka"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "bisa ga jinsinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T05:16:45.542670365Z",
+  "model": "glm-5.2"
+}

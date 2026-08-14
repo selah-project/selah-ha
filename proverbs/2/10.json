@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Dõmin hikima ta shiga cikin zuciyarka, kuma sani ya nẽma wa rãranka;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dõmin"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ta shiga"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikima"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "cikin zuciyarka"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "kuma sani"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "wa rãranka"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "ya nẽma"
+    }
+  ],
+  "timestamp": "2026-08-12T21:01:17.638735994Z",
+  "model": "glm-5.2"
+}

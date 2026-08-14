@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "A lokacin da rana ta gajiyata a cikina, na tuna ⟨את⟩ Yahweh; kuma addu'ata ta zo ⟨a⟩ wajenka, ⟨a⟩ cikin fadar tsarkinka.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "A lokacin da ... ta gajiyata"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a cikina"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "na tuna"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "kuma ... ta zo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨a⟩ wajenka"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "addu'ata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩ cikin"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "fadar"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "tsarkinka"
+    }
+  ],
+  "timestamp": "2026-08-12T18:37:53.735215786Z",
+  "model": "glm-5.2"
+}

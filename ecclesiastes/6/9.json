@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Gani idãnu biyu ya fi tafiya ⟨ta⟩ rai; wannan ma hevel ne da ƙuncin iska.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ya fi"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "gani"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "idãnu biyu"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "tafiya"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rai"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "da ƙuncin"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "iska"
+    }
+  ],
+  "timestamp": "2026-08-12T22:47:20.534504991Z",
+  "model": "glm-5.2"
+}

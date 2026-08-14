@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma mu kawo ⟨את⟩ akwatin Elohim mu zuwa gare mu, domin ba Mu nemi shi a cikin kwanakin Sha'ul.\"",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "Kuma mu kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim mu"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "zuwa gare mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "Mu nemi shi"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "a cikin kwanakin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    }
+  ],
+  "timestamp": "2026-08-13T00:17:08.530032569Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Ya ƴaƴan mutane, har yaushe za a juya girmana zuwa kunya? Kuna ƙaunar abu marar amfani, kuna neman ƙarya. Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ya ƴaƴan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yaushe"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "girmana"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "zuwa kunya"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "kuna ƙaunar"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "abu marar amfani"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "kuna neman"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ƙarya"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:29.014985661Z",
+  "model": "glm-5.2"
+}

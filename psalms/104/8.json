@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 104,
+  "translation": "Dutsen sun hawa, ƙwarya suka sauka, zuwa wuri da ⟨ka⟩ kafa musu.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "sun hawa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Dutsen"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "suka sauka"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "ƙwarya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "wuri"
+    },
+    {
+      "surface": "זה",
+      "gloss": "da"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "⟨ka⟩ kafa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:27:45.489082442Z",
+  "model": "glm-5.2"
+}

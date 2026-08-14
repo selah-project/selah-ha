@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 84,
+  "translation": "Masu tsallaka ⟨ta⟩ kwarin Baka, suna sanya ⟨shi⟩ maɓuɓuwa; maɓuɓuwan ruwa ma suna rufe ⟨shi⟩ da albarka.",
+  "tokens": [
+    {
+      "surface": "עֹבְרֵ֤י",
+      "gloss": "Masu tsallaka"
+    },
+    {
+      "surface": "בְּעֵ֣מֶק",
+      "gloss": "⟨ta⟩ kwarin"
+    },
+    {
+      "surface": "הַ֭בָּכָא",
+      "gloss": "Baka"
+    },
+    {
+      "surface": "מַעְיָ֣ן",
+      "gloss": "maɓuɓuwa"
+    },
+    {
+      "surface": "יְשִׁית֑וּהוּ",
+      "gloss": "suna sanya ⟨shi⟩"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בְּרָכ֗וֹת",
+      "gloss": "da albarka"
+    },
+    {
+      "surface": "יַעְטֶ֥ה",
+      "gloss": "suna rufe ⟨shi⟩"
+    },
+    {
+      "surface": "מוֹרֶֽה",
+      "gloss": "maɓuɓuwan ruwa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:15:30.116274633Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Adonai, sau nawa za ka duba? Ka mayar da raina daga rugujewarsu, daga katoren zaki ⟨na⟩ kaɗaɗɗenata!",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "sau nawa"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "za ka duba"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "ka mayar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rina"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "daga rugujewarsu"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "daga katoren zaki"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "kaɗaɗɗenata"
+    }
+  ],
+  "timestamp": "2026-08-12T19:37:19.670525311Z",
+  "model": "glm-5.2"
+}

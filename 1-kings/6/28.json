@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma ya rufe ⟨את⟩ keruvim da zinari.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "kuma ya rufe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keruvim"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "keruvim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinari"
+    }
+  ],
+  "timestamp": "2026-08-12T11:02:46.001984550Z",
+  "model": "glm-5.2"
+}

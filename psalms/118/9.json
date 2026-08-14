@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 118,
+  "translation": "⟨Mafi⟩ kyau ⟨ne⟩ neman mafaka a cikin Yahweh, fiye da dogaro da masu mutuntawa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "kyau"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "neman mafaka"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "a cikin Yahweh"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "fiye da dogaro da"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "masu mutuntawa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:39:17.390899087Z",
+  "model": "glm-5.2"
+}

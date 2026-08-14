@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "⟨Ga⟩ wa⟨n⟩ da yake jagorancin kiɗan, bisa ⟨ga⟩ Nehilot, waƙa ta Dawida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "⟨Ga⟩ wa⟨n⟩ da yake jagorancin kiɗan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bisa ⟨ga⟩"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "Nehilot"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "waƙa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ta Dawida"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:07.438997458Z",
+  "model": "glm-5.2"
+}

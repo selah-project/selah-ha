@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Ka kawo kusa ⟨את⟩ kabilar Lewi, kuma ka tsaya ⟨את⟩ shi a gaban Aharon ⟨alkāhin⟩, kuma su yi ⟨את⟩ masa bauta.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "Ka kawo kusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabilar"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kabilar"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "kuma ka tsaya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨alkāhin⟩"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "kuma su yi bauta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ masa"
+    }
+  ],
+  "timestamp": "2026-08-12T03:18:35.940157302Z",
+  "model": "glm-5.2"
+}

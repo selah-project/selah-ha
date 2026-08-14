@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Sarakunan ƙasa ba su yi ĩmāni ba, ⟨ko⟩ dukan mazaunan duniya, cewa maƙiyi da gaba za su shiga ƙofofin Urushalima.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "su yi ĩmāni"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sarakunan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "⟨ko⟩ dukan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "duniya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "za su shiga"
+    },
+    {
+      "surface": "צר",
+      "gloss": "maƙiyi"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "da gaba"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "ƙofofin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Urushalima"
+    }
+  ],
+  "timestamp": "2026-08-12T22:36:41.619728609Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 23:2",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Sai Dawuda ya tambayi Yahweh ⟨sana cewa⟩: Shin in tafi in duka wa Falastawan nan? Sai Yahweh ya ce wa Dawuda: Tafi, ka duka Falastawa, ka kuma cece Keila.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Sai ya tambayi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨sana cewa⟩"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "Shin in tafi"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "in duka wa"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Falastawan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Sai ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tafi"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "ka duka"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Falastawa"
+    },
+    {
+      "surface": "והושעת",
+      "gloss": "ka kuma cece"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keila"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    }
+  ],
+  "timestamp": "2026-08-12T09:24:57.851832735Z",
+  "model": "glm-5.2"
+}

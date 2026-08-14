@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Domi ⟨ta⟩ yi waƙar kwazon alheri mazauna Marot, domi mugunya ta sauko daga gaban ⟨את⟩ Yahweh har zuwa ƙofar Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "domi"
+    },
+    {
+      "surface": "חָלָה",
+      "gloss": "yi waƙar kwazon"
+    },
+    {
+      "surface": "לְטוֹב",
+      "gloss": "alheri"
+    },
+    {
+      "surface": "יוֹשֶׁבֶת",
+      "gloss": "mazauna"
+    },
+    {
+      "surface": "מָרוֹת",
+      "gloss": "Marot"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domi"
+    },
+    {
+      "surface": "יָרַד",
+      "gloss": "ta sauko"
+    },
+    {
+      "surface": "רָע",
+      "gloss": "mugunya"
+    },
+    {
+      "surface": "מֵאֵת",
+      "gloss": "daga gaban ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לְשַׁעַר",
+      "gloss": "har zuwa ƙofar"
+    },
+    {
+      "surface": "יְרוּשָׁלִַם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-12T18:39:15.961467471Z",
+  "model": "glm-5.2"
+}

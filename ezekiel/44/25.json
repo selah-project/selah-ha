@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 44:25",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Kuma zuwa ga wanda ya mutu ⟨ba⟩ za su shiga don ƙazantarwa, amma ga uba da uwa da ɗa da 'ya, ga ɗan'uwa da 'yar'uwa wanda ba ta kasance ⟨ga⟩ miji, za su ɓata tsarki.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kuma zuwa ga"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ya mutu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "za su shiga"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "don ƙazantarwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨don⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "amma"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "ga uba"
+    },
+    {
+      "surface": "ולאם",
+      "gloss": "da uwa"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "da ɗa"
+    },
+    {
+      "surface": "ולבת",
+      "gloss": "da 'ya"
+    },
+    {
+      "surface": "לאח",
+      "gloss": "ga ɗan'uwa"
+    },
+    {
+      "surface": "ולאחות",
+      "gloss": "da 'yar'uwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ta kasance"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ga miji"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "za su ɓata tsarki"
+    }
+  ],
+  "timestamp": "2026-08-12T18:01:18.699811806Z",
+  "model": "glm-5.2"
+}

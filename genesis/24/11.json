@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 24:11",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Ya sa raƙuman su yi gudingawa a wajen garin, kusa da rijnar ruwa, da yamma, lokacin fitar mata su je ruwa.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Ya sa... su yi gudingawa"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "raƙuman"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "a wajen"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "garin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kusa da"
+    },
+    {
+      "surface": "באר",
+      "gloss": "rijnar"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "lokacin"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "yamma"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "lokacin"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "fitar"
+    },
+    {
+      "surface": "השאבת",
+      "gloss": "mata su je ruwa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:44:12.381905104Z",
+  "model": "glm-5.2"
+}

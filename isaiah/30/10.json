@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Masu cewa ga masu gani, \"Kada ku gani,\" kuma ga masu duba, \"Kada ku duba mana abubuwa madaidaaita, faɗar mana abubuwa laushi, duba mana ɓarna.\"",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "Masu"
+    },
+    {
+      "surface": "אָמְר֤וּ",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "לָֽרֹאִים֙",
+      "gloss": "ga masu gani"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תִרְא֔וּ",
+      "gloss": "ku gani"
+    },
+    {
+      "surface": "וְלַ֣חֹזִ֔ים",
+      "gloss": "kuma ga masu duba"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תֶחֱז֖וּ",
+      "gloss": "ku duba"
+    },
+    {
+      "surface": "לָ֖נוּ",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נְכֹח֑וֹת",
+      "gloss": "abubuwa madaidaaita"
+    },
+    {
+      "surface": "דַּבְּרוּ",
+      "gloss": "faɗar"
+    },
+    {
+      "surface": "לָ֣נוּ",
+      "gloss": "mana"
+    },
+    {
+      "surface": "חֲלָק֔וֹת",
+      "gloss": "abubuwa laushi"
+    },
+    {
+      "surface": "חֲז֖וּ",
+      "gloss": "duba"
+    },
+    {
+      "surface": "מַהֲתַלּֽוֹת",
+      "gloss": "ɓarna"
+    }
+  ],
+  "timestamp": "2026-08-12T13:43:41.901111236Z",
+  "model": "glm-5.2"
+}

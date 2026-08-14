@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 1:2",
+  "book": "amos",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma ya ce: Yahweh daga Tsiyon zai yi kugiya, kuma daga Yerushalaim zai bayar da muryarsa; kuma majami'un mafaranta za su yi makoki, kuma saman Karmel za su bushe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "daga Tsiyon"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "zai yi kugiya"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "kuma daga Yerushalaim"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "zai bayar da"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "muryarsa"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "kuma za su yi makoki"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "majami'un"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "mafaranta"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "kuma za su bushe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "saman"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-08-12T18:29:00.044143862Z",
+  "model": "glm-5.2"
+}

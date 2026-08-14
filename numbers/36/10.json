@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Kamar yadda Yahweh ya umurci ⟨את⟩ Moshe, haka ƴan ƴan Tselophchad suka yi.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ƴan ƴan"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselophchad"
+    }
+  ],
+  "timestamp": "2026-08-12T04:49:40.497451361Z",
+  "model": "glm-5.2"
+}

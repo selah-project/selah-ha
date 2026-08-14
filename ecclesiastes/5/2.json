@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Domin mafarki yana zuwa ne da yawa na cikakken aiki, kuma muryar wãwayi ta kasance cikin yãwar magana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yana zuwa"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "mafarki"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "da yawa na"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "cikakken aiki"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "kuma muryar"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "wãwayi"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "cikin yãwar"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "magana"
+    }
+  ],
+  "timestamp": "2026-08-12T22:44:14.828392409Z",
+  "model": "glm-5.2"
+}

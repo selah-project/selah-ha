@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 8:16",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Da ni sarakuna masu mulki suna yin sarauta, kuma manyan mutane, duk ⟨su⟩ alkalai na adalci.",
+  "tokens": [
+    {
+      "surface": "בִּ֭י",
+      "gloss": "da ni"
+    },
+    {
+      "surface": "שָׂרִ֣ים",
+      "gloss": "sarakuna masu mulki"
+    },
+    {
+      "surface": "יָשֹׂ֑רוּ",
+      "gloss": "suna yin sarauta"
+    },
+    {
+      "surface": "וּ֝נְדִיבִ֗ים",
+      "gloss": "kuma manyan mutane"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "שֹׁ֥פְטֵי",
+      "gloss": "alkalai"
+    },
+    {
+      "surface": "צֶֽדֶק",
+      "gloss": "na adalci"
+    }
+  ],
+  "timestamp": "2026-08-12T21:08:49.340103120Z",
+  "model": "glm-5.2"
+}

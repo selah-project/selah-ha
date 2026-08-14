@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 14:9",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma Mitsrayim sun bi su baya, kuma sun kama su suna sansani a bakin teku, duk dawakai, motocin Paroh, da mahayan dawakansa, da sojojinsa, a bakin Pi-ha-Chiroth, a gaban Baal-Tsephon.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "kuma sun bi baya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "su"
+    },
+    {
+      "surface": "וישיגו",
+      "gloss": "kuma sun kama"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "suna sansani"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bakin teku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "dawakai"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "motocin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "da mahayan dawakansa"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "da sojojinsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bakin"
+    },
+    {
+      "surface": "החירת",
+      "gloss": "Pi-ha-Chiroth"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "Tsephon"
+    }
+  ],
+  "timestamp": "2026-08-12T00:49:53.227553239Z",
+  "model": "glm-5.2"
+}

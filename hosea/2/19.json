@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma zan cire ⟨את⟩ sunayen Baʿalim daga bakinta, kuma ba za a tuna da sunansu ba ⟨sai⟩.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "kuma zan cire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunayen Baʿalim"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sunayen"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baʿalim"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "daga bakinta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "za a tuna"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sai"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "da sunansu"
+    }
+  ],
+  "timestamp": "2026-08-12T18:13:20.480753432Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma ga babban firist na Midyan, ʿansu bakwai; sai suka zo, suka jawo, suka cika ⟨את⟩ marukulan, domin shayar da tawon ubansu.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "kuma ga babban firist"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "na Midyan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bakwai"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ʿansu"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "suka zo"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "suka jawo"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "suka cika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marukukan"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "marukukan"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "domin shayar da"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "tawon"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "ubansu"
+    }
+  ],
+  "timestamp": "2026-08-13T01:45:07.548466036Z",
+  "model": "glm-5.2"
+}

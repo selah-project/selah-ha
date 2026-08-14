@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Ana gaishe Yahweh, Elohim ɗin Isra'ila, daga har abada har abada, kuma duka jama'a za su faɗa Amin. Ku yi ħalilla, ya Yah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Ana gaishe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ɗin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "abada"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "kuma za su faɗa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Ku yi ħalilla"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ya Yah"
+    }
+  ],
+  "timestamp": "2026-08-12T20:30:48.829091452Z",
+  "model": "glm-5.2"
+}

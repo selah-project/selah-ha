@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 3:3",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Bari rana da aka haifa ni a cikinta ta ɓace, da kuma daren da aka faɗa, an ɗauki ciki da namiji.",
+  "tokens": [
+    {
+      "surface": "יֹ֣אבַד",
+      "gloss": "ta ɓace"
+    },
+    {
+      "surface": "י֭וֹם",
+      "gloss": "rana"
+    },
+    {
+      "surface": "אִוָּ֣לֶד",
+      "gloss": "an haifa ni"
+    },
+    {
+      "surface": "בּ֑וֹ",
+      "gloss": "a cikinta"
+    },
+    {
+      "surface": "וְהַלַּ֥יְלָה",
+      "gloss": "da kuma dare"
+    },
+    {
+      "surface": "אָ֝מַ֗ר",
+      "gloss": "da aka faɗa"
+    },
+    {
+      "surface": "הֹ֣רָה",
+      "gloss": "an ɗauki ciki"
+    },
+    {
+      "surface": "גָֽבֶר",
+      "gloss": "namiji"
+    }
+  ],
+  "timestamp": "2026-08-12T21:39:14.870309142Z",
+  "model": "glm-5.2"
+}

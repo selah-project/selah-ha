@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma ya kama ⟨את⟩ biranen katanga na Yehuda, kuma ya zo har Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "kuma ya kama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biranen"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "biranen"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "katanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kuma ya zo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-13T02:45:15.670088067Z",
+  "model": "glm-5.2"
+}

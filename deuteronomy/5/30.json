@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Tafi, ka faɗa musu: Ku koma zuwa gare ku, zuwa iyayenku!",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Tafi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka faɗa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Ku koma"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "zuwa gare ku"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "zuwa iyayenku"
+    }
+  ],
+  "timestamp": "2026-08-12T05:03:45.358254298Z",
+  "model": "glm-5.2"
+}

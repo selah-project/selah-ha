@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Bã su yin kwankwara a kan kansu, kuma gefen gashin murminsu bã za su aske ba, kuma a cikin jikinsu bã su yin yanka, ⟨yanka⟩.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "bã"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "suke yin"
+    },
+    {
+      "surface": "קָרְחָה֙",
+      "gloss": "kwankwara"
+    },
+    {
+      "surface": "בְּרֹאשָׁ֔ם",
+      "gloss": "a kan kansu"
+    },
+    {
+      "surface": "וּפְאַ֥ת",
+      "gloss": "kuma gefen"
+    },
+    {
+      "surface": "זְקָנָ֖ם",
+      "gloss": "gashin murminsu"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "bã"
+    },
+    {
+      "surface": "יְגַלֵּ֑חוּ",
+      "gloss": "za su aske"
+    },
+    {
+      "surface": "וּבִ֨בְשָׂרָ֔ם",
+      "gloss": "kuma a cikin jikinsu"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "bã"
+    },
+    {
+      "surface": "יִשְׂרְט֖וּ",
+      "gloss": "suke yin yanka"
+    },
+    {
+      "surface": "שָׂרָֽטֶת",
+      "gloss": "yanka"
+    }
+  ],
+  "timestamp": "2026-08-12T02:44:19.472726649Z",
+  "model": "glm-5.2"
+}

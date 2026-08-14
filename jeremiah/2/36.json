@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "jeremiah 2:36",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Yadda kake tafiya nesa sosai don canza ⟨את⟩ ⟨אֵת⟩ hanyarka! Har ma daga Mitsrayim za ka ji kunya, kamar yadda ka ji kunya daga Ashur.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "yadda"
+    },
+    {
+      "surface": "תזלי",
+      "gloss": "kake tafiya nesa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "לשנות",
+      "gloss": "don canza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨אֵת⟩",
+      "marks": "hanyarka"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "hanyarka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "har ma"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "daga Mitsrayim"
+    },
+    {
+      "surface": "תבושי",
+      "gloss": "za ka ji kunya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "ka ji kunya"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "daga Ashur"
+    }
+  ],
+  "timestamp": "2026-08-12T14:49:48.860857010Z",
+  "model": "glm-5.2"
+}

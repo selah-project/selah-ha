@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 77,
+  "translation": "Muryata tana zuwa Elohim, ina kuka; muryata tana zuwa Elohim, ⟨kuma⟩ ya saurarani.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "muryata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "ina kuka"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "muryata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "ya saurarani"
+    },
+    {
+      "surface": "אלי",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:38.555888889Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "⟨את⟩ Yahweh, Elohim ka, ka girmama; ⟨את⟩ shi ka bauta, kuma ga shi ka dingama, kuma da sunansa ka rantsa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ka"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ka girmama"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi",
+      "marks": "shi"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ka bauta"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "kuma ga shi"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "ka dingama"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "kuma da sunansa"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ka rantsa"
+    }
+  ],
+  "timestamp": "2026-08-12T05:09:32.740775739Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 91,
+  "translation": "Domin kai, Yahweh, ⟨ne⟩ mafakata, Elyon ka sanya ⟨a matsayin⟩ mazauninka.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מַחְסִ֑י",
+      "gloss": "mafakata"
+    },
+    {
+      "surface": "עֶ֝לְי֗וֹן",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "שַׂ֣מְתָּ",
+      "gloss": "ka sanya"
+    },
+    {
+      "surface": "מְעוֹנֶֽךָ",
+      "gloss": "mazauninka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:19:26.356452102Z",
+  "model": "glm-5.2"
+}

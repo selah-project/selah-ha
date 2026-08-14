@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Yahweh ya yi kamar kalmar Moshe, kuma kwaɗayoyi suka mutu daga ⟨cikin⟩ gidaje, daga ⟨cikin⟩ gwargwado, kuma daga ⟨cikin⟩ filaye.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kamar kalmar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "kuma suka mutu"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "kwaɗayoyi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "gidaje"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "gwargwado"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kuma daga"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "filaye"
+    }
+  ],
+  "timestamp": "2026-08-12T00:38:06.767456061Z",
+  "model": "glm-5.2"
+}

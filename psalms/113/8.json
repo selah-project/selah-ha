@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 113,
+  "translation": "don sa ⟨shi⟩ ya zauna tare da sarakuna, tare da sarakunan mutanensa.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "don sa ya zauna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "sarakuna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "sarakunan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mutanensa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:35:20.563663048Z",
+  "model": "glm-5.2"
+}

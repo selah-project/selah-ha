@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Layoyin awo suka faɗo gare ni cikin kyawawan wurare; girma ⟨ce⟩ gado da ⟨ke⟩ a kaina.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "Layoyin awo"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "suka faɗo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "cikin kyawawan wurare"
+    },
+    {
+      "surface": "אף",
+      "gloss": "girma"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "gado"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "⟨ce⟩"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a kaina"
+    }
+  ],
+  "timestamp": "2026-08-12T19:22:03.321257226Z",
+  "model": "glm-5.2"
+}

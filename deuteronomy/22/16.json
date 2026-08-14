@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "kuma uban yarinyar zai faɗa wa dattawan, ⟨את⟩ 'ɗata nka bada wa wannan mutum a matsayin mata, kuma ya tsananta mata,'",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "kuma zai faɗa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uban"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "yarinyar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "dattawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗata"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ɗata"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nka bada"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "wa mutum"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "a matsayin mata"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "kuma ya tsananta mata"
+    }
+  ],
+  "timestamp": "2026-08-12T05:32:41.147272704Z",
+  "model": "glm-5.2"
+}

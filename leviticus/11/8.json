@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Daga jikinsu ba za ku ci ba, kuma gawansu kada ku taɓa, marar-tsari su ne a gare ku.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "Daga jikinsu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "za ku ci ba"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "kuma gawansu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "ku taɓa"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "marar-tsari"
+    },
+    {
+      "surface": "הם",
+      "gloss": "su"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a gare ku"
+    }
+  ],
+  "timestamp": "2026-08-12T02:05:14.855251918Z",
+  "model": "glm-5.2"
+}

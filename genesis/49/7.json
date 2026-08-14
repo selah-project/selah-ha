@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 49:7",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "An laʻanta fushinsu domin ta tsanani, da fargabarsu domin ta tsauri; zan raba su a cikin Ya'aqov, kuma zan watse su a cikin Yisra'el.",
+  "tokens": [
+    {
+      "surface": "אָר֤וּר",
+      "gloss": "An laʻanta"
+    },
+    {
+      "surface": "אַפָּם֙",
+      "gloss": "fushinsu"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עָ֔ז",
+      "gloss": "ta tsanani"
+    },
+    {
+      "surface": "וְעֶבְרָתָ֖ם",
+      "gloss": "da fargabarsu"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "קָשָׁ֑תָה",
+      "gloss": "ta tsauri"
+    },
+    {
+      "surface": "אֲחַלְּקֵ֣ם",
+      "gloss": "zan raba su"
+    },
+    {
+      "surface": "בְּיַעֲקֹ֔ב",
+      "gloss": "a cikin Ya'aqov"
+    },
+    {
+      "surface": "וַאֲפִיצֵ֖ם",
+      "gloss": "kuma zan watse su"
+    },
+    {
+      "surface": "בְּיִשְׂרָאֵֽל",
+      "gloss": "a cikin Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T00:26:29.312386917Z",
+  "model": "glm-5.2"
+}

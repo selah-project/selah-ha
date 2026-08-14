@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 66:15",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 66,
+  "translation": "Domin ga, Yahweh a cikin wuta Zai zo, kuma motocinsa kamar guguwa, don mayar da fushinsa cikin taurin kai, da tunkiyarsa cikin wutatar wuta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באש",
+      "gloss": "a cikin wuta"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "Zai zo"
+    },
+    {
+      "surface": "וכסופה",
+      "gloss": "kuma kamar guguwa"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "motocinsa"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "don mayar da"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "cikin taurin kai"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "fushinsa"
+    },
+    {
+      "surface": "וגערתו",
+      "gloss": "da tunkiyarsa"
+    },
+    {
+      "surface": "בלהבי",
+      "gloss": "cikin wutatar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wuta"
+    }
+  ],
+  "timestamp": "2026-08-12T14:49:06.274289437Z",
+  "model": "glm-5.2"
+}

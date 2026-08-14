@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Dawuda da mazansa sun tashi da ƙarfe asuba don tafiya safiya su koma ƙasar Filistim; kuma Filistim sun haura Yizre'el.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "sun tashi da ƙarfe asuba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "da mazansa"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "don tafiya"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "safiya"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "su koma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistim"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "kuma Filistim"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "sun haura"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizre'el"
+    }
+  ],
+  "timestamp": "2026-08-12T09:36:45.969538668Z",
+  "model": "glm-5.2"
+}

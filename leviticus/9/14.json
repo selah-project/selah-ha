@@ -1,0 +1,51 @@
+{
+  "tier": "hand",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma ya wanke ⟨את⟩ hanji da ⟨את⟩ ƙafafu, kuma ya ƙone su a kan hadayar ƙonewa a kan bagade.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "kuma ya wanke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сіɡа"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "hanji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ƙаfafu"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "ƙafafu"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "kuma ya ƙone"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "hadayar ƙonewa"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "bagade"
+    }
+  ],
+  "timestamp": "2026-08-13T01:48:50.042836314Z",
+  "model": "glm-5.2"
+}

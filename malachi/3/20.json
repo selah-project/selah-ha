@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "malachi 3:20",
+  "book": "malachi",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma za ta yi wa ku waɗanda ke tsoron Suna ta haskaka, rana ta adalci, kuma warwarewa cikin gadajen ta; kuma za ku fito, kuma ku bijiro kamar yankan shanun da ake ciyar da su a cikin rumbu.",
+  "tokens": [
+    {
+      "surface": "וזרחה",
+      "gloss": "kuma za ta haskaka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wa ku"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "waɗanda ke tsoron"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Suna ta"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "rana"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ta adalci"
+    },
+    {
+      "surface": "ומרפא",
+      "gloss": "kuma warwarewa"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "cikin gadajen ta"
+    },
+    {
+      "surface": "ויצאתם",
+      "gloss": "kuma za ku fito"
+    },
+    {
+      "surface": "ופשתם",
+      "gloss": "kuma ku bijiro"
+    },
+    {
+      "surface": "כעגלי",
+      "gloss": "kamar yankan shanun"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "da ake ciyar da su a cikin rumbu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:16:16.987979391Z",
+  "model": "glm-5.2"
+}

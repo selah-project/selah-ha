@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Tsara zuwa tsara ⟨ce⟩ amincinka; ka kafa ƙasa, kuma ⟨ta⟩ tsaya.",
+  "tokens": [
+    {
+      "surface": "לְדֹ֣ר",
+      "gloss": "Tsara"
+    },
+    {
+      "surface": "וָ֭דֹר",
+      "gloss": "zuwa tsara"
+    },
+    {
+      "surface": "אֱמֽוּנָתֶ֑ךָ",
+      "gloss": "⟨ce⟩ amincinka"
+    },
+    {
+      "surface": "כּוֹנַ֥נְתָּ",
+      "gloss": "ka kafa"
+    },
+    {
+      "surface": "אֶ֝֗רֶץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "וַֽתַּעֲמֹֽד",
+      "gloss": "kuma ⟨ta⟩ tsaya"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:00.704231226Z",
+  "model": "glm-5.2"
+}

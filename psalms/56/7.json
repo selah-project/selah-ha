@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 56,
+  "translation": "Suna zama, suna ɓoye, su ne; suna tsaron dugadena, kamar yadda suka jira rai na.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "Suna zama"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "suna ɓoye"
+    },
+    {
+      "surface": "המה",
+      "gloss": "su ne"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "dugadena"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "suna tsaron"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "suka jira"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rai na"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:04.306299392Z",
+  "model": "glm-5.2"
+}

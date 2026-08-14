@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 28:20",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Gaskiya gajere ne gado ⟨don mutum⟩ ya miƙe ⟨kanshi⟩, kuma kafar ba ta da yalwa idan za a nade ⟨kanshi⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gaskiya"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "gajere ne"
+    },
+    {
+      "surface": "המצע",
+      "gloss": "gado"
+    },
+    {
+      "surface": "מהשתרע",
+      "gloss": "don a miƙe"
+    },
+    {
+      "surface": "והמסכה",
+      "gloss": "kuma kafar"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ba ta da yalwa"
+    },
+    {
+      "surface": "כהתכנס",
+      "gloss": "don a nade"
+    }
+  ],
+  "timestamp": "2026-08-12T13:39:15.524763699Z",
+  "model": "glm-5.2"
+}

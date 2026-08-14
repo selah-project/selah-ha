@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 18:5",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Da sa Dawida ya fita a cikin duk abin da Sha'ula ya aiko shi, ⟨yana gudanar da hikima⟩, kuma Sha'ula ya naɗa shi a kan mutanen yaƙi, kuma ⟨ya kyautata⟩ a idanun dukkan mutanen, har ma a idanun bayin Sha'ula.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ya fita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a cikin duka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "ya aiko shi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ula"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "yana gudanar da hikima"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "ya naɗa shi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ula"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "yaƙi"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "ya kyautata"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "har ma"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanun"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bayin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ula"
+    }
+  ],
+  "timestamp": "2026-08-12T09:15:55.024782951Z",
+  "model": "glm-5.2"
+}

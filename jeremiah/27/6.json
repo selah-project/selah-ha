@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 27:6",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma yanzu, ni na ba ⟨את⟩ dukkanin waɗannan ƙasashe a hannun Nebukadnezzar sarkin Babilon, bāwana; har ma ⟨את⟩ dabbobin daji na ba shi don ya bauta masa.",
+  "tokens": [
+    {
+      "surface": "וְעַתָּ֗ה",
+      "gloss": "Kuma yanzu"
+    },
+    {
+      "surface": "אָֽנֹכִי֙",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נָתַ֨תִּי֙",
+      "gloss": "na ba"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dukkanin waɗannan ƙasashe"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dukkanin"
+    },
+    {
+      "surface": "הָאֲרָצ֣וֹת",
+      "gloss": "ƙasashe"
+    },
+    {
+      "surface": "הָאֵ֔לֶּה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "בְּיַ֛ד",
+      "gloss": "a hannun"
+    },
+    {
+      "surface": "נְבוּכַדְנֶאצַּ֥ר",
+      "gloss": "Nebukadnezzar"
+    },
+    {
+      "surface": "מֶֽלֶךְ",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "בָּבֶ֖ל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "עַבְדִּ֑י",
+      "gloss": "bāwana"
+    },
+    {
+      "surface": "וְגַם֙",
+      "gloss": "har ma"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dabbobin daji"
+    },
+    {
+      "surface": "חַיַּ֣ת",
+      "gloss": "dabbobin"
+    },
+    {
+      "surface": "הַשָּׂדֶ֔ה",
+      "gloss": "daji"
+    },
+    {
+      "surface": "נָתַ֥תִּי",
+      "gloss": "na ba"
+    },
+    {
+      "surface": "ל֖וֹ",
+      "gloss": "shi"
+    },
+    {
+      "surface": "לְעָבְדֽוֹ",
+      "gloss": "don ya bauta masa"
+    }
+  ],
+  "timestamp": "2026-08-12T15:49:53.865417707Z",
+  "model": "glm-5.2"
+}

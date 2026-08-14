@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 20:7",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Ba Kai ne Elohim namu ba, wanda Ya kori mazaunan ⟨את⟩ ƙasar nan daga gaban mutanenKa Isra'il, kuma Ka ba ta ga zuriyar Avraham masoyinKa, har abadā?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai ne"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim namu"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "wanda Ya kori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazaunan ƙasar nan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mutanenKa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'il"
+    },
+    {
+      "surface": "ותתנה",
+      "gloss": "kuma Ka ba ta"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "ga zuriyar"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "masoyinKa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abadā"
+    }
+  ],
+  "timestamp": "2026-08-13T02:49:37.317259134Z",
+  "model": "glm-5.2"
+}

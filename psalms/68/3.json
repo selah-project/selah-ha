@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 68,
+  "translation": "Kamar a kora hayani, sai a kora su; kamar narke dadaji a gaban wuta, haka masu laifi su hallaka daga gaban Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "Kamar a kora"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "hayani"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "sai a kora su"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "kamar narke"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "dadaji"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "su hallaka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "masu laifi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T19:58:47.746296189Z",
+  "model": "glm-5.2"
+}

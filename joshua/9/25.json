@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 9:25",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma yanzu, ga mu cikin hannunka; abin da ⟨ya⟩ yi kyau kuma ⟨ya⟩ yi daidai a idanunka don a yi mana, ka yi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kuma yanzu"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "ga mu"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "cikin hannunka"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "abin da ⟨ya⟩ yi kyau"
+    },
+    {
+      "surface": "וכישר",
+      "gloss": "kuma ⟨ya⟩ yi daidai"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "a idanunka"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "don a yi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ka yi"
+    }
+  ],
+  "timestamp": "2026-08-12T06:21:11.477332637Z",
+  "model": "glm-5.2"
+}

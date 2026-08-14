@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Da ⟨את⟩ ganuwar Yerushalaim a kewaye, dukkan sojojin Kasdim, waɗanda ⟨suke⟩ tare da shugaban mahukanta, suka lalata.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ganuwar"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewaye"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "suka lalata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukka"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sojojin"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "רב",
+      "gloss": "shugaba"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "mahukanta"
+    }
+  ],
+  "timestamp": "2026-08-13T02:06:07.866509370Z",
+  "model": "glm-5.2"
+}

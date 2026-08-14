@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 90,
+  "translation": "Gama dubu shekaru a idanunka ⟨sune⟩ kamar jiya da ta wuce, kuma kamar agogon dare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gama"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "a idanunka"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "jiya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ta wuce"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "kuma kamar agogon"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "dare"
+    }
+  ],
+  "timestamp": "2026-08-12T20:22:43.471735939Z",
+  "model": "glm-5.2"
+}

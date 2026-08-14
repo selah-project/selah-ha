@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma an cika sama da ƙasa, da dukkan jama'arsu.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "an cika"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "da ƙasa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "jama'arsu"
+    }
+  ],
+  "timestamp": "2026-08-11T23:17:47.538572415Z",
+  "model": "glm-5.2"
+}

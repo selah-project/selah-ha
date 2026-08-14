@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma Elqana ya tafi Ramata zuwa gidansa, kuma yaron yana bauta wa ⟨את⟩ Yahweh ⟨את⟩ a gaban Eli kohen.",
+  "tokens": [
+    {
+      "surface": "וַיֵּ֧לֶךְ",
+      "gloss": "kuma ya tafi"
+    },
+    {
+      "surface": "אֶלְקָנָ֛ה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "הָרָמָ֖תָה",
+      "gloss": "Ramata"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "בֵּית֑וֹ",
+      "gloss": "gidansa"
+    },
+    {
+      "surface": "וְהַנַּ֗עַר",
+      "gloss": "kuma yaron"
+    },
+    {
+      "surface": "הָיָ֤ה",
+      "gloss": "yana"
+    },
+    {
+      "surface": "מְשָׁרֵת֙",
+      "gloss": "ba bauta wa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩ a gaban"
+    },
+    {
+      "surface": "פְּנֵ֖י",
+      "gloss": "⟨fuskar⟩"
+    },
+    {
+      "surface": "עֵלִ֥י",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "הַכֹּהֵֽן",
+      "gloss": "kohen"
+    }
+  ],
+  "timestamp": "2026-08-12T08:19:49.984871727Z",
+  "model": "glm-5.2"
+}

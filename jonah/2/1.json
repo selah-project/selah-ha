@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Yahweh ya shirya kifi mai girma don ya hadiye ⟨את⟩ Yonah, kuma Yonah ya kasance cikin ciki na kifi kwanaki uku da daraja uku.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "ya shirya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דג",
+      "gloss": "kifi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mai girma"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "don ya hadiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "cikin ciki na"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "kifi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "uku"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "da uku"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "daraja"
+    }
+  ],
+  "timestamp": "2026-08-12T18:36:51.686492313Z",
+  "model": "glm-5.2"
+}

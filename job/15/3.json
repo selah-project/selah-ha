@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "⟨Don⟩ jayayya da kalma da baya amfani, da kuma magana da ba ta yi amfani ⟨a cikinsu⟩?",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "jayayya"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "da kalma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "da ba"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "amfani"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "da kuma magana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "da ba ta"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "yi amfani"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨a cikinsu⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T21:52:58.727969316Z",
+  "model": "glm-5.2"
+}

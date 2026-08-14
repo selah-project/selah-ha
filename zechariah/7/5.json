@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 7:5",
+  "book": "zechariah",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Faɗa duka ⟨ga⟩ mutanen ƙasa, da ⟨ga⟩ kohanim, ⟨aka ce⟩: Shin, idan kuka azumi, kuka yi makoki a cikin na biyar da na bakwai, da waɗannan shekaru saba'in, shĩ ne azumin da kuka yi minī, nī?",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Faɗa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ga⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "da ⟨ga⟩"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohanim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨aka ce⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Shin"
+    },
+    {
+      "surface": "צמתם",
+      "gloss": "idankan kuka azumi"
+    },
+    {
+      "surface": "וספוד",
+      "gloss": "kuka yi makoki"
+    },
+    {
+      "surface": "בחמישי",
+      "gloss": "a cikin na biyar"
+    },
+    {
+      "surface": "ובשביעי",
+      "gloss": "da na bakwai"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "da waɗannan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "saba'in"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "הצום",
+      "gloss": "shĩ ne azumin"
+    },
+    {
+      "surface": "צמתני",
+      "gloss": "da kuka yi minī"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nī"
+    }
+  ],
+  "timestamp": "2026-08-12T19:01:30.269844279Z",
+  "model": "glm-5.2"
+}

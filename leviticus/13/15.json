@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma kohen ya duba ⟨את⟩ jabirin mai rai, sa'an nan ya ba shi ɓatacciyar tsarkaka; jabirin mai rai ba-tsarkake ⟨ne⟩; gobarar fatar jiki ⟨ce⟩.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "kuma ya duba"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jabirin mai rai"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "jabirin"
+    },
+    {
+      "surface": "החי",
+      "gloss": "mai rai"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "sa'an nan ya ba shi ɓatacciyar tsarkaka"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "jabirin"
+    },
+    {
+      "surface": "החי",
+      "gloss": "mai rai"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ba-tsarkake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "gobarar fatar jiki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    }
+  ],
+  "timestamp": "2026-08-12T02:09:11.638918273Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma Mosheh ya kusantar da ⟨את⟩ Aharon da ⟨את⟩ ƴaƴansa, kuma ya wanka ⟨את⟩ su da ruwa.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Kuma ya kusantar da"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ƴaƴansa"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "kuma ya wanka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ su"
+    },
+    {
+      "surface": "במים",
+      "gloss": "da ruwa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:01:09.853240306Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma ni ne Yahweh, Elohiminka, daga ƙasar Mitsrayim; wani Elohim wanda ba ni ba, ba za ka sani ba, kuma wani mai ceton ba shi ba, sai ni.",
+  "tokens": [
+    {
+      "surface": "וְאָנֹכִ֛י",
+      "gloss": "Kuma ni"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶ֖יךָ",
+      "gloss": "Elohiminka"
+    },
+    {
+      "surface": "מֵאֶ֣רֶץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "מִצְרָ֑יִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וֵאלֹהִ֤ים",
+      "gloss": "wani Elohim"
+    },
+    {
+      "surface": "זֽוּלָתִי֙",
+      "gloss": "wanda ba ni ba"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תֵדָ֔ע",
+      "gloss": "za ka sani"
+    },
+    {
+      "surface": "וּמוֹשִׁ֥יעַ",
+      "gloss": "wani mai ceto"
+    },
+    {
+      "surface": "אַ֖יִן",
+      "gloss": "ba shi"
+    },
+    {
+      "surface": "בִּלְתִּֽי",
+      "gloss": "sai ni"
+    }
+  ],
+  "timestamp": "2026-08-12T18:20:06.029168448Z",
+  "model": "glm-5.2"
+}

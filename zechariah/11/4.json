@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Haka ya ce Yahweh, Elohim na: Ki ki ⟨את⟩ tumar da ake yankewa ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Haka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Ki ki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tumar"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "tumar"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "da ake yankewa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:07:56.248037683Z",
+  "model": "glm-5.2"
+}

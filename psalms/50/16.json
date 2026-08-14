@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "Kuma ga mugun mutum Elohim ya ce: Me ya sa kake faɗar ƙa'idodina, kuma kake ɗaukar alkawarina a bakinka?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "Kuma ga mugun mutum"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Me ya sa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kake"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "faɗar"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "ƙa'idodina"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "kake ɗaukar"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alkawarina"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "bakinka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:48:34.444759418Z",
+  "model": "glm-5.2"
+}

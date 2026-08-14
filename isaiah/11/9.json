@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Ba za su cutar ba, kuma ba za su halaka ba, a duk dangon ⟨dutse⟩ na tsarkina; domin ƙasa ta cika da sanin ⟨את⟩ Yahweh, kamar ruwan da ke rufewa tekun.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יָרֵ֥עוּ",
+      "gloss": "za su cutar"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יַשְׁחִ֖יתוּ",
+      "gloss": "za su halaka"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "הַ֣ר",
+      "gloss": "dutsen"
+    },
+    {
+      "surface": "קָדְשִׁ֑י",
+      "gloss": "tsarkina"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "מָלְאָ֣ה",
+      "gloss": "ta cika"
+    },
+    {
+      "surface": "הָאָ֗רֶץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "דֵּעָה֙",
+      "gloss": "da sanin"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כַּמַּ֖יִם",
+      "gloss": "kamar ruwa"
+    },
+    {
+      "surface": "לַיָּ֥ם",
+      "gloss": "tekun"
+    },
+    {
+      "surface": "מְכַסִּֽים",
+      "gloss": "da ke rufewa"
+    }
+  ],
+  "timestamp": "2026-08-12T13:14:57.580995050Z",
+  "model": "glm-5.2"
+}

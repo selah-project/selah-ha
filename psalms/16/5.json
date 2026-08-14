@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Yahweh ⟨ne⟩ sashen gado na da kofina; kai kai ne ke riƙe goracona.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "sashen"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "gado na"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "da kofina"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "kai ne ke riƙe"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "goracona"
+    }
+  ],
+  "timestamp": "2026-08-12T19:22:03.321059678Z",
+  "model": "glm-5.2"
+}

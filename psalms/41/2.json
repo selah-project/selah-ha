@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Daɗi ya tabbata ga wanda yake auna hankali ga miskini; a ranar da laifi ya faru, Yahweh zai tsire sh.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Daɗi ya tabbata"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yake auna hankali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "דל",
+      "gloss": "miskini"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a ranar"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "da laifi ya faru"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "zai tsire sh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T19:42:39.708585206Z",
+  "model": "glm-5.2"
+}

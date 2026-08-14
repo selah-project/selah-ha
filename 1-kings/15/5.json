@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Don cewa Daviɗi ya aikata ⟨את⟩ abin da ⟨ne⟩ daidai a idanun Yahweh, kuma ba ya karkata daga dukkan abin da Ya umarce shi ba, dukkan kwanakin rayuwarsa, sai dai a cikin lardin Uriya ɗan Hiti.",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "don cewa"
+    },
+    {
+      "surface": "עָשָׂ֥ה",
+      "gloss": "ya aikata"
+    },
+    {
+      "surface": "דָוִ֛ד",
+      "gloss": "Daviɗi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "abin da daidai"
+    },
+    {
+      "surface": "הַיָּשָׁ֖ר",
+      "gloss": "daidai"
+    },
+    {
+      "surface": "בְּעֵינֵ֣י",
+      "gloss": "a idanun"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "סָ֞ר",
+      "gloss": "ya karkata"
+    },
+    {
+      "surface": "מִכֹּ֣ל",
+      "gloss": "daga dukkan"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "צִוָּ֗הוּ",
+      "gloss": "Ya umarce shi"
+    },
+    {
+      "surface": "כֹּ֚ל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "יְמֵ֣י",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "חַיָּ֔יו",
+      "gloss": "rayuwarsa"
+    },
+    {
+      "surface": "רַ֕ק",
+      "gloss": "sai dai"
+    },
+    {
+      "surface": "בִּדְבַ֖ר",
+      "gloss": "a cikin lardin"
+    },
+    {
+      "surface": "אוּרִיָּ֥ה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "הַחִתִּֽי",
+      "gloss": "ɗan Hiti"
+    }
+  ],
+  "timestamp": "2026-08-12T11:34:09.342104844Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma idan ka ce a cikin zuciyarka, Ta yaya za mu san ⟨את⟩ ⟨kalmar⟩ da Yahweh ba ya furta?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ka ce"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "a cikin zuciyarka"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Ta yaya"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "za mu san"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalmar"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨kalmar⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ya furta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T05:24:24.361626140Z",
+  "model": "glm-5.2"
+}

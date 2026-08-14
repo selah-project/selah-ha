@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 25:3",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Shin akwai yawa ga rundunonensa? Kuma wa ⟨ba⟩ hasken sa zai tashi ⟨a kansa⟩?",
+  "tokens": [
+    {
+      "surface": "הֲיֵ֣שׁ",
+      "gloss": "Shin akwai"
+    },
+    {
+      "surface": "מִ֭סְפָּר",
+      "gloss": "yawa"
+    },
+    {
+      "surface": "לִגְדוּדָ֑יו",
+      "gloss": "ga rundunonensa"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "Kuma a kan"
+    },
+    {
+      "surface": "מִ֝י",
+      "gloss": "wa"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "⟨ba⟩"
+    },
+    {
+      "surface": "יָק֥וּם",
+      "gloss": "zai tashi"
+    },
+    {
+      "surface": "אוֹרֵֽהוּ",
+      "gloss": "hasken sa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:02:23.502030118Z",
+  "model": "glm-5.2"
+}

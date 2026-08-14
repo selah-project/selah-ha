@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Sai aka yi, a bãyan wannan, zuciyar Dāwīd ta buge ⟨את⟩ shi, a kan ⟨abin da⟩ ya yankẽ ⟨את⟩ gẽfan gõgon da ke gãbin Sha'ūl.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Sai aka yi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "a bãyan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ta buge"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciyar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dāwīd"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨abin da⟩"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ya yankẽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gẽfan gõgon"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "gẽfan gõgon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "gãbin Sha'ūl"
+    }
+  ],
+  "timestamp": "2026-08-12T09:27:34.741344468Z",
+  "model": "glm-5.2"
+}

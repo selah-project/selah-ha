@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "a gaskiya, idan ka kira zuwa ga basira, ga fahimta ka ɗaga muryarka,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "a gaskiya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "zuwa ga basira"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ka kira"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "ga fahimta"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ka ɗaga"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "muryarka"
+    }
+  ],
+  "timestamp": "2026-08-12T21:05:41.232038426Z",
+  "model": "glm-5.2"
+}

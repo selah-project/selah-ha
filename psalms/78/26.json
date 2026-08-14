@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Ya motsa iskar gabas a sama, kuma da ƙarfi Sa Ya jagoranta iskar kudu.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "Ya motsa"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "iskar gabas"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "a sama"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "kuma Ya jagoranta"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "da ƙarfi Sa"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "iskar kudu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:09:01.560185641Z",
+  "model": "glm-5.2"
+}

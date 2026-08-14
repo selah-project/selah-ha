@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma kana shigar da ⟨את⟩ sanduna a cikin zobena kan ƙafafun Tabut, don ɗaukar ⟨את⟩ Tabut da su.",
+  "tokens": [
+    {
+      "surface": "וְהֵֽבֵאתָ֤",
+      "gloss": "Kuma kana shigar da"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sanduna"
+    },
+    {
+      "surface": "הַבַּדִּים֙",
+      "gloss": "sanduna"
+    },
+    {
+      "surface": "בַּטַּבָּעֹ֔ת",
+      "gloss": "a cikin zobena"
+    },
+    {
+      "surface": "עַ֖ל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "צַלְעֹ֣ת",
+      "gloss": "ƙafafun"
+    },
+    {
+      "surface": "הָאָרֹ֑ן",
+      "gloss": "Tabut"
+    },
+    {
+      "surface": "לָשֵׂ֥את",
+      "gloss": "don ɗaukar"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Tabut"
+    },
+    {
+      "surface": "הָאָרֹ֖ן",
+      "gloss": "Tabut"
+    },
+    {
+      "surface": "בָּהֶֽם",
+      "gloss": "da su"
+    }
+  ],
+  "timestamp": "2026-08-13T01:46:13.420093369Z",
+  "model": "glm-5.2"
+}

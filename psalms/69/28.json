@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Saka laifi a kan laifinsu, kuma kada su shiga cikin adalce ⟨ka⟩.",
+  "tokens": [
+    {
+      "surface": "תְּֽנָה",
+      "gloss": "saka"
+    },
+    {
+      "surface": "עָ֭וֺן",
+      "gloss": "laifi"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "עֲוֺנָ֑ם",
+      "gloss": "laifinsu"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "יָ֝בֹ֗אוּ",
+      "gloss": "su shiga"
+    },
+    {
+      "surface": "בְּצִדְקָתֶֽךָ",
+      "gloss": "cikin adalceka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:01:15.592243059Z",
+  "model": "glm-5.2"
+}

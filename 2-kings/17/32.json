@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 17:32",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma ⟨sun kasance⟩ suna girmama ⟨את⟩ Yahweh, su kuma suka naɗa musu, daga ƙarshensu, kohanimi na bamot, su kuma ⟨suna kasancewa⟩ suna yinsu a cikin gida na bamot.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "kuma ⟨suka kasance⟩"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "suna girmama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "su kuma suka naɗa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "מקצותם",
+      "gloss": "daga ƙarshensu"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "kohanimi"
+    },
+    {
+      "surface": "במות",
+      "gloss": "na bamot"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "su kuma ⟨suna kasancewa⟩"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "suna yinsu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a cikin gida na"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamot"
+    }
+  ],
+  "timestamp": "2026-08-12T12:31:28.035616931Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma bayin Amon sun yi makirci a kansa, suka kashe ⟨את⟩ sarkin a cikin gidansa.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "kuma sun yi makirci"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bayin"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "suka kashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarkin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "a cikin gidansa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:06:47.059898493Z",
+  "model": "glm-5.2"
+}

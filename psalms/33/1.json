@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Ku rera da murya, ku tsaltsalanta, ku masu adalci, a cikin Yahweh; ga masu daidaito ⟨ce⟩ ta dace yabo.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "Ku rera da murya, ku tsaltsalanta"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ku masu adalci"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "a cikin Yahweh"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "ga masu daidaito"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ta dace"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "yabo"
+    }
+  ],
+  "timestamp": "2026-08-12T19:37:50.303956194Z",
+  "model": "glm-5.2"
+}

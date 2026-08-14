@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kai za ka yi magana ⟨game da⟩ ⟨את⟩ duk abin da nike umartar ka, kuma Aharon ɗan'uwanka zai yi magana da Paroh, domin ya aje ⟨את⟩ ya tura ɗaŋ̊an Isra'ila daga ƙasarsa.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "za ka yi magana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duk abin da nike umartar ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "nike umartar ka"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "kuma Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ɗan'uwanka"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "zai yi magana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "domin ya tura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗaŋ̊an Isra'ila"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗaŋ̊an"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "daga ƙasarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:36:41.986329749Z",
+  "model": "glm-5.2"
+}

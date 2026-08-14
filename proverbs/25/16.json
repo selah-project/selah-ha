@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 25:16",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Asali ka same, ka ci abin da ya ishe ⟨kai⟩; kada ka gaji da shi, ⟨domin⟩ ka yi amai da shi.",
+  "tokens": [
+    {
+      "surface": "דְּבַ֣שׁ",
+      "gloss": "asali"
+    },
+    {
+      "surface": "מָצָאתָ",
+      "gloss": "ka same"
+    },
+    {
+      "surface": "אֱכֹ֣ל",
+      "gloss": "ka ci"
+    },
+    {
+      "surface": "דַּיֶּ֑ךָּ",
+      "gloss": "abin da ya ishe ⟨kai⟩"
+    },
+    {
+      "surface": "פֶּן",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תִּשְׂבָּעֶ֗נּוּ",
+      "gloss": "ka gaji da shi"
+    },
+    {
+      "surface": "וַהֲקֵֽאתֽוֹ",
+      "gloss": "⟨domin⟩ ka yi amai da shi"
+    }
+  ],
+  "timestamp": "2026-08-12T21:29:44.214945985Z",
+  "model": "glm-5.2"
+}

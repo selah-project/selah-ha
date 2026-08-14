@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma irinku da lambun inabinku zai ɗauka goma ɗaya, kuma ya ba wa bāfādukansa da bayinsa.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "Kuma irinku"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "da lambun inabinku"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "zai ɗauka goma ɗaya"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "kuma ya ba"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "wa bāfādukansa"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "da bayinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T08:40:43.636050453Z",
+  "model": "glm-5.2"
+}

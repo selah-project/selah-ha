@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Elohim, da kunamu muna ji; ʼubanninmu sun faɗa mana aiki da ka aikata a cikin kwana'insu, a cikin kwana'in da suka gabata.",
+  "tokens": [
+    {
+      "surface": "אֱלֹהִ֤ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בְּאָזְנֵ֬ינוּ",
+      "gloss": "da kunamu"
+    },
+    {
+      "surface": "שָׁמַ֗עְנוּ",
+      "gloss": "muna ji"
+    },
+    {
+      "surface": "אֲבוֹתֵ֥ינוּ",
+      "gloss": "ʼubanninmu"
+    },
+    {
+      "surface": "סִפְּרוּ",
+      "gloss": "sun faɗa"
+    },
+    {
+      "surface": "לָ֑נוּ",
+      "gloss": "mana"
+    },
+    {
+      "surface": "פֹּ֥עַל",
+      "gloss": "aiki"
+    },
+    {
+      "surface": "פָּעַ֥לְתָּ",
+      "gloss": "ka aikata"
+    },
+    {
+      "surface": "בִּֽ֝ימֵיהֶ֗ם",
+      "gloss": "a cikin kwana'insu"
+    },
+    {
+      "surface": "בִּ֣ימֵי",
+      "gloss": "a cikin kwana'in"
+    },
+    {
+      "surface": "קֶֽדֶם",
+      "gloss": "da suka gabata"
+    }
+  ],
+  "timestamp": "2026-08-12T19:43:52.624440865Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 54:12",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 54,
+  "translation": "Kuma zan sanya windowsunku da ruby, da kofofinka da duwatsun wuta, kuma duka iyakarki da duwatsun farin ciki.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Kuma zan sanya"
+    },
+    {
+      "surface": "כדכד",
+      "gloss": "da ruby"
+    },
+    {
+      "surface": "שמשתיך",
+      "gloss": "windowsunku"
+    },
+    {
+      "surface": "ושעריך",
+      "gloss": "da kofofinka"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "da duwatsun"
+    },
+    {
+      "surface": "אקדח",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma duka"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "iyakarki"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "da duwatsun"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "farin ciki"
+    }
+  ],
+  "timestamp": "2026-08-12T14:24:55.841181438Z",
+  "model": "glm-5.2"
+}

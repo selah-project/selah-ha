@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Amma kuna ɓata shi ⟨את⟩, a lokacin da kuke cewa, 'Teburin Adonai ya ɓaci,' kuma 'abin 'ya'ansa abin zagi ne a cin sa.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Amma kuna"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "ɓata"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "a lokacin da kuke cewa"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "Teburin"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "ya ɓaci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "kuma 'abin 'ya'ansa"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "abin zagi ne"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "a cin sa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:51.084347420Z",
+  "model": "glm-5.2"
+}

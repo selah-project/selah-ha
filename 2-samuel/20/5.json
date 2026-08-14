@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Sai Amasa ya tafi don ya kira ⟨את⟩ Yahuɗa, kuma ya jinkirta daga lokacin da aka kayyade waɗanda ya kayyade masa.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kuma ya tafi"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "don ya kira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuɗa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuɗa"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "kuma ya jinkirta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "lokacin da aka kayyade"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "ya kayyade masa"
+    }
+  ],
+  "timestamp": "2026-08-12T10:38:15.381514223Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 149,
+  "translation": "Don ɗaure sarakunansu da sarƙoƙi, da mashahuransu da ƙwalange baƙin ƙarfe.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "don ɗaure"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "sarakunansu"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "da sarƙoƙi"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "da mashahuransu"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "da ƙwalange"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "baƙin ƙarfe"
+    }
+  ],
+  "timestamp": "2026-08-12T20:58:17.297616037Z",
+  "model": "glm-5.2"
+}

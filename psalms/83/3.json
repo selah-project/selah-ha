@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 83,
+  "translation": "Gama ga, manzonka suna yin ƙara, kuma waɗanda ke ƙin ka sun ɗauki kai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gama"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "manzonka"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "suna yin ƙara"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "kuma waɗanda ke ƙin ka"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "sun ɗauki"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kai"
+    }
+  ],
+  "timestamp": "2026-08-12T20:13:07.370080747Z",
+  "model": "glm-5.2"
+}

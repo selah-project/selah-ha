@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Dõgãre dã manya na fahimta fiye, dõmin na kiyaye ƙa'idõinka.",
+  "tokens": [
+    {
+      "surface": "מִזְּקֵנִ֥ים",
+      "gloss": "fiye dã manya"
+    },
+    {
+      "surface": "אֶתְבּוֹנָ֑ן",
+      "gloss": "na fahimta"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "פִּקּוּדֶ֣יךָ",
+      "gloss": "ƙa'idõinka"
+    },
+    {
+      "surface": "נָצָֽרְתִּי",
+      "gloss": "na kiyaye"
+    }
+  ],
+  "timestamp": "2026-08-12T20:46:34.411129581Z",
+  "model": "glm-5.2"
+}

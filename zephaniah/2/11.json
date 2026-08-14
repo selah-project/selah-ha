@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zephaniah 2:11",
+  "book": "zephaniah",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Yahweh zai zama mai girma a tsoratarsu, domin zai busa ⟨את⟩ dukkan _elohim_ na ƙasar; kuma duk mutum daga wurinsa zai yi masa lallashi, dukkan tsibiran al'ummai.",
+  "tokens": [
+    {
+      "surface": "נורא",
+      "gloss": "mai girma a tsoratarsu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "a kansu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "רזה",
+      "gloss": "zai busa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "na ƙasar"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "kuma zai yi lallashi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "duk mutum"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "daga wurinsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "איי",
+      "gloss": "tsibayan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "al'ummai"
+    }
+  ],
+  "timestamp": "2026-08-12T18:52:38.100378093Z",
+  "model": "glm-5.2"
+}

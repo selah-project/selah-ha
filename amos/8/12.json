@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma suna gudu daga teku zuwa teku, kuma daga arewa har zuwa gabas; suna yawo suna neman ⟨את⟩ kalmar Yahweh, amma ba za su same ⟨ta⟩ ba.",
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "kuma suna gudu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "daga teku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "kuma daga arewa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "gabas"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "suna yawo"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "suna neman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalmar"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalmar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "za su same ⟨ta⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T18:35:20.502686017Z",
+  "model": "glm-5.2"
+}

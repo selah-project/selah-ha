@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Ku ɗauki Midyanawa a matsayin maƙiya, ku ci ⟨את⟩ Midyanawa, kuma ku doke ⟨את⟩ su.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "ku ɗauki a matsayin maƙiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midyanawa"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "Midyanawa"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "kuma ku doke su"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ su"
+    }
+  ],
+  "timestamp": "2026-08-12T04:20:27.008450470Z",
+  "model": "glm-5.2"
+}

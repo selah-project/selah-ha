@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Ga ⟨mai⟩ jagora, da kida, a kan maƙamin takwas; waƙa, na Dawida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga ⟨mai⟩ jagora"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "da kida"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "maƙamin shida"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "waƙa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na Dawida"
+    }
+  ],
+  "timestamp": "2026-08-12T19:16:14.601988674Z",
+  "model": "glm-5.2"
+}

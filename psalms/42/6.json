@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Don me kake rushe ⟨kai⟩, raina, kuma kake guruɗe a kaina? Ka yi jira ga Elohim, cewa har ina gabatar da shukari, shi ⟨ne⟩ taimakon fuskarsa.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "kake rushe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "raina"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "kuma kake guruɗe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a kaina"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "ka yi jira"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ga Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "har"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "ina gabatar da shukari"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "taimakon"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuskarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:42:36.586145275Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 57,
+  "translation": "Sundo suka shirya wa qafafu-na, sun danne rai-na, suka yi rami a gaba-na, sun faɗa cikin-sa. Selah.",
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "sundo"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "suka shirya"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "wa qafafu-na"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "sun danne"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rai-na"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "suka yi rami"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaba-na"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "rami"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "sun faɗa"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "cikin-sa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T19:52:19.790568818Z",
+  "model": "glm-5.2"
+}

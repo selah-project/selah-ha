@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 10:9",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Daga kwanakin Gib'a, Israel ta yi zunubi; can ⟨suka⟩ tsaya. ⟨Ba⟩ za ta kama su ba⟨a⟩ yaki a Gib'a saboda 'ya'yan ɓata.",
+  "tokens": [
+    {
+      "surface": "מימי",
+      "gloss": "Daga kwanakin"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gib'a"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ta yi zunubi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "⟨suka⟩ tsaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨Ba⟩"
+    },
+    {
+      "surface": "תשיגם",
+      "gloss": "za ta kama su"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "ba⟨a⟩"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "yaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "ɓata"
+    }
+  ],
+  "timestamp": "2026-08-12T18:17:48.631712459Z",
+  "model": "glm-5.2"
+}

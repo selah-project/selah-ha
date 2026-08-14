@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 94,
+  "translation": "Bazawara da bāƙo suna kashe, kuma marāyū suna kashewa da gangan.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "bazawara"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "da bāƙo"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "suna kashe"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "kuma marāyū"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "suna kashewa da gangan"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:30.220026985Z",
+  "model": "glm-5.2"
+}

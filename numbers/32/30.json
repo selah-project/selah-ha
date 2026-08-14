@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 32:30",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "kuma idan ba su tsallaka ⟨את⟩ ⟨tare⟩ da ku masu yaƙi ba, to su zauna tsakanin ku cikin ƙasar Kena'an.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "su tsallaka"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "masu yaƙi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨tare⟩ da ku"
+    },
+    {
+      "surface": "ונאחזו",
+      "gloss": "to su zauna"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "tsakanin ku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "cikin ƙasar"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    }
+  ],
+  "timestamp": "2026-08-12T04:42:29.406168539Z",
+  "model": "glm-5.2"
+}

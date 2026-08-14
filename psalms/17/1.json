@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Addu'a ta Dawid. Sauraro, Yahweh, adalci! Kai kunnuwa zuwa ga kirata na! Saurari addu'ata — ba ⟨daga⟩ leɓunan magana ba!",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Addu'a"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ta Dawid"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Sauraro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adalci"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "Kai kunnuwa"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "zuwa ga kirata na"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Saurari"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "addu'ata"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "leɓunan"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "magana"
+    }
+  ],
+  "timestamp": "2026-08-12T19:22:47.702937987Z",
+  "model": "glm-5.2"
+}

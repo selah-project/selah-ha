@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 26:32",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "kuma na Shemida, iyalin Shemida'i; kuma na Hepher, iyalin Hefri.",
+  "tokens": [
+    {
+      "surface": "ושמידע",
+      "gloss": "kuma na Shemida"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "iyalin"
+    },
+    {
+      "surface": "השמידעי",
+      "gloss": "Shemida'i"
+    },
+    {
+      "surface": "וחפר",
+      "gloss": "kuma na Hepher"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "iyalin"
+    },
+    {
+      "surface": "החפרי",
+      "gloss": "Hefri"
+    }
+  ],
+  "timestamp": "2026-08-12T04:28:21.901851793Z",
+  "model": "glm-5.2"
+}

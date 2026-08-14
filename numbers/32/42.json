@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Kuma Novah ya tafi, ya kama ⟨את⟩ Kenat da ⟨את⟩ ɗiyarta, kuma ya kira shi ⟨da⟩ sunansa Novah.",
+  "tokens": [
+    {
+      "surface": "ויבח",
+      "gloss": "Kuma Novah"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ya kama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ɗiyarta"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "ɗiyarta"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kuma ya kira"
+    },
+    {
+      "surface": "לה",
+      "gloss": "shi"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novah"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "da sunansa"
+    }
+  ],
+  "timestamp": "2026-08-12T04:38:30.291435651Z",
+  "model": "glm-5.2"
+}

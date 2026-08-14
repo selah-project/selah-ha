@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma Yahweh ya ce wa Qayin, \"Ina ⟨ne⟩ Hevel ɗan'uwanka?\" Kuma ⟨ya⟩ ce, \"Ba na san ⟨ba⟩; shin, ni ⟨ne⟩ mai kula da ɗan'uwana?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayin"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Ina"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ɗan'uwanka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "na san"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "mai kula"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ɗan'uwana"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-11T23:22:40.582230119Z",
+  "model": "glm-5.2"
+}

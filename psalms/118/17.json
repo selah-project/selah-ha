@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 118,
+  "translation": "Bã zan mutu ba, amma zan rai, kuma zan faɗa ayyukan Yah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Bã...ba"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "zan mutu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amma"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "zan rai"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "kuma zan faɗa"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ayyukan"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-12T20:39:32.558343797Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 126,
+  "translation": "Tafiya yana tafiya kuma yana kuka, yana ɗauke iri, tabbas zai zo da reraƙo, yana ɗauke da damakensa.",
+  "tokens": [
+    {
+      "surface": "הָלוֹךְ",
+      "gloss": "tafiya"
+    },
+    {
+      "surface": "יֵלֵךְ",
+      "gloss": "yana tafiya"
+    },
+    {
+      "surface": "וּבָכֹה֮",
+      "gloss": "kuma yana kuka"
+    },
+    {
+      "surface": "נֹשֵׂ֪א",
+      "gloss": "yana ɗauke"
+    },
+    {
+      "surface": "מֶ֫שֶׁךְ",
+      "gloss": "iri"
+    },
+    {
+      "surface": "הַזָּרַע",
+      "gloss": "na shuka"
+    },
+    {
+      "surface": "בֹּֽא",
+      "gloss": "tabbas"
+    },
+    {
+      "surface": "יָבֹ֥א",
+      "gloss": "zai zo"
+    },
+    {
+      "surface": "בְרִנָּ֑ה",
+      "gloss": "da reraƙo"
+    },
+    {
+      "surface": "נֹשֵׂ֗א",
+      "gloss": "yana ɗauke"
+    },
+    {
+      "surface": "אֲלֻמֹּתָֽיו",
+      "gloss": "da damakensa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:49:08.971339306Z",
+  "model": "glm-5.2"
+}

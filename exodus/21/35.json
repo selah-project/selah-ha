@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma idan shanun mutum ya buga ⟨את⟩ shanun kifinsa, ya kuma mutu, za su sayar da ⟨את⟩ shanun da yake rai, su kuma raba ⟨את⟩ kuɗin sa, kuma ⟨את⟩ wanda ya mutu za su raba shi.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "ya buga"
+    },
+    {
+      "surface": "שור",
+      "gloss": "shanun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shanun kifinsa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "shanun"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kifinsa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ya kuma mutu"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "za su sayar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shanun da yake rai"
+    },
+    {
+      "surface": "השור",
+      "gloss": "shanun"
+    },
+    {
+      "surface": "החי",
+      "gloss": "da yake rai"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "su kuma raba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuɗin sa"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "kuɗin sa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanda ya mutu"
+    },
+    {
+      "surface": "המת",
+      "gloss": "wanda ya mutu"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "za su raba shi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:58:40.362768829Z",
+  "model": "glm-5.2"
+}

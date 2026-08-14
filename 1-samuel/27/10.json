@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Aƙish ya ce, \"A ina kuka yi fashin yau?\" Daɗa ya ce, \"A kan Negev na Yahuɗa, da kuma a kan Negev na Yerahmeeli, da kuma a kan Negev na Ƙeniyawa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Aƙish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "(a cikin)kuka yi fashin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daɗa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuɗa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da a kan"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "Yerahmeeli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "da a kan"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "Ƙeniyawa"
+    }
+  ],
+  "timestamp": "2026-08-12T09:43:50.270541910Z",
+  "model": "glm-5.2"
+}

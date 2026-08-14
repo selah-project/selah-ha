@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Ya ce musu sarki: Mafarkai na yi mafarka, kuma ruhuna ya firgita ⟨don⟩ in san ⟨את⟩ mafarkin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ya ce"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "Mafarkai"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "na yi mafarka"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "kuma ya firgita"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhuna"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "⟨don⟩ in san"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafarkin"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "mafarkin"
+    }
+  ],
+  "timestamp": "2026-08-12T23:02:14.252496330Z",
+  "model": "glm-5.2"
+}

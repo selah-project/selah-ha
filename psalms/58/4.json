@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 58,
+  "translation": "Masu mugun nufi sun rabu ⟨da⟩ mahaifa; sun ɓace daga ciki, masu magana da ƙarya.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "sun rabu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Masu mugun nufi"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "⟨da⟩ mahaifa"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "sun ɓace"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "daga ciki"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "masu magana"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "da ƙarya"
+    }
+  ],
+  "timestamp": "2026-08-12T19:53:54.373854458Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Wannan hanyarsu ⟨itace⟩ wawayanci gare su, kuma waɗanda ⟨suke⟩ a bayansu da bakinsu za su yarda. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "hanyarsu"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "wawayanci"
+    },
+    {
+      "surface": "למו",
+      "gloss": "gare su"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "kuma waɗanda a bayansu"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "da bakinsu"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "za su yarda"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T19:48:18.095708735Z",
+  "model": "glm-5.2"
+}

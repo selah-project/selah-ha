@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 10:6",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Babu wanda ⟨yake⟩ kamar kai, Yahweh; kai babba ne, kuma sunanka babba ne a cikin ƙarfi.",
+  "tokens": [
+    {
+      "surface": "מֵא֥ין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "כָּמ֖וֹךָ",
+      "gloss": "wanda kamar kai"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גָּד֥וֹל",
+      "gloss": "babba"
+    },
+    {
+      "surface": "אַתָּ֛ה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "וְגָד֥וֹל",
+      "gloss": "kuma babba"
+    },
+    {
+      "surface": "שִׁמְךָ֖",
+      "gloss": "sunanka"
+    },
+    {
+      "surface": "בִּגְבוּרָֽה",
+      "gloss": "a cikin ƙarfi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:12:47.772939010Z",
+  "model": "glm-5.2"
+}

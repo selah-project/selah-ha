@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Sarkin Mitsrayim ya ce musu: \"Don me, Moshe da Aharon, kuke kwantar da ⟨את⟩ mutane daga ayyukansu? Ku koma ku bi ajuwarku!\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Sarkin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Don me"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "da Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "kuke kwantar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutane"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "daga ayyukansu"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Ku koma"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "ku bi ajuwarku"
+    }
+  ],
+  "timestamp": "2026-08-12T00:37:07.550361027Z",
+  "model": "glm-5.2"
+}

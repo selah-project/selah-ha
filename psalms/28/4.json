@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 28:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Ka ba su gwargwadon aikinsu da gwargwadon mugunta na halayensu, gwargwadon aikin hannayensu ka ba su, ka mayar musu sakamakonsu.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Ka ba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "su"
+    },
+    {
+      "surface": "כפעלם",
+      "gloss": "gwargwadon aikinsu"
+    },
+    {
+      "surface": "וכרע",
+      "gloss": "da gwargwadon mugunta ⟨na⟩"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "halayensu"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "gwargwadon aikin"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hannayensu"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ka ba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "su"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ka mayar"
+    },
+    {
+      "surface": "גמולם",
+      "gloss": "sakamakonsu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:00.365177032Z",
+  "model": "glm-5.2"
+}

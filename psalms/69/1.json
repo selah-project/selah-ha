@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Ga ⟨manã⟩ mai gudanarwa, a kan Shoshannim, na Dawuda.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga ⟨manã⟩ mai gudanarwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na Dawuda"
+    }
+  ],
+  "timestamp": "2026-08-12T20:00:18.106415595Z",
+  "model": "glm-5.2"
+}

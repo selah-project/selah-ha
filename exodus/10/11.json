@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "A'a, ba haka ba; ku tafi, ku waɗanda kuke maza, ku bauta wa ⟨את⟩ Yahweh, domin shi kuke nema. Kuma aka kore su daga ⟨gaban⟩ Paroh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "a'a"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ku tafi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "waɗanda kuke maza"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ku bauta wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ku"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "shi"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "ke nema"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "Kuma aka kore su"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-12T00:43:02.812241440Z",
+  "model": "glm-5.2"
+}

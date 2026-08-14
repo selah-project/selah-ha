@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Dawida ya ci gaba da tafiya da girma, kuma Yahweh Sebaot ⟨yana⟩ tare da shi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kuma ya ci gaba da tafiya"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "tafiya"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "da girma"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kuma Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tare da shi"
+    }
+  ],
+  "timestamp": "2026-08-13T00:08:42.750329332Z",
+  "model": "glm-5.2"
+}

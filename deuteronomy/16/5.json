@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Ba za ka iya yin ⟨את⟩ hadaya ta Pesah a cikin ɗaya daga cikin ƙofofinka ba, waɗanda Yahweh Elohimka yake bayar maka.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תוּכַל",
+      "gloss": "za ka iya"
+    },
+    {
+      "surface": "לִזְבֹּחַ",
+      "gloss": "yin hadaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadaya ta Pesah"
+    },
+    {
+      "surface": "הַפָּסַח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "בְּאַחַד",
+      "gloss": "a cikin ɗaya"
+    },
+    {
+      "surface": "שְׁעָרֶיךָ",
+      "gloss": "daga cikin ƙofofinka"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "Elohimka"
+    },
+    {
+      "surface": "נֹתֵן",
+      "gloss": "yake bayar"
+    },
+    {
+      "surface": "לָךְ",
+      "gloss": "maka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:21:32.908179113Z",
+  "model": "glm-5.2"
+}

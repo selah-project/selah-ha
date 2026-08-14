@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 5:17",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma Yahudawa da shugabanni ɗari da hamsin mutane, da waɗanda ⟨suke⟩ zuwa gare mu daga cikin al'ummomin da ke kewaye da mu, ⟨suna⟩ a teburina.",
+  "tokens": [
+    {
+      "surface": "וְהַיְּהוּדִ֨ים",
+      "gloss": "Kuma Yahudawa"
+    },
+    {
+      "surface": "וְהַסְּגָנִ֜ים",
+      "gloss": "da shugabanni"
+    },
+    {
+      "surface": "מֵאָ֧ה",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "וַחֲמִשִּׁ֣ים",
+      "gloss": "da hamsin"
+    },
+    {
+      "surface": "אִ֗ישׁ",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "וְהַבָּאִ֥ים",
+      "gloss": "da waɗanda ⟨suke⟩ zuwa"
+    },
+    {
+      "surface": "אֵלֵ֛ינוּ",
+      "gloss": "gare mu"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "daga cikin"
+    },
+    {
+      "surface": "הַגּוֹיִ֥ם",
+      "gloss": "al'ummomin"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "da"
+    },
+    {
+      "surface": "סְבִיבֹתֵ֖ינוּ",
+      "gloss": "ke kewaye da mu"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שֻׁלְחָנִֽי",
+      "gloss": "teburina"
+    }
+  ],
+  "timestamp": "2026-08-12T23:38:45.210596149Z",
+  "model": "glm-5.2"
+}

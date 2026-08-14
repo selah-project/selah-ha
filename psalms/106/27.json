@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "kuma ya faɗa zuriyarsu cikin al'ummai, kuma ya watse su cikin ƙasashe.",
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "kuma ya faɗa"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "zuriyarsu"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "cikin al'ummai"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "kuma ya watse ⟨su⟩"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "cikin ƙasashe"
+    }
+  ],
+  "timestamp": "2026-08-12T20:31:57.779384483Z",
+  "model": "glm-5.2"
+}

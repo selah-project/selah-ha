@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 73,
+  "translation": "Kuma na kasance a ana shafa ni dukan ranar, kuma ana tona mini laifi kullum safe.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "kuma na kasance"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "a ana shafa ni\/ana cutar da ni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ranar"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "kuma ana tona mini laifi\/an yi mini tirjiya"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "kullum safe"
+    }
+  ],
+  "timestamp": "2026-08-12T20:05:06.173338738Z",
+  "model": "glm-5.2"
+}

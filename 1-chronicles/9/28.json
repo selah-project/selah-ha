@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 9:28",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma daga gare su ⟨waɗansu⟩ a kan kayan aikin bauta, domin a cikin adadi su ke kawo ⟨su⟩, kuma a cikin adadi su ke fitar ⟨su⟩.",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "Kuma daga gare su"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kayan"
+    },
+    {
+      "surface": "העבודה",
+      "gloss": "aikin bauta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "a cikin adadi"
+    },
+    {
+      "surface": "יביאום",
+      "gloss": "su ke kawo"
+    },
+    {
+      "surface": "ובמספר",
+      "gloss": "kuma a cikin adadi"
+    },
+    {
+      "surface": "יוציאום",
+      "gloss": "su ke fitar"
+    }
+  ],
+  "timestamp": "2026-08-13T00:08:16.268970709Z",
+  "model": "glm-5.2"
+}

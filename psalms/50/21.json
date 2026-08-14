@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "Wannan ne ka aikata, kuma na yi shiru; ka ɗauka ⟨ce⟩ ni ina kamar kai; zan gaya maka laifin, kuma zan shirya ⟨su⟩ a gaban idonunka.",
+  "tokens": [
+    {
+      "surface": "אֵלֶּה",
+      "gloss": "wannan ne"
+    },
+    {
+      "surface": "עָשִׂיתָ",
+      "gloss": "ka aikata"
+    },
+    {
+      "surface": "וְהֶחֱרַשְׁתִּי",
+      "gloss": "kuma na yi shiru"
+    },
+    {
+      "surface": "דִּמִּיתָ",
+      "gloss": "ka ɗauka"
+    },
+    {
+      "surface": "הֱיוֹת",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אֶהְיֶה",
+      "gloss": "ina"
+    },
+    {
+      "surface": "כָמוֹךָ",
+      "gloss": "kamar kai"
+    },
+    {
+      "surface": "אוֹכִיחֲךָ",
+      "gloss": "zan gaya maka laifin"
+    },
+    {
+      "surface": "וְאֶעֶרְכָה",
+      "gloss": "kuma zan shirya"
+    },
+    {
+      "surface": "לְעֵינֶיךָ",
+      "gloss": "a gaban idonunka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:47:38.115172848Z",
+  "model": "glm-5.2"
+}

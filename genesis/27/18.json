@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma ya zo wurin ubansa, kuma ya ce, \"Uba na!\" Kuma ya ce, \"Ina nan; wa ne kai, ɗa na?\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kuma ya zo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wurin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubansa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Uba na!"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ina nan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wa ne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗa na"
+    }
+  ],
+  "timestamp": "2026-08-13T01:44:07.402889253Z",
+  "model": "glm-5.2"
+}

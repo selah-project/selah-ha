@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Duba, an ruguje mataimaki; mai adalci ya yi abin da?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Duba"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "mataimaki"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "an ruguje"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mai adalci"
+    },
+    {
+      "surface": "מה",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ya yi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:22:25.316433384Z",
+  "model": "glm-5.2"
+}

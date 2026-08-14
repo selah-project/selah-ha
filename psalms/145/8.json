@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 145,
+  "translation": "Yahweh yana da jinƙai, yana da tausayawa, yana haƙuri da fushi, kuma yana da yalwar chesed.",
+  "tokens": [
+    {
+      "surface": "חַנּוּן",
+      "gloss": "yana da jinƙai"
+    },
+    {
+      "surface": "וְרַחוּם",
+      "gloss": "yana da tausayawa"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶרֶךְ",
+      "gloss": "yana haƙuri"
+    },
+    {
+      "surface": "אַפַּיִם",
+      "gloss": "da fushi"
+    },
+    {
+      "surface": "וְגָדָל",
+      "gloss": "kuma yana da yalwar"
+    },
+    {
+      "surface": "חָסֶד",
+      "gloss": "chesed"
+    }
+  ],
+  "timestamp": "2026-08-12T20:57:26.749786804Z",
+  "model": "glm-5.2"
+}

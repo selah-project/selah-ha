@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 32:16",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Kuma na jira, domin ba su magana ba, domin sun tsaya, ba su amsa ⟨sai⟩ komai.",
+  "tokens": [
+    {
+      "surface": "והוחלתי",
+      "gloss": "kuma na jira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "su magana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "sun tsaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "su amsa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "komai"
+    }
+  ],
+  "timestamp": "2026-08-12T22:09:32.107423045Z",
+  "model": "glm-5.2"
+}

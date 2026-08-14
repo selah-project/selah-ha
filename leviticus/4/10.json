@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kamar yadda ake cirewa daga safoon nan na sadaka na salama, kuma kohen ya ƙone su a kan gadon hadaya.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Kamar yadda"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "ake cirewa"
+    },
+    {
+      "surface": "משור",
+      "gloss": "daga safoon nan"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "na sadaka"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "na salama"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "kuma ya ƙone su"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "gadon"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "hadaya"
+    }
+  ],
+  "timestamp": "2026-08-12T01:49:20.074465223Z",
+  "model": "glm-5.2"
+}

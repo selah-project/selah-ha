@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 84,
+  "translation": "⟨Don⟩ rana da garkuwa Yahweh Elohim ⟨ne⟩; alheri da ɗaukaka Yahweh yana bayarwa; ba zai hana abin kirki ⟨ga⟩ masu tafiya cikin tsari ba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨don⟩"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "rana"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "da garkuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "alheri"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "da ɗaukaka"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "yana bayarwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "zai hana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "abin kirki"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "⟨ga⟩ masu tafiya"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "cikin tsari"
+    }
+  ],
+  "timestamp": "2026-08-12T20:14:44.128423587Z",
+  "model": "glm-5.2"
+}

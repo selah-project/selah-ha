@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Sai 'yan'uwan Yosef goma suka sauka don siyan hatsi daga Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "sai suka sauka"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "'yan'uwan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "goma"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "don siyan hatsi"
+    },
+    {
+      "surface": "בר",
+      "gloss": "hatsi"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "daga Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:16:40.548959870Z",
+  "model": "glm-5.2"
+}

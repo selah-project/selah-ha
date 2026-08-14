@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Suna neman taimako, amma babu mai ceton su; ⟨suna kiran⟩ Elohim, amma bai amsa su ba.",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "Suna neman taimako"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "amma babu"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "mai ceton su"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨suna kiran⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma bai"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "amsa su ba"
+    }
+  ],
+  "timestamp": "2026-08-12T10:42:46.697698396Z",
+  "model": "glm-5.2"
+}

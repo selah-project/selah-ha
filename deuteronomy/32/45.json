@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Kuma Mosheh ya ƙare yin magana ⟨את⟩ dukkanin kalmomin nan zuwa ga dukkanin Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ya ƙare"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "yin magana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkin"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T05:57:53.759130167Z",
+  "model": "glm-5.2"
+}

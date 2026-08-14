@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Domin ba za ka bar raina zuwa Sheol ba; ba za ka bari mai kaɗaɗɗin alheri ka ga ruguwa ba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "za ka bar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "raina"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "zuwa Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "za ka bari"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "mai kaɗaɗɗin alheri ka"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ruguwa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:21:08.711759628Z",
+  "model": "glm-5.2"
+}

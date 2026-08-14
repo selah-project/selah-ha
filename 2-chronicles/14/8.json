@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 14:8",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma Zerach ɗan Kush ya fita ⟨ne⟩ zuwa gare su da rundunar dubu dubu, da motoci ɗari uku, kuma ya zo har zuwa Maresha.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Kuma ya fita"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "zuwa gare su"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerach"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "ɗan Kush"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "da rundunar"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "ומרכבות",
+      "gloss": "da motoci"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "uku"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kuma ya zo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Maresha"
+    }
+  ],
+  "timestamp": "2026-08-13T03:11:32.906391748Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 109,
+  "translation": "Bari ƙarshen ⟨nasa⟩ ya kasance don a baba, kuma a cikin tsara ⟨na⟩ gaba a goge sunansu.",
+  "tokens": [
+    {
+      "surface": "יְהִֽי",
+      "gloss": "Bari ... ya kasance"
+    },
+    {
+      "surface": "אַחֲרִית֥וֹ",
+      "gloss": "ƙarshen ⟨nasa⟩"
+    },
+    {
+      "surface": "לְהַכְרִ֑ית",
+      "gloss": "don a baba"
+    },
+    {
+      "surface": "בְּד֥וֹר",
+      "gloss": "a cikin tsara"
+    },
+    {
+      "surface": "אַ֝חֵ֗ר",
+      "gloss": "gaba"
+    },
+    {
+      "surface": "יִמַּ֥ח",
+      "gloss": "a goge"
+    },
+    {
+      "surface": "שְׁמָֽם",
+      "gloss": "sunansu"
+    }
+  ],
+  "timestamp": "2026-08-13T02:27:51.578142733Z",
+  "model": "glm-5.2"
+}

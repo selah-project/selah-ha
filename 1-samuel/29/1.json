@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma Pelishtiyawa sun taru ⟨da⟩ ⟨את⟩ duka sansaninsu a Apheka, kuma Yisra'el suna sansani a ⟨wajen⟩ maɓuɓin ruwa wanda yake a Yizre'el.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Kuma suka taru"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtiyawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka sansaninsu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "sansaninsu"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "a Apheka"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "kuma Yisra'el"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "suna sansani"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "a ⟨wajen⟩ maɓuɓin ruwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "yake a Yizre'el"
+    }
+  ],
+  "timestamp": "2026-08-13T02:01:23.728888064Z",
+  "model": "glm-5.2"
+}

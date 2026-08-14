@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Hanyar ƙarya cire ⟨ta⟩ daga gare ni, kuma ⟨da⟩ dokarka ka nuna mini alheri.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ƙarya"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "cire"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daga gare ni"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "kuma ⟨da⟩ dokarka"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ka nuna mini alheri"
+    }
+  ],
+  "timestamp": "2026-08-12T20:42:01.630426224Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma Yehonatan ya cire ⟨את⟩ wando wanda yake a jikinsa, kuma ya bã shi ga Dawida, da kayan sawansa, har da takobinsa, da bãgonsa, da belinsa.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "kuma ya cire"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wando"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "wando"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yake a jikinsa"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "kuma ya bã shi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ga Dawida"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "da kayan sawansa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har da"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "takobinsa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "da"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "bãgonsa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "da"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "belinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T09:20:35.264429770Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Ya tsufar da 𝑛𝑎𝑚𝑖𝑛 𝑚𝑖𝑛𝑎 da 𝑓𝑎𝑡𝑎 𝑚𝑖𝑛𝑎, ya 𝑘𝑎𝑠𝑒 𝑏𝑜𝑚𝑏𝑜𝑦𝑎 𝑚𝑖𝑛𝑎.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "Ya tsufar da"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "𝑛𝑎𝑚𝑖𝑛 𝑚𝑖𝑛𝑎"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "da 𝑓𝑎𝑡𝑎 𝑚𝑖𝑛𝑎"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ya 𝑘𝑎𝑠𝑒"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "𝑏𝑜𝑚𝑏𝑜𝑦𝑎 𝑚𝑖𝑛𝑎"
+    }
+  ],
+  "timestamp": "2026-08-12T22:34:54.842331769Z",
+  "model": "glm-5.2"
+}

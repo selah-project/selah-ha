@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma kohens zai ƙima ⟨את⟩ ⟨ta⟩: tsakanin mai kyau da tsakanin mummūnan; kamar yadda kohens ya ƙima ⟨ta⟩, haka ⟨za ta⟩ kasance.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "Kuma zai ƙima"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohens"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ta (dabbar)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da tsakanin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mummūnan"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "kamar yadda ya ƙima"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohens"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨za ta⟩ kasance"
+    }
+  ],
+  "timestamp": "2026-08-12T03:05:08.445158750Z",
+  "model": "glm-5.2"
+}

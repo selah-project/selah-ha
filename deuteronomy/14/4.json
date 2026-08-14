@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Wannan ⟨ne⟩ dabbobin da kuke cin su: shanu, da tumaki, da ɗiyar awaki.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dabbobin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kuke cin su"
+    },
+    {
+      "surface": "שור",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "שה",
+      "gloss": "da"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "tumaki"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "da"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ɗiyar awaki"
+    }
+  ],
+  "timestamp": "2026-08-12T05:14:44.794351983Z",
+  "model": "glm-5.2"
+}

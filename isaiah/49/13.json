@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 49:13",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Ku rera, sama, ku kuma yi murna, ƙasa; duwatsu su fashe da reraƙi, domin Yahweh ya nẽma mutãnensa, kuma yana jin ƙai da talakansa.",
+  "tokens": [
+    {
+      "surface": "רנו",
+      "gloss": "ku rera"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "וגילי",
+      "gloss": "ku kuma yi murna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "יפצחו",
+      "gloss": "su fashe"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "da reraƙi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "ya nẽma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mutãnensa"
+    },
+    {
+      "surface": "ועניו",
+      "gloss": "kuma talakansa"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "yana jin ƙai"
+    }
+  ],
+  "timestamp": "2026-08-12T14:17:08.852769238Z",
+  "model": "glm-5.2"
+}

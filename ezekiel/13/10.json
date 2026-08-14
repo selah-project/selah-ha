@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 13:10",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Saboda, kuma a gaskiya saboda sun ɓatar da ⟨את⟩ mutanena, suna cewa: 'Salama!' idan babu salama, kuma shi ⟨yana⟩ gina bango, alhali kuwa su, ga su, suna shafa shi da falo.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "וביען",
+      "gloss": "kuma a gaskiya saboda"
+    },
+    {
+      "surface": "הטעו",
+      "gloss": "sun ɓatar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanena"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mutanena"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "suna cewa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salama"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "idan babu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salama"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kuma shi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yana ginawa"
+    },
+    {
+      "surface": "חיץ",
+      "gloss": "bango"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "kuma ga su"
+    },
+    {
+      "surface": "טחים",
+      "gloss": "suna shafa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "falo"
+    }
+  ],
+  "timestamp": "2026-08-12T17:02:39.821081765Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Sai suka kuraya zuwa Yahweh a cikin damuwarsu, daga ɗammar da ke kansu Ya tsiresu.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Sai suka kuraya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "a cikin damuwar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sù"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "daga ɗammar da ke kansu"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "Ya tsiresu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:32:54.706469270Z",
+  "model": "glm-5.2"
+}

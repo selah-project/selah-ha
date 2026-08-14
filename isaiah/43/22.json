@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Amma ba ni kira ba ka, yã Yaƙũbu, dõmin ka gãji ni, yã Isra'ila.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ka kira"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaƙũbu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "ka gãji"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T14:08:52.567616486Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 5:4",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "⟨Su⟩ ɗiyen Yo'el: Shemayah ɗan ⟨sa⟩, Gog ɗan ⟨sa⟩, Shimi ɗan ⟨sa⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ɗiyen"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yo'el"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Shemayah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗan sa"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "Gog"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗan sa"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗan sa"
+    }
+  ],
+  "timestamp": "2026-08-13T00:00:12.885802096Z",
+  "model": "glm-5.2"
+}

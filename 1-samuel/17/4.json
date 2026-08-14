@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 17:4",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma wani mutum mai shiga-tsakani ya fita daga sansanonin Pelishtiyim; Golyat sunansa, daga Gat; tsayinsa ⟨ya kai⟩ cubit shida da zirã.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Kuma ya fito"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "mai shiga-tsakani"
+    },
+    {
+      "surface": "ממחנות",
+      "gloss": "daga sansanonin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtiyim"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyat"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "daga Gat"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "tsayinsa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "shida"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "da zirã"
+    }
+  ],
+  "timestamp": "2026-08-12T09:10:48.163661423Z",
+  "model": "glm-5.2"
+}

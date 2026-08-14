@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 7:24",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma zan kawo miżyangaren al'ummai, ⟨kuma⟩ za su mallaki ⟨את⟩ gidajensu, kuma zan dage girman ƙarfi, ⟨kuma⟩ za su gurgunta wurarensu masu tsarki.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "kuma zan kawo"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "miżyangaren"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "al'ummai"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "⟨kuma⟩ za su mallaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidajensu"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "gidajensu"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "kuma zan dage"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "girman"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ƙarfi"
+    },
+    {
+      "surface": "ונחלו",
+      "gloss": "⟨kuma⟩ za su gurgunta"
+    },
+    {
+      "surface": "מקדשיהם",
+      "gloss": "wurarensu masu tsarki"
+    }
+  ],
+  "timestamp": "2026-08-12T16:49:26.342523021Z",
+  "model": "glm-5.2"
+}

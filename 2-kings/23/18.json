@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 23:18",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Sai ya ce: \"Ku bar shi; kada wani ya motsa ⟨את⟩ ƙasoshinsa.\" Don haka sun tsira ⟨את⟩ ƙasoshinsa, tare da ƙasoshin annabin da ya zo daga Shomeron.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sai ya ce"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "ku bar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "ינע",
+      "gloss": "ya motsa"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "ƙasoshinsa"
+    },
+    {
+      "surface": "וימלטו",
+      "gloss": "sun tsira"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "ƙasoshinsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasoshin"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ƙasoshin"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ya zo"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "daga Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-12T12:48:35.577913044Z",
+  "model": "glm-5.2"
+}

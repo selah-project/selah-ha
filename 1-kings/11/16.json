@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "domin tsawon watanni shida Yoab da dukkan Isra'ilā sun zauna a can, har ya kawar da kowane namiji a cikin Edom —",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "שֵׁ֧שֶׁת",
+      "gloss": "shida"
+    },
+    {
+      "surface": "חֳדָשִׁ֛ים",
+      "gloss": "watanni"
+    },
+    {
+      "surface": "יָׁשַׁ֥ב",
+      "gloss": "sun zauna"
+    },
+    {
+      "surface": "שָׁ֖ם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "יוֹאָ֖ב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "har"
+    },
+    {
+      "surface": "הִכְרִ֥ית",
+      "gloss": "ya kawar da"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "זָכָ֖ר",
+      "gloss": "namiji"
+    },
+    {
+      "surface": "בֶּאֱדֽוֹם",
+      "gloss": "a cikin Edom"
+    }
+  ],
+  "timestamp": "2026-08-12T11:18:03.247659359Z",
+  "model": "glm-5.2"
+}

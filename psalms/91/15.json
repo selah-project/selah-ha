@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 91,
+  "translation": "Zai kira Ni, kuma Ni zan amsa shi; Ni ina tare da shi a cikin damuwa, ina tsertse shi, kuma ina girmama shi.",
+  "tokens": [
+    {
+      "surface": "יִקְרָאֵנִי",
+      "gloss": "zai kira Ni"
+    },
+    {
+      "surface": "וְאֶעֱנֵהוּ",
+      "gloss": "kuma Ni zan amsa shi"
+    },
+    {
+      "surface": "עִמּוֹ",
+      "gloss": "tare da shi"
+    },
+    {
+      "surface": "אָנֹכִי",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "בְצָרָה",
+      "gloss": "a cikin damuwa"
+    },
+    {
+      "surface": "אֲחַלְּצֵהוּ",
+      "gloss": "ina tsertse shi"
+    },
+    {
+      "surface": "וַאֲכַבְּדֵהוּ",
+      "gloss": "kuma ina girmama shi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:20:48.192419548Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Wanda ya mutu na Baʿsha a cikin birni, karnuka za su ci shi, kuma wanda ya mutu na shi a cikin dawa, tsuntsayen sama za su ci shi.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Wanda ya mutu"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "na Baʿsha"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a cikin birni"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "za su ci shi"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "karnuka"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "kuma wanda ya mutu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na shi"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a cikin dawa"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "za su ci shi"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "tsuntayen"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    }
+  ],
+  "timestamp": "2026-08-12T11:33:10.782316477Z",
+  "model": "glm-5.2"
+}

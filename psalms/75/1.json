@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 75,
+  "translation": "Ga shugaban mawaƙa. Kada ka halaka. Zabūra na Asaf. Waƙa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga shugaban mawaƙa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ka halaka"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Zabūra"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "na Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Waƙa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:07:42.802578440Z",
+  "model": "glm-5.2"
+}

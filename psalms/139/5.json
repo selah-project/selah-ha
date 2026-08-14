@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 139,
+  "translation": "Baya da gaba Ka naɗa ni, kuma Ka sa ⟨a⟩ kafarka ⟨a⟩ samana.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "Baya"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "da gaba"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "Ka naɗa ni"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "kuma Ka sa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨a⟩ samana"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "kafarka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:52:46.345256654Z",
+  "model": "glm-5.2"
+}

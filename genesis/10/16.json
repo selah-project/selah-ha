@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Da ⟨את⟩ Haɗaɗiyar Yevus da ⟨את⟩ Haɗaɗiyar Emori da ⟨את⟩ Haɗaɗiyar Girgashi.",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "Da ⟨את⟩",
+      "marks": "Haɗaɗiyar Yevus"
+    },
+    {
+      "surface": "הַיְבוּסִי֙",
+      "gloss": "Haɗaɗiyar Yevus"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Haɗaɗiyar Emori"
+    },
+    {
+      "surface": "הָ֣אֱמֹרִ֔י",
+      "gloss": "Haɗaɗiyar Emori"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Haɗaɗiyar Girgashi"
+    },
+    {
+      "surface": "הַגִּרְגָּשִֽׁי",
+      "gloss": "Haɗaɗiyar Girgashi"
+    }
+  ],
+  "timestamp": "2026-08-11T23:29:20.449180489Z",
+  "model": "glm-5.2"
+}

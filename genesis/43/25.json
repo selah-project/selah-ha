@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Sai suka shirya ⟨את⟩ kyauta har sai Yosef ya zo a tsakar rana, domin sun ji cewa a can za su ci burodi.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "sai suka shirya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kyauta"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "kyauta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har sai"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ya zo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "a tsakar rana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sun ji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "za su ci"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "burodi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:16:21.848404172Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "“Ka yi magana ga ɗiyán Isra'el, kuma ka ce musu: Ɗan'adam daga cikinku idan ya kusantar da qorban ga Yahweh — daga dabbobin gida, dago shanu da dago tunkuna — zã ku kusantar da ⟨את⟩ qorbanku.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Ka yi magana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyán"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'el"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "kuma ka ce"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Ɗan'adam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "idan"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ya kusantar da"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "daga cikinku"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "qorban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dabbobin gida"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "da daga"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "tunkuna"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "za ku kusantar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qorbanku"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "qorbanku"
+    }
+  ],
+  "timestamp": "2026-08-12T01:45:04.008806586Z",
+  "model": "glm-5.2"
+}

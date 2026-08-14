@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Abin da muka ji kuma muka sani, kuma ubanninmu sun faɗa mana.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Abin da"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "muka ji"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "kuma muka sani"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "kuma ubanninmu"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "sun faɗa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mana"
+    }
+  ],
+  "timestamp": "2026-08-12T20:08:44.734440482Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Paroh ya yi gaggawar kira ga Mosheh da Aharon, kuma ya ce: Na yi laifi ga Yahweh, Elohiminku, da kuma gare ku.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "ya yi gaggawar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "kira"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ga Mosheh"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "da Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Na yi laifi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminku"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "da kuma gare ku"
+    }
+  ],
+  "timestamp": "2026-08-12T00:41:08.572209941Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 21:11",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "kuma ka ga cikin fursunoni mace mai kyau ta gani, kuma ka so ta, kuma ka dauko ta kankaka mata mata,",
+  "tokens": [
+    {
+      "surface": "וראית",
+      "gloss": "kuma ka ga"
+    },
+    {
+      "surface": "בשביה",
+      "gloss": "cikin fursunoni"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mace"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ta gani"
+    },
+    {
+      "surface": "וחשקת",
+      "gloss": "kuma ka so"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "kuma ka dauko ta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kankaka"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "mata"
+    }
+  ],
+  "timestamp": "2026-08-12T05:22:48.787827301Z",
+  "model": "glm-5.2"
+}

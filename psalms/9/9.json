@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma ⟨shi⟩ zai shafa ⟨את⟩ tãreb da adalci, zai yi shari'a ga al'ummai da tsari.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "kuma ⟨shi⟩"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "zai shafa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tãreb"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "da adalci"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "zai yi shari'a"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ga al'ummai"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "da tsari"
+    }
+  ],
+  "timestamp": "2026-08-12T19:19:14.918481652Z",
+  "model": "glm-5.2"
+}

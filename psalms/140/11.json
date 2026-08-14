@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 140,
+  "translation": "Ya yi musu jigilgigal; a cikin wuta ya jefa su; cikin ramuka masu rushewa, ba za su tashi ⟨sake⟩ ba.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "Ya yi musu jigilgigal"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "a kansu"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "jigilgigal"
+    },
+    {
+      "surface": "באש",
+      "gloss": "a cikin wuta"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "ya jefa su"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "cikin ramuka masu rushewa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba za su"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "tashi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:53:39.718503130Z",
+  "model": "glm-5.2"
+}

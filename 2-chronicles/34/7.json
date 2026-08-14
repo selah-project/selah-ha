@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 34:7",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Ya rushe ⟨את⟩ mizbachot da ⟨את⟩ Asherim, kuma waɗansu siffofin an diba su kaɗan-kaɗan, kuma duka sun-allon sun yanke su a duk ƙasar Yisra'el, sa'an nan ya koma Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "וינתץ",
+      "gloss": "Ya rushe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizbachot"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "mizbachot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Asherim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Asherim"
+    },
+    {
+      "surface": "והפסלים",
+      "gloss": "kuma waɗansu siffofin"
+    },
+    {
+      "surface": "כתת",
+      "gloss": "an diba su"
+    },
+    {
+      "surface": "להדק",
+      "gloss": "kaɗan-kaɗan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma duka"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "sun-allon"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "sun yanke su"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sa'an nan ya koma"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-13T02:58:37.373385052Z",
+  "model": "glm-5.2"
+}

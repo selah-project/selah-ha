@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 9:6",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Saboda haka, haka Yahweh na ɗaukaka ya faɗa: Ga ni, ina narkar da su kuma ina gwada su, domin ta yaya zan yi saboda ⟨gaban⟩ 'yar mutana ta?",
+  "tokens": [
+    {
+      "surface": "לָכֵ֗ן",
+      "gloss": "saboda haka"
+    },
+    {
+      "surface": "כֹּ֤ה",
+      "gloss": "haka"
+    },
+    {
+      "surface": "אָמַר֙",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צְבָא֔וֹת",
+      "gloss": "na ɗaukaka"
+    },
+    {
+      "surface": "הִנְנִ֥י",
+      "gloss": "ga ni"
+    },
+    {
+      "surface": "צוֹרְפָ֖ם",
+      "gloss": "ina narkar da su"
+    },
+    {
+      "surface": "וּבְחַנְתִּ֑ים",
+      "gloss": "kuma ina gwada su"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אֵ֣יךְ",
+      "gloss": "ta yaya"
+    },
+    {
+      "surface": "אֶעֱשֶׂ֔ה",
+      "gloss": "zan yi"
+    },
+    {
+      "surface": "מִפְּנֵ֖י",
+      "gloss": "saboda ⟨gaban⟩"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "'yar"
+    },
+    {
+      "surface": "עַמִּֽי",
+      "gloss": "mutana ta"
+    }
+  ],
+  "timestamp": "2026-08-12T15:13:28.069016967Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 77,
+  "translation": "Gajimare sun zuba ruwa, muguwar da ta yawaita; sama ta bada murya; har ma kibiyoyinka suna tafiya ko'ina.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "sun zuba"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "gajimare masu yawa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "murya"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ta bada"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "אף",
+      "gloss": "har ma"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "kibiyoyinka"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "suna tafiya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:07:28.891794661Z",
+  "model": "glm-5.2"
+}

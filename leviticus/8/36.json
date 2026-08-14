@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma Aharonu da 'ya'ansa suka yi ⟨את⟩ dukkan ⟨abubuwan⟩ da Yahweh ya umurta da ⟨ta⟩ hannun Mosheh.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma suka yi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonu"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "da 'ya'ansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "abubuwan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "da hannun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:58:14.955856032Z",
+  "model": "glm-5.2"
+}

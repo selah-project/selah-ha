@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 127,
+  "translation": "Kamar kibiyoyi a cikin ⟨hannun⟩ jarumi, haka ne ɗiyayya na ƙuruciya.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Kamar kibiyoyi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "a cikin ⟨hannun⟩"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "jarumi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "ɗiyayya na ƙuruciya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:51:26.086027237Z",
+  "model": "glm-5.2"
+}

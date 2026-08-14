@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma idan ka tafi a cikin hanyoyiNa don kiyaye dokokiNa da umarniNa, kamar yadda Dawida ubanking ya tafi, to ni zan ⟨na⟩ tsawaita ⟨את⟩ kwanakinka.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ka tafi"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "a cikin hanyoyiNa"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "don kiyaye"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "dokokiNa"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "da umarniNa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ubanking"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "to ni zan tsawaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kwanakinka"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "kwanakinka"
+    }
+  ],
+  "timestamp": "2026-08-12T10:55:37.083322527Z",
+  "model": "glm-5.2"
+}

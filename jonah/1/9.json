@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma ya ce musu, \"ʿIvri ⟨ne⟩ ni; kuma ⟨את⟩ Yahweh, Elohim na sama, ina tsayawa, wanda ya yi ⟨את⟩ teku da ⟨את⟩ ƙasƙasa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ʿIvri"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ina tsayawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teku"
+    },
+    {
+      "surface": "הים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasƙasa"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ƙasƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T18:37:33.599158625Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 51,
+  "translation": "Tare da kai, ka ɗaya kaɗai, na yi kuskure, kuma mugu ⟨ta⟩ a cikin idanunka na yi, domin a ka da adalci a cikin maganarka, a tsarkake a cikin hukuncinka.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "tare da kai"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ka ɗaya kaɗai"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "na yi kuskure"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "kuma mugu"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "a cikin idanunka"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "na yi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "domin"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "a ka da adalci"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "a cikin maganarka"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "a tsarkake"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "a cikin hukuncinka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:49:55.436238547Z",
+  "model": "glm-5.2"
+}

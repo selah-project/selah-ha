@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "kuma a cikin wata-sabo na farko, a cikin kwana goma sha huɗu na watan-sabo, Pesah ⟨ne⟩ ga Yahweh.",
+  "tokens": [
+    {
+      "surface": "וּבַחֹדֶשׁ",
+      "gloss": "kuma a cikin wata-sabo"
+    },
+    {
+      "surface": "הָרִאשׁוֹן",
+      "gloss": "na farko"
+    },
+    {
+      "surface": "בְּאַרְבָּעָה",
+      "gloss": "a cikin huɗu"
+    },
+    {
+      "surface": "עָשָׂר",
+      "gloss": "sha"
+    },
+    {
+      "surface": "יוֹם",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "לַחֹדֶשׁ",
+      "gloss": "na watan-sabo"
+    },
+    {
+      "surface": "פֶּסַח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "ga Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T04:32:43.143332929Z",
+  "model": "glm-5.2"
+}

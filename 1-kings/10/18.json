@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 10:18",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma sarki ya yi kujera mai girma ta haƙori, kuma ya rufe ta da zinare mai tsabta.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kujera"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ta haƙori"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mai girma"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "kuma ya rufe ta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "da zinare"
+    },
+    {
+      "surface": "מופז",
+      "gloss": "mai tsabta"
+    }
+  ],
+  "timestamp": "2026-08-13T02:05:57.755424667Z",
+  "model": "glm-5.2"
+}

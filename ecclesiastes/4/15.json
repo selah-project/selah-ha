@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Na ga ⟨את⟩ duk masu rai masu tafiya a ƙarƙashin rana, tare da yaron na biyu, wanda zai tsaya a madadinsa.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "na ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duk masu rai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "masu rai"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "masu tafiya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a ƙarƙashin"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "yaron"
+    },
+    {
+      "surface": "השני",
+      "gloss": "na biyu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "zai tsaya"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "a madadinsa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:34:50.822473285Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "A cikin Yahweh ⟨ne⟩ za a gyara ⟨adalci⟩, kuma duk zuriyar Isra'ila za ta yabi ⟨shi⟩.",
+  "tokens": [
+    {
+      "surface": "בִּיהוָ֖ה",
+      "gloss": "A cikin Yahweh"
+    },
+    {
+      "surface": "יִצְדְּק֥וּ",
+      "gloss": "za a gyara ⟨adalci⟩"
+    },
+    {
+      "surface": "וְיִֽתְהַלְל֖וּ",
+      "gloss": "kuma za ta yabi ⟨shi⟩"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "זֶ֥רַע",
+      "gloss": "zuriyar"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T14:11:07.311760554Z",
+  "model": "glm-5.2"
+}

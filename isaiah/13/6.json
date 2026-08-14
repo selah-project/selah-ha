@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuka da murya, domin kusa ⟨ne⟩ ranar Yahweh; za ta zo a matsayin lalata daga Shaddai.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "Kuka da murya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "kusa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ranar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "a matsayin lalata"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "daga Shaddai"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "za ta zo"
+    }
+  ],
+  "timestamp": "2026-08-12T13:12:43.051512313Z",
+  "model": "glm-5.2"
+}

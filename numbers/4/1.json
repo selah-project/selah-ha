@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma Yahweh ya yi magana da Mosheh da kuma da Aharon, ⟨yana cewa⟩,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Kuma ya yi magana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "da kuma da"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨yana cewa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T03:20:00.731572917Z",
+  "model": "glm-5.2"
+}

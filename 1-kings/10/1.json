@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma sarauniyar Sheba ta ji ⟨את⟩ sunan-ficewar Shelomoh, dangane da sunan Yahweh, sai ta zo don gwada shi da mahimmacai.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "Kuma sarauniyar"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ta ji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunan-ficewar"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sunan-ficewar"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "dangane da sunan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "sai ta zo"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "don gwada shi"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "da mahimmacai"
+    }
+  ],
+  "timestamp": "2026-08-12T11:14:35.458344511Z",
+  "model": "glm-5.2"
+}

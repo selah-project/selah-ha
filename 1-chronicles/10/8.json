@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma a washe-gari Falisawa suka zo suka fido ⟨את⟩ gawawwaka, suka samu ⟨את⟩ Sha'ul da ⟨את⟩ 'ya'yansa maza sun faɗa a Dutsen Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma a"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "washe-gari"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "suka zo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falisawa"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "suka fido"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gawawwaka"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "gawawwaka"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "suka samu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha'ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "'ya'yansa maza"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "'ya'yansa maza"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "sun faɗa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a Dutsen"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-13T00:10:44.408060365Z",
+  "model": "glm-5.2"
+}

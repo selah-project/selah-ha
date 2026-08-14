@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Sa'an nan abu ⟨ne⟩ ya zama mugunta a idanun Elohim dangane da wannan lamari, sai ⟨ya⟩ yi wa ⟨את⟩ Isra'ila duka.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ya zama mugunta"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanun"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "dangane da"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lamari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "sai ⟨ya⟩ yi wa duka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isra'ila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-13T00:20:11.602403671Z",
+  "model": "glm-5.2"
+}

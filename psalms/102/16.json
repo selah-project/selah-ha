@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 102,
+  "translation": "Sai al'ummomi za su ji tsoron ⟨את⟩ sunan Yahweh, da dukkan sarakunan ƙasa ⟨את⟩ girman ka.",
+  "tokens": [
+    {
+      "surface": "ולייראו",
+      "gloss": "Sai...za su ji tsoron"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "al'ummomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunan Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sunan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sarakunan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "girman ka"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "girman ka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:25:44.538337493Z",
+  "model": "glm-5.2"
+}

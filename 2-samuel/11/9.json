@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Uriya ya kwanta a ƙofar ⟨gidan⟩ sarki, ⟨a tare da⟩ dukkan bayin ubangijinsa, kuma ba ya sauka zuwa gidansa.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Kuma ya kwanta"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "a ƙofar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨gidan⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan bayin ubangijinsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bayin"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ubangijinsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ya sauka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gidansa"
+    }
+  ],
+  "timestamp": "2026-08-12T10:16:42.095843201Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Yahweh ⟨ne⟩ masoya a cikin ⟨cikinta⟩, ba zai yi zalunci ba; safe safe yana bada shari'arsa ga haske, ba ya rabuwa, kuma wanda ya sassauci ba ya san kunya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "masoya"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "a cikin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "zai yi"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "zalunci"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "safe"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "safe"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "shari'arsa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "yana bada"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ga haske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "ya rabuwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ya san"
+    },
+    {
+      "surface": "עול",
+      "gloss": "wanda ya sassauci"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "kunya"
+    }
+  ],
+  "timestamp": "2026-08-12T18:57:17.351722083Z",
+  "model": "glm-5.2"
+}

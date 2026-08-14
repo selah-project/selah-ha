@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Wanda ya ɓaci abokinsa ⟨mutum ne⟩ mai rashin hankali, amma mutum mai fahimta yana shiru.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "wanda ya ɓaci"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "abokinsa"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "mai rashin"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hankali"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "amma mutum"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "mai fahimta"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "yana shiru"
+    }
+  ],
+  "timestamp": "2026-08-13T02:28:53.482369675Z",
+  "model": "glm-5.2"
+}

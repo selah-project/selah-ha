@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma wannan ne lissafin tilastan aiki da sarki Sulaiman ya ɗauka, don ya gina ⟨את⟩ gidan Yahweh da ⟨את⟩ gidansa da ⟨את⟩ Millo da ⟨את⟩ bango na Yerushalaim da ⟨את⟩ Hatsor da ⟨את⟩ Megiddo da ⟨את⟩ Gezer.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Kuma wannan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ne lissafin"
+    },
+    {
+      "surface": "המס",
+      "gloss": "tilastan aiki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya ɗauka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sulaiman"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "don ya gina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "gidansa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gidansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Millo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "bango"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "bango"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Hatsor"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Megiddo"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megiddo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-13T02:03:48.741343089Z",
+  "model": "glm-5.2"
+}

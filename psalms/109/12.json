@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 109,
+  "translation": "Kada kasance wanda yana jawo chesed a gare shi, kuma kada kasance wanda yana nuna tausayi ga marayansa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "kasance"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a gare shi"
+    },
+    {
+      "surface": "משך",
+      "gloss": "wanda yana jawo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "kasance"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "wanda yana nuna tausayi"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "ga marayansa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:35:07.491405732Z",
+  "model": "glm-5.2"
+}

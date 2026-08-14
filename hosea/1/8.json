@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Sa'an nan a lokacin da ta daina shayar da ita Lo-Ruhamah, ta yi ciki kuma ta haifi ɗa.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "Sa'an nan a lokacin da ta daina shayar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ta yi ciki"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "kuma ta haifi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗa"
+    }
+  ],
+  "timestamp": "2026-08-12T18:12:33.222299560Z",
+  "model": "glm-5.2"
+}

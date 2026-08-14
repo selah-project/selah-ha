@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Ya faɗa, kuma fari ya zo, da lallashi, ⟨kuma⟩ babu ⟨na⟩ ƙidaya.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kuma ya zo"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "fari"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "lallashi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ƙidaya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:29:29.038153304Z",
+  "model": "glm-5.2"
+}

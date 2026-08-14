@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ⟨את⟩ bayinku da ⟨את⟩ kuyanginku da ⟨את⟩ samarinku maza masu kyau da ⟨את⟩ jakunku zai ɗauka, kuma ya sanya su ga aikinsa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Kuma ⟨את⟩",
+      "marks": "bayinku"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "bayinku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kuyanginku"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "kuyanginku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "samarinku maza"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "samarinku maza"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "masu kyau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "jakunku"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "jakunku"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "zai ɗauka"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "kuma ya sanya su"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "ga aikinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T08:40:43.636173925Z",
+  "model": "glm-5.2"
+}

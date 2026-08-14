@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma a cikin mulkin Achashverosh, a farkon mulkinsa, sun rubuta ƙorafi ⟨a kan⟩ mazaunan Yehuda da Yerusalam.",
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "kuma a cikin mulkin"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "a farkon"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "mulkinsa"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "sun rubuta"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "ƙorafi"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨a kan⟩"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "da Yerusalam"
+    }
+  ],
+  "timestamp": "2026-08-12T23:25:15.133931538Z",
+  "model": "glm-5.2"
+}

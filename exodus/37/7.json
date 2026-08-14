@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma ya yi kerubai biyu na zinari; aikin ɗaure ya yi su, a ƙarshen kumfan biyu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubai"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "na zinari"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "aikin ɗaure"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ su",
+      "marks": "kerubai"
+    },
+    {
+      "surface": "משני",
+      "gloss": "a ƙarshen"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "biyun"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kumfan"
+    }
+  ],
+  "timestamp": "2026-08-12T01:31:14.840826618Z",
+  "model": "glm-5.2"
+}

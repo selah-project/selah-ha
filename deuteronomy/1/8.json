@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Ku duba, Na sanya ⟨a gaban ku⟩ ⟨את⟩ ƙasar; ku shiga ku riƙe ⟨את⟩ ƙasar da Yahweh ya rantse wa ubanninku — ga Avraham, ga Yitsʽak da kuma ga Yaʽakov — don bayarwa musu da kuma zuriyarsu bayansu.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Ku duba"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Na sanya"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "a gaban ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ku shiga"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "ku riƙe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ya rantse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "wa ubanninku"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ga Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ga Yitsʽak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "da kuma ga Yaʽakov"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "don bayarwa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "da kuma zuriyarsu"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "bayansu"
+    }
+  ],
+  "timestamp": "2026-08-12T04:54:32.873252616Z",
+  "model": "glm-5.2"
+}

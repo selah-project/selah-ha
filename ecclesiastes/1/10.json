@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Akwai wani abin da za a faɗa: \"Ka duba wannan, sabo ne\"? Ya riga ya kasance, tsawon zamani, wanda ya kasance a gabanmu.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "akwai"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wani abin"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "za a faɗa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ka duba"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "sabo ne"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ya riga"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "tsawon zamani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "a gabanmu"
+    }
+  ],
+  "timestamp": "2026-08-12T22:39:41.745723119Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "A rana ⟨ta⟩ wancan za ta kasance ⟨akwai⟩ hanyar mota daga Mitsrayim zuwa Ashshur, kuma Ashshur za ta zo Mitsrayim, kuma Mitsrayim zuwa Ashshur, kuma Mitsrayim za su bauta wa ⟨ tare da⟩ ⟨את⟩ Ashshur.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wancan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "za ta kasance"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "hanyar mota"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "daga Mitsrayim"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "zuwa Ashshur"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "kuma za ta zo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "kuma Mitsrayim"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "zuwa Ashshur"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "kuma za su bauta wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashshur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    }
+  ],
+  "timestamp": "2026-08-13T02:08:27.317028340Z",
+  "model": "glm-5.2"
+}

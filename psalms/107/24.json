@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Su dai sun ga ayyukan Yahweh, da kuma abin ciyawarsa a cikin zurfin teku.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "su dai"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "sun ga"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ayyukan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "da kuma abin ciyawarsa"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "a cikin zurfin teku"
+    }
+  ],
+  "timestamp": "2026-08-12T20:32:55.895517827Z",
+  "model": "glm-5.2"
+}

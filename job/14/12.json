@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 14:12",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma mutum ya kwanta, kuma ba zai tashi ba; sai sararin sama ba su kasance ba, ba za su tashi ba, kuma ba za a tada su daga barcinsu ba.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "kuma mutum"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ya kwanta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "zai tashi ba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sai"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sararin sama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "su kasance ba"
+    },
+    {
+      "surface": "יקיצו",
+      "gloss": "za su tashi ba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "za a tada su ba"
+    },
+    {
+      "surface": "משנתם",
+      "gloss": "daga barcinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T21:51:09.604212328Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 14:41",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma ⟨zai sa⟩ a yi wa ⟨את⟩ gidan duka daga ciki a kewaye, kuma su zuba ⟨את⟩ ƙura da suka cire zuwa wajen birnin, zuwa wuri marar tsarki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Kuma ⟨את⟩",
+      "marks": "gidan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יקצע",
+      "gloss": "⟨zai sa⟩ a yi wa duka"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "daga ciki"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewaye"
+    },
+    {
+      "surface": "ושפכו",
+      "gloss": "kuma su zuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙura"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ƙura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הקצו",
+      "gloss": "suka cire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "wajen"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "wuri"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "marar tsarki"
+    }
+  ],
+  "timestamp": "2026-08-12T02:13:42.680338601Z",
+  "model": "glm-5.2"
+}

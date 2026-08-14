@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 88,
+  "translation": "Idona ta gajarta daga bakin ciki; na kira ka, Yahweh, kullum, na miƙa muku hannayena gare ka.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "idona"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "ta gajarta"
+    },
+    {
+      "surface": "מני",
+      "gloss": "daga"
+    },
+    {
+      "surface": "עני",
+      "gloss": "bakin ciki"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "na kira ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kul"
+    },
+    {
+      "surface": "יום",
+      "gloss": "lum"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "na miƙa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gare ka"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "hannayena"
+    }
+  ],
+  "timestamp": "2026-08-12T20:15:05.328339253Z",
+  "model": "glm-5.2"
+}

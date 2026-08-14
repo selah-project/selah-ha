@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 55,
+  "translation": "El zai ji, kuma zai wulakanta su, kuma Wanda ke zaune dã wuri, Selah; waɗanda babu canji a gare su, kuma ba su ji tsõron Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "zai ji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "kuma zai wulakanta su"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kuma Wanda ke zaune"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "dã wari"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "canji"
+    },
+    {
+      "surface": "למו",
+      "gloss": "a gare su"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "suka ji tsõro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T19:51:29.220284805Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Malamansa sun faɗi ⟨daga⟩ takobi, kuma gwāje-nSa ba su kuka ba.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "Malamansa"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "⟨daga⟩ takobi"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "sun faɗi"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "kuma gwāje-nSa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "su kuka ba"
+    }
+  ],
+  "timestamp": "2026-08-12T20:10:55.914557448Z",
+  "model": "glm-5.2"
+}

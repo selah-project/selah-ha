@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 12:9",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma ⟨baya⟩ ga haka, Qohelet ya kasance mai hikima; har yanzu ya koya ilimin ⟨ga⟩ ⟨את⟩ jama'a, ya saurara, ya bincika, ya tsara misalai da yawa.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "kuma ⟨baya⟩"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mai hikima"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "har yanzu"
+    },
+    {
+      "surface": "למד",
+      "gloss": "ya koya"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ilimin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jama'a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "ya saurara"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "ya bincika"
+    },
+    {
+      "surface": "תקן",
+      "gloss": "ya tsara"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "misalai"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "da yawa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:50:54.254498850Z",
+  "model": "glm-5.2"
+}

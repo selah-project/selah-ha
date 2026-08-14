@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 91,
+  "translation": "Wanda yake zama a cikin mafakar Elyon, a cikin inuwar Shaddai zai kwanta ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Wanda yake zama"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "a cikin mafakar"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "a cikin inuwar"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "zai kwanta"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:05.112469711Z",
+  "model": "glm-5.2"
+}

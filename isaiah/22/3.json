@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Duk shugabanninki sun gudu tare, an kama su daga baka; duk waɗanda aka same a gare ki an kama su tare, sun gudu daga nesa.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "Duk"
+    },
+    {
+      "surface": "קְצִינַ֥יִךְ",
+      "gloss": "shugabanninki"
+    },
+    {
+      "surface": "נָֽדְדוּ",
+      "gloss": "sun gudu"
+    },
+    {
+      "surface": "יַ֖חַד",
+      "gloss": "tare"
+    },
+    {
+      "surface": "מִקֶּ֣שֶׁת",
+      "gloss": "daga baka"
+    },
+    {
+      "surface": "אֻסָּ֑רוּ",
+      "gloss": "an kama su"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "נִמְצָאַ֨יִךְ֙",
+      "gloss": "waɗanda aka same a gare ki"
+    },
+    {
+      "surface": "אֻסְּר֣וּ",
+      "gloss": "an kama su"
+    },
+    {
+      "surface": "יַחְדָּ֔ו",
+      "gloss": "tare"
+    },
+    {
+      "surface": "מֵרָח֖וֹק",
+      "gloss": "daga nesa"
+    },
+    {
+      "surface": "בָּרָֽחוּ",
+      "gloss": "sun gudu"
+    }
+  ],
+  "timestamp": "2026-08-12T13:29:55.127343500Z",
+  "model": "glm-5.2"
+}

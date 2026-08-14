@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 80,
+  "translation": "Yahweh, Elohim na sojoji, ka mayar mu; ka haskaka fuskarka, kuma za a mu cece.",
+  "tokens": [
+    {
+      "surface": "יְה֘וָ֤ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהִ֣ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צְבָא֣וֹת",
+      "gloss": "na sojoji"
+    },
+    {
+      "surface": "הֲשִׁיבֵ֑נוּ",
+      "gloss": "ka mayar mu"
+    },
+    {
+      "surface": "הָאֵ֥ר",
+      "gloss": "ka haskaka"
+    },
+    {
+      "surface": "פָּנֶ֗יךָ",
+      "gloss": "fuskarka"
+    },
+    {
+      "surface": "וְנִוָּשֵֽׁעָה",
+      "gloss": "kuma za a mu cece"
+    }
+  ],
+  "timestamp": "2026-08-12T20:12:05.334780044Z",
+  "model": "glm-5.2"
+}

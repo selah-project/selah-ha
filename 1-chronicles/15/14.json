@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma firistoci da Lewiyawa sun tsarkake kansu don ɗaukaka ⟨את⟩ akwatin Yahweh, Elohim na Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "sun tsarkake kansu"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "firistoci"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "da Lewiyawa"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "don ɗaukaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-13T00:16:43.965855102Z",
+  "model": "glm-5.2"
+}

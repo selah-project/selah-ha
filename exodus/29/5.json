@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma za ka ɗauki ⟨את⟩ tufafin, kuma za ka sa ⟨את⟩ Aharon ⟨da⟩ ⟨את⟩ rigunar, da ⟨את⟩ mayafin efod, da ⟨את⟩ efod, da ⟨את⟩ nonon shari'a, kuma za ka ɗaure shi da gudumin aikin efod.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "kuma za ka ɗauki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tufafin"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "tufafin"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "kuma za ka sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rigunar"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "rigunar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "mayafin efod"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "mayafin"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "nonon shari'a"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "nonon shari'a"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "kuma za ka ɗaure shi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "da gudumin aikin"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    }
+  ],
+  "timestamp": "2026-08-12T01:13:31.222439548Z",
+  "model": "glm-5.2"
+}

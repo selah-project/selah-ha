@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 22:5",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma Avraham ya ce wa samaransa: \"Ku zauna ⟨ku⟩ nan tare da jakin, kuma ni da yarin za mu tafi har can, mu yi lallashi, mu koma wurinku.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "samaransa"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Ku zauna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨ku⟩"
+    },
+    {
+      "surface": "פה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "jakin"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "da yarin"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "za mu tafi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "כה",
+      "gloss": "can"
+    },
+    {
+      "surface": "ונשתחוה",
+      "gloss": "mu yi lallashi"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "mu koma"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "wurinku"
+    }
+  ],
+  "timestamp": "2026-08-11T23:42:09.017360065Z",
+  "model": "glm-5.2"
+}

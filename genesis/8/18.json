@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma Noach ya fita, da ya maza, da matarsa, da matan ya maza ⟨את⟩ tare da shi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Kuma ya fita"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "da ya maza"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "da matarsa"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "da matan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ya maza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ tare da shi",
+      "marks": "Noach"
+    }
+  ],
+  "timestamp": "2026-08-11T23:26:21.385683529Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma, a hanya, a lokacin da wawa ke tafiya, hankalinsa ya gaza, ⟨kuma⟩ yana wa kowa ⟨cewa⟩ shi wawa ne.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "a hanya"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "a lokacin da wawa"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ke tafiya"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hankalinsa"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ya gaga"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "⟨kuma⟩ yana ⟨cewa⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wa kowa"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "wawa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi ⟨ne⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T22:48:22.489039577Z",
+  "model": "glm-5.2"
+}

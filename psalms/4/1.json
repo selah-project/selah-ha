@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Ga shugaban waƙa, da kayan kida, mawaka na Dawida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ga shugaban waƙa"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "da kayan kida"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mawaka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na Dawida"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:29.014562696Z",
+  "model": "glm-5.2"
+}

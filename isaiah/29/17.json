@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 29:17",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Ba ⟨kamar⟩ haka ba? A ƙan ƙaramin lokaci, kuma Lebanan zai koma zuwa Karmel, kuma Karmel zuwa daji zai ⟨kasance⟩ ana ɗauka.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "A ƙan"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ƙaramin"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "lokaci"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "kuma zai koma"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanan"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "zuwa Karmel"
+    },
+    {
+      "surface": "והכרמל",
+      "gloss": "kuma Karmel"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "zuwa daji"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "zai ⟨kasance⟩ ana ɗauka"
+    }
+  ],
+  "timestamp": "2026-08-12T13:46:35.038745769Z",
+  "model": "glm-5.2"
+}

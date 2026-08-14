@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Sa'an nan na gama gwargwadon ⟨a kashe⟩ ⟨את⟩ maƙwantan mafarota guda uku a cikin wata guda, kuma rānana ta ƙeƙe da su, kuma ransu ma ta ƙi ni.",
+  "tokens": [
+    {
+      "surface": "וָאַכְחִ֛ד",
+      "gloss": "kuma-na-gama-gwargwadon"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "maƙwantan-mafarota-guda-uku"
+    },
+    {
+      "surface": "שְׁלֹ֥שֶׁת",
+      "gloss": "guda-uku"
+    },
+    {
+      "surface": "הָרֹעִ֖ים",
+      "gloss": "mafarota"
+    },
+    {
+      "surface": "בְּיֶ֣רַח",
+      "gloss": "a-cikin-wata"
+    },
+    {
+      "surface": "אֶחָ֑ד",
+      "gloss": "guda-ɗaya"
+    },
+    {
+      "surface": "וַתִּקְצַ֤ר",
+      "gloss": "kuma-ta-ƙeƙe"
+    },
+    {
+      "surface": "נַפְשִׁי֙",
+      "gloss": "rānana"
+    },
+    {
+      "surface": "בָּהֶ֔ם",
+      "gloss": "da-su"
+    },
+    {
+      "surface": "וְגַם",
+      "gloss": "kuma-ma"
+    },
+    {
+      "surface": "נַפְשָׁז",
+      "gloss": "ransu"
+    },
+    {
+      "surface": "בָּחֲלָ֥ה",
+      "gloss": "ta-ƙi"
+    },
+    {
+      "surface": "בִֽי",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:08:41.003158169Z",
+  "model": "glm-5.2"
+}

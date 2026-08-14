@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 46,
+  "translation": "Ga ⟨mashawarci⟩, ga ƴaƴan Qorach, bisa ⟨sautin⟩ matasa, waƙa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga ⟨mashawarci⟩"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ga ƴaƴan"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorach"
+    },
+    {
+      "surface": "על",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "⟨sautin⟩ matasa"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "waƙa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:47:40.895535112Z",
+  "model": "glm-5.2"
+}

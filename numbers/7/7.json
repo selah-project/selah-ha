@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "⟨את⟩ Motoci biyu da ⟨את⟩ shanu huɗu ya bai wa ƴan Gershun, gwargwadon aikinsu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Motoci biyu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "Motoci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ da",
+      "marks": "shanu huɗu"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "huɗu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya bai wa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ƴan"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershun"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "gwargwadon"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "aikinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T03:29:39.868040440Z",
+  "model": "glm-5.2"
+}

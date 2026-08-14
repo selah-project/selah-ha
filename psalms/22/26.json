@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Daga gare Kai ⟨ne⟩ yabona, a cikin taron mai yawa; ƙawairata zan biya gaban masu girmama Shi.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "Daga ⟨את⟩ Kai"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "a cikin taron"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mai yawa"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "ƙawairata"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "zan biya"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "masu girmama Shi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:28:23.022628944Z",
+  "model": "glm-5.2"
+}

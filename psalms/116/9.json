@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 116,
+  "translation": "Zan yi tafiya a gaban Yahweh, a cikin ƙasashen masu rai.",
+  "tokens": [
+    {
+      "surface": "אֶ֭תְהַלֵּךְ",
+      "gloss": "Zan yi tafiya"
+    },
+    {
+      "surface": "לִפְנֵ֣י",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בְּ֝אַרְצ֗וֹת",
+      "gloss": "a cikin ƙasashen"
+    },
+    {
+      "surface": "הַֽחַיִּֽים",
+      "gloss": "masu rai"
+    }
+  ],
+  "timestamp": "2026-08-12T20:38:58.948518479Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Waɗanda a hannunsu ⟨akwai⟩ mugun shiri, kuma dama gare su ta cika da cin hanci.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Waɗanda"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "a hannunsu"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "mugun shiri"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "kuma dama gare su"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ta cika"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "da cin hanci"
+    }
+  ],
+  "timestamp": "2026-08-12T19:29:20.783206054Z",
+  "model": "glm-5.2"
+}

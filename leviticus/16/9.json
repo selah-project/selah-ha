@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma Aharon ya kusantar da ⟨את⟩ bunsuriyar da kuri'ar da ta fito ⟨a kai⟩ ta kasance ga Yahweh, ya mayar da shi hadaya ta zunubi.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ya kusantar da"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunsuriyar"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "bunsuriyar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ta fito"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kai"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "kuri'a"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "ya mayar da shi"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "hadaya ta zunubi"
+    }
+  ],
+  "timestamp": "2026-08-12T02:23:59.523093819Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Yā raye Yahweh, Elohim naka, idan akwai wata al'umma da masālauta da ubangijin bai aiko a can don neman kai ba, kuma suka ce, bābu; sai ya rantsar da ⟨את⟩ masālautar da ⟨את⟩ ⟨al'ummar⟩ cewa ba za su same ka ba.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Yā raye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "יש",
+      "gloss": "akwai"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "wata al'umma"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "da masālauta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bai"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "aiko"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ubangijin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "don neman kai"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "kuma suka ce"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bābu"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "sai ya rantsar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masālautar"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "masālautar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "al'ummar"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "⟨al'ummar⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "za su same ka ba"
+    }
+  ],
+  "timestamp": "2026-08-12T11:37:30.844868597Z",
+  "model": "glm-5.2"
+}

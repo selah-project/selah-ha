@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma Boaz ya haifa ⟨את⟩ Oved, kuma Oved ya haifa ⟨את⟩ Yishay.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Kuma Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "kuma Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishay"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    }
+  ],
+  "timestamp": "2026-08-12T23:56:16.939243073Z",
+  "model": "glm-5.2"
+}

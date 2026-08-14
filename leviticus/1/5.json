@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma ya yanka ⟨את⟩ shūgan shāgon a gaban Yahweh, kuma 'ya'yan Aharon, kohanim, suka kāwo ⟨את⟩ jinin, kuma suka tāra ⟨את⟩ jinin a kan gadon hadaya a kewaye, wadda ke a ƙofar Ohel Mo'ed.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "kuma ya yanka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shūgan shāgon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "shūgan"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "shāgon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "kuma suka kāwo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jinin"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "jinin"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "kuma suka tāra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jinin"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "jinin"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "gadon hadaya"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewaye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wadda ke"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "a ƙofar"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Mo'ed"
+    }
+  ],
+  "timestamp": "2026-08-12T01:42:56.546516284Z",
+  "model": "glm-5.2"
+}

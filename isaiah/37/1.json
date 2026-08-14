@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma ⟨ya faru⟩ a lokacin da sarki Chizkiyahu ya ji, ⟨ya⟩ tsage ⟨את⟩ tufafinsa, kuma ya rufe kansa da gundura, kuma ya shiga cikin gidan Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ⟨ya faru⟩"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "a lokacin da ya ji"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "⟨ya⟩ tsage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tufafinsa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "tufafinsa"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "kuma ya rufe kansa"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "da gundura"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kuma ya shiga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "cikin gidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T13:59:49.813193448Z",
+  "model": "glm-5.2"
+}

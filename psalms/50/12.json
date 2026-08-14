@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "Idan Na yi shãƙinõ, ba zan faɗa maka ba, dõmin nawa ne duniyã da cikinta.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "אֶרְעַב",
+      "gloss": "na yi shãƙinõ"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אֹמַר",
+      "gloss": "zan faɗa"
+    },
+    {
+      "surface": "לָךְ",
+      "gloss": "maka"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "nawa ne"
+    },
+    {
+      "surface": "תֵּבֵל",
+      "gloss": "duniyã"
+    },
+    {
+      "surface": "וּמְלֹאָהּ",
+      "gloss": "da cikinta"
+    }
+  ],
+  "timestamp": "2026-08-12T19:46:16.792866862Z",
+  "model": "glm-5.2"
+}

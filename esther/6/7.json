@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma Haman ya ce wa sarki, ⟨ga⟩ mutumin da sarki ke nufin girmama shi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ke nufin"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "girmama shi"
+    }
+  ],
+  "timestamp": "2026-08-12T22:56:33.143135785Z",
+  "model": "glm-5.2"
+}

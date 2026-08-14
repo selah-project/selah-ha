@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Har da wani mutumin salāmina, wanda na dogara a kansa, mai cin ājina, ya ɗaukaka ɗigā a kaina.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "Har da"
+    },
+    {
+      "surface": "אִ֤ישׁ",
+      "gloss": "wani mutumin"
+    },
+    {
+      "surface": "שְׁלוֹמִ֨י",
+      "gloss": "salāmina"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "בָּטַ֣חְתִּי",
+      "gloss": "na dogara"
+    },
+    {
+      "surface": "בוֹ",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "אוֹכֵ֣ל",
+      "gloss": "mai cin"
+    },
+    {
+      "surface": "לַחְמִ֑י",
+      "gloss": "ājina"
+    },
+    {
+      "surface": "הִגְדִּ֖יל",
+      "gloss": "ya ɗaukaka"
+    },
+    {
+      "surface": "עָלַ֣י",
+      "gloss": "a kaina"
+    },
+    {
+      "surface": "עָקֵֽב",
+      "gloss": "ɗigā"
+    }
+  ],
+  "timestamp": "2026-08-12T19:42:08.556771097Z",
+  "model": "glm-5.2"
+}

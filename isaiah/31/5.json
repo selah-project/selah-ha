@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 31:5",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Kamar tsuntsaye masu tashi, haka Yahweh Sebaʾot zai kare Yerushalaim; yana kariya ⟨kuma⟩ yana ceto, yana wucewa ⟨kuma⟩ yana tsira.",
+  "tokens": [
+    {
+      "surface": "כְּצִפֳּרִ֣ים",
+      "gloss": "Kamar tsuntsaye"
+    },
+    {
+      "surface": "עָפ֔וֹת",
+      "gloss": "masu tashi"
+    },
+    {
+      "surface": "כֵּ֗ן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "יָגֵ֛ן",
+      "gloss": "zai kare"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צְבָא֖וֹת",
+      "gloss": "Sebaʾot"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "יְרוּשָׁלִָ֑ם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "גָּנ֥וֹן",
+      "gloss": "yana kariya"
+    },
+    {
+      "surface": "וְהִצִּ֖יל",
+      "gloss": "kuma yana ceto"
+    },
+    {
+      "surface": "פָּסֹ֥חַ",
+      "gloss": "yana wucewa"
+    },
+    {
+      "surface": "וְהִמְלִֽיט",
+      "gloss": "kuma yana tsira"
+    }
+  ],
+  "timestamp": "2026-08-13T02:09:35.325568033Z",
+  "model": "glm-5.2"
+}

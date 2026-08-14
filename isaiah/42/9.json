@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Abubuwan da suka gabata, ga shku, sun zo, kuma sabbin abubuwa ni ina sanar da su; kafin su tsiro ⟨ne⟩ ina sa ku ku ji.",
+  "tokens": [
+    {
+      "surface": "הָרִֽאשֹׁנ֖וֹת",
+      "gloss": "Abubuwan da suka gabata"
+    },
+    {
+      "surface": "הִנֵּה",
+      "gloss": "ga shku"
+    },
+    {
+      "surface": "בָ֑אוּ",
+      "gloss": "sun zo"
+    },
+    {
+      "surface": "וַֽחֲדָשׁוֹת֙",
+      "gloss": "kuma sabbin abubuwa"
+    },
+    {
+      "surface": "אֲנִ֣י",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מַגִּ֔יד",
+      "gloss": "ina sanar da su"
+    },
+    {
+      "surface": "בְּטֶ֥רֶם",
+      "gloss": "kafin"
+    },
+    {
+      "surface": "תִּצְמַ֖חְנָה",
+      "gloss": "su tsiro"
+    },
+    {
+      "surface": "אַשְׁמִ֥יעַ",
+      "gloss": "ina sa ku ku ji"
+    },
+    {
+      "surface": "אֶתְכֶֽם",
+      "gloss": "⟨את⟩ ku"
+    }
+  ],
+  "timestamp": "2026-08-12T14:04:00.507464281Z",
+  "model": "glm-5.2"
+}

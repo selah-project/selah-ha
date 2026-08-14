@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Ya kuma ci ⟨את⟩ Moab, Moabawa suka zama bayi wa Dawuda, masu ɗaukar gado.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Ya kuma ci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "suka zama"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabawa"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bayi"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "wa Dawuda"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "masu ɗaukar"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "gado"
+    }
+  ],
+  "timestamp": "2026-08-13T00:19:02.543500685Z",
+  "model": "glm-5.2"
+}

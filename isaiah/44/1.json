@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Kuma yanzu, saurari, Ya Ya'ƙubu bāwana, kuma Isra'ila wanda na zaɓa ⟨shi⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kuma yanzu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "saurari"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'ƙubu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bāwana"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "kuma Isra'ila"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "na zaɓa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨shi⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T14:10:51.628970574Z",
+  "model": "glm-5.2"
+}

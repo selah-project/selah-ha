@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma idan aka busa a cikinsu, sai duka taron su taru zuwa gare ka, a ƙofar ⟨ḥohel⟩ taron.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "Kuma idan aka busa"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "a cikinsu"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "sai su taru"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zuwa gare ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "taron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ƙofar"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "⟨ḥohel⟩"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "taron"
+    }
+  ],
+  "timestamp": "2026-08-12T03:42:34.156303139Z",
+  "model": "glm-5.2"
+}

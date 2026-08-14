@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Na ce ni, a cikin zuciyata: ⟨game da⟩ ⟨את⟩ mai adalci da ⟨את⟩ mugun, Elohim zai yi shari'a, domin akwai lokaci ga kowane nema, da kuma a kan kowane aiki, ⟨a can⟩.",
+  "tokens": [
+    {
+      "surface": "אָמַ֤רְתִּֽי",
+      "gloss": "Na ce"
+    },
+    {
+      "surface": "אֲנִי֙",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בְּלִבִּ֔י",
+      "gloss": "a cikin zuciyata"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mai adalci"
+    },
+    {
+      "surface": "הַצַּדִּיק֙",
+      "gloss": "mai adalci"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "da ⟨את⟩",
+      "marks": "mugun"
+    },
+    {
+      "surface": "הָ֣רָשָׁ֔ע",
+      "gloss": "mugun"
+    },
+    {
+      "surface": "יִשְׁפֹּ֖ט",
+      "gloss": "zai yi shari'a"
+    },
+    {
+      "surface": "הָאֱלֹהִ֑ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עֵ֣ת",
+      "gloss": "lokaci"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "ga kowane"
+    },
+    {
+      "surface": "חֵ֔פֶץ",
+      "gloss": "nema"
+    },
+    {
+      "surface": "וְעַ֥ל",
+      "gloss": "da kuma a kan"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "kowace"
+    },
+    {
+      "surface": "הַֽמַּעֲשֶׂ֖ה",
+      "gloss": "aiki"
+    },
+    {
+      "surface": "שָֽׁם",
+      "gloss": "⟨a can⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T22:43:05.330621015Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Kuma Moshe, bāwan Yahweh, ya mutu a can, a ƙasar Moab, bisa ⟨umarnin⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ya mutu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "bāwa"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "על",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baki"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T06:04:54.436225789Z",
+  "model": "glm-5.2"
+}

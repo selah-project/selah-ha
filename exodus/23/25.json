@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma ku bauta wa ⟨את⟩ Yahweh, Elohim ku, kuma ⟨zai⟩ albarkaci ⟨את⟩ buroɗinku da ⟨את⟩ ruwan ku, kuma Ni niƙa cire cuta daga cikin ku.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "kuma ku bauta wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ku"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "kuma ⟨zai⟩ albarkaci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buroɗinku"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "buroɗinku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ruwan ku"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "ruwan ku"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "kuma ni niƙa cire"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "cuta"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "daga cikin ku"
+    }
+  ],
+  "timestamp": "2026-08-12T01:00:49.889798630Z",
+  "model": "glm-5.2"
+}

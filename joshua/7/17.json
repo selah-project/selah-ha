@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 7:17",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma ya kusantar da ⟨את⟩ iyalan Yehuda, kuma aka kama ⟨את⟩ dangin Zerachi; kuma ya kusantar da ⟨את⟩ dangin Zerachi ga maza, aka kama Zabdi.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "kuma ya kusantar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyalan"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "iyalan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "kuma aka kama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dangin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "dangin"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "Zerachi"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "kuma ya kusantar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dangin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "dangin"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "Zerachi"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "ga maza"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "aka kama"
+    },
+    {
+      "surface": "זבדי",
+      "gloss": "Zabdi"
+    }
+  ],
+  "timestamp": "2026-08-12T06:25:10.358969974Z",
+  "model": "glm-5.2"
+}

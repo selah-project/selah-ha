@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma bayansa ya yi shari'a ⟨את⟩ Isra'ila Elon ɗan Zevulun, kuma ya yi shari'a ⟨את⟩ Isra'ila shekaru goma.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Kuma ya yi shari'a"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "bayansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isra'ila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Elon"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "ɗan Zevulun"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "kuma ya yi shari'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isra'ila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "goma"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "shekaru"
+    }
+  ],
+  "timestamp": "2026-08-12T07:52:39.302460043Z",
+  "model": "glm-5.2"
+}

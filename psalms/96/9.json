@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 96,
+  "translation": "Ku lallashi ⟨ga⟩ Yahweh a cikin ƙawar tsarki, ku yi rawan jiki daga gaban ⟨sa⟩, dukkan ƙasa.",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "Ku lallashi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨ga⟩ Yahweh"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "a cikin ƙawar"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsarki"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ku yi rawan jiki"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "daga gaban ⟨sa⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:20:00.939672152Z",
+  "model": "glm-5.2"
+}

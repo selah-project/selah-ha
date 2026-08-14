@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ⟨את⟩ 'ya'ƴansa ka kusantar da su, kuma kayi musu tufa da ⟨את⟩ wando.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "'ya'ƴansa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "'ya'ƴansa"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "ka kusantar da su"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "kuma kayi musu tufa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wando"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "wando"
+    }
+  ],
+  "timestamp": "2026-08-12T01:41:09.402632425Z",
+  "model": "glm-5.2"
+}

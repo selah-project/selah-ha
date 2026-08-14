@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma waɗannan ⟨sune⟩ na uban ʼEitam: Yizreʼel, da Yishma, da Yidbash; kuma sunan ƙanwarsu ⟨shine⟩ Tselelponi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kuma waɗannan"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "na uban"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "ʼEitam"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreʼel"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "da Yishma"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "da Yidbash"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "kuma sunan"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "ƙanwarsu"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "Tselelponi"
+    }
+  ],
+  "timestamp": "2026-08-13T00:00:43.081112002Z",
+  "model": "glm-5.2"
+}

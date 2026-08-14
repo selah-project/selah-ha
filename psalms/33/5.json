@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "⟨Yana⟩ son adalci da shari'a; chesed ⟨na⟩ Yahweh ya cika ƙasa.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "⟨Yana⟩ son"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "adalci"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "da shari'a"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ya cika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:34:32.597849235Z",
+  "model": "glm-5.2"
+}

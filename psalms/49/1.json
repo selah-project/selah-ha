@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Ga shugaban waƙa, ga ƴaʼƴan Korah, waƙa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ga shugaban waƙa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ga ƴaʼƴan"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "waƙa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:48:33.162009672Z",
+  "model": "glm-5.2"
+}

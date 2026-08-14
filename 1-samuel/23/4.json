@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Sai Dawuda ya ƙara tambayar Yahweh, sai Yahweh ya amsa shi, ya kuma ce: Tashi, ka sauko Keila, domin ni ina bada ⟨את⟩ Falastawa cikin hannunka.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "Sai ya ƙara"
+    },
+    {
+      "surface": "עוד",
+      "gloss": ""
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "tambayar"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "sai ya amsa shi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya kuma ce"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Tashi"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ka sauko"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ina bada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Falastawa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falastawa"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "cikin hannunka"
+    }
+  ],
+  "timestamp": "2026-08-12T09:24:57.852141419Z",
+  "model": "glm-5.2"
+}

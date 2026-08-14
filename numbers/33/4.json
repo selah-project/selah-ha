@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Kuma Mitsrayim suna binne ⟨את⟩ waɗanda Yahweh ya buɗe a cikinsu, dukan fari, kuma a gumakansu Yahweh ya aiwatar da hukunce-hukunce.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "kuma Mitsrayim"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "suna binne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waɗanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ya buɗe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "a cikinsu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "fari"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "kuma a gumakansu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya aiwatar da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "hukunce-hukunce"
+    }
+  ],
+  "timestamp": "2026-08-12T04:44:30.197170727Z",
+  "model": "glm-5.2"
+}

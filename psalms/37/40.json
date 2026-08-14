@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Yahweh yana taimaka musu kuma yana tsare su; Ya tsare su daga miyagu, kuma Yana ceton su, domin sun nemi mafaka a cikin Sa.",
+  "tokens": [
+    {
+      "surface": "וַֽיַּעְזְרֵ֥ם",
+      "gloss": "yana taimaka musu"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וַֽיְפַלְּטֵ֥ם",
+      "gloss": "kuma yana tsare su"
+    },
+    {
+      "surface": "יְפַלְּטֵ֣ם",
+      "gloss": "Ya tsare su"
+    },
+    {
+      "surface": "מֵ֭רְשָׁעִים",
+      "gloss": "daga miyagu"
+    },
+    {
+      "surface": "וְיוֹשִׁיעֵ֑ם",
+      "gloss": "kuma Yana ceton su"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "חָ֥סוּ",
+      "gloss": "sun nemi mafaka"
+    },
+    {
+      "surface": "בֽוֹ",
+      "gloss": "a cikin Sa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:24:27.666381940Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 5:13",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Amma duk wannan ba ya kama mini ⟨da komai⟩ a kowane lokaci da nake ganin ⟨את⟩ Mordekai ɗan Yahuda yana zaune a ƙofar sarki.",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "amma duka"
+    },
+    {
+      "surface": "זֶ֕ה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "אֵינֶ֥נּוּ",
+      "gloss": "ba ya"
+    },
+    {
+      "surface": "שֹׁוֶ֖ה",
+      "gloss": "kama"
+    },
+    {
+      "surface": "לִ֑י",
+      "gloss": "mini"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "a kowane"
+    },
+    {
+      "surface": "עֵ֗ת",
+      "gloss": "lokaci"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אֲנִ֤י",
+      "gloss": "ni"
+    },
+    {
+      "surface": "רֹאֶה֙",
+      "gloss": "nake ganin"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekai"
+    },
+    {
+      "surface": "מָרְדֳּכַ֣י",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "הַיְּהוּדִ֔י",
+      "gloss": "ɗan Yahuda"
+    },
+    {
+      "surface": "יוֹשֵׁ֖ב",
+      "gloss": "yana zaune"
+    },
+    {
+      "surface": "בְּשַׁ֥עַר",
+      "gloss": "a ƙofar"
+    },
+    {
+      "surface": "הַמֶּֽלֶךְ",
+      "gloss": "sarki"
+    }
+  ],
+  "timestamp": "2026-08-12T22:51:31.680653658Z",
+  "model": "glm-5.2"
+}

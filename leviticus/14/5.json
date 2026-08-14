@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma kohon ya yi umarni, aka yanka ⟨את⟩ tsuntsun ⟨ne⟩ guda ɗaya a cikin kwandon yumbu a kan ruwan rai.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "kuma ya yi umarni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "aka yanka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsuntsun"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "tsuntsun"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "guda ɗaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a cikin"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kwandon"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "yumbu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "rai"
+    }
+  ],
+  "timestamp": "2026-08-13T01:49:20.458397055Z",
+  "model": "glm-5.2"
+}

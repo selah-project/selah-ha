@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma Yehonatan ya ba ⟨את⟩ kayan sauri, ⟨ga⟩ yaron da ke tare da shi, kuma ya ce masa, \"Tafi, kawo ⟨su⟩ cikin birni.\"",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Kuma ya ba"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kayan sauri"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kayan sauri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ga⟩"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "yaron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ke tare da shi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tafi"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "kawo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cikin birni"
+    }
+  ],
+  "timestamp": "2026-08-12T09:24:22.338149291Z",
+  "model": "glm-5.2"
+}

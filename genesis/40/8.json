@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 40:8",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma suka ce masa, Muna mafarka muna mafarkai, amma babu mai fassara ⟨את⟩ shi. Kuma Yosef ya ce musu, Ba ⟨zuwa⟩ ga Elohim ne fassarar mafarkai? Ku faɗa min yanzu.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Kuma suka ce"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "Muna mafarka"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "muna mafarkai"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "amma mai fassara"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "zuwa ga Elohim"
+    },
+    {
+      "surface": "פתרנים",
+      "gloss": "ne fassarar mafarkai"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "Ku faɗa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-08-12T00:10:07.585002787Z",
+  "model": "glm-5.2"
+}

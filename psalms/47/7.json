@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Ku rera wa Elohim, ku rera, ku rera wa sarkinmu, ku rera.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Ku rera wa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ku rera"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ku rera wa"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "sarkinmu"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ku rera"
+    }
+  ],
+  "timestamp": "2026-08-12T19:47:00.630392894Z",
+  "model": "glm-5.2"
+}

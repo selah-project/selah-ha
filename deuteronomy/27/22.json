@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "La'anne ⟨ne⟩ wanda yake kwanta da 'yar'uwar sa, ⟨ko⟩ 'yar uban sa ko 'yar uwar sa ⟨ce⟩, kuma dukkan mutanen za su faɗa Amin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "la'anne"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "wanda yake kwanta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "da"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "'yar'uwar sa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "'yar"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בת",
+      "gloss": "'yar"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "uwar sa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "kuma za su faɗa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    }
+  ],
+  "timestamp": "2026-08-12T05:42:45.870453410Z",
+  "model": "glm-5.2"
+}

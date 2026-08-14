@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma ⟨zan⟩ aika ⟨את⟩ ƙudan zuma gabaninka, domin ta kore ⟨את⟩ HaƖiwiawa ⟨את⟩ Kenaʼaniyawa da ⟨את⟩ Hiɗdiyawa daga gabaninka.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "kuma ⟨zan⟩ aika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙudan zuma"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "ƙudan zuma"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "gabaninka"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "domin ta kore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "HaƖiwiawa"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "HaƖiwiawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaʼaniyawa"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaʼaniyawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Hiɗdiyawa"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hiɗdiyawa"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "daga gabaninka"
+    }
+  ],
+  "timestamp": "2026-08-12T01:00:49.890408915Z",
+  "model": "glm-5.2"
+}

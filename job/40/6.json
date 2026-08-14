@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Yahweh ya amsa ⟨את⟩ Iyobu daga cikin guguwa, ya ce:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ya amsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyobu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobu"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "daga cikin"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "guguwa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    }
+  ],
+  "timestamp": "2026-08-12T22:17:12.434759010Z",
+  "model": "glm-5.2"
+}

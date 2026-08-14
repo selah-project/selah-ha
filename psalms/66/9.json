@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 66,
+  "translation": "⟨Wanda⟩ ya sanya ⟨את⟩ rai mu cikin rai-mutuwa, kuma ba ya bada ⟨don⟩ su ɗaugamar da ƙafafu mu.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "ya sanya"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "rai mu"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "cikin rai-mutuwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba ya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bada"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "⟨don⟩ su ɗaugamar da"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "ƙafafu mu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:56:20.077951278Z",
+  "model": "glm-5.2"
+}

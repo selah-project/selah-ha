@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Gaskiyar ⟨na⟩ marar laifi za ta shirfa hanya⟨sa⟩, amma a cikin muguntar ⟨sa⟩ mugun mutum zai faɗi.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "Gaskiyar"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "marar laifi"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "za ta shirfa"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "hanya⟨sa⟩"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "amma a cikin muguntar ⟨sa⟩"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "zai faɗi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mugun mutum"
+    }
+  ],
+  "timestamp": "2026-08-12T21:11:33.730472635Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 22:7",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "A cikin damuNa na kira Yahweh, ⟨kuma⟩ zuwa ga ElohimNa na kira, ⟨kuma⟩ Ya ji daga haikalinsa muryata, ⟨kuma⟩ rawatinYa ⟨ya kasance⟩ a cikin kunnuwansa.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "a cikin damuNa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "na kira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "⟨kuma⟩ zuwa ga"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ElohimNa"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "na kira"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "⟨kuma⟩ Ya ji"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "daga haikalinsa"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "muryata"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "⟨kuma⟩ rawatinYa"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "a cikin kunnuwansa"
+    }
+  ],
+  "timestamp": "2026-08-13T03:04:50.728480576Z",
+  "model": "glm-5.2"
+}

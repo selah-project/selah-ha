@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "da ⟨אַת⟩ Yebusiyi, da ⟨אַת⟩ Emoriyi, da ⟨אַת⟩ Girgashiyi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ da ⟨אַת⟩",
+      "marks": "Yebusiyi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yebusiyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ da ⟨אַת⟩",
+      "marks": "Emoriyi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ da ⟨אַת⟩",
+      "marks": "Girgashiyi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgashiyi"
+    }
+  ],
+  "timestamp": "2026-08-12T23:54:52.906126064Z",
+  "model": "glm-5.2"
+}

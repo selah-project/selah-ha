@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Aikin adalci ⟨yana kaiwa⟩ zuwa rai, amfanin mugunta ⟨yana kaiwa⟩ zuwa zunubi.",
+  "tokens": [
+    {
+      "surface": "פְּעֻלַּ֣ת",
+      "gloss": "Aikin"
+    },
+    {
+      "surface": "צַדִּ֣יק",
+      "gloss": "adalci"
+    },
+    {
+      "surface": "לְחַיִּ֑ים",
+      "gloss": "⟨yana kaiwa⟩ zuwa rai"
+    },
+    {
+      "surface": "תְּבוּאַ֖ת",
+      "gloss": "amfanin"
+    },
+    {
+      "surface": "רָשָׁ֣ע",
+      "gloss": "mugunta"
+    },
+    {
+      "surface": "לְחַטָּֽאת",
+      "gloss": "⟨yana kaiwa⟩ zuwa zunubi"
+    }
+  ],
+  "timestamp": "2026-08-12T21:11:16.811446042Z",
+  "model": "glm-5.2"
+}

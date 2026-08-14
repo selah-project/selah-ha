@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 10:24",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma daga cikin mawaka: Elyashiv. Kuma daga cikin ƴan kofa: Shallum, da Telem, da Uri.",
+  "tokens": [
+    {
+      "surface": "וּמִן",
+      "gloss": "Kuma daga cikin"
+    },
+    {
+      "surface": "הַמְשֹׁרְרִ֖ים",
+      "gloss": "mawaka"
+    },
+    {
+      "surface": "אֶלְיָשִׁ֑יב",
+      "gloss": "Elyashiv"
+    },
+    {
+      "surface": "וּמִן",
+      "gloss": "Kuma daga cikin"
+    },
+    {
+      "surface": "הַשֹּׁעֲרִ֔ים",
+      "gloss": "ƴan kofa"
+    },
+    {
+      "surface": "שַׁלֻּ֥ם",
+      "gloss": "Shallum"
+    },
+    {
+      "surface": "וָטֶ֖לֶם",
+      "gloss": "da Telem"
+    },
+    {
+      "surface": "וְאוּרִֽי",
+      "gloss": "da Uri"
+    }
+  ],
+  "timestamp": "2026-08-12T23:34:09.999019323Z",
+  "model": "glm-5.2"
+}

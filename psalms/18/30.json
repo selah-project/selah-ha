@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Domin a cikinka ni na tona gari, kuma a cikin Elohim na na tsallake bango.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "בך",
+      "gloss": "a cikinka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "na tona gari"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "gari"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "kuma a cikin Elohim"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "na tsallake"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-08-12T19:24:17.083240045Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 23:20",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma yanzu, don komai burin rai naka, ya sarki, ka sauka, ka sauka, kuma a mu ⟨shi⟩ ke mika shi cikin hannun sarki.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kuma yanzu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "don komai"
+    },
+    {
+      "surface": "אות",
+      "gloss": "burin"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "rai naka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya sarki"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ka sauka"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ka sauka"
+    },
+    {
+      "surface": "ולנו",
+      "gloss": "kuma a mu"
+    },
+    {
+      "surface": "הסגירו",
+      "gloss": "⟨shi⟩ ke mika shi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "cikin hannun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    }
+  ],
+  "timestamp": "2026-08-12T09:26:46.896293410Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ⟨ya⟩ kawo ⟨את⟩ ni zuwa ga buɗewar ⟨na⟩ kŏgĩra, sai na duba, sai ga shi — rijiya ɗaya cikin bango.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Kuma ⟨ya⟩ kawo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "buɗewar"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "⟨na⟩ kŏgĩra"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "sai na duba"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sai ga shi"
+    },
+    {
+      "surface": "חר",
+      "gloss": "rijiya"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "cikin bango"
+    }
+  ],
+  "timestamp": "2026-08-12T16:55:30.677340896Z",
+  "model": "glm-5.2"
+}

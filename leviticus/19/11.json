@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kada ku sata, kuma kada ku karyata, kuma kada ku yi ƙarya, mutum ⟨ga⟩ maƙwabcinsa.",
+  "tokens": [
+    {
+      "surface": "לֹ֖א",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תִּגְנֹ֑בוּ",
+      "gloss": "ku sata"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תְכַחֲשׁ֥וּ",
+      "gloss": "ku karyata"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תְשַׁקְּר֖וּ",
+      "gloss": "ku yi ƙarya"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "בַּעֲמִיתֽוֹ",
+      "gloss": "maƙwabcinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:25:30.364443153Z",
+  "model": "glm-5.2"
+}

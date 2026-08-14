@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 71,
+  "translation": "A kai na dorawa tun daga ciki, daga mahadar uwa ta ka sani ni; a kai ne yabata kullum.",
+  "tokens": [
+    {
+      "surface": "עָלֶ֤יךָ",
+      "gloss": "A kai"
+    },
+    {
+      "surface": "נִסְמַ֬כְתִּי",
+      "gloss": "na dorawa"
+    },
+    {
+      "surface": "מִבֶּ֗טֶן",
+      "gloss": "tun daga ciki"
+    },
+    {
+      "surface": "מִמְּעֵ֣י",
+      "gloss": "daga mahadar"
+    },
+    {
+      "surface": "אִ֭מִּי",
+      "gloss": "uwa ta"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "גוֹזִ֑י",
+      "gloss": "ka sani ni"
+    },
+    {
+      "surface": "בְּךָ֖",
+      "gloss": "a kai"
+    },
+    {
+      "surface": "תְהִלָּתִ֣י",
+      "gloss": "yabata"
+    },
+    {
+      "surface": "תָמִֽיד",
+      "gloss": "kullum"
+    }
+  ],
+  "timestamp": "2026-08-12T20:00:52.091562479Z",
+  "model": "glm-5.2"
+}

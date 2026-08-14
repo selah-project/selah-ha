@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 30:32",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Idan ka kashe hankali wajen ɗaukaka kanka, ko idan ka yi shirin mugun nufi, ka sanya hannunka a bakinka.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "ka kashe hankali"
+    },
+    {
+      "surface": "בהתנשא",
+      "gloss": "wajen ɗaukaka kanka"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ko idan"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "ka yi shirin mugun nufi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hannunka"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "a bakinka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:30:19.983540138Z",
+  "model": "glm-5.2"
+}

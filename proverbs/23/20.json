@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kada ka kasance cikin masu sha giya, cikin masu cin naman nama zuwa gare su.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ka kasance"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "cikin masu sha"
+    },
+    {
+      "surface": "יין",
+      "gloss": "giya"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "cikin masu cin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "למו",
+      "gloss": "zuwa gare su"
+    }
+  ],
+  "timestamp": "2026-08-12T21:26:37.026065798Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "A cikin shekara ta wannan yobel, kowane mutum ya koma ⟨zuwa⟩ gadon sa.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "A cikin shekara ta"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "yobel"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "ku koma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨zuwa⟩"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "gadon sa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:53:00.121855392Z",
+  "model": "glm-5.2"
+}

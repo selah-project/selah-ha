@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 135,
+  "translation": "Ku yaba Yah, ku yaba ⟨את⟩ sunan Yahweh, ku yaba, ku bãyin Yahweh!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ku yaba"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ku yaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "suna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ku yaba"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ku bãyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T20:51:30.021110550Z",
+  "model": "glm-5.2"
+}

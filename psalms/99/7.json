@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 99,
+  "translation": "A cikin ginshiƙi na gajimara Yana magana ⟨da⟩ su; sun kiyaye shaidodin Sa, kuma ⟨haka⟩ Ya bada ⟨musu⟩ ɗokar Sa.",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "A cikin ginshiƙi"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "na gajimara"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "Yana magana"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "su"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "sun kiyaye"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "shaidodin Sa"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "kuma ɗokar"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Ya bada"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨musu⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:25:46.966915984Z",
+  "model": "glm-5.2"
+}

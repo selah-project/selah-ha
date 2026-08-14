@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 79,
+  "translation": "Kuma ka mayar wa maƙwabtanmu, sau bakwai a cikin cikinsu, wulakansu da suka wulakanta Ka, ya Adonai.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "Kuma ka mayar wa"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "maƙwabtanmu"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "sau bakwai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a cikin"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "cikinsu"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "wulakansu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "suka wulakanta Ka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ya Adonai"
+    }
+  ],
+  "timestamp": "2026-08-12T20:11:48.817205993Z",
+  "model": "glm-5.2"
+}

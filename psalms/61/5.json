@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 61,
+  "translation": "Da ni zan gaji a cikin alharka, tsawon zamani, in nemi mafaka a cikin ɓoyen fuka-fukanka. Sela.",
+  "tokens": [
+    {
+      "surface": "אָג֣וּרָה",
+      "gloss": "Da ni zan gaji"
+    },
+    {
+      "surface": "בְ֭אָהָלְךָ",
+      "gloss": "a cikin alharka"
+    },
+    {
+      "surface": "עוֹלָמִ֑ים",
+      "gloss": "tsawon zamani"
+    },
+    {
+      "surface": "אֶֽחֱסֶ֨ה",
+      "gloss": "inan nemi mafaka"
+    },
+    {
+      "surface": "בְסֵ֖תֶר",
+      "gloss": "a cikin ɓoyen"
+    },
+    {
+      "surface": "כְּנָפֶ֣יךָ",
+      "gloss": "fuka-fukanka"
+    },
+    {
+      "surface": "סֶּֽלָה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:27.890444625Z",
+  "model": "glm-5.2"
+}

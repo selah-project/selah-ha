@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "A lokacin nan, bayin Nebukadnezzar sarkin Babil sun hawa zuwa Yerushalama, kuma birnin ya shiga cikin kewaye.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "A lokacin"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sun hawa zuwa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bayin"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnezzar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalama"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "kuma ya shiga cikin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "kewaye"
+    }
+  ],
+  "timestamp": "2026-08-12T12:49:14.022153374Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Sai Adonai ya tashi kamar wanda ke barci, kamar jarumi da ke kururuwa ⟨saboda⟩ giya.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "Sai ya tashi"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "kamar wanda ke barci"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "kamar jarumi"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "da ke kururuwa"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "giya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:10:10.492470166Z",
+  "model": "glm-5.2"
+}

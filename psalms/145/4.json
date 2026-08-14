@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 145,
+  "translation": "Zuriya zuwa zuriya tana yabo ga aikinka, kuma ƙarfinka suke faɗar.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Zuriya"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "zuwa zuriya"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "tana yabo"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "aikinka"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "kuma ƙarfinka"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "suke faɗar"
+    }
+  ],
+  "timestamp": "2026-08-12T20:58:15.172153647Z",
+  "model": "glm-5.2"
+}

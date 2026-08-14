@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 3:1",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ⟨ya kasance⟩ yakin daɗe tsakanin gidan Shaul da tsakanin gidan Dawuda, kuma Dawida yana tafiya ne yana ƙaruwa da ƙarfi, amma gidan Shaul suna tafiya suna raunana.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "kuma ⟨ya kasance⟩"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "yakin"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "daɗe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da tsakanin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "kuma Dawida"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yana tafiya"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "yana ƙaruwa da ƙarfi"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "amma gidan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "suna tafiya"
+    },
+    {
+      "surface": "ודלים",
+      "gloss": "suna raunana"
+    }
+  ],
+  "timestamp": "2026-08-12T09:49:07.785767672Z",
+  "model": "glm-5.2"
+}

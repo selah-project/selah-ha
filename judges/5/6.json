@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 5:6",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "A kwanakin Shamgar ɗan Anath, a kwanakin Yael, hanyoyi sun daina ⟨zama⟩; kuma masu tafiya a hanyoyin da aka dabaice za su bi hanyoyi masu karkace.",
+  "tokens": [
+    {
+      "surface": "בימי",
+      "gloss": "a kwanakin"
+    },
+    {
+      "surface": "שמגר",
+      "gloss": "Shamgar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "ענת",
+      "gloss": "Anath"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "a kwanakin"
+    },
+    {
+      "surface": "יעל",
+      "gloss": "Yael"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "sun daina"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "hanyoyi"
+    },
+    {
+      "surface": "והלכי",
+      "gloss": "kuma masu tafiya"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "a hanyoyin"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "za su bi"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "hanyoyi"
+    },
+    {
+      "surface": "עקלקלות",
+      "gloss": "masu karkace"
+    }
+  ],
+  "timestamp": "2026-08-12T07:23:11.293651421Z",
+  "model": "glm-5.2"
+}

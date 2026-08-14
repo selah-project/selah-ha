@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "da ⟨את⟩ Ha'arwadi, da ⟨את⟩ Hatsamari, da ⟨את⟩ Hahamati; daga baya ƙabilun Kena'ana sun watse.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Ha'arwadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Ha'arwadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Hatsamari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Hatsamari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Hahamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Hahamati"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "daga baya"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "sun watse"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ƙabilun"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kena'ana"
+    }
+  ],
+  "timestamp": "2026-08-13T01:44:26.760721085Z",
+  "model": "glm-5.2"
+}

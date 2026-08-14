@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 96,
+  "translation": "Ku baiwã Yahweh una na sunanSa, ku ɗauki hadaya ku shiga cikin fagonSa.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Ku baiwã"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "una"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "na sunanSa"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "ku ɗauki"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "hadaya"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ku shiga"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "cikin fagonSa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:22:06.846330049Z",
+  "model": "glm-5.2"
+}

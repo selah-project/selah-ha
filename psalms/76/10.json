@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 76,
+  "translation": "Da Elohim ya tashi zuwa shari'a, don ya ceci dukkan ƙasƙantar ƙasa. Selah.",
+  "tokens": [
+    {
+      "surface": "בְּקוּם",
+      "gloss": "Da ya tashi"
+    },
+    {
+      "surface": "לַמִּשְׁפָּ֥ט",
+      "gloss": "zuwa shari'a"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לְהוֹשִׁ֖יעַ",
+      "gloss": "don ya ceci"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "ɗukkan"
+    },
+    {
+      "surface": "עַנְוֵי",
+      "gloss": "ƙasƙantar"
+    },
+    {
+      "surface": "אֶ֣רֶץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T20:04:48.730138265Z",
+  "model": "glm-5.2"
+}

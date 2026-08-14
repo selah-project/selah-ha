@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Mosheh ya ajiye ⟨את⟩ sandān a gaban Yahweh, a cikin ɓīrar shaidar.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "ya ajiye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandān"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "sandān"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "a cikin ɓīrar"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "shaidar"
+    }
+  ],
+  "timestamp": "2026-08-12T04:06:13.560457041Z",
+  "model": "glm-5.2"
+}

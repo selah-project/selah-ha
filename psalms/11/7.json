@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Dõmin Yahweh ⟨ne⟩ mai gaskiya, gaskiya Yake so; masu daidaito zã su ga fuskarsa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mai gaskiya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "gaskiya"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "Yana so"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "masu daidaito"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "zã su kalli"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "fuskarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:20:50.163505309Z",
+  "model": "glm-5.2"
+}

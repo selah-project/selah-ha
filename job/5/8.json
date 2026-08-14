@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Amma ni, ina neman ⟨zuwa⟩ El, kuma zuwa ga Elohim ina sanya shawata;",
+  "tokens": [
+    {
+      "surface": "אוּלָם",
+      "gloss": "amma"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אֶדְרֹשׁ",
+      "gloss": "ina neman"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨zuwa⟩"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "kuma zuwa"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אָשִׂים",
+      "gloss": "ina sanya"
+    },
+    {
+      "surface": "דִּבְרָתִי",
+      "gloss": "shawata"
+    }
+  ],
+  "timestamp": "2026-08-12T21:43:36.463486262Z",
+  "model": "glm-5.2"
+}

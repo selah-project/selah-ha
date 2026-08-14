@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 15:8",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma idan mai zubarwa ya yi '{wariya a kan ⟨ne⟩ wanda aka tsarkaka, to ⟨za⟩ zai wanke tufafinsa, kuma ya yanka ruwa, kuma ya kasance mai ɓata har yamma.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "ya yi '{wariya"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "mai zubarwa"
+    },
+    {
+      "surface": "בטהור",
+      "gloss": "a kan wanda aka tsarkaka"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "zai wanke"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "tufafinsa"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "kuma ya yanka"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "kuma ya kasance mai ɓata"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "yamma"
+    }
+  ],
+  "timestamp": "2026-08-12T02:22:13.347274861Z",
+  "model": "glm-5.2"
+}

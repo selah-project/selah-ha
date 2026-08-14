@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Ya saka ruwan sama musu ya zama ƙanƙara, wutar harhaye a ƙasarsu.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Ya saka"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "ruwan sama musu"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ya zama ƙanƙara"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "harhaye"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "a ƙasarsu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:32:38.418863017Z",
+  "model": "glm-5.2"
+}

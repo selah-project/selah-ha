@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 21:32",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Sa'anan suka yanji alkawali a Be'er-Sheva, sa'anan Abimelek ya tashi tare da Fikol, shugaban sojojinsa, suka koma zuwa ƙasar Filistiyawa.",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "Saya yanji"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alkawali"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "a Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "sa'ananya tashi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "ופיכל",
+      "gloss": "tare da Fikol"
+    },
+    {
+      "surface": "שר",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "sojojinsa"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "suka koma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiyawa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:42:43.986372874Z",
+  "model": "glm-5.2"
+}

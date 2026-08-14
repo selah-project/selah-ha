@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Sai ka wanke, kuma ka shafa ⟨man⟩, kuma ka sa tufafinka a kanku, ka sauka zuwa dagam garin. Kada a san ka ga mutumin ⟨har⟩ ya gama cin da sha.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "ka wanke"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "ka shafa"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ka sa"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "tufafinka"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "a kanku"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "ka sauka"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "zuwa dagam garin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "a san ka"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ga mutumin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ya gama"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "cin"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "da sha"
+    }
+  ],
+  "timestamp": "2026-08-12T22:31:26.751560429Z",
+  "model": "glm-5.2"
+}

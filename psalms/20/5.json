@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Ya ba ka kamar yadda ⟨ke⟩ cikin zuciyarka, kuma duk shawararka ya cika.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "kamar yadda cikin zuciyarka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma duk"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "shawararka"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ya cika"
+    }
+  ],
+  "timestamp": "2026-08-12T19:26:51.438279619Z",
+  "model": "glm-5.2"
+}

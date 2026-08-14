@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Mun yi laifi tare da ubanninmu, mun yi taɓa, mun aikata mugunta.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "mun yi laifi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ubanninmu"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "mun yi taɓa"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "mun aikata mugunta"
+    }
+  ],
+  "timestamp": "2026-08-12T20:30:26.730632227Z",
+  "model": "glm-5.2"
+}

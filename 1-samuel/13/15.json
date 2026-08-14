@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma Shemuël ya tashi, ya hau daga ha-Gilgal ⟨zuwa⟩ Giv'at Binyamin, kuma Sha'ul ya ƙidaya ⟨את⟩ mutanen da suke tare da shi, kimanin mutane dari shida.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kuma ya tashi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ya hau"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ha-Gilgal"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Giv'at"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "kuma ya ƙidaya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "da suke"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tare da shi"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "kimanin"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dari shida"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutane"
+    }
+  ],
+  "timestamp": "2026-08-12T08:57:15.498328141Z",
+  "model": "glm-5.2"
+}

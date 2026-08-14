@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Ka shirya maka hanya, kuma ka kasata ⟨את⟩ iyakar kasarka, da Yahweh, Elohiminka, yake sa ka gaji, zuwa sassa uku, domin a gudanar can dukkan maharin ya tsere.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "Ka shirya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "kuma ka kasata zuwa uku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyakar kasarka"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "iyakar"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "kasarka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "yake sa ka gaji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminka"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "domin a"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "a gudanar"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "can"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "maharin"
+    }
+  ],
+  "timestamp": "2026-08-12T05:24:59.104515520Z",
+  "model": "glm-5.2"
+}

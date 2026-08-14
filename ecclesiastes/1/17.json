@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma na ba da zuciyata don in san hikima da ⟨don san⟩ wauta da ⟨da⟩ jahilci; na sani cewa wannan ma shi ne neman iska.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Kuma na ba da"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "don in san"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikima"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "da ⟨don san⟩"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "wauta"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "da ⟨da⟩ jahilci"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "na sani"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "cewa wannan ma"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi ⟨ne⟩"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "neman"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "iska"
+    }
+  ],
+  "timestamp": "2026-08-13T23:47:20.405090419Z",
+  "model": "glm-5.2"
+}

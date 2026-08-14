@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 13:12",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Manoah ya ce, \"Yanzu kalmominka su zo su faru. Menene hukuncin yaron zai kasance, da kuma aikinsa?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Manoah"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "su zo"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "kalmominka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "menene"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zai kasance"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukuncin"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "yaron"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "da aikinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T07:55:26.816246331Z",
+  "model": "glm-5.2"
+}

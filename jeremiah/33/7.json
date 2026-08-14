@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Kuma nã mayar da ⟨את⟩ gudun hijirar Yahuɗa da ⟨את⟩ gudun hijirar Isra'ilã, kuma inã gina su kamar a farko.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "Kuma nã mayar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gudun hijirar"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "gudun hijirar"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuɗa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "gudun hijirar"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "gudun hijirar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ilã"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "kuma inã gina su"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "kamar a farko"
+    }
+  ],
+  "timestamp": "2026-08-12T16:02:47.333250710Z",
+  "model": "glm-5.2"
+}

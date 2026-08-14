@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 95,
+  "translation": "arba'in shekara na firgita da wannan ƙarni, kuma na ce: mutane ne masu ɓatar zuciya suke, kuma su ba su san hanyoyina.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "arba'in"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "na firgita"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "da wannan ƙarni"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "kuma na ce"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "masu ɓatar"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "zuciya"
+    },
+    {
+      "surface": "הם",
+      "gloss": "suke"
+    },
+    {
+      "surface": "והם",
+      "gloss": "kuma su"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba su"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "san"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "hanyoyina"
+    }
+  ],
+  "timestamp": "2026-08-12T20:20:35.140593673Z",
+  "model": "glm-5.2"
+}

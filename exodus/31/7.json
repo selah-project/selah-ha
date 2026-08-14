@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "⟨את⟩ Ahmadar Taro, da ⟨את⟩ Akwatin Shaida, da ⟨את⟩ Rufin-Rahama da ke kansa, da ⟨את⟩ dukkan kayan aiki na Mahidar.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahmadar Taro"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Mahidar"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Taro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Akwatin Shaida"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Akwatin"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "Shaida"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Rufin-Rahama"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Rufin-Rahama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da ke"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukka"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kayan aiki"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "na Mahidar"
+    }
+  ],
+  "timestamp": "2026-08-12T01:19:17.385608116Z",
+  "model": "glm-5.2"
+}

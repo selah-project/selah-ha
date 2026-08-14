@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Waƙa ta Daud, a lokacin da ya gudu daga gaban Ɗan Awshalom ⟨ɗansa⟩.",
+  "tokens": [
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "Waƙa"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "ta Daud"
+    },
+    {
+      "surface": "בְּ֝בָרְח֗וֹ",
+      "gloss": "a lokacin da ya gudu"
+    },
+    {
+      "surface": "מִפְּנֵ֤י",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "אַבְשָׁל֬וֹם",
+      "gloss": "Awshalom"
+    },
+    {
+      "surface": "בְּנֽוֹ",
+      "gloss": "ɗansa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:15:17.780509876Z",
+  "model": "glm-5.2"
+}

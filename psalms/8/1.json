@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Ga shugaban kiɗa, akan ⟨kiɗar⟩ Gittit, waƙa ta Dawida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga shugaban kiɗa"
+    },
+    {
+      "surface": "על",
+      "gloss": "akan"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "waƙa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ta Dawida"
+    }
+  ],
+  "timestamp": "2026-08-13T02:22:45.532481294Z",
+  "model": "glm-5.2"
+}

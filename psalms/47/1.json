@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Ga jagoran waƙa, ga ɗiyans Korach. ⟨Mizmor⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ga jagoran waƙa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ga ɗiyans"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "⟨Mizmor⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T19:46:50.977755696Z",
+  "model": "glm-5.2"
+}

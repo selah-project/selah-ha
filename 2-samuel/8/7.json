@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma Dawuda ya riƙe ⟨את⟩ garkuwan zinare waɗanda suke ga bayin Hadadezer, kuma ya kawo su Yerushalem.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kuma ya riƙe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garkuwan zinare"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "garkuwan"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zinare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "היו",
+      "gloss": "suke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bayin"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "kuma ya kawo su"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalem"
+    }
+  ],
+  "timestamp": "2026-08-12T10:08:43.643802527Z",
+  "model": "glm-5.2"
+}

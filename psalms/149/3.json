@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 149,
+  "translation": "Su yabe sunansa cikin rawa; da ɗaƙarƙara da kinnor su dambio wa shi.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Su yabe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "cikin rawa"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "da ɗaƙarƙara"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "da kinnor"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "su dambio wa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    }
+  ],
+  "timestamp": "2026-08-12T21:00:01.524484800Z",
+  "model": "glm-5.2"
+}

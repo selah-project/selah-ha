@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma idan ka ƙi sako ⟨suna⟩, ga shi, Ni ina yi ⟨את⟩ dukkan iyakanka duka da kwadi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ka ƙi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "sako"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "ina yi duka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan iyakanka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "iyakanka"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "da kwadi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:37:38.438327397Z",
+  "model": "glm-5.2"
+}

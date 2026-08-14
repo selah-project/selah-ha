@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 72,
+  "translation": "Kuma duk sarakuna za su lallasa⟨su⟩ a gare⟨shi⟩; duk al'ummomi za su bauta⟨wa⟩⟨shi⟩.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "kuma za su lallasa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a gare⟨shi⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "sarakuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "al'ummomi"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "za su bauta⟨wa⟩⟨shi⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:01:50.272785617Z",
+  "model": "glm-5.2"
+}

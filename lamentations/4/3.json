@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 4:3",
+  "book": "lamentations",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Ko ƙuraye sun nona nono, suka shayar 'ya'yansu; amma 'yar jama'ata ta zama mugunyar zuciya kamar tsuntayen jeji a cikin hamada.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "ƙuraye"
+    },
+    {
+      "surface": "חלצו",
+      "gloss": "suna nona"
+    },
+    {
+      "surface": "שד",
+      "gloss": "nono"
+    },
+    {
+      "surface": "היניקו",
+      "gloss": "suka shayar"
+    },
+    {
+      "surface": "גוריהן",
+      "gloss": "'ya'yansu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "'yar"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "jama'ata"
+    },
+    {
+      "surface": "לאכזר",
+      "gloss": "ta zama mugunyar zuciya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "tsuntayen jeji"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a cikin hamada"
+    }
+  ],
+  "timestamp": "2026-08-12T22:37:07.559313690Z",
+  "model": "glm-5.2"
+}

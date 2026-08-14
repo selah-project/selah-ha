@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Farao ya fusata wa bayinsa, ya kuma sanya ni a tsare a gidan shugaban masu yankan abinci, ni da ⟨את⟩ shugaban masu yin burodi.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ya fusata"
+    },
+    {
+      "surface": "על",
+      "gloss": "wa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bayinsa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ya kuma sanya"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ni",
+      "marks": "ni"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "a tsare"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a gidan"
+    },
+    {
+      "surface": "שר",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "masu yankan abinci"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ni",
+      "marks": "ni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "shugaban"
+    },
+    {
+      "surface": "שר",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "masu yin burodi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:11:58.086599409Z",
+  "model": "glm-5.2"
+}

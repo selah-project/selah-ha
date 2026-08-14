@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 21:21",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma Dawida ya zo har zuwa Ɔranan, kuma Ɔranan ya duba, ya ga ⟨את⟩ Dawida, ya fita daga gonar dawa, ya lallkãɓa ga Dawida, fuska ⟨kãsã⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kuma ya zo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ɔranan"
+    },
+    {
+      "surface": "ויבט",
+      "gloss": "kuma ya duba"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ɔranan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ya ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawida"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ya fita"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "gonar dawa"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ya lallkãɓa"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ga Dawida"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "fuska"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "kãsa"
+    }
+  ],
+  "timestamp": "2026-08-13T00:21:56.497125732Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 111,
+  "translation": "Ġirma da ɗaukaka ⟨ne⟩ aikin ⟨shi⟩, kuma adalcensa yana tsayawa har abada.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Ġirma"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "da ɗaukaka"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "aikin ⟨shi⟩"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "kuma adalcensa"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "yana tsayawa"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-12T20:37:10.204127131Z",
+  "model": "glm-5.2"
+}

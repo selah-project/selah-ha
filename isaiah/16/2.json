@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 16:2",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma ⟨za a kasance⟩ kamar tsuntsu mai yawo, ⟨kamar⟩ gida da aka watsar, haka 'ya'yan Moab ⟨za su kasance⟩ a matsuwar Arnon.",
+  "tokens": [
+    {
+      "surface": "וְהָיָ֥ה",
+      "gloss": "Kuma ⟨za a kasance⟩"
+    },
+    {
+      "surface": "כְעוֹף",
+      "gloss": "kamar tsuntsu"
+    },
+    {
+      "surface": "נוֹדֵ֖ד",
+      "gloss": "mai yawo"
+    },
+    {
+      "surface": "קֵ֣ן",
+      "gloss": "⟨kamar⟩ gida"
+    },
+    {
+      "surface": "מְשֻׁלָּ֑ח",
+      "gloss": "da aka watsar"
+    },
+    {
+      "surface": "תִּֽהְיֶ֨ינָה֙",
+      "gloss": "⟨za su kasance⟩"
+    },
+    {
+      "surface": "בְּנ֣וֹת",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "מוֹאָ֔ב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מַעְבָּרֹ֖ת",
+      "gloss": "a matsuwa"
+    },
+    {
+      "surface": "לְאַרְנֽוֹן",
+      "gloss": "Arnon"
+    }
+  ],
+  "timestamp": "2026-08-12T13:26:35.129009905Z",
+  "model": "glm-5.2"
+}

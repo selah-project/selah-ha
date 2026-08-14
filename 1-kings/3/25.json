@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma sarki ya ce, \"Sasanta ⟨את⟩ yaron da rai guda biyu, kuma ku bada ⟨את⟩ rabin ga ɗaya, da ⟨את⟩ rabin ga ɗaya.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "Sasanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaron"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "yaron"
+    },
+    {
+      "surface": "החי",
+      "gloss": "da rai"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "guda biyu"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "kuma ku bada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rabin"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "rabin"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ga ɗaya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "rabin"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "rabin"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ga ɗaya"
+    }
+  ],
+  "timestamp": "2026-08-13T02:04:20.283186807Z",
+  "model": "glm-5.2"
+}

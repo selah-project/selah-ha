@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 130,
+  "translation": "Adonai, saurare muryã ta! Kunã kuwa da kunnuwa masu saurarawa ga muryar roƙonã na!",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "saurare"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "muryã ta"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "Kunã kuwa da"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "kunnuwa"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "masu saurarawa"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ga muryar"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "roƙonã na"
+    }
+  ],
+  "timestamp": "2026-08-12T20:49:42.000240599Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma idan mutum ya buge ⟨את⟩ idon bawan sa ko ⟨את⟩ idon baiwarsa, kuma ya lalata ⟨ta⟩, zuwa 'yanci ya sake shi a maimakon idon sa.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ya buge"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idon"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ido"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "bawan sa"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idon"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ido"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "baiwarsa"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "kuma ya lalata ⟨ta⟩"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "zuwa 'yanci"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "ya sake shi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a maimakon"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "idon sa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:59:25.389104464Z",
+  "model": "glm-5.2"
+}

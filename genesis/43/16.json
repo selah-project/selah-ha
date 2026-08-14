@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 43:16",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Kuma Yosef ya ga ⟨את⟩ su ⟨ne⟩ tare da ⟨את⟩ Binyamin, ya ce ga wanda yake a kan gidansa, Ka shigo da ⟨את⟩ mutanen gida, kuma ka yanka yanka, ka shirya, domin tare da ni ⟨ne⟩ mutanen za su ci a tsakar rana.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Kuma ya ga"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Binyamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "ga wanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "yake a kan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gidansa"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "Ka shigo da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "gida"
+    },
+    {
+      "surface": "וטבח",
+      "gloss": "kuma ka yanka"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "yanka"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "ka shirya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "za su ci"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "a tsakar rana"
+    }
+  ],
+  "timestamp": "2026-08-12T00:19:19.808776611Z",
+  "model": "glm-5.2"
+}

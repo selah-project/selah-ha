@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 39:7",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Kuma idanun Tsidkiyahu ya same shi, ya ɗaure shi da ƙuga na tagulla, ⟨domin⟩ kai shi Babilona.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "idanun Tsidkiyahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "idanun"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ya makanta"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "ya ɗaure shi"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "da ƙuga biyu na tagulla"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "⟨domin⟩ kai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babilona"
+    }
+  ],
+  "timestamp": "2026-08-12T16:18:37.948000007Z",
+  "model": "glm-5.2"
+}

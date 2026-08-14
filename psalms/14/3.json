@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Duka suka juya ⟨bisa⟩, tare suka ɓata; babu wanda yake aikin alheri, babu ⟨ko⟩ ɗaya.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Duka"
+    },
+    {
+      "surface": "סר",
+      "gloss": "suka juya ⟨bisa⟩"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tare"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "suka ɓata"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wanda yake aikin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "alheri"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨ko⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    }
+  ],
+  "timestamp": "2026-08-12T19:21:23.211136505Z",
+  "model": "glm-5.2"
+}

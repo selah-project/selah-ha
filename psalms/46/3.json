@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 46,
+  "translation": "Saboda haka ba za mu ji tsoro ba, ko da ƙasa ta canja, kuma ko da duwatsu suka motsa a tsakiyar tekuna.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Saboda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "za mu ji tsoro"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "ko da... ta canja"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "kuma ko da... suka motsa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "a tsakiyar"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "tekuna"
+    }
+  ],
+  "timestamp": "2026-08-12T19:47:40.895867713Z",
+  "model": "glm-5.2"
+}

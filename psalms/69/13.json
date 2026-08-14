@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Suna magana ⟨araina⟩ ni mazaunan ƙofa, kuma a cikin waƙa ⟨ce⟩ masu shan giya ⟨suna yin⟩.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "Suna magana"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ƙofa"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "kuma a cikin waƙa"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "masu shan"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "giya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:00:00.109908577Z",
+  "model": "glm-5.2"
+}

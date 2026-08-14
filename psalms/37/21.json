@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Rashin nan yana aro ⟨bashi⟩ kuma ba ya biya, amma mai adalci yana nuna ⟨alheri⟩ kuma yana bayarwa.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "yana aro"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rashin nan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba ya"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "biya"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "amma mai adalci"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "yana nuna"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "kuma yana bayarwa"
+    }
+  ],
+  "timestamp": "2026-08-13T03:08:06.108312454Z",
+  "model": "glm-5.2"
+}

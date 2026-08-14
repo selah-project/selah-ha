@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma Yahweh ya tafi, da sa'ad da Ya kammala tattaunawa da Avraham, kuma Avraham ya koma wurinsa.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Kuma ya tafi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "da sa'ad da"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "Ya kammala"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "tattaunawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "kuma Avraham"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ya koma"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "wurinsa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:33:46.774453959Z",
+  "model": "glm-5.2"
+}

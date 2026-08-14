@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 14:16",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma kohen ya nutsa ⟨את⟩ yatsansa ta dama daga cikin man da ke a kan ƙwaryar hannunsa ta hagu, kuma ya tsatsa daga cikin man da yatsarsa sau bakwai a gaban Yahweh.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "Kuma ya nutsa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yatsansa"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "yatsansa"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ta dama"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga cikin"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke a kan"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "ƙwaryar hannunsa"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ta hagu"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "kuma ya tsatsa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga cikin"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "man"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "da yatsarsa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sau bakwai"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "sau"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T02:20:09.196038218Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 32:12",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Ka tsire ni ina roƙonka daga hannun ɗan'uwana, daga hannun Esav, domin ina tsoron ⟨את⟩ ⟨shi⟩, ga tsalleɗɗe shi ya zo ya buge ni, uwa ⟨tare⟩ da yara.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Ka tsire ni"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ina roƙonka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ɗan'uwana"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ina tsoron"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨shi⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ga tsalleɗɗe"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "shi ya zo"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "ya buge ni"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨tare⟩ da"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "yara"
+    }
+  ],
+  "timestamp": "2026-08-11T23:59:02.054823894Z",
+  "model": "glm-5.2"
+}

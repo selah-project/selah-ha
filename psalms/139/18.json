@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 139:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 139,
+  "translation": "In ƙidaye su, sun fi yawan ⟨yatsu na⟩ ⟨ƙasar⟩, idan na tashi, ina nan ⟨har⟩ tare da kai.",
+  "tokens": [
+    {
+      "surface": "אספרם",
+      "gloss": "In ƙidaye su"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "yawan yatsu"
+    },
+    {
+      "surface": "ירבון",
+      "gloss": "sun fi"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "idan na tashi"
+    },
+    {
+      "surface": "ועודי",
+      "gloss": "ina nan ⟨har⟩"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tare da kai"
+    }
+  ],
+  "timestamp": "2026-08-12T20:54:02.900142404Z",
+  "model": "glm-5.2"
+}

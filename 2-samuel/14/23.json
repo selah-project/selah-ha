@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma Yo'ab ya tashi, ya tafi Geshur, ya kawo ⟨את⟩ Avshalom Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Kuma ya tashi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yo'ab"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "Geshur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ya kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-12T10:20:57.539768914Z",
+  "model": "glm-5.2"
+}

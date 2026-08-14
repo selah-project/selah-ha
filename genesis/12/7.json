@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 12:7",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Yahweh ya bayyana ga Avram, ya ce: \"Ga zuriyarka ni ⟨za⟩ in ba ⟨את⟩ ƙasar nan.\" Sa'an nan ya gina matafi a can don Yahweh, wanda ya bayyana gare shi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ya bayyana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "ga zuriyarka"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ni in ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ya gina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "matafi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "don Yahweh"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "wanda ya bayyana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gare shi"
+    }
+  ],
+  "timestamp": "2026-08-11T23:31:54.790092022Z",
+  "model": "glm-5.2"
+}

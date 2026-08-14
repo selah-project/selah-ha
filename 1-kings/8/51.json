@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 8:51",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "domin mutanenka ne su da gado⟨ka⟩, waɗanda ka fitar daga Mitsrayim, daga tsakiyar tanderon ƙarfe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mutanenka"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "da gado⟨ka⟩"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ne su"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "ka fitar"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "daga Mitsrayim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "daga tsakiyar"
+    },
+    {
+      "surface": "כור",
+      "gloss": "tanderon"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ƙarfe"
+    }
+  ],
+  "timestamp": "2026-08-12T11:10:24.140645827Z",
+  "model": "glm-5.2"
+}

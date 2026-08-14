@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 22:17",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma ⟨ya⟩ ce, Na ga ⟨את⟩ dukkan Yisra'el sun watse a kan duwatsu kamar tumin da ba su da makiyayi, kuma Yahweh ya ce, ⟨waɗannan⟩ ba su da masu mulki, kowa ya koma gidansa cikin salama.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Na ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan Yisra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "נפצים",
+      "gloss": "sun watse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kamar tumin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ba su da"
+    },
+    {
+      "surface": "להם",
+      "gloss": "su"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "makiyayi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "masu mulki"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ya koma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowa"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "gidansa"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "cikin salama"
+    }
+  ],
+  "timestamp": "2026-08-12T11:52:29.282000665Z",
+  "model": "glm-5.2"
+}

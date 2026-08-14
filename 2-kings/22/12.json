@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 22:12",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Sarki ya umurta ⟨את⟩ Hilkiah ⟨da⟩ kohen, da ⟨את⟩ Aƙiqam ɗan Shaphan, da ⟨את⟩ Aƙbor ɗan Mikhaya, da ⟨את⟩ Shaphan mai rubutu, da ⟨את⟩ Asaya bawan sarki, yana cewa:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ya umurta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hilkiah"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilkiah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Aƙiqam"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Aƙiqam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shaphan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Aƙbor"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Aƙbor"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "מיכיה",
+      "gloss": "Mikhaya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Shaphan"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shaphan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "mai rubutu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Asaya"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Asaya"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "bawan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:06:55.707978227Z",
+  "model": "glm-5.2"
+}

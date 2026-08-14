@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Bari zuciyata ta kasance cikakkiya a cikin ƙa'idodinka, domin ba a bincire ni.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "bari ta kasance"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "cikakkiya"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "a cikin ƙa'idodinka"
+    },
+    {
+      "surface": "למען",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "a bincire ni"
+    }
+  ],
+  "timestamp": "2026-08-13T02:27:57.941987752Z",
+  "model": "glm-5.2"
+}

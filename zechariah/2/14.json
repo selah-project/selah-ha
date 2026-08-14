@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 2:14",
+  "book": "zechariah",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Ka yi reran kai ka kuma yi murna, ya ɗiyar Tsiyon, domin ga shi, ni ina zuwa, kuma zan zauna a tsakiyarka, ⟨wannan⟩ maganar Yahweh.",
+  "tokens": [
+    {
+      "surface": "רָנִּ֥י",
+      "gloss": "ka yi reran kai"
+    },
+    {
+      "surface": "וְשִׂמְחִ֖י",
+      "gloss": "ka kuma yi murna"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "ya ɗiyar"
+    },
+    {
+      "surface": "צִיּ֑וֹן",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "כִּ֧י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הִנְנִי",
+      "gloss": "ga shi, ni"
+    },
+    {
+      "surface": "בָ֛א",
+      "gloss": "ina zuwa"
+    },
+    {
+      "surface": "וְשָׁכַנְתִּ֥י",
+      "gloss": "kuma zan zauna"
+    },
+    {
+      "surface": "בְתוֹכֵ֖ךְ",
+      "gloss": "a tsakiyarka"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "maganar"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T18:59:13.805284062Z",
+  "model": "glm-5.2"
+}

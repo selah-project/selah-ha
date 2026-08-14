@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Domin kururuwa ta kewaye ⟨את⟩ iyakar Moab; har Eglaim nata ta yi gayya, kuma Be'er-Elim nata ta yi gayya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "ta kewaye"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "kururuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyakar"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "iyakar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "Eglaim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "nata ta yi gayya"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "Be'er-Elim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "nata ta yi gayya"
+    }
+  ],
+  "timestamp": "2026-08-12T13:22:57.895751517Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Gama daga gidan ɗauruka ya fita don ya yi sarauta, ko da yake a cikin mulkinsa an haife shi talauci.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gama"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "daga gidan"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "ɗauruka"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ya fita"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "don ya yi sarauta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko da yake"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨gama⟩"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "a cikin mulkinsa"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "an haife shi"
+    },
+    {
+      "surface": "רש",
+      "gloss": "talauci"
+    }
+  ],
+  "timestamp": "2026-08-13T02:34:50.822277099Z",
+  "model": "glm-5.2"
+}

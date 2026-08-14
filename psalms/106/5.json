@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Don ⟨in⟩ ga alherin waɗanda ka kaɓa, don ⟨in⟩ yi murna cikin farin cikin al'ummar⟨ka⟩, don ⟨in⟩ yabo tare da gado⟨ka⟩.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "don ⟨in⟩ ga"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "alherin"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "waɗanda ka kaɓa"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "don ⟨in⟩ yi murna"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "cikin farin cikin"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "al'ummar⟨ka⟩"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "don ⟨in⟩ yabo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "gado⟨ka⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:30:26.730446535Z",
+  "model": "glm-5.2"
+}

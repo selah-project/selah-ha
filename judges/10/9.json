@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 10:9",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma ɗiyansa ʿAmmon suka wuce ⟨את⟩ Yarden don yaƙa, har ma a cikin Yehuda da a cikin Binyamin da a cikin ⟨aikin⟩ Efrayim, kuma firgita ta faɗa a kan Yisra'el sosai.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "kuma suka wuce"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyansa"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ʿAmmon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "don yaƙa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "har ma"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "a cikin Yehuda"
+    },
+    {
+      "surface": "ובבנימין",
+      "gloss": "da a cikin Binyamin"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "da a cikin ⟨aikin⟩"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ותצר",
+      "gloss": "kuma firgita ta faɗa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "a kan Yisra'el"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    }
+  ],
+  "timestamp": "2026-08-12T07:45:55.324324370Z",
+  "model": "glm-5.2"
+}

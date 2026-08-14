@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 95,
+  "translation": "Domin Shi ne Elohim mu, kuma mu mutanen kiwonSa makiyaya ne, da tumin hannunSa. Yau, idan muryarSa za ta ji,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Shi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim mu"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "kuma mu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "kiwonSa makiyaya"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "da tumaki"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hannunSa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Yau"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "muryarSa"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "za ta ji"
+    }
+  ],
+  "timestamp": "2026-08-12T20:23:07.240983255Z",
+  "model": "glm-5.2"
+}

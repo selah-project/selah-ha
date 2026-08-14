@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Saboda haka, tashi da ƙarfe asuba, shi da bayin ubangijinka da suka zo tare da ⟨את⟩ kai, ku tashi da ƙarfe asuba, idan waye ya yi, ku tafi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "saboda haka"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "tashi da ƙarfe asuba"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "asuba"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "bayin"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ubangijinka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "באו",
+      "gloss": "suka zo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kai"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "ku tashi da ƙarfe asuba"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "asuba"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "idan waye ya yi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨a gare ku⟩"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ku tafi"
+    }
+  ],
+  "timestamp": "2026-08-12T09:36:45.969381079Z",
+  "model": "glm-5.2"
+}

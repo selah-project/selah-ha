@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Duk gadon da mai-gudā ya kwanta a kansa, ya ƙazanta; da kuma duk abin-hwadã da ya zauna a kansa, ya ƙazanta.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Duk"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "gadon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ya kwanta"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "mai-gudā"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ya ƙazanta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da kuma duk"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "abin-hwadã"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ya zauna"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ya ƙazanta"
+    }
+  ],
+  "timestamp": "2026-08-12T02:21:08.930159489Z",
+  "model": "glm-5.2"
+}

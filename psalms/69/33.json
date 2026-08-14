@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Marginalan za su gani, su yi murna; masu neman Elohim ⟨ne⟩, kuma zukatanku su rayu.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "za su gani"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "marginalan"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "su yi murna"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "masu neman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "kuma su rayu"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "zukatanku"
+    }
+  ],
+  "timestamp": "2026-08-12T19:59:33.436271729Z",
+  "model": "glm-5.2"
+}

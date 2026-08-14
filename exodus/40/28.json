@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ya sanya ⟨את⟩ Rufin Ƙofar ⟨na⟩ Mahallin.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Kuma ya sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rufin Ƙofar"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "Rufin"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "Ƙofar"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "⟨na⟩ Mahallin"
+    }
+  ],
+  "timestamp": "2026-08-12T01:39:20.114590883Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 3:20",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ga mazan da suke da ƙarfi a rundunarsa ya ce su ɗaure Shadrach, Meshach, da Abednego, su jefa su cikin tanda wutar da ke ƙone.",
+  "tokens": [
+    {
+      "surface": "ולגברין",
+      "gloss": "kuma ga mazan"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "masu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ƙarfi"
+    },
+    {
+      "surface": "די",
+      "gloss": "da"
+    },
+    {
+      "surface": "בחילה",
+      "gloss": "a rundunarsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "לכפתה",
+      "gloss": "su ɗaure"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Shadrach"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meshach"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "da Abed"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "nego"
+    },
+    {
+      "surface": "למרמא",
+      "gloss": "su jefa su"
+    },
+    {
+      "surface": "לאתון",
+      "gloss": "cikin tanda"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "wutar"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "da ke ƙone"
+    }
+  ],
+  "timestamp": "2026-08-12T23:10:33.417156096Z",
+  "model": "glm-5.2"
+}

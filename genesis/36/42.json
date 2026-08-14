@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "shugaba Kenaz, shugaba Teman, shugaba Mibtsar.",
+  "tokens": [
+    {
+      "surface": "אַלּ֥וּף",
+      "gloss": "shugaba"
+    },
+    {
+      "surface": "קְנַ֛ז",
+      "gloss": "Kenaz"
+    },
+    {
+      "surface": "אַלּ֥וּף",
+      "gloss": "shugaba"
+    },
+    {
+      "surface": "תֵּימָ֖ן",
+      "gloss": "Teman"
+    },
+    {
+      "surface": "אַלּ֥וּף",
+      "gloss": "shugaba"
+    },
+    {
+      "surface": "מִבְצָֽר",
+      "gloss": "Mibtsar"
+    }
+  ],
+  "timestamp": "2026-08-12T00:02:20.384387035Z",
+  "model": "glm-5.2"
+}

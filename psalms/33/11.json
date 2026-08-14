@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Shawarar Yahweh za ta tsaya har abada, tsare-tsaren zuciyarsa zuwa ƙanya da ƙanya.",
+  "tokens": [
+    {
+      "surface": "עֲצַ֣ת",
+      "gloss": "Shawarar"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "תַּעֲמֹ֑ד",
+      "gloss": "za ta tsaya"
+    },
+    {
+      "surface": "מַחְשְׁב֥וֹת",
+      "gloss": "tsare-tsaren"
+    },
+    {
+      "surface": "לִ֝בּ֗וֹ",
+      "gloss": "zuciyarsa"
+    },
+    {
+      "surface": "לְדֹ֣ר",
+      "gloss": "zuwa ƙanya"
+    },
+    {
+      "surface": "וָדֹֽר",
+      "gloss": "da ƙanya"
+    }
+  ],
+  "timestamp": "2026-08-12T19:34:13.307150793Z",
+  "model": "glm-5.2"
+}

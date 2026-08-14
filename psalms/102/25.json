@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 102,
+  "translation": "Inã faɗa: Elohai, kada Ka ɗauke ni a tsakiyar kwanãkana; a cikin ɗaruru'ar ɗari shehunanka ⟨suna nan⟩.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Inã faɗa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elohai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "Ka ɗauke ni"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "a tsakiyar"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwanãkana"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "a cikin ɗari"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "ɗaruru'a"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "shehunanka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:27:11.624040300Z",
+  "model": "glm-5.2"
+}

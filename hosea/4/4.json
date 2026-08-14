@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Amma babu wani mutum da ya yi shari'a, kuma kada a yi wa mutum tuhuma, domin mutanen-inka ⟨suna⟩ kamar masu yi wa kohen shari'a.",
+  "tokens": [
+    {
+      "surface": "אַ֥ךְ",
+      "gloss": "amma"
+    },
+    {
+      "surface": "אִ֛ישׁ",
+      "gloss": "wani mutum"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "יָרֵ֖ב",
+      "gloss": "ya yi shari'a"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "יוֹכַ֣ח",
+      "gloss": "a yi wa tuhuma"
+    },
+    {
+      "surface": "אִ֑ישׁ",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "וְעַמְּךָ֖",
+      "gloss": "domin mutanen-inka"
+    },
+    {
+      "surface": "כִּמְרִיבֵ֥י",
+      "gloss": "kamar masu yi wa shari'a"
+    },
+    {
+      "surface": "כֹהֵֽן",
+      "gloss": "kohen"
+    }
+  ],
+  "timestamp": "2026-08-12T18:13:30.620586348Z",
+  "model": "glm-5.2"
+}

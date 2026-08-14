@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 10:6",
+  "book": "zechariah",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma zan ƙarfafa ⟨את⟩ gidan Yehudah, kuma ⟨את⟩ gidan Yosef zan ceto, kuma zan mayar da su, domin na nuna musu tausayi, kuma za su kasance kamar ba su yi watsi da su ba, domin ni ne Yahweh, Elohim nasu, kuma zan amsa su.",
+  "tokens": [
+    {
+      "surface": "וגברתי",
+      "gloss": "kuma zan ƙarfafa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "gidan Yosef"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "zan ceto"
+    },
+    {
+      "surface": "והושבותים",
+      "gloss": "kuma zan mayar da su"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "רחמתים",
+      "gloss": "na nuna musu tausayi"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kuma za su kasance"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "זנחתים",
+      "gloss": "na yi watsi da su"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim nasu"
+    },
+    {
+      "surface": "ואענם",
+      "gloss": "kuma zan amsa su"
+    }
+  ],
+  "timestamp": "2026-08-12T19:07:24.178714404Z",
+  "model": "glm-5.2"
+}

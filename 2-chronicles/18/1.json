@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 18:1",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma Yahoshafat yana da arziki da girma yawa, kuma ya ɗaura aure da Ahab.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ⟨ya kasance⟩"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "ga Yahoshafat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "arziki"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "da girma"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "yawa"
+    },
+    {
+      "surface": "ויתחתן",
+      "gloss": "kuma ya ɗaura aure"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "da Ahab"
+    }
+  ],
+  "timestamp": "2026-08-13T02:48:17.301654495Z",
+  "model": "glm-5.2"
+}

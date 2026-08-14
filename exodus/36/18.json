@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Kuma ya yi ƙuguyoyin tagulla hamsin don haɗa ⟨את⟩ shat↔idan, don ya kasance ɗaya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "ƙuguyoyin"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tagulla"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "hamsin"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "don haɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shatidan"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "shatidan"
+    },
+    {
+      "surface": "להית",
+      "gloss": "don ya kasance"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    }
+  ],
+  "timestamp": "2026-08-12T01:33:20.214763672Z",
+  "model": "glm-5.2"
+}

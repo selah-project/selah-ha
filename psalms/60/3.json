@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 60,
+  "translation": "Elohim, ka ƙi mu, ka faɗa mu, ka fushi, ka mayar mana da ⟨ni⟩.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "ka ƙi mu"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "ka faɗa mu"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "ka fushi"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "ka mayar"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mana"
+    }
+  ],
+  "timestamp": "2026-08-12T19:55:20.443489099Z",
+  "model": "glm-5.2"
+}

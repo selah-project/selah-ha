@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 53:11",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 53,
+  "translation": "Daga āzināfin rānarsa zai ga ⟨kuma⟩ ya zo da gamsuwa; da iliminsa tsāroƙanā bayīna zai yī wa da'awa ga masu yawa, kuma shi ne ɗaukar laifuffukansu.",
+  "tokens": [
+    {
+      "surface": "מעמל",
+      "gloss": "daga āzināfin"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "rānarsa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "zai ga"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ya zo da gamsuwa"
+    },
+    {
+      "surface": "בדעתו",
+      "gloss": "da iliminsa"
+    },
+    {
+      "surface": "יצדיק",
+      "gloss": "zai yī wa da'awa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsāroƙanā"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bayīna"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "ga masu yawa"
+    },
+    {
+      "surface": "ועונתם",
+      "gloss": "kuma laifuffukansu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi ne"
+    },
+    {
+      "surface": "יסבל",
+      "gloss": "ɗaukar"
+    }
+  ],
+  "timestamp": "2026-08-12T14:30:04.900355852Z",
+  "model": "glm-5.2"
+}

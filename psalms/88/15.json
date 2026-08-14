@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 88,
+  "translation": "Don me, Yahweh, kake ƙi rayuwata, kuna ɓoye fuskarka daga gare ni?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "kake ƙi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rayuwata"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "kuna ɓoye"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuskarka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daga gare ni"
+    }
+  ],
+  "timestamp": "2026-08-12T20:16:51.744021300Z",
+  "model": "glm-5.2"
+}

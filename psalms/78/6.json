@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Domin mutanen ƙarshen su san, ƴaƴan da za a haifa, su tashi su kuma su faɗa wa ƴaƴansu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "su san"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ƙarshen"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ƴaƴan"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "da za a haifa"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "su tashi"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "su kuma su faɗa"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "wa ƴaƴansu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:08:26.057433943Z",
+  "model": "glm-5.2"
+}

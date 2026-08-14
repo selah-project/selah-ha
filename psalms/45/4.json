@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Ka ɗa takobin ka a cinyaɗ̃en ka, ya mashĩɗi, ɗaukakar ka da girman ka!",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "ka ɗa"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "takobin ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "cinyaɗ̃en ka"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ya mashĩɗi"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ɗaukakar ka"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "da girman ka"
+    }
+  ],
+  "timestamp": "2026-08-13T03:08:10.979242165Z",
+  "model": "glm-5.2"
+}

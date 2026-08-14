@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 135,
+  "translation": "Baki suna da shi, amma ba za su yi magana ba; idanu suna da su, amma ba za su gani ba.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "Baki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "suna da shi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "za su yi magana ba"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "idanu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "suna da su"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "za su gani ba"
+    }
+  ],
+  "timestamp": "2026-08-12T20:50:54.375361035Z",
+  "model": "glm-5.2"
+}

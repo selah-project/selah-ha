@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Ga shugaban kiɗa, ⟨a kan⟩ Muth-Laben. Zabura ga Dawuda.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga shugaban kiɗa"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Muth"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laben"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Zabura"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ga Dawuda"
+    }
+  ],
+  "timestamp": "2026-08-12T19:21:25.140194370Z",
+  "model": "glm-5.2"
+}

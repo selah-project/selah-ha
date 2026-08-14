@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Menashshe ⟨ahamsa⟩ ⟨את⟩ Efrayim, kuma Efrayim ⟨ahamsa⟩ ⟨את⟩ Menashshe, tare suke su, a kan Yehudah. A duk wannan, fushinsa bai koma ba, har yanzu hannunsa ya miƙe.",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "kuma Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashshe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tare"
+    },
+    {
+      "surface": "המה",
+      "gloss": "suke su"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שב",
+      "gloss": "bai koma"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "fushinsa"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "har yanzu"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hannunsa"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ya miƙe"
+    }
+  ],
+  "timestamp": "2026-08-13T02:08:30.421407115Z",
+  "model": "glm-5.2"
+}

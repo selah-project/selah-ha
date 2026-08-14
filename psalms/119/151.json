@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Kai kusa ne, Yahweh, ⟨kuma⟩ dukan mitzvotinka gaskiya ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "kusa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "⟨kuma⟩ dukan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "mitzvotinka"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "gaskiya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:43:04.817990401Z",
+  "model": "glm-5.2"
+}

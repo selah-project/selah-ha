@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma Efron ya amsa ⟨את⟩ Avraham, yana magana da shi, yana cewa:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Kuma ya amsa"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yana magana da shi"
+    }
+  ],
+  "timestamp": "2026-08-11T23:41:40.566427346Z",
+  "model": "glm-5.2"
+}

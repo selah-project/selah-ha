@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Saboda haka zuciyata tana murna, kuma ɗaukakata tuna yin kade-kade; jikina ma zai zauna cikin aminci.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Saboda haka"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "tana murna"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "kuma tana yin kade-kade"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ɗaukakata"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "jikina"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "zai zauna"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "cikin aminci"
+    }
+  ],
+  "timestamp": "2026-08-12T19:21:08.711489639Z",
+  "model": "glm-5.2"
+}

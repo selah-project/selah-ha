@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Ka yi mini shari'a gwargwadon adalci-nka, Yahweh, Elohim na, kuma kada su yi murna a kaina.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Ka yi mini shari'a"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "gwargwadon adalci-nka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "su yi murna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a kaina"
+    }
+  ],
+  "timestamp": "2026-08-12T19:35:07.078817943Z",
+  "model": "glm-5.2"
+}

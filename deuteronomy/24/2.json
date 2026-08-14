@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Ta fita daga gidan sa, ta tafi, ta zama ⟨mace⟩ ga wani mutum.",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "ta fita"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "daga gidan sa"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "ta tafi"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ta zama"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ga wani mutum"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wani"
+    }
+  ],
+  "timestamp": "2026-08-12T05:35:54.285512952Z",
+  "model": "glm-5.2"
+}

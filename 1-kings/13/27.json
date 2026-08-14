@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Ya yi magana da 'ya'yansa, yana cewa: \"Dora mini ⟨את⟩ jakin.\" Kuma suka dora ⟨shi⟩.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ya yi magana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "'ya'yansa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "Dora"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jakin"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "jakin"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "Kuma suka dora"
+    }
+  ],
+  "timestamp": "2026-08-12T11:20:23.208243894Z",
+  "model": "glm-5.2"
+}

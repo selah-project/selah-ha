@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma ⟨ya faru⟩ bayan haka, Dawuda ya ci ⟨את⟩ Filistawa, ya kuma tilasta musu, ya kuma ɗauki ⟨את⟩ Gata da ƙauyukanta daga hannun Filistawa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ⟨ya faru⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ya ci"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistawa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistawa"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "ya kuma tilasta musu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ya kuma ɗauki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gata"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gata"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "da ƙauyukanta"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistawa"
+    }
+  ],
+  "timestamp": "2026-08-13T00:19:02.543192010Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "da faturan ramummamin da aka ja ja, da faturan tekashi, da itacen acaciya;",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "da faturan"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ramummamin"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "da aka ja ja"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "da faturan"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tekashi"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "da itacen"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acaciya"
+    }
+  ],
+  "timestamp": "2026-08-12T01:20:16.526956776Z",
+  "model": "glm-5.2"
+}

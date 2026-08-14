@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Domin ⟨shi⟩ yana cewa, «Bā shugabannina su ne duka sarakuna ⟨tare⟩?»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Bā"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "shugabannina"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "duka ⟨tare⟩"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "sarakuna"
+    }
+  ],
+  "timestamp": "2026-08-12T13:10:51.896614458Z",
+  "model": "glm-5.2"
+}

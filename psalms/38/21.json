@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Kuma waɗanda ke mayar da mugunta a maimakon nagarta, suna ƙiyata ni, a maimakon bin abin da ⟨ke⟩ nagari.",
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "Kuma waɗanda ke mayar"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mugunta"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a maimakon"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "nagarta"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "suna ƙiyata ni"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a maimakon"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "bin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "abin da ⟨ke⟩ nagari"
+    }
+  ],
+  "timestamp": "2026-08-12T19:39:50.051399595Z",
+  "model": "glm-5.2"
+}

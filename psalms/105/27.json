@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Suka sanya a tsakaninsu maganar alāmunsa, da abubuwan mamaki a ƙasar Ḥam.",
+  "tokens": [
+    {
+      "surface": "שָֽׂמוּ",
+      "gloss": "Suka sanya"
+    },
+    {
+      "surface": "בָ֭ם",
+      "gloss": "a tsakaninsu"
+    },
+    {
+      "surface": "דִּבְרֵ֣י",
+      "gloss": "maganar"
+    },
+    {
+      "surface": "אֹתוֹתָ֑יו",
+      "gloss": "alāmunsa"
+    },
+    {
+      "surface": "וּ֝מֹפְתִ֗ים",
+      "gloss": "da abubuwan mamaki"
+    },
+    {
+      "surface": "בְּאֶ֣רֶץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "חָֽם",
+      "gloss": "Ḥam"
+    }
+  ],
+  "timestamp": "2026-08-12T20:31:40.402481955Z",
+  "model": "glm-5.2"
+}

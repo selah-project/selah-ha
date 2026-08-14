@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Adalki yana sanin shari'ar matalauta, amma mugun yani ba ya gane ilimi.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "yana sanin"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "adalci"
+    },
+    {
+      "surface": "דין",
+      "gloss": "shari'ar"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "matalauta"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "amma mugun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "yana gane"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ilimi"
+    }
+  ],
+  "timestamp": "2026-08-12T21:33:22.385144773Z",
+  "model": "glm-5.2"
+}

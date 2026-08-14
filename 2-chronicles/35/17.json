@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Kuma ɗanʼuwan Israʼel da suka kasance sun yi ⟨את⟩ Pesah a lokacin nan, da ⟨את⟩ bikin Massot na kwanaki bakwai.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗanʼuwan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israʼel"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "da suka kasance"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "a lokacin"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "bikin"
+    },
+    {
+      "surface": "חג",
+      "gloss": "bikin"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "Massot"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "na bakwai"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaki"
+    }
+  ],
+  "timestamp": "2026-08-13T02:59:40.789129592Z",
+  "model": "glm-5.2"
+}

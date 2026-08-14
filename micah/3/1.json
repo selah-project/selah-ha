@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma na faɗa: Ku saurāra, inā roƙon ku, shugabannin Ya'ƙub, kuma ku layukan gidan Yisra'el — shin, ba ku da ⟨don⟩ sanin ⟨את⟩ shari'a?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Kuma na faɗa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Ku saurāra"
+    },
+    {
+      "surface": "נא",
+      "gloss": "inā roƙon ku"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "shugabannin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'ƙub"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "kuma ku layukan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "shin, ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "⟨don⟩ sanin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shari'a"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "shari'a"
+    }
+  ],
+  "timestamp": "2026-08-12T18:42:29.809256776Z",
+  "model": "glm-5.2"
+}

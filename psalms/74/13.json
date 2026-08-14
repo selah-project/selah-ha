@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 74,
+  "translation": "Kai ka ɓaga teku da ƙarfinka, ka karya kan ⟨את⟩ manyan dodanni a kan ruwa.",
+  "tokens": [
+    {
+      "surface": "אַתָּה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "פוֹרַרְתָּ",
+      "gloss": "ka ɓaga"
+    },
+    {
+      "surface": "בְעָזְּךָ",
+      "gloss": "da ƙarfinka"
+    },
+    {
+      "surface": "יָם",
+      "gloss": "teku"
+    },
+    {
+      "surface": "שִׁבַּרְתָּ",
+      "gloss": "ka karya"
+    },
+    {
+      "surface": "רָאשֵׁי",
+      "gloss": "kan"
+    },
+    {
+      "surface": "תַּנִּינִים",
+      "gloss": "manyar dodanni",
+      "marks": "manyar dodanni"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הַמָּיִם",
+      "gloss": "ruwa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:06:26.064376555Z",
+  "model": "glm-5.2"
+}

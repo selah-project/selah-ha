@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 66,
+  "translation": "Ku faɗa wa Elohim, \"Mā yadda ake girmamawa ayyukan ⟨ka⟩! Da yawan ƙarfin ⟨ka⟩, maƙiyanka za su ɓuya gare ⟨ka⟩.\"",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ku faɗa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mā"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "yadda ake girmamawa"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ayyukan ⟨ka⟩"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "da yawan"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ƙarfin ⟨ka⟩"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "za su ɓuya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gare ⟨ka⟩"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "maƙiyanka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:58:35.447033582Z",
+  "model": "glm-5.2"
+}

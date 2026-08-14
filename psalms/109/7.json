@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 109,
+  "translation": "A lokacin da ake shari'ar sa, ya fita ⟨a matsayin⟩ mugun mutum, kuma addu'arsa ta zama zunubi.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "A lokacin da ake shari'ar sa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ya fita"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mugun mutum"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "kuma addu'arsa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ta zama"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "zunubi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:27:43.561982816Z",
+  "model": "glm-5.2"
+}

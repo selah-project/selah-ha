@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma dattijen ⟨garin⟩ mã dattai su riƙi ⟨את⟩ mutumin ⟨dā⟩, kuma su yi masa tirmo.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Kuma su riƙi"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "dattijen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨garin⟩"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "mã dattai ⟨dā⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutumin"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "kuma su yi masa tirmo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T05:33:57.903263154Z",
+  "model": "glm-5.2"
+}

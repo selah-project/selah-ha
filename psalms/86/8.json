@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 86,
+  "translation": "Babu ⟨wanda yayi⟩ kamar kai a cikin alihu, Adonai, kuma babu kamar ayyukan ka.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kamar kai"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "a cikin alihu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "kamar ayyukan ka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:16:37.198318510Z",
+  "model": "glm-5.2"
+}

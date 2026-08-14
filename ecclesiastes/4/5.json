@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Wãyin jáhili na runƙume ⟨את⟩ hannuwansa, kuma yana cin ⟨את⟩ nāmansa.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "wãyin jáhili"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "na runƙume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannuwansa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hannuwansa"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "kuma yana cin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nāmansa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nāmansa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:34:56.210326251Z",
+  "model": "glm-5.2"
+}

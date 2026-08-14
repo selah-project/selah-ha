@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Ku ji ⟨את⟩ kalmar da Yahweh ya faɗa a kanku, ya gidan Yisra'el.",
+  "tokens": [
+    {
+      "surface": "שִׁמְע֣וּ",
+      "gloss": "ku ji"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kalmar"
+    },
+    {
+      "surface": "הַדָּבָ֗ר",
+      "gloss": "kalmar"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "da"
+    },
+    {
+      "surface": "דִּבֶּ֧ר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עֲלֵיכֶ֖ם",
+      "gloss": "a kanku"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "ya gida"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T15:17:01.290909051Z",
+  "model": "glm-5.2"
+}

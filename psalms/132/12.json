@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 132:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 132,
+  "translation": "Idan ɗiyanka su kiyaye alkawarina, da shaidata wannan da nike koya musu, har ɗiyansu ma har abada suna zaune ⟨akan⟩ kujera ⟨ta⟩ mulki ⟨a madadinka⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "su kiyaye"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ɗiyanka"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alkawarina"
+    },
+    {
+      "surface": "ועדתי",
+      "gloss": "da shaidata"
+    },
+    {
+      "surface": "זו",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "אלמדם",
+      "gloss": "da nike koya musu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "har"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ɗiyansu ma"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "har"
+    },
+    {
+      "surface": "עד",
+      "gloss": "abada"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "suna zaune"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "⟨akan⟩ kujera ⟨ta⟩ mulki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨a madadinka⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:48:12.722725866Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma ƙasa ta kasance rushewa da babu kome, da duhu a kan fuskatar tehu, kuma Ruhun Elohim tana shawagi a kan fuskatar ruwa.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Kuma ƙasa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ta kasance"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "rushewa"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "da babu kome"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "da duhu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskatar"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehu"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "kuma Ruhun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "tana shawagi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskatar"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ruwa"
+    }
+  ],
+  "timestamp": "2026-08-13T01:43:23.422937043Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 21:14",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "ga, Yahweh na yi wa al'ummar ka da 'ya'yanka maza da matanka da dukiyarka duka ⟨da⟩ annoba mai girma.",
+  "tokens": [
+    {
+      "surface": "הִנֵּ֣ה",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נֹגֵ֛ף",
+      "gloss": "na yi wa"
+    },
+    {
+      "surface": "מַגֵּפָ֥ה",
+      "gloss": "annoba"
+    },
+    {
+      "surface": "גְדוֹלָ֖ה",
+      "gloss": "mai girma"
+    },
+    {
+      "surface": "בְּעַמְּךָ֑",
+      "gloss": "al'ummar ka"
+    },
+    {
+      "surface": "וּבְבָנֶ֥יךָ",
+      "gloss": "da 'ya'yanka maza"
+    },
+    {
+      "surface": "וּבְנָשֶׁ֖יךָ",
+      "gloss": "da matanka"
+    },
+    {
+      "surface": "וּבְכָל",
+      "gloss": "da duk"
+    },
+    {
+      "surface": "רְכוּשֶֽׁךָ",
+      "gloss": "dukiyarka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:50:57.510151354Z",
+  "model": "glm-5.2"
+}

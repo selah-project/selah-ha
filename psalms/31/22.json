@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "An gaishe Yahweh, cewa ⟨ya⟩ nuna mamakinsa na chesed ⟨ga⟩ ni a cikin birni mai kārwā.",
+  "tokens": [
+    {
+      "surface": "בָּר֥וּךְ",
+      "gloss": "An gaishe"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "הִפְלִ֘יא",
+      "gloss": "⟨ya⟩ nuna mamakinsa"
+    },
+    {
+      "surface": "חַסְדּ֥וֹ",
+      "gloss": "na chesed"
+    },
+    {
+      "surface": "לִ֝֗י",
+      "gloss": "⟨ga⟩ ni"
+    },
+    {
+      "surface": "בְּעִ֣יר",
+      "gloss": "a cikin birni"
+    },
+    {
+      "surface": "מָצֽוֹר",
+      "gloss": "mai kārwā"
+    }
+  ],
+  "timestamp": "2026-08-12T19:34:00.071909701Z",
+  "model": "glm-5.2"
+}

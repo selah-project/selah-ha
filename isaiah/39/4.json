@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 39:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Ya ce, \"Mene suka gani a cikin gidanka?\" Kuma Chizkiyahu ya ce, \"⟨את⟩ Duka abin da yake a cikin gidana suka gan shi; ba ⟨kowa ba⟩ da kalma da ba na nuna musu ba a cikin taskokina.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mene"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "suka gani"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "a cikin gidanka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Duka abin da yake a cikin gidana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Duka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "a cikin gidana"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "suka gan shi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "da kalma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הראיתים",
+      "gloss": "na nuna musu"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "a cikin taskokina"
+    }
+  ],
+  "timestamp": "2026-08-12T14:01:06.210163737Z",
+  "model": "glm-5.2"
+}

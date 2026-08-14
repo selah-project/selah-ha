@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 61,
+  "translation": "Kwanaki a kan kwanakin sarki ka ƙara; shekarunsa su zama kamar tsara da tsara.",
+  "tokens": [
+    {
+      "surface": "יָמִ֣ים",
+      "gloss": "Kwanaki"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "יְמֵי",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "תּוֹסִ֑יף",
+      "gloss": "ka ƙara"
+    },
+    {
+      "surface": "שְׁנוֹתָ֗יו",
+      "gloss": "shekarunsa"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "su zama kamar"
+    },
+    {
+      "surface": "דֹ֥ר",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "וָדֹֽר",
+      "gloss": "da tsara"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:27.890861357Z",
+  "model": "glm-5.2"
+}

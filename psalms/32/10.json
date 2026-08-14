@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Ciwo da yawa ⟨yana⟩ ga mugun mutum, amma wanda yake dogaro da Yahweh — chesed zai kewaye shi.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "ciwo"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ga mugun mutum"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "amma wanda yake dogaro"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "da Yahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "zai kewaye shi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:24:12.500001525Z",
+  "model": "glm-5.2"
+}

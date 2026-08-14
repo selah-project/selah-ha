@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma suka yi wa'adi ⟨את⟩ 'ya'n Binyamin, ana cewa, Ku tafi, kuma ku fake a cikin gonakin inabi.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Kuma suka yi wa'adi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'ya'n Binyamin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'n"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ana cewa"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Ku tafi"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "kuma ku fake"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "a cikin gonakin inabi"
+    }
+  ],
+  "timestamp": "2026-08-12T08:18:49.617868775Z",
+  "model": "glm-5.2"
+}

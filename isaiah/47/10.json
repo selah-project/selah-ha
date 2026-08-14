@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 47:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Kuma ka dogara a cikin mugayen ayyukanka, ka ce, babu wanda yake gani ni, hikimarka da iliminka ⟨shi⟩ ne ya juya ka baya, kuka ce a cikin zuciyarka, Ni ne, kuma babu wani ban da ni ⟨akwai⟩.",
+  "tokens": [
+    {
+      "surface": "ותבטחי",
+      "gloss": "kuma ka dogara"
+    },
+    {
+      "surface": "ברעתך",
+      "gloss": "a cikin mugayen ayyukanka"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ka ce"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "ראני",
+      "gloss": "wanda yake gani ni"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "hikimarka"
+    },
+    {
+      "surface": "ודעתך",
+      "gloss": "da iliminka"
+    },
+    {
+      "surface": "היא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "שובבתך",
+      "gloss": "ne ya juya ka baya"
+    },
+    {
+      "surface": "ותאמרי",
+      "gloss": "kuka ce"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "a cikin zuciyarka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ni ne"
+    },
+    {
+      "surface": "ואפסי",
+      "gloss": "kuma babu wani ban da ni"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "akwai"
+    }
+  ],
+  "timestamp": "2026-08-12T14:15:30.661304831Z",
+  "model": "glm-5.2"
+}

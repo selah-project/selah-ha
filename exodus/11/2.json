@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Faɗa ⟨na⟩ a cikin kunne mutanen, kuma su tambaya: kowane mutum daga ⟨את⟩ abokinsa, kuma kowace mace daga ⟨את⟩ abokiyarta — kayan azurfa da kayan zinari.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Faɗa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "a cikin kunne"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "kuma su tambaya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "daga ⟨את⟩",
+      "marks": "abokinsa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "abokinsa"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "kuma kowace mace"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "daga ⟨את⟩",
+      "marks": "abokiyarta"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "abokiyarta"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kayan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "azurfa"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "da kayan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinari"
+    }
+  ],
+  "timestamp": "2026-08-12T00:43:25.328171775Z",
+  "model": "glm-5.2"
+}

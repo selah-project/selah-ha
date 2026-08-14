@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 2:1",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Sa'an nan muka juya, muka tafi ⟨a⟩ cikin jeji, hanyar Tekun Ṣuf, kamar yadda Yahweh ya faɗa ⟨gare⟩ ni, kuma muka kewaye ⟨את⟩ Dutsen Seʿir kwanaka da yawa.",
+  "tokens": [
+    {
+      "surface": "ונפן",
+      "gloss": "muka juya"
+    },
+    {
+      "surface": "ונסע",
+      "gloss": "muka tafi"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "a cikin jeji"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Tekun"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Ṣuf"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "muka kewaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dutsen Seʿir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Dutsen"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seʿir"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaka"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "da yawa"
+    }
+  ],
+  "timestamp": "2026-08-12T04:52:14.595818726Z",
+  "model": "glm-5.2"
+}

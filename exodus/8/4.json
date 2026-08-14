@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 8:4",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Sai Paroh ya kira Mosheh da Aharon, ya ce: \"Ku roƙi Yahweh, ya kori ⟨את⟩ kwaɗayi daga gare ni da kuma daga mutanena, kuma ni zan saki ⟨את⟩ mutanen, su yi qurbaninya ga Yahweh.\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Sai ya kira"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "da Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "Ku roƙi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "daga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ya kori"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "kwaɗayi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daga gare ni"
+    },
+    {
+      "surface": "ומעמי",
+      "gloss": "da kuma daga mutanena"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "kuma ni zan saki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "su yi qurbaninya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T00:40:17.128706323Z",
+  "model": "glm-5.2"
+}

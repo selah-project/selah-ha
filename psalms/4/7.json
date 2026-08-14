@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Da yawa ⟨suna⟩ cewa, \"Wa ya nuna mana alheri?\" Ɗora hasken fuskarka a kan mu, Yahweh!",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "⟨suna⟩ cewa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "ya nuna mana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "alheri"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "ɗora"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "a kan mu"
+    },
+    {
+      "surface": "אור",
+      "gloss": "hasken"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuskarka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T19:14:33.278748322Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 135,
+  "translation": "Ku yaba Yah, domin Yahweh ⟨ne⟩ mai kyau; ku rera waƙa ga sunansa, domin ⟨ya⟩ nishaɗi.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ku yaba"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ku rera waƙa"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "ga sunansa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "nishaɗi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:51:30.021447449Z",
+  "model": "glm-5.2"
+}

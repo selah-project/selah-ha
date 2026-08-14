@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Ku sa ⟨את⟩ kalmar wannan, ce ⟨ce⟩ ta'aziyya da nake ɗauka a kanku, ga gidan Yisra'el.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ku sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalmar"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kalmar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "na ɗauka"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "a kanku"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ta'aziyya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ga gidan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T18:32:50.079369396Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma Dawid ya kwanta tare da kakanninsa, kuma aka binne shi a cikin birnin Dawid.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Kuma ya kwanta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "kakanninsa"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "kuma aka binne shi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a cikin birnin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-12T10:51:35.307127887Z",
+  "model": "glm-5.2"
+}

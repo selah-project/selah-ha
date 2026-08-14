@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 39:43",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Kuma Moshe ya duba ⟨את⟩ dukkan aikin, sai ga abin da, sun yi ⟨את⟩ shi kamar yadda Yahweh ya umurta; haka suka yi, kuma Moshe ya albarkaci ⟨את⟩ su.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Kuma ya duba"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan aikin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sai ga abin da"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "sun yi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ shi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "kuma ya albarkaci"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-12T01:38:30.926166985Z",
+  "model": "glm-5.2"
+}

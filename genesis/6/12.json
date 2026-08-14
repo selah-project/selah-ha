@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma Elohim ya duba ⟨את⟩ ƙasar, sai gani, an lalata ta; gaskiya ne dukkan jiki ya lalata ⟨את⟩ hanyarsa a kan ƙasar.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "kuma ya duba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sai gani"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "an lalata ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gaskiya ne"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "ya lalata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "jiki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hanyarsa"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "hanyarsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    }
+  ],
+  "timestamp": "2026-08-11T23:24:19.945497Z",
+  "model": "glm-5.2"
+}

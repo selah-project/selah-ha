@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 65,
+  "translation": "Gare Ka ⟨ne⟩ shiru ⟨a matsayin⟩ gõtarwa, ya Elohim, a Tsiyon, kuma gare Ka ana cika alkawari.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Gare Ka"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "shiru"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "gõtarwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "a Tsiyon"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "kuma gare Ka"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ana cika"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "alkawari"
+    }
+  ],
+  "timestamp": "2026-08-12T19:57:37.251959626Z",
+  "model": "glm-5.2"
+}

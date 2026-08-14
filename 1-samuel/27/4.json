@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma an faɗa wa Sha'ul cewa Dawida ya gudu zuwa Gati; sa'an nan ba ya ƙara neman shi.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Kuma an faɗa"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "wa Sha'ul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ya gudu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "גת",
+      "gloss": "zuwa Gati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba ya"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ƙara"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sa'an nan"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "neman shi"
+    }
+  ],
+  "timestamp": "2026-08-12T09:39:19.202521137Z",
+  "model": "glm-5.2"
+}

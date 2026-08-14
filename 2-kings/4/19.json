@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 4:19",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma ya ce wa mahaifinsa, Kai na! Kai na! Sai ya ce wa yaron, Ka ɗauke shi zuwa ga mahaifiyarsa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "mahaifinsa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "Kai na!"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "Kai na!"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sai ya ce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "yaron",
+      "marks": "yaron"
+    },
+    {
+      "surface": "שאהו",
+      "gloss": "ka ɗauke shi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mahaifiyarsa"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:00.717633864Z",
+  "model": "glm-5.2"
+}

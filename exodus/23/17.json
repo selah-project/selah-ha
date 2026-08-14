@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Sau uku a cikin shekara, duk namijinka zai bayyana a gaban Adonai, Yahweh.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Sau uku"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "⟨sau⟩"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "a cikin shekara"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "zai bayyana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "namijinka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨gaban⟩"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:02:05.646066787Z",
+  "model": "glm-5.2"
+}

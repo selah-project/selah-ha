@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 130,
+  "translation": "Waƙa ta hawa. Daga ɗarrĩkai na kira ka, Yahweh.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Waƙa"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ta hawa"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Daga ɗarrĩkai"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "na kira ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T20:49:41.999996692Z",
+  "model": "glm-5.2"
+}

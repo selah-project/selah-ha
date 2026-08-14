@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kasance da ƙarfi, kuma kasance da jajircewa, domin kai za ka gadar wa ⟨את⟩ mutanen nan ⟨את⟩ ƙasar da na rantsuwa wa ubanninsu don in bayar musu.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "kasance da ƙarfi"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "kuma kasance da jajircewa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "za ka gadar wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanen nan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "na rantsuwa"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "wa ubanninsu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "don in bayar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    }
+  ],
+  "timestamp": "2026-08-12T06:07:50.466001690Z",
+  "model": "glm-5.2"
+}

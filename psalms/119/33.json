@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Koya mini, Yahweh, hanyar ka'idojinka, kuma ni ⟨zā⟩ kiyaye ta har ƙarshe.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Koya mini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ka'idojinka"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "kuma ni zā kiyaye ta"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "har ƙarshe"
+    }
+  ],
+  "timestamp": "2026-08-12T20:41:03.779268753Z",
+  "model": "glm-5.2"
+}

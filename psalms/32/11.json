@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 32:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Ku yi murna cikin Yahweh, ku yaba, ku masu adalci, ku furta farincin murna, duk ku masu shiru zuciya!",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Ku yi murna"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "cikin Yahweh"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "ku yaba"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ku masu adalci"
+    },
+    {
+      "surface": "והרנינו",
+      "gloss": "ku furta farincin murna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "masu shiru"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciya"
+    }
+  ],
+  "timestamp": "2026-08-13T02:24:12.500150034Z",
+  "model": "glm-5.2"
+}

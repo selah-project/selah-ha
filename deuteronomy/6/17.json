@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kiyaye kuna kiyaye ⟨את⟩ umarnin Yahweh, Elohim naku, da shaidoshinsa da dokokinsa da ya umarce ⟨ne⟩ kai.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "kiyaye"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "kuna kiyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umarnin"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "umarnin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim naku"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "da shaidoshinsa"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "da dokokinsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ya umarce kai"
+    }
+  ],
+  "timestamp": "2026-08-12T05:04:11.527465732Z",
+  "model": "glm-5.2"
+}

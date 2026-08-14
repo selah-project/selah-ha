@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Yā woē, ƙasar tada-ƙafafu, ⟨ce ta⟩ ketaren kogunan Kush.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "woē"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "tada"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "ƙafafu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce ta"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ketaren"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "kogunan"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-08-12T13:28:58.457774530Z",
+  "model": "glm-5.2"
+}

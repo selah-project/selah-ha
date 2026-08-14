@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 83,
+  "translation": "Ka musu kamar Mđiyãn, kamar Sisera, kamar Yabin, a magudanar Kishon.",
+  "tokens": [
+    {
+      "surface": "עֲשֵׂה",
+      "gloss": "Ka musu"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "כְּמִדְיָן",
+      "gloss": "Mđiyãn"
+    },
+    {
+      "surface": "כְּסִיסְרָא",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "כְיָבִין",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "בְּנַחַל",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "קִישׁוֹן",
+      "gloss": "Yabin"
+    }
+  ],
+  "timestamp": "2026-08-12T20:11:26.493090872Z",
+  "model": "glm-5.2"
+}

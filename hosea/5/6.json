@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Da tarkoonsu da shanunsu za su je su nemi ⟨את⟩ Yahweh, amma ba za su same shi ba; ya janye kansa daga gare su.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "da tarkoonsu"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "da shanunsu"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "za su je"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "su nemi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "za su same shi"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ya janye kansa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "daga gare su"
+    }
+  ],
+  "timestamp": "2026-08-12T18:11:28.779498368Z",
+  "model": "glm-5.2"
+}

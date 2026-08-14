@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma kāhin ya duba, sai gani, ajjiyar ta yaɗu a fata, sai kāhin ya ɓata shi; ciwon harsāji ne.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "kuma ya duba"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kāhin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sai gani"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "ta yaɗu"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "ajjiyar"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "a fata"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "kuma ya ɓata shi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kāhin"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ciwon harsāji"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ne"
+    }
+  ],
+  "timestamp": "2026-08-12T02:10:44.253785508Z",
+  "model": "glm-5.2"
+}

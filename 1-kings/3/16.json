@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 3:16",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Sa'an nan mata biyu karuwai suka zo wurin sarki, suka tsaya a gabansa.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Sa'an nan"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "suka zo"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mata"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "karuwai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wurin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ותעמדנה",
+      "gloss": "suka tsaya"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "a gabansa"
+    }
+  ],
+  "timestamp": "2026-08-12T10:55:37.083623308Z",
+  "model": "glm-5.2"
+}

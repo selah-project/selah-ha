@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "da ga dabbobinka na gida, da ga dabobin daji waɗanda ⟨suke⟩ a ƙasarka — duk abin da ta fitar zai kasance ⟨don⟩ a ci.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "da ga dabbobinka na gida"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "da ga dabobin daji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "a ƙasarka"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zai kasance"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "abin da ta fitar"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "⟨don⟩ a ci"
+    }
+  ],
+  "timestamp": "2026-08-12T02:54:08.642796504Z",
+  "model": "glm-5.2"
+}

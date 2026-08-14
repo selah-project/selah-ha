@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 7:20",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma Akan ya amsa ⟨את⟩ Yehoshua, ya ce: \"Gaskiya, ni na yi wa Yahweh, Elohim na Isra'el, kuma kamar haka da kamar haka na aikata.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "kuma ya amsa"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "Akan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "Gaskiya"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "na yi wa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'el"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "kuma kamar haka"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "da kamar haka"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "na aikata"
+    }
+  ],
+  "timestamp": "2026-08-12T06:25:10.359549328Z",
+  "model": "glm-5.2"
+}

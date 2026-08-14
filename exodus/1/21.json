@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma ya zama ⟨ce⟩, domin masu haihuwa sun ji tsoron ⟨את⟩ Elohim, ⟨don haka⟩ Ya sanya musu gidaje.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ya zama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "sun ji tsoron"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "masu haihuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "Ya sanya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "gidaje"
+    }
+  ],
+  "timestamp": "2026-08-12T00:27:04.802401144Z",
+  "model": "glm-5.2"
+}

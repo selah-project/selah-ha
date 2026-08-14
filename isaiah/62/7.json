@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 62,
+  "translation": "Kuma kada ku ba shi damshi, har ya kafa, kuma har ya sanya ⟨את⟩ Yerushalaim yabo a cikin ƙasa.",
+  "tokens": [
+    {
+      "surface": "וְאַֽל",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תִּתְּנ֥וּ",
+      "gloss": "ku ba"
+    },
+    {
+      "surface": "דֳמִ֖י",
+      "gloss": "damshi"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "shi"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "har"
+    },
+    {
+      "surface": "יְכוֹנֵ֞ן",
+      "gloss": "ya kafa"
+    },
+    {
+      "surface": "וְעַד",
+      "gloss": "kuma har"
+    },
+    {
+      "surface": "יָשִׂ֧ים",
+      "gloss": "ya sanya"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "יְרֽוּשָׁלִַ֛ם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "תְּהִלָּ֖ה",
+      "gloss": "yabo"
+    },
+    {
+      "surface": "בָּאָֽרֶץ",
+      "gloss": "a cikin ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T14:44:29.813375305Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma Mosheh ya gina dutse hadaya, kuma ya kira sunansa Yahweh-Nissi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Kuma ya gina"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dutse hadaya"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kuma ya kira"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nissi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:52:07.178144580Z",
+  "model": "glm-5.2"
+}

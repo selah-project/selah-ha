@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Ya faɗa a cikin zuciyarsa, Ba za a motsa ni ba, tsara bayan tsara, ba zan shiga cikin bala'i ba.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "a cikin zuciyarsa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "za a motsa ni"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "bayan tsara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨cewa⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "zai shiga cikin bala'i"
+    }
+  ],
+  "timestamp": "2026-08-12T19:20:34.086924921Z",
+  "model": "glm-5.2"
+}

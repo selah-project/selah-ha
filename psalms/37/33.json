@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Yahweh ba zai bar shi a hannunsa ba, kuma ba zai yanke masa hukunci ba a lokacin da ake shari'arsa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "zai bar shi"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "a hannunsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "zai yanke masa hukunci"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "a lokacin da ake shari'arsa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:39:24.228148546Z",
+  "model": "glm-5.2"
+}

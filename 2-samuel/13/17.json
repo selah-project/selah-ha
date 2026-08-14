@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 13:17",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Sa'an nan kuma ya kira ⟨את⟩ bāransa, ⟨ta⟩ yana bauta masa, kuma ya ce, \"Ku kore, ina roƙon ku, ⟨את⟩ wancan daga gare ni wajen waje, kuma ku rufe ƙofar ⟨a baya⟩ ta.\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kuma ya kira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bāransa"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "bāransa"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "⟨ta⟩ yana bauta masa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ku kore"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ina roƙon ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wancan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wancan"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "daga gare ni"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "wajen waje"
+    },
+    {
+      "surface": "ונעל",
+      "gloss": "kuma ku rufe"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ƙofar"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "⟨a baya⟩ ta"
+    }
+  ],
+  "timestamp": "2026-08-13T02:02:26.364349878Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 97,
+  "translation": "Walkiyar sa su yi haske ⟨a⟩ duniya, ƙasa ta gani, kuma ta girgiza.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "su yi haske"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "Walkiyar sa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨a⟩ duniya"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "ta gani"
+    },
+    {
+      "surface": "ו תחל",
+      "gloss": "kuma ta girgiza"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:23:41.196218718Z",
+  "model": "glm-5.2"
+}

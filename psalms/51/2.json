@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 51,
+  "translation": "A shigar da Natan annabi ⟨ya⟩ zo wurinsa, a lokacin da ya shiga ⟨wuri⟩ Bath-Shewa.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "A shigar da"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zo wurinsa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a lokacin da"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ya shiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨wuri⟩"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bath"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Shewa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:53:16.448173225Z",
+  "model": "glm-5.2"
+}

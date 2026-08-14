@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "\"Kuma zan albarkace waɗanda suke albarkata maka, kuma wanda yake raina maka zan tsina shi, kuma duka iyalai na ƙasar za a albarkace su a cikinka.\"",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "Kuma zan albarkace"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "waɗanda suke albarkata maka"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "kuma wanda yake raina maka"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "zan tsina shi"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "kuma za a albarkace su"
+    },
+    {
+      "surface": "בך",
+      "gloss": "a cikinka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "iyalai na"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ƙasar"
+    }
+  ],
+  "timestamp": "2026-08-13T01:42:58.536240443Z",
+  "model": "glm-5.2"
+}

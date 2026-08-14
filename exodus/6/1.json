@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 6:1",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Yahweh ya faɗa wa Moshe, \"Yanzu za ka ga abin da zan yi wa Farao, domin da yār ƙarfi zai ƙi su, kuma da yār ƙarfi zai kore su daga ƙasarsa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "za ka ga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "zan yi"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "wa Farao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "da yār"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "ƙarfi"
+    },
+    {
+      "surface": "ישלחם",
+      "gloss": "za ya ƙi su"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "kuma da yār"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "ƙarfi"
+    },
+    {
+      "surface": "יגרשם",
+      "gloss": "za ya kore su"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "daga ƙasarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:35:42.680191292Z",
+  "model": "glm-5.2"
+}

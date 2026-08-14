@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma Falastiyyawa suka bi Sha'ul da baya, da ⟨da⟩ baya ga ɗiyansa, kuma Falastiyyawa suka kashe ⟨את⟩ Yonatan da ⟨את⟩ Avinadav da ⟨את⟩ Malki-Shuʿa, ɗiyansa Sha'ul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "Kuma suka bi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falastiyyawa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "da baya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "da ⟨da⟩ baya ga"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɗiyansa"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "kuma suka kashe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falastiyyawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Malki-Shuʿa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "-Shuʿa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyansa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    }
+  ],
+  "timestamp": "2026-08-13T00:11:42.153391061Z",
+  "model": "glm-5.2"
+}

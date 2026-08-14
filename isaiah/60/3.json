@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 60,
+  "translation": "Kuma al'ummai za su tafi a cikin haskenka, kuma sarakuna a cikin hasken fitilar ranar fitowarka.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "Kuma za su tafi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "al'ummai"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "a cikin haskenka"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "kuma sarakuna"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "a cikin hasken fitilar rana"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "ranar fitowarka"
+    }
+  ],
+  "timestamp": "2026-08-12T14:41:03.356529297Z",
+  "model": "glm-5.2"
+}

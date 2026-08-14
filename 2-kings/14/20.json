@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma suka ɗauke shi ⟨a kan⟩ dawakai, aka binne shi a Urushalima tare da kakanninsa, a cikin birnin Dawuda.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׂא֥וּ",
+      "gloss": "Kuma suka ɗauke shi"
+    },
+    {
+      "surface": "אֹת֖וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הַסּוּסִ֑ים",
+      "gloss": "dawakai"
+    },
+    {
+      "surface": "וַיִּקָּבֵ֧ר",
+      "gloss": "aka binne shi"
+    },
+    {
+      "surface": "בִּירוּשָׁלִַ֛ם",
+      "gloss": "a Urushalima"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "אֲבֹתָ֖יו",
+      "gloss": "kakanninsa"
+    },
+    {
+      "surface": "בְּעִ֥יר",
+      "gloss": "a cikin birnin"
+    },
+    {
+      "surface": "דָּוִֽד",
+      "gloss": "Dawuda"
+    }
+  ],
+  "timestamp": "2026-08-12T12:24:07.164459420Z",
+  "model": "glm-5.2"
+}

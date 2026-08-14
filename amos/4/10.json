@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 4:10",
+  "book": "amos",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Na aiko a cikin ku da annoba, a hanyar Mitsrayim, na kashe da takobi, samarin ku, tare da kama dawakai ku, in tada da wari, sansanonin ku da hanci ku, kuma ba ku koma gare ba ni, ⟨gai⟩ na Yahweh.",
+  "tokens": [
+    {
+      "surface": "שלחתי",
+      "gloss": "na aiko"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "a cikin ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "da annoba"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "a hanyar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הרגתי",
+      "gloss": "na kashe"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "da takobi"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "samarin ku"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "kama"
+    },
+    {
+      "surface": "סוסיכם",
+      "gloss": "dawakai ku"
+    },
+    {
+      "surface": "ואעלה",
+      "gloss": "in tada"
+    },
+    {
+      "surface": "באש",
+      "gloss": "da wari"
+    },
+    {
+      "surface": "מחניכם",
+      "gloss": "sansanonin ku"
+    },
+    {
+      "surface": "ובאפכם",
+      "gloss": "da hanci ku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "ku koma"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "gare ba ni"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "⟨gai⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "na Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T18:30:33.676697406Z",
+  "model": "glm-5.2"
+}

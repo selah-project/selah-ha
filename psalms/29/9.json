@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Muryar Yahweh tana sa uwayen barewa sun haife, kuma tana fatar dajimai, kuma a haikalin Sa ⟨dukkansa⟩ suna cewa, \"ʿIrini!\"",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Muryar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "tana sa sun haife"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "uwayen barewa"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "kuma tana fatar"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "dajimai"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "kuma a haikalin Sa"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "⟨dukkansa⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "suna cewa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ʿIrini!"
+    }
+  ],
+  "timestamp": "2026-08-12T19:29:42.253282772Z",
+  "model": "glm-5.2"
+}

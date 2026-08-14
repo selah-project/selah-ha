@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 8:8",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Mosheh da Aharon sun fita daga wurin Paroh, kuma Mosheh ya kururuwa zuwa Yahweh game da maganar ⟨את⟩ kwaɗayin da ya sanya wa Paroh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "sai su fita"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "da Aharon"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "daga wurin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "kuma ya kururuwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "game da"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "maganar"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "kwaɗayin",
+      "marks": "kwaɗayin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ya sanya"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "wa Paroh"
+    }
+  ],
+  "timestamp": "2026-08-12T00:37:58.124109122Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 5:10",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Babu ⟨abu⟩ cikin akwatin sai allunan biyu da Moshe ya sa a Horev, waɗanda Yahweh ya yanka ⟨alkawari⟩ da ƙwaryan Yisra'el a fitarsu daga Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Babu"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "cikin akwatin"
+    },
+    {
+      "surface": "רק",
+      "gloss": "sai"
+    },
+    {
+      "surface": "שני",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "הלחות",
+      "gloss": "allunan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya sa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "a Horev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ya yanka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "da"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƙwaryan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "a fitarsu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "daga Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-13T02:42:22.592580590Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 26:20",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Je, mutanena, ka shiga cikin ɗakunanka, kuma ka rufe ƙofofinka a baya; ka ɓoye kankan kaɗan lokaci, har sai fushin ya wuce.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Je"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mutanena"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ka shiga"
+    },
+    {
+      "surface": "בחדריך",
+      "gloss": "cikin ɗakunanka"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "kuma ka rufe"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "ƙofofinka"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "a baya"
+    },
+    {
+      "surface": "חבי",
+      "gloss": "ka ɓoye kankan"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "kaɗan"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "lokaci"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har sai"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "ya wuce"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "fushin"
+    }
+  ],
+  "timestamp": "2026-08-12T13:33:56.349065881Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma Ni zan sanya ⟨את⟩ gidan Ahab kamar gidan Yarob'am ɗan Nevat, da kuma kamar gidan Ba'sha ɗan Achiya.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Kuma Ni zan sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan Ahab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "kamar gidan"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarob'am"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "da kuma kamar gidan"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Ba'sha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Achiya"
+    }
+  ],
+  "timestamp": "2026-08-12T12:09:37.896683674Z",
+  "model": "glm-5.2"
+}

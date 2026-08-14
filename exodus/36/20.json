@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Kuma ya yi ⟨את⟩ allunan mishkan, gine↔ginen itacen shittah, masu tsayuwa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allunan"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "allunan"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "mishkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "gine-ginen itacen"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittah"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "masu tsayuwa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:33:20.215072197Z",
+  "model": "glm-5.2"
+}

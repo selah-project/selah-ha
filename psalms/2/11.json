@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "ku bauta wa ⟨את⟩ Yahweh c da girma; kuma ku murna da tsoro.",
+  "tokens": [
+    {
+      "surface": "עִבְד֣וּ",
+      "gloss": "ku bauta wa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בְּיִרְאָ֑ה",
+      "gloss": "c da girma"
+    },
+    {
+      "surface": "וְ֝גִ֗ילוּ",
+      "gloss": "kuma ku murna"
+    },
+    {
+      "surface": "בִּרְעָדָֽה",
+      "gloss": "da tsoro"
+    }
+  ],
+  "timestamp": "2026-08-12T19:14:03.991801195Z",
+  "model": "glm-5.2"
+}

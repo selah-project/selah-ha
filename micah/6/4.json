@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Domin na fitar da kayi daga ƙasar Mitsrayim, kuma daga gidan bayi na ceto ka, kuma na aika a gaban ka ⟨את⟩ Mosheh ⟨את⟩ Aharon da ⟨את⟩ Miryam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "na fitar da kayi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "kuma daga gidan"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bayi"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "na ceto ka"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "kuma na aika"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "a gaban ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "da Miryam"
+    }
+  ],
+  "timestamp": "2026-08-12T18:45:45.927362542Z",
+  "model": "glm-5.2"
+}

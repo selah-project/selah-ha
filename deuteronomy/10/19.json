@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Ku nuna ƙauna ⟨ga⟩ ⟨את⟩ baƙon, domin ku kasance baƙo a ƙasar Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "ku nuna ƙauna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baƙon"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "baƙon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "baƙo"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ku kasance"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T05:09:32.740630133Z",
+  "model": "glm-5.2"
+}

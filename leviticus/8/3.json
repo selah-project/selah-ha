@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "kuma ⟨את⟩ duka taron jama'a ka taru a ƙofar taduniwar taro.»",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "taron jama'a"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ka taru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ƙofar"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "taduniwar"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "taro"
+    }
+  ],
+  "timestamp": "2026-08-12T01:56:56.747654625Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Yahweh, Elohim na, idan na aikata wannan, idan akwai zalunci a hannayena,",
+  "tokens": [
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱ֭לֹהַי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "עָשִׂ֣יתִי",
+      "gloss": "na aikata"
+    },
+    {
+      "surface": "זֹ֑את",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "אִֽם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "יֶשׁ",
+      "gloss": "akwai"
+    },
+    {
+      "surface": "עָ֥וֶל",
+      "gloss": "zalunci"
+    },
+    {
+      "surface": "בְּכַפָּֽי",
+      "gloss": "a hannayena"
+    }
+  ],
+  "timestamp": "2026-08-13T02:22:56.583516355Z",
+  "model": "glm-5.2"
+}

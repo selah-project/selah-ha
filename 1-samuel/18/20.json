@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma Mikal ɗiyar Sha'ul ta ƙaunaci ⟨את⟩ Dawuda, kuma suka faɗa wa Sha'ul, kuma abin ya kyandu a idanunsa.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "Kuma ta ƙaunaci"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɗiyar"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawuda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "kuma suka faɗa"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "wa Sha'ul"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "kuma ya kyandu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "abin"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "a idanunsa"
+    }
+  ],
+  "timestamp": "2026-08-12T09:20:26.186785555Z",
+  "model": "glm-5.2"
+}

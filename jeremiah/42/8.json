@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 42:8",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Sai ya kira Yochanan ɗan Kareach, da dukkan shugabannin mayaƙa ⟨wanda⟩ ⟨suka kasance⟩ ⟨את⟩ shi, da dukkan jama'a, daga ƙarami har babu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Sai ya kira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨don⟩"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yochanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kareach"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "da"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "shugabannin"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "mayaƙa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨wanda⟩"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi",
+      "marks": "shi"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "למקטן",
+      "gloss": "daga ƙarami"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "babu"
+    }
+  ],
+  "timestamp": "2026-08-13T02:13:37.300387722Z",
+  "model": "glm-5.2"
+}

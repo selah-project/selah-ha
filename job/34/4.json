@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 34:4",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Mu zaɓa mu shari'a gare mu, mu sani a tsakaninmu menene nagari.",
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "mu shari'a"
+    },
+    {
+      "surface": "נבחרה",
+      "gloss": "mu zaɓa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "gare mu"
+    },
+    {
+      "surface": "נדעה",
+      "gloss": "mu sani"
+    },
+    {
+      "surface": "בינינו",
+      "gloss": "a tsakaninmu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "menene"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nagari"
+    }
+  ],
+  "timestamp": "2026-08-12T22:13:08.196298969Z",
+  "model": "glm-5.2"
+}

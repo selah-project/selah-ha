@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Sai suka ce: \"Mu kira ⟨ga⟩ yarinyar, mu tambaye ⟨את⟩ bakinta.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "sai suka ce"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "mu kira"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "⟨ga⟩ yarinyar"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "mu tambaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakinta"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "bakinta"
+    }
+  ],
+  "timestamp": "2026-08-11T23:45:27.382549169Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 92,
+  "translation": "⟨Abin alheri ne⟩ godiya ga Yahweh, da rera waƙa ga sunanka, Elyon.",
+  "tokens": [
+    {
+      "surface": "ט֗וֹב",
+      "gloss": "alheri"
+    },
+    {
+      "surface": "לְהֹד֥וֹת",
+      "gloss": "godiya"
+    },
+    {
+      "surface": "לַיהוָ֑ה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "וּלְזַמֵּ֖ר",
+      "gloss": "da rera waƙa"
+    },
+    {
+      "surface": "לְשִׁמְךָ֣",
+      "gloss": "ga sunanka"
+    },
+    {
+      "surface": "עֶלְיֽוֹן",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-12T20:22:23.261726796Z",
+  "model": "glm-5.2"
+}

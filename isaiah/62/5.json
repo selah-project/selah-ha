@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 62:5",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 62,
+  "translation": "Dominatora yana ɗaukar budurwa ⟨a matsayin⟩ aure, ⟨haka⟩ za su yi aure ⟨da⟩ kai, ya mãtar ʼyaʼyanka; kuma da murnar ango a kan amaryar, Elohiminka zai yi murna a kan kai.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "dominatora"
+    },
+    {
+      "surface": "יִבְעַ֤ל",
+      "gloss": "yana ɗaukar"
+    },
+    {
+      "surface": "בָּחוּר֙",
+      "gloss": "yaro"
+    },
+    {
+      "surface": "בְּתוּלָ֔ה",
+      "gloss": "budurwa"
+    },
+    {
+      "surface": "יִבְעָל֖וּךְ",
+      "gloss": "za su aure"
+    },
+    {
+      "surface": "בָּנָ֑יִךְ",
+      "gloss": "ʼyaʼyanka"
+    },
+    {
+      "surface": "וּמְשׂ֤וֹשׂ",
+      "gloss": "kuma da murnar"
+    },
+    {
+      "surface": "חָתָן֙",
+      "gloss": "ango"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כַּלָּ֔ה",
+      "gloss": "amaryar"
+    },
+    {
+      "surface": "יָשִׂ֥ישׂ",
+      "gloss": "zai yi murna"
+    },
+    {
+      "surface": "עָלַ֖יִךְ",
+      "gloss": "a kan kai"
+    },
+    {
+      "surface": "אֱלֹהָֽיִךְ",
+      "gloss": "Elohiminka"
+    }
+  ],
+  "timestamp": "2026-08-12T14:44:29.812924552Z",
+  "model": "glm-5.2"
+}

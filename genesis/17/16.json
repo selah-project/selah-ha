@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 17:16",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma zan albarkace ⟨את⟩ ⟨ta⟩, kuma zan ba ka daga gare ta ɗa, zan albarkace ta, kuma ta zama zuwa al'ummai, sarakunan al'ummomi daga gare ta za su kasance.",
+  "tokens": [
+    {
+      "surface": "וברכתי",
+      "gloss": "kuma zan albarkace"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨ta⟩",
+      "marks": "Sarah (ta (wanda ake albarkatowa))"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "zan ba"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "daga gare ta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗa"
+    },
+    {
+      "surface": "וברכתיה",
+      "gloss": "zan albarkace ta"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "kuma ta zama"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "zuwa al'ummai"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sarakunan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "al'ummomi"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "daga gare ta"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "za su kasance"
+    }
+  ],
+  "timestamp": "2026-08-11T23:36:34.617442461Z",
+  "model": "glm-5.2"
+}

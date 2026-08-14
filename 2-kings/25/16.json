@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 25:16",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Ginshiƙan guda biyu, teku ɗaya, da mahaɗan, waɗanda Shelomah ya yi wa gidan Yahweh — ba a iya auna tagullar dukkan waɗannan kayan ba.",
+  "tokens": [
+    {
+      "surface": "העמודים",
+      "gloss": "Ginshiƙan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "guda biyu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "והמכנות",
+      "gloss": "da mahaɗan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wa gidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ya kasance⟩"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "auna"
+    },
+    {
+      "surface": "לנחשת",
+      "gloss": "⟨don⟩ tagullar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "kayan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    }
+  ],
+  "timestamp": "2026-08-12T12:51:25.704391524Z",
+  "model": "glm-5.2"
+}

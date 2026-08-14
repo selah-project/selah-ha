@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma Farao zai ce game da Yisra'el, 'Sun ruɗe a cikin ƙasar, hamada ta rufe su.'",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Kuma zai ce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "game da"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "'Sun ruɗe"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨sune⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a cikin ƙasar,"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ta rufe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "su.'"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "hamada"
+    }
+  ],
+  "timestamp": "2026-08-12T00:50:43.321814492Z",
+  "model": "glm-5.2"
+}

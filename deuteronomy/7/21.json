@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kada ka ji tsoro daga gare su, domin Yahweh, Elohiminka, yana cikinka, El babba kuma mai girma.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "ka ji tsoro"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "daga gare su"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminka"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "yana cikinka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "babba"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "kuma mai girma"
+    }
+  ],
+  "timestamp": "2026-08-12T05:05:51.313170084Z",
+  "model": "glm-5.2"
+}

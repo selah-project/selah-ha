@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 69:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Kuma ni, addu'a ta ⟨ce⟩ gare Ka, Yahweh, a lokacin da ake so, Elohim, a yalwar chesed KiKa, ka amsa ni a cikin gaskiyar tsohon Ka.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kuma ni"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "addu'a ta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gare Ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עת",
+      "gloss": "lokacin"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "da ake so"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "a yalwar"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed KiKa"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ka amsa ni"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "a cikin gaskiyar"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "tsohon Ka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:00:00.110141203Z",
+  "model": "glm-5.2"
+}

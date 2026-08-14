@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma Dawida bai ja ⟨את⟩ akwatin zuwa gare shi, zuwa birnin Dawida ba, amma ya mayar da shi zuwa gidan Oved-Edom ɗan Gati.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kuma ba"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ja"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zuwa gare shi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "amma ya mayar da shi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "ɗan Gati"
+    }
+  ],
+  "timestamp": "2026-08-13T00:12:39.842861383Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma sarauniyar Sheba ta ga ⟨את⟩ hikimar Shlomoh, da ⟨את⟩ gidan da ya gina.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "kuma ta ga"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "sarauniyar"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hikimar Shlomoh"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hikimar"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoh"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "da gidan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ya gina"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:00.712611837Z",
+  "model": "glm-5.2"
+}

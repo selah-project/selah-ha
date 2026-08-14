@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma kohen ya riƙe ⟨את⟩ ragon ƙurban laifi da ⟨את⟩ log ɗin man shuka, kuma kohen ya girgiza ⟨את⟩ su — girgiza — a gaban Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Kuma kohen ya riƙe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ragon"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ragon"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ƙurban laifi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "log"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log ɗin"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "man shuka"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "kuma kohen ya girgiza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "girgiza"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T02:15:36.092860946Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma ka shafa da shi ⟨את⟩ almasihu na tarawa, da ⟨את⟩ akwatin shaida,",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "Kuma ka shafa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "da shi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "almasihu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "almasihu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tarawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "akwatin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "shaida"
+    }
+  ],
+  "timestamp": "2026-08-12T01:18:17.428425163Z",
+  "model": "glm-5.2"
+}

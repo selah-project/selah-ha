@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 86,
+  "translation": "Tsare rai na, domin ni masoyi ne; ka cece bāranka, kai Elohim na — ⟨ni⟩ wanda yake dogaro ⟨da⟩ kai.",
+  "tokens": [
+    {
+      "surface": "שָֽׁמְרָ֣ה",
+      "gloss": "tsare"
+    },
+    {
+      "surface": "נַפְשִׁי֮",
+      "gloss": "rai na"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "חָסִ֪יד",
+      "gloss": "masoyi"
+    },
+    {
+      "surface": "אָ֥נִי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "הוֹשַׁ֣ע",
+      "gloss": "ka cece"
+    },
+    {
+      "surface": "עַ֭בְדְּךָ",
+      "gloss": "bāranka"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "אֱלֹהַ֑י",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "הַבּוֹטֵ֥חַ",
+      "gloss": "wanda yake dogaro"
+    },
+    {
+      "surface": "אֵלֶֽיךָ",
+      "gloss": "⟨da⟩ kai"
+    }
+  ],
+  "timestamp": "2026-08-12T20:18:47.613964249Z",
+  "model": "glm-5.2"
+}

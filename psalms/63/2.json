@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 63,
+  "translation": "Elohim, El ⟨na⟩ kai ne, da sassafe ina neman ka, raina na ji ƙishirwa ⟨don⟩ gare ka, jikina ya gudu ⟨don⟩ gare ka, a ƙasar da bushewa da gajiyawa ba tare da ruwa.",
+  "tokens": [
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֵלִי",
+      "gloss": "El na"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "kai ne"
+    },
+    {
+      "surface": "אֲֽשַׁחֲרֶךָּ",
+      "gloss": "da sassafe ina neman ka"
+    },
+    {
+      "surface": "צָמְאָה",
+      "gloss": "na ji ƙishirwa"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "⟨don⟩ gare ka"
+    },
+    {
+      "surface": "נַפְשִׁי",
+      "gloss": "raina"
+    },
+    {
+      "surface": "כָּמַהּ",
+      "gloss": "ya gudu"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "⟨don⟩ gare ka"
+    },
+    {
+      "surface": "בְשָׂרִי",
+      "gloss": "jikina"
+    },
+    {
+      "surface": "בְּאֶרֶץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "צִיָּה",
+      "gloss": "da bushewa"
+    },
+    {
+      "surface": "וְעָיֵף",
+      "gloss": "da gajiyawa"
+    },
+    {
+      "surface": "בְּלִי",
+      "gloss": "ba tare da"
+    },
+    {
+      "surface": "מָיִם",
+      "gloss": "ruwa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:57:00.191390234Z",
+  "model": "glm-5.2"
+}

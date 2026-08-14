@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 30:8",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma a lokacin da Aharon ke hawa ⟨את⟩ fitilu tsakanin marece, yana turura ⟨sh⟩; tururi na dindindin a gaban Yahweh, ga tsararralinku.",
+  "tokens": [
+    {
+      "surface": "ובהעלת",
+      "gloss": "a lokacin da ke hawa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fitilu"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "fitilu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "marece"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "yana turura ⟨sh⟩"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "tururi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "na dindindin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "ga tsararralinku"
+    }
+  ],
+  "timestamp": "2026-08-12T01:13:58.754350861Z",
+  "model": "glm-5.2"
+}

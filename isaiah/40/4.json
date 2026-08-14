@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Dukkakin kwari za a ɗaukaka, kuma dukkakin duwatsu da tuddai za a lalata; kuma abin da ya saba zama daidai, kuma abin da ya saba a kwazzara.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "dukkakin"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "kwari"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "za a ɗaukaka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma dukkakin"
+    },
+    {
+      "surface": "הר",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "da tuddai"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "za a lalata"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kuma zai kasance"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "abin da ya saba"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "zama daidai"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "kuma abin da ya saba"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "a kwazzara"
+    }
+  ],
+  "timestamp": "2026-08-12T14:05:50.885154263Z",
+  "model": "glm-5.2"
+}

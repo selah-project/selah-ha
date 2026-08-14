@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Amma Paroh ba zai sauraro maku ba, kuma zan sa ⟨את⟩ hannu na a kan Mitsrayim, kuma zan fitar da ⟨את⟩ rundanoni na, ⟨את⟩ mutanena, ɗaŋ̊an Isra'ila, daga ƙasar Mitsrayim da hukunce-hukuncen da suka girma.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "zai sauraro"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "maku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "kuma zan sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannu na"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hannu na"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "a kan Mitsrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "kuma zan fitar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rundanoni na, ⟨את⟩ mutanena"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "rundanoni na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanena"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mutanena"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗaŋ̊an"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "da hukunce-hukuncen"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "da suka girma"
+    }
+  ],
+  "timestamp": "2026-08-12T00:36:41.986646985Z",
+  "model": "glm-5.2"
+}

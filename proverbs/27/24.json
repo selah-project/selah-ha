@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Dõmin bã don dawama dukiya ⟨ke nan⟩, kuma idan kamban ⟨zai⟩ wanzu zuwa zuriyar-zuriya?",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "bã"
+    },
+    {
+      "surface": "לְעוֹלָם",
+      "gloss": "don dawama"
+    },
+    {
+      "surface": "חֹסֶן",
+      "gloss": "dukiya"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "נֶזֶר",
+      "gloss": "kamban"
+    },
+    {
+      "surface": "לְדוֹר",
+      "gloss": "zuwa zuriyar"
+    },
+    {
+      "surface": "דוֹר",
+      "gloss": "zuriya"
+    }
+  ],
+  "timestamp": "2026-08-12T21:31:55.162434522Z",
+  "model": "glm-5.2"
+}

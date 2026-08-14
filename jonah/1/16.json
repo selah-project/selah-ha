@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma mazan sun ji tsoron Yahweh, tsoro mai girma, ⟨suka bauta wa⟩ ⟨את⟩ Yahweh, suka yi masa hadaya, suka yi alkawari.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "Kuma sun ji tsoron"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mazan"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "tsoro"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mai girma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "suka yanka hadaya"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "hadaya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "suka yi alkawari"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "alkawari"
+    }
+  ],
+  "timestamp": "2026-08-12T18:37:48.842576846Z",
+  "model": "glm-5.2"
+}

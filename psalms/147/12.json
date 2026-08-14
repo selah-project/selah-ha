@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 147,
+  "translation": "Gloriya, Yerushalaim, ⟨את⟩ Yahweh; yabi, Tsiyon, Elohim naka.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Gloriya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "yabi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-12T20:58:00.725352586Z",
+  "model": "glm-5.2"
+}

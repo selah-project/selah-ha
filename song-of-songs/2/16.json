@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Masoyina na gare ni ne, kuma ni na gare shi ne; shi makiyayi ne a tsakanin shuduwari.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "masoyina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na gare ni"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na gare shi"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "shi makiyayi ne"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "a tsakanin shuduwari"
+    }
+  ],
+  "timestamp": "2026-08-13T02:33:13.523985826Z",
+  "model": "glm-5.2"
+}

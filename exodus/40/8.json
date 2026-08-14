@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ka kafa ⟨את⟩ ⟨na⟩ shingen kewaye, kuma ka sa ⟨את⟩ kwafar ƙofar ⟨na⟩ shingen kewaye.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "kuma ka kafa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shingen kewaye"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "⟨na⟩ shingen kewaye"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kewaye"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "kuma ka sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kwafar ƙofar"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "kwafar"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ƙofar"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "⟨na⟩ shingen kewaye"
+    }
+  ],
+  "timestamp": "2026-08-13T01:47:29.195024502Z",
+  "model": "glm-5.2"
+}

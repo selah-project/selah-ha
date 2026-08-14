@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Mīsu da gaskiya za su gani, kuma za su yi murna, kuma dukan zalunci za ta dāka bakinta.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "za su gani"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "Mīsu da gaskiya"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "kuma za su yi murna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma dukan"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "zalunci"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "za ta dāka"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "bakinta"
+    }
+  ],
+  "timestamp": "2026-08-12T20:33:26.283067988Z",
+  "model": "glm-5.2"
+}

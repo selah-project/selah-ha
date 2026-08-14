@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 34:4",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Yahweh ya ce masa, \"Wannan ⟨ne⟩ ƙasar da na rantsuwa ga Avraham, ga Yitschaq, da ga Ya'aqov, in ce, 'Za⟨ni⟩ ba wa zuriyarka.' Na nuna maka da idonunka, amma can ba za ka tsallaka ba.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Wannan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "na rantsuwa"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ga Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ga Yitschaq"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "da ga Ya'aqov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "in ce"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "wa zuriyarka"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "za⟨ni⟩ ba"
+    },
+    {
+      "surface": "הראיתיך",
+      "gloss": "Na nuna maka"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "da idonunka"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "amma can"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "za ka tsallaka"
+    }
+  ],
+  "timestamp": "2026-08-12T06:03:32.673793317Z",
+  "model": "glm-5.2"
+}

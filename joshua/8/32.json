@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ya rubuta a can a kan duwatsun, ⟨את⟩ }ara ta shari'ar Moshe, wadda ya rubuta a gaban ʼyaʼyan Isra'ela.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Kuma ya rubuta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "duwatsun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kwafin"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "kwafin"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ta shari'ar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wadda"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "ya rubuta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ʼyaʼyan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ela"
+    }
+  ],
+  "timestamp": "2026-08-12T06:22:46.096765059Z",
+  "model": "glm-5.2"
+}

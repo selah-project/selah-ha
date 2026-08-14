@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kai kuma, ⟨da⟩ ɗan adam, kaɗau wa kanku tubali, ka sanya ⟨את⟩ shi a gabanka, ka kuma zana a kankare ⟨את⟩ birni, Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kai kuma"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "קח",
+      "gloss": "kaɗau"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wa kanku"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "tubali"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ka sanya"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "a gabanka"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "ka kuma zana"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "a kankare"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "birni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birni"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-12T16:54:45.168442131Z",
+  "model": "glm-5.2"
+}

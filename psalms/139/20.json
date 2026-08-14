@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 139,
+  "translation": "Waɗanda suke faɗa maka game da zagon ƙasa, an ɗauke Sunanka tururuwa, maƙiyanka.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Waɗanda"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "suke faɗa maka"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "game da zagon ƙasa"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "an ɗauke"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "tururuwa"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "maƙiyanka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:54:02.900378155Z",
+  "model": "glm-5.2"
+}

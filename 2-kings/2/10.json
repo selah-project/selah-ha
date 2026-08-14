@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Sai ya faɗa: \"Ka nemi abin da ya wuya ⟨a⟩ roƙonka. Duk da haka idan ka ga ⟨את⟩ ni ina ɗaukuwa ⟨daga⟩ ⟨a⟩ tare da kai, haka zai kasance maka; amma idan ba haka ba, ba zai kasance ba.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sai ya faɗa"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "Ka nemi abin da ya wuya"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "⟨a⟩ roƙonka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Duk da haka idan"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ka ga"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ni",
+      "marks": "ina ɗaukuwa"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ina ɗaukuwa"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨daga⟩ ⟨את⟩ ⟨a⟩ tare da kai"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "zai kasance"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "amma idan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ba haka ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zai kasance ba"
+    }
+  ],
+  "timestamp": "2026-08-12T11:54:34.773561510Z",
+  "model": "glm-5.2"
+}

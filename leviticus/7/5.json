@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma babban fasto zai ƙone su ⟨את⟩ ⟨a kan⟩ bagaden, wata hadaya ta wuta ga Yahweh; hadayar laifi ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "kuma zai ƙone"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "babban fasto"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "⟨a kan⟩ bagaden"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "hadaya ta wuta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "hadayar laifi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ne⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T01:54:43.277496133Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "⟨את⟩ Kuma ⟨don⟩ ƙofar Ɗebir ya yi ƙofofin ganyen man shanu; ga ginshiƙin, waɗanda aka yi wa alama suna da kashi-na-fifth.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ Kuma ⟨don⟩",
+      "frames": [
+        {
+          "start": 0,
+          "end": 4
+        }
+      ],
+      "marks": "ƙofar"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ƙofar",
+      "frames": [
+        {
+          "start": 11,
+          "end": 17
+        }
+      ]
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Ɗebir",
+      "frames": [
+        {
+          "start": 18,
+          "end": 23
+        }
+      ]
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi",
+      "frames": [
+        {
+          "start": 24,
+          "end": 28
+        }
+      ]
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ƙofofin",
+      "frames": [
+        {
+          "start": 29,
+          "end": 36
+        }
+      ]
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ganyen",
+      "frames": [
+        {
+          "start": 37,
+          "end": 44
+        }
+      ]
+    },
+    {
+      "surface": "שמן",
+      "gloss": "man shanu",
+      "frames": [
+        {
+          "start": 45,
+          "end": 53
+        }
+      ]
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ga ginshiƙin",
+      "frames": [
+        {
+          "start": 55,
+          "end": 67
+        }
+      ]
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "waɗanda aka yi wa alama",
+      "frames": [
+        {
+          "start": 69,
+          "end": 92
+        }
+      ]
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "kashi-na-fifth",
+      "frames": [
+        {
+          "start": 94,
+          "end": 108
+        }
+      ]
+    }
+  ],
+  "timestamp": "2026-08-12T10:59:46.621825089Z",
+  "model": "glm-5.2"
+}

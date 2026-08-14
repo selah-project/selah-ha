@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 16:3",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Sai sarki ya ce, \"Kuma ina ɗan ubangijinka?\" Kuma Tsiba ya ce wa sarki, \"Ga shi yana zaune a Yerushalama, domin ya ce, 'Yau gidan Yisra'el zai mayar min ⟨את⟩ mulkin ubana.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sai ya ce"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ואיה",
+      "gloss": "Kuma ina"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ubangijinka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ga shi"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "yana zaune"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "a Yerushalama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Yau"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "za su mayar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mulkin"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mulkin"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubana"
+    }
+  ],
+  "timestamp": "2026-08-12T10:23:59.329467408Z",
+  "model": "glm-5.2"
+}

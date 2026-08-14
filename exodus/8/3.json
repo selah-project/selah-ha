@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma masu sihiri sun yi haka da fasiharsu, suka sa ⟨את⟩ kwaɗayi su hau a kan ƙasar Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Kuma suka yi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "masu sihiri"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "da fasiharsu"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "suka sa su hau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kwaɗayi"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "kwaɗi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:40:17.128566099Z",
+  "model": "glm-5.2"
+}

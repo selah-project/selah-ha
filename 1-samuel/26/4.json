@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma Dawuda ya aika da leƙoƙa, ya san cewa lalle Sha'ul ya zuwa ⟨da⟩ tabbaci.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ya aika da"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "leƙoƙa"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ya san"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ya zuwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "tabbaci"
+    }
+  ],
+  "timestamp": "2026-08-12T09:39:11.376852365Z",
+  "model": "glm-5.2"
+}

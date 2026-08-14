@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jonah 1:13",
+  "book": "jonah",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma mazan sun yi ƙoƙari ⟨don⟩ mayar ⟨da⟩ jirgi zuwa ƙasa, amma ba su iya ba, domin teku tana tafiya kuma tana yi wa su guguwa.",
+  "tokens": [
+    {
+      "surface": "ויחתרו",
+      "gloss": "kuma sun yi ƙoƙari"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mazan"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "mayar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "su iya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "tana tafiya"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "kuma tana yi wa guguwa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-08-12T18:37:48.842090695Z",
+  "model": "glm-5.2"
+}

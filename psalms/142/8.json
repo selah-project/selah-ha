@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 142,
+  "translation": "Fitar da rãyũwata daga kurkuku, don in gõdiya ⟨ga⟩ sunanka, a kai ⟨zan⟩ haɗa masu adãl̃a, domin zaka bi ni da alhẽri.",
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "fitar da"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "daga kurkuku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rãyũwata"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "don in gõdiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunanka"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunanka"
+    },
+    {
+      "surface": "בי",
+      "gloss": "a kai"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "⟨zan⟩ haɗa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "masu adãl̃a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "zaka bi ni"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "da alhẽri"
+    }
+  ],
+  "timestamp": "2026-08-12T20:54:30.530517847Z",
+  "model": "glm-5.2"
+}

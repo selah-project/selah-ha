@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma ku kiyare, kai ku, ⟨את⟩ ƙa'idojina da ⟨את⟩ hukuncina, kuma kada ku yi daga cikin dukkan abubuwan tzurɓatarwa waɗannan; ɗan ƙasa ⟨ne⟩ kuma baƙon da yake zaune a cikinku.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "kuma ku kiyare"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kai ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙa'idojina"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ƙa'idojina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "hukuncina"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukuncina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ku yi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "daga cikin dukkan"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "abubuwan tzurɓatarwa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "ɗan ƙasa"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "kuma baƙon"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "da yake zaune"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "a cikinku"
+    }
+  ],
+  "timestamp": "2026-08-12T02:26:16.447998947Z",
+  "model": "glm-5.2"
+}

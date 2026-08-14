@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 11:8",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Mutum mai adalci an cire shi daga matsala, kuma mugun mutum ya zo madadin ⟨shi⟩.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Mutum mai adalci"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "daga matsala"
+    },
+    {
+      "surface": "נחלץ",
+      "gloss": "an cire shi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kuma ya zo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mugun mutum"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "madadin ⟨shi⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T21:11:33.730988846Z",
+  "model": "glm-5.2"
+}

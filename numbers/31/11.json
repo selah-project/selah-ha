@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Kuma suka dauki ⟨את⟩ dukan ganima da ⟨את⟩ dukan abin da aka kama, a cikin mutane da a cikin dabbobi.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Kuma suka dauki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "ganima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "abin da aka kama"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "a cikin mutane"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "da a cikin dabbobi"
+    }
+  ],
+  "timestamp": "2026-08-12T04:37:52.653505023Z",
+  "model": "glm-5.2"
+}

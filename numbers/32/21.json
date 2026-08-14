@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 32:21",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Kuma ku wuce, duk maharbi ⟨את⟩ Yarden a gaban Yahweh, har ya korI ⟨את⟩ gabaɓansa daga gabanSa.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "kuma ku wuce"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "zuku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "maharbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "ya kora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabaɓansa"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "gabaɓansa"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "daga gabanSa"
+    }
+  ],
+  "timestamp": "2026-08-12T04:37:44.741176193Z",
+  "model": "glm-5.2"
+}

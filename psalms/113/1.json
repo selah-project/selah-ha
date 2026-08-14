@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 113,
+  "translation": "Yabbo, Yah! Yabbo, ku bãyin Yahweh, yabbo ⟨את⟩ sunan Yahweh!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Yabbo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Yabbo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ku bãyin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "yabbo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sunan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T20:35:58.097208380Z",
+  "model": "glm-5.2"
+}

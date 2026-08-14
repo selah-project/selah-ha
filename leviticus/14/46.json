@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma wanda ya shigo cikin gida duk kwanakin da aka rufe shi, za-a gurgunta shi har yamma.",
+  "tokens": [
+    {
+      "surface": "וְהַבָּא֙",
+      "gloss": "kuma wanda ya shigo"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "הַבַּ֔יִת",
+      "gloss": "gida"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "יְמֵ֖י",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "הִסְגִּ֣יר",
+      "gloss": "da aka rufe"
+    },
+    {
+      "surface": "אֹת֑וֹ",
+      "gloss": "⟨את⟩ shi",
+      "marks": "wanda ya shigo"
+    },
+    {
+      "surface": "יִטְמָ֖א",
+      "gloss": "za-a gurgunta"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "har"
+    },
+    {
+      "surface": "הָעָֽרֶב",
+      "gloss": "yamma"
+    }
+  ],
+  "timestamp": "2026-08-12T02:21:15.133362908Z",
+  "model": "glm-5.2"
+}

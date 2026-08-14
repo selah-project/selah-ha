@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 15:22",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Shawarar da ba ta nan ⟨ce⟩ take battala tsare-tsare, amma a cikin yawan masu ba da shawara ⟨ce⟩ suke tasussuka.",
+  "tokens": [
+    {
+      "surface": "הפר",
+      "gloss": "battala"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "tsare-tsare"
+    },
+    {
+      "surface": "באין",
+      "gloss": "a cikin da ba ta nan"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "shawara"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "kuma a cikin yawa"
+    },
+    {
+      "surface": "יועצים",
+      "gloss": "masu ba da shawara"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "suke tasussuka"
+    }
+  ],
+  "timestamp": "2026-08-12T21:17:51.978199533Z",
+  "model": "glm-5.2"
+}

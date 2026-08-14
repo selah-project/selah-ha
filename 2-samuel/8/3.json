@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma Daviɗ ya ci ⟨את⟩ Haɗaɗezer ɗan Rehov sarkin Ẓoba, a tafiyarsa don mayar da hannunsa ⟨a⟩ kogin.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Kuma ya ci"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daviɗ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haɗaɗezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Haɗaɗezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehov"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Ẓoba"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "a tafiyarsa"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "don mayar da"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hannunsa"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "⟨a⟩ kogin"
+    }
+  ],
+  "timestamp": "2026-08-12T10:06:57.282008789Z",
+  "model": "glm-5.2"
+}

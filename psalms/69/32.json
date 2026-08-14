@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Kuma zai nemi gode ⟨ga⟩ Yahweh fiye da shanu, fiye da Sa̱na mai ƙaho da ungulu.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "Kuma zai nafi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨ga⟩ Yahweh"
+    },
+    {
+      "surface": "משור",
+      "gloss": "fiye da shanu"
+    },
+    {
+      "surface": "פר",
+      "gloss": "Sa̱na"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "mai ƙaho"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "da ungulu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:01:55.650015638Z",
+  "model": "glm-5.2"
+}

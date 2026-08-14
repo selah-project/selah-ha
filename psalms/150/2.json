@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 150,
+  "translation": "Yabo ga Shi cikin ƙarfin da Ya nuna, yabo ga Shi gwargwadon yawan girman Sa.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "yabo ga Shi"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "cikin ƙarfin da Ya nuna"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "yabo ga Shi"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "gwargwadon yawan"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "girman Sa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:57:42.282159502Z",
+  "model": "glm-5.2"
+}

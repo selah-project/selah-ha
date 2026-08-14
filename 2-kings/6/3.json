@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma ɗayan ya ce, Ka yi ⟨alfarma⟩, ina roƙo, ka tafi ⟨את⟩ bayin ka, kuma ya ce, Ni zan tafi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ɗayan"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "Ka yi ⟨alfarma⟩"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ina roƙo"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ka tafi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayin ka"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "bayin ka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "zan tafi"
+    }
+  ],
+  "timestamp": "2026-08-12T12:06:02.703793566Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Ubanganninmu, a Mitsrayim, ba su fahimtar ajoyin⟨ka⟩, ba su tuna ⟨da⟩ ⟨את⟩ yawan chesed⟨ka⟩, suka tada tawaye a teku, a Tekun Ṣuf.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "Ubanganninmu,"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "a Mitsrayim,"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "su fahimtar"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ajoyin⟨ka⟩,"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "su tuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yawan chesed⟨ka⟩"
+    },
+    {
+      "surface": "רב",
+      "gloss": "yawan"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "chesed⟨ka⟩,"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "suka tada tawaye"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "ים",
+      "gloss": "teku,"
+    },
+    {
+      "surface": "בים",
+      "gloss": "a Tekun"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Ṣuf."
+    }
+  ],
+  "timestamp": "2026-08-12T20:30:26.730770356Z",
+  "model": "glm-5.2"
+}

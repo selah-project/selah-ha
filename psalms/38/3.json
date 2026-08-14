@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Gama kibiyoyinka sun nutse cikina, kuma hannunka ya sauko a kaina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gama"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "kibiyoyinka"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "sun nutse"
+    },
+    {
+      "surface": "בי",
+      "gloss": "cikina"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "kuma ya sauko"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a kaina"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hannunka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:40:58.833474352Z",
+  "model": "glm-5.2"
+}

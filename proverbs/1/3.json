@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 1:3",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "don karɓar tarbiyyar basira, adalci da shari'a da daidaito;",
+  "tokens": [
+    {
+      "surface": "לקחת",
+      "gloss": "don karɓar"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tarbiyyar"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "basira"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adalci"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "da shari'a"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "da daidaito"
+    }
+  ],
+  "timestamp": "2026-08-12T21:01:01.071340517Z",
+  "model": "glm-5.2"
+}

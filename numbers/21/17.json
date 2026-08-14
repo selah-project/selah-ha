@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Sa'an nan Yisra'el ya rera ⟨את⟩ wannan waƙar: \"Tashi, ya rijiya! Ku rera mata.\"",
+  "tokens": [
+    {
+      "surface": "אָז",
+      "gloss": "sa'an nan"
+    },
+    {
+      "surface": "יָשִׁיר",
+      "gloss": "ya rera"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "wannan waƙar"
+    },
+    {
+      "surface": "הַשִּׁירָה",
+      "gloss": "waƙar"
+    },
+    {
+      "surface": "הַזֹּאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "עֲלִי",
+      "gloss": "tashi"
+    },
+    {
+      "surface": "בְאֵר",
+      "gloss": "ya rijiya"
+    },
+    {
+      "surface": "עֱנוּ",
+      "gloss": "ku rera"
+    },
+    {
+      "surface": "לָהּ",
+      "gloss": "mata"
+    }
+  ],
+  "timestamp": "2026-08-12T04:12:48.068410950Z",
+  "model": "glm-5.2"
+}

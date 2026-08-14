@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "⟨את⟩ Chelkat da ⟨את⟩ mahaɗanta, da ⟨את⟩ Rechov da ⟨את⟩ mahaɗanta — birane huɗu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chelkat"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Chelkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "mahaɗanta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mahaɗanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Rechov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "mahaɗanta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mahaɗanta"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "birane"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "huɗu"
+    }
+  ],
+  "timestamp": "2026-08-12T06:59:30.900042354Z",
+  "model": "glm-5.2"
+}

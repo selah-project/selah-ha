@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 16:3",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Sai Sarai, matar Avram, ta dauko ⟨את⟩ Hagar ⟨ta⟩ Mitsriyar, baiwarta, a ƙarshen shekara goma ⟨na⟩ zama Avram a ƙasar Kenaan; kuma ta ba ⟨את⟩ ta ga Avram, mijinta, ⟨ga⟩ shi ⟨don⟩ zama mata.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "ta dauko"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "matar"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hagar"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "⟨ta⟩ Mitsriyar"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "baiwarta"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "a ƙarshen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "goma"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "⟨na⟩ zama"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "ta ba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ta"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "mijinta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ga⟩ shi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "⟨don⟩ zama mata"
+    }
+  ],
+  "timestamp": "2026-08-11T23:37:31.307353762Z",
+  "model": "glm-5.2"
+}

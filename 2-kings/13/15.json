@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma ya ce masa Elisha: \"Ka dauki baka da kibiyoyi.\" Kuma ya dauko masa baka da kibiyoyi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Ka dauki"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "baka"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "da kibiyoyi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "Kuma ya dauko"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "baka"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "da kibiyoyi"
+    }
+  ],
+  "timestamp": "2026-08-12T12:21:30.748873532Z",
+  "model": "glm-5.2"
+}

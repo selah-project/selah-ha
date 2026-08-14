@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 15:14",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Jam'iyyu sun ji suna rawar jijiya; tsoro ya kama mazaunan Pelashet.",
+  "tokens": [
+    {
+      "surface": "שָֽׁמְע֥וּ",
+      "gloss": "sun ji"
+    },
+    {
+      "surface": "עַמִּ֖ים",
+      "gloss": "jam'iyyu"
+    },
+    {
+      "surface": "יִרְגָּז֑וּן",
+      "gloss": "suna rawar jijiya"
+    },
+    {
+      "surface": "חִ֣יל",
+      "gloss": "tsoro"
+    },
+    {
+      "surface": "אָחַ֔ז",
+      "gloss": "ya kama"
+    },
+    {
+      "surface": "יֹשְׁבֵ֖י",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "פְּלָֽשֶׁת",
+      "gloss": "Pelashet"
+    }
+  ],
+  "timestamp": "2026-08-12T00:47:02.560286742Z",
+  "model": "glm-5.2"
+}

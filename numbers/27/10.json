@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma idan ba ⟨akwai⟩ masa ƴan'uwa ba, to ku ba ⟨את⟩ gado⟨nsa⟩ ga ƴan'uwan ubansa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ba akwai"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ƴan'uwa"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ku ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadonsa"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "kado"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "ga ƴan'uwan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubansa"
+    }
+  ],
+  "timestamp": "2026-08-12T04:31:24.806554128Z",
+  "model": "glm-5.2"
+}

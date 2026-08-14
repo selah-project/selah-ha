@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Sai mutãne suka yi husuma da Mosheh, suka ce: \"Ku ba mu ruwa mu sha.\" Sai Mosheh ya ce musu: \"Mẽne ne kuke yi husuma game da ni? Mẽne ne kuke gwada ⟨את⟩ Yahweh?\"",
+  "tokens": [
+    {
+      "surface": "וַיָּ֤רֶב",
+      "gloss": "sai suka yi husuma"
+    },
+    {
+      "surface": "הָעָם֙",
+      "gloss": "mutãne"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "da"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "וַיֹּ֣אמְר֔וּ",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "תְּנוּ",
+      "gloss": "ku ba"
+    },
+    {
+      "surface": "לָ֥נוּ",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מַ֖יִם",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "וְנִשְׁתֶּ֑ה",
+      "gloss": "mu sha"
+    },
+    {
+      "surface": "וַיֹּ֤אמֶר",
+      "gloss": "sai ya ce"
+    },
+    {
+      "surface": "לָהֶם֙",
+      "gloss": "musu"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "mẽne ne"
+    },
+    {
+      "surface": "תְּרִיבוּן֙",
+      "gloss": "kuke yi husuma"
+    },
+    {
+      "surface": "עִמָּדִ֔י",
+      "gloss": "game da ni"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "mẽne ne"
+    },
+    {
+      "surface": "תְּנַסּ֖וּן",
+      "gloss": "kuke gwada"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-13T03:02:33.991784861Z",
+  "model": "glm-5.2"
+}

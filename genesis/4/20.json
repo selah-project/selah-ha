@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma Adah ta haifa ⟨את⟩ Yaval; shi ne ya kasance uban mazaunan wigwam da kuma dabbobi.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "kuma ta haifa"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaval"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yaval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ne ya kasance"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uban"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wigwam"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "da kuma dabbobi"
+    }
+  ],
+  "timestamp": "2026-08-11T23:21:49.905285025Z",
+  "model": "glm-5.2"
+}

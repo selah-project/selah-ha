@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Kuma aikin ya ishe duk ⟨aikin⟩ don yi ⟨את⟩ shi, kuma akwai gagara.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "Kuma aikin"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ya ishe"
+    },
+    {
+      "surface": "דים",
+      "gloss": "⟨ya ishe⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "⟨aikin⟩"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "don yi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "kuma akwai gagara"
+    }
+  ],
+  "timestamp": "2026-08-12T01:35:26.999180409Z",
+  "model": "glm-5.2"
+}

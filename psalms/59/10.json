@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 59,
+  "translation": "Ƙarfina, zuwa gare ka ni zan kiyaye ⟨shi⟩; domin Elohim ⟨ne⟩ mafarkina.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "ƙarfina"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zuwa gare ka"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "ni zan kiyaye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mafarkina"
+    }
+  ],
+  "timestamp": "2026-08-12T19:54:19.663033516Z",
+  "model": "glm-5.2"
+}

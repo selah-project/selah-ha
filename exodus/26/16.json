@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Gomamita tsayin allura ɗaya, da mita ɗaya da rabin mita faɗin allura ɗaya.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "goma"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "mita"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "tsayin"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "allura"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "da mita"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "da rabin"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "mita"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "faɗin"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "allura"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ɗaya"
+    }
+  ],
+  "timestamp": "2026-08-12T01:09:10.951611912Z",
+  "model": "glm-5.2"
+}

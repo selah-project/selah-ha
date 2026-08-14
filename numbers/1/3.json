@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Daga ɗan shekara ashirin da sama, kowane fita ⟨a⟩ yaƙa a cikin Yisra'el, ku ƙidaye ⟨su⟩ bisa rundunoninsu, kai da Aharon.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "Daga ɗan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "da sama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "fita"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "yaƙa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "a cikin Yisra'el"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "ku ƙidaye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kowane fita yaƙa"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "bisa rundunoninsu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "da Aharon"
+    }
+  ],
+  "timestamp": "2026-08-12T03:10:39.904741983Z",
+  "model": "glm-5.2"
+}

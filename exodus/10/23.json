@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Ba su ga ⟨את⟩ juna na kwana uku, kuma wani mutum bai tashi daga wurin sa ba; amma ga dukan ƙwaryan Yisra'el akwai haske a cikin mazauninsu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "sai ga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨suka⟩ mutum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "juna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ɗan'uwansa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "sai tashi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wani mutum"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "daga wurin sa"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "uku"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "amma ga dukan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƙwaryan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "היה",
+      "gloss": "akwai"
+    },
+    {
+      "surface": "אור",
+      "gloss": "haske"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "a cikin mazauninsu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:43:19.931651660Z",
+  "model": "glm-5.2"
+}

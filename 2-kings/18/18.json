@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 18:18",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Suka kira ga sarkin, Elyakim ɗan Chilkiyahu wanda yake a kan gida, ya fito musu, da Shevnah mai rubutu, da Yo'ach ɗan Asaf mai tunatarwa.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "Suka kira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ya fito"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Chilkiyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "yake a kan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "ושבנה",
+      "gloss": "da Shevnah"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "mai rubutu"
+    },
+    {
+      "surface": "ויואח",
+      "gloss": "da Yo'ach"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "mai tunatarwa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:36:25.251625699Z",
+  "model": "glm-5.2"
+}

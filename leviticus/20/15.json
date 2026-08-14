@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma wani mutum da ya ba da jima'insa ga dabba, mutuwa za a kashe shi, kuma ⟨את⟩ dabbar ku kashe ta.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Kuma wani mutum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "jima'insa"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "ga dabba"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mutuwa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "za a kashe shi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "dabbar"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dabbar"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "ku kashe ta"
+    }
+  ],
+  "timestamp": "2026-08-12T02:43:04.006330533Z",
+  "model": "glm-5.2"
+}

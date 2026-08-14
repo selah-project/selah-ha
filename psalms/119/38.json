@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Ka tabbatar ⟨don⟩ bārinka kalmarka, ⟨itace⟩ ⟨wadda⟩ don tsōranka.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "Ka tabbatar"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "bārinka"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "kalmarka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨wadda⟩"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "don tsōranka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:40:10.559127734Z",
+  "model": "glm-5.2"
+}

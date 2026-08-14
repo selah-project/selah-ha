@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 35:11",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "⟨את⟩ mazaunin, ⟨את⟩ tantansa da ⟨את⟩ rufinsa, ⟨את⟩ ƙugunansa da ⟨את⟩ allunanansa, ⟨את⟩ sandunanansa, ⟨את⟩ ginshiƙansa da ⟨את⟩ ƙafafunsa;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazaunin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mazaunin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tantansa"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "tantansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "rufinsa"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "rufinsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙugunansa"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "ƙugunansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "allunanansa"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "allunanansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandunanansa"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "sandunanansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ginshiƙansa"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "ginshiƙansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙafafunsa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ƙafafunsa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:21:42.203718209Z",
+  "model": "glm-5.2"
+}

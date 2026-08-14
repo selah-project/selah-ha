@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Laifina na sanar da kai, kuma zalincina ba na ɓoya ba ⟨ba⟩; na faɗa, zan gudanar da ikirari game da tawaye ta, ga Yahweh, kuma Kai, Kai ka ɗauka ⟨nauyin⟩ zunubiwar laifina. Selah.",
+  "tokens": [
+    {
+      "surface": "חַטָּאתִי",
+      "gloss": "laifina"
+    },
+    {
+      "surface": "אוֹדִיעֲךָ",
+      "gloss": "na sanar da kai"
+    },
+    {
+      "surface": "וַעֲוֺנִי",
+      "gloss": "kuma zalincina"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כִּסִּיתִי",
+      "gloss": "na ɓoya"
+    },
+    {
+      "surface": "אָמַרְתִּי",
+      "gloss": "na faɗa"
+    },
+    {
+      "surface": "אוֹדֶה",
+      "gloss": "zan gudanar da ikirari"
+    },
+    {
+      "surface": "עֲלֵי",
+      "gloss": "game da"
+    },
+    {
+      "surface": "פְּשָׁעַי",
+      "gloss": "tawaye ta"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "וְאַתָּה",
+      "gloss": "kuma Kai"
+    },
+    {
+      "surface": "נָשָׂאתָ",
+      "gloss": "Kai ka ɗauka"
+    },
+    {
+      "surface": "עָוֺן",
+      "gloss": "zunubiwar"
+    },
+    {
+      "surface": "חַטָּאתִי",
+      "gloss": "laifina"
+    },
+    {
+      "surface": "סֶלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T19:36:39.741776002Z",
+  "model": "glm-5.2"
+}

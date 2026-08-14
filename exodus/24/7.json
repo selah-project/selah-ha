@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma ya ɗauko littafin alkawari, ya karanta a cikin kunne mutane ⟨ga⟩ sauraronsu, suka ce: \"Duk abin da Yahweh ya faɗa, za mu yi, za mu bi.\"",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ya ɗauko"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "littafin"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "alkawari"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ya karanta"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "a cikin kunne"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "za mu yi"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "za mu bi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:04:47.300036827Z",
+  "model": "glm-5.2"
+}

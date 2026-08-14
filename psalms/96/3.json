@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 96,
+  "translation": "Ku faɗa a cikin al'umma masa girma, a tsakanin duka mutane abubuwan ban mamakinsa.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "ku faɗa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "a cikin al'umma"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "masa girma"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a tsakanin duka"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "abubuwan ban mamakinsa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:47.188021381Z",
+  "model": "glm-5.2"
+}

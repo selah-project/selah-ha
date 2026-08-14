@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma wanda ya sā mutum ya sayar da shi, ko kuma aka same shi a hannunsa, a kafa shi a kashe shi.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "Kuma wanda ya sā"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "ya sayar da shi"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "ko kuma an same shi"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "a hannunsa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "a kafa shi"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a kashe shi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:01:27.499928094Z",
+  "model": "glm-5.2"
+}

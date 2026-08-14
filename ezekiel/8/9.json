@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ya ce min: Ka shiga, ka kalli ⟨את⟩ abubuwan da kyama da miyagun ⟨abubuwan⟩ da suke yi nan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Ka shiga"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ka kalli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abubuwan da kyama"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "abubuwan da kyama"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "miyagun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הם",
+      "gloss": "suke"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "yi"
+    },
+    {
+      "surface": "פה",
+      "gloss": "nan"
+    }
+  ],
+  "timestamp": "2026-08-13T02:15:45.881915383Z",
+  "model": "glm-5.2"
+}

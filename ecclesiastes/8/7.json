@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Domin shi ba ya sanin abin da zai faru, domin idan ya faru, wa zai gaya masa?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "shi ba"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ya sanin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "zai faru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "idan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ya faru"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "zai gaya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:49:45.026426785Z",
+  "model": "glm-5.2"
+}

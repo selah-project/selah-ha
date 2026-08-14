@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 21:12",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma daga masallaki ba za ta fita ba, kuma ba zai gurza ⟨את⟩ masallakin Elohim nasa ba, domin alamar man shafawar Elohim nasa tana a kansa; ni ne Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "kuma daga"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "masallaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "za ta fita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "zai gurza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masallakin"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "masallaki"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim nasa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "alarma"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "man"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "shafawa"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim nasa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tana a kansa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T02:44:33.391834333Z",
+  "model": "glm-5.2"
+}

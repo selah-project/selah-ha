@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Zuciya da ta dora ⟨a⟩ Kai, Kai ke kiyaye ⟨a cikin⟩ salama, salama; domin a cikin Kai ⟨ake⟩ dogaro.",
+  "tokens": [
+    {
+      "surface": "ייצר",
+      "gloss": "zuciya",
+      "notes": "Disposition \/ imagination of the mind."
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "da ta dora"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "Kai ke kiyaye"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salama"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "בך",
+      "gloss": "a cikin Kai"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "ake dogaro"
+    }
+  ],
+  "timestamp": "2026-08-12T13:35:57.860429502Z",
+  "model": "glm-5.2"
+}

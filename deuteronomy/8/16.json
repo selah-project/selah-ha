@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "wanda ya ciyar da ka da mani a cikin jeji, wanda ba ubanninkaka suka sani ba; domin ya danne ka, kuma domin ya jarraba ka, don ya yi maka alheri a ƙarshen zamanka",
+  "tokens": [
+    {
+      "surface": "הַמַּֽאֲכִ֨לְךָ֥",
+      "gloss": "wanda ya ciyar da ka"
+    },
+    {
+      "surface": "מָן֙",
+      "gloss": "da mani"
+    },
+    {
+      "surface": "בַּמִּדְבָּ֔ר",
+      "gloss": "a cikin jeji"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יָדְע֖וּן",
+      "gloss": "suka sani"
+    },
+    {
+      "surface": "אֲבֹתֶ֑יךָ",
+      "gloss": "ubanninka"
+    },
+    {
+      "surface": "לְמַ֣עַן",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עַנֹּֽתְךָ֗",
+      "gloss": "ya danne ka"
+    },
+    {
+      "surface": "וּלְמַ֨עַן֙",
+      "gloss": "kuma domin"
+    },
+    {
+      "surface": "נַסֹּתֶ֔ךָ",
+      "gloss": "ya jarraba ka"
+    },
+    {
+      "surface": "לְהֵיטִֽבְךָ֖",
+      "gloss": "don ya yi maka alheri"
+    },
+    {
+      "surface": "בְּאַחֲרִיתֶֽךָ",
+      "gloss": "a ƙarshen zamanka"
+    }
+  ],
+  "timestamp": "2026-08-13T01:54:03.253857686Z",
+  "model": "glm-5.2"
+}

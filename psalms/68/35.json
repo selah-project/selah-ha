@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 68,
+  "translation": "Ku ba da ƙarfi ga Elohim — a kan Yisra'el ⟨ne⟩ girmanSa, kuma ƙarfinSa yana cikin gajimare.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "Ku ba da"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ƙarfi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ga Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "girmanSa"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "kuma ƙarfinSa"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "yana cikin gajimare"
+    }
+  ],
+  "timestamp": "2026-08-12T20:02:19.594991760Z",
+  "model": "glm-5.2"
+}

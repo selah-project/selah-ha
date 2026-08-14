@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 103,
+  "translation": "Domin kamar yadda sama ta dagargadi a kan ƙasa, haka ne chesedSa ya fi karfi a kan waɗanda ke tsayar da shi.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "כִגְבֹ֣הַ",
+      "gloss": "kamar yadda ... ta dagargadi"
+    },
+    {
+      "surface": "שָׁ֭מַיִם",
+      "gloss": "sama"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "גָּבַ֥ר",
+      "gloss": "ya fi karfi"
+    },
+    {
+      "surface": "חַסְדּ֗וֹ",
+      "gloss": "chesedSa"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "יְרֵאָֽיו",
+      "gloss": "waɗanda ke tsayar da shi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:35.584481863Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Ka tsaga ⟨את⟩ ta cikin guntu-guntu, kuma ka zuba man a kanta, mincha ⟨ce⟩.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "Ka tsaga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ta cikin guntu-guntu"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "cikin guntu-guntu"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "kuma ka zuba"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "a kanta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "man"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ce⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T01:43:11.850526510Z",
+  "model": "glm-5.2"
+}

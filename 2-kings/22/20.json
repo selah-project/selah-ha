@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 22:20",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Saboda haka, ga ni, ina tattara ka zuwa ga kakanninka, kuma za a tattara ka zuwa kabarinka cikin salama; idanunka ba za su ga dukkan sharerran da ni ke kawo a ⟨kan⟩ wannan wuri ba. Kuma suka mayar wa ⟨את⟩ sarkin da magana.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "saboda haka"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ga ni"
+    },
+    {
+      "surface": "אספך",
+      "gloss": "ina tattara ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "kakanninka"
+    },
+    {
+      "surface": "ונאספת",
+      "gloss": "kuma za a tattara ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "קברתיך",
+      "gloss": "kabarinka"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "cikin salama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "za su ga"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "idanunka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "shararran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ke kawo"
+    },
+    {
+      "surface": "על",
+      "gloss": "a ⟨kan⟩"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "wuri"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "וישיבו",
+      "gloss": "kuma suka mayar wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "da magana"
+    }
+  ],
+  "timestamp": "2026-08-12T12:45:27.962381553Z",
+  "model": "glm-5.2"
+}

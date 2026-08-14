@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma Akish ya ce wa bayinsa: Gani ku, kuna ganin ⟨ce⟩ mutum mai taurin hauka; don me kuke kawo ⟨את⟩ shā ⟨a gare⟩ ni?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bayinsa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Gani ku"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "kuna ganin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "mai taurin hauka"
+    },
+    {
+      "surface": "למה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "kuke kawo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shā ⟨a gare⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-12T09:27:10.288114921Z",
+  "model": "glm-5.2"
+}

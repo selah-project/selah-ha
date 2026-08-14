@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Domi ⟨suna⟩ kamar ciyawa cikin gaggawa za a yi musu aikata, kuma kamar tsiron ciyayi za su bushe.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Domi"
+    },
+    {
+      "surface": "כֶ֭חָצִיר",
+      "gloss": "kamar ciyawa"
+    },
+    {
+      "surface": "מְהֵרָ֣ה",
+      "gloss": "cikin gaggawa"
+    },
+    {
+      "surface": "יִמָּ֑לוּ",
+      "gloss": "za a yi musu aikata"
+    },
+    {
+      "surface": "וּכְיֶ֥רֶק",
+      "gloss": "kuma kamar"
+    },
+    {
+      "surface": "דֶּ֝֗שֶׁא",
+      "gloss": "tsiron ciyayi"
+    },
+    {
+      "surface": "יִבּוֹלֽוּן",
+      "gloss": "za su bushe"
+    }
+  ],
+  "timestamp": "2026-08-12T19:38:43.915874898Z",
+  "model": "glm-5.2"
+}

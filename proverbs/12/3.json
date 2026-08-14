@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Ba za a taba taƙaita mutum ta hanyar mugunta ba, amma tushe na masu adalci ba za a motsa ba.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "za a taba taƙaita"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "ta hanyar mugunta"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "amma tushe"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "na masu adalci"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "za a motsa"
+    }
+  ],
+  "timestamp": "2026-08-12T21:13:52.252497178Z",
+  "model": "glm-5.2"
+}

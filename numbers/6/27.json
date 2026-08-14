@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma za su sanya ⟨את⟩ sunana a kan ɓan Yisra'el, kuma ni zan raka su.",
+  "tokens": [
+    {
+      "surface": "וְשָׂמ֥וּ",
+      "gloss": "kuma za su sanya"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sunana"
+    },
+    {
+      "surface": "שְׁמִ֖י",
+      "gloss": "sunana"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "ɓan"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וַאֲנִ֖י",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "אֲבָרְכֵֽם",
+      "gloss": "zan raka su"
+    }
+  ],
+  "timestamp": "2026-08-12T03:24:31.413320903Z",
+  "model": "glm-5.2"
+}

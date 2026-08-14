@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Ga ⟨ga⟩ shugaban kiɗa, ⟨ga⟩ bawan Yahweh, Dāwīd.",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּ֬חַ",
+      "gloss": "ga shugaban kiɗa"
+    },
+    {
+      "surface": "לְעֶֽבֶד",
+      "gloss": "ga bawan"
+    },
+    {
+      "surface": "יְהוָ֬ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לְדָוִֽד",
+      "gloss": "ga Dāwīd"
+    }
+  ],
+  "timestamp": "2026-08-12T19:38:09.780231563Z",
+  "model": "glm-5.2"
+}

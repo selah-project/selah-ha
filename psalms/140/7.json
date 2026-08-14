@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 140,
+  "translation": "Na faɗa wa Yahweh: El kai ne ⟨ne⟩; saurara, Yahweh, muryar roƙona.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Na faɗa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai ne"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "saurara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "roƙona"
+    }
+  ],
+  "timestamp": "2026-08-12T20:55:04.123465460Z",
+  "model": "glm-5.2"
+}

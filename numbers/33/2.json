@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Kuma Moshe ya rubuta ⟨את⟩ farkon tafiyarsu a bisa tafiyar ƙaurarsu bisa umarnin Yahweh, kuma waɗannan tafiyar ƙurarsu ne bisa ga farkon tafiyarsu.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "kuma ya rubuta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "farkon tafiyarsu"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "farkon tafiyarsu"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "a bisa tafiyar ƙaurarsu"
+    },
+    {
+      "surface": "על",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "umarnin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "kuma waɗannan"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "tafiyar ƙurarsu"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "bisa ga farkon tafiyarsu"
+    }
+  ],
+  "timestamp": "2026-08-12T04:44:30.196734114Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Sai duk kwanakin Adam da ya rayu sun kasance ⟨shekara⟩ ɗari tara da talatin, sannan ya mutu.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "sai sun kasance"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ya rayu"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "tara"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "da talatin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "sannan ya mutu"
+    }
+  ],
+  "timestamp": "2026-08-11T23:22:33.025749123Z",
+  "model": "glm-5.2"
+}

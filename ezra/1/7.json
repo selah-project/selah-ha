@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma sarki Koresh ya fitar da ⟨את⟩ kayan gidan Yahweh, waɗanda Nebukadnetsar ya fitar daga Yerushalima, kuma ya saka su a gidan gumakansa.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Kuma sarki"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ya fitar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kayan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kayan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ya fitar"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "daga Yerushalima"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "kuma ya saka su"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a gidan"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "gumakansa"
+    }
+  ],
+  "timestamp": "2026-08-12T23:22:46.799370203Z",
+  "model": "glm-5.2"
+}

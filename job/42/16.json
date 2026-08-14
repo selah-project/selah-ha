@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Kuma Ayub ya rayu bayan wannan shekara ɗari da arba'in, kuma ya ga ⟨את⟩ 'ya'yansa da ⟨את⟩ 'ya'yan 'ya'yansa, tsararraki guda huɗu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Kuma ya rayu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayub"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "da arba'in"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "kuma ya ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'ya'yansa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "'ya'yansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "'ya'yan 'ya'yansa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "'ya'yansa"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "guda huɗu"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "tsararraki"
+    }
+  ],
+  "timestamp": "2026-08-12T22:21:23.729728029Z",
+  "model": "glm-5.2"
+}

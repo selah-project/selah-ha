@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 10:17",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma ⟨an yi⟩ ɗari uku na garkuwan zinare da aka daka; mina uku na zinare suna tashi a kan garkuwa ɗaya, kuma sarki ya sanya su a cikin Bet־Ya'ar ha-Labanon.",
+  "tokens": [
+    {
+      "surface": "ושלש",
+      "gloss": "Kuma uku"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "na garkuwan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinare"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "da aka daka"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "uku"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "na mina"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinare"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "suna tashi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "garkuwa"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "kuma ya sanya su"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a cikin Bet"
+    },
+    {
+      "surface": "יער",
+      "gloss": "Ya'ar"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "ha-Labanon"
+    }
+  ],
+  "timestamp": "2026-08-13T02:05:57.755097184Z",
+  "model": "glm-5.2"
+}

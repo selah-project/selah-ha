@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 41:12",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Kuma a can ⟨את⟩ mu yana da yaro, ɗan Ibraniyya, bawa ga shugaban masu yankan abinci, muka kuma faɗa masa, ya kuma fassara mana ⟨את⟩ mafarkokinmu; kowane mutum a cewar mafarkinsa ya fassara.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Kuma a can"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ mu",
+      "marks": "mu"
+    },
+    {
+      "surface": "נער",
+      "gloss": "yana da yaro"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ɗan Ibraniyya"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "bawa"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "ga shugaban"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "masu yankan abinci"
+    },
+    {
+      "surface": "ונספר",
+      "gloss": "muka kuma faɗa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "ויפתר",
+      "gloss": "ya kuma fassara"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maforkinmu"
+    },
+    {
+      "surface": "חלמתינו",
+      "gloss": "maforkinmu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "כחלמו",
+      "gloss": "a cewar mafarmkinsa"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "ya fassara"
+    }
+  ],
+  "timestamp": "2026-08-12T00:11:58.086916261Z",
+  "model": "glm-5.2"
+}

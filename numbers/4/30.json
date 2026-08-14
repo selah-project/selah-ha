@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 4:30",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Daga ɗan shekara tri, da haihuwa, har zuwa ɗan shekara hamsin, za ka lissafa ⟨את⟩ su, duk wanda ya shiga cikin sojoji don yin aikin Idon Taro.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "daga ɗan"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trii"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "da haihuwa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "hamsin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "za ka lissafa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "wanda ya shiga"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "cikin sojoji"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "don yin aikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aikin"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Idon"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Taro"
+    }
+  ],
+  "timestamp": "2026-08-12T03:22:25.287638953Z",
+  "model": "glm-5.2"
+}

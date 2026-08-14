@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 22:3",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Elohim dutsena ne, naã mafaka a cikinsa; garkuwata, da ƙãgon ceton nã, mahallatãka na, kuma mafakata. Mai ceton nã, kai Yana tsĩre ni daga tashĩ hankãli.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "dutsena"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "naã mafaka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a cikinsa"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "garkuwata"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "da ƙãgon"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ceton nã"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mahallatãka na"
+    },
+    {
+      "surface": "ומנוסי",
+      "gloss": "kuma mafakata"
+    },
+    {
+      "surface": "משעי",
+      "gloss": "Mai ceton nã"
+    },
+    {
+      "surface": "מחמס",
+      "gloss": "daga tashĩ hankãli"
+    },
+    {
+      "surface": "תשעני",
+      "gloss": "kai Yana tsĩre ni"
+    }
+  ],
+  "timestamp": "2026-08-12T10:32:13.714280602Z",
+  "model": "glm-5.2"
+}

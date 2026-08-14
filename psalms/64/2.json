@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 64,
+  "translation": "Elohim, ka ji murya ta a cikin addu'a ta; daga tsoron maƙiyi, ka tsare rayuwa ta.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ka ji"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "murya ta"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "a cikin addu'a ta"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "daga tsoron"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "maƙiyi"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "ka tsare"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "rayuwa ta"
+    }
+  ],
+  "timestamp": "2026-08-12T19:56:54.524851017Z",
+  "model": "glm-5.2"
+}

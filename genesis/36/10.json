@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Waɗannan ⟨ne⟩ sunayen 'ya'yan Esav: Eliphaz, ɗan Adah, matar Esav; Reuel, ɗan Bashemat, matar Esav.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Waɗannan"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sunayen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Eliphaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "matar"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bashemat"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "matar"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-08-12T00:03:33.502573012Z",
+  "model": "glm-5.2"
+}

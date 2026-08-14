@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Sa'an nan na faɗi ⟨a⟩ gaba ⟨ga⟩ Yahweh ⟨na⟩ yin gaggãwar alheri na da daren arba'in da daren arba'in da na faɗi ⟨a⟩ gaba ⟨ga⟩ shi, dõmin Yahweh ya faɗa zai halaka ⟨את⟩ ku.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "na faɗi ⟨a⟩ gaba ⟨ga⟩ yin gaggãwar alheri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gaba ⟨ga⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "da daren arba'in"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "arba'in"
+    },
+    {
+      "surface": "היום",
+      "gloss": "da dare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "arba'in"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "arba'in"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "dare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "na faɗi ⟨a⟩ gaba ⟨ga⟩ yin gaggãwar alheri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "zai halaka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    }
+  ],
+  "timestamp": "2026-08-12T05:11:35.246018776Z",
+  "model": "glm-5.2"
+}

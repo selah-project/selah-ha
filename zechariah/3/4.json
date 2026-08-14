@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 3:4",
+  "book": "zechariah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ya amsa, ya ce wa waɗanda suke tsaye a gabansa, yana cewa: ‹Ku cire tufafin da aka dagula daga kansa!› Kuma ya ce masa: ‹Ga, na wuce laifinka daga kanka, kuma zan sanya ka ⟨את⟩ tufafin alheri.›",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "kuma ya amsa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "waɗanda suke tsaye"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "a gabansa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "ku cire"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "tufafin"
+    },
+    {
+      "surface": "הצאים",
+      "gloss": "da aka dagula"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "daga kansa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ga"
+    },
+    {
+      "surface": "העברתי",
+      "gloss": "na wuce"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "daga kanka"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "laifinka"
+    },
+    {
+      "surface": "והלבש",
+      "gloss": "kuma zan sanya ka"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tufafin alheri"
+    },
+    {
+      "surface": "מחלצות",
+      "gloss": "tufafin alheri"
+    }
+  ],
+  "timestamp": "2026-08-12T19:02:09.349076271Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "talen ɗin zinariya tsarkakakkiya ya yi ⟨את⟩ ⟨ita⟩, da ⟨את⟩ dukkan kayan aikinta",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "talen ɗin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinariya"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tsarkakakkiya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ita⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukkan kayan aikinta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "kayan aikinta"
+    }
+  ],
+  "timestamp": "2026-08-12T01:30:23.752068165Z",
+  "model": "glm-5.2"
+}

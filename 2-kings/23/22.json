@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Gaskiya ba a yi kamar Pesah nan tun daga kwanakin masu shari'a da suka yi shari'a ⟨את⟩ Yisra'el, ko kuma a duk kwanakin sarakunan Yisra'el da sarakunan Yehuda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gaskiya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "a yi"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "kamar Pesah"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "tun daga kwanakin"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "masu shari'a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "suka yi shari'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ko kuma a duk"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sarakunan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "da sarakunan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-12T12:46:09.671657840Z",
+  "model": "glm-5.2"
+}

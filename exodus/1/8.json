@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Sai aka tãwo da sarki sabo a kan Mitsrayim, wanda bai san ⟨את⟩ Yosef ba.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Sai aka tãwo da"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "sabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "san"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-08-12T00:27:23.410250003Z",
+  "model": "glm-5.2"
+}

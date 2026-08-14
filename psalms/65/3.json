@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 65,
+  "translation": "Mai sauraron addu'a, gare Kai dukan jiki zai zo.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Mai sauraron"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "addu'a"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "gare Kai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "jiki"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "zai zo"
+    }
+  ],
+  "timestamp": "2026-08-12T19:57:37.252107345Z",
+  "model": "glm-5.2"
+}

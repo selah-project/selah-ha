@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma zan shigar da ku cikin ƙasar da na ɗaga ⟨את⟩ hannuwa na in bada ⟨את⟩ ita ga Avraham, ga Yitsḥak, da kuma ga Ya'aƙub, kuma zan baku ⟨את⟩ ita ⟨a matsayin⟩ gadon jagorarta; ni ni ne Yahweh.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "kuma zan shigar da"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku",
+      "marks": "ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "na ɗaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannuwa na"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hannuwa na"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "in bada"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ita",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ga Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ga Yitsḥak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "da kuma ga Ya'aƙub"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "kuma zan baku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ita",
+      "marks": "ku"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "⟨a matsayin⟩ gadon jagorarta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T00:36:13.195516190Z",
+  "model": "glm-5.2"
+}

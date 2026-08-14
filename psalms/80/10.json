@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 80,
+  "translation": "Ka share gaban ⟨את⟩ ta, kuma ta saƙa tushenta, ta cika ƙasa.",
+  "tokens": [
+    {
+      "surface": "פִּנִּ֥יתָ",
+      "gloss": "ka share"
+    },
+    {
+      "surface": "לְפָנֶ֑יהָ",
+      "gloss": "gaban ta"
+    },
+    {
+      "surface": "וַתַּשְׁרֵ֥שׁ",
+      "gloss": "kuma ta saƙa"
+    },
+    {
+      "surface": "שָׁ֝רָשֶׁ֗יהָ",
+      "gloss": "tushenta"
+    },
+    {
+      "surface": "וַתְּמַלֵּא",
+      "gloss": "ta cika"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:00.701911431Z",
+  "model": "glm-5.2"
+}

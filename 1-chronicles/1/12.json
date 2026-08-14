@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "da ⟨את⟩ Patrusim da ⟨את⟩ Kasluchim, waɗanda daga cikinsu Filistiyawa suka fita, da ⟨את⟩ Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Patrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Kasluchim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluchim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "suka fita"
+    },
+    {
+      "surface": "משם",
+      "gloss": "daga cikinsu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiyawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorim"
+    }
+  ],
+  "timestamp": "2026-08-12T23:54:26.452936102Z",
+  "model": "glm-5.2"
+}

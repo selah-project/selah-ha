@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma kohen ya duba, sai gani, idan akwai tashe fari a cikin fata, kuma ⟨ta⟩ juya gashi ya zama fari, kuma akwai tsiro na sabõda naman jiki a cikin tashe —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "kuma ya duba"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sai gani"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "tashe"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "fari"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "a cikin fata"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "kuma ta"
+    },
+    {
+      "surface": "הפכה",
+      "gloss": "juya"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gashi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "fari"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "kuma akwai tsiro na"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "naman jiki"
+    },
+    {
+      "surface": "חי",
+      "gloss": "sabõda"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "a cikin tashe"
+    }
+  ],
+  "timestamp": "2026-08-12T02:09:56.102331514Z",
+  "model": "glm-5.2"
+}

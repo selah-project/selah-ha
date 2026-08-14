@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Na yi ⟨don⟩ kaina gonaki da gandun itatuwa, kuma na shuka a cikinsu itatuwan dukkan 'ya'yan itace.",
+  "tokens": [
+    {
+      "surface": "עָשִׂ֣יתִי",
+      "gloss": "Na yi"
+    },
+    {
+      "surface": "לִ֔י",
+      "gloss": "⟨don⟩ kaina"
+    },
+    {
+      "surface": "גַּנּ֖וֹת",
+      "gloss": "gonaki"
+    },
+    {
+      "surface": "וּפַרְדֵּסִ֑ים",
+      "gloss": "da gandun itatuwa"
+    },
+    {
+      "surface": "וְנָטַ֥עְתִּי",
+      "gloss": "kuma na shuka"
+    },
+    {
+      "surface": "בָהֶ֖ם",
+      "gloss": "a cikinsu"
+    },
+    {
+      "surface": "עֵ֥ץ",
+      "gloss": "itatuwan"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "פֶּֽרִי",
+      "gloss": "'ya'yan itace"
+    }
+  ],
+  "timestamp": "2026-08-12T22:41:31.005235319Z",
+  "model": "glm-5.2"
+}

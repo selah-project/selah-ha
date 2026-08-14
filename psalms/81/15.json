@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 81,
+  "translation": "Da ɗan kaɗan, maƙiyansu Na da lallasa, kuma a kan masu tsananta musu Na da juyar da hannu Na!",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "da ɗan kaɗan"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "maƙiyansu"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "Na da lallasa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kuma a kan"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "masu tsananta musu"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "Na da juyar da"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hannu Na"
+    }
+  ],
+  "timestamp": "2026-08-12T20:12:11.485347373Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Kuma ya yi musu duka duk fari ⟨a⟩ cikin ƙasarsu, farkon duk ƙarfinsu.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "kuma ya yi musu duka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "fari"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "a cikin ƙasarsu"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "farkon"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ƙarfinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:29:29.038402679Z",
+  "model": "glm-5.2"
+}

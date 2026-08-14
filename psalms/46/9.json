@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 46,
+  "translation": "Ku zo, ku duba ayyukan Yahweh, wanda ya sanya rushewa cikin ƙasa.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Ku zo"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ku duba"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "ayyukan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ya sanya"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "rushewa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "cikin ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:46:01.274153779Z",
+  "model": "glm-5.2"
+}

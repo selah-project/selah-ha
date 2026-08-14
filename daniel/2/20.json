@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 2:20",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Daniel ya amsa ya ce: sunan Eloah ya kasance ⟨ce⟩ an yi wa albarka, daga har abada har abada, domin hikima da ƙarfi ⟨na⟩ nasa ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "עָנֵ֤ה",
+      "gloss": "ya amsa"
+    },
+    {
+      "surface": "דָֽנִיֵּאל֙",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "וְאָמַ֔ר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "לֶהֱוֵ֨א",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "שְׁמֵ֤הּ",
+      "gloss": "sunan"
+    },
+    {
+      "surface": "דִּֽי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אֱלָהָא֙",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מְבָרַ֔ךְ",
+      "gloss": "an yi wa albarka"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "עָלְמָ֖א",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "וְעַ֣ד",
+      "gloss": "har"
+    },
+    {
+      "surface": "עָלְמָ֑א",
+      "gloss": "abada"
+    },
+    {
+      "surface": "דִּ֧י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "חָכְמְתָ֛א",
+      "gloss": "hikima"
+    },
+    {
+      "surface": "וּגְבוּרְתָ֖א",
+      "gloss": "da ƙarfi"
+    },
+    {
+      "surface": "דִּ֥י",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "לֵֽהּ",
+      "gloss": "nasa"
+    },
+    {
+      "surface": "הִֽיא",
+      "gloss": "⟨ne⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T22:59:57.615759464Z",
+  "model": "glm-5.2"
+}

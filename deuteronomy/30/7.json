@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma Yahweh Elohim-ka zai sa ⟨את⟩ dukkan la'anannin nan a kan maƙiyan ka kuma a kan waɗanda suka ƙi ka, waɗanda suka gadin ka.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "kuma zai sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan la'anannin nan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "la'anannin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "maƙiyan ka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kuma a kan"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "waɗanda suka ƙi ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "suka gadin ka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:52:43.155842485Z",
+  "model": "glm-5.2"
+}

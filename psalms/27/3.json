@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Idan sansani ya kā ni, zuciyata ba za ta ji tsōro ba; idan yāƙi ya tāshi a kā ni, a cikin wannan nī ina da ƙarfin gwiwa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "sansani ya kā"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "sansani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "za ta ji tsōro"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idam"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ya tāshi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a kā ni"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "yāƙi"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "a cikin wannan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nī"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "ina da ƙarfin gwiwa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:32:02.850226004Z",
+  "model": "glm-5.2"
+}

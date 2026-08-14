@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Domin ⟨ya ga⟩ mutãne masu hikima suna mutuwa, tare wãyi da wãyi jãhili da tauri suna halaka, kuma suna barin dũkiyarsu ga wasu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "⟨ya ga⟩"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "mutãne masu hikima"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "suna mutuwa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tarefa"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "jãhili"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "da tauri"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "suna halaka"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "kuma suna barin"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "ga wasu"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "dũkiyarsu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:47:21.660506281Z",
+  "model": "glm-5.2"
+}

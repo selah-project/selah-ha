@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 68,
+  "translation": "Domin ƙafarka za ta gwiwa cikin jini, harshe karnukainka daga maƙiyai ⟨daga shi⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "תמחץ",
+      "gloss": "za ta gwiwa"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ƙafarka"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "cikin jini"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "harshe"
+    },
+    {
+      "surface": "כלביך",
+      "gloss": "karnukainka"
+    },
+    {
+      "surface": "מאיבים",
+      "gloss": "daga maƙiyai"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "⟨daga shi⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T19:59:23.046950974Z",
+  "model": "glm-5.2"
+}

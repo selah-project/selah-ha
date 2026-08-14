@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "El na, El na, don me ka bar ni? ⟨Kai ne⟩ nesa da ceto na, ⟨da⟩ kalmomin kurumina.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El na,"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El na,"
+    },
+    {
+      "surface": "למה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "ka bar ni?"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "nesa"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "da ceto na,"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨da⟩ kalmomin"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "kurumina."
+    }
+  ],
+  "timestamp": "2026-08-12T19:28:09.873901655Z",
+  "model": "glm-5.2"
+}

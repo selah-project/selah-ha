@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 1:7",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Sai ya juya baya, ya ga ni, ya kira ni, kuma na ce, ina nan.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Sai ya juya"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "baya"
+    },
+    {
+      "surface": "ויראני",
+      "gloss": "ya ga ni"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ya kira"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "kuma na ce"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ina nan"
+    }
+  ],
+  "timestamp": "2026-08-12T09:55:52.360980750Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 72,
+  "translation": "⟨Ya⟩ yi wa mutanenku hukunci cikin adalci, kuma talakanku cikin shari'a.",
+  "tokens": [
+    {
+      "surface": "יָדִ֣ין",
+      "gloss": "⟨Ya⟩ yi ... hukunci"
+    },
+    {
+      "surface": "עַמְּךָ֣",
+      "gloss": "wa mutanenku"
+    },
+    {
+      "surface": "בְצֶ֑דֶק",
+      "gloss": "cikin adalci"
+    },
+    {
+      "surface": "וַעֲנִיֶּ֥יךָ",
+      "gloss": "kuma talakanku"
+    },
+    {
+      "surface": "בְמִשְׁפָּֽט",
+      "gloss": "cikin shari'a"
+    }
+  ],
+  "timestamp": "2026-08-12T20:03:35.307300650Z",
+  "model": "glm-5.2"
+}

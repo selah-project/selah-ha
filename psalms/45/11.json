@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Saura ji, 'ya ta, ka duba, ka juye kunne ka; ka manta da mutanenka da gidan ubanka.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "saura ji"
+    },
+    {
+      "surface": "בת",
+      "gloss": "'ya ta"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "ka duba"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "ka juye"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "kunnen ka"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "ka manta"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "da mutanenka"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "da gidan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ubanka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:45:13.535093819Z",
+  "model": "glm-5.2"
+}

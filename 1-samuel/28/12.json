@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Kuma mace ta ga ⟨את⟩ Shemu'el kuma ta yi kira da babbar murya, kuma mace ta ce wa Sha'ul, tana cewa, Me ka yaudare ni? Kuma kai ⟨kai⟩ Sha'ul!",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Kuma ta ga"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemu'el"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "kuma ta yi kira"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "da murya"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "babbar"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "kuma ta ce"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tana cewa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Me"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "ka yaudare ni"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Kuma kai"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    }
+  ],
+  "timestamp": "2026-08-12T09:42:23.056775026Z",
+  "model": "glm-5.2"
+}

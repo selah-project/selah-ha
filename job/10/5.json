@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Shin, kwanankinka ⟨sunã⟩ kamar kwanakin mutum, ko shekarunka kamar kwanaken ɗan adam?",
+  "tokens": [
+    {
+      "surface": "הֲכִימֵ֣י",
+      "gloss": "kamar kwanakin"
+    },
+    {
+      "surface": "אֱנ֣וֹשׁ",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "יָמֶ֑יךָ",
+      "gloss": "kwanankinka"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שְׁ֝נוֹתֶ֗יךָ",
+      "gloss": "shekarunka"
+    },
+    {
+      "surface": "כִּ֣ימֵי",
+      "gloss": "kamar kwanaken"
+    },
+    {
+      "surface": "גָֽבֶר",
+      "gloss": "ɗan adam"
+    }
+  ],
+  "timestamp": "2026-08-12T21:47:09.854862300Z",
+  "model": "glm-5.2"
+}

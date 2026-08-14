@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "sa'an nan za su kira ni, kuma ba za namsu ba; za su neme ni da sassafe, amma ba za su same ni ba.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "sa'an nan"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "za su kira ni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "za namsu ba"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "za su neme ni da sassafe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "za su same ni ba"
+    }
+  ],
+  "timestamp": "2026-08-12T21:02:53.476406158Z",
+  "model": "glm-5.2"
+}

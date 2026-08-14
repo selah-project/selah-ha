@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 144,
+  "translation": "chesed na, da katangana, mafakata, kuma mai ceto na, garkuwata, ⟨kuma⟩ a cikinsa na nemi mafaka, wanda ke lulluɓe mutanena a ƙarƙashina.",
+  "tokens": [
+    {
+      "surface": "חַסְדִּ֥י",
+      "gloss": "chesed na"
+    },
+    {
+      "surface": "וּמְצוּדָתִי֮",
+      "gloss": "da katangana"
+    },
+    {
+      "surface": "מִשְׂגַּבִּ֪י",
+      "gloss": "mafakata"
+    },
+    {
+      "surface": "וּמְפַלְטִ֫י",
+      "gloss": "kuma mai ceto na"
+    },
+    {
+      "surface": "לִ֥י",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "מָ֭גִנִּי",
+      "gloss": "garkuwata"
+    },
+    {
+      "surface": "וּב֣וֹ",
+      "gloss": "kuma a cikinsa"
+    },
+    {
+      "surface": "חָסִ֑יתִי",
+      "gloss": "na nemi mafaka"
+    },
+    {
+      "surface": "הָרוֹדֵ֖ד",
+      "gloss": "wanda ke lulluɓe"
+    },
+    {
+      "surface": "עַמִּ֣י",
+      "gloss": "mutanena"
+    },
+    {
+      "surface": "תַחְתָּֽי",
+      "gloss": "a ƙarƙashina"
+    }
+  ],
+  "timestamp": "2026-08-12T20:56:34.104930433Z",
+  "model": "glm-5.2"
+}

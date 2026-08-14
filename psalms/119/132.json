@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Ka juya hankalinka zuwa gare ni, ka nĩma ni ni'ima, kamar lõtar da ka ke bã wa masu son sunanka.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "ka juya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zuwa gare ni"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ka nĩma ni ni'ima"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "kamar lõtar"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "masu son"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunanka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:27:29.327099082Z",
+  "model": "glm-5.2"
+}

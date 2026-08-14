@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 30:16",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuka ce: \"A'ā, amma a kan doki za mu gudu.\" Saboda haka za ku gudu! Kuma (kuka ce): \"A kan doki mai sauri za mu haura.\" Saboda haka waɗanda suke bin ku za su yi sauri!",
+  "tokens": [
+    {
+      "surface": "ותאמרו",
+      "gloss": "kuka ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a'ā"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amma"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "doki"
+    },
+    {
+      "surface": "ננוס",
+      "gloss": "za mu gudu"
+    },
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "תנוסון",
+      "gloss": "za ku gudu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kuma a kan"
+    },
+    {
+      "surface": "קל",
+      "gloss": "mai sauri"
+    },
+    {
+      "surface": "נרכב",
+      "gloss": "za mu haura"
+    },
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "יקלו",
+      "gloss": "za su yi sauri"
+    },
+    {
+      "surface": "רדפיכם",
+      "gloss": "waɗanda suke bin ku"
+    }
+  ],
+  "timestamp": "2026-08-12T13:45:09.176942375Z",
+  "model": "glm-5.2"
+}

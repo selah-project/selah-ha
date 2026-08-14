@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Wãya, saboda hanyar tawaye-suwarsu, da kuma saboda laifuffukansu an tsananta musu.",
+  "tokens": [
+    {
+      "surface": "א֭וִלִים",
+      "gloss": "Wãya"
+    },
+    {
+      "surface": "מִדֶּ֣רֶךְ",
+      "gloss": "saboda hanyar"
+    },
+    {
+      "surface": "פִּשְׁעָ֑ם",
+      "gloss": "tawaye-suwarsu"
+    },
+    {
+      "surface": "וּֽ֝מֵעֲוֺֽנֹתֵיהֶ֗ם",
+      "gloss": "da kuma saboda laifuffukansu"
+    },
+    {
+      "surface": "יִתְעַנּֽוּ",
+      "gloss": "an tsananta musu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:33:35.517905099Z",
+  "model": "glm-5.2"
+}

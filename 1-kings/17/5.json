@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 17:5",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Sai ⟨ya⟩ tafi, ⟨ya⟩ aikata a cewar Yahweh, domin ⟨ya⟩ tafi, ⟨ya⟩ zauna a cikin kogon Kerith, wanda ⟨yana⟩ gaba da Yarden.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Sai ⟨ya⟩ tafi"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "⟨ya⟩ aikata"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "a cewar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "domin ⟨ya⟩ tafi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "⟨ya⟩ zauna"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "a cikin kogon"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kerith"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨yana⟩ gaba da"
+    },
+    {
+      "surface": "פני",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-12T11:31:21.135070802Z",
+  "model": "glm-5.2"
+}

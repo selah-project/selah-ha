@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "⟨Sai⟩ ya ce, Jefa shi ƙasa! ⟨Sai⟩ ya jefa shi ƙasa, ya koma maciji, Mosheh kuma ya gudu daga gaban sa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "Jefa shi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "ya jefa shi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ya koma"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "maciji"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ya gudu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "daga gaban sa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:34:03.177047809Z",
+  "model": "glm-5.2"
+}

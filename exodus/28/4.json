@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 28:4",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Kuma waɗannan su ne tufafin da za su yi: ƙirji, da ƙwamfa, da riga, da ƙyarɗa ta auduga, kayan kai, da bel; kuma za su yi tufafin tsarkaka ga Aharon ɗan'uwanka da ƴaƴansa, domin ya zama limami gare ni.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kuma waɗannan"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "su ne tufafin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "za su yi"
+    },
+    {
+      "surface": "חשן",
+      "gloss": "ƙirji"
+    },
+    {
+      "surface": "ואפוד",
+      "gloss": "da ƙwamfa"
+    },
+    {
+      "surface": "ומעיל",
+      "gloss": "da riga"
+    },
+    {
+      "surface": "וכתנת",
+      "gloss": "da ƙyarɗa"
+    },
+    {
+      "surface": "תשבץ",
+      "gloss": "ta auduga"
+    },
+    {
+      "surface": "מצנפת",
+      "gloss": "kayan kai"
+    },
+    {
+      "surface": "ואבנט",
+      "gloss": "da bel"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "kuma za su yi"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "tufafin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsarkaka"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ga Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ɗan'uwanka"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "da ƴaƴansa"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "domin ya zama limami"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gare ni"
+    }
+  ],
+  "timestamp": "2026-08-12T01:11:21.857496980Z",
+  "model": "glm-5.2"
+}

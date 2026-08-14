@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 48:20",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 48,
+  "translation": "Kuma ya yi musu alʙerka a rãn nan, yana cewa: \"Da ke Yisra'el yake yi wa albarka, yana cewa: 'Elohim ya sanya kai kamar Efrayim da kamar Menashsheh.'\" Kuma ya sanya ⟨את⟩ Efrayin a gaban Menashsheh.",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "kuma ya yi musu alʙerka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rãn"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "da ke"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "yake yi wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "ישמך",
+      "gloss": "ya sanya kai"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כאפרים",
+      "gloss": "kamar Efrayim"
+    },
+    {
+      "surface": "וכמנשה",
+      "gloss": "da kamar Menashsheh"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kuma ya sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    }
+  ],
+  "timestamp": "2026-08-12T00:24:45.509504444Z",
+  "model": "glm-5.2"
+}

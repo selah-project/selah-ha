@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma Dawid ya hawa daga can, kuma ya zauna a katangun ʿEin-Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "kuma ya hawa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "משם",
+      "gloss": "daga can"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kuma ya zauna"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "a katangun"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ʿEin"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-08-12T09:29:17.079253081Z",
+  "model": "glm-5.2"
+}

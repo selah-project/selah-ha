@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Burden ⟨na⟩ Moab: domin a cikin dare Ar ⟨na⟩ Moab aka ruguza, aka shirgu; domin a cikin dare Kir ⟨na⟩ Moab aka ruguza, aka shirgu.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "burden"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "a cikin dare"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "aka ruguza"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "aka shirgu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "a cikin dare"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "aka ruguza"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "aka shirgu"
+    }
+  ],
+  "timestamp": "2026-08-12T13:21:41.442131185Z",
+  "model": "glm-5.2"
+}

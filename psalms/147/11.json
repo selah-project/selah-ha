@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 147,
+  "translation": "Yahweh Yana roƙon ⟨את⟩ masu tsoron Sa, ⟨את⟩ waɗanda suke jiran chesedɗinSa.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "Yana roƙon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masu tsoron Sa"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "masu tsoron Sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waɗanda suke jiran"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "waɗanda suke jiran"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "chesedɗinSa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:58:00.725243974Z",
+  "model": "glm-5.2"
+}

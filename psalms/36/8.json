@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Yawa ɗin daraja chesed ɗinka, ya Elohim! Don haka yaran adamu a cikin inuwar fuka-fukinka suna mafaka.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "yawa ɗin"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "daraja"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed ɗinka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "don haka yaran"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adamu"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "a cikin inuwar"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "fuka-fukanka"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "suna mafaka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:38:03.564203108Z",
+  "model": "glm-5.2"
+}

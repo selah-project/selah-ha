@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma Sha'ul ya tara ⟨את⟩ mutanen, ya ƙidaya su a Tela'im — dari biyu dubu sojan ƙafa, da dubu goma ⟨na⟩ mutanen Yahuda.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Kuma ya tara"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "ya ƙidaya su"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "a Tela'im"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dari biyu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "sojan ƙafa"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "da dubu goma"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    }
+  ],
+  "timestamp": "2026-08-12T09:09:36.629486469Z",
+  "model": "glm-5.2"
+}

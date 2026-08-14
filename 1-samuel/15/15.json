@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 15:15",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma Sha'ul ya ce, \"Daga Amaleki suka kawo su, waɗanda mutane suka yi tausasawa mafi kyawun garken da shanun, domin yin hadaya ga Yahweh, Elohim naka; amma ⟨את⟩ sauran mun ɓatar gaba ɗaya.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "מעמלקי",
+      "gloss": "Daga Amaleki"
+    },
+    {
+      "surface": "הביאום",
+      "gloss": "suka kawo su"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "suka yi tausasawa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "mafi kyawun"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "garken"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "da shanun"
+    },
+    {
+      "surface": "למען",
+      "gloss": "domin"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "yin hadaya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sauran"
+    },
+    {
+      "surface": "היותר",
+      "gloss": "sauran"
+    },
+    {
+      "surface": "החרמנו",
+      "gloss": "mun ɓatar gaba ɗaya"
+    }
+  ],
+  "timestamp": "2026-08-12T09:01:22.405744374Z",
+  "model": "glm-5.2"
+}

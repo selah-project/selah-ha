@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Domi Yahweh ⟨ne⟩ babba, kuma ana yaba masa sosai, kuma shi ⟨yana⟩ a tsorata a kan duka elohim.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "domi"
+    },
+    {
+      "surface": "גָדֹול",
+      "gloss": "babba"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וּמְהֻלָּל",
+      "gloss": "kuma ana yaba masa"
+    },
+    {
+      "surface": "מְאֹד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "וְנֹורָא",
+      "gloss": "kuma a tsorata"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-13T00:15:30.025873597Z",
+  "model": "glm-5.2"
+}

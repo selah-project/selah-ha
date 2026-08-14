@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "1-chronicles 6:61",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma daga kabilar Naftali ⟨an bada⟩ ⟨את⟩ Kedesh a Galili da ⟨את⟩ makiyayanta, da ⟨את⟩ Hammon da ⟨את⟩ makiyayanta, da ⟨את⟩ Kiryatayim da ⟨את⟩ makiyayanta.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kuma daga kabilar"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "a Galili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨da⟩ ⟨את⟩",
+      "marks": "makiyayanta"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "makiyayanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨da⟩ ⟨את⟩",
+      "marks": "Hammon"
+    },
+    {
+      "surface": "חמון",
+      "gloss": "Hammon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨da⟩ ⟨את⟩",
+      "marks": "makiyayanta"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "makiyayanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨da⟩ ⟨את⟩",
+      "marks": "Kiryatayim"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kiryatayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨da⟩ ⟨את⟩",
+      "marks": "makiyayanta"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "makiyayanta"
+    }
+  ],
+  "timestamp": "2026-08-13T00:05:06.731596343Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Sai Yahweh, Elohim naka, Ya sanar da mu ⟨את⟩ hanyar da za mu bi, da ⟨את⟩ maganar da za mu yi.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Sai Ya sanar da"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hanyar"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "za mu bi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a cikinta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "maganar"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "maganar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "za mu yi"
+    }
+  ],
+  "timestamp": "2026-08-12T16:21:11.618669761Z",
+  "model": "glm-5.2"
+}

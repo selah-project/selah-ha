@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Domi masu rayuwa suna sanin ⟨ce⟩ za su mutu, kuma matattu ba su sanin komai ba, kuma ba su da wani lada sauran, domi an manta da tunaninsu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "masu rayuwa"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "suna sanin"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "ce za su mutu"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "kuma matattu"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ba su"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "sanin"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "komai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma ba su da"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sauran"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wani"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "lada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domi"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "an manta da"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "tunaninsu"
+    }
+  ],
+  "timestamp": "2026-08-12T22:48:32.720608347Z",
+  "model": "glm-5.2"
+}

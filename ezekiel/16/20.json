@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma ka ɗauki ⟨את⟩ 'ya'ya maza ka da ⟨את⟩ 'ya'ya mata ka, waɗannan da ka haifa mini, ka yanka musu su, don a ci; shin kaɗan ne karuwan ka?",
+  "tokens": [
+    {
+      "surface": "וַתִּקְחִי",
+      "gloss": "Kuma ka ɗauki"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "'ya'ya maza ka"
+    },
+    {
+      "surface": "בָּנַיִךְ",
+      "gloss": "'ya'ya maza ka"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "da ⟨את⟩",
+      "marks": "'ya'ya mata ka"
+    },
+    {
+      "surface": "בְּנוֹתַיִךְ",
+      "gloss": "'ya'ya mata ka"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "יָלַדְתְּ",
+      "gloss": "ka haifa"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "mini"
+    },
+    {
+      "surface": "וַתִּזְבָּחִים",
+      "gloss": "ka yanka musu su"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "su"
+    },
+    {
+      "surface": "לֶאֱכוֹל",
+      "gloss": "don a ci"
+    },
+    {
+      "surface": "הַמְעַט",
+      "gloss": "shin kaɗan ne"
+    },
+    {
+      "surface": "מֵתִזְנָתֵךְ",
+      "gloss": "karuwan ka"
+    }
+  ],
+  "timestamp": "2026-08-12T17:07:05.433893257Z",
+  "model": "glm-5.2"
+}

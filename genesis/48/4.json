@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 48:4",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 48,
+  "translation": "Ya ce gare ni: gani, ina sa ka 'ya'ƴa, kuma ina yawaita ka, zan sanya ka zama tarin jama'o'i, kuma zan ba ⟨את⟩ ƙasar nan ga zuriyarka a bayanka mallaka har abada.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "gani"
+    },
+    {
+      "surface": "מפרך",
+      "gloss": "ina sa ka 'ya'ƴa"
+    },
+    {
+      "surface": "והרביתך",
+      "gloss": "kuma ina yawaita ka"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "zan sanya ka zama"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "tarin"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "jama'o'i"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "kuma zan ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "ga zuriyarka"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "a bayanka"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "mallaka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-12T00:24:24.784550729Z",
+  "model": "glm-5.2"
+}

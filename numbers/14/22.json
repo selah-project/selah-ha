@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 14:22",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Gaskiya duk waɗannan mazan da suka ga ⟨את⟩ ɗaukakata da ⟨את⟩ alamoma, waɗanda na yi a Mitsrayim da kuma cikin jeji, sun gwada ⟨את⟩ ni — wannan sau goma — ba su saurara muryata ba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gaskiya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mazan"
+    },
+    {
+      "surface": "הראים",
+      "gloss": "da suka ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗaukakata"
+    },
+    {
+      "surface": "כבדי",
+      "gloss": "ɗaukakata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "alamoma"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "alamoma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "na yi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "a Mitsrayim"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "da kuma cikin jeji"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "sun gwada"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ni"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "goma"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "sau"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "saurara"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "muryata"
+    }
+  ],
+  "timestamp": "2026-08-12T03:58:47.433123259Z",
+  "model": "glm-5.2"
+}

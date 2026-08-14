@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Na Dawuda, zabi. Na Yahweh ⟨ne⟩ ƙasa da cikinta, duniya da mazaunanta.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Na Dawuda"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zabi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Na Yahweh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "da cikinta"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "duniya"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "da mazaunanta"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a cikinta"
+    }
+  ],
+  "timestamp": "2026-08-12T19:31:04.709103085Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Idan da jikinsa kansa ya shiga, da jikinsa kansa zai fita. Idan shi mai ⟨mace⟩ mata ne, to ⟨kuma⟩ matarsa za ta fita tare da shi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "da jikinsa kansa"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ya shiga"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "da jikinsa kansa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "zai fita"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "mai"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "kuma za ta fita"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "matarsa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tare da shi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:03:39.263914634Z",
+  "model": "glm-5.2"
+}

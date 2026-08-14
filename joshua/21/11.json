@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 21:11",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Sai suka musu bayar ⟨את⟩ Kiryat-Arba, uban ⟨awan⟩ Anaki, wadda ita ce Hebron, a cikin tsaunin Yahuda, da ⟨את⟩ mahaɗar birnin da ke kewaye da ita.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "suka bayar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uban"
+    },
+    {
+      "surface": "הענוק",
+      "gloss": "Anaki"
+    },
+    {
+      "surface": "היא",
+      "gloss": "wadda ita ce"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a cikin tsaunin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "mahaɗar birnin"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mahaɗar birnin"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "da ke kewaye da ita"
+    }
+  ],
+  "timestamp": "2026-08-12T06:58:30.053109265Z",
+  "model": "glm-5.2"
+}

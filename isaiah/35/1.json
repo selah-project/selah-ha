@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "za su yi murna busa da ƙasar da ta busa, kuma za ta yi murna jeji, kuma za ta fure kamar furen ja.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "za su yi murna"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "jeji"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "kuma ƙasar da ta busa"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "kuma za ta yi murna"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "jeji"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "kuma za ta fure"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "kamar furen ja"
+    }
+  ],
+  "timestamp": "2026-08-12T13:52:10.794841094Z",
+  "model": "glm-5.2"
+}

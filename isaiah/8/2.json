@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma inā kira ⟨wa⟩ ni masu shaida masu aminci, ⟨את⟩ Uriyah kohein, da ⟨את⟩ Zekaryahu ɗan Yeverekyahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "Kuma inā kira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨wa⟩ ni"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "masu shaida"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "masu aminci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyah kohein"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohein"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Zekaryahu ɗan Yeverekyahu"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekaryahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yeverekyahu"
+    }
+  ],
+  "timestamp": "2026-08-12T13:07:43.097823188Z",
+  "model": "glm-5.2"
+}

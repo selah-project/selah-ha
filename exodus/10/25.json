@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 10:25",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma Mosheh ya ce: Kai ma za ka ba a hannunmu ƙwarya da ƙone-kone, mu kuma mu yi wa Yahweh Elohim mu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "za ka ba"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "a hannunmu"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "ƙwarya"
+    },
+    {
+      "surface": "ועלות",
+      "gloss": "da ƙone-kone"
+    },
+    {
+      "surface": "ועשינו",
+      "gloss": "mu kuma mu yi wa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim mu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:41:08.862297176Z",
+  "model": "glm-5.2"
+}

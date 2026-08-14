@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Yahweh ƙarfina ne, kuma garkuwata; a cikinsa zuciyata ta dogara, aka taimaka min, zuciyata ta yi murna, kuma da wațata zan gode masa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ƙarfina"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "kuma garkuwata"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a cikinsa"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ta dogara"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "aka taimaka min"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "ta yi murna"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "kuma da wațata"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "zan gode masa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:32:25.916659642Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Yisra'el ⟨an⟩ ceto a cikin Yahweh, ceto na har abada, ba za ku ji kunya ba kuma ba za a bauta muku ba har zuwa zaman-girma na har abada.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "⟨an⟩ ceto"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "a cikin Yahweh"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "ceto"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "na har abada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "za ku ji kunya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "za a bauta muku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "zaman-girma na"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-13T02:10:22.536199768Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Sai ya ce musu: \"Ku tafi ⟨na⟩ ƙarin kwanaki uku, ku koma wurina.\" Sai mutãnen suka tafi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sai ya ce"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Ku tafi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨na⟩ ƙarin"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "uku"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "ku koma"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "wurina"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "Sai suka tafi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    }
+  ],
+  "timestamp": "2026-08-12T11:23:18.141117679Z",
+  "model": "glm-5.2"
+}

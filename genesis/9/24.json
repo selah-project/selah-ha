@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma Noaɗ ya tashi daga giyarsa, kuma ya san ⟨את⟩ abin da ɗan'ƙaraminsa ya yi masa.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "kuma ya tashi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaɗ"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "daga giyarsa"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "kuma ya san"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗan'ƙaraminsa"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ƙaramin"
+    }
+  ],
+  "timestamp": "2026-08-13T01:43:52.303686692Z",
+  "model": "glm-5.2"
+}

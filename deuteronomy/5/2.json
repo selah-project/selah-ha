@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Yahweh, Elohim mu, Ya yankewa mu alkawari a Chorev.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim mu"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "Ya yankewa"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alkawari"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "a Chorev"
+    }
+  ],
+  "timestamp": "2026-08-13T01:53:49.289063149Z",
+  "model": "glm-5.2"
+}

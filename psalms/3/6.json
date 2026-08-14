@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Ni na kwanta, kuma na yi barci; na tashi, domin Yahweh yana ɗauke ni.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "na kwanta"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "kuma na yi barci"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "na tashi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "yana ɗauke ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:16:55.221279475Z",
+  "model": "glm-5.2"
+}

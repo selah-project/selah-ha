@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Kuma su hadaya hadayai na godiya, su kuma fada ayyansa cikin rera-waƙa!",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "kuma su hadaya"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "hadayai"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "na godiya"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "su kuma fada"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ayyansa"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "cikin rera-waƙa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:32:55.895282338Z",
+  "model": "glm-5.2"
+}

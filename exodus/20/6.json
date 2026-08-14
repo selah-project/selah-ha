@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "kuma Ina yiwa dubu-dubai chesed, ga masu sona, da masu kiyaye umarnaina.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "kuma Ina yiwa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "dubu-dubai"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ga masu sona"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "da masu kiyaye"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "umarnaina"
+    }
+  ],
+  "timestamp": "2026-08-12T00:51:14.060837390Z",
+  "model": "glm-5.2"
+}

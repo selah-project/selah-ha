@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 18:10",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Ya aiko ⟨את⟩ Hadoram ɗan sa zuwa ga sarkin Dawida domin ya tambaye shi salama, kuma ya gaishe shi saboda ya yaƙi da Hadadezer kuma ya ci shi — domin Hadadezer mutumin yaƙe ne ⟨na⟩ tare da Tou — kuma ⟨tare da shi⟩ dukkan kayan zinariya da azurfa da tagulla.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ya aiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadoram ɗan sa"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗan sa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "domin ya tambaye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "salama"
+    },
+    {
+      "surface": "ולברכו",
+      "gloss": "kuma ya gaishe shi"
+    },
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ya yaƙi"
+    },
+    {
+      "surface": "בהדדעזר",
+      "gloss": "da Hadadezer"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "kuma ya ci shi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "yaƙe"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "tare da Tou"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma dukkan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kayan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinariya"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "da azurfa"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "da tagulla"
+    }
+  ],
+  "timestamp": "2026-08-13T00:22:18.415687713Z",
+  "model": "glm-5.2"
+}

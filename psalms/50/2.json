@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "Daga Tsiyon, cikakken kyawawa, Elohim ya haskaka.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "Daga Tsiyon"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "cikakken"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "kyawawa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "ya haskaka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:48:52.852064643Z",
+  "model": "glm-5.2"
+}

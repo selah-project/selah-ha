@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Kuma Ya'akubu ya sāto ⟨את⟩ zuciyar Lavan bajamin, a kan lokacin da ba ya sanar da shi cewa ⟨shi⟩ yana gudu.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "kuma ya sāto"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akubu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuciyar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciyar"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "bajamin"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "lokacin da ba"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ya sanar da shi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "yana gudu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨shi⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T01:43:09.023120255Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ⟨ya⟩ dauke ni daga ramin mãgana, daga laka na yumbu, kuma ⟨ya⟩ tsayar da ƙafãfuna a kan dutsen dutse, ⟨ya⟩ tabbatar da matakan na.",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "kuma ⟨ya⟩ dauke ni"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "daga ramin"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "mãgana"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "daga laka"
+    },
+    {
+      "surface": "היון",
+      "gloss": "na yumbu"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "kuma ⟨ya⟩ tsayar da"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "dutsen dutse"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ƙafãfuna"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "⟨ya⟩ tabbatar da"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "matakan na"
+    }
+  ],
+  "timestamp": "2026-08-12T19:41:18.409011695Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 2:7",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma ʾuwarsa ta ce wa ʿyar Paroh, \"Ina tafiya in kira mace mai shayarwa daga cikin Ibraniyawa, ta shayar maka ⟨את⟩ yaron?\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ta ce"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ʾuwarsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ʿyar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "Ina tafiya"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "in kira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "mai shayarwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga cikin"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "Ibraniyawa"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "ta shayar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaron"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "yaron"
+    }
+  ],
+  "timestamp": "2026-08-12T00:29:26.798860228Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 21:16",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma Yahweh ya yi magana da Mosheh, yana cewa:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Kuma ... ya yi magana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:37:21.383292651Z",
+  "model": "glm-5.2"
+}

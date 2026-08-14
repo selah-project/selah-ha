@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Esav ya ga cewa 'ya'yan Kenaan miyagun hali ne a idon Yitschak mahaifinsa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ya ga"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "miyagun hali"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idon"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "mahaifinsa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:53:53.683487965Z",
+  "model": "glm-5.2"
+}

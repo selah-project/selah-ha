@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 109,
+  "translation": "Kuma su san cewa hannun ⟨ne⟩ wannan; Kai, Yahweh, Kai ka aikata ⟨ta⟩.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Kuma su san"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hannun"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "Kai ka aikata"
+    }
+  ],
+  "timestamp": "2026-08-12T20:36:15.725532218Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma ya faɗa: \"Domin ⟨ita⟩ bakwai matawan tumaki za ka karɓa daga hannuna, domin ta zama gare ni don shaida cewa ni ne na tono ⟨את⟩ rijiyar wannan.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya faɗa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakwai matawan tumaki"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bakwai"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "matawan tumaki"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "za ka karɓa"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "daga hannuna"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "domin"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ta zama"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "don shaida"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "ni ne na tono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rijiyar"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "rijiyar"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-11T23:42:43.986083738Z",
+  "model": "glm-5.2"
+}

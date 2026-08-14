@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 1:5",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "kuma Adonijah ɗan Haggith ya ɗaukaka kansa ⟨yana cewa⟩, \"Ni ne zan yi sarki.\" sai ya yi wa kansu motoci da mahayan dawakai da maza hamsin masu gudãna a gaban shi.",
+  "tokens": [
+    {
+      "surface": "ואדניה",
+      "gloss": "kuma Adonijah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "Haggith"
+    },
+    {
+      "surface": "מתנשא",
+      "gloss": "ya ɗaukaka kansu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨yana cewa⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "אמלך",
+      "gloss": "zan yi sarki"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "sai ya yi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wa kansa"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "motoci"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "da mahayan dawakai"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "da hamsin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maza"
+    },
+    {
+      "surface": "רצים",
+      "gloss": "masu gudãna"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "a gaban shi"
+    }
+  ],
+  "timestamp": "2026-08-12T10:45:55.615175486Z",
+  "model": "glm-5.2"
+}

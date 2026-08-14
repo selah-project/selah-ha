@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Kuma suka daure kansu ga Baʿal-Peʿor, kuma suka ci gurgororcin matattu.",
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "Kuma suka daure kansu"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ga Baʿal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peʿor"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "kuma suka ci"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "gurgororcin"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "matattu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:31:57.779516711Z",
+  "model": "glm-5.2"
+}

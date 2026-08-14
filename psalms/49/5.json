@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Zan lulle kunãtãna zuwa ga mashãl, zan buɗe a cikin kiwanãra ãhirata:",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "zan lulle"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "zuwa ga mashãl"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "kunãtãna"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "zan buɗe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "a cikin kiwanãra"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "ãhirata"
+    }
+  ],
+  "timestamp": "2026-08-12T19:46:21.616620184Z",
+  "model": "glm-5.2"
+}

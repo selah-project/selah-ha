@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma Avshalom ya aiko leƙen asiri a duk ƙabilar Yisra'el, yana cewa, \"Da kuka ji ⟨את⟩ sautin ƙaho, ku ce, 'Avshalom ya mulƙa a Ḥebron.'\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Kuma ya aiko"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "leƙen asiri"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ƙabilar"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "Da kuka ji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sautin"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sautin"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "ƙaho"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "ku ce"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya mulƙa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "a Ḥebron"
+    }
+  ],
+  "timestamp": "2026-08-12T10:20:20.149833656Z",
+  "model": "glm-5.2"
+}

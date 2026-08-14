@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Kuma ya zaɓa ⟨את⟩ kabilar Yehuda, ⟨את⟩ dutsen Tsiyon, wanda ya fi so.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "Kuma ya zaɓa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabilar"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kabilar"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dutsen"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dutsen"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ya fi so"
+    }
+  ],
+  "timestamp": "2026-08-12T20:10:10.492952901Z",
+  "model": "glm-5.2"
+}

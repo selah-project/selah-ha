@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 72,
+  "translation": "Dutsayu za su ɗauki salama ga mutane, kuma tsaunuka cikin adalci.",
+  "tokens": [
+    {
+      "surface": "יִשְׂא֤וּ",
+      "gloss": "za su ɗauki"
+    },
+    {
+      "surface": "הָרִ֓ים",
+      "gloss": "Dutsayu"
+    },
+    {
+      "surface": "שָׁ֘ל֥וֹם",
+      "gloss": "salama"
+    },
+    {
+      "surface": "לָעָ֑ם",
+      "gloss": "ga mutane"
+    },
+    {
+      "surface": "וּ֝גְבָע֗וֹת",
+      "gloss": "kuma tsaunuka"
+    },
+    {
+      "surface": "בִּצְדָקָֽה",
+      "gloss": "cikin adalci"
+    }
+  ],
+  "timestamp": "2026-08-12T20:03:35.307551441Z",
+  "model": "glm-5.2"
+}

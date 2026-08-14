@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma ya ce: \"Je, ka nemi daga kanka kayan aiki daga waje, daga ⟨את⟩ dukkan makwabta kayan aiko masu komai, kada ka rage.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Je"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "ka nemi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "daga kanka"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "kayan aiki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "waje"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "daga ⟨את⟩",
+      "marks": "dukkan makwabta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "makwabta"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "kayan aiko"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "masu komai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "ka rage"
+    }
+  ],
+  "timestamp": "2026-08-12T12:01:31.263454021Z",
+  "model": "glm-5.2"
+}

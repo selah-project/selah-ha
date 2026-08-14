@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-chronicles 6:42",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Yahweh Elohim, kada ka mayar da fuskarkin Mashíajanka ⟨ni⟩; ka tuna da chesed na Dawida bāranka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ka mayar"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskarkin"
+    },
+    {
+      "surface": "משיחיך",
+      "gloss": "Mashíajanka"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "ka tuna"
+    },
+    {
+      "surface": "לחסדי",
+      "gloss": "da chesed na"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bāranka"
+    }
+  ],
+  "timestamp": "2026-08-13T00:41:46.745239446Z",
+  "model": "glm-5.2"
+}

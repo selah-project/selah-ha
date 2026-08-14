@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Yosef ya amsa ⟨את⟩ Far'aon yana cewa: Ba ⟨a cikin⟩ ikona ⟨ba⟩; Elohim zai ba ⟨את⟩ amsar lafiyar Far'aon.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ya amsa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Far'aon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Far'aon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "Ba ⟨a cikin⟩ ikona ⟨ba⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "zai ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amsar"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "lafiyar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Far'aon"
+    }
+  ],
+  "timestamp": "2026-08-12T00:13:25.169150526Z",
+  "model": "glm-5.2"
+}

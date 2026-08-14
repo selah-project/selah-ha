@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 115,
+  "translation": "Sifofin su azurfa ne da zinariya, aikawar hannayen mutane.",
+  "tokens": [
+    {
+      "surface": "עֲצַבֵּיהֶם",
+      "gloss": "Sifofin su"
+    },
+    {
+      "surface": "כֶּסֶף",
+      "gloss": "azurfa"
+    },
+    {
+      "surface": "וְזָהָב",
+      "gloss": "da zinariya"
+    },
+    {
+      "surface": "מַעֲשֵׂה",
+      "gloss": "aikawar"
+    },
+    {
+      "surface": "יְדֵי",
+      "gloss": "hannayen"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "mutane"
+    }
+  ],
+  "timestamp": "2026-08-13T02:27:46.827008991Z",
+  "model": "glm-5.2"
+}

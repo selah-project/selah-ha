@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "A duk lokaci tufafinka su kasance fari, kuma man shafawa a kan kanka kada ya rage.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "עת",
+      "gloss": "lokaci"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "su kasance"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "tufafinka"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "fari"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "kuma man shafawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "kanka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ya rage"
+    }
+  ],
+  "timestamp": "2026-08-12T22:48:32.721303130Z",
+  "model": "glm-5.2"
+}

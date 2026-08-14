@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma yanzu, aka tsinare ⟨kai⟩ daga ƙasar, ⟨ƙasar⟩ da ta buɗe bakinta don karɓar ⟨את⟩ jinin ɗan'uwanka daga hannunka.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kuma yanzu"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "aka tsinare"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ƙasar⟩ da"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "ta buɗe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakinta"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "bakinta"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "don karɓar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jinin ɗan'uwanka"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "jinin"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ɗan'uwanka"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "daga hannunka"
+    }
+  ],
+  "timestamp": "2026-08-11T23:22:40.582739716Z",
+  "model": "glm-5.2"
+}

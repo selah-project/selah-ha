@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 65,
+  "translation": "Kuma mazaunan ƙofuna sun ji tsoro saboda alamõminka; waɗanda suka fita daga safe da yamma kai ka sa su yi murna.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "kuma suka ji tsoro"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ƙofuna"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "saboda alamõminka"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "waɗanda suka fita daga"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "safe"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "da yamma"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "kai ka sa su yi murna"
+    }
+  ],
+  "timestamp": "2026-08-12T19:56:17.545464097Z",
+  "model": "glm-5.2"
+}

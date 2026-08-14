@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Kamar abokai, kamar ɗan'uwana, na tafi ⟨a zagaye⟩; kamar mai yãma a kan uwa, baƙin ciki na sa ni lankwasa.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "kamar abokai"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "kamar ɗan'uwana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "na tafi"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "kamar mai yãma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "a kan uwa"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "baƙin ciki"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "na lankwasa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:36:04.474830313Z",
+  "model": "glm-5.2"
+}

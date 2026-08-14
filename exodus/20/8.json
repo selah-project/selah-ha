@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Ka tuna da ⟨את⟩ ranar Shabbat, don ka tsarkake ta.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Ka tuna da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ranar"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ranar"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "don ka tsarkake ta"
+    }
+  ],
+  "timestamp": "2026-08-12T00:51:14.061137938Z",
+  "model": "glm-5.2"
+}

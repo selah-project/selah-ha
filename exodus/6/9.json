@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 6:9",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Mosheh ya yi magana haka ga banʼa Yisraʼel, amma ba su saurari ⟨gare⟩ Mosheh saboda ɗan gajiyar ruhu da kuma aikin tilas mai tsanani.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ya yi magana"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "banʼa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraʼel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "suka saurari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨gare⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מקצר",
+      "gloss": "saboda ɗan gajiyar"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "ומעבדה",
+      "gloss": "da kuma aikin"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "tilas mai tsanani"
+    }
+  ],
+  "timestamp": "2026-08-12T00:31:48.214219763Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 94,
+  "translation": "El na ramuwa, Yahweh; El na ramuwa, ⟨ka⟩ bayyana.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "na ramuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "na ramuwa"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "⟨ka⟩ bayyana"
+    }
+  ],
+  "timestamp": "2026-08-12T20:22:45.752386643Z",
+  "model": "glm-5.2"
+}

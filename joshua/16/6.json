@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 16:6",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma iyakar ta fita zuwa teku — ha-Mikmetat daga arewa — kuma iyakar ta juya zuwa gabas Taʾanat־Shilo, kuma ta wuce ⟨את⟩ ta daga gabas Yanoḥa.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Kuma ta fita"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "iyakar"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "zuwa teku"
+    },
+    {
+      "surface": "המכמתת",
+      "gloss": "ha-Mikmetat"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "daga arewa"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "kuma ta juya"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "iyakar"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "zuwa gabas"
+    },
+    {
+      "surface": "תאנת",
+      "gloss": "Taʾanat־"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shilo"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "kuma ta wuce"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ta (Taʾanat־Shilo)"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ta daga gabas"
+    },
+    {
+      "surface": "ינוחה",
+      "gloss": "Yanoḥa"
+    }
+  ],
+  "timestamp": "2026-08-12T06:49:54.747120883Z",
+  "model": "glm-5.2"
+}

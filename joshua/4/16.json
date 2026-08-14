@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "«Ka umarta ⟨את⟩ firistocin, masu ɗauke da akwatin shaidar, su hau ⟨daga⟩ Urdun.»",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "ka umarta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "firistocin"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "firistocin"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "masu ɗauke da"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "shaidar"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "su hau"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨daga⟩"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Urdun"
+    }
+  ],
+  "timestamp": "2026-08-12T06:10:36.922711146Z",
+  "model": "glm-5.2"
+}

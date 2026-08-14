@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Nāmkī ne, ka cēce ni, domin nādoka-kakin da nema.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Nāmkī"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ka cēce ni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "nādoka-kakin"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "da nema"
+    }
+  ],
+  "timestamp": "2026-08-12T20:42:31.652235702Z",
+  "model": "glm-5.2"
+}

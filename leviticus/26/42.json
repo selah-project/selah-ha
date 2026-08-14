@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "kuma zan tuna ⟨את⟩ alkawarina da Ya'akov, har ⟨alkawarina⟩ ⟨את⟩ ⟨alkawarina⟩ Yits'hak, kuma ⟨alkawarina⟩ ⟨את⟩ ⟨alkawarina⟩ Avraham zan tuna, kuma ƙasar zan tuna.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "kuma zan tuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alkawarina"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alkawarina"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "har"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alkawarina"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alkawarina"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yits'hak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alkawarina"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alkawarina"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "zan tuna"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "kuma ƙasar"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "zan tuna"
+    }
+  ],
+  "timestamp": "2026-08-12T03:03:14.647251408Z",
+  "model": "glm-5.2"
+}

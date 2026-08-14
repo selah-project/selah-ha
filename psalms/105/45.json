@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Domin su kula da ƙa'idodinsa, kuma Torahs dinsa su kiyaye. Ku yabi Yah!",
+  "tokens": [
+    {
+      "surface": "בַּעֲב֨וּר",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "יִשְׁמְר֗וּ",
+      "gloss": "su kula da"
+    },
+    {
+      "surface": "חֻ֭קָּיו",
+      "gloss": "ƙa'idodinsa"
+    },
+    {
+      "surface": "וְתוֹרֹתָ֥יו",
+      "gloss": "kuma Torahs dinsa"
+    },
+    {
+      "surface": "יִנְצֹֽרוּ׃",
+      "gloss": "su kiyaye"
+    },
+    {
+      "surface": "הַֽלְל֥וּ",
+      "gloss": "Ku yabi"
+    },
+    {
+      "surface": "יָֽהּ",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-12T20:28:48.392081114Z",
+  "model": "glm-5.2"
+}

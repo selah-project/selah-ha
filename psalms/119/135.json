@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "FuskarKa ka haskaka ⟨a⟩ kan bāranka, kuma ka koya min ⟨את⟩ dokokinKa.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "fuskarKa"
+    },
+    {
+      "surface": "האר",
+      "gloss": "ka haskaka"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "kan bāranka"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "kuma ka koya min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dokokinKa"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dokokinKa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:45:14.071127866Z",
+  "model": "glm-5.2"
+}

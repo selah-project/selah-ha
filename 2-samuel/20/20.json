@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Sai Yoav ya amsa ya ce: Tsira da shi, tsira da shi ⟨daga⟩ ni, idan na hada, kuma idan na lalata.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Sai ... ya amsa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Tsira da shi"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "tsira da shi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "daga ni"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "na hada"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "na lalata"
+    }
+  ],
+  "timestamp": "2026-08-12T10:33:07.084047633Z",
+  "model": "glm-5.2"
+}

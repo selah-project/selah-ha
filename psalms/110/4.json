@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 110,
+  "translation": "Yahweh ya rantsa, kuma ba zai yi nadama ba: \"Kai ⟨kai⟩ babban firist har abada, a kan tsarin Malki-Tsedek.\"",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ya rantsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba zai"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "yi nadama ba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "babban firist"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "tsarin"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-08-12T20:36:36.247790375Z",
+  "model": "glm-5.2"
+}

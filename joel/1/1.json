@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kalmar Yahweh da ⟨ta⟩ kasance ⟨a kan⟩ Yo'el ɗan Pitu'el.",
+  "tokens": [
+    {
+      "surface": "דְּבַר",
+      "gloss": "Kalmar"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "⟨ta⟩ kasance"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨a kan⟩"
+    },
+    {
+      "surface": "יוֹאֵל",
+      "gloss": "Yo'el"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "פְּתוּאֵל",
+      "gloss": "Pitu'el"
+    }
+  ],
+  "timestamp": "2026-08-12T18:21:52.806630837Z",
+  "model": "glm-5.2"
+}

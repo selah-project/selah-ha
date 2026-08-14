@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Rãna ta ƙishirshi ⟨don⟩ Elohim, ⟨don⟩ El mai rai; inã ya zã mu in zo in ga fuskar Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "ta ƙishirshi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rãna ta"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "⟨don⟩ Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "⟨don⟩ El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "mai rai"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "inã ya zã mu"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "in zo"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "in ga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-13T02:24:24.463346445Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "a cikin wadannan kwanakan, a lokacin da sarki Achashverosh ya zauna a kan kujerar mulkin sa, wadda ⟨take⟩ a cikin Shushan ⟨babban⟩ fada.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "a cikin kwanakan"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "wadannan"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "a lokacin da ... ya zauna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kujerar"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "mulkin sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wadda"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "a cikin Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "⟨babban⟩ fada"
+    }
+  ],
+  "timestamp": "2026-08-12T22:54:29.967561717Z",
+  "model": "glm-5.2"
+}

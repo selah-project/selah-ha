@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 10:9",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Giya da baranda kada ka sha, kai da 'ya'yanka ⟨ne⟩ ⟨tare⟩ da kai, a lokacin shigar ku cikin Tagon Taro, kuma kada ku mutu — ⟨ita ce⟩ dokar har abada zuwa ga zuriyarku.",
+  "tokens": [
+    {
+      "surface": "יין",
+      "gloss": "giya"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "da baranda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "ka sha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "da 'ya'yanka"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tare da kai"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "a lokacin shigar ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tagon"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Taro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "ku mutu"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "dokar"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "zuwa ga zuriyarku"
+    }
+  ],
+  "timestamp": "2026-08-12T01:58:54.523578285Z",
+  "model": "glm-5.2"
+}

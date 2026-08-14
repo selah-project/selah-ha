@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Kuma Yahweh ya ce: Ga wuri ⟨akwai⟩ tareda ni, kuma za ka tsaya a kan dutsen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ga"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "wuri"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ tareda ni"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "kuma za ka tsaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "dutsen"
+    }
+  ],
+  "timestamp": "2026-08-12T01:20:02.010902692Z",
+  "model": "glm-5.2"
+}

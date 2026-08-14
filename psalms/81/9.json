@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 81,
+  "translation": "Saura, ya mutanena, kuma zan yi maka shaida: ya Yisra'el, idan za ka saurare ni;",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "saura"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ya mutanena"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "kuma zan yi shaida"
+    },
+    {
+      "surface": "בך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisra'el"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "za ka saurare"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-12T20:11:00.202283610Z",
+  "model": "glm-5.2"
+}

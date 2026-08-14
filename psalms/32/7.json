@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Kai Kai ne mafakata, daga damuwa Za Ka kiyaye ni; da rera waƙar tsira Za Ka kewaye ni. Selah.",
+  "tokens": [
+    {
+      "surface": "אַתָּה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "סֵתֶר",
+      "gloss": "Kai ne mafakata"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "מִצַּר",
+      "gloss": "daga damuwa"
+    },
+    {
+      "surface": "תִּצְּרֵנִי",
+      "gloss": "Za Ka kiyaye ni"
+    },
+    {
+      "surface": "רַנֵּי",
+      "gloss": "da rera waƙar"
+    },
+    {
+      "surface": "פַּלֵּט",
+      "gloss": "tsira"
+    },
+    {
+      "surface": "תְּסוֹבְבֵנִי",
+      "gloss": "Za Ka kewaye ni"
+    },
+    {
+      "surface": "סֶלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T19:36:39.742340257Z",
+  "model": "glm-5.2"
+}

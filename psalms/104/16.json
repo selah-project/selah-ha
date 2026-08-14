@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 104,
+  "translation": "Ittatan Yahweh ⟨suka⟩ cika gamsuwa — itatuwan sedar na Lebanon waɗanda ⟨Shi⟩ ya shuka.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "⟨suka⟩ cika gamsuwa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ittatun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "itatuwan sedar"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "na Lebanon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "⟨Shi⟩ ya shuka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:28:04.077077207Z",
+  "model": "glm-5.2"
+}

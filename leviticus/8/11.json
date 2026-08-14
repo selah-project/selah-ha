@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ya bura daga gare shi akan ⟨את⟩ gabobin sau bakwai, kuma ya shafa ⟨את⟩ gabobin da ⟨את⟩ duka kayan shi, da ⟨את⟩ kwandon wanka da ⟨את⟩ ƙafar shi, don tsarkake su.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "kuma ya bura"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare shi"
+    },
+    {
+      "surface": "על",
+      "gloss": "akan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "gabobin"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sau bakwai"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "sau"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "kuma ya shafa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabobin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "gabobin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "duka kayan shi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kayan shi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kwandon wanka"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "kwandon wanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙafar shi"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ƙafar shi"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "don tsarkake su"
+    }
+  ],
+  "timestamp": "2026-08-12T01:57:36.298974104Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma Yahweh zai gaji ⟨את⟩ Yahuɗa a matsayin rabonsa, a ƙasar tsarki, kuma za Ya sake zaɓar Urushalima.",
+  "tokens": [
+    {
+      "surface": "וְנָחַ֨ל",
+      "gloss": "kuma zai gaji"
+    },
+    {
+      "surface": "יְהוָ֤ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuɗa"
+    },
+    {
+      "surface": "יְהוּדָה֙",
+      "gloss": "Yahuɗa"
+    },
+    {
+      "surface": "חֶלְק֔וֹ",
+      "gloss": "rabonsa"
+    },
+    {
+      "surface": "עַ֖ל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אַדְמַ֣ת",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "הַקֹּ֑דֶשׁ",
+      "gloss": "tsarki"
+    },
+    {
+      "surface": "וּבָחַ֥ר",
+      "gloss": "kuma za Ya sake zaɓar"
+    },
+    {
+      "surface": "ע֖וֹד",
+      "gloss": "sake"
+    },
+    {
+      "surface": "בִּירוּשָׁלִָֽם",
+      "gloss": "Urushalima"
+    }
+  ],
+  "timestamp": "2026-08-12T18:59:13.805595392Z",
+  "model": "glm-5.2"
+}

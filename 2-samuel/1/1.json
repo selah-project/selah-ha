@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma ⟨ya faru⟩ a bayan mutuwar Sha'ul, kuma Dawudi ya koma daga kashe ⟨את⟩ Amaleki, kuma Dawidi ya zauna a Ziklag kwana biyu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ⟨ya faru⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "a bayan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mutuwar"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "kuma Dawudi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ya koma"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "daga kashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleki"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amaleki"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kuma ya zauna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawudi"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "a Ziklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "biyu"
+    }
+  ],
+  "timestamp": "2026-08-12T09:57:52.784518258Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Ya ce wa Yehuda su nemi ⟨את⟩ Yahweh, Elohim na ubanninsu, su kuma yi shari'a da umarni.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֨אמֶר֙",
+      "gloss": "ya ce wa"
+    },
+    {
+      "surface": "לִֽיהוּדָ֔ה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לִדְר֕וֹשׁ",
+      "gloss": "su nemi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵ֣י",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "אֲבוֹתֵיהֶ֑ם",
+      "gloss": "ubanninsu"
+    },
+    {
+      "surface": "וְלַעֲשׂ֖וֹת",
+      "gloss": "su kuma yi"
+    },
+    {
+      "surface": "הַתּוֹרָ֥ה",
+      "gloss": "shari'a"
+    },
+    {
+      "surface": "וְהַמִּצְוָֽה",
+      "gloss": "da umarni"
+    }
+  ],
+  "timestamp": "2026-08-13T02:45:58.135379042Z",
+  "model": "glm-5.2"
+}

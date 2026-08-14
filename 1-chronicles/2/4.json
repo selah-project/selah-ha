@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma Tamar, amaryarsa, ta haifa masa ⟨את⟩ Perets da ⟨את⟩ Zerach. Duk 'ya'wan Yehuda sun kasance guda biyar.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Kuma Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "amaryarsa"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ta haifa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Perets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Zerach"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Duk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'wan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "guda biyar"
+    }
+  ],
+  "timestamp": "2026-08-12T23:57:17.391285334Z",
+  "model": "glm-5.2"
+}

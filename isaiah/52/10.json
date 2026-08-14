@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 52,
+  "translation": "Yahweh ya bayyana ⟨את⟩ makãmansa na tsarki a gaban idanun dukan al'ummomi, kuma dukan ƙarshen ƙasa za su ga ⟨את⟩ taimakon Elohim mu.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "ya bayyana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makãmansa na tsarki"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "makãmansa"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "na tsarki"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "a gaban idanun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "al'ummomi"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "kuma za su ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ƙarshen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taimakon Elohim mu"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "taimakon"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim mu"
+    }
+  ],
+  "timestamp": "2026-08-12T14:23:56.292649809Z",
+  "model": "glm-5.2"
+}

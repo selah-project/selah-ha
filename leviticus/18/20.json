@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma zuwa ga matar abokinka ba za ka ba da kwanciyarka domin zuriya ba, domin a ɓata ⟨kai⟩ da ita.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Kuma zuwa ga"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "matar"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "abokinka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "za ka ba da"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "kwanciyarka"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "domin zuriya"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "domin a ɓata"
+    },
+    {
+      "surface": "בה",
+      "gloss": "da ita"
+    }
+  ],
+  "timestamp": "2026-08-12T02:28:39.077780745Z",
+  "model": "glm-5.2"
+}

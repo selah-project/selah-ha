@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 4:5",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "A sanar a Yehudah, kuma a yi ganmau a Yerushalaim, ku yi ƙara, kuma ku busa ƙaho a ƙasa, ku kira da murya, ku cika, kuma ku ce: Ku taru, mu shiga cikin biranen da aka kāfa.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "A sanar"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "a Yehudah"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "kuma a yi ganmau a Yerushalaim"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "ku yi ganmau"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "kuma ku ce"
+    },
+    {
+      "surface": "ותקעו",
+      "gloss": "kuma ku busa"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ƙaho"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasa"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ku kira"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ku cika"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "kuma ku ce"
+    },
+    {
+      "surface": "האספו",
+      "gloss": "Ku taru"
+    },
+    {
+      "surface": "ונבואה",
+      "gloss": "mu shiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "biranen"
+    },
+    {
+      "surface": "המבצר",
+      "gloss": "da aka kāfa"
+    }
+  ],
+  "timestamp": "2026-08-12T14:58:58.722783020Z",
+  "model": "glm-5.2"
+}

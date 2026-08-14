@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma Mesha sarkin Mo'av ya kasance makiyin tumaki, kuma yana mayar wa sarkin Yisra'el lambobi ɗari dubu da kuma lambobi ɗari dubu tunkulan ulu.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Kuma Mesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'av"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "makiyin tumaki"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "kuma yana mayar wa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ga sarkin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "lambobi"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "da kuma ɗari"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "tunkulan"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ulu"
+    }
+  ],
+  "timestamp": "2026-08-12T11:55:49.632126749Z",
+  "model": "glm-5.2"
+}

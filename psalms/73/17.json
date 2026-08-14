@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 73,
+  "translation": "Harcikina na shiga masuɗdin El, ⟨a lokacin⟩ na fahimci ƙarshensu.",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "harcikina na"
+    },
+    {
+      "surface": "אָ֭בוֹא",
+      "gloss": "shiga"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "מִקְדְּשֵׁי",
+      "gloss": "masuɗdin"
+    },
+    {
+      "surface": "אֵ֑ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אָ֝בִ֗ינָה",
+      "gloss": "na fahimci"
+    },
+    {
+      "surface": "לְאַחֲרִיתָֽם",
+      "gloss": "ƙarshensu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:05:18.940374088Z",
+  "model": "glm-5.2"
+}

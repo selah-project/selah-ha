@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 147,
+  "translation": "Domin ⟨shi⟩ ya ƙarfafa ragowar kofofin ⟨ki⟩, ya albarkacci 'ya'yan ⟨ki⟩ a cikin ⟨ki⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ya ƙarfafa"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "ragowar"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "kofofin ⟨ki⟩"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ya albarkacci"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "'ya'yan ⟨ki⟩"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "a cikin ⟨ki⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:58:53.108075530Z",
+  "model": "glm-5.2"
+}

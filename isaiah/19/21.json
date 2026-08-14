@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 19:21",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma Yahweh za a san ⟨shi⟩ ga Mitsrayim, kuma Mitsrayim za su san ⟨את⟩ Yahweh a rana ⟨ta⟩ wancan, kuma za su bada hadaya da gabinkuwa, kuma za su ɗora alkawari ga Yahweh, kuma za su cika ⟨shi⟩.",
+  "tokens": [
+    {
+      "surface": "ונודע",
+      "gloss": "kuma za a san"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "ga Mitsrayim"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "kuma za su san"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wancan"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "kuma za su bada"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "hadaya"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "da gabinkuwa"
+    },
+    {
+      "surface": "ונדרו",
+      "gloss": "kuma za su ɗora"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "alkawari"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "kuma za su cika"
+    }
+  ],
+  "timestamp": "2026-08-13T02:08:27.316615642Z",
+  "model": "glm-5.2"
+}

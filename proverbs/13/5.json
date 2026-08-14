@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "⟨Da⟩ kalmar ƙarya mutum mai adalci yana ƙi, amma mugun mutum yana wari, kuma yana jin kunya.",
+  "tokens": [
+    {
+      "surface": "דְּבַר",
+      "gloss": "kalmar"
+    },
+    {
+      "surface": "שֶׁ֭קֶר",
+      "gloss": "ƙarya"
+    },
+    {
+      "surface": "יִשְׂנָ֣א",
+      "gloss": "yana ƙi"
+    },
+    {
+      "surface": "צַדִּ֑יק",
+      "gloss": "mutum mai adalci"
+    },
+    {
+      "surface": "וְ֝רָשָׁ֗ע",
+      "gloss": "mugun mutum"
+    },
+    {
+      "surface": "יַבְאִ֥ישׁ",
+      "gloss": "yana wari"
+    },
+    {
+      "surface": "וְיַחְפִּֽיר",
+      "gloss": "kuma yana jin kunya"
+    }
+  ],
+  "timestamp": "2026-08-12T21:13:59.548634137Z",
+  "model": "glm-5.2"
+}

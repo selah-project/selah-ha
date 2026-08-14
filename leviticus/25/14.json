@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma idan kuna siyar da sayarwa ga ⟨jijiya⟩-ran ku, ko kuma siye daga hannun ⟨jijiya⟩-ran ku, kada ku zalunta kowa ⟨את⟩ ɗan'uwansa.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "kuna siyar da"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "sayarwa"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "ga jijiya-ran ku"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko kuma"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "siye"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "jijiya-ran ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "ku zalunta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗan'uwansa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ɗan'uwansa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:53:00.122155620Z",
+  "model": "glm-5.2"
+}

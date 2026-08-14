@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "‘Ya’yan Bigvai, dubu biyu da hamsin da shida.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "‘ya’yan"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "Bigvai"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dubu biyu"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "hamsin"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "da shida"
+    }
+  ],
+  "timestamp": "2026-08-12T23:20:41.005531916Z",
+  "model": "glm-5.2"
+}

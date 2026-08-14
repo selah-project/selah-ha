@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 86,
+  "translation": "Koya min hanya ta, Yahweh, ina tafiya a cikin gaskiyarka; haɗa zuciyata ⟨domin⟩ ta ji tsoron sunanka.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "koya min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "hanya ta"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ina tafiya"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "a cikin gaskiyarka"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "haɗa"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "domin ta ji tsoro"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunanka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:14:48.324374049Z",
+  "model": "glm-5.2"
+}

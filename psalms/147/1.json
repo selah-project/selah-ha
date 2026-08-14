@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 147,
+  "translation": "Ku yi yabo ga Yah, domin ⟨shi⟩ nagari ne, ku rera waƙa ga Elohim mu, domin ⟨shi⟩ mai nishadantarwa ne, ⟨kuma⟩ yabo ya dace.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ku yi yabo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nagari"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ku rera waƙa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "mai nishadantarwa"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ya dace"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "yabo"
+    }
+  ],
+  "timestamp": "2026-08-12T20:59:11.685796362Z",
+  "model": "glm-5.2"
+}

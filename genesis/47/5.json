@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Sa'an nan Paroh ya faɗa wa Yosef, yana cewa: \"Ubanka da ƴan'uwanka sun zo gare ka.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sa'an nan ya faɗa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "Ubanka"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "da ƴan'uwanka"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sun zo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gare ka"
+    }
+  ],
+  "timestamp": "2026-08-12T00:23:52.703731217Z",
+  "model": "glm-5.2"
+}

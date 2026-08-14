@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 53,
+  "translation": "Wawaye ya faɗa a cikin zuciyarsa, babu Elohim. Sun lalace, sun yi abin ƙyama, ⟨babu⟩ wanda yake aikata kyautatawa babu.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Wawaye"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "a cikin zuciyarsa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "Sun lalace"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "sun yi abin ƙyama"
+    },
+    {
+      "surface": "עול",
+      "gloss": "mugunta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨babu⟩ wanda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yake aikata"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kyautatawa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:51:41.827663898Z",
+  "model": "glm-5.2"
+}

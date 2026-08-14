@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma Abimelekh ya ce wa Avraham, \"Me ka gani, ⟨har⟩ ka aikata ⟨את⟩ abin nan?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelekh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Me"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ka gani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨har⟩"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ka aikata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin nan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "abin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nan"
+    }
+  ],
+  "timestamp": "2026-08-11T23:40:06.987178279Z",
+  "model": "glm-5.2"
+}

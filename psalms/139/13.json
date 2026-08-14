@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 139,
+  "translation": " domin Kai ka halo ⟨את⟩ idanun na, ka saƙa ni cikin cikin uwa ⟨ta⟩ ni.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אַ֭תָּה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "קָנִ֣יתָ",
+      "gloss": "ka halo"
+    },
+    {
+      "surface": "כִלְיֹתָ֑י",
+      "gloss": "idanun na"
+    },
+    {
+      "surface": "תְּ֝סֻכֵּ֗נִי",
+      "gloss": "ka saƙa ni"
+    },
+    {
+      "surface": "בְּבֶ֣טֶן",
+      "gloss": "cikin cikin"
+    },
+    {
+      "surface": "אִמִּֽי",
+      "gloss": "uwa ni"
+    }
+  ],
+  "timestamp": "2026-08-13T23:54:50.093337256Z",
+  "model": "glm-5.2"
+}

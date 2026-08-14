@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 113,
+  "translation": "Wanda ya sa mara haihuwa ⟨ta⟩ zauna a cikin gida, ⟨ta zama⟩ uwar ƴaƴa marmari — ku yabi Yah!",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "Wanda ya sa ⟨ta⟩ zauna"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "mara haihuwa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a cikin gida"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ta zama⟩ uwar"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ƴaƴa"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "marmari"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ku yabi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-12T20:34:23.496908803Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma za ka so ⟨את⟩ Yahweh, Elohim naka, da dukkan zuciyarka, da dukkan ranyarka, da dukkan ƙarfinka.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "Kuma za ka so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "zuciyarka"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ranyarka"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "ƙarfinka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:01:41.230005699Z",
+  "model": "glm-5.2"
+}

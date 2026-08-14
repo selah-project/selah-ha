@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "domin idan za su faɗi, ɗaya zai ɗaga ⟨את⟩ abokinsa; amma ɗaya da ya faɗi kuma babu na biyu don ya ɗaga shi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "za su faɗi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "zai ɗaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abokinsa"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "abokinsa"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "amma"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ɗayan"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "da ya faɗi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "na biyu"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "don ya ɗaga shi"
+    }
+  ],
+  "timestamp": "2026-08-12T22:40:46.177706929Z",
+  "model": "glm-5.2"
+}

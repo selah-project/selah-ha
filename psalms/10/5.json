@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Hanyoyinsa suna da ƙarfi a kowane lokaci; hukuncenka na sama suna nesa da gaban sa; duk maƙiyansa, yana yi musu iska.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "suna da ƙarfi"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "hanyoyinsa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a kowane"
+    },
+    {
+      "surface": "עת",
+      "gloss": "lokaci"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "sama"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukuncenka"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "suna nesa da gaban sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "maƙiyansa"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "yana yi musu iska"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-08-12T19:20:34.086671675Z",
+  "model": "glm-5.2"
+}

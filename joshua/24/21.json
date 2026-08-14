@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma ⟨mutanen⟩ suka faɗa wa Yahushaʿ, \"A'ah! Ha'aka, ⟨shi⟩ Yahweh muke bauta wa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma suka faɗa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨mutanen⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahushaʿ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "A'ah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha'aka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "muke bauta wa"
+    }
+  ],
+  "timestamp": "2026-08-12T07:09:15.003655252Z",
+  "model": "glm-5.2"
+}

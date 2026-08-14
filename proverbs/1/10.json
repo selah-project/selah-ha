@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Ɗana, idan masu zunubi suka yaudare ka, kada ka yarda.",
+  "tokens": [
+    {
+      "surface": "בְּנִ֡י",
+      "gloss": "Ɗana"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "יְפַתּ֥וּךָ",
+      "gloss": "suka yaudare ka"
+    },
+    {
+      "surface": "חַ֝טָּאִ֗ים",
+      "gloss": "masu zunubi"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תֹּבֵֽא",
+      "gloss": "ka yarda"
+    }
+  ],
+  "timestamp": "2026-08-12T21:00:24.644392542Z",
+  "model": "glm-5.2"
+}

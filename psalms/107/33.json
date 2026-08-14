@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Yana yin koguna zuwa jeji, da ƙudan ruwa zuwa ƙasar ƙishirwa.",
+  "tokens": [
+    {
+      "surface": "יָשֵׂ֣ם",
+      "gloss": "Yana yin"
+    },
+    {
+      "surface": "נְהָר֣וֹת",
+      "gloss": "koguna"
+    },
+    {
+      "surface": "לְמִדְבָּ֑ר",
+      "gloss": "zuwa jeji"
+    },
+    {
+      "surface": "וּמֹצָ֥אֵי",
+      "gloss": "da ƙudan"
+    },
+    {
+      "surface": "מַ֝֗יִם",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "לְצִמָּאֽוֹן",
+      "gloss": "zuwa ƙasar ƙishirwa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:58.889280613Z",
+  "model": "glm-5.2"
+}

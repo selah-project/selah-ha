@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma Yithro, surukin Moshe, ya riƙe ⟨את⟩ Tsipora, matar Moshe, bayan an kore ta ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ya riƙe"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yithro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "surukin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsipora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "matar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "an kore ta"
+    }
+  ],
+  "timestamp": "2026-08-12T00:57:30.333092278Z",
+  "model": "glm-5.2"
+}

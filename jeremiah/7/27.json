@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 7:27",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma za ka yi musu magana ⟨da⟩ ⟨את⟩ dukkan waɗannan kalmomi, amma ba za saurare ka ba; kuma za ka kira su, amma ba za amsa ka ba.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "Kuma za ka yi magana"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan waɗannan kalmomi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kalmomi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "za saurare"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "Kuma za ka kira"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "su"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "יענוכה",
+      "gloss": "za amsa ka"
+    }
+  ],
+  "timestamp": "2026-08-12T15:09:28.671815121Z",
+  "model": "glm-5.2"
+}

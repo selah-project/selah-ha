@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma Yithro, firist na Midiyan, surukin Moshe, ya ji ⟨את⟩ duk abin da Elohim ya yi wa Moshe da kuma wa Yisra'el, mutanensa, cewa Yahweh ya fitar da ⟨את⟩ Yisra'el daga Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ya ji"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yithro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "firist"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "na Midiyan"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "surukin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duk abin da Elohim ya yi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "wa Moshe"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "da kuma wa Yisra'el"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mutanensa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ya fitar da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "daga Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:57:30.332822310Z",
+  "model": "glm-5.2"
+}

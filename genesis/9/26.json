@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma ya ce: \"La'ana ta tabbata ga Yahweh, Elohim na Shem, kuma Kena'an ⟨ya⟩ zama bawa ⟨ne⟩ gare su.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "La'ana ta tabbata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ⟨ya⟩ zama"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "bawa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "gare su"
+    }
+  ],
+  "timestamp": "2026-08-11T23:26:00.405152979Z",
+  "model": "glm-5.2"
+}

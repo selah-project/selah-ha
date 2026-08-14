@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Sai ya ɗauke shi, ya kawo shi zuwa ga mahaifiyarsa, kuma ya zauna a kan gwiwoyinta har zuwa tsakkar rana, kuma ya mutu.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "sai ya ɗauke shi"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "ya kawo shi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mahaifiyarsa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kuma ya zauna"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "gwiwoyinta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "tsakkar rana"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kuma ya mutu"
+    }
+  ],
+  "timestamp": "2026-08-12T12:00:58.457083270Z",
+  "model": "glm-5.2"
+}

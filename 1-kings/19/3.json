@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma ⟨lokacin da⟩ ya gani ⟨haka⟩, ya tashi, ya tafi don rainsa, kuma ya zuwa Be'er Sheva, wadda ⟨ta⟩ Yahuda, kuma ya bar ⟨את⟩ bāransa can.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "kuma ya gani"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ya tashi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "don"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "rainsa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kuma ya zuwa"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wadda"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ta Yahuda"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "kuma ya bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bāransa"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "bāransa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    }
+  ],
+  "timestamp": "2026-08-12T11:39:46.536114547Z",
+  "model": "glm-5.2"
+}

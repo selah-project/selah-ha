@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 30:2",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Haka ya faɗa Yahweh, Elohim na Yisra'el, ⟨yana cewa⟩: Rubuta wa kanka ⟨את⟩ dukan kalamarkan da na faɗa maka, ⟨a cikin⟩ littafi.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Haka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨yana cewa⟩"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Rubuta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wa kanka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukan kalamarkin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kalamarkin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "na faɗa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a cikin⟩"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "littafi"
+    }
+  ],
+  "timestamp": "2026-08-12T15:56:38.066304948Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Suka kama ⟨את⟩ matan da ke cikinta, daga ƙarami har zuwa babba; ba su kashe wani mutum ba, amma suka kora suka tafi hanya tafiya.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Suka kama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matan"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "matan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ke cikinta"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "daga ƙarami"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "babba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "su kashe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wani mutum"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "amma suka kora"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "suka tafi"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "hanya tafiya"
+    }
+  ],
+  "timestamp": "2026-08-12T09:44:55.612650155Z",
+  "model": "glm-5.2"
+}

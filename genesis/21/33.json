@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 21:33",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma ⟨ya⟩ yi ⟨a⟩ shuka itacen eshel a Be'erSheva, kuma ya kira can a cikin sunan Yahweh, El Olam.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "kuma ya shuka"
+    },
+    {
+      "surface": "אשל",
+      "gloss": "itacen eshel"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "a Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kuma ya kira"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "a cikin sunan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Olam"
+    }
+  ],
+  "timestamp": "2026-08-11T23:39:43.948853407Z",
+  "model": "glm-5.2"
+}

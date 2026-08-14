@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 139,
+  "translation": "Da ƙiyayya ta gaba ɗaya na ƙi su; sun zama maƙiyata.",
+  "tokens": [
+    {
+      "surface": "תַּכְלִ֣ית",
+      "gloss": "ta gaba ɗaya"
+    },
+    {
+      "surface": "שִׂנְאָ֣ה",
+      "gloss": "ƙiyayya"
+    },
+    {
+      "surface": "שְׂנֵאתִ֑ים",
+      "gloss": "na ƙi su"
+    },
+    {
+      "surface": "לְ֝אוֹיְבִ֗ים",
+      "gloss": "maƙiyata"
+    },
+    {
+      "surface": "הָ֣יוּ",
+      "gloss": "sun zama"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "ma"
+    }
+  ],
+  "timestamp": "2026-08-12T20:52:57.667092207Z",
+  "model": "glm-5.2"
+}

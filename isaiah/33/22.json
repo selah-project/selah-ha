@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 33:22",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Domi Yahweh Alƙalinmu ne, Yahweh Mai ɗora doka ⟨ne⟩, Yahweh Sarkinmu ⟨ne⟩; shi ne zai mu cece mu.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "domi"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שֹׁפְטֵ֔נוּ",
+      "gloss": "Alƙalinmu"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מְחֹקְקֵ֑נוּ",
+      "gloss": "Mai ɗora doka"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מַלְכֵּ֖נוּ",
+      "gloss": "Sarkinmu"
+    },
+    {
+      "surface": "ה֥וּא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "יוֹשִׁיעֵֽנוּ",
+      "gloss": "zai mu cece mu"
+    }
+  ],
+  "timestamp": "2026-08-12T13:48:49.712378771Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 145,
+  "translation": "Dukkan ayyuwanka za su gode maka, Yahweh; kuma masu kaunarka za su barka ka.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "za su gode maka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Dukkan"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ayyuwanka"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "kuma masu kaunarka"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "za su barka ka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:57:56.606946951Z",
+  "model": "glm-5.2"
+}

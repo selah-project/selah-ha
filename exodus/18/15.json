@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Mosheh ya ce wa surukinsa: \"Dõmin mutãne suna zuwa gare ni don neman Elohim.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "wa surukinsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Dõmin"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "suna zuwa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãne"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "don neman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:54:39.685526943Z",
+  "model": "glm-5.2"
+}

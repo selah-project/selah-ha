@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma ˈya’ya Kehat: ‘Amram, da Yitsar, da Khebron, da ‘Uzi’el.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "kuma ya’ya"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "‘Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "da Yitsar"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "da Khebron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "da ‘Uzi’el"
+    }
+  ],
+  "timestamp": "2026-08-13T00:01:56.041935977Z",
+  "model": "glm-5.2"
+}

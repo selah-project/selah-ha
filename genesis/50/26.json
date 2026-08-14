@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 50:26",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "Kuma Yosef ya mutu, ɗan ɗari da goma shekaru; suka shafa masa turare, aka sa shi cikin akwati a Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Kuma ya mutu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "da goma"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "suka shafa masa turare"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi",
+      "marks": "shi"
+    },
+    {
+      "surface": "ויישם",
+      "gloss": "aka sa shi"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "cikin akwati"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "a Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:25:29.907009751Z",
+  "model": "glm-5.2"
+}

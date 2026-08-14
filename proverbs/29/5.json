@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 29:5",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Mutumin da ke shafƁ wasiyya ga abokinsa, ⟨yana⟩ baza gidan kama a kan ƙafafunsa.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "yana shafƁ wasiyya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "abokinsa"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "gidan kama"
+    },
+    {
+      "surface": "פורש",
+      "gloss": "yana baza"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "ƙafafunsa"
+    }
+  ],
+  "timestamp": "2026-08-12T21:33:22.384778526Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 1:28",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma sarki Dauda ya amsa, kuma ya ce, Ku kira min Bath-Sheba. Kuma ta shigo a gaban sarki, kuma ta tsaya a gaban sarki.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Kuma…ya amsa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dauda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "Ku kira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "Bath"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheba"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "Kuma ta shigo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "kuma ta tsaya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    }
+  ],
+  "timestamp": "2026-08-12T10:49:36.940624585Z",
+  "model": "glm-5.2"
+}

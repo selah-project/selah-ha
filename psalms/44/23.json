@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Domin muku ana kashe mu duka yini, ana ƙidayarmu kamar tumaki na yanka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "muku"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "ana kashe mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yini"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "ana ƙidayarmu"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kamar tumaki"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "na yanka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:44:10.129083645Z",
+  "model": "glm-5.2"
+}

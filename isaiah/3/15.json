@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 3:15",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Me ya sa kûkun na tarkaza mutana, kuma kûkun niƙa fuskokin matalauta? inilar Adonai, Yahweh Tsaba'ot.",
+  "tokens": [
+    {
+      "surface": "מַלְכֶּם",
+      "gloss": "Me ya sa"
+    },
+    {
+      "surface": "תְּדַכְּא֣וּ",
+      "gloss": "kûkun na tarkaza"
+    },
+    {
+      "surface": "עַמִּ֔י",
+      "gloss": "mutana"
+    },
+    {
+      "surface": "וּפְנֵ֥י",
+      "gloss": "kuma fuskokin"
+    },
+    {
+      "surface": "עֲנִיִּ֖ים",
+      "gloss": "matalauta"
+    },
+    {
+      "surface": "תִּטְחָ֑נוּ",
+      "gloss": "kûkun niƙa"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "inilar"
+    },
+    {
+      "surface": "אֲדֹנָ֥י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יְהוִ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צְבָאֽוֹת",
+      "gloss": "Tsaba'ot"
+    }
+  ],
+  "timestamp": "2026-08-12T12:59:59.855963241Z",
+  "model": "glm-5.2"
+}

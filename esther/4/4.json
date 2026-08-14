@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 4:4",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma 'yan matan Ester da bāfātanta sun zo, suka fada mata, sai sarauniya ta dame sosai, kuma ta aika tufafi don sa ⟨את⟩ Mordəḵai da don cire μgun tufarsa daga gare shi, amma bai karɓa ba.",
+  "tokens": [
+    {
+      "surface": "ותבואינה",
+      "gloss": "Kuma suka zo"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "'yan matan"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "וסריסיה",
+      "gloss": "da bāfātanta"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "suka fada"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mata"
+    },
+    {
+      "surface": "ותתחלחל",
+      "gloss": "sai ta dame"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "sarauniya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "kuma ta aika"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "tufafi"
+    },
+    {
+      "surface": "להלביש",
+      "gloss": "don sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordəḵai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordəḵai"
+    },
+    {
+      "surface": "ולהסיר",
+      "gloss": "da don cire"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "μgun tufarsa"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "daga gare shi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "karɓa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:55:57.520489739Z",
+  "model": "glm-5.2"
+}

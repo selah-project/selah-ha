@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 16:24",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Ya kuma wanke ⟨את⟩ jikinsa da ruwa a wuri mai tsarki, ya sa ⟨את⟩ tufafinsa, ya kuma fita, ya kuma yi ⟨את⟩ ƙorarsa da ⟨את⟩ ƙorar mutanen, ya kuma yi fansa a madadinsa kuma a madadin mutanen.",
+  "tokens": [
+    {
+      "surface": "ורחץ",
+      "gloss": "ya kuma wanke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jikinsa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jikinsa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "da ruwa"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "a wuri"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "mai tsarki"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "ya kuma sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tufafinsa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "tufafinsa"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ya kuma fita"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ya kuma yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙorarsa"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "ƙorarsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙorar mutanen"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ƙorar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ya kuma yi fansa"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "a madadinsa"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "kuma a madadin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    }
+  ],
+  "timestamp": "2026-08-12T02:33:01.638743576Z",
+  "model": "glm-5.2"
+}

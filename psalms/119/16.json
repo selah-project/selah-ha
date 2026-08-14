@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "A cikin ɗokokinka zan ji daɗi, ba zan manta da kalmarka ba.",
+  "tokens": [
+    {
+      "surface": "בְּחֻקֹּתֶ֥יךָ",
+      "gloss": "a cikin ɗokokinka"
+    },
+    {
+      "surface": "אֶֽשְׁתַּעֲשָׁ֑ע",
+      "gloss": "zan ji daɗi"
+    },
+    {
+      "surface": "לֹ֭א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אֶשְׁכַּ֣ח",
+      "gloss": "zan manta"
+    },
+    {
+      "surface": "דְּבָרֶֽךָ",
+      "gloss": "da kalmarka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:28:14.242868140Z",
+  "model": "glm-5.2"
+}

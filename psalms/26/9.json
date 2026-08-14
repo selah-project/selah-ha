@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kada ka tattara ⟨ne⟩ tare da masu zunubi rai na, kuma tare da mutanen jini rayuwa ta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kada ka"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "tattara"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "masu zunubi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rai na"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kuma tare da"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "jini"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "rayuwa ta"
+    }
+  ],
+  "timestamp": "2026-08-12T19:29:20.782947387Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Sa'an nan ya tara ⟨את⟩ duka shugabannin Isra'ila, da ⟨את⟩ kohenna, da ⟨את⟩ Līwawa.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Sa'an nan ya tara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka shugabannin Isra'ila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "shugabannin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "da kohenna"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "da Līwawa"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:00.707869938Z",
+  "model": "glm-5.2"
+}

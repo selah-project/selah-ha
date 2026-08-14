@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 116,
+  "translation": "Igiyoyin mutuwa sun kewaye ni, kuma ɗaure Sheol sun same ni; na sami matsanāniyya da baƙin ciki.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "sun kewaye ni"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "Igiyoyin"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mutuwa"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "kuma ɗaure"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "sun same ni"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "matsanāniyya"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "kuma baƙin ciki"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "na sami"
+    }
+  ],
+  "timestamp": "2026-08-12T20:40:04.921032992Z",
+  "model": "glm-5.2"
+}

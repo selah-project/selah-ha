@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Yahweh, a cikin tangarda sun nema ⟨ka⟩; sun zuba marmari na sirri, horo na ka a kansu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "a cikin tangarda"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "sun nema ⟨ka⟩"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "sun zuba"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "marmari na sirri"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "horo na ka"
+    },
+    {
+      "surface": "למו",
+      "gloss": "a kansu"
+    }
+  ],
+  "timestamp": "2026-08-12T13:34:43.302474468Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma ⟨don⟩ gefe ⟨na⟩ biyu ⟨na⟩ mashkwanci, ⟨don⟩ gefen arewa, ashirin ⟨ne⟩ tsokoki.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "Kuma ⟨don⟩ gefe"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "⟨na⟩ mashkwanci"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "⟨na⟩ biyu"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "⟨don⟩ gefen"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "arewa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "tsokoki"
+    }
+  ],
+  "timestamp": "2026-08-13T01:47:15.041296046Z",
+  "model": "glm-5.2"
+}

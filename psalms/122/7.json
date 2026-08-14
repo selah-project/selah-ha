@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 122,
+  "translation": "Bari salama ta kasance cikin ganuwar ki, da kwanciyar hankali cikin fadar ki.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "bari … ta kasance"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salama"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "cikin ganuwar ki"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "kwanciyar hankali"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "cikin fadar ki"
+    }
+  ],
+  "timestamp": "2026-08-12T20:47:54.064642029Z",
+  "model": "glm-5.2"
+}

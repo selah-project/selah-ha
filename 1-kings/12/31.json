@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma ya yi ⟨את⟩ gidan mahara, kuma ya naɗa firistoci daga ƙarshen mutane, waɗanda ba su kasance ⟨daga⟩ ƴaƴan Lewi ba.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan mahara"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "במות",
+      "gloss": "mahara"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "kuma ya naɗa"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "firistoci"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "daga ƙarshen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "היו",
+      "gloss": "su kasance"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "⟨daga⟩ ƴaƴan"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    }
+  ],
+  "timestamp": "2026-08-12T11:22:15.415067908Z",
+  "model": "glm-5.2"
+}

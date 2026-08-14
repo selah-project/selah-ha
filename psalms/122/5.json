@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 122,
+  "translation": "Domi a can ⟨ne⟩ akwai kujeru na shari'a, kujeru na gidan Dawuda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "a can"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "⟨ne⟩ akwai"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "kujeru"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "na shari'a"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "kujeru"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "na gidan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawuda"
+    }
+  ],
+  "timestamp": "2026-08-12T20:47:54.064311673Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 24:13",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Su ⟨sun kasance⟩ a cikin masu tawaye ga haske, ba su san hanyoyinsa ba, kuma ba su zauna a hanyoyinsa.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Su"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨sun kasance⟩"
+    },
+    {
+      "surface": "במרדי",
+      "gloss": "a cikin masu tawaye"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ga haske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הכירו",
+      "gloss": "su san"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "hanyoyinsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "su zauna"
+    },
+    {
+      "surface": "בנתיבתיו",
+      "gloss": "a hanyoyinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:02:42.759752705Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Jinkirtu ku kuma yi mamaki; makanta ku kuma ku zama makafi; sun maye, amma ba da giya ba; sun karkata, amma ba da barasa ba.",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "jinkirtu ku"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "kuma yi mamaki"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "makanta ku"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "kuma ku zama makafi"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "sun maye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "יין",
+      "gloss": "da giya"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "sun karkata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "da barasa"
+    }
+  ],
+  "timestamp": "2026-08-12T13:42:53.213514058Z",
+  "model": "glm-5.2"
+}

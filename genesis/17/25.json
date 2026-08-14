@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma Yishma'el ɗan sa ⟨ya kasance⟩ ɗan shekara goma sha uku a lokacin da aka kafa shi ⟨את⟩ bijimin gabbansa.",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "Kuma Yishma'el"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗan sa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "uku"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "goma"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "a lokacin da aka kafa shi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijimin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "bijimi"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "gabbansa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:34:35.730080606Z",
+  "model": "glm-5.2"
+}

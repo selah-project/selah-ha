@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "da kuma daga saman tsoffin duwatsu, da kuma mafi kyawon tsaunukan har abada.",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "da kuma daga saman"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "tsoffin"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "da kuma mafi kyawon"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "tsaunuka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-12T06:00:56.717305318Z",
+  "model": "glm-5.2"
+}

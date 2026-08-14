@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Maganganun tawayen mugun mutum a cikin zuciyata: babu tsoron Elohim a gaban idanunsa.",
+  "tokens": [
+    {
+      "surface": "נְאֻֽם",
+      "gloss": "maganganun"
+    },
+    {
+      "surface": "פֶּ֣שַׁע",
+      "gloss": "tawayen"
+    },
+    {
+      "surface": "לָ֭רָשָׁע",
+      "gloss": "mugun mutum"
+    },
+    {
+      "surface": "בְּקֶ֣רֶב",
+      "gloss": "a cikin"
+    },
+    {
+      "surface": "לִבִּ֑י",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "אֵֽין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "פַּ֥חַד",
+      "gloss": "tsoron"
+    },
+    {
+      "surface": "אֱ֝לֹהִ֗ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לְנֶ֣גֶד",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "עֵינָֽיו",
+      "gloss": "idanunsa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:38:09.780500329Z",
+  "model": "glm-5.2"
+}

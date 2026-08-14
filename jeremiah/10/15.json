@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Abu ɗariya ne su, aikin zamba ne; a lokacin ziyartarsu za su lalace.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Abu ɗariya ne"
+    },
+    {
+      "surface": "המה",
+      "gloss": "su"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "zamba ne"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "a lokacin"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "ziyartarsu"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "za su lalace"
+    }
+  ],
+  "timestamp": "2026-08-12T15:10:38.180309598Z",
+  "model": "glm-5.2"
+}

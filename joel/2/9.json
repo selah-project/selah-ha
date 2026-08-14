@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "A cikin gari suna gudan gamsuwa, a kan bango suna gudu, a cikin gidaje suna hawa, ta tagogi suna shiga ⟨kamar⟩ ɓaro.",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "a cikin gari"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "suna gudan gamsuwa"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "a kan bango"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "suna gudu"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "a cikin gidaje"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "suna hawa"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ta"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "tagogi"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "suna shiga"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "kamar ɓaro"
+    }
+  ],
+  "timestamp": "2026-08-13T02:20:20.375911633Z",
+  "model": "glm-5.2"
+}

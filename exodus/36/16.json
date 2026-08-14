@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Kuma ya haɗa ⟨את⟩ gatari biyar kaɗai, kuma ⟨את⟩ gatari shida kaɗai.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "Kuma ya haɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gatari biyar"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "biyar"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "gatari"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "kaɗai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "gatari shida"
+    },
+    {
+      "surface": "שש",
+      "gloss": "shida"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "gatari"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "kaɗai"
+    }
+  ],
+  "timestamp": "2026-08-12T01:35:40.836565581Z",
+  "model": "glm-5.2"
+}

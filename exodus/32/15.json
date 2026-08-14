@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 32:15",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Sai Moshe Ya juya, Ya sauko daga dutsen, alfan biyu na shaidar suna cikin hannunSa; allunan an rubuta su daga ɓangarorin su biyu, daga wannan gefe da daga wannan gefe ana rubutunsu.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Sai Ya juya"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "Ya sauko"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dutsen"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "alfan biyu"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "na"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "shaidar"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "suna cikin hannunSa"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "allunan"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "an rubuta"
+    },
+    {
+      "surface": "משני",
+      "gloss": "daga ɓangarorin su biyu"
+    },
+    {
+      "surface": "עבריהם",
+      "gloss": ""
+    },
+    {
+      "surface": "מזה",
+      "gloss": "daga wannan gefe"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "da daga wannan gefe"
+    },
+    {
+      "surface": "הם",
+      "gloss": ""
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "ana rubutunsu"
+    }
+  ],
+  "timestamp": "2026-08-12T01:25:05.363099711Z",
+  "model": "glm-5.2"
+}

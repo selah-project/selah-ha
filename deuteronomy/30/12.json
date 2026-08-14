@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Ba cikin samaniya ⟨take⟩ ⟨ba⟩, domin a ce: 'Wa zai hau sama domin mu, ya ɗauko ta gare mu, ya sa mu ji ⟨את⟩ ta, kuma mu yi ta?'",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "cikin samaniya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨take⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "domin a ce"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wa"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "zai hau"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sama domin mu"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": ""
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "ya ɗauko ta"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "gare mu"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "ya sa mu ji"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ta"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "kuma mu yi ta"
+    }
+  ],
+  "timestamp": "2026-08-12T05:52:53.000704931Z",
+  "model": "glm-5.2"
+}

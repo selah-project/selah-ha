@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 6:15",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Sai bawan mutumin Elohim ya tashi da asuba ya fita, sai ga shi, rundana tana kewaye ⟨את⟩ birnin, da dawakai da motocin yaki. Sai yaronsa ya ce masa: Tsoho! ubangijina, mene ne za mu yi?",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Sai ya tashi da asuba"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "bawan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "ya tsgi"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ya fita"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sai ga shi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "rundana"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "tana kewaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birnin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "da dawakai"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "da motocin yaki"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Sai ya ce"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "yaronsa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Tsoho!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ubangijina"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "mene ne"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "za mu yi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:06:52.631881237Z",
+  "model": "glm-5.2"
+}

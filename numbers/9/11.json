@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "A wata na biyu, a ranar sha huɗu, tsakanin waɗannan maraɗe, za su yi ⟨את⟩ shi; da gurasar da ba ta yi yisti ba da ganyen ciwo za su ci shi.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "A wata"
+    },
+    {
+      "surface": "השני",
+      "gloss": "na biyu"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "a ranar sha huɗu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨huɗu⟩"
+    },
+    {
+      "surface": "יום",
+      "gloss": "⟨ranar⟩"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "waɗannan maraɗe"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "za su yi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "על",
+      "gloss": "da"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "gurasar da ba ta yi yisti ba"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "da ganyen ciwo"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "za su ci shi"
+    }
+  ],
+  "timestamp": "2026-08-12T03:42:35.149568260Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 23:24",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Ka yi magana da 'ya'yan Isra'ila, ka ce: A cikin wata na bakwai, a rana ta ɗaya ⟨na⟩ watan, za ⟨kasance⟩ a gare ku tubali, abin tunawa, ƙarar ƙaho, kira na tsarki.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Ka yi magana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka ce"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "A cikin wata"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "na bakwai"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "a rana ta ɗaya"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "na watan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "za kasance"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a gare ku"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "tubali"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "abin tunawa"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "ƙarar ƙaho"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "kira"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "na tsarki"
+    }
+  ],
+  "timestamp": "2026-08-12T02:50:50.882665327Z",
+  "model": "glm-5.2"
+}

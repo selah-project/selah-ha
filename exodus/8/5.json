@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 8:5",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Mosheh ya ce wa Paroh, \"Ka yi mana girma ⟨a kaina⟩: ina kwanan da za ni roƙa domin ka, da bayinka, da jama'anka, don a bace ⟨את⟩ kwaɗayi daga gare ka da kuma daga gidajen ka, sai dai a cikin kogin su ci ⟨sauran⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "wa Paroh"
+    },
+    {
+      "surface": "התפאר",
+      "gloss": "ka yi mana girma"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a kaina"
+    },
+    {
+      "surface": "למתי",
+      "gloss": "ina kwanan"
+    },
+    {
+      "surface": "אעתיר",
+      "gloss": "za ni roƙa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "domin ka"
+    },
+    {
+      "surface": "ולעבדיך",
+      "gloss": "da bayinka"
+    },
+    {
+      "surface": "ולעמך",
+      "gloss": "da jama'anka"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "don a bace"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "kwaɗayi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "daga gare ka"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "da kuma daga gidajen ka"
+    },
+    {
+      "surface": "רק",
+      "gloss": "sai dai"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "a cikin kogin"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "su ci ⟨sauran⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T00:37:58.123483475Z",
+  "model": "glm-5.2"
+}

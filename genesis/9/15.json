@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 9:15",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma na tuna ⟨da⟩ ⟨את⟩ alkawarina, wanda ke tsakanina da tsakaninku, da tsakanin dukkan rai mai rai, a cikin dukkan jini; kuma ba za a kasance ba ruwa su zama ambaliya don su lalata dukkan jini.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "kuma na tuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alkawarina"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alkawarina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tsakanina"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "da tsakaninku"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da tsakanin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rai"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "mai rai"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a cikin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "dukkan jini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba za a kasance ba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "su zama"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sake"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "ambaliya"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "don su lalata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "jini"
+    }
+  ],
+  "timestamp": "2026-08-11T23:27:30.378735494Z",
+  "model": "glm-5.2"
+}

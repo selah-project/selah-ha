@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Yahweh ya yi nadama cewa ya yi ⟨את⟩ mutum a ƙasa, kuma ya ji baƙin ciki a cikin zuciyarsa.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ya yi nadama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutum"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasa"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "ya ji baƙin ciki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a cikin"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zuciyarsa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:26:39.486860885Z",
+  "model": "glm-5.2"
+}

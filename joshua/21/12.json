@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Amma ⟨את⟩ gonar birnin da ⟨את⟩ ƙauyukanta suka baiwa Kalev ɗan Yefune a matsayin mulkinsa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "amma ⟨את⟩",
+      "marks": "gonar birnin"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "gonar"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙauyukanta"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "ƙauyukanta"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "suka baiwa"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "a matsayin mulkinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T06:58:30.053268316Z",
+  "model": "glm-5.2"
+}

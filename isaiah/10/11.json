@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Shin, ba kamar yadda na yi wa Shomeron da gumakanta, haka zan yi wa Yerushalaim da abububan bautar ta ⟨ba⟩?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Shin ba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "na yi"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "wa Shomeron"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "da gumakanta"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "zan yi"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "wa Yerushalaim"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "da abubuwan bautar ta"
+    }
+  ],
+  "timestamp": "2026-08-12T13:10:56.506507136Z",
+  "model": "glm-5.2"
+}

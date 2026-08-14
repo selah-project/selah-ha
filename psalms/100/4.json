@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 100,
+  "translation": "Ku shiga ƙofofinsa cikin gaisuwa, da kuma gidajensa cikin yabo, ku gode masa, ku yi albarka ga sunansa.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Ku shiga"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "ƙofofinsa"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "cikin gaisuwa"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "da kuma gidajensa"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "cikin yabo"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ku gode"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ku yi albarka"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ga sunansa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:25:10.020525298Z",
+  "model": "glm-5.2"
+}

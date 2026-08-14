@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma su sa su ɗauki laifi na kuskure, a ciyar da su ⟨את⟩ abubuwan tsarkinsu; domin ni ne Yahweh wanda nake tsarkake su.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "kuma su sa su ɗauki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ su"
+    },
+    {
+      "surface": "עון",
+      "gloss": "laifi"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "na kuskure"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "a ciyar da su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abubuwan tsarkinsu"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "abubuwan tsarkinsu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "wanda nake tsarkake su"
+    }
+  ],
+  "timestamp": "2026-08-12T02:40:31.402774970Z",
+  "model": "glm-5.2"
+}

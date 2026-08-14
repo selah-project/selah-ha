@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma Dawida ya yi shawara da shugabannin dubu da ⟨na⟩ ɗari, ga kowane shugaba.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "Kuma ya yi shawara"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "עם",
+      "gloss": "da"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "shugabannin"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "da ⟨na⟩ ɗari"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ga kowane"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "shugaba"
+    }
+  ],
+  "timestamp": "2026-08-13T00:17:08.529543852Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma zan azabtar ⟨את⟩ zuriyar Dawuda domin wannan, amma ba dukan kwana ba.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "Kuma zan azabtar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuriyar Dawuda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zuriyar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "domin"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "amma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kwana"
+    }
+  ],
+  "timestamp": "2026-08-12T11:21:11.919919571Z",
+  "model": "glm-5.2"
+}

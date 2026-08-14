@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "ƙansan maka da suka kaifi, ⟨mutane⟩ sun faɗi ƙarƙashinka, ⟨suna⟩ cikin zuciyoyin maƙiyan sarki.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "ƙansan maka"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "da suka kaifi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "⟨mutane⟩"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "ƙarƙashinka"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "sun faɗi"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "cikin zuciyoyin"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "maƙiyan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    }
+  ],
+  "timestamp": "2026-08-12T19:46:42.948496591Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 114,
+  "translation": "Daga gaban Adonai, yã ƙasa, girgiza! Daga gaban Eloah na Ya'ƙub!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "yã ƙasa girgiza"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨ƙasa⟩"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "na Ya'ƙub"
+    }
+  ],
+  "timestamp": "2026-08-12T20:37:25.943908242Z",
+  "model": "glm-5.2"
+}

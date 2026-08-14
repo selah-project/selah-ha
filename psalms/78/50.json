@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Ya shimfida hanyar fushinsa — ba ya tsare mutanensa daga mutuwa, kuma rayukansu ya mika ga annoba.",
+  "tokens": [
+    {
+      "surface": "יְפַלֵּ֥ס",
+      "gloss": "Ya shimfida"
+    },
+    {
+      "surface": "נָתִ֗יב",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "לְאַ֫פּ֥וֹ",
+      "gloss": "fushinsa"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba ya"
+    },
+    {
+      "surface": "חָשַׂ֣ךְ",
+      "gloss": "tsare"
+    },
+    {
+      "surface": "מִמָּ֣וֶת",
+      "gloss": "daga mutuwa"
+    },
+    {
+      "surface": "נַפְשָׁ֑ם",
+      "gloss": "mutanensa"
+    },
+    {
+      "surface": "וְ֝חַיָּתָ֗ם",
+      "gloss": "kuma rayukansu"
+    },
+    {
+      "surface": "לַדֶּ֥בֶר",
+      "gloss": "ga annoba"
+    },
+    {
+      "surface": "הִסְגִּֽיר",
+      "gloss": "ya mika"
+    }
+  ],
+  "timestamp": "2026-08-12T20:10:37.157996341Z",
+  "model": "glm-5.2"
+}

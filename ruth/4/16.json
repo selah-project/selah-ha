@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma Na'omi ta ɗauki yaron, ta sanya shi a cikinta, ta kuma zama ⟨ce⟩ masa uwar-goya.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "ta kuma ɗauka"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Na'omi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaron"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "yaron"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "ta sanya shi"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "a cikinta"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ta kuma zama"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "uwar-goya"
+    }
+  ],
+  "timestamp": "2026-08-12T22:27:54.996411781Z",
+  "model": "glm-5.2"
+}

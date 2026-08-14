@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Domin ga kowane nasiha akwai lokaci da shari'a, domin mugguntar ⟨ta⟩ mutum tana yawa a kansa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ga kowane"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nasiha"
+    },
+    {
+      "surface": "יש",
+      "gloss": "akwai"
+    },
+    {
+      "surface": "עת",
+      "gloss": "lokaci"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "da shari'a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "mugguntar"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "tana yawa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:49:45.026305105Z",
+  "model": "glm-5.2"
+}

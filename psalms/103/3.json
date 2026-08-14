@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 103,
+  "translation": "Wanda ke gafartawa dukan laifukanka, wanda ke warkar da dukan cutocinka,",
+  "tokens": [
+    {
+      "surface": "הַסֹּלֵ֥חַ",
+      "gloss": "wanda ke gafartawa"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "עֲוֺנֵ֑כִי",
+      "gloss": "laifukanka"
+    },
+    {
+      "surface": "הָ֝רֹפֵ֗א",
+      "gloss": "wanda ke warkar da"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "תַּחֲלֻאָֽיְכִי",
+      "gloss": "cutocinka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:28:21.659710666Z",
+  "model": "glm-5.2"
+}

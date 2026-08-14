@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Domin da yanzu dā, da na turo ⟨את⟩ hannuwa na, da na yi ⟨את⟩ maka ₐʾōṯₖₐ, da ⟨את⟩ mutanenka, da annoba, da ka bace daga ƙasa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "da yanzu dā"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "da na turo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannuwa na"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hannuwa na"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "da na yi"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ maka ₐʾōṯₖₐ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mutanenka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mutanenka"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "da annoba"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "da ka bace"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:39:20.700813151Z",
+  "model": "glm-5.2"
+}

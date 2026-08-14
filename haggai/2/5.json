@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "⟨את⟩ kalmar da na ɗaɗa ⟨את⟩ ku a lokacin fitarku daga Mitsrayim, da RuhuNa tana tsayawa cikinku, kada ku ji tsoro.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalmar"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kalmar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "na ɗaɗa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "a lokacin fitarku"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "daga Mitsrayim"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "da RuhuNa"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "tana tsayawa"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "cikinku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ku ji tsoro"
+    }
+  ],
+  "timestamp": "2026-08-12T18:54:53.526329927Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Domi Yahweh ya mayar da ⟨את⟩ girman Yaʿakov, kamar girman Isra'el; domin masu zubarwa sun zubar da su, kuma ƴan'uwansu sun lalata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ya mayar da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "girman"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "girman"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaʿakov"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "kamar girman"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "sun zubar da su"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "masu zubarwa"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "ƴan'uwansu"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "sun lalata"
+    }
+  ],
+  "timestamp": "2026-08-12T18:47:22.025635892Z",
+  "model": "glm-5.2"
+}

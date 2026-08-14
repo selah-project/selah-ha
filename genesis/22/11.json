@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 22:11",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma mai gadi na Yahweh ya kira shi daga sama, ya kuma ce: \"Avraham, Avraham!\" Kuma ⟨ya⟩ ce: \"Ina nan.\"",
+  "tokens": [
+    {
+      "surface": "וַיִּקְרָ֨א",
+      "gloss": "ya kira"
+    },
+    {
+      "surface": "אֵלָ֜יו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "מַלְאַ֤ךְ",
+      "gloss": "mai gadi"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הַשָּׁמַ֔יִם",
+      "gloss": "sama"
+    },
+    {
+      "surface": "וַיֹּ֖אמֶר",
+      "gloss": "ya kuma ce"
+    },
+    {
+      "surface": "אַבְרָהָ֣ם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אַבְרָהָ֑ם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וַיֹּ֖אמֶר",
+      "gloss": "ya kuma ce"
+    },
+    {
+      "surface": "הִנֵּֽנִי",
+      "gloss": "Ina nan"
+    }
+  ],
+  "timestamp": "2026-08-11T23:41:27.943349606Z",
+  "model": "glm-5.2"
+}

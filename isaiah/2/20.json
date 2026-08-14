@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "A rãn ⟨nan⟩ mutum zai jefa ⟨את⟩ ƙaryar allolan azurfa ⟨sa⟩, da kuma ⟨את⟩ ƙaryar allolan zinari ⟨sa⟩, waɗanda suka yi wa ⟨kansu⟩ don bauta, ga ƙurciyu da kuma jemagu.",
+  "tokens": [
+    {
+      "surface": "בַּיּוֹם",
+      "gloss": "A rãn"
+    },
+    {
+      "surface": "הַהוּא",
+      "gloss": "nan"
+    },
+    {
+      "surface": "יַשְׁלִיךְ",
+      "gloss": "zai jefa"
+    },
+    {
+      "surface": "הָאָדָם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "ƙaryar allolan azurfa"
+    },
+    {
+      "surface": "אֱלִילֵי",
+      "gloss": "ƙaryar allolan"
+    },
+    {
+      "surface": "כַּסְפּוֹ",
+      "gloss": "azurfa ⟨sa⟩"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "da kuma ⟨את⟩",
+      "marks": "ƙaryar allolan zinari"
+    },
+    {
+      "surface": "אֱלִילֵי",
+      "gloss": "ƙaryar allolan"
+    },
+    {
+      "surface": "זְהָבוֹ",
+      "gloss": "zinari ⟨sa⟩"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "עָשׂוּ",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "wa"
+    },
+    {
+      "surface": "לְהִשְׁתַּחֲוֺת",
+      "gloss": "don bauta"
+    },
+    {
+      "surface": "לַחְפֹּר",
+      "gloss": "ga ƙurciyu"
+    },
+    {
+      "surface": "פֵּרוֹת",
+      "gloss": "rami"
+    },
+    {
+      "surface": "וְלָעֲטַלֵּפִים",
+      "gloss": "da kuma jemagu"
+    }
+  ],
+  "timestamp": "2026-08-13T02:07:13.402033697Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma ta kira ⟨את⟩ sunansa Yosef, ta ce, \"Yahweh ya ƙara min ɗa ɗaya.\"",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "kuma ta kira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunansa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ta ce"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ya ƙara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗa"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ɗaya"
+    }
+  ],
+  "timestamp": "2026-08-11T23:52:59.556930356Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Ga shi, tana nan kana magana da sarki can, ni ma zan shiga bayanka, kuma zan cika ⟨את⟩ kalmomin ka.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ga shi"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "tana nan"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "kana magana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    },
+    {
+      "surface": "עם",
+      "gloss": "da"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ni ma"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "zan shiga"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "bayanka"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "kuma zan cika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalmomin ka"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "kalmomin ka"
+    }
+  ],
+  "timestamp": "2026-08-12T10:46:47.971472192Z",
+  "model": "glm-5.2"
+}

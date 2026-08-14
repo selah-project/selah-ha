@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 78:57",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Kuma suka juya baya, kuma suka yaudari kamar ƙasansu; an juya su kamar bakan zamba.",
+  "tokens": [
+    {
+      "surface": "ויסגו",
+      "gloss": "suka juya baya"
+    },
+    {
+      "surface": "ויבגדו",
+      "gloss": "kuma suka yaudari"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "kamar ƙasansu"
+    },
+    {
+      "surface": "נהפכו",
+      "gloss": "an juya su"
+    },
+    {
+      "surface": "כקשת",
+      "gloss": "kamar bakan"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "zamba"
+    }
+  ],
+  "timestamp": "2026-08-12T20:09:15.938310951Z",
+  "model": "glm-5.2"
+}

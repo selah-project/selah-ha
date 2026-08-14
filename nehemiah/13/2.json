@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 13:2",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Domin ba su gamsar da ⟨את⟩ 'ya'yan Yisra'el da gurasar buroda da ruwa, ⟨kuma⟩ ya ɗauki haya a kansa ⟨את⟩ Bil'am don la'anarsa, amma Elohim mu ya juya la'anar zuwa alherrin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "su gamsar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'ya'yan Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "da gurasar buroda"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "da ruwa"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "⟨kuma⟩ ya ɗauki haya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bil'am"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bil'am"
+    },
+    {
+      "surface": "לקללו",
+      "gloss": "don la'anarsa"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "⟨amma⟩ ya juya"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim mu"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "la'anar"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "zuwa alherrin"
+    }
+  ],
+  "timestamp": "2026-08-12T23:53:18.348551719Z",
+  "model": "glm-5.2"
+}

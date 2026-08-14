@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma Shemu'el ya kwanta har safe, kuma ya buɗe ⟨את⟩ ƙofofin gidan Yahweh. Kuma Shemu'el yana jin tsoron faɗa ⟨את⟩ ganiwar ga Eli.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "kuma ya kwanta"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "safe"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "kuma ya buɗe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙofofin"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ƙofofin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "kuma Shemu'el"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "yana jin tsoron"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "faɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ganiwar"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "ganiwar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-08-12T08:33:30.523224415Z",
+  "model": "glm-5.2"
+}

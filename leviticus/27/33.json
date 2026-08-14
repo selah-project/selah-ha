@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 27:33",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Ba za a duba tsakanin nagari da mugu ba, kuma ba za a mayar da shi ba; amma idan an mayar da shi, to ⟨shi⟩ da maya gurbinsa za su kasance tsarkaka, ba a fansa ba.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יבקר",
+      "gloss": "za a duba"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nagari"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "da mugu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "ימירנו",
+      "gloss": "za a mayar da shi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "amma idan"
+    },
+    {
+      "surface": "המר",
+      "gloss": "an mayar"
+    },
+    {
+      "surface": "ימירנו",
+      "gloss": "da shi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "to"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "da maya gurbinsa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "za su kasance"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsarkaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "a fansa"
+    }
+  ],
+  "timestamp": "2026-08-12T03:01:00.017862271Z",
+  "model": "glm-5.2"
+}

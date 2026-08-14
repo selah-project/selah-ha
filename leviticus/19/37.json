@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma ku kiyaye ⟨את⟩ dukkan ƙa'idodina da ⟨את⟩ dukkan hukuncaina, kuma ku yi ⟨את⟩ su; ni ⟨ne⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "kuma ku kiyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan ƙa'idodina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ƙa'idodina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan hukuncaina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukuncaina"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "kuma ku yi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ su"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T02:33:30.916528361Z",
+  "model": "glm-5.2"
+}

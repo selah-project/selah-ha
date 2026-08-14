@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Sa'an nan na ji ⟨את⟩ sautin kalmominSa, kuma a lokacin da na ji ⟨את⟩ sautin kalmominSa, ni kaina na kasance cikin bargo mai zurfi a kan fuskata, kuma fuskata ⟨ta karkas⟩ kasa.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "na ji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sautin"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sautin"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "kalmominSa"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "kuma a lokacin da na ji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sautin"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sautin"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "kalmominSa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "na kasance"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "cikin bargo mai zurfi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskata"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "kuma fuskata"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "kasa"
+    }
+  ],
+  "timestamp": "2026-08-12T23:17:49.699198698Z",
+  "model": "glm-5.2"
+}

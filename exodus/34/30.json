@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Kuma Aharon da dukkan 'ya'yan Isira'ilu sun ga ⟨את⟩ Mosheh, sai gani, haske yana fita daga fatar fuskarsa, kuma sun ji tsoro daga kusantawa gare shi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Kuma sun ga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isira'ilu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sai gani"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "haske yana fita"
+    },
+    {
+      "surface": "עור",
+      "gloss": "daga fatar"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuskarsa"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "kuma sun ji tsoro"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "daga kusantawa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gare shi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:22:17.359081808Z",
+  "model": "glm-5.2"
+}

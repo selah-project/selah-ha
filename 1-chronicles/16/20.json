@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma suna tafiya daga wata al'umma zuwa wata al'umma, kuma daga wata masarauta zuwa wata kabila ⟨ta⟩ ⟨wata⟩.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "Kuma suna tafiya"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "daga wata al'umma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "wata al'umma"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "kuma daga wata masarauta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wata kabila"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ta wata"
+    }
+  ],
+  "timestamp": "2026-08-13T00:15:13.504303712Z",
+  "model": "glm-5.2"
+}

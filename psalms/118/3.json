@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 118,
+  "translation": "Ya ce ⟨su ce⟩ yanzu ɗangin Aharon: domin har abada chesed ⟨nasa⟩.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Ya ce ⟨su ce⟩"
+    },
+    {
+      "surface": "נא",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ɗangin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed ɗinSa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:40:24.069453689Z",
+  "model": "glm-5.2"
+}

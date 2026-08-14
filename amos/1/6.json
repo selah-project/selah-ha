@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 1:6",
+  "book": "amos",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Haka ya ce Yahweh: Saboda laifuka uku na Azzah, da kuma huɗu, ba zan mayar da ⟨shi⟩ ba; domin sun kora gudun hijira gabaɗaya, don mika su ga Edom.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Haka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "Saboda"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "uku"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "laifuka"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "na Azzah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da kuma"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "huɗu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "zan mayar da"
+    },
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "הגלותם",
+      "gloss": "sun kora gudun hijira"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "gudun hijira"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "gabaɗaya"
+    },
+    {
+      "surface": "להסגיר",
+      "gloss": "don mika su"
+    },
+    {
+      "surface": "לאדום",
+      "gloss": "ga Edom"
+    }
+  ],
+  "timestamp": "2026-08-12T18:25:16.035191592Z",
+  "model": "glm-5.2"
+}

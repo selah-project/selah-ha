@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma ⟨ya faru⟩, a lokacin da Yahweh ke ɗaukar ⟨את⟩ Eliyahu a cikin guguwar sama, sai Eliyahu da Elisha suka tafi daga haGilgal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ⟨ya faru⟩"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "a lokacin da ake ɗauka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "a cikin guguwar"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "sai ya tafi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "da Elisha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "haGilgal"
+    }
+  ],
+  "timestamp": "2026-08-12T11:55:45.577577478Z",
+  "model": "glm-5.2"
+}

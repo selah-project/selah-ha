@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Muna addu'a ga Elohim mu, kuma muka tsayar da tsaro a kansu rana da dare daga gare su.",
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "Muna addu'a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim mu"
+    },
+    {
+      "surface": "ונעמיד",
+      "gloss": "kuma muka tsayar da"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "tsaro"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "a kansu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "rana"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "da dare"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "daga gare su"
+    }
+  ],
+  "timestamp": "2026-08-12T23:39:14.133083281Z",
+  "model": "glm-5.2"
+}

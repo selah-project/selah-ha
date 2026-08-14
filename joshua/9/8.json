@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 9:8",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Suka ce wa Yehoshua, «Bayinka mu ne.» Kuma Yehoshua ya ce musu, «Waƙe ku? Kuma daga ina kuke zuwa?»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "bayinka"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "מי",
+      "gloss": "waƙe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "kuma daga ina"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "kuke zuwa"
+    }
+  ],
+  "timestamp": "2026-08-12T06:26:37.677143847Z",
+  "model": "glm-5.2"
+}

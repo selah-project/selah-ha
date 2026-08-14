@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ciyawa mai kaɗaɗe da ciyayi masu kaɗaɗe za ta yi maka girma, kuma za ka ci ⟨את⟩ ciyayar gona.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Kuma ciyawa mai kaɗaɗe"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "da ciyayi masu kaɗaɗe"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "za ta yi girma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "kuma za ka ci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciyayar gona"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ciyayar"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "gona"
+    }
+  ],
+  "timestamp": "2026-08-11T23:19:54.675035525Z",
+  "model": "glm-5.2"
+}

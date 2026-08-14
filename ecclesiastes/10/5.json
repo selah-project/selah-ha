@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Akwai wata cuta da na gani a ƙarƙashin rana, kamar kuskure da yake fita daga gaban ⟨babban⟩ mai mulki.",
+  "tokens": [
+    {
+      "surface": "יֵ֣שׁ",
+      "gloss": "akwai"
+    },
+    {
+      "surface": "רָעָ֔ה",
+      "gloss": "cuta"
+    },
+    {
+      "surface": "רָאִ֖יתִי",
+      "gloss": "da na gani"
+    },
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "a ƙarƙashin"
+    },
+    {
+      "surface": "הַשָּׁ֑מֶשׁ",
+      "gloss": "rana"
+    },
+    {
+      "surface": "כִּשְׁגָגָ֕ה",
+      "gloss": "kamar kuskure"
+    },
+    {
+      "surface": "שֶׁיֹּצָ֖א",
+      "gloss": "da yake fita"
+    },
+    {
+      "surface": "מִלִּפְנֵ֥י",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "הַשַּׁלִּֽיט",
+      "gloss": "⟨babban⟩ mai mulki"
+    }
+  ],
+  "timestamp": "2026-08-12T22:45:32.398800916Z",
+  "model": "glm-5.2"
+}

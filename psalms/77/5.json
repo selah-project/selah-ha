@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 77,
+  "translation": "Ka riƙe tsaron idanun na, na firgita ⟨kuma⟩ ba na magana ba.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "ka riƙe"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "tsaron"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "idanun na"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "na firgita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨kuma⟩ ba"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "na magana ba"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:25.556036969Z",
+  "model": "glm-5.2"
+}

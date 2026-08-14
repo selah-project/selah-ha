@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 12:7",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Sa'an nan kuma Natan ya ce wa Dawuda, \"Kai ne mutumin! Haka ce Yahweh, Elohim na Yisra'el, yake cewa: Ni na shafa ka man akan ⟨a matsayin⟩ sarki a kan Yisra'el, kuma ni na tsirkar ka daga hannun Sha'ul.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "כה",
+      "gloss": "haka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yake cewa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "na Yisra'el"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "na shafa ka man"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "a matsayin sarki"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "הצלתיך",
+      "gloss": "na tsirkar ka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    }
+  ],
+  "timestamp": "2026-08-12T10:12:26.307903617Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Ka fita daga jirgin, kai da matarka da ɗukkanku da matan ɗukkanku ⟨tare da⟩ ⟨את⟩ kai.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Ka fita"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "jirgin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "da matarka"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "da ɗukkanku"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "da matan"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ɗukkanku"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨tare da⟩ kai"
+    }
+  ],
+  "timestamp": "2026-08-11T23:24:51.626914791Z",
+  "model": "glm-5.2"
+}

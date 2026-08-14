@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 37:18",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma ⟨suka⟩ gan ⟨shi⟩ daga nesa, kafin ya kusa da su, suka yi makirci ⟨a kansa⟩ don kashe shi.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Kuma ⟨suka⟩ gan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "daga nesa"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "kafin"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "ya kusa"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "da su"
+    },
+    {
+      "surface": "ויתנכלו",
+      "gloss": "suka yi makirci"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "a kansa"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "don kashe shi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:07:17.975343116Z",
+  "model": "glm-5.2"
+}

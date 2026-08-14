@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Kuma suka ƙara har yanzu zunubi ⟨a kansa⟩, tawaye ga Elyon a cikin busasshiyar ƙasa.",
+  "tokens": [
+    {
+      "surface": "וַיּוֹסִ֣יפוּ",
+      "gloss": "Kuma suka ƙara"
+    },
+    {
+      "surface": "ע֭וֹד",
+      "gloss": "har yanzu"
+    },
+    {
+      "surface": "לַחֲטֹ֣א",
+      "gloss": "zunubi"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "⟨a kansa⟩"
+    },
+    {
+      "surface": "לַֽמְר֥וֹת",
+      "gloss": "tawaye"
+    },
+    {
+      "surface": "עֶ֝לְי֗וֹן",
+      "gloss": "ga Elyon"
+    },
+    {
+      "surface": "בַּצִּיָּֽה",
+      "gloss": "a cikin busasshiyar ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:08:18.607125655Z",
+  "model": "glm-5.2"
+}

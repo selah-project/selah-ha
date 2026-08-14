@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 73,
+  "translation": "“Dominator na kishi ⟨ game da ⟩ masu taurin kai, ina ganin lafiyar masu zunubi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dominator"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "na kishi"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "⟨game da⟩ masu taurin kai"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "lafiya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "masu zunubi"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ina gani"
+    }
+  ],
+  "timestamp": "2026-08-12T20:03:53.779414542Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma Qehatiyyai sun tafi, masu ɗauke da ⟨את⟩ masallaci, kuma ⟨sauran⟩ sun tsayar da ⟨את⟩ masauki har zuwa zuwansu.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "Kuma sun tafi"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "Qehatiyyai"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "masu ɗauke da"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "masallaci"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "kuma suka tsayar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masauki"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "masauki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "באם",
+      "gloss": "zuwansu"
+    }
+  ],
+  "timestamp": "2026-08-12T03:38:58.045467422Z",
+  "model": "glm-5.2"
+}

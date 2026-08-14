@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma ⟨את⟩ ɗiyanta ba zan yi mata rahama ba, domin ɗiya ne na karuwanci su ne.",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ɗiyanta"
+    },
+    {
+      "surface": "בָּנֶ֖יהָ",
+      "gloss": "ɗiyanta"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אֲרַחֵ֑ם",
+      "gloss": "zan yi mata rahama ba"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "בְנֵ֥י",
+      "gloss": "ɗiya ne"
+    },
+    {
+      "surface": "זְנוּנִ֖ים",
+      "gloss": "na karuwanci"
+    },
+    {
+      "surface": "הֵֽמָּה",
+      "gloss": "su ne"
+    }
+  ],
+  "timestamp": "2026-08-12T18:12:06.266940986Z",
+  "model": "glm-5.2"
+}

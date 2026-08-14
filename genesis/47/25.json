@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 47:25",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Kuma suka ce: \"Ka raya mu! Mu sami ⟨ne⟩ alheri a idanun ubangijina, kuma mun kasance bayin Fir'auna.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Kuma suka ce"
+    },
+    {
+      "surface": "החיתנו",
+      "gloss": "Ka raya mu!"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "Mu sami"
+    },
+    {
+      "surface": "חן",
+      "gloss": "alheri"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanun"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ubangijina"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "kuma mun kasance"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bayin"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Fir'auna"
+    }
+  ],
+  "timestamp": "2026-08-12T00:20:14.807898726Z",
+  "model": "glm-5.2"
+}

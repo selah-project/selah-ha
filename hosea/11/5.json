@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Ba zai komo ba ⟨zuwa⟩ ƙasar Mitsrayim, kuma Asshur shi ne sarkinsu, domin sun ƙi komowa.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יָשׁוּב",
+      "gloss": "zai komo"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨zuwa⟩"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וְאַשּׁוּר",
+      "gloss": "kuma Asshur"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "מַלְכּוֹ",
+      "gloss": "sarkinsu"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "מֵאֲנוּ",
+      "gloss": "sun ƙi"
+    },
+    {
+      "surface": "לָשׁוּב",
+      "gloss": "komawa"
+    }
+  ],
+  "timestamp": "2026-08-12T18:20:38.511980386Z",
+  "model": "glm-5.2"
+}

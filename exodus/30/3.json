@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma kã rufe ⟨את⟩ shi da zinariya mai tsabta — ⟨את⟩ rufinsa da ⟨את⟩ ganuwansa a kewaye, da ⟨את⟩ ƙahonansa; kuma kã yi wa shi kambin zinariya a kewaye.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Kuma kã rufe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "da zinariya"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mai tsabta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rufinsa"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "rufinsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ganuwansa"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "ganuwansa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewaye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙahonansa"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ƙahonansa"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "kuma kã yi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wa shi"
+    },
+    {
+      "surface": "זר",
+      "gloss": "kambin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinariya"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewaye"
+    }
+  ],
+  "timestamp": "2026-08-12T01:18:48.235172706Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 60,
+  "translation": "Ka bãwa wa waɗanda suke gõranka tuta don a ɗaukaka ⟨ita⟩, saboda gaskiya. selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "ka bãwa"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "wa waɗanda suke gõranka"
+    },
+    {
+      "surface": "נס",
+      "gloss": "tuta"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "don a ɗaukaka"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "gaskiya"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "selah"
+    }
+  ],
+  "timestamp": "2026-08-12T19:55:13.478220521Z",
+  "model": "glm-5.2"
+}

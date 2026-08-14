@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 29:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma za ka kusantar da ⟨את⟩ ⟨ℎ⟩ sa na gaban Ɓangarwar Taro, kuma Aharon da 'ya'yansa za su dora ⟨את⟩ hannayensu a kan kan ⟨ℎ⟩ sa.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "kuma za ka kusantar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ɓangarwar"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Taro"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "kuma za su dora"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "da 'ya'yansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannayensu"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hannayensu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:13:27.060465082Z",
+  "model": "glm-5.2"
+}

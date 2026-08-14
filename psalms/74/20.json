@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 74,
+  "translation": "Duba alkawarin, cunkuɗe duhu na ƙasa cike da mazaunan tashin hankali.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Duba"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "alkawarin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cunkuɗe"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "cike da"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "duhu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "na ƙasa"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tashin hankali"
+    }
+  ],
+  "timestamp": "2026-08-12T20:06:43.075388229Z",
+  "model": "glm-5.2"
+}

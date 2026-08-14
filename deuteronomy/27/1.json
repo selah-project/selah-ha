@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Sa'an nan Mosheh da dattijen Yisra'el suka yi wa ⟨את⟩ al'umma umarni, suna cewa: Ku kiyaye ⟨את⟩ dukan umarnin da nake umurtar ⟨את⟩ ku da shi yau.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "suka yi wa umarni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "da dattijen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al'umma"
+    },
+    {
+      "surface": "העם",
+      "gloss": "al'umma"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "suna cewa"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Ku kiyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "umarnin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "nake umurtar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    }
+  ],
+  "timestamp": "2026-08-12T05:41:53.659986415Z",
+  "model": "glm-5.2"
+}

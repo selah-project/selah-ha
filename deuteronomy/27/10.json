@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma za ka saurārai muryar Yahweh Elohim naka, kuma za ka yi ⟨את⟩ umarninSa da ⟨את⟩ ɗokokinsa, waɗanda nī ina umarninka yau.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "kuma za ka saurārai"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "kuma za ka yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umarninSa"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "umarninSa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɗokokinsa"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ɗokokinsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nī"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ina umarninka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    }
+  ],
+  "timestamp": "2026-08-12T05:41:02.151684244Z",
+  "model": "glm-5.2"
+}

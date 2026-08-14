@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 6:3",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Yahweh ya ce: \"Ruhu ba za ta ciwo mutane ⟨har abadada ba⟩, domin ⟨shi ma⟩ jiki ne, kuma kwanakinsa za su zama ɗari da ashirin shekara.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ידון",
+      "gloss": "za ta ciwo"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "Ruhu"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "⟨har abadada ba⟩"
+    },
+    {
+      "surface": "בשגם",
+      "gloss": "domin ⟨shi ma⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨shi⟩"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "jiki"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "za su zama"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "kwanakinsa"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "da ashirin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    }
+  ],
+  "timestamp": "2026-08-11T23:28:28.715182701Z",
+  "model": "glm-5.2"
+}

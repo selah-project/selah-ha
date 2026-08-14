@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Ya juya wannan gefe da wannan gefe, ya ga cẽwa bãbu mutum, ya clefa ⟨את⟩ Mitsrin, ya ɓoye shi cikin yashi.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Ya juya"
+    },
+    {
+      "surface": "כה",
+      "gloss": "wannan gefe"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "da wannan gefe"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ya ga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cẽwa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bãbu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ya clefa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrin"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Mitsrin"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "ya ɓoye shi"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "cikin yashi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:28:37.318151952Z",
+  "model": "glm-5.2"
+}

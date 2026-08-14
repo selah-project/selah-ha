@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 48:6",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 48,
+  "translation": "Ku gudu, ku tsere da ranyanku, kuma ku zama kamar ƙwarya a cikin hamada.",
+  "tokens": [
+    {
+      "surface": "נֻ֖סוּ",
+      "gloss": "ku gudu"
+    },
+    {
+      "surface": "מַלְּט֣וּ",
+      "gloss": "ku tsere"
+    },
+    {
+      "surface": "נַפְשְׁכֶ֑ם",
+      "gloss": "da ranyanku"
+    },
+    {
+      "surface": "וְתִֽהְיֶ֕ינָה",
+      "gloss": "kuma ku zama"
+    },
+    {
+      "surface": "כַּעֲרוֹעֵ֖ר",
+      "gloss": "kamar ƙwarya"
+    },
+    {
+      "surface": "בַּמִּדְבָּֽר",
+      "gloss": "a cikin hamada"
+    }
+  ],
+  "timestamp": "2026-08-12T16:30:16.185495355Z",
+  "model": "glm-5.2"
+}

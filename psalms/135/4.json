@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 135,
+  "translation": "Domin Yah ta zaɓa Yaʿakov don kansa, Yisraʾel a matsayin dukiyarsa ta musamman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaʿakov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ta zaɓa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "don kansa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraʾel"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "a matsayin dukiyarsa ta musamman"
+    }
+  ],
+  "timestamp": "2026-08-12T20:51:30.021560740Z",
+  "model": "glm-5.2"
+}

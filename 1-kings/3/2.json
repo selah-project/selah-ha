@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Sai ⟨kawai⟩ mutane suna yin hadaya a wuraren tsayi, domin ba a gina gida don sunan Yahweh har zuwa wadannan kwanakin ba.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "sai kawai"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "suna yin hadaya"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "a wuraren tsayi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "a gina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "don sunan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "wadannan"
+    }
+  ],
+  "timestamp": "2026-08-12T10:56:14.529704027Z",
+  "model": "glm-5.2"
+}

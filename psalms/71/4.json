@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 71,
+  "translation": "Elohaina, ka 'yantar da ni daga hannun mugun, daga ƙwanyar mai laifinsa da mai tashin hankali.",
+  "tokens": [
+    {
+      "surface": "אֱֽלֹהַ֗י",
+      "gloss": "Elohaina"
+    },
+    {
+      "surface": "פַּ֭לְּטֵנִי",
+      "gloss": "ka 'yantar da ni"
+    },
+    {
+      "surface": "מִיַּ֣ד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "רָשָׁ֑ע",
+      "gloss": "mugun"
+    },
+    {
+      "surface": "מִכַּ֖ף",
+      "gloss": "daga ƙwanyar"
+    },
+    {
+      "surface": "מְעַוֵּ֣ל",
+      "gloss": "mai laifinsa"
+    },
+    {
+      "surface": "וְחוֹמֵץ",
+      "gloss": "da mai tashin hankali"
+    }
+  ],
+  "timestamp": "2026-08-12T20:03:37.405602539Z",
+  "model": "glm-5.2"
+}

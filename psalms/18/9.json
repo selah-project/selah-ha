@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Haya tashi ne daga *hissar* fuskarsa, wuta daga bakinsa tana cin abu; gawayai sun ƙone daga gare shi.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "tashi"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "haya"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "daga fuskarsa"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "wuta kuma"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "daga bakinsa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "tana cin abu"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "gawayai"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "sun ƙone"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare shi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:24:54.983687302Z",
+  "model": "glm-5.2"
+}

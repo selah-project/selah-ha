@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 148,
+  "translation": "Ku yabo ⟨Shi⟩ duka mal'ikanSa, ku yabo ⟨Shi⟩ duka sojojinSa.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ku yabo Shi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "mal'ikanSa"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ku yabo Shi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "sojojinSa"
+    }
+  ],
+  "timestamp": "2026-08-12T21:00:00.671407019Z",
+  "model": "glm-5.2"
+}

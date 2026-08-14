@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 83,
+  "translation": "Sun faɗa, \"Ku zo muƙe ɓatar da su daga kasancewa guda, kuma a kada a tuna da sunan Yisra'el a sake.\"",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Sun faɗa"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Ku zo"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "muƙe ɓatar da su"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "daga kasancewa guda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kada a"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "a tuna da"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sunan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "a sake"
+    }
+  ],
+  "timestamp": "2026-08-12T20:11:53.476129602Z",
+  "model": "glm-5.2"
+}

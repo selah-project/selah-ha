@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Da ⟨את⟩ Kesed, da ⟨את⟩ Ḥazo, da ⟨את⟩ Pildash, da ⟨את⟩ Yidlaph, da ⟨את⟩ Betu'el.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Kesed"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "Kesed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Ḥazo"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "Ḥazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Pildash"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "Pildash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Yidlaph"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "Yidlaph"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Betu'el"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betu'el"
+    }
+  ],
+  "timestamp": "2026-08-11T23:42:05.976812548Z",
+  "model": "glm-5.2"
+}

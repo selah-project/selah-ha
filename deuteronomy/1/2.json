@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Satar kwana goma sha ɗaya daga Ḥorev, ta hanyar dutsen Seʿir, har zuwa Qadesh-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "goma"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "daga Ḥorev"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ta hanyar"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dutsen"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seʿir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qadesh-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-08-12T04:53:23.712242261Z",
+  "model": "glm-5.2"
+}

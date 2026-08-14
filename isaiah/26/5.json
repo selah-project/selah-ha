@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Domin ya barga mazaunan sama, birni mai tsayi; ya ɗanƙareshi, ya ɗanƙareshi har ƙasa, ya sa shi ya taɓa har ƙura.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "השח",
+      "gloss": "ya barga"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "sama"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "birni"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "mai tsayi"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "ya ɗanƙareshi"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "ya ɗanƙareshi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "ya sa shi ya taɓa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ƙura"
+    }
+  ],
+  "timestamp": "2026-08-12T13:32:23.645561077Z",
+  "model": "glm-5.2"
+}

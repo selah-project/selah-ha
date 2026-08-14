@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Kuma su yi ⟨את⟩ ⟨אֵת⟩ ha'ephod — zinariya, tekhet da argaman, tola'at shani, da shesh mai sokaye — aikin ⟨mai⟩ ƙirƙira.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "kuma su yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨אֵת⟩",
+      "marks": "ha'ephod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ha'ephod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinariya"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "da argaman"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tola'at"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "da shesh"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "mai sokaye"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "⟨mai⟩ ƙirƙira"
+    }
+  ],
+  "timestamp": "2026-08-12T01:11:22.056227280Z",
+  "model": "glm-5.2"
+}

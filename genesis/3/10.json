@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ya ce, \"Na ji ⟨את⟩ muryarka cikin gonar, sai na ji tsoro, domin ni tsirara ⟨ne⟩, don haka na ɓoye kaina.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muryarka"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "muryarka"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Na ji"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "cikin gonar"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "sai na ji tsoro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "tsirara"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "don haka na ɓoye kaina"
+    }
+  ],
+  "timestamp": "2026-08-13T01:43:55.310175517Z",
+  "model": "glm-5.2"
+}

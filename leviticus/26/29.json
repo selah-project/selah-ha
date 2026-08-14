@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma za ku ci naman 'ya'yan ku maza, kuma naman 'ya'yan ku mata za ku ci.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "Kuma za ku ci"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "naman"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "'ya'yan ku maza"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "kuma naman"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "'ya'yan ku mata"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "za ku ci"
+    }
+  ],
+  "timestamp": "2026-08-12T03:02:48.274113731Z",
+  "model": "glm-5.2"
+}

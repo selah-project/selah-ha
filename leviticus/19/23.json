@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 19:23",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma idan kun shiga ⟨a⟩ ƙasar, kuka shuka kowane itacen abinci, kuka yi wa tsira al'aurarsa, ⟨את⟩ 'ya'yan itacesa; shekaru uku za su kasance a gare ku ⟨a matsayin⟩ marasa kaciya, ba za a ci ba.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "kun shiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "ונטעתם",
+      "gloss": "kuka shuka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "itacen"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "abinci"
+    },
+    {
+      "surface": "וערלתם",
+      "gloss": "kuka yi wa tsira"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "al'aurarsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'ya'yan itacesa"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "'ya'yan itacesa"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "uku"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "za su kasance"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a gare ku"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "⟨a matsayin⟩ marasa kaciya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "za a ci ba"
+    }
+  ],
+  "timestamp": "2026-08-12T02:34:36.160813138Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Ku saurari yanzu ⟨את⟩ abin da Yahweh yake faɗa: tashi, yi ⟨את⟩ shari'a da duwatsu, kuma ƙwaiƙwayoyi su saurari muryarka.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ku saurari"
+    },
+    {
+      "surface": "נא",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yake faɗa"
+    },
+    {
+      "surface": "קום",
+      "gloss": "tashi"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "yi shari'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ da"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "kuma su saurari"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ƙwaiƙwayoyi"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "muryarka"
+    }
+  ],
+  "timestamp": "2026-08-12T18:45:45.926595812Z",
+  "model": "glm-5.2"
+}

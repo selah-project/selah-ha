@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma ku, ku ɓuya 'ya'ya, ku yawaita; ku yawaita kamar tsiro a ƙasa, kuma ku yawaita a cikinta.”",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "kuma ku"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "ku ɓuya 'ya'ya"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ku yawaita"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "ku yawaita kamar tsiro"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasa"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "kuma ku yawaita"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a cikinta"
+    }
+  ],
+  "timestamp": "2026-08-13T03:01:20.088397703Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 19:7",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma zan soke ⟨את⟩ shawarar Yahuda da Urushalima a wannan wurin, kuma zan sa su faɗo da takobi a gaban maƙiyansu, kuma a hannun waɗanda ke neman rayukansu; kuma zan bada ⟨את⟩ gawarwakinsu abinci ga tsuntsayen sama da ga dabbobin ƙasa.",
+  "tokens": [
+    {
+      "surface": "ובקתי",
+      "gloss": "kuma zan soke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shawarar"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "shawarar"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "da Urushalima"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "a wuriin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "והפלתים",
+      "gloss": "kuma zan sa su faɗo"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "da takobi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "maƙiyansu"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "kuma a hannun"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "waɗanda ke neman"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "rayukansu"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "kuma zan bada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gawarwakinsu"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "gawarwakinsu"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "abinci"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "ga tsuntsayen"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "da ga dabbobin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T15:34:35.405308765Z",
+  "model": "glm-5.2"
+}

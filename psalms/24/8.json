@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Wane ne wannan Sarkin ɗaukaka? Yahweh, mai ƙarfi da iko, Yahweh, mai iko a yaƙi.",
+  "tokens": [
+    {
+      "surface": "מִ֥י",
+      "gloss": "Wane"
+    },
+    {
+      "surface": "זֶה֮",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "Sarkin"
+    },
+    {
+      "surface": "הַכָּ֫בֹ֥ד",
+      "gloss": "ɗaukaka"
+    },
+    {
+      "surface": "יְהוָָ֭ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עִזּוּז֣",
+      "gloss": "mai ƙarfi"
+    },
+    {
+      "surface": "וְגִבֹּ֑ור",
+      "gloss": "da iko"
+    },
+    {
+      "surface": "יְהוָָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גִּבּ֥וֹר",
+      "gloss": "mai iko"
+    },
+    {
+      "surface": "מִלְחָמָֽה",
+      "gloss": "a yaƙi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:30:29.306616470Z",
+  "model": "glm-5.2"
+}

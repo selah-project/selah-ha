@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma ku kula da kyau sosai domin rayukan ku, don ku so ⟨את⟩ Yahweh, Elohim ku.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "Kuma ku kula"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "domin rayukan ku"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "don ku so"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ku"
+    }
+  ],
+  "timestamp": "2026-08-12T07:07:45.445905392Z",
+  "model": "glm-5.2"
+}

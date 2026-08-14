@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 15:5",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Tehomot sun rufe su, sun sauka cikin zurfin ruwa kamar dutse.",
+  "tokens": [
+    {
+      "surface": "תְּהֹמֹ֖ת",
+      "gloss": "Tehomot"
+    },
+    {
+      "surface": "יְכַסְיֻ֑מוּ",
+      "gloss": "sun rufe su"
+    },
+    {
+      "surface": "יָרְד֥וּ",
+      "gloss": "sun sauka"
+    },
+    {
+      "surface": "בִמְצוֹלֹ֖ת",
+      "gloss": "cikin zurfin ruwa"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "אָֽבֶן",
+      "gloss": "dutse"
+    }
+  ],
+  "timestamp": "2026-08-12T00:46:53.601840237Z",
+  "model": "glm-5.2"
+}

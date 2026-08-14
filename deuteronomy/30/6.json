@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma Yahweh Elohim-ka zai kaci ⟨את⟩ zuciyar ka da ⟨את⟩ zuciyar zuriyar ka, don ka son ⟨את⟩ Yahweh Elohim-ka da dukkan zuciyar ka kuma da dukkan rai-ka, don rayuwar ka.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "kuma zai kaci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuciyar ka"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "zuciyar ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "zuciyar zuriyar ka"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "zuciyar"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zuriyar ka"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "don ka son"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohim-ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "zuciyar ka"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "kuma da dukkan"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "rai-ka"
+    },
+    {
+      "surface": "למען",
+      "gloss": "domin"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "rayuwar ka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:52:43.155686139Z",
+  "model": "glm-5.2"
+}

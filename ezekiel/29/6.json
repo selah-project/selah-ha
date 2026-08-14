@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 29:6",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma dukkan mazaunan Mitsrayim za su sani cẽwa ni inã Yahweh, sabõda su kasancewa goyon bãƙin rõgõ gãjin ɗangin Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "kuma za su sani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cẽwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "inã Yahweh"
+    },
+    {
+      "surface": "יען",
+      "gloss": "sabõda"
+    },
+    {
+      "surface": "היותם",
+      "gloss": "su kasancewa"
+    },
+    {
+      "surface": "משענת",
+      "gloss": "goyon bãƙin"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "rõgõ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "gãjin ɗangin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-13T02:17:21.626748686Z",
+  "model": "glm-5.2"
+}

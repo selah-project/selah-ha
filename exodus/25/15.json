@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "A cikin zoben Tabut ⟨za su kasance⟩ sanduna; ba za a cire su daga gare shi ba.",
+  "tokens": [
+    {
+      "surface": "בְּטַבְּעֹת֙",
+      "gloss": "A cikin zoben"
+    },
+    {
+      "surface": "הָאָרֹ֔ן",
+      "gloss": "Tabut"
+    },
+    {
+      "surface": "יִהְי֖וּ",
+      "gloss": "⟨za su kasance⟩"
+    },
+    {
+      "surface": "הַבַּדִּ֑ים",
+      "gloss": "sanduna"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יָסֻ֖רוּ",
+      "gloss": "za a cire su"
+    },
+    {
+      "surface": "מִמֶּֽנּוּ",
+      "gloss": "daga gare shi"
+    }
+  ],
+  "timestamp": "2026-08-13T01:46:13.420276725Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Don yin shari'a ga maraya da wanda aka danna, ⟨dom⟩ kada ƙari ya sake tsoratar da mutum daga ƙasa.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "don yin shari'a"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "maraya"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "da wanda aka danna"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ya sake"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ƙari"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "tsoratar da"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:18:16.107972360Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Ɗan'uwa ba zai iya fansa ⟨ko da kasõ-kasõ⟩; mutum ba zai iya bã̀a wa Elohim fansa",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "ɗan'uwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "fansa"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "zai iya fansa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "zai iya bã̀a wa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "fansa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:46:21.617105003Z",
+  "model": "glm-5.2"
+}

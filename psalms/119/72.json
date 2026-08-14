@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "alheri ya kasance a gare ni ⟨ce⟩ dokar bakinka, fiye da dubban zinariya da azurfa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "alheri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a gare ni"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "dokar"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "bakinka"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "fiye da dubban"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinariya"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "da azurfa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:27:49.253459511Z",
+  "model": "glm-5.2"
+}

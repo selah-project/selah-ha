@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Sai ta faɗa, a bada ⟨את⟩ Avishag mace ta Shunam ga Adoniya ɗan'uwanka ⟨a matsayin⟩ mace.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "sai ta faɗa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "a bada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avishag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "mace ta Shunam"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "ga Adoniya"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ɗan'uwanka"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "⟨a matsayin⟩ mace"
+    }
+  ],
+  "timestamp": "2026-08-12T10:53:16.769322477Z",
+  "model": "glm-5.2"
+}

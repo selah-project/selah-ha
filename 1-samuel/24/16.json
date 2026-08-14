@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma Yahweh ya kasance ⟨don⟩ yin shari'a, kuma ya yi shari'a tsakanina da kai, kuma ya kalli, kuma ya yi shaida ⟨akan⟩ ⟨את⟩ shari'ata, kuma ya 'yantar da ni daga hannunka.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "don yin shari'a"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "kuma ya yi shari'a"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tsakanina"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "da kai"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "kuma ya kalli"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "kuma ya yi shaida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shari'ata"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "shari'ata"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "kuma ya 'yantar da ni"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "daga hannunka"
+    }
+  ],
+  "timestamp": "2026-08-12T09:25:41.890775748Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 57,
+  "translation": "(A cikin) salama ⟨ne⟩ yake zuwa, suna hutawa a kan gadajensu, ⟨duk wani⟩ da ke tafiya da daidaito.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "yana zuwa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salama"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "suna hutawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "gadajensu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mai tafiya"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "da daidaito"
+    }
+  ],
+  "timestamp": "2026-08-12T14:33:25.547408355Z",
+  "model": "glm-5.2"
+}

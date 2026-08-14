@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Domi Yahweh ya ga ⟨את⟩ ciwon Yisra'el, yana matuƙar baƙin ciki, ba shi da wanda aka ɗaure kuma ba shi da wanda aka bari, kuma babu mai taimako wa Yisra'el.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ya ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciwon"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ciwon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "yana matuƙar baƙin ciki"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sossai"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ba shi da"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "wanda aka ɗaure"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ba shi da"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "wanda aka bari"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mai taimako"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "wa Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T12:25:55.741039672Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Ba zan iya ⟨ni⟩ kaɗai ⟨don in⟩ ɗauke ⟨את⟩ dukkan mutanen waɗannan ba, domin abin ya fi naƙudana.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "zan iya"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "kaɗai"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "don in ɗauke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan mutanen waɗannan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "abin ya fi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "naƙudana"
+    }
+  ],
+  "timestamp": "2026-08-12T03:53:49.290345640Z",
+  "model": "glm-5.2"
+}

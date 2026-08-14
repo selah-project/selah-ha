@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Wanda ke zauna a sama yana dariya, Adonai yana yi musu izgili.",
+  "tokens": [
+    {
+      "surface": "יוֹשֵׁ֣ב",
+      "gloss": "wannan da ke zauna"
+    },
+    {
+      "surface": "בַּשָּׁמַ֣יִם",
+      "gloss": "a sama"
+    },
+    {
+      "surface": "יִשְׂחָ֑ק",
+      "gloss": "yana dariya"
+    },
+    {
+      "surface": "אֲדֹנָ֗י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יִלְעַג",
+      "gloss": "yana yi musu izgili"
+    },
+    {
+      "surface": "לָֽמוֹ",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-08-13T02:22:51.941525861Z",
+  "model": "glm-5.2"
+}

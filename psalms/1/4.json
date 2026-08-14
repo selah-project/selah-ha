@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Ba haka ⟨ne⟩ masu rashin adalci; a'a, amma sun kamar ƙwarya wida iska ke hurawa.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "כֵ֥ן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "הָרְשָׁעִ֑ים",
+      "gloss": "masu rashin adalci"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "a'a"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "amma"
+    },
+    {
+      "surface": "כַּ֝מֹּ֗ץ",
+      "gloss": "sun kamar ƙwarya"
+    },
+    {
+      "surface": "אֲֽשֶׁר",
+      "gloss": "wida"
+    },
+    {
+      "surface": "תִּדְּפֶ֥נּוּ",
+      "gloss": "iska ke hurawa"
+    },
+    {
+      "surface": "רֽוּחַ",
+      "gloss": "iska"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:34.929765589Z",
+  "model": "glm-5.2"
+}

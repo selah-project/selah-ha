@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "domin dubansa kuna lalata, da tsayansa kuna gurgurtarwa, da aljihunan sa kuna yanke.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dubansa"
+    },
+    {
+      "surface": "מִזְבְּחֹתָם֙",
+      "gloss": "dubansa"
+    },
+    {
+      "surface": "תִּתֹּצ֔וּן",
+      "gloss": "kuna lalata"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩ da",
+      "marks": "tsayansa"
+    },
+    {
+      "surface": "מַצֵּבֹתָ֖ם",
+      "gloss": "tsayansa"
+    },
+    {
+      "surface": "תְּשַׁבֵּר֑וּן",
+      "gloss": "kuna gurgurtarwa"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩ da",
+      "marks": "aljihunan sa"
+    },
+    {
+      "surface": "אֲשֵׁרָיו",
+      "gloss": "aljihunan sa"
+    },
+    {
+      "surface": "תִּכְרֹתֽוּן",
+      "gloss": "kuna yanke"
+    }
+  ],
+  "timestamp": "2026-08-12T01:21:02.901949790Z",
+  "model": "glm-5.2"
+}

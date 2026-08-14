@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma bayansa, ya yi shari'a ⟨את⟩ Yisra'el — Abdɔn ɗan Hilel, ɗan Pirʿaton.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Kuma ya yi shari'a"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "bayansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdɔn"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hilel"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "ɗan Pirʿaton"
+    }
+  ],
+  "timestamp": "2026-08-12T07:51:59.871842085Z",
+  "model": "glm-5.2"
+}

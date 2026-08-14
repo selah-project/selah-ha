@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 6:12",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma malã'ikar Yahweh ta bayyana gare shi, ta ce masa: Yahweh yana tare da kai, jarumin ƙarfi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "kuma ta bayyana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gare shi"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malã'ikar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ta ce"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yana tare da kai"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "jarumi"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "na ƙarfi"
+    }
+  ],
+  "timestamp": "2026-08-12T07:32:51.105419822Z",
+  "model": "glm-5.2"
+}

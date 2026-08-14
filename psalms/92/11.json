@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 92,
+  "translation": "Kuma kaɗau kāren ta kamar na re'em; an shaƙe ni da man sabo.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "Kuma kaɗau"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "kamar na re'em"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "kāren ta"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "an shaƙe ni"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "da man"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "sabo"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:29.090974702Z",
+  "model": "glm-5.2"
+}

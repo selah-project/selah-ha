@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 29:27",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma ka tsarkake ⟨את⟩ ƙirjin hadayar guguwa da ⟨את⟩ yafin hadayar ɗauka, wanda aka yi guguwa da wanda aka ɗauka, daga ramin cika wa, daga wanda ⟨ne⟩ na Aharon kuma daga wanda ⟨ne⟩ na ƴaƴan sa.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "kuma ka tsarkake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙirjin"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ƙirjin"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "na hadayar guguwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "yafin"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "yafin"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "na hadayar ɗauka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "הונף",
+      "gloss": "an yi guguwa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "da wanda"
+    },
+    {
+      "surface": "הורם",
+      "gloss": "an ɗauka"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "daga ram"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "na cika"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "daga wanda"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "⟨ne⟩ na Aharon"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "kuma daga wanda"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "⟨ne⟩ na ƴaƴan sa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:18:17.506710507Z",
+  "model": "glm-5.2"
+}

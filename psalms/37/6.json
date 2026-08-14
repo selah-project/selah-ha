@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma ⟨shi⟩ zai fitar da adalci ⟨na⟩ kamar haske, da hukuncin ⟨na⟩ kamar tsakar rana.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "kuma ⟨shi⟩ zai fitar da"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "kamar haske"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "adalci ⟨na⟩"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "da hukuncin ⟨na⟩"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "kamar tsakar rana"
+    }
+  ],
+  "timestamp": "2026-08-12T19:38:45.294531566Z",
+  "model": "glm-5.2"
+}

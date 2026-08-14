@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 13:20",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Ba za ta zauna har abada ba, kuma ba za a zauna a cikinta har tsararraki da tsararraki ba, kuma Balarabe ba zai dora hayaƙi can ba, kuma mafarauta ba za su kwanta garkinsu can ba.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "za ta zauna"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "za a zauna a cikinta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "דור",
+      "gloss": "tsararraki"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "da tsararraki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יהל",
+      "gloss": "zai dora hayaƙi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    },
+    {
+      "surface": "ערבי",
+      "gloss": "Balarabe"
+    },
+    {
+      "surface": "ורעים",
+      "gloss": "kuma mafarauta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "za su kwanta garkinsu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    }
+  ],
+  "timestamp": "2026-08-12T13:13:26.970048421Z",
+  "model": "glm-5.2"
+}

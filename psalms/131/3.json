@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 131,
+  "translation": "Yā Isra'ila, yi jirin Yahweh, daga yanzu har har abada.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "yi jirin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yā Isra'ila"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "daga yanzu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-12T20:48:29.109004686Z",
+  "model": "glm-5.2"
+}

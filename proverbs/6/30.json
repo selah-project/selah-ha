@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Ba za ⟨mutane⟩ su wulakanta ɓarawo ba idan ya sāka don ya cika cikinsa, idan yana jin yunwa.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "יָבוּזוּ",
+      "gloss": "za su wulakanta"
+    },
+    {
+      "surface": "לַגַּנָּב",
+      "gloss": "ɓarawo"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "idan"
+    },
+    {
+      "surface": "יִגְנֹב",
+      "gloss": "ya sāka"
+    },
+    {
+      "surface": "לְמַלֵּא",
+      "gloss": "don ya cika"
+    },
+    {
+      "surface": "נַפְשׁוֹ",
+      "gloss": "cikinsa"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "idan"
+    },
+    {
+      "surface": "יִרְעָב",
+      "gloss": "yana jin yunwa"
+    }
+  ],
+  "timestamp": "2026-08-12T21:08:09.121459842Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 11:20",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Domin su tafi a cikin dokokina, su kula da ⟨את⟩ hukuncena, su yi su, kuma su kasance min da al'umma, kuma ni zan zama musu da Elohim.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "a cikin dokokina"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "su tafi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "hukuncena"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukuncena"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "su kula"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "su yi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ su",
+      "marks": "dokoki da hukunce-hukuncen"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kuma su kasance"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "da al'umma"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "zan zama"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "da Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T17:03:16.264936311Z",
+  "model": "glm-5.2"
+}

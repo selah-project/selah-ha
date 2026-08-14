@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 62,
+  "translation": "Shi kaɗai shi ne dutsena da tāḍā na; kagara ta, ba zan motsa ba.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "shi kaɗai"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "dutsena"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "da tāḍā na"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "kagara ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "zan motsa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:55:42.967157745Z",
+  "model": "glm-5.2"
+}

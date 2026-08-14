@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Na Daɗa, mashkil. ⟨Ga⟩ farin cikin ⟨wanda⟩ an ɗauke shi laifi, ⟨wanda⟩ aka rufe kwaro.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Na Daɗa"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mashkil"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "farin ciki"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "an ɗauke shi"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "laifi"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "an rufe"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "kwaro"
+    }
+  ],
+  "timestamp": "2026-08-12T19:34:50.382255361Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma limamin da aka shafawa man shanu ⟨את⟩ shi, kuma wanda aka cika ⟨את⟩ hannunsa don ya zama limami maimaiton ubaninsa, shi ne zai yi fansa, kuma zai sa ⟨את⟩ tufafin linnen, tufafin tsarkaka.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "kuma shi ne zai yi fansa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "limamin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "aka shafawa man shanu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi",
+      "marks": "limamin"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kuma wanda"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "aka cika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannunsa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hannunsa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "don ya zama limami"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "maimaiton"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubaninsa"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "kuma zai sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tufafin linnen"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "tufafin"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "linnen"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "tufafin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tsarkaka"
+    }
+  ],
+  "timestamp": "2026-08-12T02:24:17.825232421Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma duka mutãnen ƙasar sun murna, kuma birnin ya natsu; kuma ⟨את⟩ Atalyahu sun kashe ta da takobi a betin sarki.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "Kuma sun murna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "kuma birnin"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "ya natsu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "Atalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "sun kashe ta"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "da takobi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a betin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    }
+  ],
+  "timestamp": "2026-08-12T12:20:19.131992502Z",
+  "model": "glm-5.2"
+}

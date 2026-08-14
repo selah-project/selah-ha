@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kada ka ƙi Edomiyawan, domin ɗan'uwanka ⟨ne⟩; kada ka ƙi Mitsriyawa, domin baƙo ka kasance a ƙasarsa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Kada ka"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "ƙi"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "Edomiyawan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ɗan'uwanka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kada ka"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "ƙi"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mitsriyawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "גר",
+      "gloss": "baƙo"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ka kashe"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "a ƙasarsa"
+    }
+  ],
+  "timestamp": "2026-08-13T01:56:16.223439542Z",
+  "model": "glm-5.2"
+}

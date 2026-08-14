@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 39:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Na ce: «Na yi kula da hanyata, daga kuskure da harshena; na kula da bakina da tofa, muddin mugun mutum yana gabanina.»",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "na ce"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "na yi kula da"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "hanyata"
+    },
+    {
+      "surface": "מחטוא",
+      "gloss": "daga kuskure"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "da harshena"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "na kula da"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "bakina"
+    },
+    {
+      "surface": "מחסום",
+      "gloss": "da tofa"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "muddin"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mugun mutum"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "yana gabanina"
+    }
+  ],
+  "timestamp": "2026-08-12T19:42:24.583823080Z",
+  "model": "glm-5.2"
+}

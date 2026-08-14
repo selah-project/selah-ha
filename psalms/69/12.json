@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Kuma na sanya tufaʼta ta zama jakƙa, kuma na kasance ⟨a matsayin⟩ misāli gare su.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "kuma na sanya"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "tufaʼta"
+    },
+    {
+      "surface": "שק",
+      "gloss": "jakƙa"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "kuma na kasance"
+    },
+    {
+      "surface": "להם",
+      "gloss": "gare su"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "⟨a matsayin⟩ misāli"
+    }
+  ],
+  "timestamp": "2026-08-12T19:59:06.848861788Z",
+  "model": "glm-5.2"
+}

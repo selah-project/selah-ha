@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Har ila yau, ka janye kaunarsa ta takobinsa, kuma ba ka tsayar da shi ⟨a⟩ yaki ba",
+  "tokens": [
+    {
+      "surface": "אַף",
+      "gloss": "har ila yau"
+    },
+    {
+      "surface": "תָּ֭שִׁיב",
+      "gloss": "ka janye"
+    },
+    {
+      "surface": "צוּר",
+      "gloss": "kaunarsa"
+    },
+    {
+      "surface": "חַרְבּ֑וֹ",
+      "gloss": "ta takobinsa"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "הֲ֝קֵימֹת֗וֹ",
+      "gloss": "ka tsayar da shi"
+    },
+    {
+      "surface": "בַּמִּלְחָמָֽה",
+      "gloss": "yaki"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:13.215724827Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 148,
+  "translation": "Wuta da ƙanƙara, duska da tururi, iska mai gudu mai aikata kalmarSa.",
+  "tokens": [
+    {
+      "surface": "אֵ֣שׁ",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "וּ֭בָרָד",
+      "gloss": "da ƙanƙara"
+    },
+    {
+      "surface": "שֶׁ֣לֶג",
+      "gloss": "duska"
+    },
+    {
+      "surface": "וְקִיט֑וֹר",
+      "gloss": "da tururi"
+    },
+    {
+      "surface": "ר֥וּחַ",
+      "gloss": "iska"
+    },
+    {
+      "surface": "סְ֝עָרָ֗ה",
+      "gloss": "mai gudu"
+    },
+    {
+      "surface": "עֹשָׂ֥ה",
+      "gloss": "mai aikata"
+    },
+    {
+      "surface": "דְבָרֽוֹ",
+      "gloss": "kalmarSa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:59:46.345569871Z",
+  "model": "glm-5.2"
+}

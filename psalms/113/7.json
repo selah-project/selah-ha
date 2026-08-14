@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 113,
+  "translation": "Wanda Yake tada matalauci daga ƙura, kuma daga toka Yake ɗaukaka mabukaci;",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "Wanda Yake tada"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "daga ƙura"
+    },
+    {
+      "surface": "דל",
+      "gloss": "matalauci"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "daga toka"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "Yake ɗaukaka"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "mabukaci"
+    }
+  ],
+  "timestamp": "2026-08-12T20:35:20.563543966Z",
+  "model": "glm-5.2"
+}

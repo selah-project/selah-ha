@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 118,
+  "translation": "Sun kewaye ni kamar ƙudan zuma; sun ɗanci kamar wutar ciyayi masu kaure; a cikin sunan Yahweh ⟨zai⟩ tabbas ⟨zan⟩ yanka su.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "Sun kewaye ni"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "kamar ƙudan zuma"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "sun ɗanci"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "kamar wutar"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "ciyayi masu kaure"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "a cikin sunan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨zai⟩ tabbas"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "⟨zan⟩ yanka su"
+    }
+  ],
+  "timestamp": "2026-08-12T20:39:17.391438961Z",
+  "model": "glm-5.2"
+}

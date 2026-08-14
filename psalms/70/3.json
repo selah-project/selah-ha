@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 70,
+  "translation": "Bari su ji kunya kuma su rude waɗanda ke neman rayuwata; bari su ja baya kuma su kasance cikin wulakanci waɗanda ke nufin cutata.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Bari su ji kunya"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "kuma su rude"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "waɗanda ke neman"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rayuwata"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "bari su ja baya"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "baya"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "kuma su kasance cikin wulakanci"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "waɗanda ke nufin"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "cutata"
+    }
+  ],
+  "timestamp": "2026-08-12T20:00:52.667934281Z",
+  "model": "glm-5.2"
+}

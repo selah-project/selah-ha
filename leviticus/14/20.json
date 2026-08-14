@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma kohan zai ɗauka ya miƙa ⟨את⟩ hadayar ƙonewa da ⟨את⟩ hadayar garin akan ginshiƙin hadaya, kuma kohan zai yafe masa, kuma ⟨zai⟩ tsarkake.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "Kuma zai ɗauka ya miƙa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadayar ƙonewa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "hadayar ƙonewa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "hadayar garin"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "hadayar garin"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "akan ginshiƙin hadaya"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kuma zai yafe masa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": ""
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohan"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "kuma ⟨zai⟩ tsarkake"
+    }
+  ],
+  "timestamp": "2026-08-12T02:16:50.863201811Z",
+  "model": "glm-5.2"
+}

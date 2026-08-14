@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Tare da mai tsarki ⟨kai⟩ nuna tsarki; kuma tare da mai jujjuyawa ⟨kai⟩ nuna jujjuyawa.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "mai tsarki"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "⟨kai⟩ nuna tsarki"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kuma tare da"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "mai jujjuyawa"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "⟨kai⟩ nuna jujjuyawa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:24:42.843557497Z",
+  "model": "glm-5.2"
+}

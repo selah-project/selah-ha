@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 139,
+  "translation": "Idan na hawa sama, Kai ⟨can⟩ ne; kuma idan na shimfiɗa gado a cikin Sheol, ga Kai!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "na hawa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨can⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "kuma idan na shimfiɗa gado"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "a cikin Sheol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ga Kai"
+    }
+  ],
+  "timestamp": "2026-08-12T20:52:46.345747063Z",
+  "model": "glm-5.2"
+}

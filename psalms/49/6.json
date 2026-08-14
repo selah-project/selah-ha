@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Don me zan gõra a cikin ãyõkin ɓarna, ⟨a lokacin⟩ awãna ta kewaye ni a dugadugana?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "zan gõra"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "a cikin ãyõkin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ɓarna"
+    },
+    {
+      "surface": "עון",
+      "gloss": "awãna"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "a dugadugana"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "ta kewaye ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:46:21.616850104Z",
+  "model": "glm-5.2"
+}

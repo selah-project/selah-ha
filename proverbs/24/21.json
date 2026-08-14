@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Ɗana, ka gaji ⟨את⟩ Yahweh da ⟨את⟩ sarki, tare da masu sauya magana kada ka haɗu.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "ka gaji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ɗana"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "da sarki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "masu sauya magana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "ka haɗu"
+    }
+  ],
+  "timestamp": "2026-08-12T21:28:19.417797711Z",
+  "model": "glm-5.2"
+}

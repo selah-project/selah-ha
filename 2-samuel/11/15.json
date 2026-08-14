@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Ya rubuta a cikin wasiƙar yana cewa: Sanya ⟨את⟩ Uriya a gaban yaƙin mafi tsanani, ku kuma ku janye daga bayansa, ⟨domin⟩ a buge shi ya mutu.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ya rubuta"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "a cikin wasiƙar"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "מול",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "פני",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "yaƙin"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "mafi tsanani"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "ku janye"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "daga bayansa"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "a buge shi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ya mutu"
+    }
+  ],
+  "timestamp": "2026-08-13T02:02:30.760433325Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma Moshe ya ce: \"Ina tūrma, bari in juya in ga ⟨את⟩ wannan babban abin gani, don me ciyawa ba ta kone?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "in juya"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bari"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "kuma in ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan babban abin gani"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "abin gani"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "babban"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "don me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "ta kone"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "ciyawa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:30:53.477707997Z",
+  "model": "glm-5.2"
+}

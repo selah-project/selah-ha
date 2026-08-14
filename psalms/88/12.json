@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 88,
+  "translation": "Shin, ana faɗin chesed dinka a cikin kabari? Amincin dinka a cikin abaddun?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "shin ana faɗin"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "a cikin kabari"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed dinka"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "amincin dinka"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "a cikin abaddun"
+    }
+  ],
+  "timestamp": "2026-08-12T20:15:05.328645933Z",
+  "model": "glm-5.2"
+}

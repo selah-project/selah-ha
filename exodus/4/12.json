@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Sai yanzu ka tafi, kuma ni zan kasance tare da bakinka, kuma zan koya maka abin da za ka faɗa.\"",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "sai yanzu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka tafi"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "zan kasance"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "bakinka"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "kuma zan koya maka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "za ka faɗa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:35:27.888459432Z",
+  "model": "glm-5.2"
+}

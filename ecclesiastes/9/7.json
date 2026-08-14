@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Je, ka ci burotarka da murna, kuma ka sha giyarka da zuciya ta girma, domi Elohim tun daɗewa ya namsa ⟨את⟩ ayyukanka.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "je"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ka ci"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "da murna"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "burotarka"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "kuma ka sha"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "da zuciya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ta girma"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "giyarka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domi"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "tun daɗewa"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "ya namsa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayyukanka"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ayyukanka"
+    }
+  ],
+  "timestamp": "2026-08-12T22:48:32.721136470Z",
+  "model": "glm-5.2"
+}

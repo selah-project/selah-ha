@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Yahweh ya umurci ⟨את⟩ ⟨tare da⟩ ka ⟨את⟩ albarka a cikin ɗakunan ajiyarka, kuma a duk abin da ka aikata da hannunka; kuma ya albarkace ka a cikin ƙasar da Yahweh, Elohiminka, ya bayar maka.",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "ya umurci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨tare da⟩ ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "albarka"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "albarka"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "a cikin ɗakunan ajiyarka"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "kuma a dukan"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "abin da ka aikata"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "da hannunka"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "kuma ya albarkace ka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a cikin ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya bayar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:44:19.866295424Z",
+  "model": "glm-5.2"
+}

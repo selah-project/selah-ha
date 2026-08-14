@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Ga shugaban mawaƙa. Zaburi na Dawuda.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga shugaban mawaƙa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zaburi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na Dawida"
+    }
+  ],
+  "timestamp": "2026-08-12T19:27:32.984403671Z",
+  "model": "glm-5.2"
+}

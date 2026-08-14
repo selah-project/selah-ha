@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "A'a, ⟨cewa⟩ zuwa ƙasata da zuwa ga jininata za ka tafi, kuma za ka riqi ⟨mace⟩ mata ⟨ga⟩ ɗan na, ⟨don⟩ Yitschaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨cewa⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "ƙasata"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "da zuwa ga"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "jininata"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "za ka tafi"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "kuma za ka riqi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "⟨mace⟩ mata"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨ga⟩ ɗan na"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "⟨don⟩ Yitschaq"
+    }
+  ],
+  "timestamp": "2026-08-11T23:45:29.961746456Z",
+  "model": "glm-5.2"
+}

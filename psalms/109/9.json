@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 109,
+  "translation": "ʼYaʼyansa su kasance marayu, kuma matarsa ⟨ta kasance⟩ bazawara.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "su kasance"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ʼyaʼyansa"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "marayu"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "kuma matarsa"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "bazawara"
+    }
+  ],
+  "timestamp": "2026-08-12T20:35:07.490818046Z",
+  "model": "glm-5.2"
+}

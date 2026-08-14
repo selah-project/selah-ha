@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 73,
+  "translation": "Waƙar Asaf. Lalle ne, Elohim yana da kyau ga Isra'ila, ⟨ga⟩ waɗanda suke da tsarkin zuciya.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Waƙa"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "na Asaf"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Lalle ne"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yana da kyau"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ga Isra'ila"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "ga waɗanda suke da tsarkin"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "zuciya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:03:53.778518117Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma Dawuda ya gama kusantar da ⟨את⟩ gurgaban da ⟨את⟩ sadakin salama, ya yi ⟨את⟩ al'umma alheri da sunan Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ya gama"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "kusantar da"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "gurgaban"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "da sadakin salama"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ya yi alheri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al'umma"
+    },
+    {
+      "surface": "העם",
+      "gloss": "al'umma"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "da sunan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-13T00:16:21.677823149Z",
+  "model": "glm-5.2"
+}

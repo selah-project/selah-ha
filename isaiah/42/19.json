@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 42:19",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Wane ⟨ne⟩ makafi, face bawa Ta? Kuma kurma kamar manzana Na aike? Wane ⟨ne⟩ makafi kamar amintacce, kuma makafi kamar bawan Yahweh?",
+  "tokens": [
+    {
+      "surface": "מִ֤י",
+      "gloss": "wane"
+    },
+    {
+      "surface": "עִוֵּר֙",
+      "gloss": "makafi"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "face"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "⟨tabbatacce⟩"
+    },
+    {
+      "surface": "עַבְדִּ֔י",
+      "gloss": "bawa Ta"
+    },
+    {
+      "surface": "וְחֵרֵ֖שׁ",
+      "gloss": "kuma kurma"
+    },
+    {
+      "surface": "כְּמַלְאָכִ֣י",
+      "gloss": "kamar manzana Na"
+    },
+    {
+      "surface": "אֶשְׁלָ֑ח",
+      "gloss": "Na aike"
+    },
+    {
+      "surface": "מִ֤י",
+      "gloss": "wane"
+    },
+    {
+      "surface": "עִוֵּר֙",
+      "gloss": "makafi"
+    },
+    {
+      "surface": "כְּמְשֻׁלָּ֔ם",
+      "gloss": "kamar amintacce"
+    },
+    {
+      "surface": "וְעִוֵּ֖ר",
+      "gloss": "kuma makafi"
+    },
+    {
+      "surface": "כְּעֶ֥בֶד",
+      "gloss": "kamar bawan"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T14:07:44.551018463Z",
+  "model": "glm-5.2"
+}

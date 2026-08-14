@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma sarki ya koma, ya zo har Yarden. Kuma Yahuda ta zo Gilgala don tafiya don halartar sarki, don kashewa ⟨את⟩ sarki ⟨a cikin⟩ ⟨את⟩ Yarden.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Kuma ya koma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ya zo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Kuma Yahuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ta zo"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Gilgala"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "don tafiya"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "don halartan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "don kashewa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-12T10:35:42.666997396Z",
+  "model": "glm-5.2"
+}

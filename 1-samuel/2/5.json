@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 2:5",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Masu sha waje a cikin gurasar an yi hayar su, kuma masu yunwa sun daina ⟨yin aikin⟩; har ƙwarai ta haifi ⟨iya⟩ bakwai, kuma mai yawan ƙwana ⟨ta⟩ gaji.",
+  "tokens": [
+    {
+      "surface": "שְׂבֵעִ֤ים",
+      "gloss": "masu sha waje"
+    },
+    {
+      "surface": "בַּלֶּ֨חֶם֙",
+      "gloss": "a cikin gurasar"
+    },
+    {
+      "surface": "נִשְׂכָּ֔רוּ",
+      "gloss": "an yi hayar su"
+    },
+    {
+      "surface": "וּרְעֵבִ֖ים",
+      "gloss": "kuma masu yunwa"
+    },
+    {
+      "surface": "חָדֵ֑לּוּ",
+      "gloss": "sun daina"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "har"
+    },
+    {
+      "surface": "עֲקָרָה֙",
+      "gloss": "ƙwarai"
+    },
+    {
+      "surface": "יָלְדָ֣ה",
+      "gloss": "ta haifi"
+    },
+    {
+      "surface": "שִׁבְעָ֔ה",
+      "gloss": "bakwai"
+    },
+    {
+      "surface": "וְרַבַּ֥ת",
+      "gloss": "kuma mai yawan"
+    },
+    {
+      "surface": "בָּנִ֖ים",
+      "gloss": "ƙwana"
+    },
+    {
+      "surface": "אֻמְלָֽלָה",
+      "gloss": "ta gaji"
+    }
+  ],
+  "timestamp": "2026-08-12T08:21:01.545781619Z",
+  "model": "glm-5.2"
+}

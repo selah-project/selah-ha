@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Sai Iyov ya tashi, ya tsaga ⟨את⟩ rigarsa, ya aske ⟨את⟩ kansa, ya faɗa kasa, ya lallasa.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sai ya tashi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ya tsaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rigarsa"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "rigarsa"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "ya aske"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "kasa"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ya lallasa"
+    }
+  ],
+  "timestamp": "2026-08-12T21:40:35.183205399Z",
+  "model": "glm-5.2"
+}

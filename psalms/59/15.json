@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 59,
+  "translation": "Kuma su koma da yamma, su yi gargaɗi kamar kare, su kewaye gari.",
+  "tokens": [
+    {
+      "surface": "וְיָשׁ֣וּבוּ",
+      "gloss": "kuma su koma"
+    },
+    {
+      "surface": "לָ֭עֶרֶב",
+      "gloss": "da yamma"
+    },
+    {
+      "surface": "יֶהֱמ֥וּ",
+      "gloss": "su yi gargaɗi"
+    },
+    {
+      "surface": "כַכָּ֗לֶב",
+      "gloss": "kamar kare"
+    },
+    {
+      "surface": "וִיס֥וֹבְבוּ",
+      "gloss": "su kewaye"
+    },
+    {
+      "surface": "עִֽיר",
+      "gloss": "gari"
+    }
+  ],
+  "timestamp": "2026-08-12T19:54:29.727751290Z",
+  "model": "glm-5.2"
+}

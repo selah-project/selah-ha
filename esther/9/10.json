@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "goma ɗaya ɗaya Haman ɗan Hamdata, mai tsimrin Yahudawa, sun kashe ⟨su⟩; amma ga ganima ba su miƙa ⟨את⟩ hannunsu ba.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "goma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya'yan"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "mai tsanfan"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yahudawa"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "sun kashe"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "amma ga ganima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "su miƙa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannunsu"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "hannunsu"
+    }
+  ],
+  "timestamp": "2026-08-12T22:57:49.063296694Z",
+  "model": "glm-5.2"
+}

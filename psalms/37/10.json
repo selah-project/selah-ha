@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma da ƙanƙani, kuma mugun ba shi, kuma ka duba wajen wurinsa, kuma ba shi.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Kuma da"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ƙanƙani"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma ba shi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mugun"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "kuma ka duba"
+    },
+    {
+      "surface": "על",
+      "gloss": "wajen"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "wurinsa"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "kuma ba shi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:38:22.871893414Z",
+  "model": "glm-5.2"
+}

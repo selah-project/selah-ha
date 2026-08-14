@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 11:9",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Ba zan yi ⟨ba⟩ ƙone-ƙone na fushina, ba zan koma ba in lalata Efrayim, domin Ni El ne kuma ba ⟨na⟩ mutum ba; Tsarki ⟨yana⟩ cikinku, kuma ba zan shiga cikin gari ba.",
+  "tokens": [
+    {
+      "surface": "לֹ֤א",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "אֶֽעֱשֶׂה֙",
+      "gloss": "zan yi"
+    },
+    {
+      "surface": "חֲר֣וֹן",
+      "gloss": "ƙone-ƙone"
+    },
+    {
+      "surface": "אַפִּ֔י",
+      "gloss": "na fushina"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אָשׁ֖וּב",
+      "gloss": "zai koma"
+    },
+    {
+      "surface": "לְשַׁחֵ֣ת",
+      "gloss": "in lalata"
+    },
+    {
+      "surface": "אֶפְרָ֑יִם",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אֵ֤ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אָֽנֹכִי֙",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "אִ֔ישׁ",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "בְּקִרְבְּךָ֣",
+      "gloss": "cikinku"
+    },
+    {
+      "surface": "קָד֔וֹשׁ",
+      "gloss": "Tsarki"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "אָב֖וֹא",
+      "gloss": "zan shiga"
+    },
+    {
+      "surface": "בְּעִֽיר",
+      "gloss": "cikin gari"
+    }
+  ],
+  "timestamp": "2026-08-12T18:16:22.550250339Z",
+  "model": "glm-5.2"
+}

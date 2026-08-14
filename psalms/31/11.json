@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Domin rayuwata ta ƙare ⟨da⟩ baƙin ciki, shekaru ta da shida, ƙarfina ya rushe ⟨saboda⟩ laifina, kuma ƙashina suka ƙare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ta ƙare"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "da baƙin ciki"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "rayuwata"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "shekaru ta"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "da shida"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "ya rushe"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "saboda laifina"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ƙarfina"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "kuma ƙashina"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "suka ƙare"
+    }
+  ],
+  "timestamp": "2026-08-12T19:30:37.290265018Z",
+  "model": "glm-5.2"
+}

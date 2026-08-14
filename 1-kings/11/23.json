@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Elohim kuma ya tada masa ⟨wani⟩ adāwa, ⟨את⟩ Rezon ɗan Elyada', wanda ya gudu daga ⟨את⟩ Hadadezer Sarkin Tsovah, ubangijinsa.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kuma ya tada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "adāwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezon"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Elyada'"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ya gudu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "daga ⟨את⟩",
+      "marks": "Hadadezer Sarkin Tsovah"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Sarkin"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsovah"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ubangijinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T11:18:46.472093302Z",
+  "model": "glm-5.2"
+}

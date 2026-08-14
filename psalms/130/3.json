@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 130,
+  "translation": "Idan ⟨kai⟩ kana tona laifuffuka, Yah, Adonai, wa zai iya tsayãwa?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "laifuffuka"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "kana tona"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "zai iya tsayãwa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:49:42.000351887Z",
+  "model": "glm-5.2"
+}

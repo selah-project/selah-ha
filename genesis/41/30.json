@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Kuma shekaru bakwai na yunwa za su taso a bayansu, kuma za a manta da dukkan yalwar ⟨da⟩ cikin ƙasar Mitsrayim, kuma yunwar za ta ƙare ⟨את⟩ ƙasar.",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "Kuma za su taso"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bakwai"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "yunwa"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "a bayansu"
+    },
+    {
+      "surface": "ונשכח",
+      "gloss": "kuma za a manta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "yalwar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "cikin ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "kuma za ta ƙare"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "yunwar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    }
+  ],
+  "timestamp": "2026-08-12T00:11:46.897325986Z",
+  "model": "glm-5.2"
+}

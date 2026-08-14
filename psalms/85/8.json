@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 85,
+  "translation": "Ka nuna mana, Yahweh, chesed din ka, kuma ka ba mu tsirar ka.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Ka nuna mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed din ka"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "kuma tsirar ka"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ka ba"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:15:20.281256174Z",
+  "model": "glm-5.2"
+}

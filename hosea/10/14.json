@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 10:14",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma tã tãgu tsãwa cikin mutãnenka, kuma dukkan katangunku za a lalata, kamar lalata Shalman ⟨a⟩ Bet-Arbel, a rana ⟨ta⟩ yãƙi; uwa ⟨a⟩ kan 'ya'ya an tsage.",
+  "tokens": [
+    {
+      "surface": "וקאם",
+      "gloss": "kuma tã tãgu"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "tsãwa"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "cikin mutãnenka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma dukkan"
+    },
+    {
+      "surface": "מבצריך",
+      "gloss": "katangunku"
+    },
+    {
+      "surface": "יושד",
+      "gloss": "za a lalata"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "kamar lalata"
+    },
+    {
+      "surface": "שלמן",
+      "gloss": "Shalman"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "ארבאל",
+      "gloss": "Arbel"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana ⟨ta⟩"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "yãƙi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨a⟩ kan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "'ya'ya"
+    },
+    {
+      "surface": "רטשה",
+      "gloss": "an tsage"
+    }
+  ],
+  "timestamp": "2026-08-12T18:16:53.629576362Z",
+  "model": "glm-5.2"
+}

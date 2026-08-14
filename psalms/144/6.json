@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 144,
+  "translation": "Ka walƙã warƙẽwa ka watse su, ka ari kibiyõyinka ka ɗãra su.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "ka walƙã"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "warƙẽwa"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "ka watse su"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ka ari"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "kibiyõyinka"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "ka ɗãra su"
+    }
+  ],
+  "timestamp": "2026-08-12T20:57:04.862091261Z",
+  "model": "glm-5.2"
+}

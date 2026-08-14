@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Gama wa ne a cikin gajimare za ya iya kwatanta da Yahweh? Wa ne za ya kama da Yahweh a cikin ƴaʼyan masu ƙarfi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gama"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "a cikin gajimare"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "za ya iya kwatanta da"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "wa ne za ya kama da"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "a cikin ƴaʼyan"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "masu ƙarfi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:16:19.039623308Z",
+  "model": "glm-5.2"
+}

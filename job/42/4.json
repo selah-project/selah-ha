@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Sai ka ji ina roƙonka, kuma ni zan yi magana; zan tambaye ka, kuma ka sanar da ni.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Sai ka ji"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ina roƙonka"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "zan yi magana"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "zan tambaye ka"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "kuma ka sanar da ni"
+    }
+  ],
+  "timestamp": "2026-08-12T22:20:56.859812786Z",
+  "model": "glm-5.2"
+}

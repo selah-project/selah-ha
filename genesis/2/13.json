@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma sunan kogin na biyu ⟨ne⟩ Gichon, shi ⟨ne⟩ wajen kewaye ⟨את⟩ dukkan ƙasar Kush.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Kuma sunan"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "kogin"
+    },
+    {
+      "surface": "השני",
+      "gloss": "na biyu"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "wajen kewaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan ƙasar Kush"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-08-13T01:42:37.478847307Z",
+  "model": "glm-5.2"
+}

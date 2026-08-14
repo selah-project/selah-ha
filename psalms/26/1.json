@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Na Dawuda. Ka yi min shari'a, Yahweh, domin ni cikin maraice na na tafiya, kuma a cikin Yahweh na dogara, ba zan girgima ba.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Na Dawuda"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Ka yi min shari'a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "cikin maraice na"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "na tafiya"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "kuma a cikin Yahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "na dogara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "zan girgima"
+    }
+  ],
+  "timestamp": "2026-08-12T19:32:03.187971367Z",
+  "model": "glm-5.2"
+}

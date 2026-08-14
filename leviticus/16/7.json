@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma ya riƙi ⟨את⟩ biyun nagin, ya tsaya ⟨את⟩ su ⟨a⟩ gaban Yahweh, a ƙofar ⟨а⟩ tidan tarawa.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "kuma ya riƙi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyun nagin"
+    },
+    {
+      "surface": "שני",
+      "gloss": "biyun"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "nagin"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "ya tsaya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ su"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨a⟩ gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "a ƙofar"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "⟨а⟩ tidan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tarawa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:28:32.619189998Z",
+  "model": "glm-5.2"
+}

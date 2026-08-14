@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma Yahweh ya faɗa wa Avram: \"Ka tafi zuwa gare ka, daga ƙasarka, da kuma daga asalinka, da kuma daga gidan mahaifinka, zuwa ƙasar da zan nuna maka.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka tafi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "zuwa gare ka"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "daga ƙasarka"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "da kuma daga asalinka"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "da kuma daga gidan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "mahaifinka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "zan nuna maka"
+    }
+  ],
+  "timestamp": "2026-08-13T01:42:58.535527719Z",
+  "model": "glm-5.2"
+}

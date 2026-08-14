@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Ba ka ba wa mai gajiyawa ruwa ⟨don sha⟩, kuma daga mai yunwa ka hana burodi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "mai gajiyawa"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "ka ba wa ◌ don sha"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "kuma daga mai yunwa"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ka hana"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "burodi"
+    }
+  ],
+  "timestamp": "2026-08-12T21:58:35.981122480Z",
+  "model": "glm-5.2"
+}

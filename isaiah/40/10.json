@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Ga, Adonai Yahweh yana zuwa da ƙarfi, hannunSa na mulki ⟨ne⟩ a gare Shi; ga, ladanSa yana tare da Shi, ⟨את⟩ aikinSa a gabanSa.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "da ƙarfi"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "yana zuwa"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "hannunSa"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "na mulki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a gare Shi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "ladanSa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "aikinSa"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "aikinSa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "a gabanSa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:09:39.228425668Z",
+  "model": "glm-5.2"
+}

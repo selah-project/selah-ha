@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Gama mẽne ne fifikon mai hikima a kan wãya? Mẽne ne matalaucin da ya sani yana da shi, wajen tafiya a gaban masãra?",
+  "tokens": [
+    {
+      "surface": "כִּ֛י",
+      "gloss": "gama"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "mẽne ne"
+    },
+    {
+      "surface": "יּוֹתֵ֥ר",
+      "gloss": "fifiko"
+    },
+    {
+      "surface": "לֶחָכָ֖ם",
+      "gloss": "mai hikima"
+    },
+    {
+      "surface": "מִֽן",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הַכְּסִ֑יל",
+      "gloss": "wãya"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "mẽne ne"
+    },
+    {
+      "surface": "לֶּעָנִ֣י",
+      "gloss": "matalaucin"
+    },
+    {
+      "surface": "יוֹדֵ֔עַ",
+      "gloss": "da ya sani"
+    },
+    {
+      "surface": "לַהֲלֹ֖ךְ",
+      "gloss": "wajen tafiya"
+    },
+    {
+      "surface": "נֶ֥גֶד",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "הַחַיִּֽים",
+      "gloss": "masãra"
+    }
+  ],
+  "timestamp": "2026-08-12T22:47:26.887520238Z",
+  "model": "glm-5.2"
+}

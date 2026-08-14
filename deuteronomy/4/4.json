@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Amma ku, masu matsewa cikin Yahweh Elohiminku, ku raye dukanku a yau.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Amma ku"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "masu matsewa cikin"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminku"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ku raye"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "dukanku"
+    },
+    {
+      "surface": "היום",
+      "gloss": "a yau"
+    }
+  ],
+  "timestamp": "2026-08-12T04:59:26.401336248Z",
+  "model": "glm-5.2"
+}

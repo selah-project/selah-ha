@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma kuna nema daga can ⟨את⟩ Yahweh, Elohim naku, kuma za ku same ⟨Shi⟩, domin kuna neman Sa da dukkan zuciyarku da da dukkan ranyarku.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "kuma kuna nema"
+    },
+    {
+      "surface": "משם",
+      "gloss": "daga can"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naku"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "kuma za ku same"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "kuna neman Sa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "zuciyarku"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "da da dukkan"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ranyarku"
+    }
+  ],
+  "timestamp": "2026-08-12T05:00:09.093247438Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Abin da ya kasance, shi ne zai kasance, kuma abin da aka yi, shi ne za a yi, kuma babu wani abu mai sabawa a ƙarƙashin rana.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi ne"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "zai kasance"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "kuma abin da"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "aka yi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi ne"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "za a yi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wani abu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mai sabawa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a ƙarƙashin"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rana"
+    }
+  ],
+  "timestamp": "2026-08-12T22:39:41.745425878Z",
+  "model": "glm-5.2"
+}

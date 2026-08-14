@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 145,
+  "translation": "Don sanar da 'ya'yan adam game da ƙarfin sa, da kuma girman darajar mulkinsa.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "Don sanar da"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "ƙarfin sa"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "da kuma girman darajar"
+    },
+    {
+      "surface": "הדר",
+      "gloss": ""
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "mulkinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:57:56.607181189Z",
+  "model": "glm-5.2"
+}

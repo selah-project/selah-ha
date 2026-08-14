@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 6:16",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma ya gina ⟨את⟩ gwauron igiyar ƙafa ashirin a baya na gida da allunan sedar, daga fala har zuwa ganuwa; kuma ya gina shi daga ciki don dabir, don Tsarkin Tsarkuka.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Kuma ya gina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gwauron igiyar ƙafa ashirin"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "igiyar ƙafa"
+    },
+    {
+      "surface": "מירכותי",
+      "gloss": "a baya"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "da allunan"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "fala"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "ganuwa"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "kuma ya gina shi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "daga ciki"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "don dabir"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "don Tsarkin"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "Tsarkuka"
+    }
+  ],
+  "timestamp": "2026-08-12T11:05:16.560600Z",
+  "model": "glm-5.2"
+}

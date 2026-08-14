@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Ya mayar da ⟨את⟩ dukiya gabanta ɗaya, har da ⟨את⟩ lot ɗan'uwansa da dukiyarsa ya mayar, har da ⟨את⟩ mata da ⟨את⟩ jama'a.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ya mayar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukiya gabanta ɗaya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gabanta ɗaya"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "dukiya"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "har da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ɗan'uwansa"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "da dukiyarsa"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "ya mayar"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "har da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mata"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "mata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "jama'a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    }
+  ],
+  "timestamp": "2026-08-11T23:32:43.904130254Z",
+  "model": "glm-5.2"
+}

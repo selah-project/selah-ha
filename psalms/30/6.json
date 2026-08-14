@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Dõmin glãƙa ⟨ne⟩ a cikin fushinSa, rai ⟨yana⟩ a cikin da'ãwarSa; da yãƙe zai kwana da kuka, amma da safe ⟨akwai⟩ murna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dõmin"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "glãƙa"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "a cikin fushinSa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "rai"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "a cikin da'ãwarSa"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "da yãƙe"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "zai kwana"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "da kuka"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "amma da safe"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "murna"
+    }
+  ],
+  "timestamp": "2026-08-12T19:32:43.220744342Z",
+  "model": "glm-5.2"
+}

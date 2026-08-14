@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Su yi gōdiyā ga Yahweh ga chesed ⟨sa⟩, da kuma abin al'ajabi ⟨sa⟩ ga ƴa'ƴan adam!",
+  "tokens": [
+    {
+      "surface": "יוֹד֣וּ",
+      "gloss": "Su yi gōdiyā"
+    },
+    {
+      "surface": "לַיהוָ֣ה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "חַסְדּ֑וֹ",
+      "gloss": "ga chesed"
+    },
+    {
+      "surface": "וְ֝נִפְלְאוֹתָ֗יו",
+      "gloss": "da kuma abin al'ajabi"
+    },
+    {
+      "surface": "לִבְנֵ֥י",
+      "gloss": "ga ƴa'ƴan"
+    },
+    {
+      "surface": "אָדָֽם",
+      "gloss": "adam"
+    }
+  ],
+  "timestamp": "2026-08-12T20:33:13.221962594Z",
+  "model": "glm-5.2"
+}

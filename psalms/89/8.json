@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "El da ake tsoron girman sa a cikin sirrin masu tsarki, manyan mutane, kuma mai tsoratarwa a kan duk waɗanda suke kewaye da shi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "da ake tsoron girman sa"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "a cikin sirrin"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "masu tsarki"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "manyam mutane"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "kuma mai tsoratarwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "waɗanda suke kewaye da shi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:16:19.039767430Z",
+  "model": "glm-5.2"
+}

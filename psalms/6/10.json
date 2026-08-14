@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Yahweh ya ji ⟨roƙona⟩, Yahweh zai karɓi addu'ata.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ya ji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "⟨roƙona⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "addu'ata"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "zai karɓi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:22:21.787572802Z",
+  "model": "glm-5.2"
+}

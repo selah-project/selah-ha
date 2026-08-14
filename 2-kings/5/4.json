@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Ya kuma shiga ya faɗa wa ubangijinsa, yana cewa, \"Haka nan da haka ne 'yarinyar da ta fito daga ƙasar Yisra'el ta faɗa.\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ya kuma shiga"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "wa ubangijinsa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "haka"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "kuma haka"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "ta faɗa"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "'yarinyar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T12:04:30.021387627Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 128,
+  "translation": "⟨Kuma⟩ ka ga 'ya'ya na 'ya'yanka, ⟨alarma⟩ shalom ⟨a⟩ kan Yisira'ela.",
+  "tokens": [
+    {
+      "surface": "וּרְאֵה",
+      "gloss": "⟨Kuma⟩ ka ga"
+    },
+    {
+      "surface": "בָנִים",
+      "gloss": "'ya'ya"
+    },
+    {
+      "surface": "לְבָנֶיךָ",
+      "gloss": "na 'ya'yanka"
+    },
+    {
+      "surface": "שָׁלוֹם",
+      "gloss": "⟨alarma⟩ shalom"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "⟨a⟩ kan"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisira'ela"
+    }
+  ],
+  "timestamp": "2026-08-12T20:47:34.261101875Z",
+  "model": "glm-5.2"
+}

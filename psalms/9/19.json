@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Gama ba a har abada a manta da matalauci; bege na masu tawali'u ba ya lalacewa har abada.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "a har abada"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "a manta da"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "matalauci"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "bege"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "na masu tawali'u"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ba ya lalacewa"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-12T19:20:10.560311254Z",
+  "model": "glm-5.2"
+}

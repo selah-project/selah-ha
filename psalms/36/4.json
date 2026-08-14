@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Kalmomin bakinsa rashin amana da zagi ne; ya daina yin hikima da kyautatawa.",
+  "tokens": [
+    {
+      "surface": "דִּבְרֵי",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "פִ֭יו",
+      "gloss": "bakinsa"
+    },
+    {
+      "surface": "אָ֣וֶן",
+      "gloss": "rashin amana"
+    },
+    {
+      "surface": "וּמִרְמָ֑ה",
+      "gloss": "da zagi"
+    },
+    {
+      "surface": "חָדַ֖ל",
+      "gloss": "ya daina"
+    },
+    {
+      "surface": "לְהַשְׂכִּ֣יל",
+      "gloss": "yin hikima"
+    },
+    {
+      "surface": "לְהֵיטִֽיב",
+      "gloss": "da kyautatawa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:38:09.780816609Z",
+  "model": "glm-5.2"
+}

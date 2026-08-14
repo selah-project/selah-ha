@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Ya ta yaya ba a bar ta, ⟨non⟩ birnin yabo, birnin murnata!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Ya ta yaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "a bar ta"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "yabo"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "murnata"
+    }
+  ],
+  "timestamp": "2026-08-12T16:34:52.124408999Z",
+  "model": "glm-5.2"
+}

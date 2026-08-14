@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 22:23",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "domin Yahweh zai yi musu shari'a, kuma zai ceci ⟨את⟩ masu yaudarar su rai.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יָרִ֣יב",
+      "gloss": "zai yi... shari'a"
+    },
+    {
+      "surface": "רִיבָ֑ם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "וְקָבַ֖ע",
+      "gloss": "kuma zai ceci"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "masu yaudarar su"
+    },
+    {
+      "surface": "קֹבְעֵיהֶ֣ם",
+      "gloss": "masu yaudarar su"
+    },
+    {
+      "surface": "נָֽפֶשׁ",
+      "gloss": "rai"
+    }
+  ],
+  "timestamp": "2026-08-12T21:25:47.187190916Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 2:7",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "domin uwarsu ta yi karuwanci, ta kunyata wadda ta ɗauke ciki da su, domin ta ce: Ni zan biya wa masoyana, masu bayar da gurarina da ruwanina, ulina da lintana, manina da abin shaṋna.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "זָֽנְתָה֙",
+      "gloss": "ta yi karuwanci"
+    },
+    {
+      "surface": "אִמָּ֔ם",
+      "gloss": "uwarsu"
+    },
+    {
+      "surface": "הֹבִ֖ישָׁה",
+      "gloss": "ta kunyata"
+    },
+    {
+      "surface": "הֽוֹרָתָ֑ם",
+      "gloss": "wadda ta ɗauke ciki da su"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אָמְרָ֗ה",
+      "gloss": "ta ce"
+    },
+    {
+      "surface": "אֵלְכָ֞ה",
+      "gloss": "Ni zan biya wa"
+    },
+    {
+      "surface": "אַחֲרֵ֤י",
+      "gloss": "→ (an hade da \"zan biya wa\")"
+    },
+    {
+      "surface": "מְאַהֲבַי֙",
+      "gloss": "masoyana"
+    },
+    {
+      "surface": "נֹתְנֵ֤י",
+      "gloss": "masu bayar da"
+    },
+    {
+      "surface": "לַחְמִי֙",
+      "gloss": "gurarina"
+    },
+    {
+      "surface": "וּמֵימַ֔י",
+      "gloss": "da ruwanina"
+    },
+    {
+      "surface": "צַמְרִ֣י",
+      "gloss": "ulina"
+    },
+    {
+      "surface": "וּפִשְׁתִּ֔י",
+      "gloss": "da lintana"
+    },
+    {
+      "surface": "שַׁמְנִ֖י",
+      "gloss": "manina"
+    },
+    {
+      "surface": "וְשִׁקּוּיָֽי",
+      "gloss": "da abin shaṋna"
+    }
+  ],
+  "timestamp": "2026-08-12T18:12:06.267096220Z",
+  "model": "glm-5.2"
+}

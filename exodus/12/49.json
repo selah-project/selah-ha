@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Torah ɗaya ⟨za ta kasance⟩ ga ɗan ƙasa, kuma ga baƙin da ke yawo a cikinku.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨za ta kasance⟩"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "ga ɗan ƙasa"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "kuma ga baƙin"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "da ke yawo"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "a cikinku"
+    }
+  ],
+  "timestamp": "2026-08-12T00:44:02.893677296Z",
+  "model": "glm-5.2"
+}

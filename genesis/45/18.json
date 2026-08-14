@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "'Kuma ku dauko ⟨את⟩ ubanninku da ⟨את⟩ iyalanku, ku zo wurina, sa'an nan ⟨zan⟩ ba ku ⟨את⟩ nagartaccen abu na ƙasar Mitsrayim, kuma ku ci ⟨את⟩ kitse na ƙasar.'",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "Kuma ku dauko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubanninku"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "ubanninku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "iyalanku"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "iyalanku"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ku zo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "wurina"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "sa'an nan ⟨zan⟩ ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nagartaccen abu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nagartaccen abu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "na ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "kuma ku ci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kitse"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "kitse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "na ƙasar"
+    }
+  ],
+  "timestamp": "2026-08-12T00:21:41.112430645Z",
+  "model": "glm-5.2"
+}

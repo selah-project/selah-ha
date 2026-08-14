@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Sai Mosheh ya zo, ya kira dattijon al'ummar, kuma ya ajiye ⟨a gaban su⟩ ⟨את⟩ dukkan waɗannan kalmomin da Yahweh ya umarce shi da su.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "sai ... ya zo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ya kira"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "dattijon"
+    },
+    {
+      "surface": "העם",
+      "gloss": "al'ummar"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kuma ya ajiye"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "a gaban su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan waɗannan kalmomin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ya umarce shi da su"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T00:52:31.556545592Z",
+  "model": "glm-5.2"
+}

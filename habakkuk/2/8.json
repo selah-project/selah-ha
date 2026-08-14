@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "habakkuk 2:8",
+  "book": "habakkuk",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Domin ⟨kai⟩ ka yi fashi ga al'ummai da yawa, dukkan sauran mutane za su yi maka fashi — saboda jinin mutane da rashawa na ƙasa, birni, da duk wadanda ke zaune a cikinsa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨kai⟩ ka"
+    },
+    {
+      "surface": "שלות",
+      "gloss": "yi fashi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ga al'ummai"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "ישלוך",
+      "gloss": "za su yi maka fashi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "sauran"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "מדמי",
+      "gloss": "saboda jinin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "וחמס",
+      "gloss": "da rashawa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "na ƙasa"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "birni"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da duk"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wadanda ke zaune"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a cikinsa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:21:51.951004721Z",
+  "model": "glm-5.2"
+}

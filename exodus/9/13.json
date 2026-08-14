@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 9:13",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma Yahweh ya ce wa Mosheh: \"Tashi da safi safe, ka tsaya a gaban Paroh, kuma ka ce masa: 'Haka ya faɗa Yahweh, Elohim na Ibraniyawa: Saka ⟨את⟩ mutana su bauta min.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "Tashi da safi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "safe"
+    },
+    {
+      "surface": "והתיצב",
+      "gloss": "ka tsaya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "kuma ka ce"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Haka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "na Ibraniyawa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Saka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutana"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mutana"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "su bauta min"
+    }
+  ],
+  "timestamp": "2026-08-12T00:39:20.700257099Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 139,
+  "translation": "Hanyata da kwantonata ka duba, ⟨kuma⟩ ga dukkan hanyoyina ka san su.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "Hanyata"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "da kwantonata"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "ka duba"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "⟨kuma⟩ ga dukkan"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "hanyoyina"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "ka san su"
+    }
+  ],
+  "timestamp": "2026-08-12T20:54:18.438348204Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Kuma ya mika mutānensa ⟨ga⟩ takobi, da gādonSa ya tāda fushinsa.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "kuma ya mika"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "⟨ga⟩ takobi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mutānensa"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "da gādonSa"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "ya tāda fushinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:10:55.914305465Z",
+  "model": "glm-5.2"
+}

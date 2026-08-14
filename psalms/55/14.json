@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 55,
+  "translation": "Amma Kai, mutum daidai da ni, abokina na kud da kud, kuma wanda na san shi.",
+  "tokens": [
+    {
+      "surface": "וְאַתָּ֣ה",
+      "gloss": "amma Kai"
+    },
+    {
+      "surface": "אֱנ֣וֹשׁ",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "כְּעֶרְכִּ֑י",
+      "gloss": "daidai da ni"
+    },
+    {
+      "surface": "אַ֝לּוּפִ֗י",
+      "gloss": "abokina na kud da kud"
+    },
+    {
+      "surface": "וּמְיֻדָּֽעִי",
+      "gloss": "kuma wanda na san shi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:51:03.031690926Z",
+  "model": "glm-5.2"
+}

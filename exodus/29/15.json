@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma ⟨את⟩ ɗan akwiya guda za ka riɓe, kuma Aharon da 'ya'yansa za su dora ⟨את⟩ hannayensu a kan kan ɗan akwiyan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Kuma ⟨את⟩",
+      "marks": "ɗan akwiya"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ɗan akwiya"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "guda"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "za ka riɓe"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "kuma za su dora"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "da 'ya'yansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannayensu"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hannayensu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ɗan akwiyan"
+    }
+  ],
+  "timestamp": "2026-08-12T01:14:30.333384882Z",
+  "model": "glm-5.2"
+}

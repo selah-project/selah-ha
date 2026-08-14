@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 96,
+  "translation": "Ku faɗa cikin al'ummai, Yahweh ya yi sarauta, ⟨har⟩ duniya ta tabbata, ba za ta girgiza ba, ⟨ya⟩ zana al'ummai da daidaito.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Ku faɗa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "cikin al'ummai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya yi sarauta"
+    },
+    {
+      "surface": "אף",
+      "gloss": "⟨har⟩"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ta tabbata"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "duniya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "za ta girgiza ⟨ba⟩"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "⟨ya⟩ zana"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "al'ummai"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "da daidaito"
+    }
+  ],
+  "timestamp": "2026-08-12T20:20:00.939948864Z",
+  "model": "glm-5.2"
+}

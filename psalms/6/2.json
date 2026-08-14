@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Yahweh, kada ka yi mini tambaya ⟨a⟩ cikin fushinka, kuma kada ka yi mini tarbiyya ⟨a⟩ cikin taurin rainka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "cikin fushinka"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "ka yi mini tambaya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "cikin taurin rainka"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "ka yi mini tarbiyya"
+    }
+  ],
+  "timestamp": "2026-08-12T19:16:14.602233153Z",
+  "model": "glm-5.2"
+}

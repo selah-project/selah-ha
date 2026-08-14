@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 1:10",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Eliyahu ya amsa ya yi magana da shugaban hamsin: \"Idan ni mutumin Elohim ne, to wuta za ta sauko daga sama, za ta cinye ⟨את⟩ ka da ⟨את⟩ hamsinka.\" Wata ce ta sauko daga sama ta cinye ⟨את⟩ shi da ⟨את⟩ hamsinsa.",
+  "tokens": [
+    {
+      "surface": "ויענה",
+      "gloss": "ya amsa"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ya yi magana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "שר",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "hamsin"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "za ta sauko"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "za ta cinye"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hamsinka"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "hamsinka"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "ta sauko"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ta cinye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hamsinsa"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "hamsinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T11:53:06.545780226Z",
+  "model": "glm-5.2"
+}

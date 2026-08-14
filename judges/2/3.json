@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma na ce kuma: Ba zan kore su daga gabanku ba, kuma sun kasance makuƴa a gefenku, kuma allolinsu sun kasance maƙuƙa muku.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Kuma kuma"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "na ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "zan kore"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "daga gabanku"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kuma sun kasance"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "maku"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "a gefenku"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "kuma allolinsu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sun kasance"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "maƙuƙa"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "muku"
+    }
+  ],
+  "timestamp": "2026-08-12T07:12:11.978348514Z",
+  "model": "glm-5.2"
+}

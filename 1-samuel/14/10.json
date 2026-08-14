@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 14:10",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma idan suka ce haka: 'Ku hau zuwa gare mu,' to, za mu hau, domin Yahweh ya ba su cikin hannun mu, kuma wannan zai zama alama ⟨ne⟩ a gare mu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "כה",
+      "gloss": "haka"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Ku hau"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "zuwa gare mu"
+    },
+    {
+      "surface": "ועלינו",
+      "gloss": "za mu hau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "ya ba su"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "cikin hannun mu"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "kuma wannan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a gare mu"
+    },
+    {
+      "surface": "האות",
+      "gloss": "alama"
+    }
+  ],
+  "timestamp": "2026-08-12T09:04:46.379091769Z",
+  "model": "glm-5.2"
+}

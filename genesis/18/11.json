@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 18:11",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma Avraham da Sarah tsofaffi ⟨ne⟩, suna zuwa cikin kwanaki; tsari ya ɓace ga Sarah, kamar na mata.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Kuma Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "da Sarah"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "tsofaffi"
+    },
+    {
+      "surface": "באים",
+      "gloss": "suna zuwa"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "cikin kwanaki"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ya ɓace"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "tsari"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "ga Sarah"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "כנשים",
+      "gloss": "na mata"
+    }
+  ],
+  "timestamp": "2026-08-13T01:42:46.121127043Z",
+  "model": "glm-5.2"
+}

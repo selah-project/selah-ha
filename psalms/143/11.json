@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 143,
+  "translation": "Don sunanka, Yahweh, ka rãyar da ni; a cikin adãlanka, ka fitar da rãyana daga ƈãshin.",
+  "tokens": [
+    {
+      "surface": "לְמַעַן",
+      "gloss": "Don"
+    },
+    {
+      "surface": "שִׁמְךָ",
+      "gloss": "sunanka"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תְּחַיֵּנִי",
+      "gloss": "ka rãyar da ni"
+    },
+    {
+      "surface": "בְּצִדְקָתְךָ",
+      "gloss": "a cikin adãlanka"
+    },
+    {
+      "surface": "תוֹצִיא",
+      "gloss": "ka fitar da"
+    },
+    {
+      "surface": "מִצָּרָה",
+      "gloss": "daga ƈãshin"
+    },
+    {
+      "surface": "נַפְשִׁי",
+      "gloss": "rãyana"
+    }
+  ],
+  "timestamp": "2026-08-12T20:54:04.450083866Z",
+  "model": "glm-5.2"
+}

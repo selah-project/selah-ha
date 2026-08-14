@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Sai Eli ya kira ⟨את⟩ Shemu'el, ya ce: \"Shemu'el, ɗana.\" Kuma ya ce: \"Ina nan.\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "sai ya kira"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemu'el"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ina nan"
+    }
+  ],
+  "timestamp": "2026-08-12T08:33:30.523348870Z",
+  "model": "glm-5.2"
+}

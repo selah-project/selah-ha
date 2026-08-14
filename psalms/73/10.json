@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 73,
+  "translation": "Saboda haka ⟨al'ummarsa⟩ suna komawa nan, kuma ruwan cikakke suna zowa gare su ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Saboda haka"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "suna komawa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨al'ummarsa⟩"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kuma ruwan"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "cikakke"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "suna zowa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "gare su"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:00.707068021Z",
+  "model": "glm-5.2"
+}

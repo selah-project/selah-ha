@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 80,
+  "translation": "itação inabi ta Mitsrayim ka ɗauka, ka kori gwarai, kuma ka shuka ⟨את⟩ ita.",
+  "tokens": [
+    {
+      "surface": "גֶּ֭פֶן",
+      "gloss": "itation"
+    },
+    {
+      "surface": "מִמִּצְרַ֣יִם",
+      "gloss": "daga Mitsrayim"
+    },
+    {
+      "surface": "תַּסִּ֑יעַ",
+      "gloss": "ka ɗauka"
+    },
+    {
+      "surface": "תְּגָרֵ֥שׁ",
+      "gloss": "ka kori"
+    },
+    {
+      "surface": "גּ֝וֹיִ֗ם",
+      "gloss": "gwarai"
+    },
+    {
+      "surface": "וַתִּטָּעֶֽהָ",
+      "gloss": "kuma ka shuka ita"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:00.701553131Z",
+  "model": "glm-5.2"
+}

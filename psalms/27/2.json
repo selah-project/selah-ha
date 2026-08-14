@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "A kusa da shiga mugaye su a kā ni don ci ⟨את⟩ jîna, maƙiyata da abokan gābana ⟨su⟩ a ni, sū sun buɗaɗɗe suka fāɗa.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "A kusa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su a kā ni"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "mugaye"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "don ci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jîna"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "jîna"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "maƙiyata"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "da abokan gābana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a ni"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sū"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "sun buɗaɗɗe"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "suka fāɗa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:32:02.850060970Z",
+  "model": "glm-5.2"
+}

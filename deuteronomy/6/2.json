@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 6:2",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "domin ka girmama ⟨את⟩ Yahweh, Elohim-ka, don ka kiyaye dukkan dokokinsa da umarnninsa waɗanda ni nake yi maka umarni — kai da ɗanka da ɗan ɗanka — dukkan kwanakin rayuwarka, kuma domin a tsawaita kwanakinka.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "domin"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ka girmama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ka"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "don ka kiyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukka"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "dokokinsa"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "da umarnninsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nake yi maka umarni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "da ɗanka"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "da ɗan"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ɗanka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "rayuwarka"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "kuma domin"
+    },
+    {
+      "surface": "יארכן",
+      "gloss": "a tsawaita"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "kwanakinka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:04:36.195175181Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 66,
+  "translation": "Ku zo, ku ji, kuma in faɗa maku, dukkan masu tsoron Elohim, abin da Ya yi wa rã̃ayata.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ku zo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ku ji"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "kuma in faɗa maku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "masu tsoron"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ya yi"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "wa rã̃ayata"
+    }
+  ],
+  "timestamp": "2026-08-12T19:58:14.980553882Z",
+  "model": "glm-5.2"
+}

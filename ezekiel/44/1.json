@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Sa'an nan ya mayar da ni ⟨ta⟩ hanyar ⟨ta⟩ ƙofar tsarkin ⟨ta⟩ waje, ⟨wacce ke⟩ fuskantar gabas, kuma tã ⟨ne⟩ ta ɗufe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ya mayar da ni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ƙofar"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "tsarkin"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "ta waje"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "fuskantar"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "gabas"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kuma shi"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "ta ɗufe"
+    }
+  ],
+  "timestamp": "2026-08-12T18:03:11.976017691Z",
+  "model": "glm-5.2"
+}

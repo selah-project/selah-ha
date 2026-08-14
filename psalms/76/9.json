@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 76,
+  "translation": "Daga sama Ka sa ⟨an⟩ ji hukunci; ƙasa ta ji tsoro kuma ta shirya.",
+  "tokens": [
+    {
+      "surface": "מִ֭שָּׁמַיִם",
+      "gloss": "Daga sama"
+    },
+    {
+      "surface": "הִשְׁמַ֣עְתָּ",
+      "gloss": "Ka sa an ji"
+    },
+    {
+      "surface": "דִּ֑ין",
+      "gloss": "hukunci"
+    },
+    {
+      "surface": "אֶ֖רֶץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "יָֽרְאָ֣ה",
+      "gloss": "ta ji tsoro"
+    },
+    {
+      "surface": "וְשָׁקָֽטָה",
+      "gloss": "kuma ta shirya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:04:48.729770114Z",
+  "model": "glm-5.2"
+}

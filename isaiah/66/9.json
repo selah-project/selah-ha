@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 66:9",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 66,
+  "translation": "Shin ni, ina sa ⟨a⟩ rarraba, kuma ba na haifuwa? Yahweh yana cewa. Shin ni ne ke haifuwa, kuma na rufe ⟨cikin⟩? Elohim naka ya ce.",
+  "tokens": [
+    {
+      "surface": "האני",
+      "gloss": "Shin ni"
+    },
+    {
+      "surface": "אשביר",
+      "gloss": "ina sa ⟨a⟩ rarraba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "אוליד",
+      "gloss": "na haifuwa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Shin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni ne ke"
+    },
+    {
+      "surface": "המוליד",
+      "gloss": "haifuwa"
+    },
+    {
+      "surface": "ועצרתי",
+      "gloss": "kuma na rufe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    }
+  ],
+  "timestamp": "2026-08-12T14:46:28.325469848Z",
+  "model": "glm-5.2"
+}

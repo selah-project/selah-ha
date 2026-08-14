@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Zan faɗa wa ⟨את⟩ arewa, 'Bā ta,' kuma wa ⟨את⟩ kudu, 'Kada ka hana;' ku kawo ɗiyana daga nesa, kuma 'yanyata daga ƙarshen ƙasa.",
+  "tokens": [
+    {
+      "surface": "אֹמַר",
+      "gloss": "Zan faɗa"
+    },
+    {
+      "surface": "לַצָּפוֹן",
+      "gloss": "wa arewa"
+    },
+    {
+      "surface": "תֵּנִי",
+      "gloss": "Bā ta"
+    },
+    {
+      "surface": "וּלְתֵימָן",
+      "gloss": "kuma wa kudu"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "Kada ka"
+    },
+    {
+      "surface": "תִּכְלָאִי",
+      "gloss": "hana"
+    },
+    {
+      "surface": "הָבִיאִי",
+      "gloss": "ku kawo"
+    },
+    {
+      "surface": "בָנַי",
+      "gloss": "ɗiyana"
+    },
+    {
+      "surface": "מֵרָחוֹק",
+      "gloss": "daga nesa"
+    },
+    {
+      "surface": "וּבְנוֹתַי",
+      "gloss": "kuma 'yanyata"
+    },
+    {
+      "surface": "מִקְצֵה",
+      "gloss": "daga ƙarshen"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:00.719919422Z",
+  "model": "glm-5.2"
+}

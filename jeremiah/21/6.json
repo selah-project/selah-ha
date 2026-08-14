@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma zan duka ⟨את⟩ mazaunan wannan birnin, ⟨kuma⟩ ⟨את⟩ mutum da ⟨את⟩ dabbobi, da annaba mai girma; za su mutu.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "Kuma zan duka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazaunan wannan birnin"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ kuma",
+      "marks": "mutum"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dabbobi"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dabbobi"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "da annaba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mai girma"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "za su mutu"
+    }
+  ],
+  "timestamp": "2026-08-12T15:35:46.290033197Z",
+  "model": "glm-5.2"
+}

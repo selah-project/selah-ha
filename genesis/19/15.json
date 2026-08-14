@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 19:15",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma da waye ya fito, sai malã'iku suka gaggauta wa Lutu, suka ce, Ku tashi, ka ɗauki ⟨את⟩ matarka da ⟨את⟩ 'ya'yanka mata biyu da suke nan, domin kada a halaka ka ⟨da⟩ cikin laifin garin.",
+  "tokens": [
+    {
+      "surface": "וכמו",
+      "gloss": "kuma da"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "waye"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ya fito"
+    },
+    {
+      "surface": "ויאיצו",
+      "gloss": "sai suka gaggauta"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "malã'iku"
+    },
+    {
+      "surface": "בלוט",
+      "gloss": "wa Lutu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ka tashi"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ka ɗauki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matarka"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "matarka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "'ya'yanka mata biyu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "בנתיך",
+      "gloss": "'ya'yanka mata"
+    },
+    {
+      "surface": "הנמצאות",
+      "gloss": "da suke nan"
+    },
+    {
+      "surface": "פן",
+      "gloss": "domin kada"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "a halaka ka"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "cikin laifin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "garin"
+    }
+  ],
+  "timestamp": "2026-08-11T23:38:25.662603121Z",
+  "model": "glm-5.2"
+}

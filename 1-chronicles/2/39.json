@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "kuma Azaryah ya haifa ⟨את⟩ Chelets, kuma Chelets ya haifa ⟨את⟩ Elʿasah.",
+  "tokens": [
+    {
+      "surface": "וַעֲזַרְיָה֙",
+      "gloss": "kuma Azaryah"
+    },
+    {
+      "surface": "הֹלִ֣יד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Chelets"
+    },
+    {
+      "surface": "חָ֔לֶץ",
+      "gloss": "Chelets"
+    },
+    {
+      "surface": "וְחֶ֖לֶץ",
+      "gloss": "kuma Chelets"
+    },
+    {
+      "surface": "הֹלִ֥יד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Elʿasah"
+    },
+    {
+      "surface": "אֶלְעָשָֽׂה",
+      "gloss": "Elʿasah"
+    }
+  ],
+  "timestamp": "2026-08-12T23:55:53.944153054Z",
+  "model": "glm-5.2"
+}

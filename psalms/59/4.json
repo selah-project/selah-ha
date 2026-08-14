@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 59,
+  "translation": "Gama duba, sun dinga ɓoye a kai, maza masu ƙarfi su taru a kaina; ba laifina ba ne, kuma ba zunubata ba ne, Yahweh.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Gama"
+    },
+    {
+      "surface": "הִנֵּ֪ה",
+      "gloss": "duba"
+    },
+    {
+      "surface": "אָֽרְב֡וּ",
+      "gloss": "sun dinga ɓoye"
+    },
+    {
+      "surface": "לְנַפְשִׁ֗י",
+      "gloss": "a kai"
+    },
+    {
+      "surface": "יָג֣וּרוּ",
+      "gloss": "su taru"
+    },
+    {
+      "surface": "עָלַ֣י",
+      "gloss": "a kaina"
+    },
+    {
+      "surface": "עַזִ֑ים",
+      "gloss": "maza masu ƙarfi"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "פִשְׁעִ֖י",
+      "gloss": "laifina"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "חַטָּאתִ֣י",
+      "gloss": "zunubata"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T19:53:35.864515251Z",
+  "model": "glm-5.2"
+}

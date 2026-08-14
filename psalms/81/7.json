@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 81,
+  "translation": "Na ture wuyansa daga ɗaukar kaya, hannayensa daga kwali suna wucewa.",
+  "tokens": [
+    {
+      "surface": "הֲסִיר֣וֹתִי",
+      "gloss": "Na ture"
+    },
+    {
+      "surface": "מִסֵּ֣בֶל",
+      "gloss": "daga ɗaukar kaya"
+    },
+    {
+      "surface": "שִׁכְמ֑וֹ",
+      "gloss": "wuyansa"
+    },
+    {
+      "surface": "כַּ֝פָּ֗יו",
+      "gloss": "hannayensa"
+    },
+    {
+      "surface": "מִדּ֥וּד",
+      "gloss": "daga kwali"
+    },
+    {
+      "surface": "תַּעֲבֹֽרְנָה",
+      "gloss": "suna wucewa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:13:24.698224419Z",
+  "model": "glm-5.2"
+}

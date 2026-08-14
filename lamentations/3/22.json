@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "chesed na Yahweh ⟨ce⟩, cewa ba su ƙare ba, cewa ba su kammalawa ba raḥamayinsa.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "su ƙare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "su kammalawa"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "raḥamayinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:34:34.496761539Z",
+  "model": "glm-5.2"
+}

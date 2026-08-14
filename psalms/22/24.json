@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Ku masu girmama Yahweh, ku yabe Shi; dukan zuriyar Ya'aƙub ku girmama Shi; kuma ku tsãre daga gare Shi, dukan zuriyar Isra'ila.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Ku masu girmama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ku yabe Shi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zuriyar"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aƙub"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "ku girmama Shi"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "kuma ku tsãre"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare Shi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zuriyar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T19:27:05.480283532Z",
+  "model": "glm-5.2"
+}

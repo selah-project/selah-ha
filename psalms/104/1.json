@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 104,
+  "translation": "Nẹfashata, ka gaisa ⟨את⟩ Yahweh. Yahweh, Elohim na, ka girma ⟨da yawa⟩; ka sa tãkarda da ɗaukaka.",
+  "tokens": [
+    {
+      "surface": "בָּרֲכִ֥י",
+      "gloss": "ka gaisa"
+    },
+    {
+      "surface": "נַפְשִׁ֗י",
+      "gloss": "Nẹfashata"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְה֫וָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱ֭לֹהַי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "גָּדַ֣לְתָּ",
+      "gloss": "ka girma"
+    },
+    {
+      "surface": "מְּאֹ֑ד",
+      "gloss": "⟨da yawa⟩"
+    },
+    {
+      "surface": "ה֭וֹד",
+      "gloss": "tãkarda"
+    },
+    {
+      "surface": "וְהָדָ֣ר",
+      "gloss": "da ɗaukaka"
+    },
+    {
+      "surface": "לָבָֽשְׁתָּ",
+      "gloss": "ka sa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:28:26.168358781Z",
+  "model": "glm-5.2"
+}

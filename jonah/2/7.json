@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 2:7",
+  "book": "jonah",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Na sauko ⟨zuwa⟩ ga tushen duwatsu; ƙasa ta rufe ni da sandunanunta ⟨har⟩ aba ɗaya; amma ka fitar da rayuwata daga ramin lalata, Yahweh, Elohim na.",
+  "tokens": [
+    {
+      "surface": "לקצבי",
+      "gloss": "⟨zuwa⟩ ga tushen"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "ירדתי",
+      "gloss": "Na sauko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "ברחיה",
+      "gloss": "da sandunanunta"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ta rufe ni"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨har⟩ aba ɗaya"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "amma ka fitar da"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "daga ramin lalata"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "rayuwata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    }
+  ],
+  "timestamp": "2026-08-12T18:37:53.735034732Z",
+  "model": "glm-5.2"
+}

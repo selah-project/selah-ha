@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Tashi, Yahweh, kuwa gaban shi, ka sa shi ya gambada; ka 'yantar da raina daga mugun ⟨ta⟩ takobinka.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tashi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "kuwa gaban"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "ka sa shi ya gambada"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "ka 'yantar da"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "raina"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "daga mugun"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "takobinka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:20:12.932936479Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma sunan ⟨na⟩ ɗayan Eliezer, domin ya ce: \"Elohim na ubana ⟨ya kasance⟩ a taimakona, ya ce ya tsere ni daga takobi na Par'o.\"",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "kuma sunan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "na ɗayan"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubana"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "a taimakona"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "ya tsere ni"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "daga takobi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "na Par'o"
+    }
+  ],
+  "timestamp": "2026-08-12T00:57:30.333406262Z",
+  "model": "glm-5.2"
+}

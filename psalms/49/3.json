@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Haka ƴaʼƴan adam, haka ƴaʼƴan mutum, tare, attajiri da talahaci.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "haka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴaʼƴan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "haka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴaʼƴan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tare"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "attajiri"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "da talahaci"
+    }
+  ],
+  "timestamp": "2026-08-12T19:48:33.162362012Z",
+  "model": "glm-5.2"
+}

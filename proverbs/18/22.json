@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Wanda ya samu mace, ya samu abu mai kyau, kuma ya samu ⟨ne⟩ yarda daga Yahweh.",
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "Wanda ya samu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mace",
+      "marks": "mace"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ya samu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "abu mai kyau",
+      "marks": "abu mai kyau"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "kuma ya samu"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "yarda"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "daga Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:00.694084451Z",
+  "model": "glm-5.2"
+}

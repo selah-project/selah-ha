@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 21:11",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Shi ma ya gina mahallabai a tsaunukan Yahuda, ya yi ⟨shiriya⟩ ⟨ ga ⟩ mazaunan Urushalima, ya kuma tilasta ⟨את⟩ Yahuda.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya gina"
+    },
+    {
+      "surface": "במות",
+      "gloss": "mahallabai"
+    },
+    {
+      "surface": "בהרי",
+      "gloss": "a tsaunukan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ויזן",
+      "gloss": "ya yi ⟨shiriya⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazaunan Urushalima"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Urushalima"
+    },
+    {
+      "surface": "וידח",
+      "gloss": "ya tilasta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    }
+  ],
+  "timestamp": "2026-08-13T02:50:37.443855676Z",
+  "model": "glm-5.2"
+}

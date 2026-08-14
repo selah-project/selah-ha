@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 80,
+  "translation": "Duwatsu sun rufe da inabin ⟨את⟩ ta, kuma ƙwan'anta ⟨ne⟩ cedarai na El.",
+  "tokens": [
+    {
+      "surface": "כָּסּ֣וּ",
+      "gloss": "sun rufe"
+    },
+    {
+      "surface": "הָרִ֣ים",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "צִלָּ֑הּ",
+      "gloss": "da inabin ta"
+    },
+    {
+      "surface": "וַ֝עֲנָפֶ֗יהָ",
+      "gloss": "kuma ƙwan'anta"
+    },
+    {
+      "surface": "אַֽרְזֵי",
+      "gloss": "cedarai"
+    },
+    {
+      "surface": "אֵֽל",
+      "gloss": "na El"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:00.702257848Z",
+  "model": "glm-5.2"
+}

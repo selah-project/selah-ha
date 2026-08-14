@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma ya cire ⟨את⟩ ƙafar motocin yaƙinsu, kuma ya tura su da tauri, kuma Mitsrayim ya ce, \"Mu gudu daga gaban Yisra'el, domin Yahweh ⟨yake⟩ yaƙa don su a cikin Mitsrayim!\"",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "ya cire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙafar motocin yaƙinsu"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "ƙafa"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "motocin yaƙinsu"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "ya tura su"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "da tauri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "mu gudu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "yaƙa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "don su"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "a cikin Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-13T01:45:53.405154097Z",
+  "model": "glm-5.2"
+}

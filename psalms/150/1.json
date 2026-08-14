@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 150,
+  "translation": "Yabo ga Yah! Yabo ga El cikin tsarkinsa, yabo ga Shi cikin faɗin ƙarfin sa.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "yabo ga"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "yabo ga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "cikin tsarkinsa"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "yabo ga Shi"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "cikin faɗin"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "ƙarfin sa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:57:42.281904734Z",
+  "model": "glm-5.2"
+}

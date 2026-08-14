@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 46,
+  "translation": "Za su yi ta mugun bara, ruwan sa za su yi tashin hankali, duwatsu za su girgiza a girman sa. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "Za su yi ta mugun bara"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "za su yi tashin hankali"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ruwan sa"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "duwatsu za su girgiza"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "a girman sa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T19:47:40.896003208Z",
+  "model": "glm-5.2"
+}

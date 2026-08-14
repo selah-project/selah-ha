@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma Yis'ra'ela ya sana'ci ⟨את⟩ Yūsuf fiye da duka 'ya'yansa, domin shi ɗan tsufansa ⟨ne⟩, kuma ya yi masa riguna masu tsayi.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "Kuma Yis'ra'ela"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ya sana'ci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yūsuf"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yūsuf"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "fiye da duka"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "'ya'yansa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "tsufansa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨nasa⟩"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "riguna"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "masu tsayi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:07:40.583610183Z",
+  "model": "glm-5.2"
+}

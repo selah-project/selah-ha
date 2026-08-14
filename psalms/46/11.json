@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 46,
+  "translation": "Ku natsu, ku san cewa ni ni ⟨ne⟩ Elohim; ana ɗaukaka ni cikin al'ummomi, ana ɗaukaka ni cikin ƙasa.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Ku natsu"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "ku san"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ana ɗaukaka ni"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "cikin al'ummomi"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ana ɗaukaka ni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "cikin ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:46:01.274673095Z",
+  "model": "glm-5.2"
+}

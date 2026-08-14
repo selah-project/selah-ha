@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma mutanen sun albarkaci dukkan mazajen da suka ba da kansu don zama a Yerushalama.",
+  "tokens": [
+    {
+      "surface": "וברכו",
+      "gloss": "kuma sun albarkaci"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mazajen"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "da suka ba da kansu"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "don zama"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "a Yerushalama"
+    }
+  ],
+  "timestamp": "2026-08-12T23:52:13.297573843Z",
+  "model": "glm-5.2"
+}

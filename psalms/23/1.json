@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Waƙar dawuda. Yahweh makiyayi ⟨ne⟩, ba zan ⟨da⟩ buƙata ba.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Waƙar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "dawuda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "makiyayi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "zan ⟨da⟩ buƙata"
+    }
+  ],
+  "timestamp": "2026-08-12T19:28:29.780781648Z",
+  "model": "glm-5.2"
+}

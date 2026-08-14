@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 11:14",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Sa kuma Shemu'el ya ce wa ⟨gabaɗayan⟩ mutanen: \"Ku zo, mu je HaGilgal, mu sabunta mulkin masarauta can.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sa kuma ya ce"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Ku zo"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "mu je"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "HaGilgal"
+    },
+    {
+      "surface": "ונחדש",
+      "gloss": "mu sabunta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "mulkin masarauta"
+    }
+  ],
+  "timestamp": "2026-08-13T01:59:51.935749565Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 4:7",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma Filistawa sun tsorata, gõra sun ce, \"Elohim ya zo sansani!\" Kuma suka ce, \"Āhõ a gare mu, domin ba haka ya kasance a jiya da lõkacin jiya ba!",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Kuma sun tsorata"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Filistawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gõra"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ya zo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨zuwa⟩"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "sansani"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Kuma suka ce"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Āhõ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a gare mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "haka"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "a jiya"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "da lõkacin jiya"
+    }
+  ],
+  "timestamp": "2026-08-12T08:35:30.078275701Z",
+  "model": "glm-5.2"
+}

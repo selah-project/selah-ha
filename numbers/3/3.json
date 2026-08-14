@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Waɗannan sunayen ɗiyán Aharon, kōhánín da aka shīka, waɗanda aka cika hannuwansu don yin aikin kōhén.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Waɗannan"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sunayen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyán"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kōhánín"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "da aka shīka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "aka cika"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "hannuwansu"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "don yin aikin kōhén"
+    }
+  ],
+  "timestamp": "2026-08-12T03:21:42.157688669Z",
+  "model": "glm-5.2"
+}

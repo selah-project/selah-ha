@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 108,
+  "translation": "Ka ba mu taimako daga matsanƙiyar ⟨ta⟩, domin taimakon mutum abu ne na banza.",
+  "tokens": [
+    {
+      "surface": "הָֽבָה",
+      "gloss": "Ka ba"
+    },
+    {
+      "surface": "לָּ֣נוּ",
+      "gloss": "mu"
+    },
+    {
+      "surface": "עֶזְרָ֣ת",
+      "gloss": "taimako"
+    },
+    {
+      "surface": "מִצָּ֑ר",
+      "gloss": "daga matsanƙiyar"
+    },
+    {
+      "surface": "וְ֝שָׁ֗וְא",
+      "gloss": "domin banza"
+    },
+    {
+      "surface": "תְּשׁוּעַ֥ת",
+      "gloss": "taimakon"
+    },
+    {
+      "surface": "אָדָֽם",
+      "gloss": "mutum"
+    }
+  ],
+  "timestamp": "2026-08-12T20:34:14.652658281Z",
+  "model": "glm-5.2"
+}

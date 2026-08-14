@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 3:2",
+  "book": "ruth",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma yanzu, Boaz ba shi ⟨ne⟩ daga masu saninmu ba, wanda ka kasance ⟨ta⟩ tare da ⟨את⟩ 'yan matansa? Ga shi, yana kurfafa ⟨את⟩ dagam garin hatsin rogon yawancin dare.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kuma yanzu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ba...ba"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "מדעתנו",
+      "gloss": "daga masu saninmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ka kasance"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'yan matansa"
+    },
+    {
+      "surface": "נערותיו",
+      "gloss": "'yan matansa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "yana kurfafa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagam garin hatsin rogo"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "dagam garin"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "hatsin rogo"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "yawancin dare"
+    }
+  ],
+  "timestamp": "2026-08-12T22:31:26.751399995Z",
+  "model": "glm-5.2"
+}

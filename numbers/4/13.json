@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma su kwashe toka daga ⟨al⟩ ⟨את⟩ haikali, su baza sama da shi tufafin jinin ɗumba.",
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "su kwashe toka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haikali"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "haikali"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "su baza"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sama da shi"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "tufafin"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "jinin ɗumba"
+    }
+  ],
+  "timestamp": "2026-08-12T03:22:03.632531484Z",
+  "model": "glm-5.2"
+}

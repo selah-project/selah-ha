@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Kuma ya tashi daren, shi kansa, kuma ya ɗauki ⟨אֵת⟩ matansa biyu da ⟨אֵת⟩ baiwansa biyu da ⟨אֵת⟩ yaran sa goma sha ɗaya, kuma ya tsallake ⟨אֵת⟩ mashayar Yabboƙ.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kuma ya tashi"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "daren"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi kansa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "kuma ya ɗauki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matansa biyu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "matansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "baiwansa biyu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "baiwansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "yaran sa goma sha ɗaya"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "sha"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "goma"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "yaran sa"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "kuma ya tsallake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashayar Yabboƙ"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "mashayar"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Yabboƙ"
+    }
+  ],
+  "timestamp": "2026-08-11T23:57:48.313869543Z",
+  "model": "glm-5.2"
+}

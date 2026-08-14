@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Don me har abada kana manta da mu? Kana barin mu tsawon kwanaki?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Don me"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "kana manta da mu"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "Kana barin mu"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "tsawon"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaki"
+    }
+  ],
+  "timestamp": "2026-08-12T22:39:10.614482542Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Da zakoki goma sha biyu tsaye a can a kan matakan shida, daga wannan gefe da daga wannan; ba a yin haka ⟨ba⟩ ga kowace mulki.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "Da biyu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "goma sha"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "zakoki"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "tsaye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "שש",
+      "gloss": "shida"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "matakan"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "daga wannan gefe"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "da daga wannan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "a yin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ga kowace"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mulki"
+    }
+  ],
+  "timestamp": "2026-08-13T02:05:57.755938064Z",
+  "model": "glm-5.2"
+}

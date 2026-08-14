@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Elohim ya yi sarauta a kan al'ummai, Elohim ya zauna a kan kujerar tsarkinsa.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ya yi sarauta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "al'ummai"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ya zauna"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kujerar"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "tsarkinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:44:55.840650313Z",
+  "model": "glm-5.2"
+}

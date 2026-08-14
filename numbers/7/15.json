@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Saŋaɗi ɗaya, ɗan shanu, ɗan ragon awaki ɗaya, ɗan tunkiya ɗaya, wanda cikin shekararsa, don kafar ƙone-kone.",
+  "tokens": [
+    {
+      "surface": "פַּ֣ר",
+      "gloss": "saŋaɗi"
+    },
+    {
+      "surface": "אֶחָ֞ד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "בָּקָ֗ר",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "אַ֧יִל",
+      "gloss": "ragon awaki"
+    },
+    {
+      "surface": "אֶחָ֛ד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "כֶּֽבֶשׂ",
+      "gloss": "ɗan tunkiya"
+    },
+    {
+      "surface": "אֶחָ֥ד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "wanda cikin"
+    },
+    {
+      "surface": "שְׁנָת֖וֹ",
+      "gloss": "shekararsa"
+    },
+    {
+      "surface": "לְעֹלָֽה",
+      "gloss": "don kafar ƙone-kone"
+    }
+  ],
+  "timestamp": "2026-08-12T03:26:27.053237211Z",
+  "model": "glm-5.2"
+}

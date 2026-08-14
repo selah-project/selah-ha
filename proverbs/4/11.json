@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 4:11",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "A cikin hanyar hikima na koya maka; na jagorance ka a cikin hanyoyin daidaito.",
+  "tokens": [
+    {
+      "surface": "בְּדֶ֣רֶךְ",
+      "gloss": "a cikin hanyar"
+    },
+    {
+      "surface": "חָכְמָה",
+      "gloss": "hikima"
+    },
+    {
+      "surface": "הֹרֵתִ֑יךָ",
+      "gloss": "na koya maka"
+    },
+    {
+      "surface": "הִ֝דְרַכְתִּ֗יךָ",
+      "gloss": "na jagorance ka"
+    },
+    {
+      "surface": "בְּמַעְגְּלֵי",
+      "gloss": "a cikin hanyoyin"
+    },
+    {
+      "surface": "יֹשֶׁר",
+      "gloss": "daidaito"
+    }
+  ],
+  "timestamp": "2026-08-12T21:01:55.912977359Z",
+  "model": "glm-5.2"
+}

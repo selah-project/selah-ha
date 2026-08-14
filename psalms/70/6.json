@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 70,
+  "translation": "Kuma ni matalauci ne kuma miskini, Elohim, yi gaggawa zuwa gare ni, taimako na kuma mai ceto na, kai ne, Yahweh, kada ka yi jinkiri.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "עני",
+      "gloss": "matalauci"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "kuma miskini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "yi gaggawa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "zuwa gare ni"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "taimako na"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "kuma mai ceto na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "ka yi jinkiri"
+    }
+  ],
+  "timestamp": "2026-08-12T19:59:19.036061671Z",
+  "model": "glm-5.2"
+}

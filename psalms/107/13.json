@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Sai suka kurą̄ta zuwa Yahweh a cikin matsanuncin su, daga ɗamarmarmar su ⟨ne⟩ Ya kuɓutar da su.",
+  "tokens": [
+    {
+      "surface": "וַיִּזְעֲק֣וּ",
+      "gloss": "Sai suka kurą̄ta"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בַּצַּ֣ר",
+      "gloss": "a cikin matsanuncin"
+    },
+    {
+      "surface": "לָהֶ֑ם",
+      "gloss": "su"
+    },
+    {
+      "surface": "מִ֝מְּצֻֽקוֹתֵיהֶ֗ם",
+      "gloss": "daga ɗamarmarmar su"
+    },
+    {
+      "surface": "יוֹשִׁיעֵֽם",
+      "gloss": "Ya kuɓutar da su"
+    }
+  ],
+  "timestamp": "2026-08-12T20:33:13.221605147Z",
+  "model": "glm-5.2"
+}

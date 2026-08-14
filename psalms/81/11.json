@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 81,
+  "translation": "Ni ne Yahweh, Elohiminka, wanda ya hau ka daga ƙasar Mitsrayim; faɗa bakinka, kuma zan cika shi.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminka"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "wanda ya hau ka"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "faɗa"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "bakinka"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "kuma zan cika shi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:11:00.202647974Z",
+  "model": "glm-5.2"
+}

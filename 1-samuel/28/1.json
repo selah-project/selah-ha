@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 28:1",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Kuma ⟨ya kasance⟩ a cikin waɗannan kwanakin, Pelishtiyawa suka tar ⟨את⟩ sansanin su don yaƙi, don yaƙa da Yisra'el. Kuma Akish ya ce wa Dawida, \"Lalle ka san cewa ⟨אּת⟩⟨את⟩ ni za ka fita a sansani, kai da mutanenka.\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ⟨ya kasance⟩"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "a cikin kwanakin"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "suka tar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtiyawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sansanin su"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "sansanin su"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "don yaƙi"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "don yaƙa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "da Yisra'el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "Lalle ka sani"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ka san"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ni"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "za ka fita"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "a sansani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ואנשיך",
+      "gloss": "da mutanenka"
+    }
+  ],
+  "timestamp": "2026-08-12T09:37:38.615454011Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma daga baya ta haifi 'ya'ya mace, sai ta kira ⟨את⟩ sunanta Dinah.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "kuma daga baya"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ta haifi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "'ya'ya mace"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "sai ta kira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunanta"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sunanta"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    }
+  ],
+  "timestamp": "2026-08-11T23:52:59.556423264Z",
+  "model": "glm-5.2"
+}

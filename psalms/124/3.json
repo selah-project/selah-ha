@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 124,
+  "translation": "lällãi sun hadiyemu rai-rai, a lokacin tashin fushinsu a kan mu,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "lällãi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "rai-rai"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "sun hadiyemu"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "a lokacin tashin"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "fushinsu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a kan mu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:48:55.924987453Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma ku ƙira gare ku, daga bayan ranar hutu, daga ranar da kuka kawo ⟨את⟩ ⟨gunkin⟩ igiyar girgiza, ƙalla shabbat guda bakwai masu cikakke ⟨ne⟩ za su kasance.",
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "kuma ku ƙira"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "gare ku"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "daga bayan"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ranar hutu"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "daga rana"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "da kuka kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunkin"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "gunkin"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "igiyar girgiza"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "guda bakwai"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "masu cikakke"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "za su kasance"
+    }
+  ],
+  "timestamp": "2026-08-12T02:47:58.825188806Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Domingo Yahweh Elyon Mai girma, Sarki mai girma a kan dukkan ƙasa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domingo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "Mai girma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Sarki"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mai girma"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:46:50.978232860Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ya faru a rana ta uku, ranar haihuwar ⟨את⟩ Paroh, ya yi biki ga dukan bayinsa; kuma ya ɗauko ⟨את⟩ kan shugaban masu bayar da abin sha, ⟨את⟩ da ⟨אֵת⟩ kan shugaban masu yin burodi, a tsakanin bayinsa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ya faru"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ta uku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ranar"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "haihuwar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "biki"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ga dukan"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bayinsa"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "kuma ya ɗauko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan shugaban masu bayar da abin sha"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "שר",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "masu bayar da abin sha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ da ⟨אֵת⟩"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "שר",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "masu yin burodi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "a tsakanin"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bayinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:11:17.482377849Z",
+  "model": "glm-5.2"
+}

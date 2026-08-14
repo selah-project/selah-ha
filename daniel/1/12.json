@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Ka gwada ⟨ana roƙonka⟩ ⟨את⟩ bayinka kwanaki goma, kuma su ba mu daga tsaba mu ci, da ruwa mu sha,",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "Ka gwada"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ana roƙonka⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayinka"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "bayinka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "goma"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "kuma su ba mu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "tsaba"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "mu ci"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "da ruwa"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "mu sha"
+    }
+  ],
+  "timestamp": "2026-08-12T22:58:42.608838989Z",
+  "model": "glm-5.2"
+}

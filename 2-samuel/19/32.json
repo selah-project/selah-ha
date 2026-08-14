@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma Barzillai ɗan Gilead ya sauko daga Rogelim, kuma ya kãmɓe ⟨את⟩ sarki a kan Yarɗen dõmin tura shi ⟨את⟩ ⟨a kan⟩ ⟨את⟩ Yarɗen.",
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "kuma Barzillai"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "ɗan Gilead"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ya sauko"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "daga Rogelim"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "kuma ya kãmɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "a kan Yarɗen"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "dõmin tura shi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨a kan⟩",
+      "marks": "Yarɗen"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "Yarɗen"
+    }
+  ],
+  "timestamp": "2026-08-13T02:03:34.194696090Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Ya aiko ⟨את⟩ itacen akwai daga ⟨tare da⟩⟨את⟩sa, don ya ga ko ruwa ya yi sauƙi daga sama da fuskar ƙasa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ya aiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itacen akwai"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "itacen akwai"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "daga ⟨tare da⟩⟨את⟩sa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "don ya ga"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "ko ... ya yi sauƙi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "daga sama da"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskar"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:25:30.745287841Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Tumaki ⟨ne⟩ marar laushi, namiji, ɗan shekara guda, ya kasance a gare ku; daga cikin tumaki ko daga cikin awaki ku riƙe.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "tumaki"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "marar laushi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "namiji"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a gare ku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga cikin"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "tumaki"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ko daga cikin"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "awaki"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ku riƙe"
+    }
+  ],
+  "timestamp": "2026-08-13T01:45:04.099853895Z",
+  "model": "glm-5.2"
+}

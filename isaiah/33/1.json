@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Yā woe! yā wanda ake fashẽ, kuma kai ba a fashẽ ka ba, kuma mai yaudara, kuma ba a yaudare shi ba, sa'ad da kā gama fashãwa, ana fashẽ ka, sa'ad da kā gama yaudara, ana yaudara da kai.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "wōē"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "yā wanda ake fashẽ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kuma kai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "a fashẽ ka"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "kuma mai yaudara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "a yaudare shi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "sa'ad da kā gama"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "fashãwa"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "ana fashẽ ka"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "sa'ad da kā gama"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "yaudara"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "ana yaudara"
+    },
+    {
+      "surface": "בך",
+      "gloss": "da kai"
+    }
+  ],
+  "timestamp": "2026-08-12T13:51:00.071624390Z",
+  "model": "glm-5.2"
+}

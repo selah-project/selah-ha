@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma idan wani mutum ya doki ⟨את⟩ bawan sa ko ⟨את⟩ baiwarsa da sanda, kuma ya mutu a ƙarƙashin hannunsa, a tabbatacce a rama masa.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ya doki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wani mutum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bawan sa"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "bawan sa"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baiwarsa"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "baiwarsa"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "da sanda"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "kuma ya mutu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a ƙarƙashin"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hannunsa"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "a tabbatacce a rama"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "masa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:01:50.619441705Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 75,
+  "translation": "Gama Elohim ⟨ne⟩ alƙali, wannan yana yage kuma wannan yana tayarwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gama"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "alkali"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "yana yage"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "kuma wannan"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "yana tayarwa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:09.168981029Z",
+  "model": "glm-5.2"
+}

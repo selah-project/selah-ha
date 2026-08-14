@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Sai Yosef ya ce ga 'yan'uwansa, \"Ni ne Yosef. Shin, ubana yana raye har yanzu?\" Amma 'yan'uwansa ba su iya amsa masa ba, saboda sun firgita daga gabaninsa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sai ya ce"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "'yan'uwansa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "shin har yanzu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubana"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yana raye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "su iya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "'yan'uwansa"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "amsawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "masa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "sun firgita"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "daga gabaninsa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:23:08.494411411Z",
+  "model": "glm-5.2"
+}

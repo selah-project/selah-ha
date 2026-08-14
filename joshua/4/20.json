@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma ⟨game da⟩ ⟨את⟩ waɗannan duwatsu goma sha biyu da suka dauko daga Yarden, Yehoshua ya tsayar da su a Gilgala.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Kuma ⟨game da⟩ ⟨את⟩",
+      "marks": "duwatsu goma sha biyu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "goma"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "suka dauko"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ya tsayar da su"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "a Gilgala"
+    }
+  ],
+  "timestamp": "2026-08-12T06:13:58.243907956Z",
+  "model": "glm-5.2"
+}

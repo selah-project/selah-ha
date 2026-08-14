@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 14:17",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma sarkin Sedom ya fita don haɗuwa da shi, a bayan komawarsa daga duka ⟨את⟩ Kedorlaomer da ⟨את⟩ sarakunan da ke tare da shi, zuwa ƙwarin Shaweh — shi ne ƙwarin sarki.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kuma ya fita"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "don haɗuwa da shi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "a bayan"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "komawarsa"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "daga duka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedorlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedorlaomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "sarakinan"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "sarakinan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨tare da shi⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ƙwarin"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "Shaweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi ⟨ne⟩"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ƙwarin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    }
+  ],
+  "timestamp": "2026-08-11T23:32:18.684857717Z",
+  "model": "glm-5.2"
+}

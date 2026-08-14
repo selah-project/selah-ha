@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma Avshalom ya latsa masa, don haka ⟨sarki⟩ ya tura ⟨את⟩ ⟨tare da⟩ shi ⟨את⟩ Amnon da ⟨את⟩ dukkan 'ya'yan sarki.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "Kuma ya latsa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "don haka ya tura"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨tare da⟩ shi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan",
+      "marks": "'ya'yan sarki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    }
+  ],
+  "timestamp": "2026-08-12T10:13:25.913862054Z",
+  "model": "glm-5.2"
+}

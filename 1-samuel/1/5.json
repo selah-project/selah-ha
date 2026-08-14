@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma ga Ḥanah ⟨ne⟩ yakan baiwa guda ɗaya ⟨ta⟩ fuska biyu, domin ⟨shi⟩ yana so ⟨את⟩ Ḥanah, kuma Yahweh ya rufe cikinta.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "Kuma ga Ḥanah"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "yakan baiwa"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "guda"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "⟨ta⟩ fuska biyu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥanah"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Ḥanah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yana so"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kuma Yahweh"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ya rufe"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "cikinta"
+    }
+  ],
+  "timestamp": "2026-08-12T08:29:50.865619446Z",
+  "model": "glm-5.2"
+}

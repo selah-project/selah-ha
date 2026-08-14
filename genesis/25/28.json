@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Yitschak ya kaunaci ⟨את⟩ Esav, domin farauta ⟨ce⟩ a bakinsa, Ribka kuma tana kaunatar da ⟨את⟩ Ya'akob.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "ya kaunaci"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "farauta"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "a bakinsa"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "Ribka kuma"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "tana kaunatar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ya'akob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akob"
+    }
+  ],
+  "timestamp": "2026-08-11T23:49:36.145773539Z",
+  "model": "glm-5.2"
+}

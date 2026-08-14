@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Sai Yahweh ya ce gare shi: \"Ka tafi, ka koma kan hanyarka ta je hamadar Damashika. Kuma ka zo ka shafa ⟨wahu⟩ ⟨את⟩ Haza'eli ka naɗa shi saraki a kan Aram.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sai...ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gare shi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ka tafi"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ka koma"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "kan hanyarka"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "ta je hamadar"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damashika"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "Kuma ka zo"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ka shafa...ka naɗa shi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haza'eli"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Haza'eli"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "saraki"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-13T02:05:34.041237600Z",
+  "model": "glm-5.2"
+}

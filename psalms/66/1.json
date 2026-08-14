@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 66,
+  "translation": "Ga shugaban-mawaƙa. Waƙa, mizmor. Ku kururu ga Elohim, dukan ƙasa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga shugaban-mawaƙa"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Waƙa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ku kururu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ga Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:58:35.446678647Z",
+  "model": "glm-5.2"
+}

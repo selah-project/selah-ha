@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 79:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 79,
+  "translation": "Don me cikin al'ummai za su faɗa, \"Ina ne Elohim nasu?\" Ya san, a tsakanin al'ummai a gaban idanmu, ramuwar gayya ⟨ta⟩ jinin bayinKa da aka zuba.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Don me"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "za su faɗa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "cikin al'ummai"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Ina ne"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim nasu"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "Ya san"
+    },
+    {
+      "surface": "בגיים",
+      "gloss": "a tsakanin al'ummai"
+    },
+    {
+      "surface": "לעינינו",
+      "gloss": "a gaban idanmu"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "ramuwar gayya"
+    },
+    {
+      "surface": "דם",
+      "gloss": "⟨ta⟩ jinin"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "bayinKa"
+    },
+    {
+      "surface": "השפוך",
+      "gloss": "da aka zuba"
+    }
+  ],
+  "timestamp": "2026-08-12T20:11:48.816938118Z",
+  "model": "glm-5.2"
+}

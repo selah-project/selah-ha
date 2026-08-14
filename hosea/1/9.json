@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma ⟨ya⟩ faɗa, \"Kira sunansa Lo-Ammi, domin kũ ba ku kasance mutãnen Sa ba, kuma Ni, ba zan kasance a gare ku ba.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ⟨ya⟩ faɗa"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Kira"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "-Ammi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mutãnen Sa"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "kuma Ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "zan kasance"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a gare ku"
+    }
+  ],
+  "timestamp": "2026-08-12T18:07:36.221189860Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 56,
+  "translation": "Gudun ƙasata ka ƙidaya, kai ka sanya hawaye a cikin kwaryarka; ba ⟨suna⟩ a cikin littafinka ⟨ba⟩?",
+  "tokens": [
+    {
+      "surface": "נֹדִי֮",
+      "gloss": "gudun ƙasata"
+    },
+    {
+      "surface": "סָפַ֪רְתָּ֫ה",
+      "gloss": "ka ƙidaya"
+    },
+    {
+      "surface": "אָ֥תָּה",
+      "gloss": "kai",
+      "marks": "kai"
+    },
+    {
+      "surface": "שִׂ֣ימָה",
+      "gloss": "ka sanya"
+    },
+    {
+      "surface": "דִמְעָתִ֣י",
+      "gloss": "hawaye"
+    },
+    {
+      "surface": "בְנֹאדֶ֑ךָ",
+      "gloss": "a cikin kwaryarka"
+    },
+    {
+      "surface": "הֲ֝לֹ֗א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בְּסִפְרָתֶֽךָ",
+      "gloss": "a cikin littafinka"
+    }
+  ],
+  "timestamp": "2026-08-14T00:02:34.044744019Z",
+  "model": "glm-5.2"
+}

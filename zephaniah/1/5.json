@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Da ⟨את⟩ masu yin lalle a kan rufin don tawagar sama, da ⟨את⟩ masu yin lalle masu rantsuwa da Yahweh, kuma masu rantsuwa da Malcham.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Da ⟨את⟩",
+      "marks": "masu yin lalle"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "masu yin lalle"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "rufin"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "don tawagar"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "masu yin lalle"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "masu yin lalle"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "masu rantsuwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "da Yahweh"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "kuma masu rantsuwa"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "da Malcham"
+    }
+  ],
+  "timestamp": "2026-08-12T18:54:04.202478490Z",
+  "model": "glm-5.2"
+}

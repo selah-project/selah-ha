@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma za su zo can, kuma za su cire ⟨את⟩ duka abubuwa masu gyaguwar ta da ⟨את⟩ duka abubuwan tsafi na ta daga gare ta.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "Kuma za su zo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "can"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "kuma za su cire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka abubuwa masu gyaguwar ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "abubuwa masu gyaguwar ta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "duka abubuwan tsafi na ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "abubuwan tsafi na ta"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "daga gare ta"
+    }
+  ],
+  "timestamp": "2026-08-12T17:03:16.264604121Z",
+  "model": "glm-5.2"
+}

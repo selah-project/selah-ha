@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma don me ba ka kiyaye ⟨את⟩ rinkan Yahweh, da ⟨את⟩ umarnin da na umarci a kankai?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "kuma don me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ka kiyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rinkan Yahweh"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "rinkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "umarnin"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "umarnin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "na umarci"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "a kankai"
+    }
+  ],
+  "timestamp": "2026-08-12T10:52:40.255142404Z",
+  "model": "glm-5.2"
+}

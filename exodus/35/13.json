@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "⟨את⟩ teburin, da ⟨את⟩ sandunansa, da ⟨את⟩ dukkan kayan aikinsa, da ⟨את⟩ gurasar ⟨nn⟩gabon",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teburin"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "teburin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "sandunansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kayan aikinsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "gurasar"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "⟨nn⟩gabon"
+    }
+  ],
+  "timestamp": "2026-08-12T01:27:01.588355056Z",
+  "model": "glm-5.2"
+}

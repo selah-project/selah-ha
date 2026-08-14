@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma na ce, \"A bayan ta aikata ⟨את⟩ duka waɗannan, za ta koma gare ni.\" Amma ba ta koma ba. Kuma 'yar'uwar da ta fi yaudura, Yehuda, ta ga ⟨abin⟩.",
+  "tokens": [
+    {
+      "surface": "וָאֹמַ֗ר",
+      "gloss": "Kuma na ce"
+    },
+    {
+      "surface": "אַחֲרֵ֨י",
+      "gloss": "A bayan"
+    },
+    {
+      "surface": "עֲשׂוֹתָ֧הּ",
+      "gloss": "ta aikata"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "duka"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "אֵ֛לֶּה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "תָּשׁ֖וּב",
+      "gloss": "za ta koma"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "Amma ba"
+    },
+    {
+      "surface": "שָׁ֑בָה",
+      "gloss": "ta koma ba"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "Kuma ta ga"
+    },
+    {
+      "surface": "בָּגוֹדָ֥ה",
+      "gloss": "da ta fi yaudura"
+    },
+    {
+      "surface": "אֲחוֹתָ֖הּ",
+      "gloss": "'yar'uwar"
+    },
+    {
+      "surface": "יְהוּדָֽה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-12T14:55:40.446749704Z",
+  "model": "glm-5.2"
+}

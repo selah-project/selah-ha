@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Idan Yahweh suna kiyaye ilimi, amma ⟨shi⟩ yana juyar da kalmomin mahalin gado.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "suna kiyaye"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ilimi"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "amma yana juyar da"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "mahalin gado"
+    }
+  ],
+  "timestamp": "2026-08-12T21:23:21.351397435Z",
+  "model": "glm-5.2"
+}

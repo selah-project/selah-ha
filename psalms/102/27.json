@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 102,
+  "translation": "Sũ sunã tãkuwa, amma Kai zã ka tsaya; duka sunã kamar wãfa sunã tsohuwa, kamar tufa Kai kan canza su, kuma sunã canzawa.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Sũ"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "sunã tãkuwa"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "amma Kai"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "zã ka tsaya"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "duka"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "kamar wãfa"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "sunã tsohuwa"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "kamar tufa"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "Kai kan canza su"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "kuma sunã canzawa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:27:11.624410325Z",
+  "model": "glm-5.2"
+}

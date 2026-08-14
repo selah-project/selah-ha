@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "ko mai yin sihiri da girmar isassu, ko mai tambayar mũtumin-tsãtsa, ko mai sanin asĩri, ko wanda yake tũra zuwa ga mãtan dũkiya.",
+  "tokens": [
+    {
+      "surface": "וְחֹבֵ֖ר",
+      "gloss": "ko mai yin"
+    },
+    {
+      "surface": "חָ֑בֶר",
+      "gloss": "sihiri"
+    },
+    {
+      "surface": "וְשֹׁאֵ֥ל",
+      "gloss": "ko mai tambayar"
+    },
+    {
+      "surface": "אוֹב֙",
+      "gloss": "mũtumin-tsãtsa"
+    },
+    {
+      "surface": "וְיִדְּעֹנִ֔י",
+      "gloss": "ko mai sanin asĩri"
+    },
+    {
+      "surface": "וְדֹרֵ֖שׁ",
+      "gloss": "ko wanda yake tũra"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "הַמֵּתִֽים",
+      "gloss": "mãtan dũkiya"
+    }
+  ],
+  "timestamp": "2026-08-12T05:26:21.702493934Z",
+  "model": "glm-5.2"
+}

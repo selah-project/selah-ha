@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 37:25",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Suka zauna su ci abinci, suka ɗauko idanunsu suka duba, sai gani: ƙungiyar Yishma'elawa tana zuwa daga Gilʽad, rakumansu kuna ɗauke da ƙanshī, da man shayi, da laʽad, suna tafiya su saukar da su Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "suka zauna"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "su ci"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "abinci"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "suka ɗauko"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "idanunsu"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "suka duba"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sai gani"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "ƙungiyar"
+    },
+    {
+      "surface": "ישמעאלים",
+      "gloss": "Yishma'elawa"
+    },
+    {
+      "surface": "באה",
+      "gloss": "tana zuwa"
+    },
+    {
+      "surface": "מגלעד",
+      "gloss": "daga Gilʽad"
+    },
+    {
+      "surface": "וגמליהם",
+      "gloss": "rakumansu"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "kuna ɗauke da"
+    },
+    {
+      "surface": "נכאת",
+      "gloss": "ƙanshī"
+    },
+    {
+      "surface": "וצרי",
+      "gloss": "da man shayi"
+    },
+    {
+      "surface": "ולט",
+      "gloss": "da laʽad"
+    },
+    {
+      "surface": "הולכים",
+      "gloss": "suna tafiya"
+    },
+    {
+      "surface": "להוריד",
+      "gloss": "su saukar da"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:08:25.010250109Z",
+  "model": "glm-5.2"
+}

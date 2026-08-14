@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 11:7",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "A lokacin nan Shelomah ya gina bāma ga Kemos, abin ƙasƙanci na Moab, a kan dutsen da ⟨yake⟩ gaba da Yerushalaim, da kuma Molekh, abin ƙasƙanci na ɗan Ammon.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "a lokacin nan"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ya gina"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "במה",
+      "gloss": "bāma"
+    },
+    {
+      "surface": "לכמוש",
+      "gloss": "ga Kemos"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "abin ƙasƙanci"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a kan dutsen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "על",
+      "gloss": "gaba"
+    },
+    {
+      "surface": "פני",
+      "gloss": "da"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ולמלך",
+      "gloss": "da kuma Molekh"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "abin ƙasƙanci"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-08-12T11:17:20.462230192Z",
+  "model": "glm-5.2"
+}

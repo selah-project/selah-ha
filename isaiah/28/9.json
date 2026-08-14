@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "⟨את⟩ wa zai yi wa ilimi, kuma ⟨את⟩ wa zai fahimta ⟨saƙon⟩? ⟨Waɗanda aka dage⟩ daga madara, ⟨waɗanda aka ɗauko⟩ duma nono?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "zai yi wa"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ilimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "wa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "zai fahimta"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "saƙon"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "waɗanda aka dage"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "daga madara"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "waɗanda aka ɗauko"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "duma nono"
+    }
+  ],
+  "timestamp": "2026-08-12T13:37:56.963035996Z",
+  "model": "glm-5.2"
+}

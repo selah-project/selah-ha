@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 15:2",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma wannan ⟨ne⟩ maganar shemittah: duka mai shigaɗa bashin hannunsa wanda ya bada rance ga kawunsa, ba zai neme ⟨את⟩ kawunsa da ⟨את⟩ ɗan'uwansa ba, domin an kira shemittah ga Yahweh.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "kuma wannan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "maganar"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "shemittah"
+    },
+    {
+      "surface": "שמוט",
+      "gloss": "⟨zai wallafa⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "mai"
+    },
+    {
+      "surface": "משה",
+      "gloss": "shigaɗar bashi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hannunsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "ישה",
+      "gloss": "ya bada rance"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "ga kawunsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "zai neme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawunsa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kawunsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ɗan'uwansa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ɗan'uwansa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "an kira"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "shemittah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T05:18:20.322535722Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 44:5",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Kuma ba su sauraro ba, kuma ba su lule ⟨את⟩ kunne ⟨sunsu⟩ su koma daga sharri ⟨nasu⟩, ⟨don⟩ su kada su ƙone tururuwa ga elohim wasu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sauraro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "lule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kunne sunsu"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "kunne ⟨sunsu⟩"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "su koma"
+    },
+    {
+      "surface": "מרעתם",
+      "gloss": "daga sharri ⟨nasu⟩"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "⟨don⟩ su kada"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "su ƙone tururuwa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ga elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wasu"
+    }
+  ],
+  "timestamp": "2026-08-12T16:26:15.797937808Z",
+  "model": "glm-5.2"
+}

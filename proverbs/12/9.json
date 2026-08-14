@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Mafi kyau ⟨ne⟩ wanda aka ɗauka ƙaɗan, kuma yana da bawa, fiye da wanda yake girmama kansa, kuma yana rashin burodi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "wanda aka ɗauka ƙaɗan"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "kuma yana da bawa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wansa"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "wanda yake girmama kansa"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "kuma yana rashin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "burodi"
+    }
+  ],
+  "timestamp": "2026-08-12T21:13:06.385239713Z",
+  "model": "glm-5.2"
+}

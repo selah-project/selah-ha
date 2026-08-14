@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Kuma mutanen ƙasa suka riƙi ⟨את⟩ Yeho'achaz ɗan Y'oshiyahu, suka sa shi ya yi sarki maimaiton mahaifinsa a Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Kuma suka riƙi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeho'achaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yeho'achaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Y'oshiyahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "suka sa shi ya yi sarki"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "maimaiton"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "mahaifinsa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "a Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-13T02:59:42.571397950Z",
+  "model": "glm-5.2"
+}

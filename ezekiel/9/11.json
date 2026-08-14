@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 9:11",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma ga shi, mutumin da ya sa tufafin linnin, wanda yana da ƙwaryon tada a jigunsa, yana mayar da amsa, yana cewa, \"Na yi kamar yadda ka umarce ni.\"",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Kuma ga shi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "da ya sa tufafin"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "linnin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "הקסת",
+      "gloss": "ƙwaryon tada"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "a jigunsa"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "yana mayar da"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "amsa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "Na yi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צויתני",
+      "gloss": "ka umarce ni"
+    }
+  ],
+  "timestamp": "2026-08-12T16:57:22.904587565Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma Shaul ya doke ⟨את⟩ ʿAmaleq, daga Ḥavilah, a hanyar zuwa Shur, wanda yake a gabobin Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "kuma ya doke"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ʿAmaleq"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ʿAmaleq"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "daga Ḥavilah"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "a hanyar zuwa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "yake a"
+    },
+    {
+      "surface": "פני",
+      "gloss": "gabobin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T08:58:50.581070123Z",
+  "model": "glm-5.2"
+}

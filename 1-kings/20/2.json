@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Ya aika manzanni zuwa ga Ahab sarkin Isra'ila, ⟨zuwa⟩ cikin birnin.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ya aika"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "manzanni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "⟨zuwa⟩ cikin birnin"
+    }
+  ],
+  "timestamp": "2026-08-12T11:43:50.631491186Z",
+  "model": "glm-5.2"
+}

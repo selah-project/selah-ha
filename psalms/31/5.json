@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Ka fitar da ni daga karon da suka ɓoye gare ni, domin Kai ⟨ne⟩ katangar ta.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "Ka fitar da ni"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "daga karo"
+    },
+    {
+      "surface": "זו",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "suka ɓoye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "katangar ta"
+    }
+  ],
+  "timestamp": "2026-08-12T19:33:03.923016706Z",
+  "model": "glm-5.2"
+}

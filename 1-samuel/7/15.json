@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma Samuwel ya yi shari'a ⟨a kan⟩ ⟨את⟩ Yisra'el dukan kwanakin rayuwarsa.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Kuma ya yi shari'a"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuwel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "rayuwarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T08:41:37.349711898Z",
+  "model": "glm-5.2"
+}

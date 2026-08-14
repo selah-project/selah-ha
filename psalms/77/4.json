@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 77,
+  "translation": "Ina tuna Elohim, ina gurgūta; ina tunani, ⟨kuma⟩ ruhu na yana gajiyawa. Selah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "ina tuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "ina gurgūta"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ina tunani"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "yana gajiyawa"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhu na"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:38.556218661Z",
+  "model": "glm-5.2"
+}

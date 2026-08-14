@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 9:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "gani, hannun Yahweh za a yi ⟨ce⟩ a kan dabbobin da ke cikin gona — a dawakai, a jakuna, a rakuma, a shanu, da a tumaki — annoba mai nauyi sosai.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "gani"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hannun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הויה",
+      "gloss": "za a yi ⟨ce⟩"
+    },
+    {
+      "surface": "במקנך",
+      "gloss": "a kan dabbobinka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da ke"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "cikin gona"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "a dawakai"
+    },
+    {
+      "surface": "בחמרים",
+      "gloss": "a jakuna"
+    },
+    {
+      "surface": "בגמלים",
+      "gloss": "a rakuma"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "a shanu"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "da a tumaki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "annoba"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "mai nauyi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    }
+  ],
+  "timestamp": "2026-08-13T01:45:33.823386384Z",
+  "model": "glm-5.2"
+}

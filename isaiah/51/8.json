@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 51,
+  "translation": "Dõmin ɗan bãla zai ci su kamar tufa, kuma tsãtsa za ta ci su kaman ulu; amma ãdalc'ata Na zai kasance har abãda, kuma ceton Na zuwa ga zuriyar zuriya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "kamar tufa"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "za ya ci su"
+    },
+    {
+      "surface": "עש",
+      "gloss": "ɗan bãla"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "kuma kaman ulu"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "za ta ci su"
+    },
+    {
+      "surface": "סס",
+      "gloss": "tsãtsa"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "ãdalc'ata Na"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abãda"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "za ta kasance"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ceton Na"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "zuwa ga zuriyar"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "zuriya"
+    }
+  ],
+  "timestamp": "2026-08-12T14:26:40.282964246Z",
+  "model": "glm-5.2"
+}

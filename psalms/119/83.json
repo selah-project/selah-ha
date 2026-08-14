@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Gama na kasance kamar ɗan fata a cikin hayaƙi; dokokinka ba na manta da su ba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gama"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "na kasance"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "kamar ɗan fata"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "a cikin hayaƙi"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dokokinka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "na manta"
+    }
+  ],
+  "timestamp": "2026-08-12T20:44:28.958021511Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Yahweh yana sanin kwanakin mutanen da suka döre, kuma gādararsu za ta kasance har abadā.",
+  "tokens": [
+    {
+      "surface": "יוֹדֵ֣עַ",
+      "gloss": "yana sanin"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יְמֵ֣י",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "תְמִימִ֑ם",
+      "gloss": "mutanen da suka döre"
+    },
+    {
+      "surface": "וְנַחֲלָתָ֗ם",
+      "gloss": "kuma gādararsu"
+    },
+    {
+      "surface": "לְעוֹלָ֥ם",
+      "gloss": "har abadā"
+    },
+    {
+      "surface": "תִּהְיֶֽה",
+      "gloss": "za ta kasance"
+    }
+  ],
+  "timestamp": "2026-08-12T19:39:00.833964615Z",
+  "model": "glm-5.2"
+}

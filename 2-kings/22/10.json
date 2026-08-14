@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 22:10",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Shaphan mai rubutu ya fada wa sarki yana cewa: \"Littafi Hilkiah kohen ya ba ni.\" Shaphan ya karanta shi a gaban sarki.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ya fada wa"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shaphan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "mai rubutu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "littafi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya ba ni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilkiah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ויקראהו",
+      "gloss": "ya karanta shi"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shaphan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    }
+  ],
+  "timestamp": "2026-08-13T02:06:55.707632980Z",
+  "model": "glm-5.2"
+}

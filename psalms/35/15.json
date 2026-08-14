@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Amma a cikin tãguwata, suna murna, suka taru; sun taru a kaina suka zama masu buga ⟨waɗanda⟩ ban sani ba; sun tsage ⟨ni⟩, kuma ba su natsu ba.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "amma a cikin tãguwata"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "suna murna"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "suka taru"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "sun taru"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a kaina"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "masu buga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ban sani"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "sun tsage"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "su natsu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:36:04.474988172Z",
+  "model": "glm-5.2"
+}

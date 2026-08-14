@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Mun lalata mu a gare ka, kuma ba mu kiyaye ⟨את⟩ umarnai da ⟨את⟩ dokoki da ⟨את⟩ hukunce-hukunce waɗanda ka umarci ⟨את⟩ Moshe bāranka.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "Mun lalata mu"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": ""
+    },
+    {
+      "surface": "לך",
+      "gloss": "a gare ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba mu"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "kiyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umarnai"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "umarnai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dokoki"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "dokoki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "hukunce-hukunce"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukunce-hukunce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "ka umarci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bāranka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:38:21.265711748Z",
+  "model": "glm-5.2"
+}

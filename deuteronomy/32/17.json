@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 32:17",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Suna yin hadaya ga aljannu, ba ga Eloah; ga alloli da ba su sani ba, sababbin abubbuwa daga kusa suka zo, waɗanda ba su ji tsoron ⟨su⟩ ubanninku.",
+  "tokens": [
+    {
+      "surface": "יזבחו",
+      "gloss": "suna yin hadaya"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "ga aljannu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ga Eloah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "alloli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "su sani"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "sababbin abubbuwa"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "daga kusa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "suka zo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שערום",
+      "gloss": "su ji tsoron"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "ubanninku"
+    }
+  ],
+  "timestamp": "2026-08-13T03:03:39.359483369Z",
+  "model": "glm-5.2"
+}

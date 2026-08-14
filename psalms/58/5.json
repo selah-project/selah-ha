@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 58,
+  "translation": "Guba ⟨ne⟩ a gare su kamar kamaɗar gubar maciji, kamar adder kurma yake rufe kunna sa.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "guba"
+    },
+    {
+      "surface": "למו",
+      "gloss": "a gare su"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "kamar kamaɗar"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "guba"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "maciji"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "adder"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "kurma"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "yake rufe"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "kunna sa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:53:43.622067355Z",
+  "model": "glm-5.2"
+}

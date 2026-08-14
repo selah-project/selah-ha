@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 32:5",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Kuma suka ce: Idan mun sami ⟨ne⟩ alheri a idanunku, a bawa ⟨את⟩ ƙasar da ga bayinka, don mallaka; kada ka sa mu mu ketare ⟨את⟩ Yarden.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Kuma suka ce"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "mun sami"
+    },
+    {
+      "surface": "חן",
+      "gloss": "alheri"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "a idanunku"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "a bawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "da"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "ga bayinka"
+    },
+    {
+      "surface": "לאחזה",
+      "gloss": "don mallaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תעברנו",
+      "gloss": "ka sa mu mu ketare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-12T04:39:01.290680408Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 44:28",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Kuma ɗayan ya fita ⟨את⟩ daga gare ni, kuma na cewa, \"Lalle an tsage shi tsage,\" kuma ba na ganinsa ⟨ya kasance⟩ har yanzu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Kuma ya fita"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ɗayan"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ daga gare ni",
+      "marks": "ni"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "kuma na cewa"
+    },
+    {
+      "surface": "אך",
+      "gloss": "lalle"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "an tsage"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "tsage"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "na ganinsa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨ya kasance⟩ har"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yanzu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:19:37.325224219Z",
+  "model": "glm-5.2"
+}

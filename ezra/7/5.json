@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "ɗan Avishua, ɗan Pinechas, ɗan Elazar, ɗan Aharon ⟨ne⟩ babban kohen.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avishua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen ɗin"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "babban"
+    }
+  ],
+  "timestamp": "2026-08-12T23:25:33.423909773Z",
+  "model": "glm-5.2"
+}

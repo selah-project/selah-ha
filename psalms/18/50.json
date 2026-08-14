@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Saboda haka zan gode maka a cikin al'ummomin, Yahweh, kuma ga sunanka zan rera waƙa.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Saboda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "zan gode maka"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "a cikin al'ummomin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "kuma ga sunanka"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "zan rera waƙa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:23:13.471515225Z",
+  "model": "glm-5.2"
+}

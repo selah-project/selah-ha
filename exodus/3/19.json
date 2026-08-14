@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ni na san cewa sarkin Mitsrayim ba zai bar ku ku tafi ba, har da ⟨ba⟩ hannu mai ƙarfi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "na san"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba zai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bari"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku",
+      "marks": "ku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "ku tafi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "har da ba"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "da hannu"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "mai ƙarfi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:35:17.669537892Z",
+  "model": "glm-5.2"
+}

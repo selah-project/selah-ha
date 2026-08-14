@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma ku tsarkake kanku, kuma ku kasance masu tsarki, domin Ni ni ne Yahweh, Elohim naku.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "Kuma ku tsarkake kanku"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "kuma ku kasance"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "masu tsarki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim naku"
+    }
+  ],
+  "timestamp": "2026-08-12T02:36:45.531751847Z",
+  "model": "glm-5.2"
+}

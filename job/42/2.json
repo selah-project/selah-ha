@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Na sani cewa ⟨duka⟩ kuna iya, kuma babu wani shiri da za a iya hana shi gare ku.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Na sani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨duka⟩"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "kuna iya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "za a iya hana shi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "gare ku"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "shiri"
+    }
+  ],
+  "timestamp": "2026-08-12T22:20:56.859557207Z",
+  "model": "glm-5.2"
+}

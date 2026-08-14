@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Metushelach ya rayu shekara ⟨dari⟩ goma sha takwas da bakwai, kuma ya haifi ⟨את⟩ Lemek.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ya rayu"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metushelach"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bakwai"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "da tamanin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "da ⟨dari⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "kuma ya haifi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemek"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemek"
+    }
+  ],
+  "timestamp": "2026-08-13T01:42:37.663664806Z",
+  "model": "glm-5.2"
+}

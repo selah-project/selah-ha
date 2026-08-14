@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Kuma Filistawa suka bi sha'awar Sha'ul da ⟨את⟩ ɗiyansa, kuma Filistawa suka doke ⟨את⟩ Yehonatan da ⟨את⟩ Avinadav da ⟨את⟩ Malkishu'a, ɗiya na Sha'ul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "Kuma suka bi sha'awar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha'ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ɗiyansa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɗiyansa"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "kuma suka doke"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehonatan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Malkishu'a"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "shu'a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "na Sha'ul"
+    }
+  ],
+  "timestamp": "2026-08-12T09:48:45.175362302Z",
+  "model": "glm-5.2"
+}

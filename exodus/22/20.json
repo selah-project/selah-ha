@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma ba za ka zalunta baƙo, kuma ba za ka dannage shi ba; domin ku kasance baƙi ne a ƙasar Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וְגֵ֥ר",
+      "gloss": "Kuma baƙo"
+    },
+    {
+      "surface": "לֹ֐א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תוֹנֶ֖ה",
+      "gloss": "za ka zalunta"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "תִלְחָצֶ֑נּוּ",
+      "gloss": "za ka dannage shi ba"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "גֵרִ֥ים",
+      "gloss": "baƙi"
+    },
+    {
+      "surface": "הֱיִיתֶ֖ם",
+      "gloss": "ku kasance"
+    },
+    {
+      "surface": "בְּאֶ֥רֶץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "מִצְרָֽיִם",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T01:03:24.257603698Z",
+  "model": "glm-5.2"
+}

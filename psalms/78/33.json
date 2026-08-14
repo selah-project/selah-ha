@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Sai Ya ƙare cikin banza kwanakinsu, kuma shekarunsu cikin tsoro.",
+  "tokens": [
+    {
+      "surface": "וַיְכַל",
+      "gloss": "Sai Ya ƙare"
+    },
+    {
+      "surface": "בַּהֶ֥בֶל",
+      "gloss": "cikin banza"
+    },
+    {
+      "surface": "יְמֵיהֶ֑ם",
+      "gloss": "kwanakinsu"
+    },
+    {
+      "surface": "וּ֝שְׁנוֹתָ֗ם",
+      "gloss": "kuma shekarunsu"
+    },
+    {
+      "surface": "בַּבֶּהָלָֽה",
+      "gloss": "cikin tsoro"
+    }
+  ],
+  "timestamp": "2026-08-12T20:09:54.890761012Z",
+  "model": "glm-5.2"
+}

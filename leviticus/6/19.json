@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kohen din da ya mikatar da ⟨את⟩ ita, shi zai ci ta; a wajen tsarki a ci ta; a cikin ƙofar ⟨na⟩ tanti na tarawa.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "Kohen din"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "da ya mikatar da"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ita"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "shi zai ci ta"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "a wajen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsarki"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "a ci ta"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "a cikin ƙofar"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tanti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "na tarawa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:49:57.542730972Z",
+  "model": "glm-5.2"
+}

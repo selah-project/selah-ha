@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "\"Yahweh ya fitar da mu daga Mitsrayim da hannu mai ƙarfi da daƙƙƙa tana aje, da tsoro babba, da alamu da abin al'ajabi.",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "ya fitar da mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "daga Mitsrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "da hannu"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "mai ƙarfi"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "da daƙƙa"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "tana aje"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "da tsoro"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "babba"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "da alamu"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "da abin al'ajabi"
+    }
+  ],
+  "timestamp": "2026-08-12T05:38:37.370089785Z",
+  "model": "glm-5.2"
+}

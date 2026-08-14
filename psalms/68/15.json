@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 68,
+  "translation": "A cikin watsa, Shaddai ya watsar da sarakuna a ciki, za ta yi kamar dusar ƙanƙara a Tsalmon.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "a cikin watsa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "sarakuna"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a ciki"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "za ta yi kamar dusar ƙanƙara"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "a Tsalmon"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:27.350794765Z",
+  "model": "glm-5.2"
+}

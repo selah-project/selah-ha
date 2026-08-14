@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 26:28",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Suka ce, \"Mun ga a zahiri cewa Yahweh yana tare da kai, sai muka ce, 'Bari yã kasance rantsuwa tsakanin mu, tsakanin mu da kai,' mu kuma mu yanke alkawari da kai.",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמְר֗וּ",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "רָא֣וֹ",
+      "gloss": "mun ga"
+    },
+    {
+      "surface": "רָאִינוּ֮",
+      "gloss": "a zahiri"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "הָיָ֣ה",
+      "gloss": "yã kasance"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עִמָּךְ֒",
+      "gloss": "yana tare da kai"
+    },
+    {
+      "surface": "וַנֹּ֗אמֶר",
+      "gloss": "sai muka ce"
+    },
+    {
+      "surface": "תְּהִ֨י",
+      "gloss": "bari yã kasance"
+    },
+    {
+      "surface": "נָ֥א",
+      "gloss": "tafadali"
+    },
+    {
+      "surface": "אָלָ֛ה",
+      "gloss": "rantsuwa"
+    },
+    {
+      "surface": "בֵּינוֹתֵ֖ינוּ",
+      "gloss": "tsakanin mu"
+    },
+    {
+      "surface": "בֵּינֵ֣ינוּ",
+      "gloss": "tsakanin mu"
+    },
+    {
+      "surface": "וּבֵינֶ֑ךָ",
+      "gloss": "da kai"
+    },
+    {
+      "surface": "וְנִכְרְתָ֥ה",
+      "gloss": "mu kuma mu yanke"
+    },
+    {
+      "surface": "בְרִ֖ית",
+      "gloss": "alkawari"
+    },
+    {
+      "surface": "עִמָּֽךְ",
+      "gloss": "da kai"
+    }
+  ],
+  "timestamp": "2026-08-11T23:47:42.850330637Z",
+  "model": "glm-5.2"
+}

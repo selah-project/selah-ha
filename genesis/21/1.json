@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma Yahweh ya ziyarci ⟨את⟩ Sarahah kamar yadda ya faɗa, kuma Yahweh ya yi wa Sarahah kamar yadda ya yi magana.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Kuma Yahweh"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ya ziyarci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarahah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarahah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "wa Sarahah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya yi magana"
+    }
+  ],
+  "timestamp": "2026-08-11T23:42:25.564546871Z",
+  "model": "glm-5.2"
+}

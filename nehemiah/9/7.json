@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 9:7",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kai ne, ⟨kai ka ne⟩ Yahweh, Elohim, wanda ka zaɓa Avram, ka kuma fitar da shi daga ʿUr na Kasdiyawa, ka mayar da sunansa Avraham.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ne, ⟨kai ka ne⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "ka zaɓa"
+    },
+    {
+      "surface": "באברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והוצאתו",
+      "gloss": "ka kuma fitar da shi"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "daga ʿUr"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "na Kasdiyawa"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ka mayar"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-08-12T23:48:36.803605274Z",
+  "model": "glm-5.2"
+}

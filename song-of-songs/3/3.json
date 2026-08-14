@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Mahoran da suke kewaye cikin birnin sun same ni: ku ga ⟨את⟩ wanda rai⟨na⟩ ta ƙaunaci?",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "sun same ni"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "Mahoran"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "da suke kewaye"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "cikin birnin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanda rai⟨na⟩ ta ƙaunaci"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "wanda ƙaunaci"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rai⟨na⟩"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "ku ga"
+    }
+  ],
+  "timestamp": "2026-08-12T22:24:14.940649408Z",
+  "model": "glm-5.2"
+}

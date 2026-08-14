@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Da ji-n kunne na ji maka, amma yanzu idona ta gani ka.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "da ji-n"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kunne"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "na ji maka"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "amma yanzu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "idona"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "ta gani ka"
+    }
+  ],
+  "timestamp": "2026-08-12T22:24:45.351440216Z",
+  "model": "glm-5.2"
+}

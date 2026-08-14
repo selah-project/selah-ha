@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma Yehoahaz ya nemi gamsar da ⟨את⟩ fuskar Yahweh, kuma Yahweh Ya saurare shi, domin Ya ga ⟨את⟩ matsanancin Isra'ila — domin sarkin Aram ya damƙe ⟨את⟩ su.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "Kuma ya nemi gamsar da"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuskar"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "kuma Ya saurare"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ya ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matsanancin"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "matsanancin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ya damƙe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ su",
+      "marks": "sarkin Aram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-12T12:23:55.705170032Z",
+  "model": "glm-5.2"
+}

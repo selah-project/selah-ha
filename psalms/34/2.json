@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Ina raba ⟨את⟩ Yahweh da alheri a kowane lokaci; yaboSa ya kasance a bakina kullum.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Ina raba da alheri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a kowane"
+    },
+    {
+      "surface": "עת",
+      "gloss": "lokaci"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kullum"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "yaboSa"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "a bakina"
+    }
+  ],
+  "timestamp": "2026-08-12T19:37:12.534775259Z",
+  "model": "glm-5.2"
+}

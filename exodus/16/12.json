@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "\"Na ji ⟨את⟩ gunjinyar ɓa'an Yisra'el; ka yi musu magana, ka ce: 'Tsakanin maraɗe za ku ci nama, kuma da safe za ku sha ɗan'i da burodi, kuma za ku sani cewa ni Ni ne Yahweh, Elohim ku.'\"",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Na ji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunjinyar"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "gunjinyar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓa'an"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ka yi magana"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka ce"
+    },
+    {
+      "surface": "בין",
+      "gloss": "Tsakanin"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "maraɗe"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "za ku ci"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "kuma da safe"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "za ku sha ɗan'i"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "da burodi"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "kuma za ku sani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni Ni ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ku"
+    }
+  ],
+  "timestamp": "2026-08-12T00:51:41.935581884Z",
+  "model": "glm-5.2"
+}

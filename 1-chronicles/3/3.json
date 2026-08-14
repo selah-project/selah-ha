@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "na biyar Shefatya na Avital; na shida Yitre'am na Egla matarsa.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "na biyar"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Shefatya"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "na Avital"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "na shida"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "Yitre'am"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "na Egla"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "matarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T23:58:57.985004612Z",
+  "model": "glm-5.2"
+}

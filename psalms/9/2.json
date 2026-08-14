@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Ina godiya, Yahweh, da dukkan zuciyata; ina bada labarin duka abin ban mamakinki.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Ina godiya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ina bada labarin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "abin ban mamakinki"
+    }
+  ],
+  "timestamp": "2026-08-12T19:21:25.140372971Z",
+  "model": "glm-5.2"
+}

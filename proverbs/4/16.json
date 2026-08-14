@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Domin ba su yi barci, idan ba su yi muguɗi ba; kuma a kwace musu barci ⟨daga⟩, idan ba sa safa wasu ⟨su⟩ yi tuntuɓe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "su yi barci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "su yi muguɗi"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "kuma a kwace musu ⟨daga⟩"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "barci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "safa wasu ⟨su⟩ yi tuntuɓe"
+    }
+  ],
+  "timestamp": "2026-08-12T21:03:13.831458483Z",
+  "model": "glm-5.2"
+}

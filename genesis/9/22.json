@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma Cham, mahaifin Kenaan, ya ga ⟨את⟩ tsirancin mahaifinsa, kuma ya faɗa wa 'yan'uwansa biyu a waje.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "kuma ya ga"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mahaifin"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsirancin"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "tsirancin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "mahaifinsa"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "kuma ya faɗa wa"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "'yan'uwansa biyu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "'yan'uwansa"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "a waje"
+    }
+  ],
+  "timestamp": "2026-08-13T01:43:52.303163266Z",
+  "model": "glm-5.2"
+}

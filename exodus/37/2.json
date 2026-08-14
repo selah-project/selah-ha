@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma ya rufe shi da zinariya marmari — a ciki da waje; kuma ya yi wa ⟨ne⟩ kambin zinariya a kewaye.",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "Kuma ya rufe shi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "da zinariya"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "marmari"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "a ciki"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "da waje"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "kuma ya yi wa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "זר",
+      "gloss": "kambin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinariya"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewaye"
+    }
+  ],
+  "timestamp": "2026-08-12T01:32:12.066343517Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Dāwīd kuma ya sãsanta ⟨את⟩ mutãnensa da kalmõmi, ba ya bã su damã tãka a kan Sha'ūl. Sha'ūl kuma ya tãka daga kõgon, ya yi tãki a hanya.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "ya sãsanta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dāwīd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutãnensa"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "mutãnensa"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "da kalmõmi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "ya bã su damã"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "tãka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ūl"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Sha'ūl kuma"
+    },
+    {
+      "surface": "קם",
+      "gloss": "ya tãka"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "daga kõgon"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ya yi tãki"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "a hanya"
+    }
+  ],
+  "timestamp": "2026-08-12T09:27:34.741649384Z",
+  "model": "glm-5.2"
+}

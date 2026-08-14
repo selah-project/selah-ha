@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Lalle Elohim zai fanshe ⟨nф⟩ raina daga hannun Sheol, domin ya ɗauke ni. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "lalle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "zai fanshe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "raina"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "ya ɗauke ni"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T19:48:18.096082767Z",
+  "model": "glm-5.2"
+}

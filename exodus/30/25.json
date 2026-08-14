@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma ka yi ⟨את⟩ shi man shafawa na tsarki, bargon wƙamshi, aikin mai gaurayar ƙamshi; man shafawa na tsarki ⟨zai kasance⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Kuma ka yi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "man"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "shafawa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsarki"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "bargon"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "wƙamshi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "mai gaurayar ƙamshi"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "man"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "shafawa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsarki"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨zai kasance⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T01:18:17.428177407Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Sai Ezra ya tashi, ya rantsar da ⟨את⟩ shugabannin firistoci, ⟨את⟩ Layiyawa, da kuma duka Isra'ila su yi aiki daidai da kalmar nan, su kuma suka rantsa.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ya tashi"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ya rantsar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shugabannin firistoci"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "shugabannin"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "firistoci"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Layiyawa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da kuma duka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "su yi aiki"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "daidai da kalmar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "su kuma suka rantsa"
+    }
+  ],
+  "timestamp": "2026-08-12T23:32:30.009861456Z",
+  "model": "glm-5.2"
+}

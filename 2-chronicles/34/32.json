@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Kuma ya tsayar da ⟨את⟩ duk wanda aka samu a Yerushalaim da Binyamin, kuma mazaunan Yerushalaim suka yi a ƙarƙashin ⟨ne⟩ alkawarin Elohim, Elohim na ubanninsu.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "kuma ya tsayar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duk wanda aka samu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "wanda aka samu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "a Yerushalaim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "da Binyamin"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "kuma suka yi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "a ƙarƙashin alkawarin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "ubanninsu"
+    }
+  ],
+  "timestamp": "2026-08-13T03:13:14.854206807Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 4:7",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma a kan teburin gaba za su bada tufafin shuɗi, kuma su sa a kansa ⟨את⟩ faratuka da ⟨את⟩ likitocin da ⟨את⟩ kwantena, da ⟨את⟩ gilashin hadaya, kuma gurasar da ba ta katsewa za ta kasance a kansa.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "kuma a kan"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "teburin"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "gaba"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "za su bada"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "tufafin"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "shuɗi"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "kuma su sa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faratuka"
+    },
+    {
+      "surface": "הקערת",
+      "gloss": "faratuka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "likitocin"
+    },
+    {
+      "surface": "הכפת",
+      "gloss": "likitocin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kwantena"
+    },
+    {
+      "surface": "המנקית",
+      "gloss": "kwantena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "gilashin hadaya"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "gilashin"
+    },
+    {
+      "surface": "הנסך",
+      "gloss": "hadaya"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "kuma gurasar"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "da ba ta katsewa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "za ta kasance"
+    }
+  ],
+  "timestamp": "2026-08-12T03:15:29.241109843Z",
+  "model": "glm-5.2"
+}

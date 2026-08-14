@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 2:20",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Domin kaya tafiya a cikin hanyar nagari, kuma hanyoyin masu adalci kaya kiyaye.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "kaya tafiya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "a cikin hanyar"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "nagari"
+    },
+    {
+      "surface": "וארחות",
+      "gloss": "kuma hanyoyin"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "masu adalci"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "kaya kiyaye"
+    }
+  ],
+  "timestamp": "2026-08-12T21:01:34.605943214Z",
+  "model": "glm-5.2"
+}

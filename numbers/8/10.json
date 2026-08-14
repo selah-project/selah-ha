@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma za ka kawo ⟨את⟩ haɗin-Lewiyabbá a gaban Yahweh, kuma ɗiyán-Isra'ila za su dora ⟨את⟩ hannuwansu a kan haɗin-Lewiyabbá.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "kuma za ka kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haɗin-Lewiyabbá"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "haɗin-Lewiyabbá"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "kuma za su dora"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyán"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannuwansu"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hannuwansu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "haɗin-Lewiyabbá"
+    }
+  ],
+  "timestamp": "2026-08-12T03:38:11.121486775Z",
+  "model": "glm-5.2"
+}

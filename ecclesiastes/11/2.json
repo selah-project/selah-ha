@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Ba waɓangare ga ⟨mutane⟩ bakwai, kuma ma ga ⟨mutane⟩ takwas, domin ba ka sani abin da za'a faru na matsala a ƙasar.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "waɓangare"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "ga ⟨mutane⟩ bakwai"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kuma ma"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "ga ⟨mutane⟩ takwas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ka sani"
+    },
+    {
+      "surface": "מה",
+      "gloss": "abin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "za'a faru"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "na matsala"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    }
+  ],
+  "timestamp": "2026-08-13T02:35:42.055085221Z",
+  "model": "glm-5.2"
+}

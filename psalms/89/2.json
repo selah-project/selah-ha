@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Chesed na Yahweh ⟨ne⟩ abin da nake yi wa yabo har abada; zuwa ƙarni da ƙarni zan sanar da amincinka da bakina.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "zan rera"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "zuwa ƙarni"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "da ƙarni"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "zan sanar da"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "amincinka"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "da bakina"
+    }
+  ],
+  "timestamp": "2026-08-12T20:17:54.379617836Z",
+  "model": "glm-5.2"
+}

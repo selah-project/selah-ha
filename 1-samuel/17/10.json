@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma ɗan'Falisɗin ya ce, \"Ni na raina ⟨את⟩ jerin yakin Isra'ila yau wannan; ku ba ni mutum, mu yi yaƙi tare.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ɗan'Falisɗin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "na raina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jerin yakin"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "jerin yakin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ku ba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "mu yi yaƙi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tare"
+    }
+  ],
+  "timestamp": "2026-08-12T09:10:28.996366198Z",
+  "model": "glm-5.2"
+}

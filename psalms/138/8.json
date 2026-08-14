@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 138,
+  "translation": "Yahweh zai kammala ⟨abin da ya shafi⟩ ni; Yahweh, chesed Ɗinka har abada bā zai ƙare ba; ayyukan hannayenKa kada Ka bar su.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "zai kammala"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "⟨abin da ya shafa⟩ ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed Ɗinka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ayyukan"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "hannayenKa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "Ka bar su"
+    }
+  ],
+  "timestamp": "2026-08-12T20:55:49.697753761Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 27:8",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Da awo, da korar ta, kuna gudanar da shari'a ⟨da ita⟩; ya cire ta da iskarsa ta tsanani, a rana ta iskar gabas.",
+  "tokens": [
+    {
+      "surface": "בסאסאה",
+      "gloss": "Da awo"
+    },
+    {
+      "surface": "בשלחה",
+      "gloss": "da korar ta"
+    },
+    {
+      "surface": "תריבנה",
+      "gloss": "kuna gudanar da shari'a ⟨da ita⟩"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "ya cire ta"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "da iskarsa"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ta tsanani"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ta iskar gabas"
+    }
+  ],
+  "timestamp": "2026-08-12T13:36:29.131457780Z",
+  "model": "glm-5.2"
+}

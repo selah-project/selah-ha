@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Yahweh ya ce masa, Me ⟨ne⟩ wannan a hannunka? ⟨Sai⟩ ya ce, Mashiya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "Me wannan"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "a hannunka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "Mashiya"
+    }
+  ],
+  "timestamp": "2026-08-12T00:34:03.176865010Z",
+  "model": "glm-5.2"
+}

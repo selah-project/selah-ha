@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Mosheh ya yi wa ⟨את⟩ Levawa umarni — masu ɗauke da akwatin alkawarin Yahweh — yana cewa:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ya yi wa umarni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levawa"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levawa"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "masu ɗauke da"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwati"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alkawari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    }
+  ],
+  "timestamp": "2026-08-12T05:54:36.125391285Z",
+  "model": "glm-5.2"
+}

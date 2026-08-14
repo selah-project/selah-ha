@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 140,
+  "translation": "Lalle, masu adalci za su gode wa sunanka; masi tsaye-saye za su zauna ⟨a gaban⟩ fuskarka.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Lalle"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "masu adalci"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "za su gode wa"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "sunanka"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "za su zauna"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "masi tsaye-saye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuskarka"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuskarka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:51:54.968802970Z",
+  "model": "glm-5.2"
+}

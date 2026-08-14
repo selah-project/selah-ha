@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 60,
+  "translation": "Ka nuna wa mutãnenka abin da ⟨ya⟩ wuyar gaske; ka sa mu sha giya ta rawãwar kai.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "ka nuna wa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mutãnenka"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "abin da wuyar gaske"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "ka sa mu sha"
+    },
+    {
+      "surface": "יין",
+      "gloss": "giya"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "ta rawãwar kai"
+    }
+  ],
+  "timestamp": "2026-08-12T19:55:13.477993938Z",
+  "model": "glm-5.2"
+}

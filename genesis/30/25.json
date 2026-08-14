@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma ya kasance, lokacin da Rahel ta haifa ⟨את⟩ Yosef, Ya'aƙob ya ce wa Lavan: \"Ka sallame ni, in koma wuri ni, da kuma ƙasa ta.\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ya kasance"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lokacin da"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ta haifa"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aƙob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Ka sallame ni"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "in koma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "wuri ni"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "da kuma ƙasa ta"
+    }
+  ],
+  "timestamp": "2026-08-11T23:56:07.388810217Z",
+  "model": "glm-5.2"
+}

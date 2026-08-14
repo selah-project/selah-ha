@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 19:1",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Haka Yahweh ya faɗa: Ka tafi, ka sayi ⟨את⟩ kwaryar yumbu, ⟨kuma⟩ daga cikin dattijon mutanen, ⟨kuma⟩ daga cikin dattijon kohanim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Haka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "Ka tafi"
+    },
+    {
+      "surface": "וקנית",
+      "gloss": "ka sayi"
+    },
+    {
+      "surface": "בקבק",
+      "gloss": "kwaryar"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "yumbu"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "⟨na yumbu⟩"
+    },
+    {
+      "surface": "ומזקני",
+      "gloss": "⟨kuma⟩ daga cikin dattijon"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "ומזקני",
+      "gloss": "⟨kuma⟩ daga cikin dattijon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohanim"
+    }
+  ],
+  "timestamp": "2026-08-12T15:35:57.786014953Z",
+  "model": "glm-5.2"
+}

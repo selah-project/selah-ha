@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Su kasance ⟨na⟩ kai ka ɗaya, kuma babu ga waɗan nan baƙi ⟨tare da⟩ kai.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "su kasance"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨na⟩ kai"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ka ɗaya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "ga waɗan nan baƙi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kai"
+    }
+  ],
+  "timestamp": "2026-08-12T21:04:25.930107402Z",
+  "model": "glm-5.2"
+}

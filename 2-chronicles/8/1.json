@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ya zo a ƙarshen shekaru ashirin da Shelomah ya gina ⟨את⟩ gidan Yahweh da ⟨את⟩ gidansa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya zo"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "a ƙarshen"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ya gina"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "gidansa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gidansa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:43:23.829038089Z",
+  "model": "glm-5.2"
+}

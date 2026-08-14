@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Lokaci ⟨don⟩ kashe, da kuma lokaci ⟨don⟩ warkarwa; lokaci ⟨don⟩ rushe, da kuma lokaci ⟨don⟩ gina.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "lokaci"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "⟨don⟩ kashe"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "da kuma lokaci"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "⟨don⟩ warkarwa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "lokaci"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "⟨don⟩ rushe"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "da kuma lokaci"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "⟨don⟩ gina"
+    }
+  ],
+  "timestamp": "2026-08-12T22:42:57.762692782Z",
+  "model": "glm-5.2"
+}

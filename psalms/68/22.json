@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 68,
+  "translation": "Lalle Elohim zai fitar dutshe ⟨a⟩ kan gaba'n maƙiyansa, kumamarin gashi na wanda yake tafiya cikin laifukansa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Lalle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "zai fitar dutshe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "maƙiyansa"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "kumamarin gashi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "na gashi"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "wanda yake tafiya"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "cikin laifukansa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:59:23.046659483Z",
+  "model": "glm-5.2"
+}

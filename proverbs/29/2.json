@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Da yawa ⟨lokacin⟩ adalai suka yawaita, mutãnen suna murna; amma lokacin maraĩmi ya mulka, mutãnen suna gusã.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "lokacin suka yawaita"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "adalai"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "suna murna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "amma lokacin ya mulka"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "maraĩmi"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "suna gusã"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mutãnen"
+    }
+  ],
+  "timestamp": "2026-08-12T21:34:46.407696525Z",
+  "model": "glm-5.2"
+}

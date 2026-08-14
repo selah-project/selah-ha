@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 46:2",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 46,
+  "translation": "Sun dabiya, sun goga tare; ba su iya tsallakawa ⟨da⟩ kaya ⟨ba⟩, kuma ransu ta shiga cikin gudun hijira.",
+  "tokens": [
+    {
+      "surface": "קרסו",
+      "gloss": "sun dabiya"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "sun goga"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "su iya"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "tsallakawa"
+    },
+    {
+      "surface": "משא",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "ונפשם",
+      "gloss": "kuma ransu"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "cikin gudun hijira"
+    },
+    {
+      "surface": "הלכה",
+      "gloss": "ta shiga"
+    }
+  ],
+  "timestamp": "2026-08-12T14:13:38.216099541Z",
+  "model": "glm-5.2"
+}

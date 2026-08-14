@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Ku 'yantar da kai kamar gasa daga ⟨cikin⟩ hannu, ⟨kuma⟩ kamar tsuntsu daga ⟨cikin⟩ hannu mai kama da randarƙa.",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "ku 'yantar da kai"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "kamar gasa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannu"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "kuma kamar tsuntsu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannu"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "mai kama da randarƙa"
+    }
+  ],
+  "timestamp": "2026-08-12T21:06:54.403746112Z",
+  "model": "glm-5.2"
+}

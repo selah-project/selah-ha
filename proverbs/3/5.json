@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Ka dogara ga Yahweh da dukkan zuciyarka, kuma ga fahimtarka kada ka doro dogaro.",
+  "tokens": [
+    {
+      "surface": "בְּטַ֣ח",
+      "gloss": "Ka dogara"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "לִבֶּ֑ךָ",
+      "gloss": "zuciyarka"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "kuma ga"
+    },
+    {
+      "surface": "בִּֽ֝ינָתְךָ֗",
+      "gloss": "fahimtarka"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תִּשָּׁעֵֽן",
+      "gloss": "ka doro dogaro"
+    }
+  ],
+  "timestamp": "2026-08-12T21:01:49.415988708Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Sauti biyar roƙona idan ina kuka zuwa gare ka, idan ina ɗaukar hannayena zuwa cikin tsattsarkan masallacinka.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Sauti biya"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sautin"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "roƙona"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "idan ina kuka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zuwa gare ka"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "idan ina ɗauko"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hannayena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "cikin masallaci"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "tsattsarkan ⟨na⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:00.364844223Z",
+  "model": "glm-5.2"
+}

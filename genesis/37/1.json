@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma Ya'akob ya zauna a ƙasar baƙin mahaifinsa, a ƙasar Kena'an.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ya zauna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akob"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "baƙin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "mahaifinsa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    }
+  ],
+  "timestamp": "2026-08-12T00:07:40.583043819Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 147,
+  "translation": "Yahweh yana ɗaukaka ƙanƙanta, yana kaskantar da mugaye har ⟨zuwa⟩ ƙasar.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "yana ɗaukaka"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ƙanƙanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "yana kaskantar da"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mugaye"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "har ⟨zuwa⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    }
+  ],
+  "timestamp": "2026-08-12T20:59:27.647350073Z",
+  "model": "glm-5.2"
+}

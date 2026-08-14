@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 13:11",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "cutar tsãraɓa ce ta daɗe a cikin fatar naman jikinsa, kuma kohen ya ɗaure a matsayin ɓata, ba za a rufe shi ⟨da kwantarwa⟩ ba, domin ⟨shi⟩ ɓata ne.",
+  "tokens": [
+    {
+      "surface": "צרעת",
+      "gloss": "cutar tsãraɓa"
+    },
+    {
+      "surface": "נושנת",
+      "gloss": "ta daɗe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ce"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "a cikin fatar"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "naman jikinsa"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "kuma ya ɗaure a matsayin ɓata"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba za a"
+    },
+    {
+      "surface": "יסגרנו",
+      "gloss": "rufe shi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ɓata"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    }
+  ],
+  "timestamp": "2026-08-12T02:09:56.102479103Z",
+  "model": "glm-5.2"
+}

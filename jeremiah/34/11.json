@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Amma daga baya suka juya, suka mayar da ⟨את⟩ bayin da ⟨את⟩ baiwojin da suka sallama 'yanta, suka kuma lõɓe su zuwa bayi da baiwoji.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "suka juya"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "daga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baya"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "suka mayar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayin"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "bayin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "baiwojin"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "baiwojin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "suka sallama"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "'yanta"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "suka kuma lõɓe su"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "zuwa bayi"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "da baiwoji"
+    }
+  ],
+  "timestamp": "2026-08-12T16:07:18.719353563Z",
+  "model": "glm-5.2"
+}

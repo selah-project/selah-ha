@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Zan shiga zuwa madibin Elohim, zuwa El, farin cikin murnata, kuma zan gode maka da kinari, Elohim, Elohim na.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "Zan shiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "madibin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "farin cikin"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "murnata"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "zan kuma gode maka"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "da kinari"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    }
+  ],
+  "timestamp": "2026-08-13T02:24:59.762002334Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 55:22",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 55,
+  "translation": "Maganabinsa sun yi laushi fiye da man shanu, amma zuciyarsa ta kasance yaƙi; kalmominsa suka yi laushi fiye da mai, amma ⟨suna⟩ takuban da aka ɗebo.",
+  "tokens": [
+    {
+      "surface": "חלקו",
+      "gloss": "sun yi laushi"
+    },
+    {
+      "surface": "מחמאת",
+      "gloss": "fiye da man shanu"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "magana⟨b⟩insa"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "amma"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zuciyarsa"
+    },
+    {
+      "surface": "רכו",
+      "gloss": "suya yi laushi"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "kalmominsa"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "fiye da mai"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "takuban da aka ɗebo"
+    }
+  ],
+  "timestamp": "2026-08-12T19:50:33.372315513Z",
+  "model": "glm-5.2"
+}

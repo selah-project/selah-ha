@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Zuciya ta yi gudu da magana ta kyau, ina faɗar ayyukana ga sarki; harshena ⟨shine⟩ fensir marubuci mai sauri.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "ta yi gudu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Zuciya ta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "da magana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ta kyau"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ina faɗar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ayyukana"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ga sarki"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "harshena"
+    },
+    {
+      "surface": "עט",
+      "gloss": "fensir"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "marubuci"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "mai sauri"
+    }
+  ],
+  "timestamp": "2026-08-13T03:08:18.453515149Z",
+  "model": "glm-5.2"
+}

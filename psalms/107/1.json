@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Ku gaisa Yahweh, domin ⟨shi⟩ nagari ne, domin har abada chesdinsa.",
+  "tokens": [
+    {
+      "surface": "הֹד֣וּ",
+      "gloss": "Ku gaisa"
+    },
+    {
+      "surface": "לַיהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "ט֑וֹב",
+      "gloss": "nagari"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "חַסְדּֽוֹ",
+      "gloss": "chesdinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:33:14.340669651Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 75,
+  "translation": "Kada ku ɗauƙa ƙahoninku sama, kada ku yi magana da wuya-mutunci.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ku ɗauƙa"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "sama"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "ƙahoninku"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "kada ku yi magana"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "da wuya"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "mutunci"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:09.168687737Z",
+  "model": "glm-5.2"
+}

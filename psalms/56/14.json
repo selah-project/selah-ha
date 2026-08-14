@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 56:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 56,
+  "translation": "Domin ka tsqatar da ranaa daga mutuwa — a, ba qafaf na daga kuskureewa? — don ina tafiya a gaban Elohim cikin hasken masu rai.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "הִצַּ֪לְתָּ",
+      "gloss": "ka tsqatar da"
+    },
+    {
+      "surface": "נַפְשִׁ֡י",
+      "gloss": "ranaa"
+    },
+    {
+      "surface": "מִמָּוֶת֮",
+      "gloss": "daga mutuwa"
+    },
+    {
+      "surface": "הֲלֹ֥א",
+      "gloss": "a, ba"
+    },
+    {
+      "surface": "רַגְלַ֗י",
+      "gloss": "qafaf na"
+    },
+    {
+      "surface": "מִ֫דֶּ֥חִי",
+      "gloss": "daga kuskureewa"
+    },
+    {
+      "surface": "לְהִֽתְהַלֵּךְ",
+      "gloss": "ina tafiya"
+    },
+    {
+      "surface": "לִפְנֵ֣י",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בְּ֝א֗וֹר",
+      "gloss": "cikin hasken"
+    },
+    {
+      "surface": "הַחַיִּֽים",
+      "gloss": "masu rai"
+    }
+  ],
+  "timestamp": "2026-08-12T19:49:37.348025311Z",
+  "model": "glm-5.2"
+}

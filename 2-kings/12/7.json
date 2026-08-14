@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma a cikin shekara ta ashirin da uku ga Sarki Yehoash, firistoci ba su ƙarfafa ⟨את⟩ gyaran ⟨gidan⟩ ba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma a cikin"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "shekara ta"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "da uku"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ga Sarki"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "su ƙarfafa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "firistoci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gyaran"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "gyaran"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "gidan"
+    }
+  ],
+  "timestamp": "2026-08-12T12:21:31.295321775Z",
+  "model": "glm-5.2"
+}

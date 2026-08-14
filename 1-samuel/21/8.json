@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 21:8",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma a can ⟨akwai⟩ wani mutum daga cikin bayin Sha'ul a wannan rana, an tsare shi a gaban Yahweh, kuma sunansa Doeg ɗan-Edom, shugaban mafarata waɗanda ⟨suka kasance⟩ na Sha'ul.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Kuma a can"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wani mutum"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "daga cikin bayin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "נעצר",
+      "gloss": "an tsare shi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "kuma sunansa"
+    },
+    {
+      "surface": "דאג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "ɗan-Edom"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "mafarata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "na Sha'ul"
+    }
+  ],
+  "timestamp": "2026-08-12T09:31:28.100847156Z",
+  "model": "glm-5.2"
+}

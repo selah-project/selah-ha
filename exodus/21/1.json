@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma waɗannan ne ⟨su⟩ hukunce-hukuncen da za ka sanya a gabaninsu.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kuma waɗannan"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukunce-hukuncen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "za ka sanya"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "a gabaninsu"
+    }
+  ],
+  "timestamp": "2026-08-12T01:03:39.263471878Z",
+  "model": "glm-5.2"
+}

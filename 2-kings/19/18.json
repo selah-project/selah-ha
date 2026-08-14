@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "kuma suka jefa ⟨את⟩ allolansu a cikin wuta, domin ba Elohim ⟨ne⟩ su, sai aikin hannun mutum ne, itace da dutse, saboda haka suka halaka su.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "kuma suka jefa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allolansu"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "allolansu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "a cikin wuta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "המה",
+      "gloss": "su"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ce⟩"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hannun"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "itace"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "da dutse"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "saboda haka suka halaka su"
+    }
+  ],
+  "timestamp": "2026-08-13T03:05:13.979728198Z",
+  "model": "glm-5.2"
+}

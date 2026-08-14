@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 137,
+  "translation": "Waɗanda suka faranta, ⟨wanne⟩ zai riƙe kuma ya ɗanya ⟨את⟩ jarirai-nka a kan dutsen!",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵ֤י",
+      "gloss": "waɗanda suka faranta"
+    },
+    {
+      "surface": "שֶׁיֹּאחֵ֓ז",
+      "gloss": "⟨wanne⟩ zai riƙe"
+    },
+    {
+      "surface": "וְנִפֵּ֬ץ",
+      "gloss": "kuma ya ɗanya"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "jarirai-nka"
+    },
+    {
+      "surface": "עֹ֝לָלַ֗יִךְ",
+      "gloss": "jarirai-nka"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הַסָּֽלַע",
+      "gloss": "kan dutsen"
+    }
+  ],
+  "timestamp": "2026-08-12T20:51:42.007276254Z",
+  "model": "glm-5.2"
+}

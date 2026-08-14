@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 9:2",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma suka dasa ⟨את⟩ harshensu ⟨a matsayin⟩ bogensu na ƙarya, kuma ba da gaskiya ba suka ƙarfafa a ƙasa, domin daga mugunta zuwa mugunta suka fita, kuma ⟨את⟩ ni ba suka sani ba, maganar Yahweh.",
+  "tokens": [
+    {
+      "surface": "וידרכו",
+      "gloss": "kuma suka dasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harshensu"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "harshensu"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "bogensu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "na ƙarya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "לאמונה",
+      "gloss": "da gaskiya"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "suka ƙarfafa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "daga mugunta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mugunta"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "suka fita"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "kuma ⟨את⟩ ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "suka sani"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "maganar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T15:17:01.346262816Z",
+  "model": "glm-5.2"
+}

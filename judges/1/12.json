@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma Kalev ya ce: \"Wanda ya lura ⟨את⟩ Kiryat-Sefer kuma ya kame ta, sa'an nan zan ba shi ⟨את⟩ ʻAkSa ɗiyata ⟨don⟩ mata.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Wanda"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ya lura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "kuma ya kame ta"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "sa'an nan zan ba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ʻAkSa ɗiyata"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "ʻAkSa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ɗiyata"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "⟨don⟩ mata"
+    }
+  ],
+  "timestamp": "2026-08-12T07:10:50.447149971Z",
+  "model": "glm-5.2"
+}

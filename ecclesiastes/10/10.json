@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Idan ƙarfe ya yi kaifi-kaifi, kuma ⟨shi⟩ ba a kaifa masa, ⟨to⟩ yana ƙarancin ƙarfi, amma ƙarfi zai rinjayē; kuma amfanin ⟨don daidaita⟩ hikima ⟨yana nan⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "קהה",
+      "gloss": "ya yi kaifi-kaifi"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ƙarfe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kuma ⟨shi⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "a kaifa masa"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "⟨to⟩ yana ƙarancin ƙarfi"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "amma ƙarfi"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "zai rinjayē"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "kuma amfanin"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "⟨don daidaita⟩"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikima ⟨yana nan⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T22:44:35.226481570Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Shi ⟨ne⟩ ya doke ⟨את⟩ Falasdawa har zuwa ʿAzza, da ⟨את⟩ iyakokinta, daga hasumiyan masu tsaro har zuwa birni katanga.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ya doke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Falasdawa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falasdawa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ʿAzza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "iyakokinta"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "iyakokinta"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "daga hasumiyan"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "masu tsaro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "birni"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "katanga"
+    }
+  ],
+  "timestamp": "2026-08-12T12:32:35.822044463Z",
+  "model": "glm-5.2"
+}

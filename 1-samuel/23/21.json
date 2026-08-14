@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 23:21",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma Shaul ya ce, Ku alƙawarta a Yahweh, domin kun ji tausayi a kaina.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ברוכים",
+      "gloss": "Ku alƙawarta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨ku⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "חמלתם",
+      "gloss": "kun ji tausayi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a kaina"
+    }
+  ],
+  "timestamp": "2026-08-12T09:34:57.002752147Z",
+  "model": "glm-5.2"
+}

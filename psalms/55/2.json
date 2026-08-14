@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 55,
+  "translation": "Sauraro ka yi, Elohim, addu'ata, kada ka ɓoye daga roƙona.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Sauraro ka yi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "addu'ata"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "ka ɓoye"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "daga roƙona"
+    }
+  ],
+  "timestamp": "2026-08-12T19:52:54.794309322Z",
+  "model": "glm-5.2"
+}

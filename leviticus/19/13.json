@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kada ka danni ⟨את⟩ kawanka, kuma kada ka sata; albarin ma'aikacin hayar da ke ⟨את⟩ ⟨tare da⟩ kai ba za a yi masa lala'a ⟨sai⟩ gabaɗe ba.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תַעֲשֹׁ֥ק",
+      "gloss": "ka danni"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kawanka"
+    },
+    {
+      "surface": "רֵֽעֲךָ֖",
+      "gloss": "kawanka"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תִגְזֹ֑ל",
+      "gloss": "ka sata"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תָלִ֞ין",
+      "gloss": "za a yi lala'a"
+    },
+    {
+      "surface": "פְּעֻלַּ֥ת",
+      "gloss": "albarin aikin"
+    },
+    {
+      "surface": "שָׂכִ֛יר",
+      "gloss": "ma'aikacin hayar"
+    },
+    {
+      "surface": "אִתְּךָ֖",
+      "gloss": "⟨את⟩ ⟨tare da⟩"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "⟨sai⟩"
+    },
+    {
+      "surface": "בֹּֽקֶר",
+      "gloss": "gabaɗe"
+    }
+  ],
+  "timestamp": "2026-08-13T01:50:08.130023053Z",
+  "model": "glm-5.2"
+}

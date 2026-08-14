@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Sun ɓataru cikin hamada, cikin jeji, hanya, birni na zama ba su samu ba.",
+  "tokens": [
+    {
+      "surface": "תָּע֣וּ",
+      "gloss": "Sun ɓataru"
+    },
+    {
+      "surface": "בַ֭מִּדְבָּר",
+      "gloss": "cikin hamada"
+    },
+    {
+      "surface": "בִּישִׁימ֣וֹן",
+      "gloss": "cikin jeji"
+    },
+    {
+      "surface": "דָּ֑רֶךְ",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "עִ֥יר",
+      "gloss": "birni"
+    },
+    {
+      "surface": "מוֹשָׁ֗ב",
+      "gloss": "na zama"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מָצָֽאוּ",
+      "gloss": "su samu ba"
+    }
+  ],
+  "timestamp": "2026-08-12T20:33:14.341182441Z",
+  "model": "glm-5.2"
+}

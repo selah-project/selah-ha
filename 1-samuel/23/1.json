@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Sai suka fada wa Dawuda ⟨suna cewa⟩: gani, Falastawa suna yaki a Keila, kuma suna fashi ⟨na⟩ gonakin dabino.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "sai suka fada wa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨suna cewa⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gani"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falastawa"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "suna yaki"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "a Keila"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "kuma suna"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "fashi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gonakin dabino"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "⟨na⟩ gonakin dabino"
+    }
+  ],
+  "timestamp": "2026-08-12T09:24:57.851590100Z",
+  "model": "glm-5.2"
+}

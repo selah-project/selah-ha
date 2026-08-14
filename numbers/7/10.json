@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma shugabanni suka kusantar da ⟨את⟩ sadaukarwar altarin a ran da aka shafa ⟨את⟩ shi, kuma shugabanni suka kusantar da ⟨את⟩ hadayarsu gaban altarin.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "suka kusantar da"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "shugabanni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaukarwar"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "sadaukarwar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a ran"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "aka shafa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi",
+      "marks": "altarin"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "suka kusantar da"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "shugabanni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadayarsu"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "hadayarsu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarin"
+    }
+  ],
+  "timestamp": "2026-08-12T03:34:27.011578325Z",
+  "model": "glm-5.2"
+}

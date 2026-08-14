@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 108,
+  "translation": "Ashe ba, Elohim, ka ƙi mu? Kuma ba, Elohim, ba ka fita ba tare da rundunoninmu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ashe ba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "ka ƙi mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Kuma ba"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ba ka fita ba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "tare da rundunoninmu"
+    }
+  ],
+  "timestamp": "2026-08-13T02:27:40.709435143Z",
+  "model": "glm-5.2"
+}

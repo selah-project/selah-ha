@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 148,
+  "translation": "Sarakunan ƙasa da dukan al'ummai, sarakuna da dukan masu shari'a na ƙasa",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "sarakunan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da dukan"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "al'ummai"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "sarakuna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da dukan"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "masu shari'a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:57:39.255117864Z",
+  "model": "glm-5.2"
+}

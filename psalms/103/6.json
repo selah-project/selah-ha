@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 103,
+  "translation": "Yahweh, Mai aikata adalci da hukunce-hukunce ga duka waɗanda aka ɗiƙe.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Mai aikata"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "adalci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "da hukunce-hukunce"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ga duka"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "waɗanda aka ɗiƙe"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:42.538703476Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Da kowane abin buɗe-gabas wanda ba a ɗaure murfi a kansa, mara-tsarki shi ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Da kowane"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "abin"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "buɗe-gabas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ba"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "a ɗaure murfi"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "(togiya)"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "mara-tsarki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi ⟨ne⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T04:13:25.393574750Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 54,
+  "translation": "Domin duwatsu za su ja baya, kuma tuddai za su girgiza, amma chesed⟨ina⟩ ba zai nisanta daga gare ki ba, kuma alkawarin salom⟤na ba zai girgiza ba, in ji wanda yake jin tausasaninkai, Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "za su ja baya"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "kuma tuddai"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "za su girgiza"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "amma chesed⟨ina⟩"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ daga gare ki",
+      "marks": "gare ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba zai"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "nisanta"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "kuma alkawarin"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "salom⟨na⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba zai"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "girgiza"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "in ji"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "wanda yake jin tausasaninkai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T14:24:55.840872583Z",
+  "model": "glm-5.2"
+}

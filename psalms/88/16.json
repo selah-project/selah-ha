@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 88,
+  "translation": "Matalauci ne ni, kuma ina mutuwa daga ƙuruciyata; na ɗauki tsoratkak, ina ɓaci.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "matalauci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "kuma ina mutuwa"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "daga ƙuruciyata"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "na ɗauki"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "tsoratkak"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "ina ɓaci"
+    }
+  ],
+  "timestamp": "2026-08-12T20:16:51.744157697Z",
+  "model": "glm-5.2"
+}

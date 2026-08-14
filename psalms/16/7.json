@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Ina yi wa ⟨את⟩ Yahweh albarka wanda ya ba ni shawara; har da dare-dare koda jijiyoyi suna yi mini khalsa.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Ina yi wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "ya ba ni shawara"
+    },
+    {
+      "surface": "אף",
+      "gloss": "har da"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "dare-dare"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "suna yi mini khalsa"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "koda jijiyoyi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:22:03.321392601Z",
+  "model": "glm-5.2"
+}

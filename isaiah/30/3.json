@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 30:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma zai kasance ⟨a⟩ gare ku, ƙarfin Paroh ya zama wulākanci, kuma mafaka a cikin inuwar Mitsrayim ya zama ƙyama.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Kuma zai kasance"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨a⟩ gare ku"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ƙarfin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "ya zama wulākanci"
+    },
+    {
+      "surface": "והחסות",
+      "gloss": "kuma mafaka"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "a cikin inuwar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "ya zama ƙyama"
+    }
+  ],
+  "timestamp": "2026-08-12T13:48:29.347303078Z",
+  "model": "glm-5.2"
+}

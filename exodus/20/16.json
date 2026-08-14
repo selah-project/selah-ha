@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kada ka ba da shaidar ƙarya ⟨akan⟩ makwabcinka.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תַעֲנֶה",
+      "gloss": "ka ba da shaidar"
+    },
+    {
+      "surface": "בְרֵעֲךָ",
+      "gloss": "⟨akan⟩ makwabcinka"
+    },
+    {
+      "surface": "עֵד",
+      "gloss": "shaida"
+    },
+    {
+      "surface": "שָׁקֶר",
+      "gloss": "ƙarya"
+    }
+  ],
+  "timestamp": "2026-08-12T00:55:22.423583831Z",
+  "model": "glm-5.2"
+}

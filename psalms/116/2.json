@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 116,
+  "translation": "Domi Ya lulluɓe kunneSa gare ni, kuma a cikin kwanākīna zan kira ⟨a kansa⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domi"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Ya lulluɓe"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "kunneSa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gare ni"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "kuma a cikin kwanākīna"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "zan kira"
+    }
+  ],
+  "timestamp": "2026-08-12T20:40:04.920893450Z",
+  "model": "glm-5.2"
+}

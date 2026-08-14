@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 136,
+  "translation": "Ga wanda ke aikata manyan al'ajjai shi kaɗai, domin chesed ⟨nasa⟩ har abada.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Ga wanda ke aikata"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "al'ajjai"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "manyan"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "shi kaɗai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed ⟨nasa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:53:15.183512109Z",
+  "model": "glm-5.2"
+}

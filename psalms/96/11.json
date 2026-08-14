@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 96,
+  "translation": "Sama za ta yi murna, kuma ƙasa za ta yi farin ciki, teku za ta yi taƙawa, da cikinta ⟨duƙa⟩.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "za ta yi murna"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Sama"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "kuma za ta yi farin ciki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "za ta yi taƙawa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "da cikinta ⟨duƙa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:20:00.940112164Z",
+  "model": "glm-5.2"
+}

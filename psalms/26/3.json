@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Domin chesed dinka yana gaban idanona, kuma na zagaya cikin gaskiyarka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed dinka"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "yana gaban"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "idanona"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "kuma na zagaya"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "cikin gaskiyarka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:32:03.188306333Z",
+  "model": "glm-5.2"
+}

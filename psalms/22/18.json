@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Ina ƙidaya dukkan ƙasusuwa na; ⟨suna⟩ duba ni, suna kallona.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "Ina ƙidaya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ƙasusuwa na"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨suna⟩"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "duba"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "suna kallon"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:27:12.569946015Z",
+  "model": "glm-5.2"
+}

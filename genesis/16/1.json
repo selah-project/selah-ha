@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Sai Sarai, matar Avram, ba ta haifa masa ba; kuma tana da baiwar mata 'yar Mitsrayim, sunanta Hagar.",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "Sai Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "matar"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ta haifa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "kuma tana da"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "baiwar mata"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "yar Mitsrayim"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "sunanta"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    }
+  ],
+  "timestamp": "2026-08-11T23:37:31.306829305Z",
+  "model": "glm-5.2"
+}

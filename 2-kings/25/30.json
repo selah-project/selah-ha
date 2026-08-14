@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma rabon abincinsa, rabon da ake ci kullum, ana ba shi ⟨daga⟩ ⟨gaban⟩ ⟨את⟩ sarki, abin kowace rana a ranar sa, dukan kwanakin rayuwarsa.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "Kuma rabon abincinsa"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "rabon da ake ci"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kullum"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ana ba shi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨daga⟩ ⟨gaban⟩ ⟨את⟩",
+      "marks": "sarki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "abin"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kowace rana"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "a ranar sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "rayuwarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:49:35.134770842Z",
+  "model": "glm-5.2"
+}

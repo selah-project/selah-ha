@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 58,
+  "translation": "Wanda ba ya saurara muryar waɗanda suke yin sihiri, ko da yake yana ƙwarewa a sihirin da yake haɗawa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ya saurara"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "waɗanda suke yin sihiri"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "yake haɗawa"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "sihirin"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "yana ƙwarewa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:53:43.622326192Z",
+  "model": "glm-5.2"
+}

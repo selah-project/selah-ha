@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 26:15",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "«Duba daga mazauninka mai tsarki, daga sama, ka albarkaci ⟨את⟩ mutanenka, ⟨את⟩ Yisra'el, da ⟨את⟩ ƙasar da ka ba mu, kamar yadda ka rantsu wa ubanninmu, ƙasa ⟨da ke⟩ gudan da madara da zuma.»",
+  "tokens": [
+    {
+      "surface": "השקיפה",
+      "gloss": "duba"
+    },
+    {
+      "surface": "ממעון",
+      "gloss": "daga mazauninka"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "mai tsarki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ka albarkaci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanenka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mutanenka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ka ba"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "ka rantsu"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "wa ubanninmu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "gudan"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "madara"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "da zuma"
+    }
+  ],
+  "timestamp": "2026-08-12T05:42:07.656869622Z",
+  "model": "glm-5.2"
+}

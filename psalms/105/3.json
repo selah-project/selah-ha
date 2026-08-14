@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Ku yaba da sunan tsarkinsa, zuciyar ⟨waɗanda⟩ ke neman Yahweh za ta yi murna.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Ku yaba da"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sunan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "tsarkinsa"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "za ta yi murna"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciyar"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "⟨waɗanda⟩ ke neman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T20:30:42.271034529Z",
+  "model": "glm-5.2"
+}

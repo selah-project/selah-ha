@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Ba za a samu ⟨wadda take⟩ fashewa ko ɗaya marar haihuwa a ƙasarka ba; ⟨את⟩ adadin kwanakininku ⟨zan⟩ cika.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "za a samu"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "⟨wadda take⟩ fashewa"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "ko ɗaya marar haihuwa"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "a ƙasarka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adadin kwanakininku"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "adadin"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "kwanakininku"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "⟨zan⟩ cika"
+    }
+  ],
+  "timestamp": "2026-08-12T01:00:49.890067066Z",
+  "model": "glm-5.2"
+}

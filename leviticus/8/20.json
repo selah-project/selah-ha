@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ⟨את⟩ ram ɗin ya tsaga zuwa gudansa, kuma Moshe ya tofa suna ⟨את⟩ kan sa da ⟨את⟩ gudanjan sa da ⟨את⟩ kitse sa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Kuma ⟨את⟩",
+      "marks": "ram ɗin"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ram ɗin"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "ya tsaga"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "zuwa gudansa"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "kuma ya tofa suna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan sa"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kan sa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "gudanjan sa"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "gudanjan sa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kitse sa"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "kitse sa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:00:35.456092119Z",
+  "model": "glm-5.2"
+}

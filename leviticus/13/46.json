@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 13:46",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Duk kwanakin da ālar take a cikinsa, zai kasance ba-tsarki; shi ⟨ne⟩ ba-tsarki. Shi kaɗai zai zauna; a wajen sansanin zai kasance matsuguninsa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Duk"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ālar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a cikinsa"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "zai kasance ba-tsarki"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ba-tsarki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "Shi kaɗai"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "zai zauna"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "a wajen"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "sansanin"
+    },
+    {
+      "surface": "מושבו",
+      "gloss": "zai kasance matsuguninsa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:10:47.470318833Z",
+  "model": "glm-5.2"
+}

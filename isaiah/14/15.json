@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "A'a, an sa ka zuwa Sheol, zuwa ɓangarorin ramin ⟨duhu⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "a'a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "an sa ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "ɓangarorin"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ramin"
+    }
+  ],
+  "timestamp": "2026-08-12T13:15:18.014450211Z",
+  "model": "glm-5.2"
+}

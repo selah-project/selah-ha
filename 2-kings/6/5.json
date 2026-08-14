@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma sai ⟨ya faru⟩, ɗayan yana felling lintel, ⟨sa'an nan⟩ ⟨את⟩ ƙarfe ya fada cikin ruwa, kuma ya yi kuka, ya ce, \"Ah! Adonai na, kuma shi ⟨an aro ne⟩!\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma sai ya faru"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ɗayan"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "yana felling"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "lintel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ƙarfe"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ƙarfe"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ya fada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "ya yi kuka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ah!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai na"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kuma shi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "an aro"
+    }
+  ],
+  "timestamp": "2026-08-12T12:04:40.914458688Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 86,
+  "translation": "Ka juyo fuska a gare ni, ka nĩma ni ni'ima; ka bawa bāranka ƙarfin ka, kuma ka kuɓutar da ɗan bāwar mace.",
+  "tokens": [
+    {
+      "surface": "פְּנֵ֥ה",
+      "gloss": "ka juyo fuska"
+    },
+    {
+      "surface": "אֵלַ֗י",
+      "gloss": "a gare ni"
+    },
+    {
+      "surface": "וְחָ֫נֵּ֥נִי",
+      "gloss": "ka nĩma ni ni'ima"
+    },
+    {
+      "surface": "תְּנָֽה",
+      "gloss": "ka bawa"
+    },
+    {
+      "surface": "עֻזְּךָ֥",
+      "gloss": "ƙarfin ka"
+    },
+    {
+      "surface": "לְעַבְדֶּ֑ךָ",
+      "gloss": "bāranka"
+    },
+    {
+      "surface": "וְהוֹשִׁ֗יעָה",
+      "gloss": "kuma ka kuɓutar da"
+    },
+    {
+      "surface": "לְבֶן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אֲמָתֶֽךָ",
+      "gloss": "bāwar mace"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:20.908997406Z",
+  "model": "glm-5.2"
+}

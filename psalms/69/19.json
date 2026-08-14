@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Kusanto ⟨zuwa ga⟩ raina, ka fanshe ni, saboda maƙiyana, ka 'yantar da ni.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "kusanto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "raina"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "ka fanshe ni"
+    },
+    {
+      "surface": "למען",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "maƙiyana"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "ka 'yantar da ni"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:14.112275984Z",
+  "model": "glm-5.2"
+}

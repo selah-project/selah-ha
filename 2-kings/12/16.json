@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma ba a ƙidayar ⟨את⟩ mutanen da suke bayar da ⟨את⟩ kuɗin a hannuwansu don bawa wa masu aikin ba, domin da amincewa suke aiki.",
+  "tokens": [
+    {
+      "surface": "וְלֹא",
+      "gloss": "Kuma ba"
+    },
+    {
+      "surface": "יְחַשְּׁבוּ",
+      "gloss": "a ƙidayar"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mutanen"
+    },
+    {
+      "surface": "הָאֲנָשִׁים",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יִתְּנוּ",
+      "gloss": "suke bayar da"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kuɗin"
+    },
+    {
+      "surface": "הַכֶּסֶף",
+      "gloss": "kuɗin"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יָדָם",
+      "gloss": "hannuwansu"
+    },
+    {
+      "surface": "לָתֵת",
+      "gloss": "don bawa"
+    },
+    {
+      "surface": "לְעֹשֵׂי",
+      "gloss": "wa masu"
+    },
+    {
+      "surface": "הַמְּלָאכָה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "בֶּאֱמֻנָה",
+      "gloss": "da amincewa"
+    },
+    {
+      "surface": "הֵם",
+      "gloss": "su"
+    },
+    {
+      "surface": "עֹשִׂים",
+      "gloss": "ake aiki"
+    }
+  ],
+  "timestamp": "2026-08-14T00:14:37.631453034Z",
+  "model": "glm-5.2"
+}

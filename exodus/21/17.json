@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma wanda ya saɓa wa ubansa da uwarsa, a tabbatacce a kashe shi.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "kuma wanda ya saɓa wa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubansa"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "da uwarsa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "a tabbatacce a kashe"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "shi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:01:50.618715925Z",
+  "model": "glm-5.2"
+}

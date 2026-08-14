@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Ba mu ja baya ⟨ba⟩ zuciyarmu, kuma ba ta karkata ⟨ba⟩ matakammu daga hanyar ka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "mu ja baya"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "baya"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "zuciyarmu"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "kuma ba ta karkata"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "matakammu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "daga"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "hanyar ka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:44:37.056190534Z",
+  "model": "glm-5.2"
+}

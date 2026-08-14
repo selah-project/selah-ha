@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ya gina ⟨את⟩ Tadmor a cikin jeji, da ⟨את⟩ dukkan biranen ajiyar da ya gina a Ḥamat.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "kuma ya gina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadmor"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadmor"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a cikin jeji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "biranen"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "ajiya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ya gina"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "a Ḥamat"
+    }
+  ],
+  "timestamp": "2026-08-13T02:43:23.829810179Z",
+  "model": "glm-5.2"
+}

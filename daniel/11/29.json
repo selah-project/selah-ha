@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "daniel 11:29",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "A lokacin da aka naɗa zai koma, kuma ya zo a kudu; amma ba za ta kasance kamar ⟨ta⟩ farko ko kuma kamar ⟨ta⟩ ƙarshe ba.",
+  "tokens": [
+    {
+      "surface": "למועד",
+      "gloss": "A lokacin da aka naɗa"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "zai koma"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "kuma ya zo"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "a kudu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "za ta kasance"
+    },
+    {
+      "surface": "כראשנה",
+      "gloss": "kamar farko"
+    },
+    {
+      "surface": "וכאחרנה",
+      "gloss": "ko kamar ƙarshe"
+    }
+  ],
+  "timestamp": "2026-08-12T23:20:36.602690155Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 5:6",
+  "book": "amos",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Nemi ⟨את⟩ Yahweh kuma ku rayu, domin kamar wuta ya tashi a gidan Yosef, kuma ta cinye, kuma babu mai kashe ⟨a cikin⟩ Bet־El.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Nemi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "kuma ku rayu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "domin kada"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "ya tashi"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "kamar wuta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a gidan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "kuma ta cinye"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "mai kashe"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "a cikin Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "־El"
+    }
+  ],
+  "timestamp": "2026-08-13T02:20:55.759683649Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Kada ka ji tsōro, domin Ni ⟨nake⟩ tare da kai; kada ka dūbē bāya, domin Ni ne Elohiminka; Na ƙarfafe kai, hakīka Na taimake kai, hakīka Na riƙe kai da dāman darajata.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ka ji tsōro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tare da kai"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "ka dūbē bāya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminka"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "Na ƙarfafe kai"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hakīka"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "Na taimake kai"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hakīka"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "Na riƙe kai"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "da dāman"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "darajata"
+    }
+  ],
+  "timestamp": "2026-08-13T02:09:26.510760161Z",
+  "model": "glm-5.2"
+}

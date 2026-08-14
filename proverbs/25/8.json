@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kada ka fita ga ƙwaraƙwarai cikin gaggawa, don ba za ka san abin da za ka yi a ƙarshensa ba, a lokacin da makwabcinka ya sa ka kunya.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ka fita"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ga ƙwaraƙwarai"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "cikin gaggawa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "don ba za ka san"
+    },
+    {
+      "surface": "מה",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "za ka yi"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "a ƙarshensa"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "ba a lokacin da... ya sa ka kunya"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "makwabcinka"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "makwabcinka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:30:25.887478023Z",
+  "model": "glm-5.2"
+}

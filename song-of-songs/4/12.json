@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "lambin da aka rufe, ƙanwata ⟨ce⟩ amarya, maɓuɓɓar da aka rufe, tushen da aka sela.",
+  "tokens": [
+    {
+      "surface": "גַּ֥ן",
+      "gloss": "lambin"
+    },
+    {
+      "surface": "נָע֖וּל",
+      "gloss": "da aka rufe"
+    },
+    {
+      "surface": "אֲחֹתִ֣י",
+      "gloss": "ƙanwata"
+    },
+    {
+      "surface": "כַלָּ֑ה",
+      "gloss": "amarya"
+    },
+    {
+      "surface": "גַּ֥ל",
+      "gloss": "maɓuɓɓar"
+    },
+    {
+      "surface": "נָע֖וּל",
+      "gloss": "da aka rufe"
+    },
+    {
+      "surface": "מַעְיָ֥ן",
+      "gloss": "tushen"
+    },
+    {
+      "surface": "חָתֽוּם",
+      "gloss": "da aka sela"
+    }
+  ],
+  "timestamp": "2026-08-12T22:22:10.117645768Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Kuma Ya yawaita ⟨את⟩ mutanensa sosai, kuma Ya sanya su su fi masu ɗaure su karfi.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "Kuma Ya yawaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanensa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mutanensa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "kuma Ya sanya su su fi... karfi"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "masu ɗaure su"
+    }
+  ],
+  "timestamp": "2026-08-12T20:29:09.799499959Z",
+  "model": "glm-5.2"
+}

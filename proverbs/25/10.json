@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "domai wanda ya ji ya iya wulakanta kai, kuma mugun sunanka kada ya juya baya.",
+  "tokens": [
+    {
+      "surface": "פֶּֽן",
+      "gloss": "domai"
+    },
+    {
+      "surface": "יְחַסֶּדְךָ֥",
+      "gloss": "ya iya wulakanta kai"
+    },
+    {
+      "surface": "שֹׁמֵ֑עַ",
+      "gloss": "wanda ya ji"
+    },
+    {
+      "surface": "וְ֝דִבָּתְךָ֗",
+      "gloss": "kuma mugun sunanka"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תָשֽׁוּב",
+      "gloss": "ya juya baya"
+    }
+  ],
+  "timestamp": "2026-08-12T21:27:42.764439188Z",
+  "model": "glm-5.2"
+}

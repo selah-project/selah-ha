@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Sai Barak ya ce mata, \"Idan za ki tafi tare da ni, to zan tafi; amma idan ba ki tafi tare da ni ba, to ba zan tafi ba.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sai ya ce"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "za ki tafi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "tare da ni"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "to zan tafi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "amma idan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ki tafi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "tare da ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "to ba"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "zan tafi"
+    }
+  ],
+  "timestamp": "2026-08-12T07:30:56.379570307Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Duk waɗanda suke kallona suna izgili da ni; suna buɗe baki, suna girgiza kai, ⟨suna cewa⟩",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "רֹ֭אַי",
+      "gloss": "waɗanda suke kallona"
+    },
+    {
+      "surface": "יַלְעִ֣גוּ",
+      "gloss": "suna izgili"
+    },
+    {
+      "surface": "לִ֑י",
+      "gloss": "da ni"
+    },
+    {
+      "surface": "יַפְטִ֥ירוּ",
+      "gloss": "suna buɗe"
+    },
+    {
+      "surface": "בְ֝שָׂפָ֗ה",
+      "gloss": "baki"
+    },
+    {
+      "surface": "יָנִ֥יעוּ",
+      "gloss": "suna girgiza"
+    },
+    {
+      "surface": "רֹֽאשׁ",
+      "gloss": "kai"
+    }
+  ],
+  "timestamp": "2026-08-13T02:24:02.053797034Z",
+  "model": "glm-5.2"
+}

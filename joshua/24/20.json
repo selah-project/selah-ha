@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Idan kuka bar ⟨את⟩ Yahweh kuka bauta wa allahni baƙi, sai ya koma ya cutar da ku, ya kuma halaka ⟨את⟩ ku, bayan ya yi muku alheri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "kuka bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "kuka bauta wa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "allahni"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "baƙi"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "sai ya koma"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "ya cutar da"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ya kuma halaka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ku"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "ya yi muku alheri"
+    },
+    {
+      "surface": "לכם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-13T01:58:17.522606663Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma zan yi a cikinka ⟨א֚ת⟩ abin da ba na yi ba, kuma ⟨א֛ת⟩ abin da ba zan yi kamar shi ba sauran, saboda dukkan abubuwan ƙyamarka.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "Kuma zan yi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "a cikinka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "na yi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "abin da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "zan yi"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "kamar shi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sauran"
+    },
+    {
+      "surface": "יען",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "abubuwan ƙyamarka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:15:39.103221302Z",
+  "model": "glm-5.2"
+}

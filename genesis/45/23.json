@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 45:23",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Kuma ga mahaifin sa ya aiko kamar haka: jakuna goma da ake ɗaukar kayan mafi kyau na Mitsrayim, da jaki goma mata da ake ɗaukar hatsi da burodi da abinci ga mahaifin sa ⟨don⟩ hanya.",
+  "tokens": [
+    {
+      "surface": "ולאביו",
+      "gloss": "Kuma ga mahaifin sa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ya aiko"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "kamar haka"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "goma"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "jakuna"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "da ake ɗauka"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "kayan mafi kyau"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "na Mitsrayim"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "da goma"
+    },
+    {
+      "surface": "אתנת",
+      "gloss": "jaki mata"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "da ake ɗauka"
+    },
+    {
+      "surface": "בר",
+      "gloss": "hatsi"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "da burodi"
+    },
+    {
+      "surface": "ומזון",
+      "gloss": "da abinci"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "ga mahaifin sa"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "⟨don⟩ hanya"
+    }
+  ],
+  "timestamp": "2026-08-12T00:20:37.252346068Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Kuma maƙiyana masu rai ne, suna da ƙarfi; kuma waɗanda suka ƙi ni ba da cikakken dalili ba, sun yawaita.",
+  "tokens": [
+    {
+      "surface": "וְֽ֭אֹיְבַי",
+      "gloss": "Kuma maƙiyana"
+    },
+    {
+      "surface": "חַיִּ֣ים",
+      "gloss": "masu rai"
+    },
+    {
+      "surface": "עָצֵ֑מוּ",
+      "gloss": "suna da ƙarfi"
+    },
+    {
+      "surface": "וְרַבּ֖וּ",
+      "gloss": "kuma sun yawaita"
+    },
+    {
+      "surface": "שֹׂנְאַ֣י",
+      "gloss": "waɗanda suka ƙi ni"
+    },
+    {
+      "surface": "שָֽׁקֶר",
+      "gloss": "ba da cikakken dalili ba"
+    }
+  ],
+  "timestamp": "2026-08-12T19:40:08.668939966Z",
+  "model": "glm-5.2"
+}

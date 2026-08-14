@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma ⟨ya⟩ aiko ta hannun Natan annabi, ya kira ⟨את⟩ sunansa Yedidiya, saboda Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Kuma ⟨ya⟩ aiko"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ta hannun"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ya kira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunansa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Yedidiya"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T10:11:11.390137420Z",
+  "model": "glm-5.2"
+}

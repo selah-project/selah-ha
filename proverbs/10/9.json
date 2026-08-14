@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Masu tafiya da cikakken aminci suna tafiya cikin tsaro, amma wanda yake lalata hanyoyinsa za a san ⟨shi⟩.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "masu tafiya"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "da cikakken aminci"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "suna tafiya"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "cikin tsaro"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "amma wanda yake lalata"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "hanyoyinsa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "za a san"
+    }
+  ],
+  "timestamp": "2026-08-13T02:29:05.842316664Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Domi babu ⟨a⟩ cikin mutuwa tunanin-ka; a cikin Sheol, wa zai gode maka?",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Domi"
+    },
+    {
+      "surface": "אֵ֣ין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "בַּמָּ֣וֶת",
+      "gloss": "cikin mutuwa"
+    },
+    {
+      "surface": "זִכְרֶ֑ךָ",
+      "gloss": "tunanin-ka"
+    },
+    {
+      "surface": "בִּ֝שְׁא֗וֹל",
+      "gloss": "a cikin Sheol"
+    },
+    {
+      "surface": "מִ֣י",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יֽוֹדֶה",
+      "gloss": "zai gode"
+    },
+    {
+      "surface": "לָּֽךְ",
+      "gloss": "maka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:14:58.473845474Z",
+  "model": "glm-5.2"
+}

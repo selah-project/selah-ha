@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma Yahweh ya faɗa wa Mosheh, ⟨cewa⟩ zuciyar Paroh ta yi nauyi, yana ƙin sakin mutanen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ta yi nauyi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciyar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "yana ƙin"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "sakin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    }
+  ],
+  "timestamp": "2026-08-12T00:34:27.180447471Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ya ɗauka ya tsayar da ⟨את⟩ ginshiƙan a gaban haikalin, ɗaya daga dama ɗaya kuma daga hagu, kuma ya kira sunan ⟨na⟩ wanda a dama Yakhin, kuma sunan ⟨na⟩ wanda a hagu Boaz.",
+  "tokens": [
+    {
+      "surface": "וַיָּ֤קֶם",
+      "gloss": "Kuma ya ɗauka ya tsayar da"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ginshiƙan"
+    },
+    {
+      "surface": "הָֽעַמּוּדִים֙",
+      "gloss": "ginshiƙan"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a"
+    },
+    {
+      "surface": "פְּנֵ֣י",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "הַהֵיכָ֔ל",
+      "gloss": "haikalin"
+    },
+    {
+      "surface": "אֶחָ֥ד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "מִיָּמִ֖ין",
+      "gloss": "daga dama"
+    },
+    {
+      "surface": "וְאֶחָ֣ד",
+      "gloss": "ɗaya kuma"
+    },
+    {
+      "surface": "מֵֽהַשְּׂמֹ֑אול",
+      "gloss": "daga hagu"
+    },
+    {
+      "surface": "וַיִּקְרָ֤א",
+      "gloss": "kuma ya kira"
+    },
+    {
+      "surface": "שֵׁם",
+      "gloss": "sunan"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "⟨na⟩ wanda a dama"
+    },
+    {
+      "surface": "יָכִ֔ין",
+      "gloss": "Yakhin"
+    },
+    {
+      "surface": "וְשֵׁם֥",
+      "gloss": "kuma sunan"
+    },
+    {
+      "surface": "הַשְּׂמָאלִ֖י",
+      "gloss": "⟨na⟩ wanda a hagu"
+    },
+    {
+      "surface": "בֹּֽעַז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-13T00:40:17.349726934Z",
+  "model": "glm-5.2"
+}

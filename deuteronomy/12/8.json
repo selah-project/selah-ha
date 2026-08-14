@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Ba za ku yi kamar duk abin da mu ke aikatawa nan yau ba, kowane mutu duk abin da ya dama a idanunsa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "za ku yi"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kamar dukan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ke aikatawa"
+    },
+    {
+      "surface": "פה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "abin da ya dama"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "a idanunsa"
+    }
+  ],
+  "timestamp": "2026-08-12T05:14:01.173837577Z",
+  "model": "glm-5.2"
+}

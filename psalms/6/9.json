@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Ku nisanci daga gare ni, dukkan masu aikin albasha; domin Yahweh ya ji muryar kuka ta.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "ku nisanci"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daga gare ni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "masu aikin"
+    },
+    {
+      "surface": "און",
+      "gloss": "albasha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ya ji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "kuka ta"
+    }
+  ],
+  "timestamp": "2026-08-13T02:22:21.787334838Z",
+  "model": "glm-5.2"
+}

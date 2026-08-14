@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Duba, na kira ⟨da⟩ suna Betsalel ɗan Uri ɗan Chur, daga zabin Yahudah.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Duba"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "na kira"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "⟨da⟩ suna"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Chur"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "daga zabin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudah"
+    }
+  ],
+  "timestamp": "2026-08-13T01:47:43.959321535Z",
+  "model": "glm-5.2"
+}

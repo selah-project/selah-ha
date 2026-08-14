@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "Idan ka ga ɓarawo, ka gudu tare da shi, kuma lallasin ka ⟨ya kasance⟩ tare da mazaunan zina.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ka ga"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ɓarawo"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "ka gudu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tare da shi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "mazaunan zina"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "lallasin ka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:47:22.278097657Z",
+  "model": "glm-5.2"
+}

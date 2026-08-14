@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 19:8",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma zan sanya ⟨את⟩ wannan birnin ya zama rushewa da abin izgili; duk wanda ya wuce a kansa zai yi mamaki, kuma zai yi izgili, saboda dukkan_anninsa.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "kuma zan sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan birnin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "ya zame rushewa"
+    },
+    {
+      "surface": "ולשרקה",
+      "gloss": "da abin izgili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "wanda ya wuce"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "za yi mamaki"
+    },
+    {
+      "surface": "וישרק",
+      "gloss": "kuma zai yi izgili"
+    },
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "מכתה",
+      "gloss": "anninsa"
+    }
+  ],
+  "timestamp": "2026-08-12T15:34:35.405456274Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Idan ka duka zaitun ka, kada ka yi ƙawo a baya ka; ga baƙo da gurgu da gwauruwa zai kasance.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "idan"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "ka duka"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "zaitun ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "ka yi ƙawo"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "a baya ka"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "ga baƙo"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "da gurgu"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "da gwauruwa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zai kasance"
+    }
+  ],
+  "timestamp": "2026-08-12T05:38:02.527435053Z",
+  "model": "glm-5.2"
+}

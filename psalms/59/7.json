@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 59,
+  "translation": "Suna komawa da yamma, suna yin ƙara kamar kare, kuma suna kewaye birni.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "suna komawa"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "da yamma"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "suna yin ƙara"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "kamar kare"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "kuma suna kewaye"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "birni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:53:24.012621317Z",
+  "model": "glm-5.2"
+}

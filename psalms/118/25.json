@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 118,
+  "translation": "Ya Yahweh, faɗi yanzu, ku taimaƙe mu! Ya Yahweh, faɗi yanzu, ku bada wuya!",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "ya faɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "ku taimaƙe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "ya faɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "ku bada wuya"
+    },
+    {
+      "surface": "נא",
+      "gloss": "yanzu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:39:18.021272509Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 143,
+  "translation": "Na tuna kwanakin dā, ina yin tunani a dukkan ayyukanka, a aikin hannayenka ina yin zurfin tunani.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "Na tuna"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "na dā"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "ina yin tunani"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duka"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "ayyukanka"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "a aikin"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "hannayenka"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "ina yin zurfin tunani"
+    }
+  ],
+  "timestamp": "2026-08-12T20:56:10.434158502Z",
+  "model": "glm-5.2"
+}

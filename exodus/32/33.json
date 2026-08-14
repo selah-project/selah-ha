@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Yahweh ya ce wa Moshe: \"Duk wanda ya yi wa ni laifi, zan share ⟨shi⟩ daga littafina.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "duk wanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ya yi laifi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wa ni"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "zan share"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "daga littafina"
+    }
+  ],
+  "timestamp": "2026-08-12T01:23:11.748380090Z",
+  "model": "glm-5.2"
+}

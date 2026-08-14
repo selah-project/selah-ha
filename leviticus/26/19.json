@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma zani darya ⟨את⟩ girman ƙarfinku, kuma zan sanya ⟨את⟩ samanku kamar ƙarfe, da ⟨את⟩ ƙasarku kuma kamar tagulla.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "kuma zani darya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "girman ƙarfinku"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "girman"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "ƙarfinku"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "kuma zan sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samanku"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "samanku"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "kamar ƙarfe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙasarku"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ƙasarku"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "kamar tagulla"
+    }
+  ],
+  "timestamp": "2026-08-12T03:01:58.614877203Z",
+  "model": "glm-5.2"
+}

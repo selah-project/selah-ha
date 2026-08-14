@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma ⟨akwai⟩ maraice, kuma ⟨akwai⟩ safe — rana ta biyar.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma akwai"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "maraice"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma akwai"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "safe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "rana"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "ta biyar"
+    }
+  ],
+  "timestamp": "2026-08-11T23:18:53.481046199Z",
+  "model": "glm-5.2"
+}

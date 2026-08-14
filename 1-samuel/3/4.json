@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Sai Yahweh ya kira Shemuël, kuma ⟨shi⟩ ya ce: Ga ni nan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Sai...ya kira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "→"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ⟨shi⟩ ya ce"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ga ni nan"
+    }
+  ],
+  "timestamp": "2026-08-12T08:29:56.768877809Z",
+  "model": "glm-5.2"
+}

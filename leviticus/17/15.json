@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma kowane rai wanda ya ci gawar da aka yar, ko abin da dabba ta fashe — ɗan asali ko baƙo — to ya wanka tufafinsa, kuma ya yi wanka a cikin ruwa, kuma ya kasance mara tsarki har zuwa yamma, sannan ya tsarkaka.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Kuma kowane"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ya ci"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "gawar da aka yashe"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "ko abin da aka fashe"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "ɗan asali"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "ko baƙo"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "to ya wanka"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "tufafinsa"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "kuma ya yi wanka"
+    },
+    {
+      "surface": "במים",
+      "gloss": "a cikin ruwa"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "kuma ya kasance mara tsarki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "yamma"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "sannan ya tsarkaka"
+    }
+  ],
+  "timestamp": "2026-08-12T02:32:29.557910458Z",
+  "model": "glm-5.2"
+}

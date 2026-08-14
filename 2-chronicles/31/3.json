@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 31:3",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Kuma ⟨aka ware⟩ rabon sarki daga dukiyar sa, don ƙorarran-geda, don ƙorarran-geda na safe da yamma, da ƙorarran-geda na Asabar da sabon-wata da bukukuwa, kamar yadda aka rubuta a cikin Torah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומנת",
+      "gloss": "Kuma rabon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "רכושו",
+      "gloss": "dukiyar sa"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "don ƙorarran-geda"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "don ƙorarran-geda"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "na safe"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "da yamma"
+    },
+    {
+      "surface": "והעלות",
+      "gloss": "da ƙorarran-geda"
+    },
+    {
+      "surface": "לשבתות",
+      "gloss": "na Asabar"
+    },
+    {
+      "surface": "ולחדשים",
+      "gloss": "da sabon-wata"
+    },
+    {
+      "surface": "ולמעדים",
+      "gloss": "da bukukuwa"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "kamar yadda aka rubuta"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "a cikin Torari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-13T02:57:23.123629528Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma Bilam ya ɗora idanunsa, ya ga ⟨את⟩ Yisra'el suna zaune bisa ƙabĩlansu, sai Rũhar Elohim ta kasance a kansa.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ya ɗora"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idanunsa"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "idanunsa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ya ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "suna zaune"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "bisa ƙabĩlansu"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ta kasance"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Rũhar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-13T01:53:09.844059932Z",
+  "model": "glm-5.2"
+}

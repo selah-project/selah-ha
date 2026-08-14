@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma zan sanya ⟨את⟩ zuriyarki kamar ƙura ta ƙasa, wanda idan mutum zai iya ƙirga ⟨את⟩ ƙurar ƙasa, to zuriyarki ma za a ƙira.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Kuma zan sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuriyarki"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zuriyarki"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "kamar ƙura"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ta ƙasa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "zai iya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "ƙirga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙurar"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ƙurar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zuriyarki"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "za a ƙira"
+    }
+  ],
+  "timestamp": "2026-08-11T23:30:05.995182158Z",
+  "model": "glm-5.2"
+}

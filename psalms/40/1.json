@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Ga shugaban mawaƙa. Zaburi na Dawida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga shugaban mawaƙa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na Dawida"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zaburi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:41:18.408641761Z",
+  "model": "glm-5.2"
+}

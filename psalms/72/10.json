@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 72,
+  "translation": "Sarakunan Tarshish da tsibirai za su mika gaisuwa; sarakunan Sheba da Seba za su kawo kyauta.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "sarakunan"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "da tsibirai"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "gaisuwa"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "za su mika"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sarakunan"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "da Seba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "kyauta"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "za su kawo"
+    }
+  ],
+  "timestamp": "2026-08-12T20:01:50.272625383Z",
+  "model": "glm-5.2"
+}

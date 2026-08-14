@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma ba na koyi hikima ba, kuma ilimin ⟨na⟩ masu tsarki — ⟨zàn⟩ in sani.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "na koyi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikima"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "kuma ilimin"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "masu tsarki"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "in sani"
+    }
+  ],
+  "timestamp": "2026-08-13T03:09:00.693909347Z",
+  "model": "glm-5.2"
+}

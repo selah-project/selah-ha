@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma gidan bərin liyafa kada ka shiga don zama ⟨tare⟩ da ⟨את⟩ su, don cin da sha.",
+  "tokens": [
+    {
+      "surface": "וּבֵית",
+      "gloss": "Kuma gidan"
+    },
+    {
+      "surface": "מִשְׁתֶּ֥ה",
+      "gloss": "bərin liyafa"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תָב֖וֹא",
+      "gloss": "ka shiga"
+    },
+    {
+      "surface": "לָשֶׁ֣בֶת",
+      "gloss": "don zama"
+    },
+    {
+      "surface": "אוֹתָ֑ם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "לֶאֱכֹ֖ל",
+      "gloss": "don cin"
+    },
+    {
+      "surface": "וְלִשְׁתּֽוֹת",
+      "gloss": "da sha"
+    }
+  ],
+  "timestamp": "2026-08-13T02:12:37.726594876Z",
+  "model": "glm-5.2"
+}

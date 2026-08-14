@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Wanda ya ji tsoron ⟨את⟩ kalmar Yahweh daga cikin bayin Paroh, ya sa ⟨את⟩ bayinsa da ⟨את⟩ dabbobinsa su gudu zuwa cikin gida-gida.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "wanda ya ji tsoron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalmar"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalmar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "daga cikin bayin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "ya sa su gudu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayinsa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bayinsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dabbobinsa"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "dabbobinsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa cikin"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "gida-gida"
+    }
+  ],
+  "timestamp": "2026-08-12T00:40:10.987251148Z",
+  "model": "glm-5.2"
+}

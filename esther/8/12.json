@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 8:12",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "A rana ɗaya, a duk lardunan sarki Achashverosh, a ran sha uku cikin wata na biyu, shi ne watan Adar.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "A rana"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "lardunan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "a uku"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sha"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "cikin wata"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "na biyu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi ne"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "watan"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adar"
+    }
+  ],
+  "timestamp": "2026-08-12T23:01:28.465554817Z",
+  "model": "glm-5.2"
+}

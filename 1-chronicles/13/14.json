@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma akwatin ⟨na⟩ Elohim ya zauna tare da gidan Oved-Edom a cikin gidansa watanni uku, kuma Yahweh ya albarkaci ⟨את⟩ gidan Oved-Edom da ⟨את⟩ duk abin da yake da shi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Kuma ya zauna"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨na⟩ Elohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "a cikin gidansa"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "uku"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "watanni"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "kuma ya albarkaci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "duk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yake da shi"
+    }
+  ],
+  "timestamp": "2026-08-13T00:12:39.843195317Z",
+  "model": "glm-5.2"
+}

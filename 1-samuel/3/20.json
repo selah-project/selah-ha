@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma duka Isra'ila sun san, daga Dan har zuwa Be'er-Shɛva, cẽwa an tabbatar da Shemu'ɛl a matsayin annabi ga Yahweh.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "Kuma sun san"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "daga Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Shɛva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cẽwa"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "an tabbatar da"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'ɛl"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "a matsayin annabi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T08:32:41.613092848Z",
+  "model": "glm-5.2"
+}

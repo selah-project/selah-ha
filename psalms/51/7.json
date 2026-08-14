@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 51,
+  "translation": "Ga shi, a cikin zunubi an haife ni, kuma a cikin kuskure uwa ta ɗauke ni.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "a cikin zunubi"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "an haife ni"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "kuma a cikin kuskure"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "uwa ta ɗauke ni"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "uwa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:49:55.436359965Z",
+  "model": "glm-5.2"
+}

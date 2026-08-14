@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Suka kira zuwa Lut, suka ce masa, \"Ina suke mutanen da suka zo maka daren nan? Ka fitar da su zuwa gare mu, mu san su ⟨את⟩.\"",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "suka kira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lut"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ina suke"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "באו",
+      "gloss": "suka zo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "daren nan"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "ka fitar da su"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "zuwa gare mu"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "mu san"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    }
+  ],
+  "timestamp": "2026-08-11T23:36:55.396313614Z",
+  "model": "glm-5.2"
+}

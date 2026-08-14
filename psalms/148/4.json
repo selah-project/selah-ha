@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 148,
+  "translation": "Ku yabo ⟨Shi⟩ saman sama, da kuma ruwan da yake sama da sama.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ku yabo Shi"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "saman"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "da kuma ruwan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sama da"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    }
+  ],
+  "timestamp": "2026-08-12T21:00:00.671642349Z",
+  "model": "glm-5.2"
+}

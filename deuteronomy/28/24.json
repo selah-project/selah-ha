@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Yahweh zai sanya ⟨את⟩ ruwan saman ƙasarka ya zama ƙura da wari, daga sama zai sauko a kankai, har ka lalace gaba ɗaya.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "zai sanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruwan saman ƙasarka"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ruwan sama"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ƙasarka"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "ƙura"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "da wari"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "zai sauko"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "a kankai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "ka lalace gaba ɗaya"
+    }
+  ],
+  "timestamp": "2026-08-12T05:47:33.145295052Z",
+  "model": "glm-5.2"
+}

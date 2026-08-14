@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Ran fuskaNa za ta tashi, kuma zan kashe ⟨את⟩ ku da ⟨את⟩ takobi, kuma matanku za su zama bazawara, 'ya'yanku kuma maraya.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "za ta tishi"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ran fuskaNa"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "kuma zan kashe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "da takobi"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kuma za su zama"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "matanku"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "bazawara"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "'ya'yanku kuma"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "maraya"
+    }
+  ],
+  "timestamp": "2026-08-12T00:59:13.311403820Z",
+  "model": "glm-5.2"
+}

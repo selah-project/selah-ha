@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 129,
+  "translation": "Da yawa sun cinƙoshe ni daga ƙuruciyata, gaskuma ba su iya min ba.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Da yawa"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "sun cinƙoshe ni"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "daga ƙuruciyata"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gaskuma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "su iya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-08-12T20:48:36.649830666Z",
+  "model": "glm-5.2"
+}

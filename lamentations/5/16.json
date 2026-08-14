@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Tabarbirar kanmu ta faɗi; yā bātã! ⟨domin⟩ mun yi laifi.",
+  "tokens": [
+    {
+      "surface": "נָֽפְלָה֙",
+      "gloss": "ta faɗi"
+    },
+    {
+      "surface": "עֲטֶ֣רֶת",
+      "gloss": "tabarbirar"
+    },
+    {
+      "surface": "רֹאשֵׁ֔נוּ",
+      "gloss": "kanmu"
+    },
+    {
+      "surface": "אֽוֹי",
+      "gloss": "yā bātã!"
+    },
+    {
+      "surface": "נָ֥א",
+      "gloss": "⟨ ⟩"
+    },
+    {
+      "surface": "לָ֖נוּ",
+      "gloss": "⟨manemu⟩"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "⟨domin⟩"
+    },
+    {
+      "surface": "חָטָֽאנוּ",
+      "gloss": "mun yi laifi"
+    }
+  ],
+  "timestamp": "2026-08-12T22:39:22.403070049Z",
+  "model": "glm-5.2"
+}

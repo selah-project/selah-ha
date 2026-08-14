@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Ba ⟨את⟩ ubanninmu Yahweh Ya yankewa wannan alkawari ba, amma tare da mu — mu ne, waɗannan, anan yau, duka mu rayayyu ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubanninmu"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ubanninmu"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "Ya yankewa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan alkawari"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "alkawari"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amma"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ tare da mu"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "פה",
+      "gloss": "anan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "duka mu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "rayayyu"
+    }
+  ],
+  "timestamp": "2026-08-13T01:53:49.289231998Z",
+  "model": "glm-5.2"
+}

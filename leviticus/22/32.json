@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma kada ku gurgunta ⟨את⟩ sunan tsarkata, kuma za ni in tsarkaka cikin tsakanin 'ya'yan Isra'ila; ni ni ne Yahweh Mai-tsarkake ku.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kuma kada"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "ku gurgunta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sunan"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "tsarkata"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "kuma za ni in tsarkaka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "cikin tsakanin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni ne Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "Mai-tsarkake ku"
+    }
+  ],
+  "timestamp": "2026-08-12T02:43:40.945256515Z",
+  "model": "glm-5.2"
+}

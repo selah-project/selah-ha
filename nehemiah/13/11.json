@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 13:11",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Sai na yi musu shawara, na faɗa ⟨את⟩ ⟨masu shugabanci⟩, ina cewa: Don me aka bar bayt na Elohim? Sai na tara su, kaɗan na tsayar da su a tashoshinsu.",
+  "tokens": [
+    {
+      "surface": "ואריבה",
+      "gloss": "na yi musu shawara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masu shugabanci"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "masu shugabanci"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "na faɗa"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "don me"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "aka bar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bayt"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "ואקבצם",
+      "gloss": "na tara su"
+    },
+    {
+      "surface": "ואעמידם",
+      "gloss": "na tsayar da su"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "tashoshinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T23:52:59.814298722Z",
+  "model": "glm-5.2"
+}

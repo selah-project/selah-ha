@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 1:4",
+  "book": "micah",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma duwatsu za su narke a ƙarƙashinsa, kuma kwari za su tsage, kamar gogaggun daga gaban wuta, kamar ruwa da ake zuba a gangaren.",
+  "tokens": [
+    {
+      "surface": "וְנָמַ֤סּוּ",
+      "gloss": "Kuma za su narke"
+    },
+    {
+      "surface": "הֶֽהָרִים֙",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "תַּחְתָּ֔יו",
+      "gloss": "a ƙarƙashinsa"
+    },
+    {
+      "surface": "וְהָעֲמָקִ֖ים",
+      "gloss": "kuma kwari"
+    },
+    {
+      "surface": "יִתְבַּקָּ֑עוּ",
+      "gloss": "za su tsage"
+    },
+    {
+      "surface": "כַּדּוֹנַג֙",
+      "gloss": "kamar gogaggun"
+    },
+    {
+      "surface": "מִפְּנֵ֣י",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "הָאֵ֔שׁ",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "כְּמַ֖יִם",
+      "gloss": "kamar ruwa"
+    },
+    {
+      "surface": "מֻגָּרִ֥ים",
+      "gloss": "da ake zuba"
+    },
+    {
+      "surface": "בְּמוֹרָֽד",
+      "gloss": "a gangaren"
+    }
+  ],
+  "timestamp": "2026-08-12T18:41:41.570589483Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Sa'an nan kuma Avraham ya yi addu'a ga Elohim, Elohim kuma ya warkar da ⟨את⟩ Avimelekh da ⟨את⟩ matarsa, da kuyayensa, su kuma suka haifi ɗa.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "ya yi addu'a"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ya warkar da"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "matarsa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "matarsa"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "da kuyayensa"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "su kuma suka haifi ɗa"
+    }
+  ],
+  "timestamp": "2026-08-13T01:42:57.663768421Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Ka zama ⟨ɗaya⟩ mai bada garantin bāranka don alheri; kada mahakanta su zalunce ni.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Ka zama mai bada garanti"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bāranka"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "don alheri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "su zalunce ni"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "mahakanta"
+    }
+  ],
+  "timestamp": "2026-08-12T20:46:12.018405017Z",
+  "model": "glm-5.2"
+}

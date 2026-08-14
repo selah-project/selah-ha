@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 36:19",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Sai na watse a cikin al'ummai, kuma aka yada su a cikin ƙasashe — suna da hanyarsu da ayyukansu ne na hukunta su.",
+  "tokens": [
+    {
+      "surface": "וָאָפִ֤יץ",
+      "gloss": "sai na watse"
+    },
+    {
+      "surface": "אֹתָם֙",
+      "gloss": "⟨את⟩",
+      "marks": "su (bayin Yisra'el)"
+    },
+    {
+      "surface": "בַּגּוֹיִ֔ם",
+      "gloss": "a cikin al'ummai"
+    },
+    {
+      "surface": "וַיִּזָּר֖וּ",
+      "gloss": "kuma aka yada su"
+    },
+    {
+      "surface": "בָּאֲרָצ֑וֹת",
+      "gloss": "a cikin ƙasashe"
+    },
+    {
+      "surface": "כְּדַרְכָּ֥ם",
+      "gloss": "suna da hanyarsu"
+    },
+    {
+      "surface": "וְכַעֲלִילוֹתָ֖ם",
+      "gloss": "da ayyukansu"
+    },
+    {
+      "surface": "שְׁפַטְתִּֽים",
+      "gloss": "na hukunta su"
+    }
+  ],
+  "timestamp": "2026-08-12T17:48:24.844820875Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Domin idan ka tsallaka ruwa, ni ⟨ne⟩ ⟨את⟩ tare da ⟨kai⟩, kuma a cikin koguna, ba za su yi ka ambaliya ba; idan ka tafi a tsakiyar wuta, ba za a ƙone ka ba, kuma kyandir ba za ta tashi a cikin ⟨kai⟩ ba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "idan ka tsallaka"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tare da",
+      "marks": "⟨kai⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "kuma a cikin koguna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "za su yi ka ambaliya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "idan"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ka tafi"
+    },
+    {
+      "surface": "במו",
+      "gloss": "a tsakiyar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "za a ƙone ka"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "kuma kyandir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "za ta tashi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "a cikin"
+    }
+  ],
+  "timestamp": "2026-08-12T14:10:18.230840519Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 41:15",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Ga ka, na sanya ka zuwa garma sabiba mai kaifi, mai haƙora; za ka daka duwatsu, kuma ka niƙa su, kuma tuddai a matsayin ƙwarya za ka sanya.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ga ka"
+    },
+    {
+      "surface": "שמתיך",
+      "gloss": "na sanya ka"
+    },
+    {
+      "surface": "למורג",
+      "gloss": "zuwa garma"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "mai kaifi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "sabiba"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "mai"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "haƙora"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "za ka daka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "ותדק",
+      "gloss": "kuma ka niƙa su"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "kuma tuddai"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "a matsayin ƙwarya"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "za ka sanya"
+    }
+  ],
+  "timestamp": "2026-08-12T14:05:57.491095250Z",
+  "model": "glm-5.2"
+}

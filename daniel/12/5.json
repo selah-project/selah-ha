@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 12:5",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma na ga, ni Daniyel, sai ga abin da ⟨ya faru⟩: wasu biyu ⟨suna⟩ tsaye, ɗaya nan a gefen kogin, kuma ɗaya nan a gefen kogin.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "kuma na ga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyel"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sai ga abin da ⟨ya faru⟩"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wasu"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "⟨suna⟩ tsaye"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "a gefen"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "kogin"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "kuma ɗaya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "a gefen"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "kogin"
+    }
+  ],
+  "timestamp": "2026-08-12T23:23:09.243958690Z",
+  "model": "glm-5.2"
+}

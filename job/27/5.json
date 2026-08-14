@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Babu ⟨yake⟩ a gare ni in in yi maku adalci, har in mutu, ba zan janye tsarkata daga gare ni ba.",
+  "tokens": [
+    {
+      "surface": "חָלִ֣ילָה",
+      "gloss": "Babu"
+    },
+    {
+      "surface": "לִּי֮",
+      "gloss": "a gare ni"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "in"
+    },
+    {
+      "surface": "אַצְדִּ֪יק",
+      "gloss": "in yi maku adalci"
+    },
+    {
+      "surface": "אֶ֫תְכֶ֥ם",
+      "gloss": "⟨את⟩",
+      "marks": "ku"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "har"
+    },
+    {
+      "surface": "אֶגְוָ֑ע",
+      "gloss": "in mutu"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אָסִ֖יר",
+      "gloss": "zan janye"
+    },
+    {
+      "surface": "תֻּמָּתִ֣י",
+      "gloss": "tsarkata"
+    },
+    {
+      "surface": "מִמֶּֽנִּי",
+      "gloss": "daga gare ni"
+    }
+  ],
+  "timestamp": "2026-08-12T22:02:50.784462934Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma cire fushi daga zuciyarka, kuma sa miƙarigiya ta wuce daga jikinka, domin ƙuruciya da farkon-haske hebel ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "kuma cire"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "fushi"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "daga zuciyarka"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "kuma sa ta wuce"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "miƙarigiya"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "daga jikinka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "ƙuruciya"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "da farkon-haske"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    }
+  ],
+  "timestamp": "2026-08-12T22:50:21.066622119Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma na juya, na sauka daga dutsen, kuma na saka ⟨את⟩ allunan a cikin akwatin da na yi, suka kasance a can, kamar yadda Yahweh ya umarce ni.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "na juya"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "na sauka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dutsen"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "na saka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allunan"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "allunan"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "a cikin akwatin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "na yi"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "suka kasance"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "ya umarce ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T05:08:35.436317771Z",
+  "model": "glm-5.2"
+}

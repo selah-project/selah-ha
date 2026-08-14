@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 28:25",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Kuma a cikin kowane gari da gari na Yehuda ya yi matsayoli don tururuwa ga elohim wasu, kuma ya bā Yahweh, Elohim na ubanninsa, fushin ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "Kuma a cikin kowane"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "gari"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "da gari"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "במות",
+      "gloss": "matsayoli"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "don tururuwa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ga elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wasu"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "kuma ya bā fushin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ubanninsa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:55:39.906914996Z",
+  "model": "glm-5.2"
+}

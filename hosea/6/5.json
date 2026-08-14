@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 6:5",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Saboda haka na sassaka ⟨a cikin⟩ annabawa, na kashe su da kalmomin bakina, kuma hukuncinku yana fita a matsayin haske.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Saboda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "חצבתי",
+      "gloss": "na sassaka"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "annabawa"
+    },
+    {
+      "surface": "הרגתים",
+      "gloss": "na kashe su"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "da kalmomin"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bakina"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "kuma hukuncinku"
+    },
+    {
+      "surface": "אור",
+      "gloss": "haske"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yana fita"
+    }
+  ],
+  "timestamp": "2026-08-13T02:20:24.062270023Z",
+  "model": "glm-5.2"
+}

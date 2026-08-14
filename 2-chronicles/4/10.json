@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma ⟨את⟩ teku ya sanya daga gefen dama, gabas, gaba da kudu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "teku"
+    },
+    {
+      "surface": "הים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya sanya"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "daga gefen"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "dama"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "gabas"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "gaba da"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "kudu"
+    }
+  ],
+  "timestamp": "2026-08-13T00:41:28.948232928Z",
+  "model": "glm-5.2"
+}

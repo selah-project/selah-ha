@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 14:13",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma Mosheh ya ce wa ⟨al'ummar⟩, \"Kada ku ji tsoro, ku tsaya, kuma ku duba ⟨את⟩ ceton Yahweh, wanda Zai yi muku a yau; domin ⟨waɗanda⟩ kuka ga ⟨את⟩ Mitsrayim a yau, ba za ku ƙara ganinsu ba har abada.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨al'ummar⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ku ji tsoro"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "ku tsaya"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "kuma ku duba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceton"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "ceton"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "Zai yi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "maku"
+    },
+    {
+      "surface": "היום",
+      "gloss": "a yau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨waɗanda⟩"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "kuka ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "a yau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תסיפו",
+      "gloss": "za ku ƙara"
+    },
+    {
+      "surface": "לראתם",
+      "gloss": "ganinsu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abada"
+    }
+  ],
+  "timestamp": "2026-08-12T00:49:27.953700864Z",
+  "model": "glm-5.2"
+}

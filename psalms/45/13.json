@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Kuma 'yar Tsor ⟨ce⟩, da wadata, masu arziki na jama'a za su nema ⟨ina⟩ gaban ki.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Kuma 'yar"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "da wadata"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "gaban ki"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "za su nema"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "masu arziki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na jama'a"
+    }
+  ],
+  "timestamp": "2026-08-12T19:45:39.304697050Z",
+  "model": "glm-5.2"
+}

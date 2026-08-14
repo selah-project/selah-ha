@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Ka ƙi ⟨dukkansu⟩ masu ɓata daga dokokinka, domin ƙarya ⟨ne⟩ zagon ƙasarsu.",
+  "tokens": [
+    {
+      "surface": "סָ֭לִיתָ",
+      "gloss": "Ka ƙi"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "⟨dukkansu⟩"
+    },
+    {
+      "surface": "שׁוֹגִ֣ים",
+      "gloss": "masu ɓata"
+    },
+    {
+      "surface": "מֵחֻקֶּ֑יךָ",
+      "gloss": "daga dokokinka"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "שֶׁ֝֗קֶר",
+      "gloss": "ƙarya"
+    },
+    {
+      "surface": "תַּרְמִיתָֽם",
+      "gloss": "zagon ƙasarsu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:46:13.344277841Z",
+  "model": "glm-5.2"
+}

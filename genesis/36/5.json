@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Kuma Oholivamah ta haifa ⟨את⟩ Ye'ish da ⟨את⟩ Ya'lam da ⟨את⟩ Korach. Waɗannan ɗiyan Esav ne, waɗanda aka haifa masa a ƙasar Kena'an.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "Kuma Oholivamah"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ta haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ye'ish"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Ye'ish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Ya'lam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Ya'lam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Waɗannan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "aka haifa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    }
+  ],
+  "timestamp": "2026-08-12T00:05:33.876288556Z",
+  "model": "glm-5.2"
+}

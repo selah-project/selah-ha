@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 46,
+  "translation": "Kuma Yisra'el ya ce wa Yosef, \"A bar in mutu a wannan lokacin, bayan na ga ⟨את⟩ fuskarka, domin kai har yanzu mai rai ⟨ne⟩.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "a bar in mutu"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "a wannan lokacin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "na ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuskarka"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuskarka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "kai har yanzu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "mai rai"
+    }
+  ],
+  "timestamp": "2026-08-12T00:23:35.116097559Z",
+  "model": "glm-5.2"
+}

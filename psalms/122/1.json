@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 122,
+  "translation": "Waƙar matakan. Littafi na Dawuda. Na yi murna a cikin waɗanda suka ce min, \"Zuwa ⟨ga⟩ gidan Yahweh mu tafi.\"",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Waƙar"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "matakan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Littafi na Dawuda"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Na yi murna"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "a cikin waɗanda suka ce"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "mu tafi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:48:22.575974469Z",
+  "model": "glm-5.2"
+}

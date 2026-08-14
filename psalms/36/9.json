@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Za a shayar da su ⟨da⟩ ɗanɗanon har mutum ya gaji daga gidanka, kuma daga kogin nishadinka ka saka su sha.",
+  "tokens": [
+    {
+      "surface": "יִ֭רְוְיֻן",
+      "gloss": "za a shayar da su"
+    },
+    {
+      "surface": "מִדֶּ֣שֶׁן",
+      "gloss": "ɗanɗanon har mutum ya gaji"
+    },
+    {
+      "surface": "בֵּיתֶ֑ךָ",
+      "gloss": "daga gidanka"
+    },
+    {
+      "surface": "וְנַ֖חַל",
+      "gloss": "kuma daga kogin"
+    },
+    {
+      "surface": "עֲדָנֶ֣יךָ",
+      "gloss": "nishadinka"
+    },
+    {
+      "surface": "תַשְׁקֵֽם",
+      "gloss": "ka saka su sha"
+    }
+  ],
+  "timestamp": "2026-08-12T19:36:32.699749838Z",
+  "model": "glm-5.2"
+}

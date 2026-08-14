@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 8:7",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ya saka masa ⟨את⟩ rigun⟨in lilin⟩, kuma ya datse shi da ⟨את⟩ bel, kuma ya sa shi ⟨את⟩ mules, kuma ya saka masa ⟨את⟩ efod, kuma ya datse shi da ⟨את⟩ zanen efod, kuma ya ɗaɗa shi da shi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Kuma ya saka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rigun"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "rigun⟨in lilin⟩"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "kuma ya datse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi"
+    },
+    {
+      "surface": "באבנט",
+      "gloss": "da bel"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "kuma ya sa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "mules"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kuma ya saka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "kuma ya datse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "da zanen"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ויאפד",
+      "gloss": "kuma ya ɗaɗa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "da shi"
+    }
+  ],
+  "timestamp": "2026-08-12T02:01:09.853423814Z",
+  "model": "glm-5.2"
+}

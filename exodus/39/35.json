@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "⟨את⟩ akwatin shaida, da ⟨את⟩ sandunan sa, da ⟨את⟩ wurin fansa;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "shaida"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "sandunan"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "sandunan sa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "wurin"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "wurin fansa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:38:36.118473467Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 36:2",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Esav ya ɗauki ⟨את⟩ matansa daga cikin 'ya'yan Kenaan: ⟨את⟩ Adah ɗiyar Elon ɗan-Hittiyawa, da ⟨את⟩ Oholibamah ɗiyar Anah ɗiyar Tsibon ɗan-Hiviyawa.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ya ɗauki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matansa"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "matansa"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "daga cikin 'ya'yan"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adah"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɗiyar"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Elon"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ɗan-Hittiyawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Oholibamah"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholibamah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɗiyar"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɗiyar"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tsibon"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ɗan-Hiviyawa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:04:50.002822645Z",
+  "model": "glm-5.2"
+}

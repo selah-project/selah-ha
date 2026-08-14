@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma me ya sa kuka kawo ⟨את⟩ tarin Yahweh zuwa wannan hamada, don mu mutu a can, mu da dabbocinmu?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Kuma me ya sa"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "kuka kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tarin"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "tarin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "wannan hamada"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "למות",
+      "gloss": "don mu mutu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "da dabbocinmu"
+    }
+  ],
+  "timestamp": "2026-08-12T04:16:54.528230371Z",
+  "model": "glm-5.2"
+}

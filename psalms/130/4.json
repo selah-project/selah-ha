@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 130,
+  "translation": "Doming binne ka ne; domin a tsorata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tare da kai"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "binne"
+    },
+    {
+      "surface": "למען",
+      "gloss": "domin"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "a tsorata"
+    }
+  ],
+  "timestamp": "2026-08-12T20:49:42.000451331Z",
+  "model": "glm-5.2"
+}

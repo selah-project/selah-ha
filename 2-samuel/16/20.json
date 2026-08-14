@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma Abshalom ya ce wa Achithophel, Ku ba ni shawara, mu yi mene?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Achithophel"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Ku ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "shawara"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mene"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "mu yi"
+    }
+  ],
+  "timestamp": "2026-08-12T10:28:14.686285696Z",
+  "model": "glm-5.2"
+}

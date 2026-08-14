@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Kamar kashewa a cikin ƙasƙinata, sunã raina mãsu tsananta min, waɗanda ke cewa a gare ni dukan rana, 'Ina ne Elohim naka?'",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "Kamar kashewa"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "a cikin ƙasƙinata"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "sunã raina"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "mãsu tsananta min"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "waɗanda ke cewa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a gare ni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ran"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Ina ne"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:41:41.913359895Z",
+  "model": "glm-5.2"
+}

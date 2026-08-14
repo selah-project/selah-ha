@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Shin, ba kamar Kalno kamar Karkemish ⟨ba⟩? Shin, ba kamar Arpad Hamat ⟨ba⟩? Shin, ba kamar Damascus Shomeron ⟨ba⟩?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Shin ba"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "kamar Karkemish"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "kamar Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Shin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "kamar Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Shin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "kamar Damascus"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-12T13:10:56.506197039Z",
+  "model": "glm-5.2"
+}

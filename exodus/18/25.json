@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 18:25",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Mosheh ya zaɓa maza masu ƙarfi daga duk Isra'el, ya sanya su shugabanni a kan mutãnen, shugabanni na dubu, shugabanni na ɗari, shugabanni na hamsin, da shugabanni na goma.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "kuma ya zaɓa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "maza"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "masu ƙarfi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "daga duk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'el"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kuma ya sanya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ su",
+      "marks": "shugabanni"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "shugabanni"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "shugabanni na"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "shugabanni na"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "shugabanni na"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "hamsin"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "da shugabanni na"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "goma"
+    }
+  ],
+  "timestamp": "2026-08-12T00:53:07.255829450Z",
+  "model": "glm-5.2"
+}

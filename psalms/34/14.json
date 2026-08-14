@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Tsare harshenka daga mugunta, kuma leɓenka daga maganar zagi.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "tsare"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "harshenka"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "daga mugunta"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "kuma leɓenka"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "daga maganar"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "zagi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:36:12.485359527Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 6:13",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma Yahweh ya yi magana da Mosheh da Aharon, kuma Ya yi musu umarni ⟨el⟩ ga ʾibban Yisraʾel da ⟨el⟩ ga Faroh, sarki na Mitsrayim, don su fitar da ⟨את⟩ ʾibban Yisraʾel daga ƙasar Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֣ר",
+      "gloss": "Kuma ya yi magana"
+    },
+    {
+      "surface": "יְהוָה֮",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "da"
+    },
+    {
+      "surface": "מֹשֶׁ֣ה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "וְאֶֽל",
+      "gloss": "da"
+    },
+    {
+      "surface": "אַהֲרֹן֒",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וַיְצַוֵּם֙",
+      "gloss": "kuma Ya yi musu umarni"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨el⟩ ga"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "ʾibban"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "Yisraʾel"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "da"
+    },
+    {
+      "surface": "פַּרְעֹ֖ה",
+      "gloss": "Faroh"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "מִצְרָ֑יִם",
+      "gloss": "na Mitsrayim"
+    },
+    {
+      "surface": "לְהוֹצִ֥יא",
+      "gloss": "don su fitar da"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ʾibban"
+    },
+    {
+      "surface": "בְּנֵֽי",
+      "gloss": "ʾibban"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Yisraʾel"
+    },
+    {
+      "surface": "מֵאֶ֥רֶץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "מִצְרָֽיִם",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:32:58.141355768Z",
+  "model": "glm-5.2"
+}

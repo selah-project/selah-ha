@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Elohim alkali mai adalci, da El yana fushi a kullum.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "alkali"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mai adalci"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "da El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "yana fushi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a kullum"
+    },
+    {
+      "surface": "יום",
+      "gloss": "⟨ne⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T02:22:54.095025779Z",
+  "model": "glm-5.2"
+}

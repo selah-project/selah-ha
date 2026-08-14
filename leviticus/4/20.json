@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 4:20",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma ya yi wa ⟨sa⟩n ⟨da⟩ yake da shi, kamar yadda ya yi wa ⟨sa⟩n zunubi, haka zai yi gare shi, kuma kāhin ya yi fansa a madadinsu, ⟨don haka⟩ za a gafarta musu.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "wa ⟨sa⟩n"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "wa ⟨sa⟩n"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "zunubi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "zai yi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gare shi"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kuma ya yi fansa"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "a madadinsu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kāhin"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "za a gafarta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    }
+  ],
+  "timestamp": "2026-08-12T01:48:21.182173787Z",
+  "model": "glm-5.2"
+}

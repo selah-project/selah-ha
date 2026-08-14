@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "An albarkece 'ya'yan cikanka, kuma 'ya'yan ƙasarka, kuma 'ya'yan dabbanka, hayaƙayen shanunka da 'ya'yan tumakinka.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "An albarkece"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "cikanka"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "kuma 'ya'yan"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ƙasarka"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "kuma 'ya'yan"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "dabbanka"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "hayaƙayen"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "shanunka"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "da 'ya'yan"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "tumakinka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:44:25.081830267Z",
+  "model": "glm-5.2"
+}

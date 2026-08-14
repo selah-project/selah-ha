@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 8:12",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Daga Aram, kuma daga Moab, kuma daga ƴan Ammon, kuma daga Falisawa, kuma daga Amalek, kuma daga ganipar Hadadezer ɗan Rehob Sarkin Tsoba.",
+  "tokens": [
+    {
+      "surface": "מארם",
+      "gloss": "Daga Aram"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "kuma daga Moab"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "kuma daga ƴan"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "kuma daga Falisawa"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "kuma daga Amalek"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "kuma daga ganipar"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Sarkin"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoba"
+    }
+  ],
+  "timestamp": "2026-08-12T10:03:46.086950142Z",
+  "model": "glm-5.2"
+}

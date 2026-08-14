@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Haka ni ⟨kuma⟩, zan sanya shi ⟨a matsayin⟩ fari, mafi girma a tsakanin sarakunan ƙasa.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Haka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "fari"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "zan sanya shi"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "mafi girma"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "a tsakanin saraknan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:17:46.477806695Z",
+  "model": "glm-5.2"
+}

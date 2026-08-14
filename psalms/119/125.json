@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Bārinka ⟨ne⟩ nī, bā ni fahimta, domin in san shaidōhinka.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "bārinka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nī"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "bā ni fahimta"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "domin in san"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "shaidōhinka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:44:11.122710456Z",
+  "model": "glm-5.2"
+}

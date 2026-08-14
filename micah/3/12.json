@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 3:12",
+  "book": "micah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Saboda haka, saboda ku, Tsiyon za a noma kamar gona, kuma Urushalama za ta zama tudun rushewa, kuma dutsen gidan zai zama mahasan daji.",
+  "tokens": [
+    {
+      "surface": "לָכֵן֙",
+      "gloss": "saboda haka"
+    },
+    {
+      "surface": "בִּגְלַלְכֶ֔ם",
+      "gloss": "saboda ku"
+    },
+    {
+      "surface": "צִיּ֖וֹן",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "שָׂדֶ֣ה",
+      "gloss": "kamar gona"
+    },
+    {
+      "surface": "תֵֽחָרֵ֑שׁ",
+      "gloss": "za a noma"
+    },
+    {
+      "surface": "וִירוּשָׁלִַ֨ם֙",
+      "gloss": "kuma Urushalama"
+    },
+    {
+      "surface": "עִיִּ֣ין",
+      "gloss": "tudun rushewa"
+    },
+    {
+      "surface": "תִּֽהְיֶ֔ה",
+      "gloss": "za ta zama"
+    },
+    {
+      "surface": "וְהַ֥ר",
+      "gloss": "kuma dutsen"
+    },
+    {
+      "surface": "הַבַּ֖יִת",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "לְבָמ֥וֹת",
+      "gloss": "zai zama mahasan"
+    },
+    {
+      "surface": "יָֽעַר",
+      "gloss": "daji"
+    }
+  ],
+  "timestamp": "2026-08-12T18:39:46.357725882Z",
+  "model": "glm-5.2"
+}

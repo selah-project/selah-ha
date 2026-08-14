@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma Bath-Sheba ⟨ta⟩ ce: \"Tọmai, ni zan yi magana ⟨don⟩ ka ga ⟨sarkin⟩.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Kuma ⟨ta⟩ ce"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bath־"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Tọmai"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "zan yi magana"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "⟨don⟩ ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨sarkin⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T10:57:19.200728445Z",
+  "model": "glm-5.2"
+}

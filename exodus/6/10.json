@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 6:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Yahweh ya yi magana da Mosheh, yana cewa,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ya yi magana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa,"
+    }
+  ],
+  "timestamp": "2026-08-12T00:31:48.214501775Z",
+  "model": "glm-5.2"
+}

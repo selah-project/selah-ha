@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Ka ƙaunaci adalci ka ƙi zalunci; saboda haka Elohim, Elohim naka, ya shafa ka da man farko na farin ciki fiye da abokaninka.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ka ƙaunaci"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adalci"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "ka ƙi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "zalunci"
+    },
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "ya shafa ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "da man"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "na farin ciki"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "fiye da abokaninka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:46:42.948760397Z",
+  "model": "glm-5.2"
+}

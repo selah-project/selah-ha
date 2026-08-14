@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "30'ya ⟨ce⟩ ⟨ga⟩ dokin don ceto, kuma da yawan ƙarfin sa ba zai ⟨taɓa⟩ tsira ba.",
+  "tokens": [
+    {
+      "surface": "שֶׁ֣קֶר",
+      "gloss": "30'ya"
+    },
+    {
+      "surface": "הַ֭סּוּס",
+      "gloss": "dokin"
+    },
+    {
+      "surface": "לִתְשׁוּעָ֑ה",
+      "gloss": "don ceto"
+    },
+    {
+      "surface": "וּבְרֹ֥ב",
+      "gloss": "kuma da yawan"
+    },
+    {
+      "surface": "חֵ֝יל֗וֹ",
+      "gloss": "ƙarfin sa"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יְמַלֵּֽט",
+      "gloss": "zai tsira"
+    }
+  ],
+  "timestamp": "2026-08-12T19:35:11.418985180Z",
+  "model": "glm-5.2"
+}

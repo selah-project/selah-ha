@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma wanda ya buge ubansa da uwarsa, a kafa shi a kashe shi.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Kuma wanda ya buge"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubansa"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "da uwarsa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "a kafa shi"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a kashe shi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:01:27.499772720Z",
+  "model": "glm-5.2"
+}

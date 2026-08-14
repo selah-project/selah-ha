@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma ya kora ⟨את⟩ Yehoyakin Bavel, da ⟨את⟩ uwar sarki, da ⟨את⟩ matan sarki, da ⟨את⟩ bafiyansa, da ⟨את⟩ manyan ƙasar, ya kai su gudun hijira daga Yerushalaim zuwa Bavel.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Kuma ya kora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoyakin"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakin"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "uwar sarki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uwar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "matan sarki"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "matan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "bafiyansa"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "bafiyansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "manyar ƙasar"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "manyar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "ya kai"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "su gudun hijira"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "daga Yerushalaim"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "zuwa Bavel"
+    }
+  ],
+  "timestamp": "2026-08-12T12:50:16.967007763Z",
+  "model": "glm-5.2"
+}

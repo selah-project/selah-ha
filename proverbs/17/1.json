@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "⟨Akwai⟩ kyau ⟨a cikin⟩ wani ɓangaren busasshen abinci da shiru ⟨a cikin sa⟩, fiye da gida cike da kayan yanka ⟨na⟩ jayayya.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "kyau"
+    },
+    {
+      "surface": "פת",
+      "gloss": "ɓangaren abinci"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "busasshen"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "da shiru"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a cikin sa"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "fiye da gida"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "cike da"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "kayan yanka"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "jayayya"
+    }
+  ],
+  "timestamp": "2026-08-12T21:20:02.281378513Z",
+  "model": "glm-5.2"
+}

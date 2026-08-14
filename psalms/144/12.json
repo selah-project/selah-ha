@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 144:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 144,
+  "translation": "Cewa 'ya'yanmu sun kama shuka waɗanda suka girma cikin ƙuruciyarsu; 'ya'yanmu mata sun kama ginshiƙan kusurwa waɗanda aka sassaka a kamaɗon fada.",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "Cewa"
+    },
+    {
+      "surface": "בָּנֵינוּ",
+      "gloss": "'ya'yanmu"
+    },
+    {
+      "surface": "כִּנְטִעִים",
+      "gloss": "sun kama shuka"
+    },
+    {
+      "surface": "מְגֻדָּלִים",
+      "gloss": "waɗanda suka girma"
+    },
+    {
+      "surface": "בִּנְעוּרֵיהֶם",
+      "gloss": "cikin ƙuruciyarsu"
+    },
+    {
+      "surface": "בְּנוֹתֵינוּ",
+      "gloss": "'ya'yanmu mata"
+    },
+    {
+      "surface": "כְּזָוִיֹּת",
+      "gloss": "sun kama ginshiƙan kusurwa"
+    },
+    {
+      "surface": "מְחֻטָּבוֹת",
+      "gloss": "waɗanda aka sassaka"
+    },
+    {
+      "surface": "תַּבְנִית",
+      "gloss": "a kamaɗon"
+    },
+    {
+      "surface": "הֵיכָל",
+      "gloss": "fada"
+    }
+  ],
+  "timestamp": "2026-08-13T02:28:24.106911317Z",
+  "model": "glm-5.2"
+}

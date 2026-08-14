@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma ruhin Mitsrayim za a ɓuye a cikinsa, kuma shawararsa za Ni in hadiye, kuma za su nema ga gumaka, kuma ga masu boka, kuma ga mafariska, kuma ga masu sanin ruhohi.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "kuma za a ɓuye"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "a cikinsa"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "kuma shawararsa"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "za Ni in hadiye"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "kuma za su nema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "gumaka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma ga"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "masu boka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma ga"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "mafariska"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma ga"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "masu sanin ruhohi"
+    }
+  ],
+  "timestamp": "2026-08-12T13:29:36.758535967Z",
+  "model": "glm-5.2"
+}

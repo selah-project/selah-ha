@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 132,
+  "translation": "Ga shi, mun ji ⟨ta⟩ a Efrata, mun same ⟨ta⟩ cikin filayen daji.",
+  "tokens": [
+    {
+      "surface": "הִנֵּֽה",
+      "gloss": "Ga shi"
+    },
+    {
+      "surface": "שְׁמַֽעֲנ֥וּהָ",
+      "gloss": "mun ji ⟨ta⟩"
+    },
+    {
+      "surface": "בְאֶפְרָ֑תָה",
+      "gloss": "a Efrata"
+    },
+    {
+      "surface": "מְצָאנ֗וּהָ",
+      "gloss": "mun same ⟨ta⟩"
+    },
+    {
+      "surface": "בִּשְׂדֵי",
+      "gloss": "cikin filayen"
+    },
+    {
+      "surface": "יָֽעַר",
+      "gloss": "daji"
+    }
+  ],
+  "timestamp": "2026-08-12T20:49:59.054766137Z",
+  "model": "glm-5.2"
+}

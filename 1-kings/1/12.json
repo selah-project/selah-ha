@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma yanzu, je ka, in baka shawara ⟨ta⟩, ina roƙonka, ka kuwa tsira da ⟨את⟩ rayuwarka da ⟨את⟩ rayuwar ɗanka Shelomoh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kuma yanzu"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "je ka"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "in baka shawara"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ina roƙonka"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "⟨ta⟩"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "ka kuwa tsira da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rayuwarka"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "rayuwarka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "rayuwar ɗanka Shelomoh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rayuwar"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ɗanka"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-12T10:45:53.620173425Z",
+  "model": "glm-5.2"
+}

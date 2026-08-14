@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma ⟨za a yi⟩ a lokacin da kuke kusantar yaƙin, kuma kohen ya zo ya yi magana da ⟨ɗaya⟩ ga jama'a,",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Kuma ⟨za a yi⟩"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "a lokacin da kuke kusantar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "yaƙin"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "kuma kohen ya zo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ya yi magana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    }
+  ],
+  "timestamp": "2026-08-12T05:30:25.159300309Z",
+  "model": "glm-5.2"
+}

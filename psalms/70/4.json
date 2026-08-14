@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 70,
+  "translation": "Bari su koma baya saboda wulakancinsu, waɗanda ke cewa, Hɛ̂, hɛ̂.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Bari su koma baya"
+    },
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "wulakancinsu"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "waɗanda ke cewa"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hɛ̂"
+    },
+    {
+      "surface": "האח",
+      "gloss": "hɛ̂"
+    }
+  ],
+  "timestamp": "2026-08-12T20:00:52.668064385Z",
+  "model": "glm-5.2"
+}

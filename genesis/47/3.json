@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 47:3",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Sa'an nan Paroh ya ce wa 'yan'uwansa: \"Aikinku menene?\" Suka ce wa Paroh: \"Makiyayan tarkaku ne bayinka, mu da kansmu, mu da kuma ubanninmu.\"",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "sa'an nan ya ce"
+    },
+    {
+      "surface": "פַּרְעֹה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אֶחָיו",
+      "gloss": "'yan'uwansa"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "menene"
+    },
+    {
+      "surface": "מַּעֲשֵׂיכֶם",
+      "gloss": "aikinku"
+    },
+    {
+      "surface": "וַיֹּאמְרוּ",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "פַּרְעֹה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "רֹעֵה",
+      "gloss": "maiyayi"
+    },
+    {
+      "surface": "צֹאן",
+      "gloss": "tarkaku"
+    },
+    {
+      "surface": "עֲבָדֶיךָ",
+      "gloss": "bayinka"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "mu da kuma"
+    },
+    {
+      "surface": "אֲנַחְנוּ",
+      "gloss": "kansmu"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "da kuma"
+    },
+    {
+      "surface": "אֲבוֹתֵינוּ",
+      "gloss": "ubanninmu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:24:02.784700277Z",
+  "model": "glm-5.2"
+}

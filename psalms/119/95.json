@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Gārēzu sun dāra ni don halakar da ni, amma nā shaida-kankā zan yi tunani.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "sun dāra"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Gārēzu"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "don halakar da"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "nā shaida-kankā"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "zan yi tunani"
+    }
+  ],
+  "timestamp": "2026-08-12T20:42:31.652356929Z",
+  "model": "glm-5.2"
+}

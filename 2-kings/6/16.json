@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Sai ⟨ya⟩ ce: Kada ka ji tsoro, domin sun fi yawa ⟨waɗanda⟩ suke ⟨tare⟩ da mu fiye da ⟨waɗanda⟩ suke ⟨tare⟩ da su.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sai ⟨ya⟩ ce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ka ji tsoro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sun fi yawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨waɗanda⟩"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ⟨tareda⟩ mu"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "fiye da ⟨waɗanda⟩"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ suke ⟨tareda⟩ su"
+    }
+  ],
+  "timestamp": "2026-08-13T02:06:52.632092010Z",
+  "model": "glm-5.2"
+}

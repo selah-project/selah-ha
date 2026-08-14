@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 65,
+  "translation": "Lambar laifuffuka ta fi ni ƙarfi, ⟨amma⟩ tawayen mu Kai ne Ka rufe.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Lambar"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "laifuffuka"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "ta fi ni ƙarfi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "min"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "tawayen mu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai ne"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "Ka rufe"
+    }
+  ],
+  "timestamp": "2026-08-12T19:57:37.252219215Z",
+  "model": "glm-5.2"
+}

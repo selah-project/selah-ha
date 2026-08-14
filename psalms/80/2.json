@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 80:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 80,
+  "translation": "Ya Mai gudanar da Isra'ila, ka saurare! Kai ke jagorantar Yūsufu kamar tunkiya; Kai zauna ⟨a tsakanin⟩ kerubim — ka haskaka!",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "Ya Mai gudanar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ka saurare"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "Kai ke jagorantar"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kamar tunkiya"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yūsufu"
+    },
+    {
+      "surface": "יוב",
+      "gloss": "Kai zauna"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "הופיעה",
+      "gloss": "ka haskaka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:12:44.168424329Z",
+  "model": "glm-5.2"
+}

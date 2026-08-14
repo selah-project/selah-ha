@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Ga shugaban mawaƙa, akan \"Gaɗanjar Asuba,\" mawăƙin Davidu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga shugaban mawaƙa"
+    },
+    {
+      "surface": "על",
+      "gloss": "akan"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "\"Gaɗanjar"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "Asuba,\""
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mawăƙin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:28:09.873622458Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Sa'an nan ba zan ji kunya ba idan na duba duka umarninka.",
+  "tokens": [
+    {
+      "surface": "אָ֥ז",
+      "gloss": "Sa'an nan"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אֵב֑וֹשׁ",
+      "gloss": "zan ji kunya"
+    },
+    {
+      "surface": "בְּ֝הַבִּיטִ֗י",
+      "gloss": "idán na duba"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "מִצְוֺתֶֽיךָ",
+      "gloss": "umarninka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:40:40.727172994Z",
+  "model": "glm-5.2"
+}

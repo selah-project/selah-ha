@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "dom ba ka ci, kuma ka sha awa, kuma ka gina gumaka masu kyau, kuma ka zauna a cikinsu.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "dom ba"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ka ci"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "kuma ka sha awa"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "kuma ka gina gumaka"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "masu kyau"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "kuma ka gina"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "kuma ka zauna"
+    }
+  ],
+  "timestamp": "2026-08-12T05:07:24.605490501Z",
+  "model": "glm-5.2"
+}

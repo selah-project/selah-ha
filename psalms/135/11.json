@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 135,
+  "translation": "Sihon sarkin Amori, da Og sarkin Bashan, da dukan mulkan Kena'an.",
+  "tokens": [
+    {
+      "surface": "לְסִיח֤וֹן",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "הָאֱמֹרִ֗י",
+      "gloss": "Amori"
+    },
+    {
+      "surface": "וּ֭לְעוֹג",
+      "gloss": "da Og"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "הַבָּשָׁ֑ן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "וּ֝לְכֹ֗ל",
+      "gloss": "da dukan"
+    },
+    {
+      "surface": "מַמְלְכ֥וֹת",
+      "gloss": "mulkan"
+    },
+    {
+      "surface": "כְּנָֽעַן",
+      "gloss": "Kena'an"
+    }
+  ],
+  "timestamp": "2026-08-12T20:50:36.041801022Z",
+  "model": "glm-5.2"
+}

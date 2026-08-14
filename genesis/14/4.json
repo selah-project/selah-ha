@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Shekaru goma sha biyu sun bauta wa ⟨את⟩ Kedarlaomer, kuma shekara ta goma sha uku ⟨su⟩ka tayar da tawaye.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "goma sha ⟨biyu⟩"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "⟨goma⟩ sha ⟨biyu⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Shekaru"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sun bauta wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedarlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedarlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "kuma ⟨shekara ta⟩ ⟨goma⟩ sha uku"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "⟨goma⟩ sha uku"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "⟨shekara⟩"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "⟨su⟩ka tayar da tawaye"
+    }
+  ],
+  "timestamp": "2026-08-13T01:44:21.008962105Z",
+  "model": "glm-5.2"
+}

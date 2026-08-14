@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 39:16",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Kuma suka yi saitin zhinar zinariya guda biyu da zoben zhinar zinariya guda biyu; suka saka ⟨את⟩ zoben guda biyu a ƙarshen ɗirshan guda biyu.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "kuma suka yi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "guda biyu"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "saitin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zhinar zinariya"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "da guda biyu"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "zoben"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zhinar zinariya"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "suka saka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zoben guda biyu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "guda biyu"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "zoben"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "שני",
+      "gloss": "guda biyu"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ƙarshen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ɗirshan"
+    }
+  ],
+  "timestamp": "2026-08-12T01:37:08.035697758Z",
+  "model": "glm-5.2"
+}

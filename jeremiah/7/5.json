@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 7:5",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": " domin idan kun gyara ⟨da gaske⟩ hanyoyinku da ⟨את⟩ ayyukanku, idan kun yi ⟨da gaske⟩ shari'a tsakanin mutum da ⟨tsakanin⟩ makwabcinsa,",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "הֵיטֵיב֙",
+      "gloss": "kayi kyau"
+    },
+    {
+      "surface": "תֵּיטִ֔יבוּ",
+      "gloss": "kuyi kyau"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "hanyoyinku"
+    },
+    {
+      "surface": "דַּרְכֵיכֶ֖ם",
+      "gloss": "hanyoyinku"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ayyukanku"
+    },
+    {
+      "surface": "מַֽעַלְלֵיכֶ֑ם",
+      "gloss": "ayyukanku"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "עָשׂ֤וֹ",
+      "gloss": "kuyi"
+    },
+    {
+      "surface": "תַֽעֲשׂוּ֙",
+      "gloss": "kuyi"
+    },
+    {
+      "surface": "מִשְׁפָּ֔ט",
+      "gloss": "shari'a"
+    },
+    {
+      "surface": "בֵּ֥ין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "אִ֖ישׁ",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "וּבֵ֥ין",
+      "gloss": "da tsakanin"
+    },
+    {
+      "surface": "רֵעֵֽהוּ",
+      "gloss": "makwabcinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T15:03:35.001769525Z",
+  "model": "glm-5.2"
+}

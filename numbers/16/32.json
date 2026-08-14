@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma ƙasa ta buɗe ⟨את⟩ bakinta, kuma ta hadiyer ⟨את⟩ da su da ⟨את⟩ gidajensu, da ⟨את⟩ dukan mutanen da suke na Ḳoraḥ, da ⟨את⟩ dukan dukiyarsu.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "Kuma ta buɗe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakinta"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "bakinta"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "kuma ta hadiyer"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ da su"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "gidajensu"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "gidajensu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da suke"
+    },
+    {
+      "surface": "לקרח",
+      "gloss": "na Ḳoraḥ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "dukiyarsu"
+    }
+  ],
+  "timestamp": "2026-08-12T04:06:26.797601445Z",
+  "model": "glm-5.2"
+}

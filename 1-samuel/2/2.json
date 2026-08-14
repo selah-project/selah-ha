@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Babu tsarkaka kamar Yahweh, domin babu ⟨wani⟩ banda Kai, kuma babu dutsen kamar Elohim mu.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "tsarkaka"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "kamar Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "banda Kai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "צור",
+      "gloss": "dutsen"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "kamar Elohim mu"
+    }
+  ],
+  "timestamp": "2026-08-13T01:58:42.316025048Z",
+  "model": "glm-5.2"
+}

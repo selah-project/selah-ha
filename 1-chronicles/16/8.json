@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 16:8",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Ku bayar da godiya ga Yahweh, ku kira cikin sunanSa, ku sanar da ayyukanSa cikin al'ummai!",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Ku bayar da godiya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ku kira"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "cikin sunanSa"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "ku sanar da"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "cikin al'ummai"
+    },
+    {
+      "surface": "עלילתיו",
+      "gloss": "ayyukanSa"
+    }
+  ],
+  "timestamp": "2026-08-13T00:15:34.777064923Z",
+  "model": "glm-5.2"
+}

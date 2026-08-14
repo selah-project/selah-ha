@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "hosea 2:21",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma zan ɗaure ka ⟨aure⟩ da ni har abada; e, zan ɗaure ka ⟨aure⟩ da ni cikin adalci, da cikin shari'a, da cikin chesed, da cikin rahama.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "kuma zan ɗaure ka aure"
+    },
+    {
+      "surface": "לי",
+      "gloss": "da ni"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "וארשתיך",
+      "gloss": "zan ɗaure ka aure"
+    },
+    {
+      "surface": "לי",
+      "gloss": "da ni"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "cikin adalci"
+    },
+    {
+      "surface": "ובמשפט",
+      "gloss": "da cikin shari'a"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "da cikin chesed"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "da cikin rahama"
+    }
+  ],
+  "timestamp": "2026-08-12T18:10:56.667592785Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 79,
+  "translation": "Amma mu, mutanenka ne ⟨kuma⟩ tawen makiyanka, za mu gode maka har abada, daga ƙarni zuwa ƙarni za mu faɗa yabonka.",
+  "tokens": [
+    {
+      "surface": "וַאֲנַ֤חְנוּ",
+      "gloss": "Amma mu"
+    },
+    {
+      "surface": "עַמְּךָ֨",
+      "gloss": "mutanenka"
+    },
+    {
+      "surface": "וְצֹ֥אן",
+      "gloss": "⟨kuma⟩ tawen"
+    },
+    {
+      "surface": "מַרְעִיתֶךָ֮",
+      "gloss": "makiyanka"
+    },
+    {
+      "surface": "נ֤וֹדֶ֥ה",
+      "gloss": "za mu gode"
+    },
+    {
+      "surface": "לְּךָ֗",
+      "gloss": "maka"
+    },
+    {
+      "surface": "לְע֫וֹלָ֥ם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "לְדֹ֥ר",
+      "gloss": "daga ƙarni"
+    },
+    {
+      "surface": "וָדֹ֑ר",
+      "gloss": "zuwa ƙarni"
+    },
+    {
+      "surface": "נְ֝סַפֵּ֗ר",
+      "gloss": "za mu faɗa"
+    },
+    {
+      "surface": "תְּהִלָּתֶֽךָ",
+      "gloss": "yabonka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:24:52.118843893Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 10:6",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Banī ʿAmōn suka gani cewa sun zama wari a gaban Dāwīd, banī ʿAmōn kuma suka aiko suka yi hayar ⟨את⟩ ʾAram Bet-Reḥōv da ⟨את⟩ ʾAram Ṣōvā, dubu ashirin ɗan ƙafā, da ⟨את⟩ sarkin Maʿăḵā, dubu ⟨mutāne⟩, da mutānen Ṭōv, dubu goma sha biyu ⟨mutāne⟩.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "suka gani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "banī"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ʿAmōn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "נבאשו",
+      "gloss": "sun zama wari"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "a gaban Dāwīd"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "suka aiko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "banī"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ʿAmōn"
+    },
+    {
+      "surface": "וישכרו",
+      "gloss": "suka yi hayar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ʾAram Bet-Reḥōv"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ʾAram"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "Reḥōv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ʾAram Ṣōvā"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ʾAram"
+    },
+    {
+      "surface": "צובא",
+      "gloss": "Ṣōvā"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ɗan ƙafā"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "sarkin Maʿăḵā"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maʿăḵā"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨mutāne⟩"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "da mutānen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Ṭōv"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "goma sha biyu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨mutāne⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T10:01:42.311845997Z",
+  "model": "glm-5.2"
+}

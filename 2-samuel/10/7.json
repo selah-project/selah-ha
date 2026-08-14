@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Dāwīd ya ji, kuma ya aiko ⟨את⟩ Yōʾāv da ⟨את⟩ dukkan rundunar mayaƙa.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ya ji"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dāwīd"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "kuma ya aiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yōʾāv"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yōʾāv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukkan rundunar mayaƙa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "rundunar"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "mayaƙa"
+    }
+  ],
+  "timestamp": "2026-08-12T10:01:42.312024667Z",
+  "model": "glm-5.2"
+}

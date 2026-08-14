@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 6:5",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma ku yi kwaikwayon_annbam ku da kwaikwayon mice ku, masu hallaka ⟨את⟩ ƙasa, kuma ku bai wa Elohim na Isra'ila daraja; tsammen za Ya sauƙaƙe ⟨את⟩ hannunSa daga gare ku, kuma daga kan allolinku, kuma daga kan ƙasarku.",
+  "tokens": [
+    {
+      "surface": "וַעֲשִׂיתֶם֩",
+      "gloss": "kuma ku yi"
+    },
+    {
+      "surface": "צַלְמֵ֨י",
+      "gloss": "kwaikwayon"
+    },
+    {
+      "surface": "עפליכם",
+      "gloss": "annbam ku"
+    },
+    {
+      "surface": "וְצַלְמֵ֣י",
+      "gloss": "da kwaikwayon"
+    },
+    {
+      "surface": "עַכְבְּרֵיכֶ֗ם",
+      "gloss": "mice ku"
+    },
+    {
+      "surface": "הַמַּשְׁחִיתִם֙",
+      "gloss": "masu hallaka"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasa"
+    },
+    {
+      "surface": "הָאָ֔רֶץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "וּנְתַתֶּ֛ם",
+      "gloss": "kuma ku bai wa"
+    },
+    {
+      "surface": "לֵאלֹהֵ֥י",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "כָּב֑וֹד",
+      "gloss": "daraja"
+    },
+    {
+      "surface": "אוּלַ֗י",
+      "gloss": "tsammen"
+    },
+    {
+      "surface": "יָקֵ֤ל",
+      "gloss": "za Ya sauƙaƙe"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "hannunSa"
+    },
+    {
+      "surface": "יָדוֹ֙",
+      "gloss": "hannunSa"
+    },
+    {
+      "surface": "מֵֽעֲלֵיכֶ֔ם",
+      "gloss": "daga gare ku"
+    },
+    {
+      "surface": "וּמֵעַ֥ל",
+      "gloss": "kuma daga kan"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶ֖ם",
+      "gloss": "allolinku"
+    },
+    {
+      "surface": "וּמֵעַ֥ל",
+      "gloss": "kuma daga kan"
+    },
+    {
+      "surface": "אַרְצְכֶֽם",
+      "gloss": "ƙasarku"
+    }
+  ],
+  "timestamp": "2026-08-12T08:38:31.465887193Z",
+  "model": "glm-5.2"
+}

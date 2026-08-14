@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma Yahusha ya tãshi da sassafe, ya kusantar da ⟨את⟩ Yisra'el bisa kabilunsa, aka kãma ⟨ce⟩ kabilar Yehuda.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Kuma Yahusha ya tãshi da sassafe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": ""
+    },
+    {
+      "surface": "בבקר",
+      "gloss": ""
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "ya kusantar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "bisa kabilunsa"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "aka kãma"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kabilar"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-12T06:26:07.103327703Z",
+  "model": "glm-5.2"
+}

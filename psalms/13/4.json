@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Duba ni, ka amsa ni, Yahweh Elohim na! Hasƙaka idanuwata, don kada ni yi barcin mutuwa!",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Duba"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ka amsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "Hasƙaka"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "idanuwata"
+    },
+    {
+      "surface": "פן",
+      "gloss": "domin kada"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "ni yi barci"
+    },
+    {
+      "surface": "המות",
+      "gloss": "mutuwa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:21:44.872818970Z",
+  "model": "glm-5.2"
+}

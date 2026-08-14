@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 12:31",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma ya kira Mosheh da Aharon da dare, ya kuma ce: Tashi, ku fita daga tsakanin mutanena, ku ma kuma ku, 'ya'yan Yisra'el, ku tafi ku bauta wa ⟨את⟩ Yahweh kamar yadda kuka faɗa.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Kuma ya kira"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "da Aharon"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "da dare"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya kuma ce"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "Tashi"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "ku fita"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "daga tsakanin"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mutanena"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ku ma"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ku tafi"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ku bauta wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כדברכם",
+      "gloss": "kamar yadda kuka faɗa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:48:59.534937564Z",
+  "model": "glm-5.2"
+}

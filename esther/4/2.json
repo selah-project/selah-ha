@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma ya zo har gaban ⟨kofar⟩ sarki, domin babu ⟨iznin⟩ shiga ⟨cikin⟩ kofar sarki da sanya μgun tufa.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "Kuma ya zo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "שער",
+      "gloss": "⟨kofar⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "⟨iznin⟩ shiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨cikin⟩"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kofar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "da sanya"
+    },
+    {
+      "surface": "שק",
+      "gloss": "μgun tufa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:55:57.519493440Z",
+  "model": "glm-5.2"
+}

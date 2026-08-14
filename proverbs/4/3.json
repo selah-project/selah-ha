@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Domi na kasance ɗa ga ubana, mai laushi kuma ɗaya tilo a gaban mĩna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗa"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "na kasance"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "ga ubana"
+    },
+    {
+      "surface": "רך",
+      "gloss": "mai laushi"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "kuma ɗaya tilo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mĩna"
+    }
+  ],
+  "timestamp": "2026-08-12T21:05:22.215383245Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 62,
+  "translation": "Domin waɗanda suka tona ⟨su⟩ za su ci ⟨shi⟩, kuma za su yaba ⟨את⟩ Yahweh, kuma waɗanda suka tattara ⟨shi⟩ za su sha ⟨shi⟩ a cikin ffidodin tsarkina.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "מְאַסְפָיו֙",
+      "gloss": "waɗanda suka tona ⟨su⟩"
+    },
+    {
+      "surface": "יֹאכְלֻ֔הוּ",
+      "gloss": "za su ci ⟨shi⟩"
+    },
+    {
+      "surface": "וְהִֽלְל֖וּ",
+      "gloss": "kuma za su yaba"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וּֽמְקַבְּצָ֥יו",
+      "gloss": "kuma waɗanda suka tattara ⟨shi⟩"
+    },
+    {
+      "surface": "יִשְׁתֻּ֖הוּ",
+      "gloss": "za su sha ⟨shi⟩"
+    },
+    {
+      "surface": "בְּחַצְר֥וֹת",
+      "gloss": "a cikin ffidodin"
+    },
+    {
+      "surface": "קָדְשִֽׁי",
+      "gloss": "tsarkina"
+    }
+  ],
+  "timestamp": "2026-08-12T14:40:01.264435235Z",
+  "model": "glm-5.2"
+}

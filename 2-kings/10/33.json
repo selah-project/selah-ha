@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 10:33",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Daga Yarden, gabas⟨warden⟩ rana, ⟨את⟩ dukkan ƙasar HaGilʿad, na HaGadi, da na HaRuʾubeni, da na HaMenashe, daga ʿAroʿer wanda yake a kan kogin Arnon, da HaGilʿad da HaBashan.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "gabas"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan ƙasar HaGilʿad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "HaGilʿad"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "na HaGadi"
+    },
+    {
+      "surface": "והראובני",
+      "gloss": "da na HaRuʾubeni"
+    },
+    {
+      "surface": "והמנשי",
+      "gloss": "da na HaMenashe"
+    },
+    {
+      "surface": "מערער",
+      "gloss": "daga ʿAroʿer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "kogin"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "והגלעד",
+      "gloss": "da HaGilʿad"
+    },
+    {
+      "surface": "והבשן",
+      "gloss": "da HaBashan"
+    }
+  ],
+  "timestamp": "2026-08-12T12:15:51.405181989Z",
+  "model": "glm-5.2"
+}

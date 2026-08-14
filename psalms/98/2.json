@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 98,
+  "translation": "Yahweh ya bayyana ŋaƙarsa; a gaban idonun al'ummomi ya fallasa adalcensa.",
+  "tokens": [
+    {
+      "surface": "הוֹדִ֣יעַ",
+      "gloss": "ya bayyana"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יְשׁוּעָת֑וֹ",
+      "gloss": "ŋaƙarsa"
+    },
+    {
+      "surface": "לְעֵינֵ֥י",
+      "gloss": "a gaban idonun"
+    },
+    {
+      "surface": "הַ֝גּוֹיִ֗ם",
+      "gloss": "al'ummomi"
+    },
+    {
+      "surface": "גִּלָּ֥ה",
+      "gloss": "ya fallasa"
+    },
+    {
+      "surface": "צִדְקָתֽוֹ",
+      "gloss": "adalcensa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:27:27.573764602Z",
+  "model": "glm-5.2"
+}

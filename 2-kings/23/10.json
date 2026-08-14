@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma ya ɓata Tofet, wadda ke cikin kwarin beney Hinnom, domin kada wani mutum ya sa ɗan'insa ⟨את⟩ ko kuma ⟨את⟩ 'yarsa ta wuce cikin wuta ga Molek.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "kuma ya ɓata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wadda ke"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "cikin kwarin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "beney"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinnom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "domin kada"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "ya sa ya wuce"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wani mutum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗan'insa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗan'insa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ko kuma ⟨את⟩",
+      "marks": "'yarsa"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "'yarsa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "cikin wuta"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ga Molek"
+    }
+  ],
+  "timestamp": "2026-08-12T12:48:00.215426815Z",
+  "model": "glm-5.2"
+}

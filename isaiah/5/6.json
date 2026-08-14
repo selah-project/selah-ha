@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 5:6",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma zan sanya shi bango-bango; ba za a girba ba, kuma ba za a noma ba, kuma tsiro mai kaifi da ciyayi masu kaifi za su tashi; kuma zuwa gajimare zan umurci su su guje wa zuba ruwan sama a kansa.",
+  "tokens": [
+    {
+      "surface": "ואשיתהו",
+      "gloss": "Kuma zan sanya shi"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "bango-bango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יזמר",
+      "gloss": "za a girba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יעדר",
+      "gloss": "za a noma"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "kuma za su tashi"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "tsiro mai kaifi"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "da ciyayi masu kaifi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kuma zuwa"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "gajimare"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "zan umurci"
+    },
+    {
+      "surface": "מהמטיר",
+      "gloss": "su guje wa zuba ruwan sama"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "⟨ruwan sama⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T13:03:30.761454449Z",
+  "model": "glm-5.2"
+}

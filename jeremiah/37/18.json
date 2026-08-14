@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 37:18",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Yirmijahu ya kuma ce wa Tsidkijah⟨sarki⟩: Me ya sa na yi mushe maka, da bayinka, da wannan mutane, cewa ku sanya ⟨את⟩ ni a gidan kurkuku?",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֣אמֶר",
+      "gloss": "ya kuma ce"
+    },
+    {
+      "surface": "יִרְמְיָ֔הוּ",
+      "gloss": "Yirmijahu"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הַמֶּ֖לֶךְ",
+      "gloss": "⟨sarki⟩"
+    },
+    {
+      "surface": "צִדְקִיָּ֑הוּ",
+      "gloss": "Tsidkijah"
+    },
+    {
+      "surface": "מֶה֩",
+      "gloss": "Me"
+    },
+    {
+      "surface": "חָטָ֨אתִֽי",
+      "gloss": "na yi mushe"
+    },
+    {
+      "surface": "לְךָ֤",
+      "gloss": "maka"
+    },
+    {
+      "surface": "וְלַעֲבָדֶ֨יךָ֙",
+      "gloss": "da bayinka"
+    },
+    {
+      "surface": "וְלָעָ֣ם",
+      "gloss": "da"
+    },
+    {
+      "surface": "הַזֶּ֔ה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "נְתַתֶּ֥ם",
+      "gloss": "ku sanya"
+    },
+    {
+      "surface": "אוֹתִ֖י",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "הַכֶּֽלֶא",
+      "gloss": "kurkuku"
+    }
+  ],
+  "timestamp": "2026-08-12T16:14:05.001706026Z",
+  "model": "glm-5.2"
+}

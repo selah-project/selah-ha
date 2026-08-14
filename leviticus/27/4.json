@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma idan mace ⟨ce⟩, to kimatomaka ya zama sikeli talatin.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ce⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "to ya zama"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "kimatomaka"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "talatin"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sikeli"
+    }
+  ],
+  "timestamp": "2026-08-12T03:05:47.892275193Z",
+  "model": "glm-5.2"
+}

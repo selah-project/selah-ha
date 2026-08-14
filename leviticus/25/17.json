@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kada kuna zaluntar juna, mutum ⟨את⟩ abokinsa, kuma ku ji tsoron Elohim ku, domin ni ni Yahweh, Elohim ku.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kada kuna"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "zaluntar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abokinsa"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "abokinsa"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "kuma ku ji tsoron"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohim ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ku"
+    }
+  ],
+  "timestamp": "2026-08-12T02:53:37.392282201Z",
+  "model": "glm-5.2"
+}

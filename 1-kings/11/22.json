@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 11:22",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Paroh kuma ya ce masa: Me kake rashi tare da ni, sai ga kana neman tafiya zuwa ƙasarka? Sai ya ce: Ba ⟨haka ba⟩, amma lallai ka minni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨amma⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kake"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "rashi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "tare da ni"
+    },
+    {
+      "surface": "והנך",
+      "gloss": "sai ga kana"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "neman"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "tafiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ƙasarka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Sai ya ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amma"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lallai ka"
+    },
+    {
+      "surface": "תשלחני",
+      "gloss": "minni"
+    }
+  ],
+  "timestamp": "2026-08-12T11:18:46.471918490Z",
+  "model": "glm-5.2"
+}

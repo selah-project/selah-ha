@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 95,
+  "translation": "Wanda a hannunsa akwai zurafan ƙasa, da kololuwar tsaunuka ⟨sã⟩ nasa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Wanda"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "a hannunsa"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "akwai zurafan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "da kololuwar"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tsaunuka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨sã⟩ nasa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:23:06.342384701Z",
+  "model": "glm-5.2"
+}

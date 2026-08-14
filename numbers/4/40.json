@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma waɗanda aka ƙidaya daga cikinsu, bisa iyalansu, bisa gidajen ubanninsu, sun kasance dubu biyu da ɗari shida da talatin.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Kuma sun kasance"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "waɗanda aka ƙidaya daga cikinsu"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "bisa iyalansu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "bisa gidajen"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ubanninsu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dubu biyu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "da shida"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "da talatin"
+    }
+  ],
+  "timestamp": "2026-08-12T03:17:56.581138053Z",
+  "model": "glm-5.2"
+}

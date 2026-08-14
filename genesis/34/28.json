@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "⟨את⟩ tumin su da ⟨את⟩ shanun su da ⟨את⟩ jakun su, da ⟨את⟩ abin da yake cikin birni, da ⟨את⟩ abin da yake cikin gona, suka riƙi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tumin su"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "tumin su"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "shanun su"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "shanun su"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "jakun su"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "jakun su"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "abin da yake cikin birni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "yake cikin birni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "abin da yake cikin gona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "yake cikin gona"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "suka riƙi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:04:33.948401351Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma waɗannan ⟨su ne⟩ zuriyar Aharon da Moshe, a rán da Yahweh ya yi magana da ⟨את⟩ Moshe, a Dutsen Sinaí.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kuma waɗannan"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "zuriyar"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "da Moshe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rán"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ya yi magana"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "Moshe, a"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Dutsen Sinaí"
+    }
+  ],
+  "timestamp": "2026-08-12T03:21:42.157333975Z",
+  "model": "glm-5.2"
+}

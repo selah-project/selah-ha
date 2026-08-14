@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 28:24",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Kuma ba za a samu ba ga ɗan gidan Isira'ela yana tuna da ciwon dawa mai ciwo, ko kuma k̃ãji mai raɗa'i, daga dukan waɗanda suke kewaye da su, waɗannan masu wulakanta ⟨את⟩ su, su kuma su san cɛ̂na ni ⟨ne⟩ Adonai Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kuma ba za a samu ba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "za a samu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ga ɗan gidan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isira'ela"
+    },
+    {
+      "surface": "סלון",
+      "gloss": "ciwon dawa"
+    },
+    {
+      "surface": "ממאיר",
+      "gloss": "mai ciwo"
+    },
+    {
+      "surface": "וקוץ",
+      "gloss": "ko kuma k̃ãji"
+    },
+    {
+      "surface": "מכאב",
+      "gloss": "mai raɗa'i"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "daga dukan"
+    },
+    {
+      "surface": "סביבתם",
+      "gloss": "waɗanda suke kewaye da su"
+    },
+    {
+      "surface": "השאטים",
+      "gloss": "waɗannan masu wulakanta"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "su kuma su san"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cɛ̂na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T17:35:11.728198923Z",
+  "model": "glm-5.2"
+}

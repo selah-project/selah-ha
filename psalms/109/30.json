@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 109,
+  "translation": "Na gode ga Yahweh da yawa da bakina, kuma a tsakanin jama'a da yawa ina yabon ⟨Shi⟩.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ina gode"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "da bakina"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "kuma a tsakanin"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "jama'a da yawa"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "ina yabon ⟨Shi⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:36:12.463939026Z",
+  "model": "glm-5.2"
+}

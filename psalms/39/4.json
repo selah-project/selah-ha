@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Zuciya ta yi zafi a cikina; a lokacin tunana, wuta ta tashi; na yi magana da harshena:",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "ta yi zafi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciya ta"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "a cikina"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "a lokacin tunana"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ta tashi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "na yi magana"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "da harshena"
+    }
+  ],
+  "timestamp": "2026-08-12T19:42:24.584145061Z",
+  "model": "glm-5.2"
+}

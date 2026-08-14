@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Masu zaunu a cikin duhu da inuwarmutuwa, fursunonin talauci da ƙarfe.",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "masu zaunu"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "a cikin duhu"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "da inuwarmutuwa"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "fursunonin"
+    },
+    {
+      "surface": "עני",
+      "gloss": "talauci"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "da ƙarfe"
+    }
+  ],
+  "timestamp": "2026-08-12T20:32:38.486158600Z",
+  "model": "glm-5.2"
+}

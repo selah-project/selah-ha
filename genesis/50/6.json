@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "Kuma Paro ya ce: Hau, ka binne ⟨את⟩ ubangijanka kamar yadda ya rantsar da kai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Hau"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "ka binne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubangijanka"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ubangijanka"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "ya rantsar da kai"
+    }
+  ],
+  "timestamp": "2026-08-12T00:27:10.984907912Z",
+  "model": "glm-5.2"
+}

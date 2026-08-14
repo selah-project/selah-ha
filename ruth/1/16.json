@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 1:16",
+  "book": "ruth",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Amma Rut ta ce: Kar ka neme ni in bar ka, in koma daga baya ka; domin zuwa wurin da za ka tafi, ni zan tafi, kuma inda za ka kwanta, ni zan kwanta; mutanenka sun zama mutanena, kuma Elohim naka Elohim na.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "amma Rut ta ce"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kar ka"
+    },
+    {
+      "surface": "תפגעי",
+      "gloss": "neme ni"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨a ni⟩"
+    },
+    {
+      "surface": "לעזבך",
+      "gloss": "in bar ka"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "in koma"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "daga baya ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa wurin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "za ka tafi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ni zan tafi"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "kuma inda"
+    },
+    {
+      "surface": "תליני",
+      "gloss": "za ka kwanta"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ni zan kwanta"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mutanenka"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sun zama mutanena"
+    },
+    {
+      "surface": "ואלהיך",
+      "gloss": "kuma Elohim naka"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    }
+  ],
+  "timestamp": "2026-08-13T02:34:02.414202154Z",
+  "model": "glm-5.2"
+}

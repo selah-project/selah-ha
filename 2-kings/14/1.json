@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 14:1",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "A cikin shekara ta biyu ga Yoash ɗan Yo'ahaz sarkin Yisra'el, Amatsyahu ɗan Yoash sarkin Yehuda ya yi ⟨mulki⟩.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "A cikin shekara"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ta biyu"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "ga Yoash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Yo'ahaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya yi mulki"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-12T12:28:33.801197454Z",
+  "model": "glm-5.2"
+}

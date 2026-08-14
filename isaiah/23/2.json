@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Ku shiru, mazaunan tsibiri. ⟨Kai⟩ ɗan kasuwa na Tsidon, wadanda suke tsallaka teku sun cika ⟨da kaya⟩.",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "ku shiru"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "אי",
+      "gloss": "tsibiri"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "ɗan kasuwa"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "wadanda suke tsallaka"
+    },
+    {
+      "surface": "ים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "sun cika ⟨da kaya⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T13:37:39.410728751Z",
+  "model": "glm-5.2"
+}

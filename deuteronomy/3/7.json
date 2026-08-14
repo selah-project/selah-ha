@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma dukan dabbobin, da ganima na biranen, muka yi musu fashi domin mu.",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "kuma duk"
+    },
+    {
+      "surface": "הַבְּהֵמָ֛ה",
+      "gloss": "dabbobin"
+    },
+    {
+      "surface": "וּשְׁלַ֥ל",
+      "gloss": "da ganima"
+    },
+    {
+      "surface": "הֶעָרִ֖ים",
+      "gloss": "na biranen"
+    },
+    {
+      "surface": "בַּזּ֥וֹנוּ",
+      "gloss": "muka yi musu fashi"
+    },
+    {
+      "surface": "לָֽנוּ",
+      "gloss": "domin mu"
+    }
+  ],
+  "timestamp": "2026-08-12T04:55:32.583161448Z",
+  "model": "glm-5.2"
+}

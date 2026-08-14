@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 122,
+  "translation": "wanda kabilun suka haura zuwa can, kabilun Yah, ⟨a matsayin⟩ shaida ga Isra'ila, don gode wa sunan Yahweh.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "wanda... zuwa can"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "suka haura"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "kabilun"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "kabilun"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "shaida"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ga Isra'ila"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "don gode wa"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "sunan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T20:48:22.576478194Z",
+  "model": "glm-5.2"
+}

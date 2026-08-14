@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 18:20",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Ka ce ⟨ce⟩ kalmomin lefe ne kawai, shawara da ƙarfi ⟨ne⟩ don yaƙi. Yanzu a kan wa kake dogaro cewa ka tawaye a gare ni?",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Ka ce"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kawai"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "lefe"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "shawara"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "da ƙarfi"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "don yaƙi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Yanzu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "kake dogaro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "ka tawaye"
+    },
+    {
+      "surface": "בי",
+      "gloss": "a gare ni"
+    }
+  ],
+  "timestamp": "2026-08-12T12:36:25.251974612Z",
+  "model": "glm-5.2"
+}

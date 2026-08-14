@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 2:7",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Domin Yahweh, Elohiminka, Ya albarkace ka a duk aikin hannunka; Ya san tafiyarka ⟨ta⟩ ⟨את⟩ wannan jeji babban nan, nan tsawon shekaru arba'in, Yahweh Elohiminka Yana tare da kai, ba ka rage ⟨ko⟩ abu ba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminka"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "Ya albarkace ka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hannunka"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "Ya san"
+    },
+    {
+      "surface": "לכתך",
+      "gloss": "tafiyarka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan jeji babban nan"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "jeji"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "babban"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "arba'in"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "Yana tare da kai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "חסרת",
+      "gloss": "ka rage"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "abu"
+    }
+  ],
+  "timestamp": "2026-08-13T01:53:59.837677813Z",
+  "model": "glm-5.2"
+}

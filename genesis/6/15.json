@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma wannan shine abin da za ka yi ⟨את⟩ mata: tsawon akwatin ɗari uku (300) ana-awo, faɗinta hamsin (50) ana-awo, kuma tsayinta talatin (30) ana-awo.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "kuma wannan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "za ka yi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ mata"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "uku"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ana-awo"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "tsawon"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "hamsin"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ana-awo"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "faɗinta"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "kuma talatin"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ana-awo"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "tsayinta"
+    }
+  ],
+  "timestamp": "2026-08-11T23:27:27.258237558Z",
+  "model": "glm-5.2"
+}

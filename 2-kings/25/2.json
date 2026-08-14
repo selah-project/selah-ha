@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 25:2",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma birnin ya shiga cikin kewaye, har zuwa shekara ta goma sha ɗaya ⟨ga⟩ sarki Tsidkiya.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Kuma ya shiga"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "cikin kewaye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ta goma sha"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "⟨ga⟩ sarki"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiya"
+    }
+  ],
+  "timestamp": "2026-08-12T12:53:22.265427626Z",
+  "model": "glm-5.2"
+}

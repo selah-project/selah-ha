@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 24:20",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Girgiza, za ta girgiza ƙasa kamar mai maye, kuma za ta iyo-iyo kamar bukka; kuma tawayenta ta yi nauyi a kanta, kuma ta faɗi, ba za ta ƙara tashi ba.",
+  "tokens": [
+    {
+      "surface": "נוע",
+      "gloss": "girgiza"
+    },
+    {
+      "surface": "תנוע",
+      "gloss": "za ta girgiza"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "kamar mai maye"
+    },
+    {
+      "surface": "והתנודדה",
+      "gloss": "kuma za ta iyo-iyo"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "kamar bukka"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "kuma ta yi nauyi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "a kanta"
+    },
+    {
+      "surface": "פשעה",
+      "gloss": "tawayenta"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "kuma ta faɗi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תסיף",
+      "gloss": "za ta ƙara"
+    },
+    {
+      "surface": "קום",
+      "gloss": "tashi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:08:30.022005424Z",
+  "model": "glm-5.2"
+}

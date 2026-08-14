@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Ehud ya miƙa ⟨את⟩ hannun haguɗinsa, ya kuma riƙi ⟨את⟩ wuka daga sama da cinyarsa ta dama, ya kuma dasa ta cikin cikinsa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ya miƙa"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannun haguɗinsa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hannu"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "haguɗinsa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ya kuma riƙi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuka"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "wuka"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "daga sama da"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "cinyar"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "sa ta dama"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "ya kuma dasa ta"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "cikin cikinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T07:26:32.065720568Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Tashi ka warka, ka tashi daga barci zuwa shari'a ta, Elohim na, da Adonai na, zuwa kare ni.",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "Tashi ka warka"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "ka tashi daga barci"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "zuwa shari'a ta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "da Adonai na"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "zuwa kare ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:35:07.078712436Z",
+  "model": "glm-5.2"
+}

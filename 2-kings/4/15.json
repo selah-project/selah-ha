@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma ya ce, \"Ka kira ta.\" Kuma ya kira ta, kuma ta tsaya a ƙofar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Ka kira"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Kuma ya kira"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "kuma ta tsaya"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "a ƙofar"
+    }
+  ],
+  "timestamp": "2026-08-12T11:59:12.795109386Z",
+  "model": "glm-5.2"
+}

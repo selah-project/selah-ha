@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Kuma yanzu, mene ne na jira? Adonai, bege na ⟨yakе⟩ a gare ka.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kuma yanzu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mene ne"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "na jira"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "bege na"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a gare ka"
+    },
+    {
+      "surface": "היא",
+      "gloss": "shi yake"
+    }
+  ],
+  "timestamp": "2026-08-12T19:42:10.253686829Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 145,
+  "translation": "Girmamãwarifar cikinkrin da'imar da tã yalwa da ke cikinrinar girmankãwa ta, da kalmomin abin da ke fita daga bãkinta na daban-daban, zan yi tunãni a kansu.",
+  "tokens": [
+    {
+      "surface": "הֲדַר",
+      "gloss": "Girmamãwa"
+    },
+    {
+      "surface": "כְּבוֹד",
+      "gloss": "cikinrin da'imar da tã yalwa"
+    },
+    {
+      "surface": "הוֹדֶךָ",
+      "gloss": "girmanƙãwa ta"
+    },
+    {
+      "surface": "וְדִבְרֵי",
+      "gloss": "da kalmomin"
+    },
+    {
+      "surface": "נִפְלְאוֹתֶיךָ",
+      "gloss": "abin da ke fita daga bãkinta na daban-daban"
+    },
+    {
+      "surface": "אָשִׂיחָה",
+      "gloss": "zan yi tunãni a kansu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:57:26.749286525Z",
+  "model": "glm-5.2"
+}

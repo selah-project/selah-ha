@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 2:15",
+  "book": "ruth",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma ta tashi don ta tara, kuma Boaz ya umarci ⟨את⟩ samaransa, yana cewa, \"Haka kuma tsakanin gungaren take tara, kuma kada ku raina ta.\"",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "Kuma ta tashi"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "don ta tara"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "kuma ya umarci"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samaransa"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "samaransa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Haka kuma"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "העמרים",
+      "gloss": "gungaren"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "take tara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma kada"
+    },
+    {
+      "surface": "תכלימוה",
+      "gloss": "ku raina ta"
+    }
+  ],
+  "timestamp": "2026-08-12T22:31:03.574419474Z",
+  "model": "glm-5.2"
+}

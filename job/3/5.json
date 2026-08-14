@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 3:5",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Ḍuhu da duhu mai-mutuwa su ɓāgu shi, girgije ta zauna a kansa, abubuwan da ke yi wa rana duhu su tsorace shi.",
+  "tokens": [
+    {
+      "surface": "יִגְאָלֻ֡הוּ",
+      "gloss": "su ɓāgu shi"
+    },
+    {
+      "surface": "חֹ֣שֶׁךְ",
+      "gloss": "duhu"
+    },
+    {
+      "surface": "וְ֭צַלְמָוֶת",
+      "gloss": "da duhu mai-mutuwa"
+    },
+    {
+      "surface": "תִּשְׁכָּן",
+      "gloss": "ta zauna"
+    },
+    {
+      "surface": "עָלָ֣יו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "עֲנָנָ֑ה",
+      "gloss": "girgije"
+    },
+    {
+      "surface": "יְ֝בַעֲתֻ֗הוּ",
+      "gloss": "su tsorace shi"
+    },
+    {
+      "surface": "כִּֽמְרִ֥ירֵי",
+      "gloss": "abubuwan da ke yi wa ... duhu"
+    },
+    {
+      "surface": "יֽוֹם",
+      "gloss": "rana"
+    }
+  ],
+  "timestamp": "2026-08-13T02:31:01.845304572Z",
+  "model": "glm-5.2"
+}

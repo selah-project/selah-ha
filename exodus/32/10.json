@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Saboda haka, ka bar ni, ka bar fushī ya ƙaru a kansu, in lāše su, in kuma mayar da kai zuwa ga wata al'umma babba.\"",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Saboda haka"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "ka bar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ka bar ya ƙaru"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "fushī"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "a kansu"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "in lāše su"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "in kuma mayar"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ kai",
+      "marks": "zuwa ga wata al'umma babba"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "zuwa ga wata al'umma"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "babba"
+    }
+  ],
+  "timestamp": "2026-08-12T01:25:50.068727604Z",
+  "model": "glm-5.2"
+}

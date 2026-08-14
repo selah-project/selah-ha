@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Ka tuna ⟨את⟩ abin da Yahweh, Elohim nka, ya yi wa Miryam, a hanya, a lokacin da kuke fita daga Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "זָכ֕וֹר",
+      "gloss": "Ka tuna"
+    },
+    {
+      "surface": "אֵ֧ת",
+      "gloss": "⟨את⟩",
+      "marks": "abin da"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "עָשָׂ֛ה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶ֖יךָ",
+      "gloss": "Elohim nka"
+    },
+    {
+      "surface": "לְמִרְיָ֑ם",
+      "gloss": "wa Miryam"
+    },
+    {
+      "surface": "בַּדֶּ֖רֶךְ",
+      "gloss": "a hanya"
+    },
+    {
+      "surface": "בְּצֵאתְכֶ֥ם",
+      "gloss": "a lokacin da kuke fita"
+    },
+    {
+      "surface": "מִמִּצְרָֽיִם",
+      "gloss": "daga Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T05:37:17.692464001Z",
+  "model": "glm-5.2"
+}

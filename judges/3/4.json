@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ⟨suka kasance⟩ don a gwada ta gare su ⟨את⟩ Yisra'el, don a san ko za su saurari ⟨את⟩ umarnin Yahweh wanda Ya umurci ⟨את⟩ iyayensu ta hannun Moshe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Kuma"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "don a gwada"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ta gare su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "don a san"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "ko za su saurari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umarnin"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "umarnin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "Ya umurci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyayensu"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "iyayensu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ta hannun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-12T07:12:28.716033413Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 12:3",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kai kuwa, Yahweh, ka san ni; ka gani ni, ka gwada zuciyata ⟨a tare da⟩ ka. Ka tsage su dabam kamar tunkiya ⟨don⟩ yanka, ka keɓe su ⟨don⟩ ranar kashewa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kai kuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "ka san ni"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "ka gani ni"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "ka gwada"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ a tare da ka"
+    },
+    {
+      "surface": "התקם",
+      "gloss": "Ka tsage su"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kamar tunkiya"
+    },
+    {
+      "surface": "לטבחה",
+      "gloss": "don yanka"
+    },
+    {
+      "surface": "והקדשם",
+      "gloss": "ka keɓe su"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "don ranar"
+    },
+    {
+      "surface": "הרגה",
+      "gloss": "kashewa"
+    }
+  ],
+  "timestamp": "2026-08-12T15:18:10.975291621Z",
+  "model": "glm-5.2"
+}

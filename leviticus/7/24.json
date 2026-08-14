@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kitse na gawa da kitse na dabbobin da aka caccimã za a iya amfani da shi don kowane aiki, amma ku ci ba za ku ci shi ba.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "Kitse"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "na gawa"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "da kitse"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "na dabbobin da aka caccimã"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "za a iya amfani da shi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "don kowane"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "aiki"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "amma ku ci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "za ku ci shi ba"
+    }
+  ],
+  "timestamp": "2026-08-12T01:47:53.993106708Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma Dawid ya ce wa Evyatar koƙen, ɗan Aƙimelek, \"Kawo min ⟨don⟩ efod.\" Kuma Evyatar ya kawo ⟨את⟩ efod ⟨don⟩ Dawid.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "koƙen"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Aƙimelek"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "kawo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na roƙa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "kuma ya kawo"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨don⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-12T09:40:01.547732480Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 89:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Kai ka murƙushe Rahab kamar wanda aka kashe; da ƙarfin hannunka ka watse maƙiyanka.",
+  "tokens": [
+    {
+      "surface": "אַתָּ֤ה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "דִכִּ֣אתָ",
+      "gloss": "ka murƙushe"
+    },
+    {
+      "surface": "כֶחָלָ֣ל",
+      "gloss": "kamar wanda aka kashe"
+    },
+    {
+      "surface": "רָ֑הַב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "בִּזְר֥וֹעַ",
+      "gloss": "da hannun"
+    },
+    {
+      "surface": "עֻ֝זְּךָ֗",
+      "gloss": "ƙarfinka"
+    },
+    {
+      "surface": "פִּזַּ֥רְתָּ",
+      "gloss": "ka watse"
+    },
+    {
+      "surface": "אוֹיְבֶֽיךָ",
+      "gloss": "maƙiyanka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:17:08.250993466Z",
+  "model": "glm-5.2"
+}

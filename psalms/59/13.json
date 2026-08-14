@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 59,
+  "translation": "Laifin bakinsu — maganar leɓunansu — ⟨kuma⟩ a kama su cikin girman kai, kuma game da la'antar kuma ƙaryar ⟨da⟩ suke fada.",
+  "tokens": [
+    {
+      "surface": "חַטַּאת",
+      "gloss": "laifin"
+    },
+    {
+      "surface": "פִּ֗ימוֹ",
+      "gloss": "bakinsu"
+    },
+    {
+      "surface": "דְּֽבַר",
+      "gloss": "maganar"
+    },
+    {
+      "surface": "שְׂפָ֫תֵ֥ימוֹ",
+      "gloss": "leɓunansu"
+    },
+    {
+      "surface": "וְיִלָּכְד֥וּ",
+      "gloss": "kuma a kama su"
+    },
+    {
+      "surface": "בִגְאוֹנָ֑ם",
+      "gloss": "cikin girman kai"
+    },
+    {
+      "surface": "וּמֵאָלָ֖ה",
+      "gloss": "kuma game da la'antar"
+    },
+    {
+      "surface": "וּמִכַּ֣חַשׁ",
+      "gloss": "kuma ƙaryar"
+    },
+    {
+      "surface": "יְסַפֵּֽרוּ",
+      "gloss": "suke fada"
+    }
+  ],
+  "timestamp": "2026-08-12T19:54:29.727397317Z",
+  "model": "glm-5.2"
+}

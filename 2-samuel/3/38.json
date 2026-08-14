@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 3:38",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma sarki ya ce wa bãyawansa, \"Bã zã ku san ba cewa shugaba kuma babban mutum ya faɗi a yau ⟨a cikin⟩ Isra'ila?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bãyawansa"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Bã zã ku san ba"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "⟨ku san⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "shugaba"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "kuma babban mutum"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ya faɗi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "a yau"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨wannan⟩"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "a cikin Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T09:50:24.108979245Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "kuma kohens ya kusantar da ita ⟨את⟩, kuma ya tsayar da ita gaban Yahweh",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "kuma ya kusantar da"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ita"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohens"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "kuma ya tsayar da"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T03:34:43.819688760Z",
+  "model": "glm-5.2"
+}

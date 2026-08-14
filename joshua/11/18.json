@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kwana da yawa Yehoshua ⟨ne⟩ ya yi ⟨את⟩ dukkan waɗannan sarakuna ⟨yaƙin⟩ yaki.",
+  "tokens": [
+    {
+      "surface": "יָמִ֣ים",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "רַבִּ֗ים",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "עָשָׂ֧ה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "יְהוֹשֻׁ֛עַ",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הַמְּלָכִ֥ים",
+      "gloss": "sarakuna"
+    },
+    {
+      "surface": "הָאֵ֖לֶּה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "מִלְחָמָֽה",
+      "gloss": "yaki"
+    }
+  ],
+  "timestamp": "2026-08-12T06:36:07.512173755Z",
+  "model": "glm-5.2"
+}

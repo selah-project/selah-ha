@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma za ka haɗa ⟨את⟩ guda biyar na ɗakuna su kaɗan, kuma ⟨את⟩ guda shida na ɗakuna su kaɗan, kuma za ka nade ⟨את⟩ ɗakin da shida zuwa gaban fuskar ⟨al⟩ tadı.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "kuma za ka haɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guda biyar na ɗakuna"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "guda biyar"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "na ɗakuna"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "su kaɗan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "guda shida na ɗakuna"
+    },
+    {
+      "surface": "שש",
+      "gloss": "guda shida"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "na ɗakuna"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "su kaɗan"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "kuma za ka nade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗakin da shida"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "ɗakin"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "da shida"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa gaban"
+    },
+    {
+      "surface": "מול",
+      "gloss": "fuskar"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨al⟩ tadı"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ta dā"
+    }
+  ],
+  "timestamp": "2026-08-12T01:07:36.749864806Z",
+  "model": "glm-5.2"
+}

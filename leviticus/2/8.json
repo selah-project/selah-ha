@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma ka kawo ⟨את⟩ minchan da ake yi daga waɗannan ga Yahweh, ka kusantar da ita ga kohen, kuma ya kusantar da ita ga mashabci.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Kuma ka kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minchan"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ake yi"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "daga waɗannan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "ka kusantar da ita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "kuma ya kusantar da ita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mashabci"
+    }
+  ],
+  "timestamp": "2026-08-12T01:43:11.850784681Z",
+  "model": "glm-5.2"
+}

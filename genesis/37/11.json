@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma ɗan'uwansa ⟨sun⟩ kishi shi, amma ubansa ⟨ya⟩ kiyaye ⟨את⟩ maganar.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "Kuma ɗan'uwansa ⟨sun⟩ kishi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ɗan'uwansa"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "amma ubansa"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "⟨ya⟩ kiyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maganar"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "maganar"
+    }
+  ],
+  "timestamp": "2026-08-12T00:02:47.937535658Z",
+  "model": "glm-5.2"
+}

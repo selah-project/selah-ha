@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma mutanen Sheba sun kai hari, suka kama su, ⟨kuma⟩ ⟨את⟩ bayi suka duka da bakin takobi; kuma ni kaɗai ne kawai na tsira don in faɗa maka.\"",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "Kuma sun kai hari"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "mutanen Sheba"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "suka kama su"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bayi"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "bayi"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "suka duka"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "da bakin"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "takobi"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "kuma na tsira"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kawai"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "kaɗai ne"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "don in faɗa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    }
+  ],
+  "timestamp": "2026-08-12T21:40:08.669891732Z",
+  "model": "glm-5.2"
+}

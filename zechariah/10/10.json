@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 10:10",
+  "book": "zechariah",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma zan mayar da su daga ƙasar Mitsrayim, kuma daga Ashur zan taro su; kuma zuwa ƙasar Gilʻad da Levanon zan kai su, kuma ba za a sami ⟨wuri⟩ a gare su ba.",
+  "tokens": [
+    {
+      "surface": "והשיבותים",
+      "gloss": "kuma zan mayar da su"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומאשור",
+      "gloss": "kuma daga Ashur"
+    },
+    {
+      "surface": "אקבצם",
+      "gloss": "zan taro su"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuma zuwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilʻad"
+    },
+    {
+      "surface": "ולבנון",
+      "gloss": "kuma Levanon"
+    },
+    {
+      "surface": "אביאם",
+      "gloss": "zan kai su"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "za a sami"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a gare su"
+    }
+  ],
+  "timestamp": "2026-08-12T19:05:30.761045945Z",
+  "model": "glm-5.2"
+}

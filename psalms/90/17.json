@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 90,
+  "translation": "Kuma jin daɗin Adonai Elohim mu ya kasance a kan mu, kuma aikin hannayen mu, ka daidaita shi a kan mu; ⟨ee⟩, aikin hannayen mu, ka daidaita ⟨shi⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ya kasance"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "jin daɗi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim mu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "a kan mu"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "kuma aikin"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "hannayen mu"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "ka daidaita shi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "a kan mu"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "⟨ee⟩, aikin"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "hannayen mu"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "ka daidaita ⟨shi⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:18:56.030749169Z",
+  "model": "glm-5.2"
+}

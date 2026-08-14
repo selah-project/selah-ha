@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 8:10",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Ko da su, lalle su suka ɗibo ⟨a cikin⟩ al'ummomin; yanzu Ni zan tara su, kuma suka fara raguwa ⟨da kaɗan⟩ daga gagarumin ɗaukar sarki ⟨na⟩ shugabanni.",
+  "tokens": [
+    {
+      "surface": "גַּ֛ם",
+      "gloss": "ko da"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "lalle"
+    },
+    {
+      "surface": "יִתְנ֥וּ",
+      "gloss": "suka ɗibo"
+    },
+    {
+      "surface": "בַגּוֹיִ֖ם",
+      "gloss": "⟨a cikin⟩ al'ummomin"
+    },
+    {
+      "surface": "עַתָּ֣ה",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "אֲקַבְּצֵ֑ם",
+      "gloss": "Ni zan tara su"
+    },
+    {
+      "surface": "וַיָּחֵ֣לּוּ",
+      "gloss": "suka fara"
+    },
+    {
+      "surface": "מְּעָ֔ט",
+      "gloss": "⟨da kaɗan⟩"
+    },
+    {
+      "surface": "מִמַּשָּׂ֖א",
+      "gloss": "daga gagarumin ɗaukar"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "שָׂרִֽים",
+      "gloss": "⟨na⟩ shugabanni"
+    }
+  ],
+  "timestamp": "2026-08-12T18:15:24.526823635Z",
+  "model": "glm-5.2"
+}

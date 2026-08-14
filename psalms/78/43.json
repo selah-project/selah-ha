@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "idan Ya sanya alõmunSa a cikin ƙasar Mitsrayim, da ãjĩbãbunSa a cikin filin Tsoan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "idan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Ya sanya"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "a cikin ƙasar Mitsrayim"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "alõmunSa"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "da ãjĩbãbunSa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a cikin filin"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoan"
+    }
+  ],
+  "timestamp": "2026-08-12T20:09:16.016117855Z",
+  "model": "glm-5.2"
+}

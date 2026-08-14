@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "\"Mutanenka masu sa'a ⟨ne⟩, kuma bayinka masu sa'a ⟨ne⟩, waɗannan masu tsayawa a gaba kullum, suna jin ⟨את⟩ hikiminka!\"",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "masu sa'a"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "Mutanenka"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "kuma masu sa'a"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "bayinka"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "masu tsayawa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "a gaba"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kullum"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "suna jin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hikiminka"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "hikiminka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:44:30.045074343Z",
+  "model": "glm-5.2"
+}

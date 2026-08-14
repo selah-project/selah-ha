@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 7:22",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma a kan kanan ⟨ginshiƙan⟩ akwai aikin shiriya, kuma aikin ginshiƙan ya kammala.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "kuma a kan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "⟨ginshiƙan⟩"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "shiriya"
+    },
+    {
+      "surface": "ותתם",
+      "gloss": "kuma ya kammala"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ginshiƙan"
+    }
+  ],
+  "timestamp": "2026-08-13T02:03:47.018861812Z",
+  "model": "glm-5.2"
+}

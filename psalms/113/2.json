@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 113,
+  "translation": "Sunan Yahweh ya kasance ⟨ce⟩ mai albarka, daga yanzu har har abada.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sunan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "mai albarka"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "daga yanzu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-12T20:35:58.097429923Z",
+  "model": "glm-5.2"
+}

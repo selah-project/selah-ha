@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 147,
+  "translation": "⟨Shi⟩ yana waraka ga masa rajin zuciya, kuma yana dama raunukansu.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "yana waraka"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "ga masa rajin"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciya"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "kuma yana dama"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "raunukansu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:59:11.686163751Z",
+  "model": "glm-5.2"
+}

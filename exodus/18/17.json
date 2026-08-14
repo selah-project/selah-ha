@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma ɗan'uwan mahaifin matar Moshe ya ce masa, \"Ba shi da kyau ⟨ne⟩ abin da kake yi.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ɗan'uwan mahaifin matar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kyau"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "abin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ke yi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:56:06.786035306Z",
+  "model": "glm-5.2"
+}

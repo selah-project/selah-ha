@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 26:32",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Da ɗan'uwansa, ya'ya na ƙarfi ⟨su ne⟩ dubu biyu da ɗari bakwai, shugabannin gidajen ubanni, Dawida sarki ya naɗa su a kan ɗan Re'uveni da Gadi da rabin kabilu na Menashe, don kowane al'amar na Elohim da al'amar na sarki.",
+  "tokens": [
+    {
+      "surface": "וְאֶחָ֣יו",
+      "gloss": "da ɗan'uwansa"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "ya'ya"
+    },
+    {
+      "surface": "חַ֗יִל",
+      "gloss": "na ƙarfi"
+    },
+    {
+      "surface": "אַלְפַּ֛יִם",
+      "gloss": "dubu biyu"
+    },
+    {
+      "surface": "וּשְׁבַ֥ע",
+      "gloss": "da shida"
+    },
+    {
+      "surface": "מֵא֖וֹת",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "רָאשֵׁ֣י",
+      "gloss": "shugabannin"
+    },
+    {
+      "surface": "הָאָב֑וֹת",
+      "gloss": "gidajen ubanni"
+    },
+    {
+      "surface": "וַיַּפְקִידֵ֞ם",
+      "gloss": "ya naɗa su"
+    },
+    {
+      "surface": "דָּוִ֣יד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "הַמֶּ֗לֶךְ",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הָראוּבֵנִ֤י",
+      "gloss": "ɗan Re'uveni"
+    },
+    {
+      "surface": "וְהַגָּדִי֙",
+      "gloss": "da Gadi"
+    },
+    {
+      "surface": "וַחֲצִי֙",
+      "gloss": "da rabin"
+    },
+    {
+      "surface": "שֵׁ֣בֶט",
+      "gloss": "kabila"
+    },
+    {
+      "surface": "הַֽמְנַשִּׁ֔י",
+      "gloss": "na Menashe"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "don kowane"
+    },
+    {
+      "surface": "דְּבַ֥ר",
+      "gloss": "al'amar"
+    },
+    {
+      "surface": "הָאֱלֹהִ֖ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וּדְבַ֥ר",
+      "gloss": "da al'amar"
+    },
+    {
+      "surface": "הַמֶּֽלֶךְ",
+      "gloss": "sarki"
+    }
+  ],
+  "timestamp": "2026-08-13T02:42:01.367464898Z",
+  "model": "glm-5.2"
+}

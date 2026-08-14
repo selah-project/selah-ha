@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 86,
+  "translation": "Domin kai, Adonai, kai ⟨ne⟩ mai kyau kuma mai gafara, kuma mai yawan chesed ga duk waɗanda suke kiran ka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "kuma mai gafara"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "kuma mai yawa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ga duka"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "waɗanda suke kiran ka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:16:37.197849331Z",
+  "model": "glm-5.2"
+}

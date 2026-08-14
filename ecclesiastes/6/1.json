@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Akwai wata cuta ⟨ce⟩ da na gani a ƙarƙashin rana, kuma tana da yawa ⟨ne⟩ a kan mutum.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "akwai"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "cuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "na gani"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a ƙarƙashin"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rana"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "kuma tana da yawa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ce⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mutum"
+    }
+  ],
+  "timestamp": "2026-08-12T22:48:51.713761062Z",
+  "model": "glm-5.2"
+}

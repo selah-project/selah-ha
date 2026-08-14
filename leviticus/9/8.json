@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Sai Aharon ya kusanci bagadan, ya yanka ⟨את⟩ marhunabin zunubin da nasa.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Sai ya kusanci"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(zuwa)"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bagadan"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "ya yanka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marhunabin zunubin"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "marhunabi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "zunubin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nasa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:01:27.076760802Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "⟨את⟩ daga fari na ɗan na ɓangaren ʾYisraʾel, ya ɗauki ⟨את⟩ azurfar — biyar da sittin da ɗari uku da dubu ɗaya — bisa sikeli na tsarkin.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ daga"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "fari na ɗan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓangaren"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ʾYisraʾel"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ya ɗauki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azurfa"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "azurfa"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "biyar"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "da sittin"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "da uku"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "da dubu"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "bisa sikeli"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "na tsarkin"
+    }
+  ],
+  "timestamp": "2026-08-12T03:14:20.382276183Z",
+  "model": "glm-5.2"
+}

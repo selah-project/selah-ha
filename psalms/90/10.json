@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 90,
+  "translation": "Kwannan shekarunmu ⟨a cikinsu⟩ saba'in ⟨ne⟩ shekara, kuma idan ⟨a cikin⟩ ƙarfi, tamanin shekara; kuma girman kansu wahala da annifiya ⟨ne⟩, domin an fiye da sauri, kuma muka tashi mu tafi.",
+  "tokens": [
+    {
+      "surface": "יְמֵֽי",
+      "gloss": "Kwannan"
+    },
+    {
+      "surface": "שְׁנוֹתֵ֨ינוּ",
+      "gloss": "shekarunmu"
+    },
+    {
+      "surface": "בָהֶ֥ם",
+      "gloss": "⟨a cikinsu⟩"
+    },
+    {
+      "surface": "שִׁבְעִ֪ים",
+      "gloss": "saba'in"
+    },
+    {
+      "surface": "שָׁנָ֡ה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "וְאִ֤ם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "בִּגְבוּרֹ֨ת",
+      "gloss": "⟨a cikin⟩ ƙarfi"
+    },
+    {
+      "surface": "שְׁמ֘וֹנִ֤ים",
+      "gloss": "tamanin"
+    },
+    {
+      "surface": "שָׁנָ֗ה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "וְ֭רָהְבָּם",
+      "gloss": "kuma girman kansu"
+    },
+    {
+      "surface": "עָמָ֣ל",
+      "gloss": "wahala"
+    },
+    {
+      "surface": "וָאָ֑וֶן",
+      "gloss": "da annifiya"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "גָ֥ז",
+      "gloss": "an fiye da"
+    },
+    {
+      "surface": "חִ֝֗ישׁ",
+      "gloss": "da sauri"
+    },
+    {
+      "surface": "וַנָּעֻֽפָה",
+      "gloss": "kuma muka tashi mu tafi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:19:38.934545893Z",
+  "model": "glm-5.2"
+}

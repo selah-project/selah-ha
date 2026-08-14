@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma su kada su zo su duba, a lokacin da ake rufe ⟨את⟩ tsarkin, su kuma su mutu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kuma su kada su"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "zo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "su duba"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "a lokacin da ake rufe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsarkin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tsarkin"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "su kuma su mutu"
+    }
+  ],
+  "timestamp": "2026-08-12T03:20:38.351090410Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 13:17",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma ya zo a fashe, a lokacin da Paroh ya tura ⟨את⟩ mutanen, Elohim bai jagorance su ta hanyar ƙasar Pelishtawa ba, domin kusa ⟨ne⟩; domin Elohim ya ce, sai mutanen su yi nadama idan sun ga yaki, su kuma su koma Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya zo a fashe"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "a lokacin da ya tura"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bai"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "jagorance su"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ta hanyar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "kusa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "sai"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "su yi nadama"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "idan sun ga"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "yaki"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "su kuma su koma"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:47:50.183703818Z",
+  "model": "glm-5.2"
+}

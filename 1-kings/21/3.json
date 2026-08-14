@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma Navot ya ce wa Ach'av, \"Tsira daga wannan a gare ni, daga Yahweh, daga bã ni ⟨את⟩ gado na ubannina, gare ka.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ach'av"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Tsira daga wannan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a gare ni"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "daga Yahweh"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "daga bã ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gado"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "gado"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "na ubannina"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gare ka"
+    }
+  ],
+  "timestamp": "2026-08-12T11:44:39.989489867Z",
+  "model": "glm-5.2"
+}

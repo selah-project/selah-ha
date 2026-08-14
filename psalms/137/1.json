@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 137,
+  "translation": "A kan koguna na Bavel, can muka zauna, mun kuma kuka, a lokacin da muka tuna ⟨את⟩ Tsiyon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "A kan"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "koguna"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "na Bavel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "muka zauna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mun kuma"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "a lokacin da muka tuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-12T20:56:06.166729737Z",
+  "model": "glm-5.2"
+}

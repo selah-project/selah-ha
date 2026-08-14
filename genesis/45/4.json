@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Sai Yosef ya ce ga 'yan'uwansa, \"Ku zo kusa da ni, ina roƙonku!\" Su kuma suka zo kusa. Sai ya ce, \"Ni ne Yosef ɗan'uwanku, wanda kuka sayar da shi ⟨את⟩ zuwa Mitsrayim.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sai ya ce"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "'yan'uwansa"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "ku zo kusa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ina roƙonku"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "da ni"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "su kuma suka zo kusa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sai ya ce"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ɗan'uwanku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "kuka sayar da shi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "zuwa Mitsrayim"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:23:08.494581324Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "da ⟨את⟩ Haƙiwi, da ⟨את⟩ Ha'arƙi, da ⟨את⟩ Hasini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Haƙiwi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Haƙiwi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Ha'arƙi"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Ha'arƙi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Hasini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Hasini"
+    }
+  ],
+  "timestamp": "2026-08-13T01:44:26.760110109Z",
+  "model": "glm-5.2"
+}

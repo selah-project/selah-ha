@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma girman kai na Yisra'el ya amsa ⟨a kansa⟩ a gabansa, kuma ba su koma ga Yahweh, Elohim nasu, kuma ba su nemo Shǐ a cikin dukkan wad̃annan.",
+  "tokens": [
+    {
+      "surface": "וְעָנָה",
+      "gloss": "kuma ya amsa"
+    },
+    {
+      "surface": "גְאוֹן",
+      "gloss": "girman kai"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "na Yisra'el"
+    },
+    {
+      "surface": "בְּפָנָיו",
+      "gloss": "a gabansa"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "שָׁבוּ",
+      "gloss": "su koma"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵיהֶם",
+      "gloss": "Elohim nasu"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "בִקְשֻׁהוּ",
+      "gloss": "su nemo Shǐ"
+    },
+    {
+      "surface": "בְכָל",
+      "gloss": "a cikin dukkan"
+    },
+    {
+      "surface": "זֹאת",
+      "gloss": "wad̃annan"
+    }
+  ],
+  "timestamp": "2026-08-12T18:15:00.467648057Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Sai Farʿo ya ji ⟨את⟩ abin nan, ⟨kuma⟩ ya nemi kashe ⟨את⟩ Musa. Sai Musa ya gudu daga gaban Farʿo, ⟨kuma⟩ ya zauna a ƙasar Midyan, kuma ⟨ya⟩ zauna a rijiyar.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ya ji"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farʿo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin nan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "abin nan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "⟨kuma⟩ ya nemi"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "kashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Musa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ya gudu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farʿo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "⟨kuma⟩ ya zauna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kuma ⟨ya⟩ zauna"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "rijiyar"
+    }
+  ],
+  "timestamp": "2026-08-13T01:45:07.548109864Z",
+  "model": "glm-5.2"
+}

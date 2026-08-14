@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 58,
+  "translation": "Ga shugaban waƙa. \"Kada ka halaka.\" Ga Dauda. Miktam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga shugaban waƙa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ka halaka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Ga Dauda"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    }
+  ],
+  "timestamp": "2026-08-12T19:53:54.373327506Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma sarauniyar Sheba ta ga ⟨את⟩ dukan hikimar Shelomoh, da ⟨sai⟩ gidan da ya gina.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Kuma ta ga"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "sarauniyar"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hikimar"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "da gidan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ya gina"
+    }
+  ],
+  "timestamp": "2026-08-12T11:14:35.458931470Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma ya sha daga giyar, kuma ya maye, kuma ya kwance a cikin ⟨a⟩ tantinsa.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "kuma ya sha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "היין",
+      "gloss": "giyar"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "kuma ya maye"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "kuma ya kwance"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "a cikin"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "tantinsa"
+    }
+  ],
+  "timestamp": "2026-08-13T01:43:52.302749983Z",
+  "model": "glm-5.2"
+}

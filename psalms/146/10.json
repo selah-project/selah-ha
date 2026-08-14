@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 146,
+  "translation": "Yahweh zai yi sarauta har abada; Elohiminki, ya Zhiyôn, tsaraɗa zuwa tsara. Ku yi gōdōya ga Yah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "zai yi sarauta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminki"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ya Zhiyôn"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "tsaraɗa"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "zuwa tsara"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Ku yi gōdōya"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ga Yah"
+    }
+  ],
+  "timestamp": "2026-08-12T20:56:45.888486627Z",
+  "model": "glm-5.2"
+}

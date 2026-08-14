@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Sunan mai kyau ⟨ne⟩ mafi kyau ⟨a⟩ man shanu, kuma ran mutuwa ⟨ce mafi kyau⟩ fiye da ran haifuwa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sunan"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "fiye da"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "man shanu"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "kuma ran"
+    },
+    {
+      "surface": "המות",
+      "gloss": "mutuwa"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "fiye da ran"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "haifuwa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:34:47.997397726Z",
+  "model": "glm-5.2"
+}

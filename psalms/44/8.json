@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Domi ka cece mu daga maƙiyam mu, kuma masu ƙin mu ka raɗa musu suna.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Domi"
+    },
+    {
+      "surface": "הוֹשַׁעְתָּנוּ",
+      "gloss": "ka cece mu"
+    },
+    {
+      "surface": "מִצָּרֵינוּ",
+      "gloss": "daga maƙiyam mu"
+    },
+    {
+      "surface": "וּמְשַׂנְאֵינוּ",
+      "gloss": "kuma masu ƙin mu"
+    },
+    {
+      "surface": "הֱבִישֹׁתָ",
+      "gloss": "ka raɗa musu suna"
+    }
+  ],
+  "timestamp": "2026-08-12T19:43:36.451319559Z",
+  "model": "glm-5.2"
+}

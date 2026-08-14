@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ⟨Ya⟩ faɗa min: Ya ɗan adam, ⟨את⟩ dukan kalmomina waɗanda zan faɗa maka, ka karɓa cikin zuciyarka, kuma da kunnuwanka ka saurare.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma Ya faɗa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ya ɗan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukan kalmomina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalmomina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "zan faɗa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ka karɓa"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "cikin zuciyarka"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "kuma da kunnuwanka"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ka saurare"
+    }
+  ],
+  "timestamp": "2026-08-12T16:50:57.897084805Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 1:11",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma Elohim ya ce, \"ƙasa ta haiƙar ciyayi, tsire-tsire masu yada iri, da itatuwan 'ya'yan itace masu yin 'ya'yan itace a ccWN, wanda irinsa yana cikinsa, a kan ƙasa,\" kuma haka ya kasance.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תדשא",
+      "gloss": "ta haiƙar ciyayi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ciyayi"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "tsire-tsire"
+    },
+    {
+      "surface": "מזריע",
+      "gloss": "masu yada iri"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "iri"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "itatuwan"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "'ya'yan itace"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "masu yin"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "'ya'yan itace"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "a ccWN"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "irinsa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yana cikinsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    }
+  ],
+  "timestamp": "2026-08-11T23:19:28.542290146Z",
+  "model": "glm-5.2"
+}

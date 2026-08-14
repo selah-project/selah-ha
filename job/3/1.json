@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Bayan haka, Iyob ya buɗe ⟨את⟩ bakinsa, kuma ya la'anci ⟨את⟩ ranarsa.",
+  "tokens": [
+    {
+      "surface": "אַחֲרֵי",
+      "gloss": "Bayan"
+    },
+    {
+      "surface": "כֵ֗ן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "פָּתַ֤ח",
+      "gloss": "ya buɗe"
+    },
+    {
+      "surface": "אִיּוֹב֙",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "bakinsa"
+    },
+    {
+      "surface": "פִּ֔יהוּ",
+      "gloss": "bakinsa"
+    },
+    {
+      "surface": "וַיְקַלֵּ֖ל",
+      "gloss": "kuma ya la'anci"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ranarsa"
+    },
+    {
+      "surface": "יוֹמֽוֹ",
+      "gloss": "ranarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T21:39:14.869912174Z",
+  "model": "glm-5.2"
+}

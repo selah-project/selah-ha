@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Idan kuna tafiya cikin dokokina, kuma ⟨את⟩ umarnaina kuka kiyaye, kuma kuka aikata ⟨את⟩ su,",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "בְּחֻקֹּתַ֖י",
+      "gloss": "cikin dokokina"
+    },
+    {
+      "surface": "תֵּלֵ֑כוּ",
+      "gloss": "kuna tafiya"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "umarnaina"
+    },
+    {
+      "surface": "מִצְוֺתַ֣י",
+      "gloss": "umarnaina"
+    },
+    {
+      "surface": "תִּשְׁמְר֔וּ",
+      "gloss": "kuka kiyaye"
+    },
+    {
+      "surface": "וַעֲשִׂיתֶ֖ם",
+      "gloss": "kuma kuka aikata"
+    },
+    {
+      "surface": "אֹתָֽם",
+      "gloss": "⟨את⟩ su"
+    }
+  ],
+  "timestamp": "2026-08-12T02:59:06.413996237Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma Dawida ya tsufa ya cika kwanaki, sa'an nan ya sa ⟨את⟩ Shelomo ɗan'insa ya riƙe mulki a kan Isra'ila.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Kuma Dawida"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ya tsufa"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ya cika"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "sa'an nan ya sa ya riƙe mulki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗan'insa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-13T00:26:18.362274919Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma da safe, ku ga ⟨אֵת⟩ girman Yahweh a saurarinsa ⟨אֵת⟩ kuka-kukanku a kan Yahweh; fa mu muke ne, cewa kuke kuka-kuka a kan mu?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "kuma da safe"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "ku ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨אֵת⟩",
+      "marks": "girman Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "girman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "a saurarinsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨אֵת⟩",
+      "marks": "kuka-kukanku"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "kuka-kukanku"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "fa mu mune"
+    },
+    {
+      "surface": "מה",
+      "gloss": "me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "kuke kuka-kuka"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "a kan mu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:57:06.861315898Z",
+  "model": "glm-5.2"
+}

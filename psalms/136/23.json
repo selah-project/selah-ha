@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 136,
+  "translation": "⟨Shi⟩ wanda ya tuna da mu a cikin ƙasƙancenmu, domin har abada chesed ⟨nasa⟩.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "a cikin ƙasƙancenmu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "⟨Shi⟩ wanda ya tuna da mu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed ⟨nasa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:52:28.491534752Z",
+  "model": "glm-5.2"
+}

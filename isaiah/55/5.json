@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 55:5",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 55,
+  "translation": "Ga shi, kabilar da ba ka sani ba za ka kira, kuma kabilar da ba ta san ka za ta gudu zuwa gare ka, don moriyar Yahweh, Elohiminka, da kuma Tsarkakken ⟨na⟩ Yisra'el — domin ya ƙawata ka.",
+  "tokens": [
+    {
+      "surface": "הֵ֣ן",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "גּ֤וֹי",
+      "gloss": "kabila"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תֵדַע֙",
+      "gloss": "ka sani"
+    },
+    {
+      "surface": "תִּקְרָ֔א",
+      "gloss": "za ka kira"
+    },
+    {
+      "surface": "וְג֥וֹי",
+      "gloss": "kuma kabila"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יְדָע֖וּךָ",
+      "gloss": "ta san ka"
+    },
+    {
+      "surface": "אֵלֶ֣יךָ",
+      "gloss": "zuwa gare ka"
+    },
+    {
+      "surface": "יָר֑וּצוּ",
+      "gloss": "za ta gudu"
+    },
+    {
+      "surface": "לְמַ֨עַן֙",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶ֔יךָ",
+      "gloss": "Elohiminka"
+    },
+    {
+      "surface": "וְלִקְד֥וֹשׁ",
+      "gloss": "da Tsarkakken"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "פֵאֲרָֽךָ",
+      "gloss": "ya ƙawata ka"
+    }
+  ],
+  "timestamp": "2026-08-12T14:27:07.622371845Z",
+  "model": "glm-5.2"
+}

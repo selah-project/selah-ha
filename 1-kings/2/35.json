@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 2:35",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma sarki ya naɗa ⟨את⟩ Benayahu ɗan Yehoyada maimakonsa a kan sojoji, kuma ⟨את⟩ Tsadok kohen sarki ya naɗa maimakon Ebyatar.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kuma ya naɗa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benayahu"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "maimakonsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "sojoji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya naɗa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "maimakon"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebyatar"
+    }
+  ],
+  "timestamp": "2026-08-12T10:53:51.666283524Z",
+  "model": "glm-5.2"
+}

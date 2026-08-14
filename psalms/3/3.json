@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Da yawa suna cewa game da raina, \"Babu buɗaɗɗen tsira ⟨a gare shi⟩ a cikin Elohim.\" Selah.",
+  "tokens": [
+    {
+      "surface": "רַבִּים֮",
+      "gloss": "Da yawa"
+    },
+    {
+      "surface": "אֹמְרִ֪ים",
+      "gloss": "suna cewa"
+    },
+    {
+      "surface": "לְנַ֫פְשִׁ֥י",
+      "gloss": "game da raina"
+    },
+    {
+      "surface": "אֵ֤ין",
+      "gloss": "Babu"
+    },
+    {
+      "surface": "יְֽשׁוּעָ֓תָה",
+      "gloss": "buɗaɗɗen tsira"
+    },
+    {
+      "surface": "לּ֬וֹ",
+      "gloss": "a gare shi"
+    },
+    {
+      "surface": "בֵֽאלֹהִ֬ים",
+      "gloss": "a cikin Elohim"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T19:15:17.780986740Z",
+  "model": "glm-5.2"
+}

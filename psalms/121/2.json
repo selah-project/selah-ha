@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 121,
+  "translation": "Taimakona daga Yahweh, wanda ya yi sama da ƙasa.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Taimakona"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "daga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wanda ya yi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "da ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:47:06.619803174Z",
+  "model": "glm-5.2"
+}

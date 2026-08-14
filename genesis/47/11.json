@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 47:11",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Kuma Yousufu ya zaunar da ⟨את⟩ uban-sa da ⟨את⟩ 'yan'uwan-sa, ya kuma musanya su riƙon-ƙasa a ƙasar Mitsrayim, a mafi kyawun ƙasar, a ƙasar Ra'amses, kamar yadda Farao ya umurci.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "Kuma ya zaunar da"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yousufu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uban-sa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uban-sa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "'yan'uwan-sa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "'yan'uwan-sa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ya kuma musanya su"
+    },
+    {
+      "surface": "להם",
+      "gloss": "su"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "riƙon-ƙasa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "במיטב",
+      "gloss": "a mafi kyawun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Ra'amses"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurci"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    }
+  ],
+  "timestamp": "2026-08-12T00:21:37.600091223Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 23:12",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Sai ya tsaya tsakiyar yankin ⟨gonar⟩, ya cece ta, ya buge ⟨את⟩ Filistawa; kuma Yahweh ya yi babban ceto.",
+  "tokens": [
+    {
+      "surface": "ויתיצב",
+      "gloss": "sai ya tsaya"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "tsakiyar"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "yankin ⟨gonar⟩"
+    },
+    {
+      "surface": "ויצילה",
+      "gloss": "ya cece ta"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ya buge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistawa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistawa"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "ceto"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "babban"
+    }
+  ],
+  "timestamp": "2026-08-12T10:45:21.056235653Z",
+  "model": "glm-5.2"
+}

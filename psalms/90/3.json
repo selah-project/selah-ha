@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 90,
+  "translation": "Kana mayar da mutum har ya koma ƙura, kuma Ka faɗa: \"Ku koma, ya 'ya'yan Adamu.\"",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "Kana mayar da"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har ya koma"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "ƙura"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "kuma Ka faɗa"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Ku koma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya 'ya'yan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:22:43.471583581Z",
+  "model": "glm-5.2"
+}

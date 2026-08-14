@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Sai ya ɗauki hannunSa ⟨a kansu⟩, don ya faɗa ⟨su⟩ a cikin jeji,",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Sai ya ɗauki"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hannunSa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨a kansu⟩"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "don ya faɗa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a cikin jeji"
+    }
+  ],
+  "timestamp": "2026-08-12T20:31:57.779244671Z",
+  "model": "glm-5.2"
+}

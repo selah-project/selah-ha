@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma suka yi haka, masu-taurari, da ɓoyayyensu, don su fitar ⟨את⟩ ƙwarin, amma ba su iya; kuma ⟨akwai⟩ ƙwarin cikin mutum da dabba.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Kuma suka yi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "masu-taurari"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "da ɓoyayyensu"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "don su fitar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙwarin"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "ƙwarin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "su iya"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "kuma ⟨akwai⟩"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "ƙwarin"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "cikin mutum"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "da dabba"
+    }
+  ],
+  "timestamp": "2026-08-12T00:40:36.622837976Z",
+  "model": "glm-5.2"
+}

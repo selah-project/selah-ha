@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "da ⟨את⟩ ḥasīdā, anāfā ⟨ce⟩ a cewar jinsinta, da ⟨את⟩ dūḫīpat da ⟨את⟩ ʿaṭallēp",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ḥasīdā"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "ḥasīdā"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "anāfā"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "a cewar jinsinta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dūḫīpat"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "dūḫīpat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ʿaṭallēp"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "ʿaṭallēp"
+    }
+  ],
+  "timestamp": "2026-08-12T02:04:18.983806402Z",
+  "model": "glm-5.2"
+}

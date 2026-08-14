@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 84,
+  "translation": "Suna tafiya daga ƙarfi zuwa ƙarfi, ⟨har⟩ a bayyana ga Elohim a Tsiyon.",
+  "tokens": [
+    {
+      "surface": "יֵ֭לְכוּ",
+      "gloss": "Suna tafiya"
+    },
+    {
+      "surface": "מֵחַ֣יִל",
+      "gloss": "daga ƙarfi"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "חָ֑יִל",
+      "gloss": "ƙarfi"
+    },
+    {
+      "surface": "יֵרָאֶ֖ה",
+      "gloss": "⟨har⟩ a bayyana"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אֱלֹהִ֣ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בְּצִיּֽוֹן",
+      "gloss": "a Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-12T20:15:30.116409948Z",
+  "model": "glm-5.2"
+}

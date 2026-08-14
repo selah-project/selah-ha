@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Na tsayar da Yahweh gabanina kullum; domin yana a dama ta ⟨ne⟩, ba zan girgiza ba.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "Na tsayar da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "gabanina"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kullum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "yana a dama ta"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "zan girgiza"
+    }
+  ],
+  "timestamp": "2026-08-12T19:22:03.321508459Z",
+  "model": "glm-5.2"
+}

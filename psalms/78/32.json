@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Duk da duka wannan sun yi laifi ⟨har⟩ yanzu, ba su yi imani ba da mu'ujizozinSa.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Duk da duka"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "sun yi laifi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨har⟩ yanzu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "su yi imani"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "da mu'ujizozinSa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:09:37.475901946Z",
+  "model": "glm-5.2"
+}

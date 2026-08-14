@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 18:46",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Ɓan ƙasashen waje za su ɓaci, kuma za su fake daga sansanoninsu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ɓan"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ƙasashen waje"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "za su ɓaci"
+    },
+    {
+      "surface": "ויחרגו",
+      "gloss": "kuma za su fake"
+    },
+    {
+      "surface": "ממסגרותיהם",
+      "gloss": "daga sansanoninsu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:24:37.438738032Z",
+  "model": "glm-5.2"
+}

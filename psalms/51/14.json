@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 51,
+  "translation": "Mayar mini murnar tsirarka, kuma ruhun nasiya ya riƙe ni.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "Mayar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mini"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "murnar"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "tsirarka"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "kuma ruhun"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "nasiya"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "ya riƙe ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:51:45.599242132Z",
+  "model": "glm-5.2"
+}

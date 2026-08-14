@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 1:2",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Adonai ya ba shi ⟨a hannunsa⟩ ⟨את⟩ Yehoyakim, sarkin Yehuda, da wani ɓangaren kayan aikin gidan Elohim, ya kuma kāwo su ƙasar Shinar, gidan gumakansa, ⟨kayan aikin⟩ kuma ya shigar da su cikin gidan taskar gumakansa.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "⟨a hannunsa⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoyakim"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומקצת",
+      "gloss": "da wani ɓangaren"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kayan aiki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "ya kuma kāwo su"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "gumakansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kayan aikin"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "⟨kayan aikin⟩"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "ya shigar da"
+    },
+    {
+      "surface": "בית",
+      "gloss": "cikin gidan"
+    },
+    {
+      "surface": "אוצר",
+      "gloss": "taskar"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "gumakansa"
+    }
+  ],
+  "timestamp": "2026-08-12T23:00:58.600086287Z",
+  "model": "glm-5.2"
+}

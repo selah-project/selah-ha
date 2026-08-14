@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 68,
+  "translation": "Dutse na Elohim, dutse na Bashan; dutse mai kololuwa, dutse na Bashan.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "dutse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dutse"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "na Bashan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dutse"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "mai kololuwa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dutse"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "na Bashan"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:27.350940048Z",
+  "model": "glm-5.2"
+}

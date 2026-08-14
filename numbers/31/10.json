@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Da ⟨את⟩ dukan garuruwansu a cikin mazauninsu, da ⟨את⟩ dukan katangomensu, sun ƙone da wuta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Da ⟨את⟩",
+      "marks": "dukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "garuruwansu"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "a cikin mazauninsu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "katangomensu"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "sun ƙone"
+    },
+    {
+      "surface": "באש",
+      "gloss": "da wuta"
+    }
+  ],
+  "timestamp": "2026-08-12T04:37:52.653334721Z",
+  "model": "glm-5.2"
+}

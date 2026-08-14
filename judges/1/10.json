@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma Yahuda ya tafi don yaƙa da Kenaʻanawa, ⟨waɗanda⟩ ke zaune a Chevron — kuma sunan Chevron a daɗe yana Kiryat-Arba — suka lura ⟨את⟩ Sheshai da ⟨את⟩ Aƙiman da ⟨את⟩ Talmai.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Kuma ya tafi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "don yaƙa da"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaʻanawa"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "⟨waɗanda⟩ ke zaune"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "a Chevron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "kuma sunan"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "a daɗe"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "yana Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "suka lura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshai"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Aƙiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Aƙiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Talmai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmai"
+    }
+  ],
+  "timestamp": "2026-08-12T07:10:50.446762352Z",
+  "model": "glm-5.2"
+}

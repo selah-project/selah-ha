@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 4:6",
+  "book": "ruth",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Sa'an kuma mai fansa ya ce: «Ba zan iya fanƙowa ⟨⟩wa kaina ba, tsaron in lalata ⟨את⟩ gadon ⟨⟩na. Ka fanƙa ⟨⟩wa kanku ⟨את⟩ haƙƙin fanƙowa ⟨⟩na, domin ba zan iya fanƙowa ba.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sa'an kuma ya ce"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "mai fansa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "zan iya"
+    },
+    {
+      "surface": "לגאול",
+      "gloss": "fanƙowa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wa kaina"
+    },
+    {
+      "surface": "פן",
+      "gloss": "tsaron in"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "lalata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gadon na"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "gadon na"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "Ka fanƙa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wa kanku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨kai⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haƙƙin fanƙowa na"
+    },
+    {
+      "surface": "גאלתי",
+      "gloss": "haƙƙin fanƙowa na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "zan iya"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "fanƙowa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:29:43.629941223Z",
+  "model": "glm-5.2"
+}

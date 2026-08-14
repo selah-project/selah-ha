@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 14:13",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma ya yanka ⟨את⟩ tarin cikin wurin da ake yanka ⟨את⟩ zunubi da ⟨את⟩ ƙorarbawa, a wurin tsarkin; domin kamar zunubin, asharnan ⟨ne⟩ na kohen; tsarki ne na tsarkaka, shi ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "Kuma ya yanka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tarin"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "tarin"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "a cikin wurin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ake yanka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zunubi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "zunubi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙorarbawa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ƙorarbawa"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "a wurin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tsarkin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "kamar zunubin"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "asharnan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "na kohen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsarki"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "na tsarkaka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    }
+  ],
+  "timestamp": "2026-08-12T02:20:09.195204581Z",
+  "model": "glm-5.2"
+}

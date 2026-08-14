@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 31:26",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "«Ku riƙe ⟨את⟩ littafin wannan Torá, ku sanya ⟨את⟩ shi a gefen akwatin alkawarin Yahweh, Elohim ku, kai ya kasance ⟨ne⟩ a can a cikinku don shaida.»",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "ku riƙe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "littafin wannan Torá"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "littafi"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "wannan Torá"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ku sanya shi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "a gefen"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwati"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alkawari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ku"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kai ya kasance"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "בך",
+      "gloss": "a cikinku"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "don shaida"
+    }
+  ],
+  "timestamp": "2026-08-12T05:54:36.125659519Z",
+  "model": "glm-5.2"
+}

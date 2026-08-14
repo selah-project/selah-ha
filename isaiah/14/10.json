@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Dukansu za su amsa su ce minka, 'Ko kai an tabbatar da raunin ka kamar mu, an koma kaman mu?'",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Dukansu"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "za su amsa"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "su ce"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "minka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "an tabbatar da raunin ka"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "kamar mu"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kaman mu"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "an koma"
+    }
+  ],
+  "timestamp": "2026-08-12T13:11:31.796250250Z",
+  "model": "glm-5.2"
+}

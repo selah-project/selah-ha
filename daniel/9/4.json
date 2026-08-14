@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 9:4",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma na yi addu'a ga Yahweh, Elohim nawa, kuma na tuba, kuma na ce: \"Ahh! Adonai, El, babban kuma mai girma, wanda ke kiyaye alkawari da chesed ga masu sonsa, da masu kiyaye umarnninsa.",
+  "tokens": [
+    {
+      "surface": "ואתפללה",
+      "gloss": "Kuma na yi addu'a"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nawa"
+    },
+    {
+      "surface": "ואתודה",
+      "gloss": "kuma na tuba"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "kuma na ce"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "Ahh!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "babban"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "kuma mai girma"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "wanda ke kiyaye"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "alkawari"
+    },
+    {
+      "surface": "והחסד",
+      "gloss": "da chesed"
+    },
+    {
+      "surface": "לאהביו",
+      "gloss": "ga masu sonsa"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "da masu kiyaye"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "umarnninsa"
+    }
+  ],
+  "timestamp": "2026-08-12T23:13:41.777299418Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 1:5",
+  "book": "malachi",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma idaninku za su gani, kuma ku za ku faɗi, \"Ya girma Yahweh, a kan kan iyaka ⟨ta⟩ Yisra'el.\"",
+  "tokens": [
+    {
+      "surface": "ועיניכם",
+      "gloss": "kuma idaninku"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "za su gani"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "kuma ku"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "za ku faɗi"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "ya girma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "iyaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T19:12:08.166080609Z",
+  "model": "glm-5.2"
+}

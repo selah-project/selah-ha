@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 27:9",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma kã yi ⟨את⟩ gidãn cikakken ⟨na⟩ Mishkãn; a wajen kudu, a kudu, allunan zane na gidãn cikakken ⟨na⟩ linin da aka dora, ɗari cikin ƙafã tsawon wajen guda.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Kuma kã yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidãn cikakken"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "gidãn cikakken"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "na Mishkãn"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "a wajen"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "kudu"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "a kudu"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "allunan zane"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "na gidãn cikakken"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linin"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "da aka dora"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "cikin ƙafã"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "tsawon"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "wajen"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "guda"
+    }
+  ],
+  "timestamp": "2026-08-12T01:05:51.598758383Z",
+  "model": "glm-5.2"
+}

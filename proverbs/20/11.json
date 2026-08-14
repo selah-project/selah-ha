@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 20:11",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Ko da yaro, ana gane shi ta hanyar ayyukansa, ko aikinsa tsabbe ne ko madaidaici.",
+  "tokens": [
+    {
+      "surface": "גַּ֣ם",
+      "gloss": "Ko da"
+    },
+    {
+      "surface": "בְּ֭מַעֲלָלָיו",
+      "gloss": "ta hanyar ayyukansa"
+    },
+    {
+      "surface": "יִתְנַכֶּ֨ר",
+      "gloss": "ana gane shi"
+    },
+    {
+      "surface": "נַ֗עַר",
+      "gloss": "yaro"
+    },
+    {
+      "surface": "אִם־",
+      "gloss": "ko"
+    },
+    {
+      "surface": "זַךְ֮",
+      "gloss": "tsabbe"
+    },
+    {
+      "surface": "וְאִם־",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יָשָׁ֪ר",
+      "gloss": "madaidaici"
+    },
+    {
+      "surface": "פָּעֳלֽוֹ",
+      "gloss": "aikinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T21:20:57.386658533Z",
+  "model": "glm-5.2"
+}

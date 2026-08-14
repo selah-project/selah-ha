@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma sarki Dawuda ya tsufa, ya shiga cikin kwanaku, suka rufe shi da tufafi, amma ba ya samun zafi ⟨ga kansa⟩.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Kuma sarki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ya tsufa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ya shiga"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "cikin kwanaku"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "suka rufe shi"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "da tufafi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ya samun zafi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ga kansa⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T02:03:39.106882547Z",
+  "model": "glm-5.2"
+}

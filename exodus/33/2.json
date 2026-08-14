@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "\"Kuma zan aiko mal'äka a gabanka, kuma zan kora ⟨את⟩ Ƙenan'ani, ɗan Ƙamor, ɗan Heti, ɗan Perizi, ɗan Hiwi, da ɗan Yevusi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Kuma zan aiko"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "a gaban ka"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mal'äka"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "kuma zan kora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ƙenan'ani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Ƙenan'ani"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ɗan Ƙamor"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "ɗan Heti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ɗan Perizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ɗan Hiwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "da ɗan Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:25:54.830730372Z",
+  "model": "glm-5.2"
+}

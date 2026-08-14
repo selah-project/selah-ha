@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Domin daidai ⟨ne⟩ maganar Yahweh, kuma duk aikin ⟨shí⟩ a cikin aminci.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "daidai"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "magana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma duk"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "aikin ⟨shí⟩"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "a cikin aminci"
+    }
+  ],
+  "timestamp": "2026-08-12T19:37:50.304454510Z",
+  "model": "glm-5.2"
+}

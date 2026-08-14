@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "A Giv'on, Yahweh ya bayyana ⟨ga⟩ Shelomo a cikin mafarkin dare, kuma Elohim ya ce: \"Ka nemi abin da ⟨zan⟩ baka.\"",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "A Giv'on"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ya bayyana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ga⟩"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "a cikin mafarki"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "na dare"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ka nemi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "⟨zab⟩ bawa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    }
+  ],
+  "timestamp": "2026-08-12T10:57:09.738747986Z",
+  "model": "glm-5.2"
+}

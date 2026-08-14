@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma Salmon ya haifa ⟨את⟩ Boaz, kuma Boaz ya haifa ⟨את⟩ Obed.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "Kuma Salmon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "kuma Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obed"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obed"
+    }
+  ],
+  "timestamp": "2026-08-12T22:25:58.835138259Z",
+  "model": "glm-5.2"
+}

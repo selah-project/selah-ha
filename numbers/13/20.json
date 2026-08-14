@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 13:20",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma mē ƙasar — shin mai kitmā ⟨ce⟩ ko maras kitmā ⟨ce⟩? Shin akwai itātuwa a cikinta, ko bābu? Kuma ku ƙwaryā, ku kuma riƙo daga 'ya'yan itacen ƙasar. Kuma ranākī sun kasance ranākin farkon 'ya'yan inabī.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "Kuma mē"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "השמנה",
+      "gloss": "mai kitmā"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ce⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "רזה",
+      "gloss": "maras kitmā"
+    },
+    {
+      "surface": "היש",
+      "gloss": "Shin akwai"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a cikinta"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "itātuwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bābu"
+    },
+    {
+      "surface": "והתחזקתם",
+      "gloss": "Kuma ku ƙwaryā"
+    },
+    {
+      "surface": "ולקחתם",
+      "gloss": "ku kuma riƙo"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "daga 'ya'yan itacen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "והימים",
+      "gloss": "Kuma ranākī"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ranākin"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "farkon"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "'ya'yan inabī"
+    }
+  ],
+  "timestamp": "2026-08-12T03:53:02.853703599Z",
+  "model": "glm-5.2"
+}

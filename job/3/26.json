@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 3:26",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Ba a kwantar da hankalina ba, kuma ba na natsuwa ba, kuma ba na samun hutawa ba, amma tashin hankali ya zo.",
+  "tokens": [
+    {
+      "surface": "לֹ֤א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שָׁלַ֨וְתִּי",
+      "gloss": "a kwantar da hankalina ba"
+    },
+    {
+      "surface": "וְלֹ֖א",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "שָׁקַ֥טְתִּי",
+      "gloss": "na natsuwa ba"
+    },
+    {
+      "surface": "וְֽלֹא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "נָ֗חְתִּי",
+      "gloss": "na samun hutawa ba"
+    },
+    {
+      "surface": "וַיָּ֥בֹא",
+      "gloss": "amma ya zo"
+    },
+    {
+      "surface": "רֹֽגֶז",
+      "gloss": "tashin hankali"
+    }
+  ],
+  "timestamp": "2026-08-12T21:37:35.597712340Z",
+  "model": "glm-5.2"
+}

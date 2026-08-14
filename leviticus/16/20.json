@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma ya kammala yin fansa ⟨אֵת⟩ tsarkin mai-tsarki da ⟨אֵת⟩ tantin taro da ⟨אֵת⟩ bagaden hadaya, kuma ya kawo ⟨אֵת⟩ baturen rakumi mai-rayuwa.",
+  "tokens": [
+    {
+      "surface": "וְכִלָּה֙",
+      "gloss": "Kuma ya kammala"
+    },
+    {
+      "surface": "מִכַּפֵּ֣ר",
+      "gloss": "yin fansa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tsarkin mai-tsarki"
+    },
+    {
+      "surface": "הַקֹּ֔דֶשׁ",
+      "gloss": "tsarkin mai-tsarki"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tantin taro"
+    },
+    {
+      "surface": "אֹ֥הֶל",
+      "gloss": "tantin"
+    },
+    {
+      "surface": "מוֹעֵ֖ד",
+      "gloss": "taro"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "bagaden hadaya"
+    },
+    {
+      "surface": "הַמִּזְבֵּ֑חַ",
+      "gloss": "bagaden hadaya"
+    },
+    {
+      "surface": "וְהִקְרִ֖יב",
+      "gloss": "kuma ya kawo"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "baturen rakumi mai-rayuwa"
+    },
+    {
+      "surface": "הַשָּׂעִ֥יר",
+      "gloss": "baturen rakumi"
+    },
+    {
+      "surface": "הֶחָֽי",
+      "gloss": "mai-rayuwa"
+    }
+  ],
+  "timestamp": "2026-08-13T03:03:02.654695149Z",
+  "model": "glm-5.2"
+}

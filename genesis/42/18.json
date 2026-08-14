@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Kuma Yosef ya ce musu a rana ta uku, \"Wannan ku yi, ku rayu; ⟨ne⟩ ni ina tsoron ⟨את⟩ Elohim.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ta uku"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Wannan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ku yi"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "ku rayu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ina tsoron"
+    }
+  ],
+  "timestamp": "2026-08-12T00:16:08.400276833Z",
+  "model": "glm-5.2"
+}

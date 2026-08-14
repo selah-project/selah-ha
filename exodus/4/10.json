@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 4:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Sai Mosheh ya ce wa Yahweh: \"A ranka, Adonai, ban zama mutumin kalmomi ba ni, ko daga jiya ko daga jiya-gobe, ko tun lokacin da kake magana da bāranka, domin ni ina da baki mai nauyi kuma ina da harshe mai nauyi.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sai ya ce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בי",
+      "gloss": "a ranka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ban zama ... ba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "kalmomi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "daga jiya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "משלשם",
+      "gloss": "daga jiya-gobe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "tun lokacin"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "da kake magana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bāranka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "mai nauyi"
+    },
+    {
+      "surface": "פה",
+      "gloss": "baki"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "kuma mai nauyi"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "harshe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-12T00:35:27.888146424Z",
+  "model": "glm-5.2"
+}

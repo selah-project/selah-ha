@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma abin da ya rage daga hadayar hatsi ⟨shine⟩ na Aharon da yaɗansu; tsarki ne na tsarkaka, daga hadayoyin wuta na Yahweh.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "kuma abin da ya rage"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "hadayarsu"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "da yaɗansa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsarki"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "na tsarkaka"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "daga hadayoyin wuta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "na Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:42:44.661294043Z",
+  "model": "glm-5.2"
+}

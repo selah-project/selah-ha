@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 74,
+  "translation": "Maskil na Asaph. Don, me ya sa, Elohim, ka ƙi mu har abada? Me ya sa fushinka yake hayhayewa a cikin tumakinka, garken kiɗonka?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "na Asaph"
+    },
+    {
+      "surface": "למה",
+      "gloss": "me ya sa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "ka ƙi ⟨mu⟩"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "yake hayhayewa"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "fushinka"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "a cikin tumakinka"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "garken kiɗonka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:07:25.370852694Z",
+  "model": "glm-5.2"
+}

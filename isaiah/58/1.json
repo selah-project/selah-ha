@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 58,
+  "translation": "Kira da makogwaro, kada ka hana ⟨kai⟩, kamar ƙaho ka ɗaga muryarka, ka gaya wa mutanina ⟨ta⟩ tawayarsu, kuma ga gidan Ya'akob ⟨ta⟩ zunubansu.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Kira"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "da makogwaro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "ka hana"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "kamar ƙaho"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "ka ɗaga"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "muryarka"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "ka gaya"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "wa mutanina"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "tawayarsu"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "kuma ga gidan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akob"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "zunubansu"
+    }
+  ],
+  "timestamp": "2026-08-12T14:41:21.774690661Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma ⟨ya faru⟩ a lokacin da Avram ya shiga Mitsrayim, Mutanen Mitsrayim sun ga ⟨את⟩ ⟨ta⟩ mace, cewa tana da kyau sosai.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ⟨ya faru⟩"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "a lokacin shigar"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "cikin Mitsrayim"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "kuma sun ga"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Mutanen Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mace"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "tana da kyau"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    }
+  ],
+  "timestamp": "2026-08-11T23:30:33.283182797Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 13:34",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "kuma kohan ya duba ⟨את⟩ ɗayan fari a rana ta bakwai, kuma ga shi, ɗayan fari ba ya yaɗuwa a fata, kuma hangarsa ba ta zurfi daga fata ba, sai kohan ya tsarkake shi, kuma ya wanki tufafinsa, kuma ya tsarkaka.",
+  "tokens": [
+    {
+      "surface": "וְרָאָה֩",
+      "gloss": "kuma ya duba"
+    },
+    {
+      "surface": "הַכֹּהֵ֨ן",
+      "gloss": "kohan"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ɗayan fari"
+    },
+    {
+      "surface": "הַנֶּ֜תֶק",
+      "gloss": "ɗayan fari"
+    },
+    {
+      "surface": "בַּיּ֣וֹם",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "הַשְּׁבִיעִ֗י",
+      "gloss": "ta bakwai"
+    },
+    {
+      "surface": "וְ֠הִנֵּה",
+      "gloss": "kuma ga shi"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "פָשָׂ֤ה",
+      "gloss": "ya yaɗuwa"
+    },
+    {
+      "surface": "הַנֶּ֨תֶק֙",
+      "gloss": "ɗayan fari"
+    },
+    {
+      "surface": "בָּע֔וֹר",
+      "gloss": "a fata"
+    },
+    {
+      "surface": "וּמַרְאֵ֕הוּ",
+      "gloss": "kuma hangarsa"
+    },
+    {
+      "surface": "אֵינֶ֥נּוּ",
+      "gloss": "ba ta"
+    },
+    {
+      "surface": "עָמֹ֖ק",
+      "gloss": "zurfi"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הָע֑וֹר",
+      "gloss": "fata"
+    },
+    {
+      "surface": "וְטִהַ֤ר",
+      "gloss": "sai ya tsarkake"
+    },
+    {
+      "surface": "אֹתוֹ֙",
+      "gloss": "⟨את⟩ shi",
+      "marks": "kohan (wanda aka tsarkake)"
+    },
+    {
+      "surface": "הַכֹּהֵ֔ן",
+      "gloss": "kohan"
+    },
+    {
+      "surface": "וְכִבֶּ֥ס",
+      "gloss": "kuma ya wanki"
+    },
+    {
+      "surface": "בְּגָדָ֖יו",
+      "gloss": "tufafinsa"
+    },
+    {
+      "surface": "וְטָהֵֽר",
+      "gloss": "kuma ya tsarkaka"
+    }
+  ],
+  "timestamp": "2026-08-12T02:11:41.416676592Z",
+  "model": "glm-5.2"
+}

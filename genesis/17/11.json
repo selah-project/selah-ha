@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma ku kaci ⟨את⟩ jikin gabbansu, kuma zai zama ⟨a matsayin⟩ alama ta alkawari tsakanina da ku.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "Kuma ku kaci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jikin gabbansu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "jikin"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "gabbansu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kuma zai zama"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "⟨a matsayin⟩ alama"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ta alkawari"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tsakanina"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "da ku"
+    }
+  ],
+  "timestamp": "2026-08-11T23:34:22.161654866Z",
+  "model": "glm-5.2"
+}

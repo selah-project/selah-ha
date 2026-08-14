@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Shin ba ka san ⟨את⟩ Avner ɗan Ner ba, cewa don ya yaudare ka ne ya zo, da ya san ⟨את⟩ fitar ka da ⟨את⟩ shigar ka, da ya san ⟨את⟩ dukan abin da kake aikatawa?",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "ka san"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "don ya yaudare ka"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ya zo"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "da ya san"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fitar ka"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "fitar ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "shigar ka"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "shigar ka"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "da ya san"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aikatawa"
+    }
+  ],
+  "timestamp": "2026-08-12T09:53:54.511467607Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 18:24",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kada ku gurɓata ku da duk waɗannan, cewa a cikin dukan waɗannan ne aka gurɓata waɗansan al'ummomin da nake korar daga gaban ku.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "ku gurɓata ku"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "da duk"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a cikin duk"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "נטמאו",
+      "gloss": "aka gurɓata"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "waɗansan al'ummomin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ake kora"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "daga gaban ku"
+    }
+  ],
+  "timestamp": "2026-08-13T01:49:40.208072516Z",
+  "model": "glm-5.2"
+}

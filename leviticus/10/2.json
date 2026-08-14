@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma wuta ta fito daga gaban Yahweh, ta halɓe ⟨את⟩ ⟨su⟩, suka mutu a gaban Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "ta fito"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ta halɓe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨su⟩",
+      "marks": "Nadav da Avihu"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "suka mutu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T02:08:38.204654008Z",
+  "model": "glm-5.2"
+}

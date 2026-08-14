@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Amma ba su juya ba daga zunuban bayin Yarob'am, wanda ya yi ⟨את⟩ Yisra'el su yi zunubi a cikinsu suna tafiya; kuma ⟨duƙansu⟩ Asherah ta tsaya a Shomron.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Amma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "suka juya"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "daga zunuban"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bayin"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarob'am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a cikinsu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "suna tafiya"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "⟨duƙansu⟩ Asherah"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "ta tsaya"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "a Shomron"
+    }
+  ],
+  "timestamp": "2026-08-12T12:26:46.669035984Z",
+  "model": "glm-5.2"
+}

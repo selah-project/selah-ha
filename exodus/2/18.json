@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 2:18",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Sai suka zo wa Reuelen ubansu, kuma ⟨ya⟩ ce, «Don me kuka gaggauta zuwa ⟨a⟩ yau?»",
+  "tokens": [
+    {
+      "surface": "ויבאנה",
+      "gloss": "sai suka zo wa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuelen"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "ubansu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ⟨ya⟩ ce"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "don me"
+    },
+    {
+      "surface": "מהרתן",
+      "gloss": "kuka gaggauta"
+    },
+    {
+      "surface": "בא",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨a⟩ yau"
+    }
+  ],
+  "timestamp": "2026-08-12T00:29:53.900765964Z",
+  "model": "glm-5.2"
+}

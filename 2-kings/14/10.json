@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "⟨Da zakayi⟩ ka doke ⟨את⟩ Edom, kuma zuciyarka ta ɗauke ka, ⟨to⟩ yi girma kuma ka zauna a cikin gidanka; don me za ka yi ƙarya a cikin cuta ka faɗa, kai da Yehudah tare da kai?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "⟨Da zakayi⟩ ka doke"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ka doke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "ta ɗauke ka"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "zuciyarka"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "yi girma"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "kuma ka zauna"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "a cikin gidanka"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "za ka yi ƙarya"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "a cikin cuta"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "ka faɗa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "da Yehudah"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tare da kai"
+    }
+  ],
+  "timestamp": "2026-08-12T12:28:14.110776216Z",
+  "model": "glm-5.2"
+}

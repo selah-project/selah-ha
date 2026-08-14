@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma Avraham ya miƙa ⟨את⟩ hannunsa, ya kuma riƙe ⟨את⟩ wuƙar, don ya yanka ⟨את⟩ ɗansa.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁלַ֤ח",
+      "gloss": "ya miƙa"
+    },
+    {
+      "surface": "אַבְרָהָם֙",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "hannunsa"
+    },
+    {
+      "surface": "יָד֔וֹ",
+      "gloss": "hannunsa"
+    },
+    {
+      "surface": "וַיִּקַּ֖ח",
+      "gloss": "ya kuma riƙe"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "wuƙar"
+    },
+    {
+      "surface": "הַֽמַּאֲכֶ֑לֶת",
+      "gloss": "wuƙar"
+    },
+    {
+      "surface": "לִשְׁחֹ֖ט",
+      "gloss": "don ya yanka"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ɗansa"
+    },
+    {
+      "surface": "בְּנֽוֹ",
+      "gloss": "ɗansa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:41:27.943206496Z",
+  "model": "glm-5.2"
+}

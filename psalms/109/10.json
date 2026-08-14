@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 109,
+  "translation": "Kuma su yi tafiya rawa, ʼyaʼyansa su yi yawo, kuma su roƙi, kuma su nema daga rugujewocinsu.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "kuma su yi tafiya rawa"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "su yi yawo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ʼyaʼyansa"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "kuma su roƙi"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "kuma su nema"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "daga rugujewocinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:35:07.491109865Z",
+  "model": "glm-5.2"
+}

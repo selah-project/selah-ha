@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 145,
+  "translation": "Tunãwar yalwar nagartancinka za su fãɗa da bãki, kuma adalce na za ku yi ta rãna da shi.",
+  "tokens": [
+    {
+      "surface": "זֵכֶר",
+      "gloss": "tunãwar"
+    },
+    {
+      "surface": "רַב",
+      "gloss": "yalwar"
+    },
+    {
+      "surface": "טוּבְךָ",
+      "gloss": "nagartancinka"
+    },
+    {
+      "surface": "יַבִּיעוּ",
+      "gloss": "za su fãɗa da bãki"
+    },
+    {
+      "surface": "וְצִדְקָתְךָ",
+      "gloss": "kuma adalce na"
+    },
+    {
+      "surface": "יְרַנֵּנוּ",
+      "gloss": "za ku yi ta rãna da shi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:57:26.749632222Z",
+  "model": "glm-5.2"
+}

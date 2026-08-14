@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 54,
+  "translation": "Gama dama da hagu za ka balle, zuriyarka za ta gāji al'ummomi, kuma za su sa garuruwan da aka barranta a zauna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gama"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "dama"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "da hagu"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "za ka balle"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "zuriyarka"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "al'ummomi"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "za ta gāji"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "kuma garuruwan"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "da aka barranta"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "za su sa su zauna"
+    }
+  ],
+  "timestamp": "2026-08-12T14:30:42.590408021Z",
+  "model": "glm-5.2"
+}

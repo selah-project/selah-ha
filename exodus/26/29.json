@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 26:29",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma ⟨את⟩ allunan za ka rufe da zinare, kuma ⟨את⟩ zobobinsu za ka yi da zinare, ⟨su ne⟩ matsuguni ga sandunan; kuma za ka rufe ⟨את⟩ sandunan da zinare.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "allunan"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "allunan"
+    },
+    {
+      "surface": "תצפה",
+      "gloss": "za ka rufe da"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zobobinsu"
+    },
+    {
+      "surface": "טבעתיהם",
+      "gloss": "zobobinsu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "za ka yi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinare"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "matsuguni"
+    },
+    {
+      "surface": "לבריחם",
+      "gloss": "ga sandunan"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "kuma za ka rufe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandunan"
+    },
+    {
+      "surface": "הבריחם",
+      "gloss": "sandunan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinare"
+    }
+  ],
+  "timestamp": "2026-08-12T01:08:03.683493911Z",
+  "model": "glm-5.2"
+}

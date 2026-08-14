@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Albarka ⟨za⟩ yi maka fiye da dukkan mutane; ba za a sami ba a cikinka ɗan haihuwa ko mace haihuwa, ko a cikin dabbinka.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Albarka"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨za⟩ yi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "fiye da dukkan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "za a sami"
+    },
+    {
+      "surface": "בך",
+      "gloss": "a cikinka"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "ɗan haihuwa"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "ko mace haihuwa"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "ko a cikin dabbanka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:10:09.462737569Z",
+  "model": "glm-5.2"
+}

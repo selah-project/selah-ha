@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Gama akwai abubuwa da yawa waɗanda suke yawaita hevel; mene ne rage wa adam?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gama"
+    },
+    {
+      "surface": "יש",
+      "gloss": "akwai"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "abubuwa"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "suke yawaita"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mene ne"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "rage"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "wa adam"
+    }
+  ],
+  "timestamp": "2026-08-12T22:47:20.534929701Z",
+  "model": "glm-5.2"
+}

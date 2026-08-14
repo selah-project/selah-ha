@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Sai Eliyahu ya ɗauki ⟨את⟩ mayafinsa, ya naɗa shi, ya buge ⟨את⟩ ruwan, sai ruwan ya tsaga wannan gefe da wannan gefe, su biyun suka haye a ƙasa bushe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Sai ya ɗauki"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mayafinsa"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "mayafinsa"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "ya naɗa shi"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "ya buge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruwan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "sai ruwan ya tsaga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wannan gefe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "da wannan gefe"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "suka haye"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "sau biyun"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "a ƙasa bushe"
+    }
+  ],
+  "timestamp": "2026-08-13T02:06:30.257354858Z",
+  "model": "glm-5.2"
+}

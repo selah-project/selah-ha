@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kamar rahoton ⟨da⟩ aka ji a Mitsrayim, za su yi rawin jiki; da rahoton Tzor za su yi rawin jiki.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Kamar"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "rahoton da aka ji"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "a Mitsrayim"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "za su yi rawin jiki"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "da rahoton"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tzor"
+    }
+  ],
+  "timestamp": "2026-08-12T13:32:57.952136850Z",
+  "model": "glm-5.2"
+}

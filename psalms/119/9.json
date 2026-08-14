@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Da me yaro za ya tsarkake ⟨את⟩ hanyarsa? Da kiyaye ⟨ta⟩ bisa ga kalmarka.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "Da me"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "za ya tsarkake"
+    },
+    {
+      "surface": "נער",
+      "gloss": "yaro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hanyarsa"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "hanyarsa"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "Da kiyare"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "bisa ga kalmarka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:42:09.172516977Z",
+  "model": "glm-5.2"
+}

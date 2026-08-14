@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Dokar bayan dokar, dokar bayan dokar, layi bayan layi, layi bayan layi, ɗan ƙai'an nan, ɗan ƙai'an can.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "צו",
+      "gloss": "dokar"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "bayan dokar"
+    },
+    {
+      "surface": "צו",
+      "gloss": "dokar"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "bayan dokar"
+    },
+    {
+      "surface": "קו",
+      "gloss": "layi"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "bayan layi"
+    },
+    {
+      "surface": "קו",
+      "gloss": "layi"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "bayan layi"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "ɗan ƙai'an"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nan"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "ɗan ƙai'an"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    }
+  ],
+  "timestamp": "2026-08-12T13:37:56.963276396Z",
+  "model": "glm-5.2"
+}

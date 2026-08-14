@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 3:17",
+  "book": "ruth",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ta ce: \"Shan'wa shida ⟨ne⟩ waɗannan ya ba ni, domin ya ce: 'Kada ka zo kafɛ a gajiyar ⟨zuwa⟩ ga surukar ki.'\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Kuma ta ce"
+    },
+    {
+      "surface": "שש",
+      "gloss": "shan'wa shida"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "shida"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "ka zo"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "kafɛ a gajiyar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨zuwa⟩ ga"
+    },
+    {
+      "surface": "חמותך",
+      "gloss": "surukar ki"
+    }
+  ],
+  "timestamp": "2026-08-12T22:27:19.133566287Z",
+  "model": "glm-5.2"
+}

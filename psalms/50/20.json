@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "Kana zauna, kan yi wa ɗan'uwanka magana, ga ɗan uwar'uwarka kana ba da zagi.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "kana zauna"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "kan yi wa ɗan'uwanka magana"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "⟨ci gaba⟩"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "ga ɗan"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "uwar'uwarka"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kana ba"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "zagi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:47:22.278460237Z",
+  "model": "glm-5.2"
+}

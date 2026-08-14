@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma Daɗa ya tafi, yana tafiya da girma, kuma Yahweh, Elohim na ɗarƙo, ⟨yana⟩ tare da shi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kuma ya tafi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daɗa"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "yana tafiya"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "da girma"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kuma Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ɗarƙo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tare da shi"
+    }
+  ],
+  "timestamp": "2026-08-12T09:59:58.865435403Z",
+  "model": "glm-5.2"
+}

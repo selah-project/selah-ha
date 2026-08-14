@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Sau nawa suka taya shi tawaye a cikin jeji, suka jiƙa shi baƙin ciki a cikin ƙasã jeji!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "Sau nawa"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "suka taya shi tawaye"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a cikin jeji"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "suka jiƙa shi baƙin ciki"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "a cikin ƙasã jeji"
+    }
+  ],
+  "timestamp": "2026-08-12T20:09:37.146940640Z",
+  "model": "glm-5.2"
+}

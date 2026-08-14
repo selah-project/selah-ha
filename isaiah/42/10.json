@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Ku raira waƙa ga Yahweh waƙa ta sabuwa, gode-sa daga ƙarshen ƙasa, masu sauka cikin teku da cikarta, tsibiran da mazaunansu.",
+  "tokens": [
+    {
+      "surface": "שִׁ֤ירוּ",
+      "gloss": "Ku raira waƙa"
+    },
+    {
+      "surface": "לַֽיהוָה֙",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "שִׁ֣יר",
+      "gloss": "waƙa"
+    },
+    {
+      "surface": "חָדָ֔שׁ",
+      "gloss": "ta sabuwa"
+    },
+    {
+      "surface": "תְּהִלָּת֖וֹ",
+      "gloss": "gode-sa"
+    },
+    {
+      "surface": "מִקְצֵ֣ה",
+      "gloss": "daga ƙarshen"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "יוֹרְדֵ֤י",
+      "gloss": "masu sauka"
+    },
+    {
+      "surface": "הַיָּם֙",
+      "gloss": "cikin teku"
+    },
+    {
+      "surface": "וּמְלֹא֔וֹ",
+      "gloss": "da cikarta"
+    },
+    {
+      "surface": "אִיִּ֖ים",
+      "gloss": "tsibiran"
+    },
+    {
+      "surface": "וְיֹשְׁבֵיהֶֽם",
+      "gloss": "da mazaunansu"
+    }
+  ],
+  "timestamp": "2026-08-12T14:04:00.507667749Z",
+  "model": "glm-5.2"
+}

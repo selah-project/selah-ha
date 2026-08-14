@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma waɗannan kalmomin, waɗanda ni nike yi maka umarni yau, za su kasance a kan zuciyarka.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "Kuma za su kasance"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "waɗannan kalmomin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nike yi maka umarni"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "zuciyarka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:01:41.230239276Z",
+  "model": "glm-5.2"
+}

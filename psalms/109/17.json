@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 109,
+  "translation": "Kuma ya ƙaunaci tsafa, ⟨don haka⟩ ta zo ⟨a kansa⟩; kuma bai ji daɗin albarka, ⟨don haka⟩ ta nisanta daga gare shi.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "kuma ya ƙaunaci"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "tsafa"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "ta zo ⟨a kansa⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ji daɗin"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "albarka"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "ta nisanta"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare shi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:35:52.763042356Z",
+  "model": "glm-5.2"
+}

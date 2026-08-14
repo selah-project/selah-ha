@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "A duk ⟨asar⟩ ƙasa layin su ya fita, kuma a ƙarshen duniya kalmomin su; ⟨a cikinsu⟩ ya sanya wa shamsi ɗaki.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "A duk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ya fita"
+    },
+    {
+      "surface": "קום",
+      "gloss": "layin su"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "kuma a ƙarshen"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "duniya"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "kalmomin su"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "wa shamsi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ya sanya"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ɗaki"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "a cikinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:26:43.766010368Z",
+  "model": "glm-5.2"
+}

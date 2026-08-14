@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Kuma zan sa ⟨את⟩ jikinka a kan duwatsu, kuma zan cika ƙwarya da tarin gawarwarka.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Kuma zan sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jikinka"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "jikinka"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "kuma zan cika"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "ƙwarya"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "tarin gawarwarka"
+    }
+  ],
+  "timestamp": "2026-08-12T17:38:19.560009018Z",
+  "model": "glm-5.2"
+}

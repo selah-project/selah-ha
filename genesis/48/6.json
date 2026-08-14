@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 48:6",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 48,
+  "translation": "Kuma zuriyar da ka haifa a bãyensu, nãƙe; a kan sunan 'yan'uwansu za a kira su a cikin gadonsu.",
+  "tokens": [
+    {
+      "surface": "ומולדתך",
+      "gloss": "kuma zuriyar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "ka haifa"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "a bãyensu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nãƙe"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨za su kasance⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sunan"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "'yan'uwansu"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "za a kira su"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "a cikin gadonsu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:23:13.834276864Z",
+  "model": "glm-5.2"
+}

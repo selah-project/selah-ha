@@ -1,0 +1,34 @@
+{
+  "tier": "hand",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma ya kusantar da ⟨את⟩ hadayar ƙonewa, ya kuma yi ta bisa ƙa'ida.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ya kusantar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɡоɗо-n ƙоna"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "hadayar ƙonewa"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "ya kuma yi ta"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "bisa ƙa'ida"
+    }
+  ],
+  "timestamp": "2026-08-13T01:48:50.043184259Z",
+  "model": "glm-5.2"
+}

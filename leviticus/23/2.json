@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Yi magana da ɗiyai Isra'el, ka kuma ce musu: waɗannan su ne lokutan taron na Yahweh, waɗanda kuke kira su taro mai tsarki — waɗannan su ne lokutan taro Na.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Yi magana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'el"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ka kuma ce"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "lokutan taro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "kuke kira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "taro"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mai tsarki"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "su ne"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "lokutan taro Na"
+    }
+  ],
+  "timestamp": "2026-08-12T02:46:01.976542140Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 92,
+  "translation": "Har ila yau sunã 'ya'antãwa a cikin tsufa, sunã kumalla da kõre.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "har ila yau"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "sunã 'ya'antãwa"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "a cikin tsufa"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "sunã kumalla"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "da kõre"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sũ"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:28.259555039Z",
+  "model": "glm-5.2"
+}

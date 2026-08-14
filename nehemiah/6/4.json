@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma sun aiko mini a kamar wannan magana, sau huɗu, kuma na maya musu ⟨את⟩ ⟨a cikin⟩ a kamar wannan magana.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "sun aiko"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mini"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "a kamar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "sau huɗu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": ""
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "kuma na maya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "a kamar wannan magana"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "a kamar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-12T23:43:07.702162641Z",
+  "model": "glm-5.2"
+}

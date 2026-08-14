@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Ba za su zauna a cikin ƙasarka ba, domin kada su yi maka laifi ⟨a⟩ gare Ni, domin za ka bauta wa ⟨את⟩ allolinsu, domin ⟨za⟩ kasance ⟨ga⟩ ka ⟨a⟩ tarko.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "יֵשְׁבוּ",
+      "gloss": "za su zauna"
+    },
+    {
+      "surface": "בְּאַרְצְךָ",
+      "gloss": "a cikin ƙasarka"
+    },
+    {
+      "surface": "פֶּן",
+      "gloss": "domin kada"
+    },
+    {
+      "surface": "יַחֲטִיאוּ",
+      "gloss": "su yi maka laifi"
+    },
+    {
+      "surface": "אֹתְךָ",
+      "gloss": "⟨את⟩",
+      "marks": "ka"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "gare Ni"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "תַעֲבֹד",
+      "gloss": "za ka bauta wa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "allolinsu"
+    },
+    {
+      "surface": "אֱלֹהֵיהֶם",
+      "gloss": "allolinsu"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יִהְיֶה",
+      "gloss": "za kasance"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "ga ka"
+    },
+    {
+      "surface": "לְמוֹקֵשׁ",
+      "gloss": "a tarko"
+    }
+  ],
+  "timestamp": "2026-08-13T03:02:11.387388720Z",
+  "model": "glm-5.2"
+}

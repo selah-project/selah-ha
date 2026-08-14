@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Na Dawudi, a lokacin da ya canza ⟨את⟩ hankalinsa a gaban Avimelekh, sa kuma ya kore shi, ya kuma tafi.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Na"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "a lokacin da ya canza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hankalinsa"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "hankalinsa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "sa kuma ya kore shi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ya kuma tafi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:37:12.534522635Z",
+  "model": "glm-5.2"
+}

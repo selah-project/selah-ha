@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Gāne Yahweh yana ƙaunatãwar shari'a, kuma bā Ya bar ⟨את⟩ masu amintaccenSa, har abadā an tsare su, kuma zuriyar mugaye za a yanke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gāne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yana ƙaunatãwar"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "shari'a"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma bā Ya"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masu amintaccenSa"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "masu amintaccenSa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abadā"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "an tsare su"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "kuma zuriyar"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mugaye"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "za a yanke"
+    }
+  ],
+  "timestamp": "2026-08-13T02:24:27.792977533Z",
+  "model": "glm-5.2"
+}

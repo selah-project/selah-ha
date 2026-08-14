@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 2:6",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "kuma yanzu, Yahweh ya yi chesed da gaskiya tare da ku, ni ma zan yi muku wannan nagarta da kuka yi wannan abu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kuma yanzu"
+    },
+    {
+      "surface": "יעש",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "tare da ku"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "da gaskiya"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ni ma"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "zan yi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ku"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "nagarta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "don"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "kuka yi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "abu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-12T09:52:35.259520629Z",
+  "model": "glm-5.2"
+}

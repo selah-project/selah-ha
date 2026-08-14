@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Yi ƙawo a cikin sunan tsarkinsa, zuciyar masu neman Yahweh ta yi murna.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Yi ƙawo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "a cikin sunan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "tsarkinsa"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ta yi murna"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciyar"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "masu neman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-13T00:14:01.739179154Z",
+  "model": "glm-5.2"
+}

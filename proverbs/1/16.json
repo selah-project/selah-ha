@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Domi ƙafafunsu zuwa mugunta suna gudu, kuma suna gaggawa don zubar jini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domi"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ƙafafunsu"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "zuwa mugunta"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "suna gudu"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "kuma suna gaggawa"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "don zubar"
+    },
+    {
+      "surface": "דם",
+      "gloss": "jini"
+    }
+  ],
+  "timestamp": "2026-08-13T02:28:18.286433243Z",
+  "model": "glm-5.2"
+}

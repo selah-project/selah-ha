@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 12:2",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Ka shuka su, su ma sun sami tushen; sun ci gaba, su ma sun yi 'ya'ya; kai kusa ⟨ne⟩ a bakinsu, amma da nisa daga tsakinsu.",
+  "tokens": [
+    {
+      "surface": "נטעתם",
+      "gloss": "Ka shuka su"
+    },
+    {
+      "surface": "גם",
+      "gloss": "su ma"
+    },
+    {
+      "surface": "שרשו",
+      "gloss": "suni sami tushen"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "sun ci gaba"
+    },
+    {
+      "surface": "גם",
+      "gloss": "su ma"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "sun yi"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "'ya'ya"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "kusa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "a bakinsu"
+    },
+    {
+      "surface": "ורחוק",
+      "gloss": "amma da nisa"
+    },
+    {
+      "surface": "מכליותיהם",
+      "gloss": "daga tsakinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T15:18:10.975123972Z",
+  "model": "glm-5.2"
+}

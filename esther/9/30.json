@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "esther 9:30",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma ya aiko da takardu zuwa ga dukan Yahudawa, zuwa lardunaɗari da ashirin da bakwai, na masarautar Achashverosh — kalmomin salama da gaskiya.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kuma ya aiko da"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "takardu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yahudawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bakwai"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "da ashirin"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "da ɗari"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "larduna"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "masarautar"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salama"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "da gaskiya"
+    }
+  ],
+  "timestamp": "2026-08-12T23:00:21.600075212Z",
+  "model": "glm-5.2"
+}

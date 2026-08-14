@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "kuma ⟨an⟩ aske ⟨shi⟩, amma ⟨את⟩ ɗayan fari ba za a aske ba, kuma kohan ya rufe ⟨את⟩ ɗayan fari tsawon kwanaki bakwai na biyu.",
+  "tokens": [
+    {
+      "surface": "וְהִ֨תְגַּלָּ֔ח",
+      "gloss": "kuma ⟨an⟩ aske"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ɗayan fari"
+    },
+    {
+      "surface": "הַנֶּ֖תֶק",
+      "gloss": "ɗayan fari"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יְגַלֵּ֑חַ",
+      "gloss": "za a aske"
+    },
+    {
+      "surface": "וְהִסְגִּ֨יר",
+      "gloss": "kuma ya rufe"
+    },
+    {
+      "surface": "הַכֹּהֵ֧ן",
+      "gloss": "kohan"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ɗayan fari"
+    },
+    {
+      "surface": "הַנֶּ֛תֶק",
+      "gloss": "ɗayan fari"
+    },
+    {
+      "surface": "שִׁבְעַ֥ת",
+      "gloss": "tsawon kwanaki bakwai"
+    },
+    {
+      "surface": "יָמִ֖ים",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "שֵׁנִֽית",
+      "gloss": "na biyu"
+    }
+  ],
+  "timestamp": "2026-08-12T02:11:41.416392276Z",
+  "model": "glm-5.2"
+}

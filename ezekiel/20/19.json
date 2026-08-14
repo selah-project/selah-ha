@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 20:19",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Ni ni ne Yahweh, Elohiminku; a cikin dokokina ku tafi, kuma ⟨אֵת⟩ hukunce-hukuncena ku kiyaye, kuma ku aikata ⟨את⟩ su.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminku"
+    },
+    {
+      "surface": "בחקותי",
+      "gloss": "a cikin dokokina"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ku tafi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hukunce-hukuncena"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukunce-hukuncena"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ku kiyaye"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "kuma ku aikata"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ su"
+    }
+  ],
+  "timestamp": "2026-08-13T03:05:48.998857153Z",
+  "model": "glm-5.2"
+}

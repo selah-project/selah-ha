@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Saboda haka nā ƙaunari miṣwōhinka fiye da zinari, ko da ṣafaffen zinari.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "nā ƙaunari"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "miṣwōhinka"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "fiye da zinari"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "ko da ṣafaffen zinari"
+    }
+  ],
+  "timestamp": "2026-08-12T20:44:11.123083275Z",
+  "model": "glm-5.2"
+}

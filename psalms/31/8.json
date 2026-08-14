@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Zan yi murna kuma zan yi farin ciki a cikin chesedɗinka, wanda ka ga ⟨את⟩ ciwon nāwoyina; ka sani cikin ƙunci na raiyata.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "Zan yi murna"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "kuma zan yi farin ciki"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "a cikin chesedɗinka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ka ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciwon nāwoyina"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ciwon nāwoyina"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ka sani"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "cikin ƙunci"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nai raiyata"
+    }
+  ],
+  "timestamp": "2026-08-12T19:33:03.923501055Z",
+  "model": "glm-5.2"
+}

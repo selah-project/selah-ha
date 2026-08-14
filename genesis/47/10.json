@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Kuma Ya'aƙoub ya yi ⟨את⟩ Farao albarka, ya kuma fita daga gaban Farao.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Kuma ya yi albarka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aƙoub"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ya kuma fita"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    }
+  ],
+  "timestamp": "2026-08-12T00:21:37.599833107Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma sarki Shelomah ya aiko da B'nayah'u ɗan Y'hoyadaa, ⟨don ya kashe⟩, sai ya buge shi, ya kuma mutu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Kuma ya aiko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "da"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "B'nayah'u"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Y'hoyadaa"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "sai ya buge shi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ya kuma mutu"
+    }
+  ],
+  "timestamp": "2026-08-12T10:53:33.139507059Z",
+  "model": "glm-5.2"
+}

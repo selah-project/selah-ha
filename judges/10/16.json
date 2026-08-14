@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma suka cire Elohim na bāshē daga tsakarinsu, suka bauta wa ⟨את⟩ Yahweh. Kuma ransa ta ɗanƙanta saboda wahalar Isra'ila.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "Kuka cire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim na bāshē"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "na bāshē"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "daga tsakarinsu"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "suka bauta wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "ta ɗanƙanta"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ransa"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "saboda wahalar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T07:47:15.309049920Z",
+  "model": "glm-5.2"
+}

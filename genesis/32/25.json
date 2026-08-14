@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Kuma Ya'ƙub ya kasance shi kaɗai, sai wani mutum ya yi ƙoƙari ⟨da⟩ shi har sai fitowar alfijir.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'ƙob"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "shi kaɗai"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "sai ... ya yi ƙoƙari"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wani mutum"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨da⟩ shi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "fitowar"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "alfijir"
+    }
+  ],
+  "timestamp": "2026-08-11T23:57:07.495959552Z",
+  "model": "glm-5.2"
+}

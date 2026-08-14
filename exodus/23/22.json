@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Amma idan ka saurari sauraro da muryarsa, ka kuma aikata dukan abin da nake faɗa, to, Ni zan zama maƙiyi ga maƙiyanka, kuma zan tsananta wa masu tsananta maka.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Amma"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "שָׁמֹ֤עַ",
+      "gloss": "sauraro"
+    },
+    {
+      "surface": "תִּשְׁמַע֙",
+      "gloss": "ka saurari"
+    },
+    {
+      "surface": "בְּקֹל֔וֹ",
+      "gloss": "da muryarsa"
+    },
+    {
+      "surface": "וְעָשִׂ֕יתָ",
+      "gloss": "ka kuma aikata"
+    },
+    {
+      "surface": "כֹּ֖ל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "אֲדַבֵּ֑ר",
+      "gloss": "nake faɗa"
+    },
+    {
+      "surface": "וְאָֽיַבְתִּי֙",
+      "gloss": "to, Ni zan zama maƙiyi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "maƙiyanka"
+    },
+    {
+      "surface": "אֹ֣יְבֶ֔יךָ",
+      "gloss": "ga maƙiyanka"
+    },
+    {
+      "surface": "וְצַרְתִּ֖י",
+      "gloss": "kuma zan tsananta"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "masu tsananta maka"
+    },
+    {
+      "surface": "צֹרְרֶֽיךָ",
+      "gloss": "wa masu tsananta maka"
+    }
+  ],
+  "timestamp": "2026-08-12T01:00:17.699548632Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Sha'ul ya tambaya Yahweh, amma Yahweh bai amsa shi ba — ko da ta mafarkai, ko da ta Urim, ko da ta annabawa.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ya tambaya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "amsa shi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ko da"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "ta mafarkai"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ko da"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "ta Urim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ko da"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "ta annabawa"
+    }
+  ],
+  "timestamp": "2026-08-12T09:43:21.505452331Z",
+  "model": "glm-5.2"
+}

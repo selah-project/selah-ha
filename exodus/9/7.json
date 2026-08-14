@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Fir'auna ya aika, kuma ga shi, ɗaya ba ta mutu ba daga shanun Israʼel, zuciyar Fir'auna ta yi ƙari, kuma ba ya aika ⟨da⟩ ⟨את⟩ mutanen.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ya aika"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'auna"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kuma ga shi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ta mutu"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "daga shanun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israʼel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "ta yi ƙari"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciyar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'auna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ya aika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    }
+  ],
+  "timestamp": "2026-08-12T00:41:30.591671366Z",
+  "model": "glm-5.2"
+}

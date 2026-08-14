@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Zuwa gare ka, Yahweh, ina kiran ⟨zuwa gare ka⟩, kuma zuwa Adonai ina roƙon alheri.",
+  "tokens": [
+    {
+      "surface": "אֵלֶ֣יךָ",
+      "gloss": "zuwa gare ka"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶקְרָ֑א",
+      "gloss": "ina kiran"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "kuma zuwa"
+    },
+    {
+      "surface": "אֲ֝דֹנָ֗י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אֶתְחַנָּֽן",
+      "gloss": "ina roƙon alheri"
+    }
+  ],
+  "timestamp": "2026-08-13T04:03:51.988867258Z",
+  "model": "glm-5.2"
+}

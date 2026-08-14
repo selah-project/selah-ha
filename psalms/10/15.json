@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Ka ɓanya hannun mugaye da mugun mutum; ka bincika laifinsa, ba za ka samu ⟨komai⟩ ba.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ka ɓanya"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "hannun"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mugaye"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "da mugun mutum"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "ka bincika"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "laifinsa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "za ka samu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:18:57.429126482Z",
+  "model": "glm-5.2"
+}

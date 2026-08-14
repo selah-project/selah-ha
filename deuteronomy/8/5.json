@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma za ka sani ⟨tare⟩ da zuciyarka, cewa kamar yadda mutum yake horar da ⟨את⟩ ɗansa, Yahweh Elohiminka Yana horar da kai.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "Kuma za ka sani"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨tare⟩ da"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "zuciyarka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "mutum yake horar da"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗansa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗansa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminka"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "Yana horar da kai"
+    }
+  ],
+  "timestamp": "2026-08-12T05:11:40.399039540Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 24:13",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Yahweh ya yi shari'a tsakanina da kai, kuma Yahweh ya rama mini daga gare ka, amma hannuwa ba za ta kasance ⟨a⟩ kai ba.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "ya yi shari'a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tsakanina"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "da kai"
+    },
+    {
+      "surface": "ונקמני",
+      "gloss": "kuma ya rama mini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "daga gare ka"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "amma hannuwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "za ta kasance"
+    },
+    {
+      "surface": "בך",
+      "gloss": "a kai"
+    }
+  ],
+  "timestamp": "2026-08-12T09:25:41.890093473Z",
+  "model": "glm-5.2"
+}

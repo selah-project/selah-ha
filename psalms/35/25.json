@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Kada su ce a cikin zuciyarsu, \"Haa! ⟨ce⟩ rai ⟨na⟩mu!\" Kada su ce, \"Mun ɗanƙe shi!\"",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "su ce"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "a cikin zuciyarsu"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Haa!"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "rai ⟨na⟩mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "su ce"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "Mun ɗanƙe shi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:37:32.328767440Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 19:42",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma gāri, dukan mutanen Isra'ila suna zuwa ga sarki, suka ce wa sarki: Don me 'yan'uwarmu, mutanen Yehuda, suka ɓāce da kai, suka kawo ⟨את⟩ sarki da ⟨את⟩ gidansa ⟨a⟩ wuce ⟨a⟩ Urdun, da dukan mazan Dawida tare da shi?",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "kuma gāri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "באים",
+      "gloss": "suna zuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "don me"
+    },
+    {
+      "surface": "גנבוך",
+      "gloss": "suka ɓāce da kai"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "'yan'uwarmu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "suka kawo ⟨a⟩ wuce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "gidansa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gidansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urdun"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Urdun"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da duka"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mazan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tare da shi"
+    }
+  ],
+  "timestamp": "2026-08-12T10:40:22.239349390Z",
+  "model": "glm-5.2"
+}

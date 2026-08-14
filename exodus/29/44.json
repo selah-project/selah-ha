@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma Ni zan tsarkaka ⟨את⟩ ⟨da⟩ Masallacin Taro da ⟨את⟩ ⟨da⟩ bagaren, kuma ⟨את⟩ ⟨da⟩ Aharon da ⟨את⟩ ⟨da⟩ ɗiyansa zan tsarkaka, su zama limamai Min.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "Kuma Ni zan tsarkaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Masallacin Taro"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Masallaci"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Taro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "bagaren"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bagaren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ɗiyansa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɗiyansa"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "zan tsarkaka"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "su zama limamai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Min"
+    }
+  ],
+  "timestamp": "2026-08-12T01:15:05.033319950Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 149,
+  "translation": "Dominator Yahweh yana jin daɗi game da mutanensa; yana ƙawo masu tawali'u da tsiyar",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dominator"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "yana jin daɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "game da mutanensa"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "yana ƙawo"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "masu tawali'u"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "da tsiyar"
+    }
+  ],
+  "timestamp": "2026-08-12T21:00:01.524635725Z",
+  "model": "glm-5.2"
+}

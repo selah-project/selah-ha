@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 22:7",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Idan ba a same sacen ba, kuma mai gidan ya kusanto Elohim, ⟨don a gwada⟩ idan bai tura hannunsa ba cikin aikin makwabcinsa.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יִמָּצֵא֙",
+      "gloss": "a same"
+    },
+    {
+      "surface": "הַגַּנָּ֔ב",
+      "gloss": "sacen"
+    },
+    {
+      "surface": "וְנִקְרַ֥ב",
+      "gloss": "kuma ya kusanto"
+    },
+    {
+      "surface": "בַּֽעַל",
+      "gloss": "mai"
+    },
+    {
+      "surface": "הַבַּ֖יִת",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הָֽאֱלֹהִ֑ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שָׁלַ֛ח",
+      "gloss": "tura"
+    },
+    {
+      "surface": "יָד֖וֹ",
+      "gloss": "hannunsa"
+    },
+    {
+      "surface": "בִּמְלֶ֥אכֶת",
+      "gloss": "cikin aikin"
+    },
+    {
+      "surface": "רֵעֵֽהוּ",
+      "gloss": "makwabcinsa"
+    }
+  ],
+  "timestamp": "2026-08-13T01:46:34.999930472Z",
+  "model": "glm-5.2"
+}

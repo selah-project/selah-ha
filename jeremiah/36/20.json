@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 36:20",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Sai suka shiga wa sarki cikin fadarsa, amma ⟨את⟩ gunga sun ajiye shi a cikin ɗakin Elishama mai rubutu, suka faɗa a cikin kunnen sarki ⟨את⟩ dukkan kalmomin.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "suka shiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "חצרה",
+      "gloss": "cikin fadarsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gunga"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "gunga"
+    },
+    {
+      "surface": "הפקדו",
+      "gloss": "sun ajiye"
+    },
+    {
+      "surface": "בלשכת",
+      "gloss": "a cikin ɗakin"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "mai rubutu"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "suka faɗa"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "a cikin kunnen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kalmomin"
+    }
+  ],
+  "timestamp": "2026-08-12T16:12:20.263611786Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 119:49",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Ka tuna ⟨da⟩ kalmar ⟨ga⟩ bārinka, wadda Ka sa ni in girta.",
+  "tokens": [
+    {
+      "surface": "זְכֹר",
+      "gloss": "Ka tuna"
+    },
+    {
+      "surface": "דָּבָ֥ר",
+      "gloss": "kalmar"
+    },
+    {
+      "surface": "לְעַבְדֶּ֑ךָ",
+      "gloss": "⟨ga⟩ bārinka"
+    },
+    {
+      "surface": "עַ֝֗ל",
+      "gloss": "wadda"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "⟨ce⟩"
+    },
+    {
+      "surface": "יִֽחַלְתָּֽנִי",
+      "gloss": "Ka sa ni in girta"
+    }
+  ],
+  "timestamp": "2026-08-12T20:42:29.294683781Z",
+  "model": "glm-5.2"
+}

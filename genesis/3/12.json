@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ha-adam ya ce, \"⟨Ita⟩ mace da ka bã ni in kasance tare da ni, ita ce ta bã ni daga itacen, kuma na ci.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ha-adam"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mace"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "da"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ka bã ni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "in kasance tare da ni"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ita ce"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ta bã ni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ni"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "itacen"
+    }
+  ],
+  "timestamp": "2026-08-13T01:43:55.310617906Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma ɗiy'n Yis'ra'el sun 'ya'ya, suka taru yawa, suka yawaita, suka ƙaru da ƙarfi sosai, sai ƙasa ta cika da ⟨את⟩ su.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Kuma ɗiy'n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yis'ra'el"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "sun 'ya'ya"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "suka taru yawa"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "suka yawaita"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "suka ƙaru da ƙarfi"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "da"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "sai ta cika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    }
+  ],
+  "timestamp": "2026-08-12T00:27:23.409485464Z",
+  "model": "glm-5.2"
+}

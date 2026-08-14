@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Avram kuma ⟨ya kasance⟩ mai nauyi sosai ⟨ne⟩ a cikin dabbobi, a cikin azurfa, da a cikin zinari.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Avram kuma"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "mai nauyi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "a cikin dabbobi"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "a cikin azurfa"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "da a cikin zinari"
+    }
+  ],
+  "timestamp": "2026-08-11T23:31:21.207961777Z",
+  "model": "glm-5.2"
+}

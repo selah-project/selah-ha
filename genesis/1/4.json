@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Sai Elohim ya ga ⟨את⟩ hasken, cewa ⟨ya⟩ kyautatake, kuma Elohim ya rarrabe tsakanin haske da tsakanin duhu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Sai ya ga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasken"
+    },
+    {
+      "surface": "האור",
+      "gloss": "hasken"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kyautatake"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "kuma ya rarrabe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "האור",
+      "gloss": "haske"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da tsakanin"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "duhu"
+    }
+  ],
+  "timestamp": "2026-08-13T01:43:23.423421072Z",
+  "model": "glm-5.2"
+}

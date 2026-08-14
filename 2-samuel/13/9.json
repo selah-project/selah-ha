@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 13:9",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Sai ta yi ⟨את⟩ ⟨da⟩ tafin, kuma ta zuba gaban shi, sai ya ƙi ci. Sa'an nan Amnon ya ce, \"Ku fitar da kowane mutum daga kaina.\" Sai kowane mutum ya fita daga wajen shi.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "sai ta yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tafin"
+    },
+    {
+      "surface": "המשרת",
+      "gloss": "tafin"
+    },
+    {
+      "surface": "ותצק",
+      "gloss": "kuma ta zuba"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "gaban shi"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "sai ya ƙi"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "ci"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sa'an nan ya ce"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "ku fitar da"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "daga kaina"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "sai suka fita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "daga wajen shi"
+    }
+  ],
+  "timestamp": "2026-08-12T10:17:09.251796228Z",
+  "model": "glm-5.2"
+}

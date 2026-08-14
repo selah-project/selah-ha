@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Ku riƙi koyarwata, ba kuɗi ba, kuma ilimi maimakon zabin gwangwani.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "ku riƙi"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "koyarwata"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kuɗi"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "kuma ilimi"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "gwangwani"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "zabin"
+    }
+  ],
+  "timestamp": "2026-08-12T21:08:23.123155388Z",
+  "model": "glm-5.2"
+}

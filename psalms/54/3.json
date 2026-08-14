@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 54,
+  "translation": "Elohim, da Sunanka ka cece ni, kuma da ƙarfin Ka ka yi mini shari'a.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "da Sunanka"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ka cece ni"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "kuma da ƙarfin Ka"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "ka yi mini shari'a"
+    }
+  ],
+  "timestamp": "2026-08-12T19:49:00.521913612Z",
+  "model": "glm-5.2"
+}

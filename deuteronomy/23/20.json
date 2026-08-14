@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kada ka caji riba ga ɗan'uwanka; ribar azurfa, ribar abinci, ribar kowane abu da ake cajin riba a kansa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "ka caji riba"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ga ɗan'uwanka"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ribar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "azurfa"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ribar"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "abinci"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ribar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "abu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ake cajin riba a kansa"
+    }
+  ],
+  "timestamp": "2026-08-12T05:33:50.300569530Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "A ranar ⟨wancen⟩ za a ci ⟨shi⟩, kada ku bar wani abu daga gare ⟨shi⟩ har safe; ni ni ne Yahweh.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "A ranar"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨wancen⟩"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "za a ci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "ku bar"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "wani abu daga gare"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "safe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni ne Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T02:43:40.944847684Z",
+  "model": "glm-5.2"
+}

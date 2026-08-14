@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 48:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 48,
+  "translation": "Ku sanya zukatanku a kan ganuwarta, ku duba fadarɗinta, domin ku tsara ⟨ga⟩ ƙarni na ƙarshe.",
+  "tokens": [
+    {
+      "surface": "שִׁ֤יתוּ",
+      "gloss": "ku sanya"
+    },
+    {
+      "surface": "לִבְּכֶ֨ם",
+      "gloss": "zukatanku"
+    },
+    {
+      "surface": "לְחֵילָ֗הּ",
+      "gloss": "a kan ganuwarta"
+    },
+    {
+      "surface": "פַּסְּג֥וּ",
+      "gloss": "ku duba"
+    },
+    {
+      "surface": "אַרְמְנוֹתֶ֑יהָ",
+      "gloss": "fadarɗinta"
+    },
+    {
+      "surface": "לְמַ֥עַן",
+      "gloss": "domin"
+    },
+    {
+      "surface": "תְּסַפְּר֗וּ",
+      "gloss": "ku tsara"
+    },
+    {
+      "surface": "לְד֣וֹר",
+      "gloss": "⟨ga⟩ ƙarni"
+    },
+    {
+      "surface": "אַחֲרֽוֹן",
+      "gloss": "na ƙarshe"
+    }
+  ],
+  "timestamp": "2026-08-13T02:24:31.411885389Z",
+  "model": "glm-5.2"
+}

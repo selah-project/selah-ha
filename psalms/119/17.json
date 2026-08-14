@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Ka yi masa kyau ⟨ga⟩ bāranka, in raye, kuma in kiyaye magananka.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "Ka yi masa kyau"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨ga⟩"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bāranka"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "in raye"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "kuma in kiyaye"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "magananka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:39:53.502351303Z",
+  "model": "glm-5.2"
+}

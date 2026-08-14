@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Idan wani ya ci gona ko gonar inabi, ya kuma saka ⟨את⟩ dabbobinsa, su ci a gona ⟨ta wani⟩, daga mafi kyawun gona nasa da mafi kyawun gonar inabi nasa ya biya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "ya ci"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wani"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "gona"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "gonar inabi"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ya kuma saka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dabbobinsa"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "dabbobinsa"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "su ci"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a gona"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "⟨ta wani⟩"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "daga mafi kyawun"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "gona nasa"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "da mafi kyawun"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "gonar inabi nasa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ya biya"
+    }
+  ],
+  "timestamp": "2026-08-12T01:03:53.954536883Z",
+  "model": "glm-5.2"
+}

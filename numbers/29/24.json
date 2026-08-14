@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 29:24",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "hadayar hatsi ta su da hadayar abin sha ta su, ga shanu, ga ramuka, da kuma ga ɗiyayen tumaki, a cikin adadin su, bisa ga doka.",
+  "tokens": [
+    {
+      "surface": "מנחתם",
+      "gloss": "hadayar hatsi ta su"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "da hadayar abin sha ta su"
+    },
+    {
+      "surface": "לפרים",
+      "gloss": "ga shanu"
+    },
+    {
+      "surface": "לאילם",
+      "gloss": "ga ramuka"
+    },
+    {
+      "surface": "ולכבשים",
+      "gloss": "da kuma ga ɗiyayen tumaki"
+    },
+    {
+      "surface": "במספרם",
+      "gloss": "a cikin adadin su"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "bisa ga doka"
+    }
+  ],
+  "timestamp": "2026-08-12T04:31:41.219450699Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Haka kuma duk waɗanda suke jira ka, ba za a ba su kunya ba; za a ba su kunya waɗanda suke yaudara ba tare da wani dalili ba.",
+  "tokens": [
+    {
+      "surface": "גַּ֣ם",
+      "gloss": "Haka kuma"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "קוֶ֭יךָ",
+      "gloss": "waɗanda suke jira ka"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יֵבֹ֑שׁוּ",
+      "gloss": "za a ba su kunya"
+    },
+    {
+      "surface": "יֵבֹ֗שׁוּ",
+      "gloss": "za a ba su kunya"
+    },
+    {
+      "surface": "הַבּוֹגְדִ֥ים",
+      "gloss": "waɗanda suke yaudara"
+    },
+    {
+      "surface": "רֵיקָֽם",
+      "gloss": "ba tare da wani dalili ba"
+    }
+  ],
+  "timestamp": "2026-08-12T19:32:22.852738565Z",
+  "model": "glm-5.2"
+}

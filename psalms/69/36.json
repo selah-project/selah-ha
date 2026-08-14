@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 69:36",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Domi Elohim Zai tsira da Tsiyon, kuma Zai gina biranen Yehuda, kuma za su zauna can, kuma su gaji ⟨ta⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "Zai tsira da"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "kuma Zai gina"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "biranen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "kuma za su zauna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "kuma su gaji ⟨ta⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T19:59:33.436759754Z",
+  "model": "glm-5.2"
+}

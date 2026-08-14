@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Ban tura ⟨את⟩ annabawa ba, kuma sun gudu; ban yi musu magana ba, kuma sun annabta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "tura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "annabawa"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "annabawa"
+    },
+    {
+      "surface": "והם",
+      "gloss": "kuma sun"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "gudu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "yi magana"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "והם",
+      "gloss": "kuma sun"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "annabta"
+    }
+  ],
+  "timestamp": "2026-08-12T15:40:48.921281398Z",
+  "model": "glm-5.2"
+}

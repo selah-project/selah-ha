@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 113,
+  "translation": "Daga tashegartar rana har zuwa faɗuwarta, sunan Yahweh ana yabbo.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "Daga tashegartar"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "rana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "faɗuwarta"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "ana yabbo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sunan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T20:35:58.097561630Z",
+  "model": "glm-5.2"
+}

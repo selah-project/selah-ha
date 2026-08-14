@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ka shafa ⟨את⟩ su, kamar yadda ka shafa ⟨את⟩ uban su, domin su yì min hidima a matsayin malamai; kuma zã ta kasance ⟨ce⟩, ga shafawa ta su, zama majalisar malami ta har abada, ga ƙarni-ƙarninsu.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "kuma ka shafa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ su",
+      "marks": "'ya'ƴan Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ka shafa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uban su"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "uban su"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "domin su yì hidima a matsayin malamai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "kuma zã ta kasance"
+    },
+    {
+      "surface": "להית",
+      "gloss": "zama"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "shafawa ta su"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "majalisar malami"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ta har abada"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ga ƙarni-ƙarninsu"
+    }
+  ],
+  "timestamp": "2026-08-12T01:41:09.402821686Z",
+  "model": "glm-5.2"
+}

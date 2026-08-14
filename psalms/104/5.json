@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 104,
+  "translation": "⟨Ya⟩ kafa ƙasa a kan mabuɗinta, ba za ta girgiza ⟨har⟩ abadama.",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "⟨Ya⟩ kafa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa",
+      "marks": "ƙasa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "mabuɗinta"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "za ta girgiza"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨har⟩ abadama"
+    },
+    {
+      "surface": "ועד",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-14T00:02:34.044165608Z",
+  "model": "glm-5.2"
+}

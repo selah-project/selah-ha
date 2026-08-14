@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Na ce wa Yahweh, \"Adonai, kai ⟨ne⟩; ba ⟨ni⟩ da wata alhɛri ba ta wajen kanka.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Na ce"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "alhɛri ta"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "a wajenka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:21:45.170781484Z",
+  "model": "glm-5.2"
+}

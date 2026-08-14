@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 5:4",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Ester ta ce, \"Idan yana da kyau ga sarki, sarki da Haman su zo yau zuwa liyafa da na shirya masa.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ta ce"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yana da kyau"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "su zo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "da Haman"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "liyafa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "na shirya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:56:22.975640597Z",
+  "model": "glm-5.2"
+}

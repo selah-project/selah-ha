@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma ⟨za⟩ ɗanƙara⟦shi⟧ a cikin tsoron Yahweh; kuma ba za yi masa shari'a bisa abin da idanunSa ke gani ba, kuma ba za yi wa wasu tuhuma bisa abin da kunnuwanSa ke ji ba.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "Kuma ⟨za⟩ ɗanƙara⟦shi⟧"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "a cikin tsoron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "bisa abin da ... ke gani"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "idanunSa"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "za yi masa shari'a"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "bisa abin da ... ke ji"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "kunnuwanSa"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "za yi wa wasu tuhuma"
+    }
+  ],
+  "timestamp": "2026-08-12T13:19:01.392939300Z",
+  "model": "glm-5.2"
+}

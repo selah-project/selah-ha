@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "'Amma kai da bayinka, na sani cewa ba ku tsoron fuskar Yahweh, Elohim, ⟨har yanzu⟩.'",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "amma kai"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "da bayinka"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "na sani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ba ⟨har yanzu⟩"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "ku tsoron"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "fuskar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:38:56.901965907Z",
+  "model": "glm-5.2"
+}

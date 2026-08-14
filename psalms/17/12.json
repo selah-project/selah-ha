@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kamanninsa ⟨yana⟩ kamar zaki yana marmarin yãgu, kuma kamar ɗan zaki yana zaune a ɓoye.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "Kamanninsa"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "kamar zaki"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "yana marmarin"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "yãgu"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "kuma kamar ɗan zaki"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yana zaune"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "a ɓoye"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:25.151595419Z",
+  "model": "glm-5.2"
+}

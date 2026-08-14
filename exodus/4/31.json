@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Mutãnen suka yi imani, suka ji cewa Yahweh ya ziyartci ⟨את⟩ ƴan Isra'ila, kuma cewa ya ga ⟨את⟩ wulãkansu, suka yanka kai suka lallasa.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "suka yi imani"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Mutãnen"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "suka ji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ya ziyartci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴan Isra'ila"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "kuma cewa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ya ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wulãkansu"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "wulãkansu"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "suka yanka kai"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "suka lallasa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:31:08.721350354Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Zuɓe na ƙuruciyata da tawaye na, kada ka tuna su, cikin chesedinka ka tuna ni, Kai, domin nagartancinka, Yahweh.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "Zuɓe"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "na ƙuruciyata"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "da tawaye na"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ka tuna"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "cikin chesedinka"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ka tuna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "למען",
+      "gloss": "domin"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "nagartancinka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T19:29:38.258282772Z",
+  "model": "glm-5.2"
+}

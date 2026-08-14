@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma ya kasance, a lokacin da ta yawaita yin salla a gaban Yahweh, kuma Eli yana kallo ⟨a⟩ ⟨את⟩ bakinta.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a lokacin da"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "ta yawaita"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "yin salla"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "kuma Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "yana kallo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakinta"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "bakinta"
+    }
+  ],
+  "timestamp": "2026-08-12T08:18:48.714543008Z",
+  "model": "glm-5.2"
+}

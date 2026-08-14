@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "domin rãyenshi a cikin rãyawarsa yana gaishe ⟨shi⟩, kuma suna gõtar da kai domin kana kyautatawa ⟨ga⟩ kãnka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "rãyenshi"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "a cikin rãyawarsa"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "yana gaishe"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "kuma suna gõtar da kai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "kana kyautatawa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ga kãnka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:48:18.970260117Z",
+  "model": "glm-5.2"
+}

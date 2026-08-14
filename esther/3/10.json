@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Sai ⟨sarki⟩ ya cire ⟨את⟩ zobe sa daga kan hannunsa, ya ba ⟨shi⟩ ga Haman ɗan Hammedata ɗan Agagi, maƙiyin Yahudawa.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Sai ya cire"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨sarki⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zobe sa"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "zobe sa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "daga kan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hannunsa"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ya ba ⟨shi⟩"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "ga Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hammedata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "ɗan Agagi"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "maƙiyin"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yahudawa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:52:54.720832795Z",
+  "model": "glm-5.2"
+}

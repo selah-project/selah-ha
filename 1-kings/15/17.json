@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 15:17",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Sai Baasha sarki ne ⟨na⟩ Yisra'el ya tāra ⟨sojoji⟩ a kan Yehuda, kuma ya gina ⟨את⟩ Ramah, domin kada a bā damar wajen fita da shigowa ga Asa sarki ⟨na⟩ Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ya tāra ⟨sojoji⟩"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "kuma ya gina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramah"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ramah"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "domin kada"
+    },
+    {
+      "surface": "תת",
+      "gloss": "a bā damar"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "fita"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "da shigowa"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "ga Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-12T11:32:23.325154088Z",
+  "model": "glm-5.2"
+}

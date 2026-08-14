@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "kuma idan ba haka ba, wuta za ta fita daga Avimelek, ta cinye ⟨את⟩ mutanen Shekem da ⟨את⟩ gidan Milo; kuma wuta za ta fita daga mutanen Shekem da kuma gidan Milo, ta cinye ⟨את⟩ Avimelek.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ba haka ba"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "za ta fita"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "daga Avimelek"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ta cinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanen Shekem"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "jagororin"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "gidan Milo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "kuma za ta fita"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "daga jagororin"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "da kuma daga gidan"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ta cinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelek"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    }
+  ],
+  "timestamp": "2026-08-13T01:58:10.472940815Z",
+  "model": "glm-5.2"
+}

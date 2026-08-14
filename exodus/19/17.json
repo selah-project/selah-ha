@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma Mosheh ya fitar da ⟨את⟩ mutãnen don su haɗu da ⟨את⟩ Elohim, daga sansanin, kuma suka tsaya a ƙarƙashin dutsen.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "kuma ya fitar da"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutãnen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "don su haɗu da"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "sansanin"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "kuma suka tsaya"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "a ƙarƙashin"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dutsen"
+    }
+  ],
+  "timestamp": "2026-08-12T00:53:51.049810751Z",
+  "model": "glm-5.2"
+}

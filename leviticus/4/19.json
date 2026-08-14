@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma ⟨את⟩ duka kitsetsa zai ɗauke daga gare shi, kuma ya ƙone shi a kan ginin hadaya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "duka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "kitsetsa"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "zai ɗauke"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare shi"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "kuma ya ƙone shi"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "a kan ginin hadaya"
+    }
+  ],
+  "timestamp": "2026-08-12T01:48:21.182033233Z",
+  "model": "glm-5.2"
+}

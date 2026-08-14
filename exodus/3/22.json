@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 3:22",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma kowace mace za ta nemi daga makwanciyarta kuma daga baƙar da ke zaune a gidanta, kayan azurfa da kayan zãhiyã da kayan sawa, kuma ku sa su a kan ƴãyanku maza da a kan ƴãyanku mata, kuma ku ceci ⟨את⟩ Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ושאלה",
+      "gloss": "Kuma za ta nemi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kowace mace"
+    },
+    {
+      "surface": "משכנתה",
+      "gloss": "daga makwanciyarta"
+    },
+    {
+      "surface": "ומגרת",
+      "gloss": "kuma daga baƙar"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "da ke zaune a gidanta"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kayan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "azurfa"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "da kayan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zãhiyã"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "da kayan sawa"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "kuma ku sa su"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ƴãyanku maza"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da a kan"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "ƴãyanku mata"
+    },
+    {
+      "surface": "ונצלתם",
+      "gloss": "kuma ku ceci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:30:55.628341964Z",
+  "model": "glm-5.2"
+}

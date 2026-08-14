@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Kuma Yousufu ya ciyar da ⟨את⟩ uban-sa da ⟨את⟩ 'yan'uwan-sa da ⟨את⟩ duka gidan uban-sa, da abinci, a cewar yara-kanana.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "Kuma ya ciyar da"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yousufu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uban-sa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uban-sa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "'yan'uwan-sa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "'yan'uwan-sa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "duka gidan uban-sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uban-sa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "da abinci"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "a cewar"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "yara-kanana"
+    }
+  ],
+  "timestamp": "2026-08-12T00:21:37.600289011Z",
+  "model": "glm-5.2"
+}

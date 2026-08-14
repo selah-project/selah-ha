@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Kuma ya tsare su daga hannun mai ƙi, ya kuɓe su daga hannun maƙiyi.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "kuma ya tsare su"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "mai ƙi"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "ya kuɓe su"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "maƙiyi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:31:40.171692414Z",
+  "model": "glm-5.2"
+}

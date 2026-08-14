@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 148,
+  "translation": "Samari da kuma matan aurana, tsofaffi tare da yara",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "samari"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "da kuma"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "matan aurana"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "tsofaffi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "yara"
+    }
+  ],
+  "timestamp": "2026-08-12T20:57:39.255237298Z",
+  "model": "glm-5.2"
+}

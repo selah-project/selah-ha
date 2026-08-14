@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Ta yi makoki, ta bushewa, ⟨ta⟩ ƙasa; ta raunana, ta bushewa, duniya; suka raunana tsayin mutanen ƙasar.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "Ta yi makoki"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ta bushewa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "ta raunana"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ta bushewa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "duniya"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "suka raunana"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "tsayin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    }
+  ],
+  "timestamp": "2026-08-12T13:38:29.696181211Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 53:6",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 53,
+  "translation": "Dukkan mu kamar tunkuɗa muka ɓata; kowa ya juya zuwa hanyarsa ⟨ne⟩; kuma Yahweh ya sa ya faɗa a kansa ⟨את⟩ zunuban dukkan mu.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "Dukkan mu"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kamar tunkuɗa"
+    },
+    {
+      "surface": "תעינו",
+      "gloss": "muka ɓata"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowa"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "zuwa hanyarsa"
+    },
+    {
+      "surface": "פנינו",
+      "gloss": "ya juya"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kuma Yahweh"
+    },
+    {
+      "surface": "הפגיע",
+      "gloss": "ya sa ya faɗa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zunuban"
+    },
+    {
+      "surface": "עון",
+      "gloss": "zunuban"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "dkkan mu"
+    }
+  ],
+  "timestamp": "2026-08-12T14:30:45.607101488Z",
+  "model": "glm-5.2"
+}

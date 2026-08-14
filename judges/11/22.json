@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Suka gaji ⟨את⟩ dukkan iyakar Ha'emori, daga Arnon har zuwa Yabbok, kuma daga hamada har zuwa Yarden.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "Suka gaji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "iyakar"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Ha'emori"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "daga Arnon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yabbok"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kuma daga"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "hamada"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-12T07:52:19.110256328Z",
+  "model": "glm-5.2"
+}

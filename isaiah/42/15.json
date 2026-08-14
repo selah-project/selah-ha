@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Zan lalata tsaunuka da tudai, kuma duk ciyawarsu zan bushe, kuma zan sanya koguna su zama tsibai, kuma tafkuna zan bushe.",
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "Zan lalata"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tsaunuka"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "kuma tudai"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma duk"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "ciyawarsu"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "zan bushe"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "kuma zan sanya"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "koguna"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "su zama tsibai"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "kuma tafkuna"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "zan bushe"
+    }
+  ],
+  "timestamp": "2026-08-12T14:06:39.875147065Z",
+  "model": "glm-5.2"
+}

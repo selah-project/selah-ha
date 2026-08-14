@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Tabbas a cikin inuwa mutum yana tafiya. Tabbas fanko ne suke ta jalala. Yana tara ⟨dukiya⟩, kuma ba ya san wanene zai tattara shi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tabbas"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "a cikin inuwa"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "yana tafiya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Tabbas"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "fanko"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "suke ta jalala"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "Yana tara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ya san"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wanene"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "zai tattara shi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:42:10.253556173Z",
+  "model": "glm-5.2"
+}

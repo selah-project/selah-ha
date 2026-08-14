@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Πικουντί του Yahweh ⟨είναι⟩ ίσιοι, ⟨αυτοί που⟩ χαροποιούν την καρδιά· η εντολή του Yahweh ⟨είναι⟩ καθαρή, φωτίζοντας τα μάτια.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "τα προστάγματα"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "είναι ίσιοι"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "χαροποιοί"
+    },
+    {
+      "surface": "לב",
+      "gloss": "καρδιάς"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "εντολή"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "καθαρή"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "φωτίζουσα"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "μάτια"
+    }
+  ],
+  "timestamp": "2026-08-12T19:23:58.471782048Z",
+  "model": "glm-5.2"
+}

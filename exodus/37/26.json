@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 37:26",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma ya rufe shi da zinariya marga, ⟨את⟩ rufinsa da ⟨את⟩ ganuwarsa a kewaye, da ⟨את⟩ ƙahonansa; kuma ya yi wa shi zēr na zinariya a kewaye.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "Kuma ya rufe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi",
+      "marks": "shi (bagadin)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinariya"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "marga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rufinsa"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "rufinsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ganuwarsa"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "ganuwarsa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewaye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙahonansa"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ƙahonansa"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "kuma ya yi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wa shi"
+    },
+    {
+      "surface": "זר",
+      "gloss": "zēr"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "na zinariya"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewaye"
+    }
+  ],
+  "timestamp": "2026-08-12T01:32:52.199213977Z",
+  "model": "glm-5.2"
+}

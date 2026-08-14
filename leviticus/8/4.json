@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma Mosheh ya yi kamar yadda Yahweh ya umurce ⟨את⟩ shi; kuma taron jama'a ya taru a ƙofar taduniwar taro.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "kuma ya taru"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "taron jama'a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ƙofar"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "taduniwar"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "taro"
+    }
+  ],
+  "timestamp": "2026-08-12T01:56:56.747787785Z",
+  "model": "glm-5.2"
+}

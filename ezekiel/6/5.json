@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma Na saka ⟨את⟩ gawajin ɗan Yisra'el a gaban gullolinsu, kuma Na watse ⟨את⟩ ƙashinku a kewayen madibanku.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Kuma Na saka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gawajin"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "gawajin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "gullolinsu"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "kuma Na watse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙashinku"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "ƙashinku"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "a kewayen"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "madibanku"
+    }
+  ],
+  "timestamp": "2026-08-12T16:54:51.738011306Z",
+  "model": "glm-5.2"
+}

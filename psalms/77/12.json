@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 77,
+  "translation": "Zan tuna ayyukan Yah; ga gaskiya, zan tunawa da abin al'ajabinka daga 〈farko〉.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Zan tuna"
+    },
+    {
+      "surface": "מַֽעַלְלֵי",
+      "gloss": "ayyukan"
+    },
+    {
+      "surface": "יָ֑הּ",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "ga gaskiya"
+    },
+    {
+      "surface": "אֶזְכְּרָ֖ה",
+      "gloss": "zan tunawa"
+    },
+    {
+      "surface": "מִקֶּ֣דֶם",
+      "gloss": "daga farko"
+    },
+    {
+      "surface": "פִּלְאֶֽךָ",
+      "gloss": "abin al'ajabinka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:05:49.264832906Z",
+  "model": "glm-5.2"
+}

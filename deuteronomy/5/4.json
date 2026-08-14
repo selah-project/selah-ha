@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Fuska da fuska Yahweh Ya yi magana da ku a cikin daga, daga tsakiyar wutar.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "fuska"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "da fuska"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ya yi magana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "da ku"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a cikin daga"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "daga tsakiyar"
+    },
+    {
+      "surface": "האש",
+      "gloss": "wutar"
+    }
+  ],
+  "timestamp": "2026-08-13T01:53:49.289387329Z",
+  "model": "glm-5.2"
+}

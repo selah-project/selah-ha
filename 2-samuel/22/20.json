@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma ya fitar da ni zuwa wuri mai faɗi, ya ceto ni, domin yana so ni.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Kuma ya fitar da ni"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "zuwa wuri mai faɗi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "ya ceto ni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yana so"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-12T10:40:45.665845547Z",
+  "model": "glm-5.2"
+}

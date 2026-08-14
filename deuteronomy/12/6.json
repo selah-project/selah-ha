@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma can kuke kawo ƙurburan ku da gurgur ku da ⟨את⟩ goma ɗari cikin ɗari ku da ⟨את⟩ gudummar hannun ku da alkawuran ku da kyaututtukan ku da fari na shanun ku da tumar ku.",
+  "tokens": [
+    {
+      "surface": "והבאתם",
+      "gloss": "Kuma kuke kawo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "can"
+    },
+    {
+      "surface": "עלתיכם",
+      "gloss": "ƙurburan ku"
+    },
+    {
+      "surface": "וזבחיכם",
+      "gloss": "da gurgur ku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "goma ɗari cikin ɗari ku"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "goma ɗari cikin ɗari ku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gudummar hannun ku"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "gudummar"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "hannun ku"
+    },
+    {
+      "surface": "ונדריכם",
+      "gloss": "da alkawuran ku"
+    },
+    {
+      "surface": "ונדבתיכם",
+      "gloss": "da kyaututtukan ku"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "da fari na"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "shanun ku"
+    },
+    {
+      "surface": "וצאנכם",
+      "gloss": "da tumar ku"
+    }
+  ],
+  "timestamp": "2026-08-12T05:14:01.173546285Z",
+  "model": "glm-5.2"
+}

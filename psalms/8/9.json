@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Tsuntsun sama, da kifin teku, abin da ke tsallaka hanyoyin ruwa.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "tsuntsun"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "da kifin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "teku"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "abin da ke tsallaka"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "hanyoyin"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ruwa"
+    }
+  ],
+  "timestamp": "2026-08-13T03:07:36.187331202Z",
+  "model": "glm-5.2"
+}

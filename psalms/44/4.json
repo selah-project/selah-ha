@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 44:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Gama ba da takobinsu suka mallaki ƙasa, kuma hannuwansu ba ya ceton su; amma dama ta hannunka da hannunka da hasken fuskarka, gama ka yarda da su.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Gama"
+    },
+    {
+      "surface": "לֹ֪א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בְּחַרְבָּ֡ם",
+      "gloss": "da takobinsu"
+    },
+    {
+      "surface": "יָ֥רְשׁוּ",
+      "gloss": "suka mallaki"
+    },
+    {
+      "surface": "אָ֗רֶץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "וּזְרוֹעָם֮",
+      "gloss": "kuma hannuwansu"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הוֹשִׁ֪יעָ֫ה",
+      "gloss": "ya ceton"
+    },
+    {
+      "surface": "לָּ֥מוֹ",
+      "gloss": "su"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "amma"
+    },
+    {
+      "surface": "יְמִֽינְךָ֣",
+      "gloss": "dama ta hannunka"
+    },
+    {
+      "surface": "וּזְרוֹעֲךָ֮",
+      "gloss": "da hannunka"
+    },
+    {
+      "surface": "וְא֥וֹר",
+      "gloss": "da hasken"
+    },
+    {
+      "surface": "פָּנֶ֗יךָ",
+      "gloss": "fuskarka"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "gama"
+    },
+    {
+      "surface": "רְצִיתָֽם",
+      "gloss": "ka yarda da su"
+    }
+  ],
+  "timestamp": "2026-08-12T19:43:52.624762214Z",
+  "model": "glm-5.2"
+}

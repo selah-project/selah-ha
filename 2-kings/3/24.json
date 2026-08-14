@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma suka zo zuwa sansanin Yisra'el, kuma Yisra'el ya tashi ya buge ⟨את⟩ Moab, kuma suka gudu daga gabansu; suka shiga kasarta ⟨don⟩ yin duka a ⟨את⟩ Moab.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Kuma suka zo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "sansanin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "kuma ya tashi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ya buge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "kuma suka gudu"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "daga gabansu"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "suka shiga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kasarta"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "don yin duka a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-08-13T03:05:17.789403974Z",
+  "model": "glm-5.2"
+}

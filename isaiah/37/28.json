@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma zamaceka, da fitarceka, da shigarka, na sani, da ⟨את⟩ tashinkar hankali zuwa gare Ni.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "Kuma zamaceka"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "da fitarceka"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "da shigarka"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "na sani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tashinkar hankali"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "tashinkar hankali"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "zuwa gare Ni"
+    }
+  ],
+  "timestamp": "2026-08-12T13:55:58.734265150Z",
+  "model": "glm-5.2"
+}

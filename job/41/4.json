@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 41:4",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Ba zan shirya game da ƙaryar sa ba, ko kuma game da maganar ƙarfin sa da kyakkyawar tsarinsa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "אַחֲרִ֥ישׁ",
+      "gloss": "zan shirya"
+    },
+    {
+      "surface": "בַּדָּ֑יו",
+      "gloss": "game da ƙaryar sa"
+    },
+    {
+      "surface": "וּדְבַר",
+      "gloss": "ko kuma game da maganar"
+    },
+    {
+      "surface": "גְּבוּר֗וֹת",
+      "gloss": "ƙarfin sa"
+    },
+    {
+      "surface": "וְחִ֣ין",
+      "gloss": "da kyakkyawar"
+    },
+    {
+      "surface": "עֶרְכּֽוֹ",
+      "gloss": "tsarinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:20:04.990446952Z",
+  "model": "glm-5.2"
+}

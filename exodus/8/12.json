@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Yahweh ya ce wa Moshe, \"Ka ce wa Aharon, 'Ka miƙa ⟨את⟩ sandinka, ka doki ⟨את⟩ ƙura ta ƙasa, kuma ta zama sauro a duk ƙasar Mitsrayim.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Ka ce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Ka miƙa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandinka"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "sandinka"
+    },
+    {
+      "surface": "והך",
+      "gloss": "ka doki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙura"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ƙura"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ta ƙasa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kuma ta zama"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "sauro"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:38:06.768141515Z",
+  "model": "glm-5.2"
+}

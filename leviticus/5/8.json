@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "kuma ya kawo ⟨את⟩ su zuwa ga kohen, kuma ya kusantar da ⟨את⟩ wanda Ↄna zunubi na farko, kuma ya fidda ⟨את⟩ kan sa daga gaban wuyan sa, amma kada ya raba shi gaba ɗaya.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "kuma ya kawo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ su",
+      "marks": "su"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "kuma ya kusantar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "Ↄna zunubi"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "na farko"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "kuma ya fidda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan sa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kan sa"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "wuyan sa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma kada"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "ya raba shi"
+    }
+  ],
+  "timestamp": "2026-08-12T01:56:05.438569278Z",
+  "model": "glm-5.2"
+}

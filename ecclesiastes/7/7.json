@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Gama lalefa tana sa mai hikima ya rasa hankali, kuma kyauta tana lalata ⟨את⟩ zuciya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gama"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "lalefa"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "tana sa ya rasa hankali"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mai hikima"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "kuma tana lalata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuciya"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciya"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "kyauta"
+    }
+  ],
+  "timestamp": "2026-08-12T22:45:33.183557140Z",
+  "model": "glm-5.2"
+}

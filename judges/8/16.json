@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ya riƙe ⟨את⟩ dattijan birnin, da ⟨את⟩ kayan ƙaya na jeji, da ⟨את⟩ bãyar busasshiyar ita, ya koya musu da su ⟨את⟩ mutãnen Sukkut.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ya riƙe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dattijan birnin"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "dattijan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kayan ƙaya na jeji"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "kayan ƙaya"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "na jeji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "bãyar busasshiyar ita"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "bãyar busasshiyar ita"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ya koya musu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "da su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutãnen Sukkut"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkut"
+    }
+  ],
+  "timestamp": "2026-08-12T07:37:02.120460730Z",
+  "model": "glm-5.2"
+}

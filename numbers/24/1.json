@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 24:1",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma Bilam ya gan cewa ⟨ce⟩ kyau a idanun Yahweh ⟨ya⟩ tabbatar da ⟨את⟩ Yisra'el, bai tafi kamar lõkaci nan da lõkaci don neman duba ba, kuma ya sa ido daban a kan hamada.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ya gan"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kyau"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "⟨ya⟩ tabbatar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bai"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "tafi"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "kamar lõkaci nan"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "da lõkaci"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "don neman"
+    },
+    {
+      "surface": "נחשים",
+      "gloss": "duba"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "kuma ya sa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "daban a kan"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "hamada"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ido"
+    }
+  ],
+  "timestamp": "2026-08-13T01:53:09.843767674Z",
+  "model": "glm-5.2"
+}

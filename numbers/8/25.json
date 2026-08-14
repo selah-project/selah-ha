@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma daga ɗan shekaru hamsin ⟨za a⟩ koma daga rundunar aikin, kuma ba za a yi aiki ba tabbas.",
+  "tokens": [
+    {
+      "surface": "וּמִבֶּן",
+      "gloss": "Kuma daga ɗan"
+    },
+    {
+      "surface": "חֲמִשִּׁים",
+      "gloss": "hamsin"
+    },
+    {
+      "surface": "שָׁנָה",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "יָשׁוּב",
+      "gloss": "⟨za a⟩ koma"
+    },
+    {
+      "surface": "מִצְּבָא",
+      "gloss": "daga rundunar"
+    },
+    {
+      "surface": "הָעֲבֹדָה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "kuma ba za a"
+    },
+    {
+      "surface": "יַעֲבֹד",
+      "gloss": "yi aiki"
+    },
+    {
+      "surface": "עוֹד",
+      "gloss": "tabbas"
+    }
+  ],
+  "timestamp": "2026-08-12T03:36:09.338759223Z",
+  "model": "glm-5.2"
+}

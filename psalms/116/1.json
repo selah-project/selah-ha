@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 116,
+  "translation": "Na ƙaunaci, domin Yahweh yana ji ⟨את⟩ muryata, roƙona.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Na ƙaunaci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "yana ji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muryata"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "muryata"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "roƙona"
+    }
+  ],
+  "timestamp": "2026-08-12T20:40:04.920706294Z",
+  "model": "glm-5.2"
+}

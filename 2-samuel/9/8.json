@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Sai ya yi gajsarka ya ce, \"Mene ne bayinka, domin ka juya zuwa ⟨ga⟩ karennan da ya mutu, wanda kamar ni?\"",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "ya yi gajsarka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mene ne"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bayinka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "ka juya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "karen"
+    },
+    {
+      "surface": "המת",
+      "gloss": "da ya mutu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "kamar ni"
+    }
+  ],
+  "timestamp": "2026-08-12T10:02:56.065088204Z",
+  "model": "glm-5.2"
+}

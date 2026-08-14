@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Ga Yahudawa ⟨akwai⟩ haske, da murna, da farinciki, da girmama.",
+  "tokens": [
+    {
+      "surface": "לַיְּהוּדִ֕ים",
+      "gloss": "ga Yahudawa"
+    },
+    {
+      "surface": "הָֽיְתָ֥ה",
+      "gloss": "⟨akwai⟩"
+    },
+    {
+      "surface": "אוֹרָ֖ה",
+      "gloss": "haske"
+    },
+    {
+      "surface": "וְשִׂמְחָ֑ה",
+      "gloss": "da murna"
+    },
+    {
+      "surface": "וְשָׂשֹׂ֖ן",
+      "gloss": "da farinciki"
+    },
+    {
+      "surface": "וִיקָֽר",
+      "gloss": "da girmama"
+    }
+  ],
+  "timestamp": "2026-08-12T22:57:56.501654682Z",
+  "model": "glm-5.2"
+}

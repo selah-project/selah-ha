@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 138,
+  "translation": "Sarakunan ƙasa dabam dabam, su gode maka, Yahweh, domin sun ji maganganun bakinka.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "su gode maka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "saraknan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sun ji"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "maganganun"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "bakinka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:55:46.487155570Z",
+  "model": "glm-5.2"
+}

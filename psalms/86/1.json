@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 86,
+  "translation": "Addu'a ⟨na⟩ Dawuda. Yi fuskarka, Yahweh, ka saurare ni, domin ni matalauci ne kuma ⟨ni⟩ matafi, ni ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "תְּפִלָּ֗ה",
+      "gloss": "Addu'a"
+    },
+    {
+      "surface": "לְדָ֫וִ֥ד",
+      "gloss": "⟨na⟩ Dawuda"
+    },
+    {
+      "surface": "הַטֵּֽה",
+      "gloss": "yi fuskarka"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אָזְנְךָ֣",
+      "gloss": "saurare ni"
+    },
+    {
+      "surface": "עֲנֵ֑נִי",
+      "gloss": "amsa ni"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עָנִ֖י",
+      "gloss": "matalauci"
+    },
+    {
+      "surface": "וְאֶבְי֣וֹן",
+      "gloss": "kuma matafi"
+    },
+    {
+      "surface": "אָֽנִי",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-12T20:18:47.613651747Z",
+  "model": "glm-5.2"
+}

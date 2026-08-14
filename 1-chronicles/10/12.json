@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 10:12",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "kuma duk wani mutum mai ƙarfi ya tashi, suka ɗauka ⟨את⟩ gawar Shaul da ⟨את⟩ gawar ɗiyansa, suka kawo su Yavesh, suka binne ⟨את⟩ ƙasashensu ƙarƙashin itacen ita a Yavesh, suka azumi kwanaki bakwai.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "suka tashi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wani mutum"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mai ƙarfi"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "suka ɗauka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gawar Shaul"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "gawar"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "gawar"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɗiyansa"
+    },
+    {
+      "surface": "ויביאום",
+      "gloss": "suka kawo su"
+    },
+    {
+      "surface": "יבישה",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "suka binne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasashensu"
+    },
+    {
+      "surface": "עצמותיהם",
+      "gloss": "ƙasashensu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ƙarƙashin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "itacen ita"
+    },
+    {
+      "surface": "ביבש",
+      "gloss": "a Yavesh"
+    },
+    {
+      "surface": "ויצומו",
+      "gloss": "suka azumi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "bakwai"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaki"
+    }
+  ],
+  "timestamp": "2026-08-13T00:10:00.792254477Z",
+  "model": "glm-5.2"
+}

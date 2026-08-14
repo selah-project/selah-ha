@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Kuma Pelishtiyawa suka tarawa, suka zo, suka sansanta a Shunem. Kuma Sha'ul ya tar ⟨את⟩ duka Yisra'el, suka sansanta a Gilbo'a.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "suka tarawa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtiyawa"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "suka zo"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "suka sansanta"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "a Shunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "ya tar"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka Yisra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "suka sansanta"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "a Gilbo'a"
+    }
+  ],
+  "timestamp": "2026-08-12T09:37:38.616036330Z",
+  "model": "glm-5.2"
+}

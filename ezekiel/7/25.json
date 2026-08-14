@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Tsoro ⟨na⟩ rugujewa yana zuwa, kuma za su nemi salama, amma babu.",
+  "tokens": [
+    {
+      "surface": "קְפָ֖דָה",
+      "gloss": "tsoro ⟨na⟩ rugujewa"
+    },
+    {
+      "surface": "בָ֑א",
+      "gloss": "yana zuwa"
+    },
+    {
+      "surface": "וּבִקְשׁ֥וּ",
+      "gloss": "kuma za su nemi"
+    },
+    {
+      "surface": "שָׁל֖וֹם",
+      "gloss": "salama"
+    },
+    {
+      "surface": "וָאָֽיִן",
+      "gloss": "amma babu"
+    }
+  ],
+  "timestamp": "2026-08-12T16:49:22.889474871Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Inã cewa wa El, dutsenSatashi, don me Ka mantẽ da ni? Don me inã tafiya cikin baƙin ciki a ƙarƙashin dannen maƙiyi?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "Inã cewa"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "wa El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "dutsenSatashi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "Ka mantẽ da ni"
+    },
+    {
+      "surface": "למה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "inã tafiya cikin baƙin ciki"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ina tafiya"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "a ƙarƙashin dannen"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "maƙiyi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:41:41.913226564Z",
+  "model": "glm-5.2"
+}

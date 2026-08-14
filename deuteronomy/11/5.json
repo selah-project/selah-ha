@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "kuma abin da ⟨ya⟩ yi gare ku a cikin hamada, har zuwa lokacin zuwanku, har zuwa wannan wuri.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "kuma abin da"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "gare ku"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a cikin hamada"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "lowacin zuwanku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "wannan wuri"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-12T05:09:04.907163243Z",
+  "model": "glm-5.2"
+}

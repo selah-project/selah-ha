@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 37:16",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma ya yi ⟨את⟩ kayan aikin da ke kan teburin — ⟨את⟩ kwantennansa da ⟨את⟩ likitocensa da ⟨את⟩ kwangwanansa da ⟨את⟩ rufin da ake rufewa da shi — zinariya tsarkakakke.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kayan aikin"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "kayan aikin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke kan"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "teburin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kwantennansa"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "kwantennansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "likitocensa"
+    },
+    {
+      "surface": "כפתיו",
+      "gloss": "likitocensa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kwangwanansa"
+    },
+    {
+      "surface": "מנקיתיו",
+      "gloss": "kwangwanansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "rufin"
+    },
+    {
+      "surface": "הקשות",
+      "gloss": "rufin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יוסך",
+      "gloss": "ake rufewa"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "da shi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinariya"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tsarkakakke"
+    }
+  ],
+  "timestamp": "2026-08-12T01:36:38.949979299Z",
+  "model": "glm-5.2"
+}

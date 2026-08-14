@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "A wannan rana za a faɗi wa Yerushalaim: \"Kada ka ji tsoro, Tsiyon; kada hannayenka su ragu!\"",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "A rana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "za a faɗi"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "wa Yerushalaim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "ka ji tsoro"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "su ragu"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "hannayenka"
+    }
+  ],
+  "timestamp": "2026-08-12T18:53:33.351776681Z",
+  "model": "glm-5.2"
+}

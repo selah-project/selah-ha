@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 136:21",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 136,
+  "translation": "kuma ya ba ƙasarsu ⟨a matsayin⟩ gado, domin har abada chesed ⟨nasa⟩.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "kuma ya ba"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ƙasarsu"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "⟨a matsayin⟩ gado"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed ⟨nasa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:52:28.491200409Z",
+  "model": "glm-5.2"
+}

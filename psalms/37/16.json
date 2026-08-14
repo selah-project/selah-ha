@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Ƙãɗan abin nan mai ādãla ya fi dũkiyar mugaye da yawa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ya fi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "Ƙãɗan abin"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "mai ādãla"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "dũkiyar"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mugaye"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "da yawa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:38:22.469650218Z",
+  "model": "glm-5.2"
+}

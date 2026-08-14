@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 21:29",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Ba ku tambaye waɗanda suke tsallaka hanya ba? Kuma alamomin su, ba ku san su ba?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "ku tambaye"
+    },
+    {
+      "surface": "עוברי",
+      "gloss": "waɗanda suke tsallaka"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "ואתתם",
+      "gloss": "Kuma alamomin su",
+      "marks": "alamomin su"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תנכרו",
+      "gloss": "ku san su"
+    }
+  ],
+  "timestamp": "2026-08-12T22:00:28.672560724Z",
+  "model": "glm-5.2"
+}

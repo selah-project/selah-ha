@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma za Ni in sanya ƙiyayya tsakanin ka da ⟨tsakanin⟩ mace, da tsakanin zuriyar ka da ⟨tsakanin⟩ zuriyar ta; ⟨shi⟩ zai yi ka hwari⟨a⟩ kai, kuma kai za ka yi ⟨shi⟩ hwari⟨a⟩ diga.",
+  "tokens": [
+    {
+      "surface": "ואיבה",
+      "gloss": "Kuma za Ni in sanya ƙiyayya"
+    },
+    {
+      "surface": "אשית",
+      "gloss": ""
+    },
+    {
+      "surface": "בינך",
+      "gloss": "tsakanin ka"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da tsakanin"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da tsakanin"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zuriyar ka"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "da tsakanin"
+    },
+    {
+      "surface": "זרעה",
+      "gloss": "zuriyar ta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨shi⟩"
+    },
+    {
+      "surface": "ישופך",
+      "gloss": "zai yi ka hwari"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kuma kai"
+    },
+    {
+      "surface": "תשופנו",
+      "gloss": "za ka yi ⟨shi⟩ hwari"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "diga"
+    }
+  ],
+  "timestamp": "2026-08-11T23:22:18.147650520Z",
+  "model": "glm-5.2"
+}

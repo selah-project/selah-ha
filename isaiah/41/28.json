@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 41:28",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Kuma na duba, amma babu mutum; kuma daga waɗannan, amma babu mai ba da shawara; kuma na tambaye su, amma ba su amsa ⟨da⟩ kalma.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "Kuma na duba"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "amma babu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "kuma daga waɗannan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "amma babu"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "mai ba da shawara"
+    },
+    {
+      "surface": "ואשאלם",
+      "gloss": "kuma na tambaye su"
+    },
+    {
+      "surface": "וישיבו",
+      "gloss": "amma ba su amsa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨da⟩ kalma"
+    }
+  ],
+  "timestamp": "2026-08-12T14:08:14.520962156Z",
+  "model": "glm-5.2"
+}

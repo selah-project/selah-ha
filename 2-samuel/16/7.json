@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma shiri haka ne Shimei ya faɗa a cikin la'anarsa: \"Ka fita, ka fita, ka mutumin jini, kai mutumin Belial!\"",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "Kuma shiri haka ne"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimei"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "a cikin la'anarsa"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Ka fita"
+    },
+    {
+      "surface": "צא",
+      "gloss": "ka fita"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "jini"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kai mutumin"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "Belial"
+    }
+  ],
+  "timestamp": "2026-08-13T02:02:34.492057918Z",
+  "model": "glm-5.2"
+}

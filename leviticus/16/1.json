@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma Yahweh ya yi magana da Mosheh, bayan mutuwar biyun, ɗiyan Aharon, a kusa da su ⟨gabani⟩ a gaban Yahweh, kuma suka mutu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kuma ya yi magana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mutuwar"
+    },
+    {
+      "surface": "שני",
+      "gloss": "biyun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "a kusa da su"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "kuma suka mutu"
+    }
+  ],
+  "timestamp": "2026-08-12T02:32:07.075970412Z",
+  "model": "glm-5.2"
+}

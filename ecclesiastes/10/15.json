@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Gwajin wãwaye yana ɓata shi, wanda ba ya sanin tafiya zuwa gari.",
+  "tokens": [
+    {
+      "surface": "עֲמַ֥ל",
+      "gloss": "gwajin"
+    },
+    {
+      "surface": "הַכְּסִילִ֖ים",
+      "gloss": "wãwaye"
+    },
+    {
+      "surface": "תְּיַגְּעֶ֑נּוּ",
+      "gloss": "yana ɓata shi"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יָדַ֖ע",
+      "gloss": "ya sanin"
+    },
+    {
+      "surface": "לָלֶ֥כֶת",
+      "gloss": "tafiya"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "עִֽיר",
+      "gloss": "gari"
+    }
+  ],
+  "timestamp": "2026-08-13T02:34:40.016106611Z",
+  "model": "glm-5.2"
+}

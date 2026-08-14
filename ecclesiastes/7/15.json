@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "⟨את⟩ Duka ⟨ne⟩ na ga a cikin kwanakin banza: akwai mai adalci yana halaka cikin adalcinsa, kuma akwai mugun mutum yana tsawaita rayuwa cikin muguntarsa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Duka"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "Duka"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "na ga"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "a cikin kwanakin"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "banza"
+    },
+    {
+      "surface": "יש",
+      "gloss": "akwai"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mai adalci"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "yana halaka"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "cikin adalcinsa"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "kuma akwai"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mugun mutum"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "yana tsawaita rayuwa"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "cikin muguntarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:46:30.905387646Z",
+  "model": "glm-5.2"
+}

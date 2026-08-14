@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 34:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Kuma ka kasance a shirye don safe, kuma ka hau safe zuwa Dutsen Sinai, kuma ka tsaya a gare Ni a can, a kan kan ⟨dutse⟩.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Kuma ka kasance"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "a shirye"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "don safe"
+    },
+    {
+      "surface": "ועלית",
+      "gloss": "kuma ka hau"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "safe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Dutsen"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "kuma ka tsaya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a gare Ni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨dutse⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T01:26:34.558566688Z",
+  "model": "glm-5.2"
+}

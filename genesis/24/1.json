@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma Avraham ya tsufa, ya shiga cikin kwanaki, kuma Yahweh ya albarkaci ⟨את⟩ Avraham ⟨a cikin⟩ komai.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Kuma Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ya tsufa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ya shiga"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "cikin kwanaki"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kuma Yahweh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ya albarkaci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨a cikin⟩ komai"
+    }
+  ],
+  "timestamp": "2026-08-11T23:45:29.961195919Z",
+  "model": "glm-5.2"
+}

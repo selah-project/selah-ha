@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma ⟨ya⟩ zo Shomeron, ya yi wa ⟨את⟩ duka waɗanda suka rage ⟨na⟩ Aḥav a Shomeron, har ya lalata ⟨su⟩, kamar kalmar Yahweh da ya faɗa wa Eliyahu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kuma ya zo"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ya yi wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "waɗanda suka rage"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "na Aḥav"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "a Shomeron"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "ya lalata"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kamar kalmar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-08-12T12:15:14.684550552Z",
+  "model": "glm-5.2"
+}

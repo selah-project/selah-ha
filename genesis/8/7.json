@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Ya aiko ⟨את⟩ baƙar hagu, kuma ta fita tana tafiya da komawa, har ruwa ya bushe daga sama da ƙasa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ya aiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baƙar hagu"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "baƙar hagu"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "kuma ta fita"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "tana tafiya"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "da komawa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "ya bushe"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "daga sama da"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:25:30.745015308Z",
+  "model": "glm-5.2"
+}

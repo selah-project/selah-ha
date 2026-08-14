@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 110,
+  "translation": "Adonai a kan dama⟨nka⟩, ya murƙushe sarakuna a ran∈ fushinsa.",
+  "tokens": [
+    {
+      "surface": "אֲדֹנָ֥י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "יְמִֽינְךָ֑",
+      "gloss": "dama⟨nka⟩"
+    },
+    {
+      "surface": "מָחַ֖ץ",
+      "gloss": "ya murƙushe"
+    },
+    {
+      "surface": "בְּיוֹם",
+      "gloss": "a rana⟨n⟩"
+    },
+    {
+      "surface": "אַפּ֣וֹ",
+      "gloss": "fushinsa"
+    },
+    {
+      "surface": "מְלָכִֽים",
+      "gloss": "sarakuna"
+    }
+  ],
+  "timestamp": "2026-08-12T20:35:22.257876608Z",
+  "model": "glm-5.2"
+}

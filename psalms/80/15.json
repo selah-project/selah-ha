@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 80,
+  "translation": "Elohim Tsaba'ot, ka koma, ina roƙonka, ka duba daga sama, ka gani, ⟨kuma⟩ ka ziyarci wannan inabin!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsaba'ot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ka koma"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ina roƙonka"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "ka duba"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "daga sama"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ka gani"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "⟨kuma⟩ ka ziyarci"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "inabi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wannan"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:52.270771388Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 35:12",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Kuma ⟨את⟩ ƙasar da na bai wa Avraham da Yitzchak, gare ka nake bayar da ita, kuma ga zuriyarka daga bayanka ⟨ne⟩ zan ba ⟨את⟩ ƙasar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "na bai wa"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וליצחק",
+      "gloss": "da Yitzchak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gare ka"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "nake bayar da ita"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "kuma ga zuriyarka"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "daga bayanka"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "zan ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    }
+  ],
+  "timestamp": "2026-08-12T00:03:11.272691228Z",
+  "model": "glm-5.2"
+}

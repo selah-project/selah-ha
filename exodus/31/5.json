@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 31:5",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "kuma a cikin sassaƙen dutse don dora ⟨su⟩, da kuma a cikin sassaƙen itãce don yin kowane aiki na fasaha.",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "kuma a cikin sassaƙen"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "dutse"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "don dora ⟨su⟩"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "da kuma a cikin sassaƙen"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "itãce"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "don yin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "aiki na fasaha"
+    }
+  ],
+  "timestamp": "2026-08-12T01:19:17.385078897Z",
+  "model": "glm-5.2"
+}

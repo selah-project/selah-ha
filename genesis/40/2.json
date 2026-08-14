@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 40:2",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma Paroh ya fushi da jigoginsa biyu, da shugaban mashayai da kuma shugaban masu gasa.",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "Kuma ya fushi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "על",
+      "gloss": "da"
+    },
+    {
+      "surface": "שני",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "jigoginsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "da"
+    },
+    {
+      "surface": "שר",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "mashayai"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da kuma"
+    },
+    {
+      "surface": "שר",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "האופים",
+      "gloss": "masu gasa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:11:39.175785384Z",
+  "model": "glm-5.2"
+}

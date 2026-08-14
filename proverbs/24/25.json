@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 24:25",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Amma waɗanda ke yi wa ⟨mugaye⟩ tuba, za a nuna musu daɗi, kuma ⟨a⟩ kansu albarka ta kyau za ta zo.",
+  "tokens": [
+    {
+      "surface": "ולמוכיחים",
+      "gloss": "Amma waɗanda ke yi wa ⟨mugaye⟩ tuba"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "za a nuna musu daɗi"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "kuma ⟨a⟩ kansu"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "za ta zo"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "albarka ta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kyau"
+    }
+  ],
+  "timestamp": "2026-08-12T21:28:02.961702348Z",
+  "model": "glm-5.2"
+}

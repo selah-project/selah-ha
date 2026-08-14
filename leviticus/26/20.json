@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma ƙarfinku zai ƙare ⟨don babu komai⟩, kuma ƙasarku ba za ta bayar da ⟨את⟩ amfaninta ba, kuma itacen ƙasar ba za ya bayar da 'ya''yansa ba.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "kuma zai ƙare"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "⟨don babu komai⟩"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "ƙarfinku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "za ta bayar"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ƙasarku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amfaninta"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "amfaninta"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "kuma itacen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "za ya bayar"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "'ya''yansa"
+    }
+  ],
+  "timestamp": "2026-08-12T03:01:58.615026034Z",
+  "model": "glm-5.2"
+}

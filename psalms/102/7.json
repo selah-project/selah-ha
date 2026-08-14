@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 102,
+  "translation": "Na kama da ƙwata kwarangudo ta cikin jeji, na kama da bāwar kwō, tsuntsu na cikin rushewa.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "na kama da"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "ƙwata kwarangudo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ta cikin jeji"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "na kama da"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "bāwar kwō, tsuntsu"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "na cikin rushewa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:24:27.918205599Z",
+  "model": "glm-5.2"
+}

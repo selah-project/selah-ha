@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 72,
+  "translation": "A gaba shi ƙanana-sauran jeji za su gǔrƙè, kuma maƙiyansa ƙura za su yi ta lashe.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "a gaba shi"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "za su gǔrƙè"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "ƙanana-sauran jeji"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "kuma maƙiyansa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ƙura"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "za su yi ta lashe"
+    }
+  ],
+  "timestamp": "2026-08-12T20:01:50.272327049Z",
+  "model": "glm-5.2"
+}

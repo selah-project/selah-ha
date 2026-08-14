@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 50:3",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "Domi wata al'umma daga arewa ta hau a kanta, ⟨ishi⟩ zai sanya ⟨את⟩ ƙasarta ta zama faɗu, ba za a wanzu ⟨mutum⟩ yana zaune a cikinta ba; daga mutum har dabbobi sun gudu, sun tafi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ta hau"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "a kanta"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "wata al'umma"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "daga arewa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ishi⟩"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "zai sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasarta"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ƙasarta"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "ta zama faɗu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba za"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "a wanzu"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "⟨mutum⟩ yana zaune"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a cikinta"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "daga mutum"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "dabbobi"
+    },
+    {
+      "surface": "נדו",
+      "gloss": "sun gudu"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "sun tafi"
+    }
+  ],
+  "timestamp": "2026-08-12T16:39:21.860040778Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 72,
+  "translation": "Kuma albarka ⟨ta kasance⟩ ga sunan daukakarsa har abada, kuma duhun daukakarsa ya cika ⟨את⟩ dukkan ƙasar; amīn, kuma amīn.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "Kuma albarka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sunan"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "daukakarsa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "kuma ya cika"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "duhun daukakarsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan ƙasar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amīn"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "kuma amīn"
+    }
+  ],
+  "timestamp": "2026-08-12T20:03:14.611233188Z",
+  "model": "glm-5.2"
+}

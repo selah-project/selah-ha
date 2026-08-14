@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 15:10",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma ya ɗauko ⟨ne⟩ wa kansa ⟨את⟩ duk waɗannan, kuma ya tsaga ⟨את⟩ su a tsakiya, kuma ya saka kowane ɓangaren ⟨ne⟩ gaba da kwasan sa; amma ⟨את⟩ tsuntsun ba ya tsaga.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Kuma ya ɗauko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wa kansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duk waɗannan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "ויבתר",
+      "gloss": "kuma ya tsaga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "a tsakiya"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kuma ya saka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane ɓangaren"
+    },
+    {
+      "surface": "בתרו",
+      "gloss": "ɓangaren"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "gaba da"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kwasan sa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tsuntun"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "tsuntun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בתר",
+      "gloss": "ya tsaga"
+    }
+  ],
+  "timestamp": "2026-08-13T01:42:45.381257240Z",
+  "model": "glm-5.2"
+}

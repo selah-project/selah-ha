@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Haka Yahweh ya faɗa: Kamar haka zan lalata ⟨את⟩ girman Yehuda da ⟨את⟩ girman Yerushalama ⟨babban⟩.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Haka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "Kamar haka"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "zan lalata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "girman"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "girman"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "girman"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "girman"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalama"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "babban"
+    }
+  ],
+  "timestamp": "2026-08-12T15:22:44.047909828Z",
+  "model": "glm-5.2"
+}

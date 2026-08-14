@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 34:23",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Dabbobin su da dukiyar su da duk dabbobinsu, ba ⟨su⟩ nawa ⟨ne⟩ kawai? Sai dai mu yarda da su, kuma su zauna tare da mu ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "מִקְנֵהֶ֤ם",
+      "gloss": "dabbobin su"
+    },
+    {
+      "surface": "וְקִנְיָנָם֙",
+      "gloss": "da dukiyar su"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "da duk"
+    },
+    {
+      "surface": "בְּהֶמְתָּ֔ם",
+      "gloss": "dabbobinsu"
+    },
+    {
+      "surface": "הֲל֥וֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לָ֖נוּ",
+      "gloss": "nawa"
+    },
+    {
+      "surface": "הֵ֑ם",
+      "gloss": "su"
+    },
+    {
+      "surface": "אַ֚ךְ",
+      "gloss": "sai dai"
+    },
+    {
+      "surface": "נֵא֣וֹתָה",
+      "gloss": "mu yarda"
+    },
+    {
+      "surface": "לָהֶ֔ם",
+      "gloss": "da su"
+    },
+    {
+      "surface": "וְיֵשְׁב֖וּ",
+      "gloss": "kuma su zauna"
+    },
+    {
+      "surface": "אִתָּֽנוּ",
+      "gloss": "tare da mu ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T01:44:17.353108481Z",
+  "model": "glm-5.2"
+}

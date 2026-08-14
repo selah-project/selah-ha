@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "⟨את⟩ duk giyar raven, a cewar jinsin sa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "giyar raven"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "a cewar jinsin sa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:59:25.336911223Z",
+  "model": "glm-5.2"
+}

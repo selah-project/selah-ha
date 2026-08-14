@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kamar yadda hannuwa ta samu ⟨don⟩ mulkin gumaka, da kuma siffofinsu ⟨waɗanda suke⟩ daga Yerushalaim da Shomeron",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Kamar yadda"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "ta samu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hannuwa ta"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "⟨don⟩ mulkin"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "gumaka"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "da siffofinsu"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "daga Yerushalaim"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "da Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-12T13:10:56.506392762Z",
+  "model": "glm-5.2"
+}

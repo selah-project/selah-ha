@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "⟨את⟩ kan gado, da ⟨את⟩ babban barewa, da ha-tinshemet;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan gado"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kan gado"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "babban barewa"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "babban barewa"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "da ha-tinshemet"
+    }
+  ],
+  "timestamp": "2026-08-12T05:16:45.542931909Z",
+  "model": "glm-5.2"
+}

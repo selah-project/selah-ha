@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "da ⟨את⟩ giyar vulture da ⟨את⟩ giyar falcon, a cewar jinsin sa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "giyar vulture"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "giyar vulture"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "giyar falcon"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "giyar falcon"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "a cewar jinsin sa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:59:25.336770808Z",
+  "model": "glm-5.2"
+}

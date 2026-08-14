@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Kuma ya fitar da mutānensa cikin murnā, ⟨anda⟩ zaɓaɓɗunSa cikin rera-waƙa.",
+  "tokens": [
+    {
+      "surface": "וַיּוֹצִ֣א",
+      "gloss": "Kuma ya fitar da"
+    },
+    {
+      "surface": "עַמּ֣וֹ",
+      "gloss": "mutānensa"
+    },
+    {
+      "surface": "בְשָׂשׂ֑וֹן",
+      "gloss": "cikin murnā"
+    },
+    {
+      "surface": "בְּ֝רִנָּ֗ה",
+      "gloss": "cikin rera-waƙa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "zaɓaɓɗunSa"
+    },
+    {
+      "surface": "בְחִירָֽיו",
+      "gloss": "zaɓaɓɗunSa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:30:04.916429078Z",
+  "model": "glm-5.2"
+}

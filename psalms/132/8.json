@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 132,
+  "translation": "Tashi, Yahweh, zuwa matsakaunka, ⟨kai⟩ da akwatin ƙarfinka.",
+  "tokens": [
+    {
+      "surface": "קוּמָ֣ה",
+      "gloss": "Tashi"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לִמְנוּחָתֶ֑ךָ",
+      "gloss": "zuwa matsakaunka"
+    },
+    {
+      "surface": "אַתָּ֗ה",
+      "gloss": "⟨kai⟩"
+    },
+    {
+      "surface": "וַאֲר֥וֹן",
+      "gloss": "da akwatin"
+    },
+    {
+      "surface": "עֻזֶּֽךָ",
+      "gloss": "ƙarfinka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:49:59.055055994Z",
+  "model": "glm-5.2"
+}

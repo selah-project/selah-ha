@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 46,
+  "translation": "Kuma su yi ⟨את⟩ ɗanƙasar da ⟨את⟩ togorar da ⟨את⟩ man, safe da safe — ƙorho na ci gaba.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "kuma su yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗanƙasar"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ɗanƙasar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "togorar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "man"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "safe"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "da safe"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ƙorho"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "na ci gaba"
+    }
+  ],
+  "timestamp": "2026-08-12T18:05:36.039130224Z",
+  "model": "glm-5.2"
+}

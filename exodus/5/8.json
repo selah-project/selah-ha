@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 5:8",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma ⟨את⟩ adadin tubalin da suke yi jiya da jiya-gobe, za ku sanya musu; kada ku rage daga gare shi, domin sun kasance masu ragu'a saboda haka su ke kururuwa ⟨don⟩ cewa, Mu tafi mu yi hadaya ga Elohim mu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "adadin tubalin"
+    },
+    {
+      "surface": "מתכנת",
+      "gloss": "adadin"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "tubalin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הם",
+      "gloss": "su"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ke yi"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "jiya"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "da jiya-gobe"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "za ku sanya"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תגרעו",
+      "gloss": "ku rage"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare shi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "נרפים",
+      "gloss": "sun kasance masu ragu'a"
+    },
+    {
+      "surface": "הם",
+      "gloss": "su"
+    },
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "הם",
+      "gloss": "su"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "ke kururuwa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨don⟩ cewa"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "Mu tafi"
+    },
+    {
+      "surface": "נזבחה",
+      "gloss": "mu yi hadaya"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ga Elohim mu"
+    }
+  ],
+  "timestamp": "2026-08-13T01:46:32.242244633Z",
+  "model": "glm-5.2"
+}

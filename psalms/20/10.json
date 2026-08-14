@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Yahweh, ka kuɓuta! ⟨Bari⟩ sarki ya amsa mu a rana da muke kiran shi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "ka kuɓuta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "ya amsa mu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "da muke kiran shi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:23:00.712560699Z",
+  "model": "glm-5.2"
+}

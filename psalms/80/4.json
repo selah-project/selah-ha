@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 80,
+  "translation": "Elohim, ka mayar da mu, ka haskaka fuskarka, ⟨domin⟩ mu tsira!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "ka mayar da mu"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "ka haskaka"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuskarka"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "⟨domin⟩ mu tsira"
+    }
+  ],
+  "timestamp": "2026-08-12T20:12:44.168695881Z",
+  "model": "glm-5.2"
+}

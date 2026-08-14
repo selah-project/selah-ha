@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 89:29",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Har abadada zan kiyaye masa chesed na, kuma alkawarina ⟨za ta⟩ kasance mai aminci gare shi.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "har abadada"
+    },
+    {
+      "surface": "אשמור",
+      "gloss": "zan kiyaye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gare shi"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "chesed na"
+    },
+    {
+      "surface": "ובריתי",
+      "gloss": "kuma alkawarina"
+    },
+    {
+      "surface": "נאמנת",
+      "gloss": "mai aminci"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gare shi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:18:22.918264536Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Yahweh, a cikin ƙarfinka sarki yana murna, kuma a cikin guitarka yadda ya ke yin barkaɗi sosai!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "a cikin ƙarfinka"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "yana murna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "kuma a cikin guitarka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yadda"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "yake yin barkaɗi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    }
+  ],
+  "timestamp": "2026-08-12T19:27:32.984621678Z",
+  "model": "glm-5.2"
+}

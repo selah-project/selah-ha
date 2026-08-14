@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Daga sama, Yahweh ya duba; ya ga ⟨את⟩ dukan ɗan Adam.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "Daga sama"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ya duba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ya ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗan Adam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ɗan Adam"
+    }
+  ],
+  "timestamp": "2026-08-12T19:36:55.143579960Z",
+  "model": "glm-5.2"
+}

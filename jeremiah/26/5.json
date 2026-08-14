@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 26:5",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "don sa ku saurari kalmomin bayi na, annabawa, waɗanda ni ⟨nake⟩ aiko zuwa gare ku, in tashi da sassafe in aika ⟨suno⟩, amma ba ku saurara ba —",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "don sa ku saurari"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bayi na"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "annabawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nake aiko"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "zuwa gare ku"
+    },
+    {
+      "surface": "והשכם",
+      "gloss": "in tashi da sassafe"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "in aika"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "ku saurara ba"
+    }
+  ],
+  "timestamp": "2026-08-12T15:46:04.439340822Z",
+  "model": "glm-5.2"
+}

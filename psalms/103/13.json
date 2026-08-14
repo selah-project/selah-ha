@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 103,
+  "translation": "Kamar tausayin uba ga ƴaƴansa, Yahweh yana tausayarwa ga waɗanda ke tsoron Sa.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "kamar tausayin"
+    },
+    {
+      "surface": "אב",
+      "gloss": "uba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ƴaƴansa"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "yana tausayarwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "waɗanda ke tsoron Sa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:27:03.030595969Z",
+  "model": "glm-5.2"
+}

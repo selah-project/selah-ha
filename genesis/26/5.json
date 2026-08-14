@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Saboda cewa Avraham ya saurara muryata, kuma ya kiyaye kariyata, dokokina, ka'idojina, da koyarwata.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ya saurara"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "muryata"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "kuma ya kiyaye"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "kariyata"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "dokokina"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "ka'idojina"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "da koyarwata"
+    }
+  ],
+  "timestamp": "2026-08-11T23:49:11.590269557Z",
+  "model": "glm-5.2"
+}

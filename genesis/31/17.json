@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Sai Ya'akubu ya tashi, ya ɗora ⟨את⟩ ƴaƴansa da ⟨את⟩ matansa a kan rakuma.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ya tashi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akubu"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ya ɗora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴaƴansa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ƴaƴansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matansa"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "matansa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "rakuma"
+    }
+  ],
+  "timestamp": "2026-08-13T01:43:09.022081127Z",
+  "model": "glm-5.2"
+}

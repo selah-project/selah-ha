@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 68,
+  "translation": "Sarakunan rundunoni suna guduwa, suna guduwa, kuma mace mai zaune a gida za ta raba ganima.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "sarakunan"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "rundunoni"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "suna guduwa"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "suna guduwa"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "kuma mace mai zaune"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a gida"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "za ta raba"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ganima"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:27.350348555Z",
+  "model": "glm-5.2"
+}

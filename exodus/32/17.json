@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Kuma Yehoshua ya ji ⟨את⟩ muryar mutanen a cikin kururuwa, ya kuma ce wa Mosheh, Muryar yaki ⟨ce⟩ a sansanin.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Kuma ya ji"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muryar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "a cikin kururuwa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya kuma ce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Muryar"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "yaki"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "a sansanin"
+    }
+  ],
+  "timestamp": "2026-08-12T01:23:02.908529958Z",
+  "model": "glm-5.2"
+}

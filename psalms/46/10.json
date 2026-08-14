@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 46,
+  "translation": "Yana sa yaƙe-yaƙe su dāma har ƙarshen ƙasa; baka Yana tāra, mashin Yana yanke, motoci Yana ƙona da wuta.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "Yana sa... su dāma"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "yaƙe-yaƙe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ƙarshen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "baka"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "Yana tāra"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "Yana yanke"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "mashi"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "motoci"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "Yana ƙona"
+    },
+    {
+      "surface": "באש",
+      "gloss": "da wuta"
+    }
+  ],
+  "timestamp": "2026-08-12T19:46:01.274540125Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ba ya tuna ⟨את⟩ Yosef shugaban masu ba da abin sha, kuma ya manta da shi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kuma ba"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ya tuna"
+    },
+    {
+      "surface": "שר",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "masu ba da abin sha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "kuma ya manta da shi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:08:17.058280060Z",
+  "model": "glm-5.2"
+}

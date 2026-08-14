@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Ka yi shiru a gaban Yahweh, ka jira ⟨ga⟩ shi da haquri, kada ka takaƙaice saboda wanda yake cin nasara a hanyarsa, saboda mutumin da yake aikata ɓarna.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "ka yi shiru"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a gaban Yahweh"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "ka jira ⟨ga⟩ shi da haquri"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ga⟩ shi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "ka takaƙaice"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "saboda wanda yake cin nasara"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "a hanyarsa"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "saboda mutumin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "da yake aikata"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "ɓarna"
+    }
+  ],
+  "timestamp": "2026-08-12T19:38:45.294707060Z",
+  "model": "glm-5.2"
+}

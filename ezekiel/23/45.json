@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezekiel 23:45",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma mutane masu adalci, su ne za su yi musu ⟨את⟩ shari'a, da hukuncin masu zina, da hukuncin masu zubar jini; domin masu zina su ne, kuma jini yana cikin hannayensu.",
+  "tokens": [
+    {
+      "surface": "ואנשים",
+      "gloss": "Kuma mutane"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "masu adalci"
+    },
+    {
+      "surface": "המה",
+      "gloss": "su ne"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "za su yi shari'a"
+    },
+    {
+      "surface": "אותהם",
+      "gloss": "⟨את⟩",
+      "marks": "shari'a"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "da hukunci"
+    },
+    {
+      "surface": "נאפות",
+      "gloss": "masu zina"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "da hukunci"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "masu zubar"
+    },
+    {
+      "surface": "דם",
+      "gloss": "jini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "נאפת",
+      "gloss": "masu zina"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "su ne"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "kuma jini"
+    },
+    {
+      "surface": "בידיהן",
+      "gloss": "yana cikin hannayensu"
+    }
+  ],
+  "timestamp": "2026-08-12T17:25:49.889212920Z",
+  "model": "glm-5.2"
+}

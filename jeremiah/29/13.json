@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma kuna nema ni, kuma za ku same ni, domin kuna nẽman ni da dukkan zukatanku.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "Kuma kuna nema"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "kuma za ku same"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "kuna nẽman ni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "da dukkan"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "zukatanku"
+    }
+  ],
+  "timestamp": "2026-08-13T02:13:19.629371603Z",
+  "model": "glm-5.2"
+}

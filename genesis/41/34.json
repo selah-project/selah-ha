@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 41:34",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Paroh ya yi ⟨haka⟩, kuma ya naɗa masu kula a kan ƙasar, ya kuma riƙa biyan ƙasar Mitsrayim cikin ɗaya daga cikin biyar a cikin shekaru bakwai na yalwa.",
+  "tokens": [
+    {
+      "surface": "יעשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "kuma ya naɗa"
+    },
+    {
+      "surface": "פקדים",
+      "gloss": "masu kula"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ya kuma riƙa biyan ɗaya daga cikin biyar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "a cikin bakwai"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "na yalwa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:15:07.990806356Z",
+  "model": "glm-5.2"
+}

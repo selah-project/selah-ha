@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "A cikin shekara ta uku ta mulkin Yehoyakim, sarkin Yehuda, Nebukadnezzar, sarkin Bavel, ya zo Urushalima, ya kuma kāwuye ta.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "a cikin shekara"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ta uku"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "ta mulkin"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ya zo"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnezzar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Urushalima"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ya kuma kāwuye"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ta"
+    }
+  ],
+  "timestamp": "2026-08-12T23:00:58.599761148Z",
+  "model": "glm-5.2"
+}

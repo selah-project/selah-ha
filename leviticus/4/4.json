@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 4:4",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "kuma ya kawo ⟨את⟩ ragon zuwa ƙofar Tāshar Taro a gaban Yahweh, kuma ya dora ⟨את⟩ hannunsa a kan kan ragon, kuma ya yanka ⟨את⟩ ragon a gaban Yahweh.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "kuma ya kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ragon"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ragon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ƙofar"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tāshar"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Taro"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "kuma ya dora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannunsa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hannunsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ragon"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "kuma ya yanka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ragon"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ragon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T01:46:24.176681634Z",
+  "model": "glm-5.2"
+}

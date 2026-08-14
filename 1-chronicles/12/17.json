@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 12:17",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma daga cikin ƴaƴan Binjamin da Yahuda ⟨suka zo⟩ har zuwa katanga zuwa ga Dawuda.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "suka zo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "cikin ƴaƴan"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "da Yahuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "katanga"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "zuwa ga Dawuda"
+    }
+  ],
+  "timestamp": "2026-08-13T00:13:42.933558918Z",
+  "model": "glm-5.2"
+}

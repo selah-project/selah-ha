@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma jama'ar ƙasar sun yi ⟨wa⟩ ⟨את⟩ dukkan masu yin makirci a kan sarkin Amon, kuma jama'ar ƙasar suka naɗa ⟨את⟩ Yoshiyaħu ɗansa a maktansa.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "kuma suka yi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jama'ar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukku masu yin makirci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukku"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "masu yin makirci"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "kuma suka naɗa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jama'ar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoshiyaħu"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyaħu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗansa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "a maktansa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:06:47.060041804Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Waɗanda aka ƙidaya daga gare su, ga kabilar Menashshe, sun kasance dubu talatin da biyu da ɗari biyu.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "waɗanda aka ƙidaya daga gare su"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ga kabilar"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "da talatin"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "da ɗari biyu"
+    }
+  ],
+  "timestamp": "2026-08-12T03:09:14.394743757Z",
+  "model": "glm-5.2"
+}

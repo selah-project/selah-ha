@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 16:5",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma ⟨an⟩ shirya kujera cikin chesed, kuma wanda yake zauna a kanta cikin gaskiya, a cikin tantanin Dawida, yana shari'a kuma yana neman shari'a, kuma yana gaggawa adalci.",
+  "tokens": [
+    {
+      "surface": "והוכן",
+      "gloss": "kuma ⟨an⟩ shirya"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "cikin chesed"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kujera"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kuma yake zauna"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kanta"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "cikin gaskiya"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "a cikin tantanin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "yana shari'a"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "kuma yana neman"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "shari'a"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "kuma yana gaggawa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adalci"
+    }
+  ],
+  "timestamp": "2026-08-12T13:25:40.815356844Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 94,
+  "translation": "domin Yahweh ba zai tsoho da mutanensa ba, ⟨kuma⟩ gādon Sa ba zai bar shi ba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba zai"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "tsoho da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mutanensa"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "⟨kuma⟩ gādon Sa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba zai"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "bar shi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:21:28.682813105Z",
+  "model": "glm-5.2"
+}

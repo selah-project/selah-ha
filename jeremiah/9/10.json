@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma zan saka ⟨את⟩ Yerushalaim zuwa duwatsu, mazaunin jejin jeji, kuma ⟨את⟩ biranen Yehudah zan yi wajen kāwuyawar lalacewa, ba tare da mazauni ba.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "kuma zan saka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "zuwa duwatsu"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "mazauni"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "jejin jeji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "biranen"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "biranen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "zan yi"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "kāwuyawar lalacewa"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "ba tare da"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "mazauni"
+    }
+  ],
+  "timestamp": "2026-08-13T02:12:37.979185996Z",
+  "model": "glm-5.2"
+}

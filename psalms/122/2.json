@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 122,
+  "translation": "Sunā tsaye ⟨ne⟩ ƙafafunmu a cikin ƙofofinka, Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "Sunā tsaye"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "ƙafafunmu"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "a cikin ƙofofinka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-12T20:48:22.576218015Z",
+  "model": "glm-5.2"
+}

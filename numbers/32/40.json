@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Kuma Moshe ya baiwa ⟨את⟩ ⟨a⟩ Gil'ada Makhir ɗan Menashshe, kuma ⟨shi⟩ ya zauna a cikinta.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Kuma ya baiwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gil'ada"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "⟨a⟩ Gil'ada"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "Makhir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kuma ya zauna"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a cikinta"
+    }
+  ],
+  "timestamp": "2026-08-13T01:53:06.112833429Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Ka ɗauki cũtarTa daga gareNi; daga fama da hannunKa na lalace gaba ɗaya.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "Ka ɗauki"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "daga gareNi"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "cũtarTa"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "daga fama"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hannunKa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "lalace gaba ɗaya"
+    }
+  ],
+  "timestamp": "2026-08-12T19:40:23.387182583Z",
+  "model": "glm-5.2"
+}

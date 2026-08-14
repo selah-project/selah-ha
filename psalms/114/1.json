@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 114,
+  "translation": "A lokacin da Yisra'el ya fita daga Mitsrayim, gidan Ya'aƙub daga wata al'umma ⟨mai⟩ yaren bāƙo,",
+  "tokens": [
+    {
+      "surface": "בְּצֵאת",
+      "gloss": "A lokacin da ya fita"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מִמִּצְרָיִם",
+      "gloss": "daga Mitsrayim"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יַעֲקֹב",
+      "gloss": "Ya'aƙub"
+    },
+    {
+      "surface": "מֵעַם",
+      "gloss": "daga wata al'umma"
+    },
+    {
+      "surface": "לֹעֵז",
+      "gloss": "⟨mai⟩ yaren bāƙo"
+    }
+  ],
+  "timestamp": "2026-08-12T20:37:47.159437274Z",
+  "model": "glm-5.2"
+}

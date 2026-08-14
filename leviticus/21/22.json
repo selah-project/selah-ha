@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Abincin Elohim nasa, daga cikin tsarkaka masu tsarki, kuma daga cikin tsarkaka, zai iya ci.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "abincin"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim nasa"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "daga cikin tsarkaka"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "masu tsarki"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kuma daga cikin"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "tsarkaka"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zai iya ci"
+    }
+  ],
+  "timestamp": "2026-08-12T02:40:27.061410579Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 119:46",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Kuma zan faɗa game da shaidōinka a gaba da sarakuna, kuma ba zan jin kunya ba.",
+  "tokens": [
+    {
+      "surface": "ואדברה",
+      "gloss": "Kuma zan faɗa"
+    },
+    {
+      "surface": "בעדתיך",
+      "gloss": "game da shaidōinka"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "a gaba da"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "sarakuna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba zan"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "jin kunya ba"
+    }
+  ],
+  "timestamp": "2026-08-12T20:42:16.445200440Z",
+  "model": "glm-5.2"
+}

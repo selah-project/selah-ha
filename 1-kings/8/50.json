@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-kings 8:50",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "kuma ka gafarta wa mutanenka waɗanda suka yi mini laifi ⟨to⟩ kai, da dukan tawaye da suka taya ⟨to⟩ kai, ka ba su ⟨ga⟩ jin ƙai a gaban masu kama su, su kuma su yi musu jin ƙai.",
+  "tokens": [
+    {
+      "surface": "וסלחת",
+      "gloss": "kuma ka gafarta"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "wa mutanenka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "suka yi laifi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨to⟩ kai"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "da dukan"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "tawaye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "suka taya"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨to⟩ kai"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ka ba su"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "⟨ga⟩ jin ƙai"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "שביהם",
+      "gloss": "masu kama su"
+    },
+    {
+      "surface": "ורחמום",
+      "gloss": "su kuma su yi musu jin ƙai"
+    }
+  ],
+  "timestamp": "2026-08-12T11:10:24.140488539Z",
+  "model": "glm-5.2"
+}

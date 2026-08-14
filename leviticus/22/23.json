@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma shanu ko tumaki, tsayayye ko gajarte, ⟨a matsayin⟩ yarda za ku yi ⟨את⟩ ⟨ta⟩, amma don gurgu ba za a yarda ⟨da ita⟩ ba.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Kuma shanu"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ko tumaki"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "tsayayye"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "ko gajarte"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "⟨a matsayin⟩ yarda"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "za ku yi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ta"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "amma don gurgu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba za a yarda"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "⟨da ita⟩ ba"
+    }
+  ],
+  "timestamp": "2026-08-13T01:50:36.017012911Z",
+  "model": "glm-5.2"
+}

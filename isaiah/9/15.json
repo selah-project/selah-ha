@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Masu yi wa al'ummar wannan ⟨al'umar⟩ mumunar shiri suna ɓatar da su, kuma waɗanda aka yiwa shirin suna halaka.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "⟨Don haka⟩ sun kasance"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "Masu yi wa ... mumunar shiri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "al'ummar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "suna ɓatar da su"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "kuma waɗanda aka yiwa shirin"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "suna halaka"
+    }
+  ],
+  "timestamp": "2026-08-12T13:13:23.656051494Z",
+  "model": "glm-5.2"
+}

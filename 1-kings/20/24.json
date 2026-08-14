@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 20:24",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma ⟨את⟩ wannan magana ka yi: ka cire sarakunan, kowane mutum daga wurinsa, ka sanya masu lardi a madadinsu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "wannan magana"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "magana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ka yi"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ka cire"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "sarakinan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "daga wurinsa"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "ka sanya"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "masu lardi"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "a madadinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T11:43:30.538644644Z",
+  "model": "glm-5.2"
+}

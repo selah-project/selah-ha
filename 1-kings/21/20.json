@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 21:20",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma Ahab ya faɗa wa Eliyahu: Shin ka same ni, ya maƙiyata? Kuma ⟨ya⟩ faɗa: Na same ka, domin da ka sayar da kanka don aikata mugunyar a idanun Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ⟨ya⟩ faɗa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "המצאתני",
+      "gloss": "Shin ka same ni"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ya maƙiyata"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ⟨ya⟩ faɗa"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "Na same ka"
+    },
+    {
+      "surface": "יען",
+      "gloss": "domin"
+    },
+    {
+      "surface": "התמכרך",
+      "gloss": "da ka sayar da kanka"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "don aikata"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mugunyar"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T11:47:15.736029869Z",
+  "model": "glm-5.2"
+}

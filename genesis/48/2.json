@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 48:2",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 48,
+  "translation": "Kuma aka faɗa wa Ya'akov, aka ce: gani, ɗanka Yosef yana zuwa gare ka. Isra'ela ya ƙarfafa kansa, ya zauna a kan gado.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kuma aka faɗa"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "wa Ya'akov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aka ce"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gani"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ɗanka"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yana zuwa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gare ka"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "ya ƙarfafa kansa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ela"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ya zauna"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "gado"
+    }
+  ],
+  "timestamp": "2026-08-12T00:24:24.784203408Z",
+  "model": "glm-5.2"
+}

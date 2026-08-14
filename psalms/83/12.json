@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 83,
+  "translation": "Sanya sarakunansu kamar ʼŌrēb da kamar Zēʼēb, kuma kamar Zēbaḥ da kamar Ṣalmunnā, dukkan shugabanninsu.",
+  "tokens": [
+    {
+      "surface": "שִׂיתֵמוֹ",
+      "gloss": "Sanya"
+    },
+    {
+      "surface": "נְדִיבֵמוֹ",
+      "gloss": "sarakunansu"
+    },
+    {
+      "surface": "כְעֹרֵב",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "וְכִזְאֵב",
+      "gloss": "ʼŌrēb"
+    },
+    {
+      "surface": "וּכְזֶבַח",
+      "gloss": "da kamar"
+    },
+    {
+      "surface": "וְכְצַלְמֻנָּע",
+      "gloss": "Zēʼēb"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "נְסִיכֵמוֹ",
+      "gloss": "Zēbaḥ"
+    }
+  ],
+  "timestamp": "2026-08-12T20:11:26.493402882Z",
+  "model": "glm-5.2"
+}

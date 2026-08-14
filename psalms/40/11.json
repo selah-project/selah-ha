@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 40:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Adalcinka ba na ɓoye shi cikin zuciyata ba; amincinka da tserarka na faɗa, ba na ɓoye chesedɗinka da gaskiyarka daga taron babba.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Adalcinka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "na ɓoye shi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "amincinka"
+    },
+    {
+      "surface": "ותשועתך",
+      "gloss": "da tserarka"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "na faɗa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "na ɓoye"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesedɗinka"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "da gaskiyarka"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "daga taron"
+    },
+    {
+      "surface": "רב",
+      "gloss": "babba"
+    }
+  ],
+  "timestamp": "2026-08-12T19:42:55.656251742Z",
+  "model": "glm-5.2"
+}

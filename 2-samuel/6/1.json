@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma Dawida ya sake tattara ⟨את⟩ duk ⟨waɗanda aka zaɓa⟩ a cikin Yisra'ela, talatin dubu.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ya sake"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duk waɗanda aka zaɓa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "waɗanda aka zaɓa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "a cikin Yisra'ela"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "talatin"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dubu"
+    }
+  ],
+  "timestamp": "2026-08-12T10:07:24.312269804Z",
+  "model": "glm-5.2"
+}

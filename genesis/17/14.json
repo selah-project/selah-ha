@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 17:14",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma wanda ba a kaciya ba, namiji wanda ba a kaciya ⟨את⟩ jikin gudan־nasa, ⟨ta⟩ wancan rai za a yanke shi daga cikin mutanensa; ⟨shi⟩ ya warware ⟨את⟩ al'ārata.",
+  "tokens": [
+    {
+      "surface": "וערל",
+      "gloss": "kuma wanda ba a kaciya ba"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "namiji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "a kaciya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jikin gudan־nasa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "jikin"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "gudan־nasa"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "za a yanke"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "⟨ta⟩ wancan rai"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "daga cikin mutanensa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al'ārata"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "al'ārata"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ya warware"
+    }
+  ],
+  "timestamp": "2026-08-11T23:36:34.617017269Z",
+  "model": "glm-5.2"
+}

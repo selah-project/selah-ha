@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 48,
+  "translation": "Ga shi, na tsarkake ka, amma ba da azurfa ba; na zaɓe ka a cikin tanderun wahala.",
+  "tokens": [
+    {
+      "surface": "הִנֵּ֥ה",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "צְרַפְתִּ֖יךָ",
+      "gloss": "na tsarkake ka"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "בְכָ֑סֶף",
+      "gloss": "da azurfa"
+    },
+    {
+      "surface": "בְּחַרְתִּ֖יךָ",
+      "gloss": "na zaɓe ka"
+    },
+    {
+      "surface": "בְּכ֥וּר",
+      "gloss": "a cikin tanderun"
+    },
+    {
+      "surface": "עֹֽנִי",
+      "gloss": "wahala"
+    }
+  ],
+  "timestamp": "2026-08-12T14:14:42.310821607Z",
+  "model": "glm-5.2"
+}

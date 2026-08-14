@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma ta haifa masa ⟨את⟩ Zimran da ⟨את⟩ Yoqshan da ⟨את⟩ Medan da ⟨את⟩ Midyan da ⟨את⟩ Yishbaq da ⟨את⟩ Shuach.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Kuma ta haifa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Yoqshan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yoqshan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Medan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Midyan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Yishbaq"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Yishbaq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Shuach"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Shuach"
+    }
+  ],
+  "timestamp": "2026-08-11T23:50:04.365155541Z",
+  "model": "glm-5.2"
+}

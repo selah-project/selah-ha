@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma ya fītā ⟨את⟩ hadayar ƙōnāwa, kuma ya yanka ta gāje-gāje.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "kuma ya fītā"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadayar ƙōnāwa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "hadayar ƙōnāwa"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "kuma ya yanka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "gāje-gāje"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "gāje-gāje"
+    }
+  ],
+  "timestamp": "2026-08-12T01:42:56.546761961Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Tafiya ⟨tare da⟩ masu hikima, kuma ka yi hikima, amma mai rakiyar wãyiƙai zã ya lalace.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Tafiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masu hikima"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "masu hikima"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "kuma ka yi hikima"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "amma mai rakiyar"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "wãyiƙai"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "zã ya lalace"
+    }
+  ],
+  "timestamp": "2026-08-12T21:14:42.290808773Z",
+  "model": "glm-5.2"
+}

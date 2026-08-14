@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 137,
+  "translation": "Idan na manta da kai, Yerushalaim, ⟨to⟩ dama ta ta manta.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "na manta da kai"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ta manta"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "dama ta"
+    }
+  ],
+  "timestamp": "2026-08-12T20:56:31.197253511Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 15:6",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Daman hannunka na dama, Yahweh, yana ɗaukaka da ƙarfi; daman hannunka na dama, Yahweh, ta matakita abokiyar gaba.",
+  "tokens": [
+    {
+      "surface": "יְמִֽינְךָ֣",
+      "gloss": "daman hannunka"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נֶאְדָּרִ֖י",
+      "gloss": "yana ɗaukaka"
+    },
+    {
+      "surface": "בַּכֹּ֑חַ",
+      "gloss": "da ƙarfi"
+    },
+    {
+      "surface": "יְמִֽינְךָ֥",
+      "gloss": "daman hannunka"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תִּרְעַ֥ץ",
+      "gloss": "ta matakita"
+    },
+    {
+      "surface": "אוֹיֵֽב",
+      "gloss": "abokiyar gaba"
+    }
+  ],
+  "timestamp": "2026-08-12T00:46:53.602085636Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 2:40",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma Shimeʿi ya tashi ya dora ⟨את⟩ jakinsa, ya tafi Gat zuwa Akish don neman ⟨את⟩ bayinsa. Kuma Shimeʿi ya tafi ya dawo da ⟨את⟩ bayinsa daga Gat.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kuma ya tashi"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimeʿi"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "ya dora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jakinsa"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "jakinsa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "גתה",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "don neman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayinsa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bayinsa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kuma ya tafi"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimeʿi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ya dawo da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayinsa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bayinsa"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "daga Gat"
+    }
+  ],
+  "timestamp": "2026-08-12T10:51:33.127430354Z",
+  "model": "glm-5.2"
+}

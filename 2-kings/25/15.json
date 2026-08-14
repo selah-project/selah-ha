@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma ⟨את⟩ masu wuta, da ⟨את⟩ kwano, waɗanda zinari, zinari ne, kuma waɗanda azurfa, azurfa ne, shugaban maharka ya ɗauka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "masu wuta"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "masu wuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kwano"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "kwano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinari"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinari"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kuma waɗanda"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "azurfa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "azurfa"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ya ɗauka"
+    },
+    {
+      "surface": "רב",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "maharka"
+    }
+  ],
+  "timestamp": "2026-08-12T12:51:25.704243825Z",
+  "model": "glm-5.2"
+}

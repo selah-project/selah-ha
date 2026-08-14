@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Ba za mu ɓõye ⟨su⟩ daga yãransu ba, ⟨suna⟩ faɗa wa zsariyar da ke bãya, gõgiyar Yahweh da ƙarfinsa da abũbuwanymmãmãkansa da ya aikata.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "za mu ɓõye"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "daga yãransu"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "wa zsariyar"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "da ke bãya"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "⟨suna⟩ faɗa"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "gõgiyar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "da ƙarfinsa"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "da abũbuwanymmãmãkansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya aikata"
+    }
+  ],
+  "timestamp": "2026-08-12T20:08:44.734583892Z",
+  "model": "glm-5.2"
+}

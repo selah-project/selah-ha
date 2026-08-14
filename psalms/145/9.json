@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 145,
+  "translation": "Yahweh yana da nagari ga kowa da kowa, kuma rahamarsa tana kan dukan ayyukansa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yana da nagari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ga kowa da kowa"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "kuma rahamarsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "tana kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukun"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ayyukansa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:57:56.606738052Z",
+  "model": "glm-5.2"
+}

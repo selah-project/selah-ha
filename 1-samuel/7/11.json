@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma maza na Yisra'el suka fita daga Mitspa, suka bi ⟨את⟩ Filistiyawa, suka laka musu har ƙasa da Bet־Kar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Kuma suka fita"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "maza na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "suka bi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistiyawa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiyawa"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "suka laka musu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ƙasa da"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Bet־"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-08-12T08:42:28.089927602Z",
+  "model": "glm-5.2"
+}

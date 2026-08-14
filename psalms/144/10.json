@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 144,
+  "translation": "⟨Shi⟩ wanda yake baiwa ceto ga sarakuna, wanda yake 'yantar da ⟨את⟩ Dawida bāransa daga takobi mugu.",
+  "tokens": [
+    {
+      "surface": "הַנּוֹתֵן",
+      "gloss": "wanda yake baiwa"
+    },
+    {
+      "surface": "תְּשׁוּעָה",
+      "gloss": "ceto"
+    },
+    {
+      "surface": "לַמְּלָכִים",
+      "gloss": "ga sarakuna"
+    },
+    {
+      "surface": "הַפּוֹצֶה",
+      "gloss": "wanda yake 'yantar da"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Dawida"
+    },
+    {
+      "surface": "דָּוִד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "עַבְדּוֹ",
+      "gloss": "bāransa"
+    },
+    {
+      "surface": "מֵחֶרֶב",
+      "gloss": "daga takobi"
+    },
+    {
+      "surface": "רָעָה",
+      "gloss": "mugu"
+    }
+  ],
+  "timestamp": "2026-08-13T02:28:24.106611684Z",
+  "model": "glm-5.2"
+}

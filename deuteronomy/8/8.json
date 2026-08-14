@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Ƙasar alkama da sha'ir, da inabi da itacen ɓaure da itacen rumman; ƙasar itacen zaitun man shanu, da zuma.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Ƙasar"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "alkama"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "da sha'ir"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "da inabi"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "da itacen ɓaure"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "da itacen rumman"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "זית",
+      "gloss": "itacen zaitun"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "man shanu"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "da zuma"
+    }
+  ],
+  "timestamp": "2026-08-12T05:11:40.399698786Z",
+  "model": "glm-5.2"
+}

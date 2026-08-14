@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Kuma ʾibran Yisraʾel za su kula ⟨da⟩ ⟨את⟩ shaFawar, don gudanar da ⟨את⟩ shaFawar ga tsararrakansu, alƙawari na har abada.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Kuma za su kula"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ʾibran"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraʾel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shaFawar"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shaFawar"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "don gudanar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shaFawar"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shaFawar"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ga tsararrakansu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alkawari"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na har abada"
+    }
+  ],
+  "timestamp": "2026-08-12T01:15:49.547270231Z",
+  "model": "glm-5.2"
+}

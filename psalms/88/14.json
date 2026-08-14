@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 88,
+  "translation": "Kuma ni, zuwa gareka, Yahweh, na kururu, da safe addu'ata za ta gabaceka.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zuwa gareka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "na kururu"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "da safe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "addu'ata"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "za ta gabaceka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:16:51.743864844Z",
+  "model": "glm-5.2"
+}

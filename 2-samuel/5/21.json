@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma suka bar can ⟨את⟩ gumakansu, kuma Dāwīḋ da mazanensa suka ɗauke su.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Kuma suka bar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "can"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gumakansu"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "gumakansu"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "kuma suka ɗauke su"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dāwīḋ"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "da mazanensa"
+    }
+  ],
+  "timestamp": "2026-08-12T10:05:11.623385014Z",
+  "model": "glm-5.2"
+}

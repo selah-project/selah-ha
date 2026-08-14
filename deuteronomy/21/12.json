@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "sai ka kawo ta cikin gidanka, kuma ta aske kanta ⟨את⟩, kuma tayi ⟨את⟩ ƙafafunta.",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "sai ka kawo ta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cikin"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "tsakiyar"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "gidanka"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "kuma ta aske"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanta"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "kanta"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "kuma tayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙafafunta"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "ƙafafunta"
+    }
+  ],
+  "timestamp": "2026-08-12T05:22:48.787978537Z",
+  "model": "glm-5.2"
+}

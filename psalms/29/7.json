@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Sautin Yahweh yana sassaka wutar ƴan wuta.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sautin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "yana sassaka"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "ƴan wuta"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wutar"
+    }
+  ],
+  "timestamp": "2026-08-12T19:31:24.195176238Z",
+  "model": "glm-5.2"
+}

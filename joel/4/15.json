@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Sun da wata sun yi duhu, kuma taurari sun tattara haskensu.",
+  "tokens": [
+    {
+      "surface": "שֶׁ֥מֶשׁ",
+      "gloss": "Sun"
+    },
+    {
+      "surface": "וְיָרֵ֖חַ",
+      "gloss": "da wata"
+    },
+    {
+      "surface": "קָדָ֑רוּ",
+      "gloss": "sun yi duhu"
+    },
+    {
+      "surface": "וְכוֹכָבִ֖ים",
+      "gloss": "kuma taurari"
+    },
+    {
+      "surface": "אָסְפ֥וּ",
+      "gloss": "sun tattara"
+    },
+    {
+      "surface": "נָגְהָֽם",
+      "gloss": "haskensu"
+    }
+  ],
+  "timestamp": "2026-08-13T03:07:41.292979992Z",
+  "model": "glm-5.2"
+}

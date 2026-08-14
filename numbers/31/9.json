@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 31:9",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Kuma ƴa'ƴan Yisra'ɛl suka kama ⟨את⟩ matan Midyan da ⟨את⟩ ƙaramansu, da ⟨את⟩ dukan dabbobinsu, da ⟨את⟩ dukan ganinsu, da ⟨את⟩ dukan dukiyarsu, sun yi fashi.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "suka kama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴa'ƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'ɛl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matan"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "matan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙaramansu"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "ƙaramansu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "dabbobinsu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "מקנהם",
+      "gloss": "ganinsu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "dukiyarsu"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "sun yi fashi"
+    }
+  ],
+  "timestamp": "2026-08-12T04:37:52.653052310Z",
+  "model": "glm-5.2"
+}

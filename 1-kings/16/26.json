@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 16:26",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma ya tafi a duk hanyar Yaravʿam ɗin Navat, kuma zunubansa waɗanda ya yi wa ⟨את⟩ Yisra'el su yi zunubi, don tada fushin ⟨את⟩ Yahweh, Elohim na Yisra'el, da ƙarya-abubuwansu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kuma ya tafi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "hanyar"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravʿam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗin"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Navat"
+    },
+    {
+      "surface": "ובחטאתיו",
+      "gloss": "kuma zunubansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ya yi wa... su yi zunubi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "don tada fushin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "da ƙarya-abubuwansu"
+    }
+  ],
+  "timestamp": "2026-08-12T11:30:27.607524953Z",
+  "model": "glm-5.2"
+}

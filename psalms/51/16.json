@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 51,
+  "translation": "Tsire ni daga jini, Elohim, Elohim na tsiyar da ni, harshe na zai rera waƙar gaskiyarka.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Tsire ni"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "daga jini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "tsiyar da ni"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "zai rera waƙar"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "harshe na"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "gaskiyarka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:51:45.599493143Z",
+  "model": "glm-5.2"
+}

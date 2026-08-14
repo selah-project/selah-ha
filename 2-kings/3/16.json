@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Ya ce: \"Haka Yahweh ya ce: 'Ku yi wannan kwazon rijiya-rijiya.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "כה",
+      "gloss": "haka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ku yi"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kwazon"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "rijiya-rijiya"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "rijiya-rijiya"
+    }
+  ],
+  "timestamp": "2026-08-12T11:57:12.194021971Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 71,
+  "translation": "Suna cewa, Elohim ya bar shi; ku bi shi kuma ku kama shi, gama babu mai ceto.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "Suna cewa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ya bar shi"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "ku bi shi"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "kuma ku kama shi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gama"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "mai ceto"
+    }
+  ],
+  "timestamp": "2026-08-12T20:00:33.792473424Z",
+  "model": "glm-5.2"
+}

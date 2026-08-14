@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma game da Izevel ma, Yahweh ya yi magana ⟨da cewa⟩: Karnuka za su ci ⟨את⟩ Izevel a cokalin Yizre'el.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kuma ma"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "game da Izevel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya yi magana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨da cewar⟩"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "karnuka"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "za su ci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izevel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "a cokalin"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizre'el"
+    }
+  ],
+  "timestamp": "2026-08-13T02:06:12.287537097Z",
+  "model": "glm-5.2"
+}

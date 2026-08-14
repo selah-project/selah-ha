@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "Kuma na ce: Don abu baƙau, na gajarta, don banza da iska, ƙarfina na ɓarke. A gaskiya, hukuncina ⟨yana⟩ ⟨a wurin⟩ ⟨את⟩ Yahweh, aikata ⟨kuma⟩ ⟨yana⟩ ⟨a wurin⟩ ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "וַאֲנִ֤י",
+      "gloss": "Kuma ni"
+    },
+    {
+      "surface": "אָמַ֨רְתִּי֙",
+      "gloss": "na ce"
+    },
+    {
+      "surface": "לְרִ֣יק",
+      "gloss": "Don abu baƙau"
+    },
+    {
+      "surface": "יָגַ֔עְתִּי",
+      "gloss": "na gajarta"
+    },
+    {
+      "surface": "לְתֹ֥הוּ",
+      "gloss": "don banza"
+    },
+    {
+      "surface": "וָהֶ֖בֶל",
+      "gloss": "da iska"
+    },
+    {
+      "surface": "כֹּחִ֣י",
+      "gloss": "ƙarfina"
+    },
+    {
+      "surface": "כִלֵּ֑יתִי",
+      "gloss": "na ɓarke"
+    },
+    {
+      "surface": "אָכֵן֙",
+      "gloss": "A gaskiya"
+    },
+    {
+      "surface": "מִשְׁפָּטִ֣י",
+      "gloss": "hukuncina"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וּפְעֻלָּתִ֖י",
+      "gloss": "aikata"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אֱלֹהָֽי",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T14:21:25.001743858Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ⟨את⟩ kofar kifa suka gina 'ya'yan Hassena'ah; sũ ne suka shimfiɗa shi, suka tsayar da ƙofofinsa, kullansa da tsagagansa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "kofar kifa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kofar"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "kifa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "suka gina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hassena'ah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sũ ne"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "suka shimfiɗa shi"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "suka tsayar da"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "ƙofofinsa"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "kullansa"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "tsagagansa"
+    }
+  ],
+  "timestamp": "2026-08-12T23:40:11.474320499Z",
+  "model": "glm-5.2"
+}

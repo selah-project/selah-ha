@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Sa'an nan idan ka shigo cikin gonar inabin kawunanka, kuma ka ci inabi gwargwadon ⟨nafsinka⟩ har haihuwa, amma ⟨a⟩ cikin kwalminka ba za ka saka ba.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Sa'an nan idan"
+    },
+    {
+      "surface": "תָבֹא",
+      "gloss": "ka shigo"
+    },
+    {
+      "surface": "בְּכֶרֶם",
+      "gloss": "cikin gonar inabin"
+    },
+    {
+      "surface": "רֵעֶךָ",
+      "gloss": "kawunanka"
+    },
+    {
+      "surface": "וְאָכַלְתָּ",
+      "gloss": "kuma ka ci"
+    },
+    {
+      "surface": "עֲנָבִים",
+      "gloss": "inabi"
+    },
+    {
+      "surface": "כְּנַפְשְׁךָ",
+      "gloss": "gwargwadon ⟨nafsinka⟩"
+    },
+    {
+      "surface": "שָׂבְעֶךָ",
+      "gloss": "har haihuwa"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "⟨a⟩ cikin"
+    },
+    {
+      "surface": "כֶּלְיְךָ",
+      "gloss": "kwalminka"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תִתֵּן",
+      "gloss": "za ka saka"
+    }
+  ],
+  "timestamp": "2026-08-13T01:54:33.673238136Z",
+  "model": "glm-5.2"
+}

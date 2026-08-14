@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 109,
+  "translation": "Amma Kai, Yahweh Adonai, ka yi ⟨את⟩ ni don sunan Ka, domin chesed Ka ⟨ne⟩ mai kyau, ka tsirar ni.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Amma Kai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ka yi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "למען",
+      "gloss": "don"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunan Ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed Ka"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ka tsirar ni"
+    }
+  ],
+  "timestamp": "2026-08-12T20:35:06.768509018Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma mutum da zai yi zina da ⟨את⟩ matar mutum, wanda zai yi zina da ⟨את⟩ matar makwabcinsa, a tabbatar da kashe mai-zinan da kuma mai-zinar mace ⟨da⟩ mutuwa.",
+  "tokens": [
+    {
+      "surface": "וְאִ֗ישׁ",
+      "gloss": "kuma mutum"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יִנְאַף֙",
+      "gloss": "zai yi zina"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "matar mutum"
+    },
+    {
+      "surface": "אֵ֣שֶׁת",
+      "gloss": "matar"
+    },
+    {
+      "surface": "אִ֔ישׁ",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "יִנְאַ֖ף",
+      "gloss": "zai yi zina"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "matar makwabcinsa"
+    },
+    {
+      "surface": "אֵ֣שֶׁת",
+      "gloss": "matar"
+    },
+    {
+      "surface": "רֵעֵ֑הוּ",
+      "gloss": "makwabcinsa"
+    },
+    {
+      "surface": "מֽוֹת",
+      "gloss": "mutuwa"
+    },
+    {
+      "surface": "יוּמַ֥ת",
+      "gloss": "a tabbatar da kashe"
+    },
+    {
+      "surface": "הַנֹּאֵ֖ף",
+      "gloss": "mai-zinan"
+    },
+    {
+      "surface": "וְהַנֹּאָֽפֶת",
+      "gloss": "da kuma mai-zinar mace"
+    }
+  ],
+  "timestamp": "2026-08-12T02:39:37.380335373Z",
+  "model": "glm-5.2"
+}

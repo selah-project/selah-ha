@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 60,
+  "translation": "Waɗannan waye, suke tashi kamar gajimare, kuma kamar watannin kuɗin zuwa ƙofofinsu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "kamar gajimare"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "suke tashi"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "kuma kamar watannin kuɗin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "ƙofofinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T14:36:53.105870890Z",
+  "model": "glm-5.2"
+}

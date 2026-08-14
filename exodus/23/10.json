@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma shekaru shida za ka shuka ⟨את⟩ ƙasarka, kuma za ka tãra ⟨את⟩ amfanin gona ta.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "Kuma shida"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "za ka shuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasarka"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ƙasarka"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "kuma za ka tãra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amfanin gona ta"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "amfanin gona ta"
+    }
+  ],
+  "timestamp": "2026-08-12T00:59:04.915119231Z",
+  "model": "glm-5.2"
+}

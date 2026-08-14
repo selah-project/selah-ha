@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 86,
+  "translation": "Gādo chesed⁵ka babba ⟨ne⟩ a kaina, kuma ka tsĩra nafshī daga Sheol ta ƙasan.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "gādo"
+    },
+    {
+      "surface": "חַ֭סְדְּךָ",
+      "gloss": "chesed⁵ka"
+    },
+    {
+      "surface": "גָּד֣וֹל",
+      "gloss": "babba"
+    },
+    {
+      "surface": "עָלָ֑י",
+      "gloss": "a kaina"
+    },
+    {
+      "surface": "וְהִצַּ֥לְתָּ",
+      "gloss": "kuma ka tsĩra"
+    },
+    {
+      "surface": "נַ֝פְשִׁ֗י",
+      "gloss": "nafshī"
+    },
+    {
+      "surface": "מִשְּׁא֥וֹל",
+      "gloss": "daga Sheol"
+    },
+    {
+      "surface": "תַּחְתִּיָּֽה",
+      "gloss": "ta ƙasan"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:20.908431744Z",
+  "model": "glm-5.2"
+}

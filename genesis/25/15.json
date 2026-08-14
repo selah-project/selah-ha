@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Hadar, da Tema, Yetur, Nafish, da Qedma.",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "Hadar"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "da Tema"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "Yetur"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "Nafish"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "da Qedma"
+    }
+  ],
+  "timestamp": "2026-08-13T01:44:21.066903743Z",
+  "model": "glm-5.2"
+}

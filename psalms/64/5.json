@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 64,
+  "translation": "Donbin harbo a cikin ɓoye masu lafiya, ba-zata suna harbo shi, kuma ba sa jin tsoro.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "donbin harbo"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "a cikin ɓoye"
+    },
+    {
+      "surface": "תם",
+      "gloss": "masu lafiya"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ba-zata"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "suna harbo shi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba sa"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "jin tsoro"
+    }
+  ],
+  "timestamp": "2026-08-12T19:56:36.737906873Z",
+  "model": "glm-5.2"
+}

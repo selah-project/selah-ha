@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 64,
+  "translation": "Waɗanda suka fiƖɗe harshensu kamar takobi, suka dannƙa kibiyarsu — kalma mai ɗanƙara.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Waɗanda"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "suka fiƖɗe"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "kamar takobi"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "harshensu"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "suka dannƙa"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "kibiyarsu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalma"
+    },
+    {
+      "surface": "מר",
+      "gloss": "mai ɗanƙara"
+    }
+  ],
+  "timestamp": "2026-08-12T19:56:54.525269527Z",
+  "model": "glm-5.2"
+}

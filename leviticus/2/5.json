@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma idan mincha ⟨ce⟩ a kan mahabat gabanabin ka, salat da aka gauraye da man shi, matsa ⟨ta⟩ kasance.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "mahabat"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "gabanabin ka"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "salat"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "da aka gauraye"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "da man"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "matsa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨ta⟩ kasance"
+    }
+  ],
+  "timestamp": "2026-08-12T01:43:11.850298728Z",
+  "model": "glm-5.2"
+}

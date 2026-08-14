@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 109,
+  "translation": "Kuma ya sa tsafa kamar tufafinsa, ⟨don haka⟩ ta shiga kamar ruwa cikin cikinsa, da kamar man kitse a cikin ƙashinsa.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "kuma ya sa"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "tsafa"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "kamar tufafinsa"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ta shiga"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kamar ruwa"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "cikin cikinsa"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "da kamar man kitse"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "a cikin ƙashinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:35:52.763309137Z",
+  "model": "glm-5.2"
+}

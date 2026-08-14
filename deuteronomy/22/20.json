@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma amma idan gaskiya ta kasance wannan maganar, ba a samun ⟨ga⟩ budurwa ⟨na⟩ yar matar —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kuma amma idan"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "gaskiya"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ta kasance"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "maganar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "a samun"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "budurwa"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "⟨na⟩ yar matar"
+    }
+  ],
+  "timestamp": "2026-08-12T05:33:57.903619642Z",
+  "model": "glm-5.2"
+}

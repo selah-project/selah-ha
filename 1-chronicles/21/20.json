@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma Ornan ya juya baya, ya ga ⟨את⟩ malamin, kuma yaˈya huɗu ⟨sauransu⟩ suna tare da shi, suna ɓoye, kuma Ornan yana daka waƙa.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Kuma ya juya baya"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ya ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malamin"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malamin"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "kuma yaˈya huɗu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "yaˈyansa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "suna tare da shi"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "suna ɓoye"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "kuma Ornan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "yana daka"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "waƙa"
+    }
+  ],
+  "timestamp": "2026-08-13T00:21:28.131257346Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 83,
+  "translation": "A kan al'ummarka suna yin shiri na asiri, kuma suna yin shawara a kan abin da Ka ɓoya.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "A kan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "al'ummarka"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "suna yin shiri na asiri"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "⟨shiri⟩"
+    },
+    {
+      "surface": "ושיתיעצו",
+      "gloss": "kuma suna yin shawara"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "abin da Ka ɓoya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:13:07.370199300Z",
+  "model": "glm-5.2"
+}

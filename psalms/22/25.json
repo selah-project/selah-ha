@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Domin ba ya wulakanta kuma ba ya ƙyamtar da wahalar wanda aka ciwo, kuma ba ya ɓoye fuskarsa daga gare shi, amma a kurayar da yake kira gare Shi, Ya ji.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ya wulakanta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ya ƙyamtar da"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "wahalar"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wanda aka ciwo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "ya ɓoye"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fuskarsa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare shi"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "amma a kurayar da yake kira"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gare Shi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Ya ji"
+    }
+  ],
+  "timestamp": "2026-08-12T19:28:23.022374886Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Daan shekara ⟨ne⟩ Sha'ul a cikin mulkinsa, kuma shekaru biyu ya yi mulki a kan Yisra'el.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Daan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "a cikin mulkinsa"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "kuma shekaru biyu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "shekaru biyu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya yi mulki"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T08:54:17.575435257Z",
+  "model": "glm-5.2"
+}

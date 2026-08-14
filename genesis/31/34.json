@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 31:34",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Rael kuwa ta ɗauki ⟨את⟩ gumakan gida, ta sa su a cikin kujerar rakumi, ta kuma zauna a kansu; Lavan ya bincike ⟨את⟩ duka tentin, amma ba ya samu ⟨ba⟩.",
+  "tokens": [
+    {
+      "surface": "ורחל",
+      "gloss": "Rael kuwa"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "ta ɗauki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gumakan gida"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "gumakan gida"
+    },
+    {
+      "surface": "ותשמם",
+      "gloss": "ta sa su"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "a cikin kujerar"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "rakumi"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ta kuma zauna"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "a kansu"
+    },
+    {
+      "surface": "וימשש",
+      "gloss": "ya bincike"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tentin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ya samu"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:00.692506036Z",
+  "model": "glm-5.2"
+}

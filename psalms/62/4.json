@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 62,
+  "translation": "Har yaushe zã ku tona a kan mutum? Kuna son ku kashe shi, duka ku, kamar bango mai lankwasa, kamar ganuwar da aka tona?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Har"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "yaushe"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "za ku tona"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum?"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "Kuna son ku kashe shi,"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "duka ku,"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "kamar bango"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "mai lankwasa,"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "kamar ganuwar"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "da aka tona?"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:09.635447618Z",
+  "model": "glm-5.2"
+}

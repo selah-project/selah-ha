@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma ƙasarsa ta cika da abin bautawa; suna girmama aikin hannayensu, abin da yatsunsu suka yi, suna lallãsã wa.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "Kuma ta cika"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ƙasarsa"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "da abin bautawa"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "girmama aikin"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hannayensa"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "suna lallãsã wa"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "yatsunsu"
+    }
+  ],
+  "timestamp": "2026-08-12T12:54:38.770395843Z",
+  "model": "glm-5.2"
+}

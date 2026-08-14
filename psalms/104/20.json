@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 104,
+  "translation": "Kai ka sanya duhu, ⟨kuma⟩ ya zama dare; a cikinsa dukan dabbobin daji suna rarraƙe fita.",
+  "tokens": [
+    {
+      "surface": "תָּשֶׁת",
+      "gloss": "Kai ka sanya"
+    },
+    {
+      "surface": "חֹשֶׁךְ",
+      "gloss": "duhu"
+    },
+    {
+      "surface": "וִיהִי",
+      "gloss": "⟨kuma⟩ ya zama"
+    },
+    {
+      "surface": "לַיְלָה",
+      "gloss": "dare"
+    },
+    {
+      "surface": "בּוֹ",
+      "gloss": "a cikinsa"
+    },
+    {
+      "surface": "תִּרְמֹשׂ",
+      "gloss": "suna rarraƙe fita"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "חַיְתוֹ",
+      "gloss": "dabbobin"
+    },
+    {
+      "surface": "יַעַר",
+      "gloss": "daji"
+    }
+  ],
+  "timestamp": "2026-08-12T20:27:31.720223835Z",
+  "model": "glm-5.2"
+}

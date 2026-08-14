@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Guje shi, kada ka wuce a cikinsa; karkata daga gare shi, ka wuce.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "guje shi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ka wuce"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a cikinsa"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "karkata"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "daga gare shi"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "ka wuce"
+    }
+  ],
+  "timestamp": "2026-08-12T21:03:13.831318810Z",
+  "model": "glm-5.2"
+}

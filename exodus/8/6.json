@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "⟨Ya amsa⟩ don gobe, kuma ⟨ya ce⟩: \"Kamar maganar ka, ⟨domin⟩ ka san cewa babu wanda ⟨yake⟩ kamar Yahweh, Elohim mu;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "⟨Ya amsa⟩"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "don gobe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "⟨ya ce⟩"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Kamar maganar ka"
+    },
+    {
+      "surface": "למען",
+      "gloss": "⟨domin⟩"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ka san"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu wanda"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "kamar Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim mu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:37:58.123782828Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma ya ce, \"Ka tare ni, kuma ⟨ka⟩ ga ⟨a cikin⟩ kishinτ da nake yi wa Yahweh.\" Kuma suka sa ⟨את⟩ shi ya hau cikin motarsa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Ka tare"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ni"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "kuma ka ga"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "kishinτ da nake yi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "Kuma suka sa shi ya hau"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "cikin motarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:16:00.383917599Z",
+  "model": "glm-5.2"
+}

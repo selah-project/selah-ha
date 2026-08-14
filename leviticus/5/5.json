@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma ya zama, idan ya yi laifi a cikin ɗaya daga cikin waɗannan, kuma ya furta abin da ya yi wa zunubi a kansa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kuma ya zama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "idan"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "ya yi laifi"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "a cikin ɗaya"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "daga cikin waɗannan"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "kuma ya furta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ya yi wa zunubi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "a kansa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:56:05.437874652Z",
+  "model": "glm-5.2"
+}

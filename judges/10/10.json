@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma ɗiyansa Yisra'el suka kururu zuwa Yahweh, suna cewa, \"Mun yi munki ⟨a gare⟩ kai, domin mun bar ⟨את⟩ Elohim dinmu, kuma muka bauta wa ⟨את⟩ ba'allai.\"",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "kuma suka kururu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyansa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "suna cewa"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "mun yi munki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨a gare⟩ kai"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "mun bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim dinmu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim dinmu"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "kuma muka bauta wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba'allai"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "ba'allai"
+    }
+  ],
+  "timestamp": "2026-08-12T07:45:55.324615370Z",
+  "model": "glm-5.2"
+}

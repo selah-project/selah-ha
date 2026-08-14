@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 8:12",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "kuma ya sanya masa shugabanni dubu da shugabanni hamsin; su noma noman sa, su girbe girbin sa, su yi kayan yakinsa da kayan motarsa.",
+  "tokens": [
+    {
+      "surface": "ולשום",
+      "gloss": "kuma ya sanya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ma shugabanni"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "shugabanni"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "da shugabanni"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "hamsin"
+    },
+    {
+      "surface": "ולחרש",
+      "gloss": "su noma"
+    },
+    {
+      "surface": "חרישו",
+      "gloss": "noman sa"
+    },
+    {
+      "surface": "ולקצר",
+      "gloss": "su girbe"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "girbin sa"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "su yi"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kayan"
+    },
+    {
+      "surface": "מלחמתו",
+      "gloss": "yakinsa"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "da kayan"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "motarsa"
+    }
+  ],
+  "timestamp": "2026-08-13T01:59:02.415109358Z",
+  "model": "glm-5.2"
+}

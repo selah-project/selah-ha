@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Achima'ats, a Naftali; shi ma ya auri ⟨את⟩ Bashmat ɗiyar Shelomo ⟨ya sa⟩ ⟨mata⟩.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achima'ats"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "a Naftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ya auri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bashmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bashmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɗiyar"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "⟨mata⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T10:56:44.930418961Z",
+  "model": "glm-5.2"
+}

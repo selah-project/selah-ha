@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Domi sun gudu daga gabamin takuba, daga gabamin takoba da aka daure, da daga gabamin baka da aka daure, da daga gabamin nauyin yaƙi.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "domi"
+    },
+    {
+      "surface": "מִפְּנֵי",
+      "gloss": "daga gabamin"
+    },
+    {
+      "surface": "חֲרָבוֹת",
+      "gloss": "takuba"
+    },
+    {
+      "surface": "נָדָדוּ",
+      "gloss": "sun gudu"
+    },
+    {
+      "surface": "מִפְּנֵי",
+      "gloss": "daga gabamin"
+    },
+    {
+      "surface": "חֶרֶב",
+      "gloss": "takoba"
+    },
+    {
+      "surface": "נְטוּשָׁה",
+      "gloss": "da aka daure"
+    },
+    {
+      "surface": "וּמִפְּנֵי",
+      "gloss": "da daga gabamin"
+    },
+    {
+      "surface": "קֶשֶׁת",
+      "gloss": "baka"
+    },
+    {
+      "surface": "דְּרוּכָה",
+      "gloss": "da aka daure"
+    },
+    {
+      "surface": "וּמִפְּנֵי",
+      "gloss": "da daga gabamin"
+    },
+    {
+      "surface": "כֹּבֶד",
+      "gloss": "nauyin"
+    },
+    {
+      "surface": "מִלְחָמָה",
+      "gloss": "yaƙi"
+    }
+  ],
+  "timestamp": "2026-08-12T13:24:02.240071792Z",
+  "model": "glm-5.2"
+}

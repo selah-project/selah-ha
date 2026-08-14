@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 30:5",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma mata biyu na Dawid an kama su — Aƙinɔ'am ƴar Yizra'el, da Avigayil ⟨mace⟩ Nabal ɗan Karmel.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "kuma mata biyu"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "mata"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "na Dawid"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "an kama su"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Aƙinɔ'am"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "ƴar Yizra'el"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "da Avigayil"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "⟨mace⟩"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "ɗan Karmel"
+    }
+  ],
+  "timestamp": "2026-08-12T09:40:01.547327858Z",
+  "model": "glm-5.2"
+}

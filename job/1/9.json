@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Sai ha-Satan ya amsa ⟨ga⟩ Yahweh ya ce: \"Asirce ne Iyobu ke tsoron Elohim?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ya amsa"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-Satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "asirce"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "yana tsoron"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T21:39:53.361518905Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma za ka tsayar da ⟨את⟩ mazaɗin bisa ka'idojinsa, wanda aka nuna maka a ⟨kan⟩ dutsen.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "Kuma za ka tsayar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazaɗin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mazaɗin"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "bisa ka'idojinsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "aka nuna maka"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a ⟨kan⟩ dutsen"
+    }
+  ],
+  "timestamp": "2026-08-12T01:08:03.683707108Z",
+  "model": "glm-5.2"
+}

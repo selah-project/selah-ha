@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 11:19",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Yisra'el ya aika manzansa ga Sihon, sarkin Amori, sarkin Heshbon, kuma Yisra'el ya ce masa, Mu tsallaka, ina roƙonka, a cikin ƙasarka, har zuwa wajena.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ya aika"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "manzanni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amori"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Heshbon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "נעברה",
+      "gloss": "mu tsallaka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ina roƙonka"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "a cikin ƙasarka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "wajena"
+    }
+  ],
+  "timestamp": "2026-08-12T07:51:25.815558249Z",
+  "model": "glm-5.2"
+}

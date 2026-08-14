@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma ƙwarkwararsa, sunanta Re'umah, ita ma ta haifa ⟨את⟩ Tevaḥ da ⟨את⟩ Gaḥam da ⟨את⟩ Taḥash da ⟨את⟩ Ma'akha.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "Kuma ƙwarkwararsa"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "sunanta"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Re'umah"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ta haifa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tevaḥ"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tevaḥ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Gaḥam"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gaḥam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Taḥash"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Taḥash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Ma'akha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Ma'akha"
+    }
+  ],
+  "timestamp": "2026-08-11T23:42:05.977162403Z",
+  "model": "glm-5.2"
+}

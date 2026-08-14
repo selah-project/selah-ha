@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 120,
+  "translation": "Waƙar matakan tsayi. Zuwa Yahweh, a cikin tambayar da ta same ni, na kira, ⟨kuma⟩ ya amsa ni.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Waƙar"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "matakan tsayi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Zuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "a cikin tambayar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "da ta same ni"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "na kira"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "ya amsa ni"
+    }
+  ],
+  "timestamp": "2026-08-12T20:46:57.029894690Z",
+  "model": "glm-5.2"
+}

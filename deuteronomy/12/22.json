@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kawai, kamar yadda ake cin ⟨את⟩ barewa da ⟨את⟩ awaki, haka za ka ci ⟨shi⟩; ba-tsarki da tsarki tare za su ci ⟨shi⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kawai"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ake cin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barewa"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "barewa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "awaki"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "awaki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "za ka ci"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ba-tsarki"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "da tsarki"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tare"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "za su ci"
+    }
+  ],
+  "timestamp": "2026-08-12T05:16:45.879145546Z",
+  "model": "glm-5.2"
+}

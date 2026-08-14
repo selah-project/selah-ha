@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Tashi, ka tafi Nineveh, ⟨zuwa⟩ birnin da ya girma, kuma ka yi kira a kansa, cewa mugayensu sun haura a gaban Ni.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Tashi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka tafi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨zuwa⟩"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineveh"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "da ya girma"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "kuma ka yi kira"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "sun haura"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "mugayensu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban Ni"
+    }
+  ],
+  "timestamp": "2026-08-12T18:38:16.220638209Z",
+  "model": "glm-5.2"
+}

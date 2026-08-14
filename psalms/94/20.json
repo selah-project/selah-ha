@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 94,
+  "translation": "Shin kujerar bãgãngar za ta kasance abokiyar ⟨ka⟩, wanda ke sassaƙa hãnun bisa doka?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "za ta kasance abokiyar"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kujerar"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "bãgãngar"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "wanda ke sassaƙa"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "hãnun"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "חק",
+      "gloss": "doka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:21:00.331521369Z",
+  "model": "glm-5.2"
+}

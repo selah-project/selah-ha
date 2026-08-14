@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 6:7",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma ⟨suka⟩ ce wa jama'a, Ku wuce, ku kewaye ⟨את⟩ birnin, kuma masu yaƙi za su wuce gaban akwatin Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "kuma ⟨suka⟩ ce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "Ku wuce"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "ku kewaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birnin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "kuma masu yaƙi"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "za su wuce"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T06:15:18.553188930Z",
+  "model": "glm-5.2"
+}

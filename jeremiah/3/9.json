@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ⟨ya faru⟩ ne, saboda sauƙin zinaɗinta, ta ɓata ⟨את⟩ ƙasar, kuma ta yi zina da ⟨את⟩ dutse da ⟨את⟩ itace.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kuma ⟨ya faru⟩"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "saboda sauƙi"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "zinaɗinta"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "ta ɓata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "kuma ta yi zina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dutse"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "dutse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "itace"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "itace"
+    }
+  ],
+  "timestamp": "2026-08-12T14:54:45.758035747Z",
+  "model": "glm-5.2"
+}

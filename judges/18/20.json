@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma zuciyar ⟨kohen⟩ ta fara dadi, ya ɗauki ⟨את⟩ haɗaɗɗen riga, da ⟨את⟩ gumaka, da ⟨את⟩ siffar-ƙwanan, ya shiga tsakiyar mutanen.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "ta fara dadi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciyar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨kohen⟩"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ya ɗauki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haɗaɗɗen riga"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "haɗaɗɗen riga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "gumaka"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "gumaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "siffar-ƙwanan"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "siffar-ƙwanan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ya shiga"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "tsakiyar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    }
+  ],
+  "timestamp": "2026-08-12T08:13:33.039866717Z",
+  "model": "glm-5.2"
+}

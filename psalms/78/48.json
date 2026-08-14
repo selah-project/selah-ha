@@ -1,0 +1,36 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 78:48",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Ya mika ⟨ga⟩ ƙanƙara shanunsu, da garken su ⟨ga⟩ walƙi.",
+  "tokens": [
+    {
+      "surface": "וַיַּסְגֵּ֣ר",
+      "gloss": "Ya mika"
+    },
+    {
+      "surface": "לַבָּרָ֣ד",
+      "gloss": "⟨ga⟩ ƙanƙara",
+      "marks": "ƙanƙara"
+    },
+    {
+      "surface": "בְּעִירָ֑ם",
+      "gloss": "shanunsu",
+      "marks": "shanunsu"
+    },
+    {
+      "surface": "וּמִקְנֵיהֶ֗ם",
+      "gloss": "da garken su"
+    },
+    {
+      "surface": "לָרְשָׁפִֽים",
+      "gloss": "⟨ga⟩ walƙi",
+      "marks": "walƙi"
+    }
+  ],
+  "timestamp": "2026-08-13T23:40:00.702915514Z",
+  "model": "glm-5.2"
+}

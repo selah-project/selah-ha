@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 17:4",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma maganar ta daidaita idanun Avshalom da idanun dukan tsofaffin Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "Kuma ta daidaita"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "maganar"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "idanun"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "da idanun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "tsofaffin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T10:26:26.699638992Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma sarkin Yehoram ya fita a rana ⟨ta⟩ wancan daga Shomeron, ya yi lissafin ⟨את⟩ dukan Isra'ila.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Kuma ... ya fita"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨ta⟩ wancan"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "daga Shomeron"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ya yi lissafin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukan Isra'ila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T11:57:21.562012909Z",
+  "model": "glm-5.2"
+}

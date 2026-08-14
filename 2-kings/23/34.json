@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-kings 23:34",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma Paroh Nekoh ya naɗa ⟨את⟩ Elyakim ɗan Yeshiyahu maimaiton Yeshiyahu mahaifinsa, ya kuma canza ⟨את⟩ sunansa zuwa Yehoyakim. ⟨Amma⟩ ⟨את⟩ Yehoachaz ya kama, ya kawo ⟨shi⟩ Mitsrayim, ya kuma mutu a can.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "ya naɗa ⟨a matsayin⟩ sarki"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "Nekoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yeshiyahu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "maimaiton"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yeshiyahu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "mahaifinsa"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ya kuma canza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunansa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ya kama"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ya kawo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ya kuma mutu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    }
+  ],
+  "timestamp": "2026-08-12T12:52:45.566150823Z",
+  "model": "glm-5.2"
+}

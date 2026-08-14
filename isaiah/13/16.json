@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 13:16",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma ƙanana za a yi musu ƙwaragi a gaban idanunsu, za a yi musu fashi ⟨a⟩ gidajensu, kuma matansu za a yi musu zawarci.",
+  "tokens": [
+    {
+      "surface": "ועלליהם",
+      "gloss": "Kuma ƙanansu"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "za a yi musu ƙwaragi"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "a gaban idanunsu"
+    },
+    {
+      "surface": "ישסו",
+      "gloss": "za a yi musu fashi"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "⟨a⟩ gidajensu"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "kuma matansu"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "za a yi musu zawarci"
+    }
+  ],
+  "timestamp": "2026-08-12T13:14:03.241988320Z",
+  "model": "glm-5.2"
+}

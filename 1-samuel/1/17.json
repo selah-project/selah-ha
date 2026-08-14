@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 1:17",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Sai ʿEli ya amsa ya ce: \"Ka tafi lafiya, kuma Elohim na Yisra'el ya ba ka ⟨את⟩ roƙonka da ka roƙa daga gare Shi.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ya amsa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ʿEli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ka tafi"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "lafiya"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "kuma Elohim na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ya ba ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roƙonka"
+    },
+    {
+      "surface": "שלתך",
+      "gloss": "roƙonka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "ka roƙa"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "daga gare Shi"
+    }
+  ],
+  "timestamp": "2026-08-12T08:30:49.220596878Z",
+  "model": "glm-5.2"
+}

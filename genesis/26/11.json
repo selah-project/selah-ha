@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Abimelekh ya yi wa ⟨את⟩ duka mutanen umarni, yana cewa: \"Duk wanda ya taɓa wannan mutumin ko matarsa, a tabbatar da a kashe shi.\"",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ya yi wa...umarni"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelekh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka mutanen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ya taɓa"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "wannan mutumin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "ko matarsa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "a kashe"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a tabbatar da kashe"
+    }
+  ],
+  "timestamp": "2026-08-11T23:49:49.835265387Z",
+  "model": "glm-5.2"
+}

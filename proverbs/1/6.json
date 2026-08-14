@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 1:6",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Don fahimtar misali da fassararsa, kalmomin masu hikima da kuma abin-alkashin su.",
+  "tokens": [
+    {
+      "surface": "לְהָבִ֣ין",
+      "gloss": "don fahimtar"
+    },
+    {
+      "surface": "מָ֭שָׁל",
+      "gloss": "misali"
+    },
+    {
+      "surface": "וּמְלִיצָ֑ה",
+      "gloss": "da fassararsa"
+    },
+    {
+      "surface": "דִּבְרֵ֥י",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "חֲכָמִ֗ים",
+      "gloss": "masu hikima"
+    },
+    {
+      "surface": "וְחִידֹתָֽם",
+      "gloss": "da kuma abin-alkashin su"
+    }
+  ],
+  "timestamp": "2026-08-12T21:00:45.554089808Z",
+  "model": "glm-5.2"
+}

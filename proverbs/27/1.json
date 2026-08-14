@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kada ka yaba kanka a rana ta gobe, domin ba ka san abin da rāna ⟨za ta⟩ haihu ba.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ka yaba kanka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ta gobe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ka san"
+    },
+    {
+      "surface": "מה",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "haihu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "rāna"
+    }
+  ],
+  "timestamp": "2026-08-12T21:33:40.924622834Z",
+  "model": "glm-5.2"
+}

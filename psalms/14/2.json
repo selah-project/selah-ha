@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Yahweh daga sama Ya duba ⟨a⟩ kan ƴaƴan mutane, don ya ga shin akwai mai hankali, ⟨wanda yake⟩ neman ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "daga sama"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "Ya duba"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨a⟩ kan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴaƴan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "don ya ga"
+    },
+    {
+      "surface": "היש",
+      "gloss": "shin akwai"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mai hankali"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "⟨wanda yake⟩ neman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T19:21:23.210944959Z",
+  "model": "glm-5.2"
+}

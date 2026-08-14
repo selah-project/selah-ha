@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Yahweh Elohim ya dauko ⟨את⟩ adam, ya sa shi a cikin gonar Eden, don ya yi masa aiki ya kuma tsare shi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ya dauko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adam"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "ya sa shi"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "a cikin gonar"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "don ya yi masa aiki"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "ya kuma tsare shi"
+    }
+  ],
+  "timestamp": "2026-08-13T01:42:37.481336850Z",
+  "model": "glm-5.2"
+}

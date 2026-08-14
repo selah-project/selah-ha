@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 47:21",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Kuma ku raba ⟨את⟩ ƙasar wannan gare ku, ⟨a cikin⟩ ƙabilun Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וְחִלַּקְתֶּ֞ם",
+      "gloss": "Kuma ku raba"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הָאָ֧רֶץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "הַזֹּ֛את",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "לָכֶ֖ם",
+      "gloss": "gare ku"
+    },
+    {
+      "surface": "לְשִׁבְטֵ֥י",
+      "gloss": "⟨a cikin⟩ ƙabilun"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-12T18:05:59.929206420Z",
+  "model": "glm-5.2"
+}

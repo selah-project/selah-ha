@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma Shaul ya yi magana da Yonatanan ɗan sa, da kuma dukkan bayin sa, don su kashe ⟨את⟩ Dawuda. Kuma Yonatanan ɗan Shaul, yana nema ⟨a⟩ Dawuda sosai.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ya yi magana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatanan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗan sa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "da kuma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bayin sa"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "don su kashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawuda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "Kuma Yonatanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yana nema"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "a Dawuda"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    }
+  ],
+  "timestamp": "2026-08-12T09:15:54.058429845Z",
+  "model": "glm-5.2"
+}

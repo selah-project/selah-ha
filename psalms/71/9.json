@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 71,
+  "translation": "Kada ka jefa ni ⟨a⟩ lokacin tsufa; yayin da ƙarfina ke ƙarewa, kada ka bar ni.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "ka jefa ni"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "⟨a⟩ lokacin"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "tsufa"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "yayin da ⟨ke⟩ ƙarewa"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ƙarfina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ka bar ni"
+    }
+  ],
+  "timestamp": "2026-08-12T20:00:33.792064313Z",
+  "model": "glm-5.2"
+}

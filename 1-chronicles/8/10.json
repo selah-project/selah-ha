@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Da ⟨את⟩ Ye'uts da ⟨את⟩ Sakhya da ⟨את⟩ Mirma; waɗannan ɗiyansa ne, shugabannin ubanni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Ye'uts"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Ye'uts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Sakhya"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Sakhya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Mirma"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirma"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɗiyansa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "shugabannin"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ubanni"
+    }
+  ],
+  "timestamp": "2026-08-13T00:03:48.259060760Z",
+  "model": "glm-5.2"
+}

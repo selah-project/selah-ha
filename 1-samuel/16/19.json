@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Sai Shaul ya aiko manzanni zuwa ga Yishai ya ce: \"Aiko min ⟨את⟩ Dawuda ɗanka, wanda yake tare da tumaki.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Sai ya aiko"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "manzanni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "Aiko"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawuda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ɗanka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda yake"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "tare da tumaki"
+    }
+  ],
+  "timestamp": "2026-08-12T09:10:09.671474594Z",
+  "model": "glm-5.2"
+}

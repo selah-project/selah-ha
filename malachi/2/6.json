@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 2:6",
+  "book": "malachi",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Dokar gaskiya tā kasance a bakīsa, kuma zalunci ba a samu a lebbōnsa ba; cikin salama da daidaito ya tāfi tāre da Ni, kuma da yawa ya mayar daga zunubi.",
+  "tokens": [
+    {
+      "surface": "תּוֹרַת֤",
+      "gloss": "dokar"
+    },
+    {
+      "surface": "אֱמֶת֙",
+      "gloss": "gaskiya"
+    },
+    {
+      "surface": "הָיְתָ֣ה",
+      "gloss": "ta kasance"
+    },
+    {
+      "surface": "בְּפִ֔יהוּ",
+      "gloss": "a bakīsa"
+    },
+    {
+      "surface": "וְעַוְלָ֖ה",
+      "gloss": "kuma zalunci"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נִמְצָ֣א",
+      "gloss": "a samu"
+    },
+    {
+      "surface": "בִשְׂפָתָ֑יו",
+      "gloss": "a lebbōnsa"
+    },
+    {
+      "surface": "בְּשָׁל֤וֹם",
+      "gloss": "cikin salama"
+    },
+    {
+      "surface": "וּבְמִישׁוֹר֙",
+      "gloss": "da daidaito"
+    },
+    {
+      "surface": "הָלַ֣ךְ",
+      "gloss": "ya tāfi"
+    },
+    {
+      "surface": "אִתִּ֔י",
+      "gloss": "⟨את⟩ Ni",
+      "marks": "Ni"
+    },
+    {
+      "surface": "וְרַבִּ֖ים",
+      "gloss": "kuma da yawa"
+    },
+    {
+      "surface": "הֵשִׁ֥יב",
+      "gloss": "ya mayar"
+    },
+    {
+      "surface": "מֵעָוֺֽן",
+      "gloss": "daga zunubi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:50.823251738Z",
+  "model": "glm-5.2"
+}

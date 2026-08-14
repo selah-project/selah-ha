@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 79,
+  "translation": "Taimake mu, ya Elohim ⟨na⟩ tseratar mu, don daraja ⟨ta⟩ sunanka, kuwa ku 'yanto mu, kuwa ka yafe laifuffukan mu, don sunanka.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Taimake mu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ⟨na⟩"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "tseratar mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "don"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "daraja"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "⟨ta⟩ sunanka"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "kuwa ku 'yanto mu"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "kuwa ka yafe"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "laifuffukan mu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "domin"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunanka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:11:48.816644964Z",
+  "model": "glm-5.2"
+}

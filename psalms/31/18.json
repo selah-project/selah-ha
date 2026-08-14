@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Yahweh, kada ka bā ni kunya, domin nī na kira ka; su munafuka kuma su bincika kunya, su yi shiru ⟨zuwa⟩ Sheol.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ka bā ni kunya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "nī na kira ka"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "su bincika kunya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "munafuka"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "su yi shiru"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "⟨zuwa⟩ Sheol"
+    }
+  ],
+  "timestamp": "2026-08-12T19:31:12.578315902Z",
+  "model": "glm-5.2"
+}

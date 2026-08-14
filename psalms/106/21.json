@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 106:21",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Sun manta da El, mai ceton su, mai aikin manyan abubuwa a Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "שָׁ֭כְחוּ",
+      "gloss": "Sun manta"
+    },
+    {
+      "surface": "אֵ֣ל",
+      "gloss": "da El"
+    },
+    {
+      "surface": "מוֹשִׁיעָ֑ם",
+      "gloss": "mai ceton su"
+    },
+    {
+      "surface": "עֹשֶׂ֖ה",
+      "gloss": "mai aikin"
+    },
+    {
+      "surface": "גְדֹל֣וֹת",
+      "gloss": "many abubuwa"
+    },
+    {
+      "surface": "בְּמִצְרָֽיִם",
+      "gloss": "a Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T20:31:06.958627664Z",
+  "model": "glm-5.2"
+}

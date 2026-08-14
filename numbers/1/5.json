@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma waɗannan sune sunayen mutãnen da za su tsaya ⟨את⟩ tãre da ku — na Ruben, Elitsur ɗan Shedejur.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kuma waɗannan"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sune sunayen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "za su tsaya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ tãre da ku",
+      "marks": "tãre da ku"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "na Ruben"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedejur"
+    }
+  ],
+  "timestamp": "2026-08-12T03:06:10.341767831Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 33:1",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Kuma Yahweh ya yi magana da Mosheh: \"Tafi, ka hau daga nan, kai da mutanen da ka fitar daga ƙasar Mitsrayim, zuwa ƙasar da na rantsuwa wa Avraham, da Yitschaq, da Ya'aqov, in ce, 'Ga zuriyarka ⟨ne⟩ zan bata.'\"",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Kuma ya yi magana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tafi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ka hau"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "daga nan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "da mutanen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "ka fitar"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "na rantsuwa"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "wa Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "da Yitschaq"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "da Ya'aqov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "in ce"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "Ga zuriyarka"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "zan bata"
+    }
+  ],
+  "timestamp": "2026-08-12T01:25:54.830336049Z",
+  "model": "glm-5.2"
+}

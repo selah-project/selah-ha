@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Na shiru, shiru! Na daina magana, har daga abin alheri; kuma ciwon nà yā taɓatar da.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "na shiru"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "shiru"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "na daina magana"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "har daga abin alheri"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "kuma ciwon na"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "yā taɓatar da"
+    }
+  ],
+  "timestamp": "2026-08-12T19:42:24.584027741Z",
+  "model": "glm-5.2"
+}

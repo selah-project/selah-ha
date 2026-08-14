@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "chesed da gaskiya kada su kaɓe ka, ka ɗaure su a wuyanka, ka rubuta su a farantin zuciyarka.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "da gaskiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "su kaɓe ka"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "ka ɗaure su"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "wuyanka"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "ka rubuta su"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "farantin"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "zuciyarka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:28:26.086850410Z",
+  "model": "glm-5.2"
+}

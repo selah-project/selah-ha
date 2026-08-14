@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma Yitsḥak ubansa ya ce masa, 'Waƙa ne kai?' Kuma ya ce, 'Ni ne ɗinka, fari naka, Esav.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsḥak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubansa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "waƙa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ne kai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ni ne ɗinka"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "fari naka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-08-11T23:53:23.468830011Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma Avshalom da dukan mutanen, kowane mutum na Yisra'el, suka zo Yerushalaim, kuma Axitofel ⟨ne⟩ ⟨את⟩ tare da shi.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "kuma Avshalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da dukan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "na Yisra'el"
+    },
+    {
+      "surface": "באו",
+      "gloss": "suka zo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "kuma Axitofel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "tare da shi"
+    }
+  ],
+  "timestamp": "2026-08-12T10:25:11.744704540Z",
+  "model": "glm-5.2"
+}

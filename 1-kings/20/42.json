@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kuma ya ce masa, \"Haka ya faɗa Yahweh: 'Domen ka saki ⟨את⟩ mutumin da na keɓe don halaka daga hannunka, rai Sarka za ta kasance ⟨a madadin⟩ ransa, kuma mutanensa za su kasance ⟨a madadin⟩ mutanensa.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Haka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Domen"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "ka saki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutumin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "da na keɓe don halaka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "daga hannunka"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "za ta kasance"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "rai Sarka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a madadin"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ransa"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "kuma mutanensa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a madadin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mutanensa"
+    }
+  ],
+  "timestamp": "2026-08-12T11:42:32.815292998Z",
+  "model": "glm-5.2"
+}

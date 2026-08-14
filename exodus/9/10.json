@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Suka riƙi ⟨את⟩ toka ta tandaon, suka tsaya gaban Paroh, kuma Moshe ya watsa ⟨את⟩ ta sama-sama, sai ya zama ciwon kuraje mai furewa a kan adam da a kan shanu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "suka riƙi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toka"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "toka"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "ta tandaon"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "suka tsaya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "kuma ya watsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "sama-sama"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "sai ya zama"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "ciwon"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "kuraje"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "mai furewa"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "a kan ⟨adamai⟩"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "da a kan shanu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:38:26.386548381Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "A faɗin bango na wajen, hanya ta gabas, ⟨a gabat⟩ bangaren da aka ware, da ⟨a gabat⟩ ginin, ⟨akwai⟩ ɗakuna.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "A faɗin"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "bango"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "na wajen"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "ta gabas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a gabat⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "bangaren"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "da aka ware"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "da ⟨a gabat⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨bangaren⟩"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "ginin"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "ɗakuna"
+    }
+  ],
+  "timestamp": "2026-08-12T17:55:47.018868496Z",
+  "model": "glm-5.2"
+}

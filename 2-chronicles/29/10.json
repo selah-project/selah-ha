@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 29:10",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Yanzu ⟨a cikin⟩ zuciyata ⟨ina nufin⟩ yanke alkawari tare da Yahweh, Elohim na Yisra'el, domin ya juya baya game da mu girman fushinsa.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨a cikin⟩"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "zuciyata"
+    },
+    {
+      "surface": "לכרות",
+      "gloss": "⟨ina nufin⟩ yanke alkawari"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alkawari"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "tare da Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "domin ya juya baya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "game da mu"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "girman fushinsa"
+    },
+    {
+      "surface": "אפו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-13T03:13:02.887479467Z",
+  "model": "glm-5.2"
+}

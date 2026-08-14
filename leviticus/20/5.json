@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "kuma Ni, za ni sa ⟨את⟩ fuskata a kan mutumin nan, da kuma cikin iyalinsa, kuma za ni yanke ⟨את⟩ shi, da ⟨את⟩ duka waɗanda ke yawo bayansa don yin zina bayan Molek, daga tsakanin mutanensu.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "kuma za ni sa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuskata"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskata"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "a kan mutumin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "da kuma cikin iyalinsa"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "kuma za ni yanke"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "duka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "waɗanda ke yawo"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "bayansa"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "don yin zina"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Molek"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "daga tsakanin"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "mutanensu"
+    }
+  ],
+  "timestamp": "2026-08-12T02:36:45.531297447Z",
+  "model": "glm-5.2"
+}

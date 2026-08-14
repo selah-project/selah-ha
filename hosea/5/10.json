@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 5:10",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Shugabannin Yahuda sun kama kamar masu matsar da iyaka; a kansu zan zuba kamar ruwa fushina.",
+  "tokens": [
+    {
+      "surface": "הָיוּ֙",
+      "gloss": "sun kama"
+    },
+    {
+      "surface": "שָׂרֵ֣י",
+      "gloss": "shugabannin"
+    },
+    {
+      "surface": "יְהוּדָ֔ה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "כְּמַסִּיגֵ֖י",
+      "gloss": "kamar masu matsar da"
+    },
+    {
+      "surface": "גְּב֑וּל",
+      "gloss": "iyaka"
+    },
+    {
+      "surface": "עֲלֵיהֶ֕ם",
+      "gloss": "a kansu"
+    },
+    {
+      "surface": "אֶשְׁפּ֥וֹךְ",
+      "gloss": "zan zuba"
+    },
+    {
+      "surface": "כַּמַּ֖יִם",
+      "gloss": "kamar ruwa"
+    },
+    {
+      "surface": "עֶבְרָתִֽי",
+      "gloss": "fushina"
+    }
+  ],
+  "timestamp": "2026-08-12T18:09:32.562429771Z",
+  "model": "glm-5.2"
+}

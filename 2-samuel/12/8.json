@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma na ba ka ⟨את⟩ gida na uban ka, ⟨את⟩ kuma ⟨ga⟩ ⟨את⟩ matan uban ka, a cikin ɗakin'ƙazanka; kuma na ba ka ⟨את⟩ gida na Yisra'el da Yahuda; kuma idan hakan ya ke ƙanƙanta, na ƙara maka kamar haka da kamar haka.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "kuma na ba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "na uban ka",
+      "marks": "gida"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ kuma ⟨ga⟩"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "matan",
+      "marks": "⟨את⟩"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "na uban ka"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "a cikin ɗakin'ƙazanka"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "kuma na ba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "na Yisra'el",
+      "marks": "gida"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "da Yahuda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ƙanƙanta"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "na ƙara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "kamar haka"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "da kamar haka"
+    }
+  ],
+  "timestamp": "2026-08-12T10:12:26.308084220Z",
+  "model": "glm-5.2"
+}

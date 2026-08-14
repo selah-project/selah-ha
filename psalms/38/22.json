@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Kada ka bar ni, Yahweh; Elohim na, kada ka nisanci ni.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ka bar ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ka nisanci"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:39:50.051731055Z",
+  "model": "glm-5.2"
+}

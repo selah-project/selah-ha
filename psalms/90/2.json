@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 90,
+  "translation": "Kafin duwatsu a haifa, kuma ⟨kafin⟩ Ka samar da ƙasa da duniya, daga har abada zuwa har abada, Kai ne Kai ne El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "kafin"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "a haifa"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "kuma Ka samar da"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "da duniya"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "daga har abada"
+    },
+    {
+      "surface": "עד",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai ne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-12T20:22:43.471436623Z",
+  "model": "glm-5.2"
+}

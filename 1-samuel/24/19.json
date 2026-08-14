@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 24:19",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma ⟨ce⟩ ka sanar da ni yau ⟨את⟩ abin da ka aikata ⟨את⟩ min kyauta ta kyakkyawa, ⟨את⟩ abin da Yahweh ya rufe ni cikin hannunka, amma ba ka kashe ni ba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Kuma ⟨ce⟩"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "ka sanar da ni"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin da ka aikata min kyauta ta kyakkyawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "ka aikata"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ min"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "kyauta ta kyakkyawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin da Yahweh ya rufe ni cikin hannunka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "סגרני",
+      "gloss": "ya rufe ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "cikin hannunka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "הרגתני",
+      "gloss": "ka kashe ni"
+    }
+  ],
+  "timestamp": "2026-08-12T09:29:36.089259529Z",
+  "model": "glm-5.2"
+}

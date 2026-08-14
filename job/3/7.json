@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Ga shi, wannan dare ya kasance mai-ƙwai, ba za ta zo ba muryar murna a cikinsa.",
+  "tokens": [
+    {
+      "surface": "הִנֵּ֤ה",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "הַלַּ֣יְלָה",
+      "gloss": "wannan dare"
+    },
+    {
+      "surface": "הַ֭הוּא",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "יְהִ֣י",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "גַלְמ֑וּד",
+      "gloss": "mai-ƙwai"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "kada ... ba"
+    },
+    {
+      "surface": "תָּבֹ֖א",
+      "gloss": "za ta zo"
+    },
+    {
+      "surface": "רְנָנָ֣ה",
+      "gloss": "muryar murna"
+    },
+    {
+      "surface": "בֽוֹ",
+      "gloss": "a cikinsa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:31:01.845699991Z",
+  "model": "glm-5.2"
+}

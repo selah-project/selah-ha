@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 2:13",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Na fita da dare ta Ƙofar Kwarin, zuwa gaban ⟨ma'ajin ruwan⟩ Ɓeran Ruwa, zuwa Ƙofar Shara, ina duba ganuwar Yerusulam waɗanda ⟨suke⟩ aƙarya, da ƙofofinta waɗanda wuta ta cinye.",
+  "tokens": [
+    {
+      "surface": "ואצאה",
+      "gloss": "na fita"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ta Ƙofar"
+    },
+    {
+      "surface": "הגיא",
+      "gloss": "Kwarin"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "da dare"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "התנין",
+      "gloss": "Ɓeran Ruwa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "Ƙofar"
+    },
+    {
+      "surface": "האשפת",
+      "gloss": "Shara"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ina"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "duba"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "ganuwar"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusulam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "המפרוצים",
+      "gloss": "aƙarya"
+    },
+    {
+      "surface": "ושעריה",
+      "gloss": "da ƙofofinta"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "cinye"
+    },
+    {
+      "surface": "באש",
+      "gloss": "wuta ta"
+    }
+  ],
+  "timestamp": "2026-08-12T23:39:45.516853109Z",
+  "model": "glm-5.2"
+}

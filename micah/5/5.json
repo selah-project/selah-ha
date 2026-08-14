@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "kuma za su kiwo ⟨את⟩ ƙasar Ashur da takobi, da ⟨את⟩ ƙasar Nimrod a ƙofofinta; kuma ⟨zai⟩ tsira daga Ashur, idan ya shiga cikin ƙasarmu, kuma idan ya taka a cikin iyakarmu.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "kuma za su kiwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar Ashur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "da takobi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "ƙasar Nimrod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "a ƙofofinta"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "kuma zai tsira"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "daga Ashur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "idan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ya shiga"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "cikin ƙasarmu"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "ya taka"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "a cikin iyakarmu"
+    }
+  ],
+  "timestamp": "2026-08-12T18:42:11.385238678Z",
+  "model": "glm-5.2"
+}

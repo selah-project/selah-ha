@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 51:10",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 51,
+  "translation": "Yahweh ya fitar da ⟨את⟩ adalcemu; ku zo, kuma mu faɗi a Tsiyon ⟨את⟩ aikin Yahweh Elohim mu.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "ya fitar da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adalcemu"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "adalcemu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ku zo"
+    },
+    {
+      "surface": "ונספרה",
+      "gloss": "kuma mu faɗi"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "a Tsiyon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aikin"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim mu"
+    }
+  ],
+  "timestamp": "2026-08-13T02:15:49.364208362Z",
+  "model": "glm-5.2"
+}

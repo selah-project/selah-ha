@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Kuma waɗannan sun kasance ɗiyán Oholivamah ɗiyar ʿAnah ɗiyar Tsivʿon, matar ʿEsaw; kuma ta haifa wa ʿEsaw ⟨את⟩ Yeʿish da ⟨את⟩ Yaʿlam da ⟨את⟩ Korach.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kuma waɗandán"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sun kasance"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyán"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholivamah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɗiyar"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ʿAnah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɗiyar"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tsivʿon"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "matar"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ʿEsaw"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "kuma ta haifa"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "wa ʿEsaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeʿish"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeʿish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Yaʿlam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yaʿlam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-13T01:43:09.638878062Z",
+  "model": "glm-5.2"
+}

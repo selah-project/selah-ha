@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 10:9",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma suka fwashe shi, suka ɗauki ⟨את⟩ kansa da ⟨את⟩ kayan sa, suka aiko ⟨cikin⟩ ƙasar Filisiti a kewaye, domin yada labari ga gumakansu da ⟨את⟩ al'ummar.",
+  "tokens": [
+    {
+      "surface": "ויפשיטהו",
+      "gloss": "suka fwashe shi"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "suka ɗauki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kayan sa"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "suka aiko"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "cikin ƙasar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filisiti"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewaye"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "domin yada labari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gumakansu"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "gumakansu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "al'ummar"
+    }
+  ],
+  "timestamp": "2026-08-13T00:10:00.791495301Z",
+  "model": "glm-5.2"
+}

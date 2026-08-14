@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 71,
+  "translation": "Elohim, ⟨ka⟩ koya min tun ƙuruciya, kuma har yanzu zan faɗa abubuwan ajyarka.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "⟨ka⟩ koya min"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "tun ƙuruciya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kuma har"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "zan faɗa"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "abubuwan ajyarka"
+    }
+  ],
+  "timestamp": "2026-08-13T02:25:50.330419269Z",
+  "model": "glm-5.2"
+}

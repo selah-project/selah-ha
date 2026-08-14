@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 8:15",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ba su juya ⟨daga⟩ umarnin sarki a kan kohanim da Lewayawa ba, don kowane lamari da kuma ⟨don⟩ taskoki.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kuma ba"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "su juya"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "⟨daga⟩ umarnin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohanim"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "da Lewayawa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "don kowane lamari"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "da kuma ⟨don⟩ taskoki"
+    }
+  ],
+  "timestamp": "2026-08-13T02:44:36.946121402Z",
+  "model": "glm-5.2"
+}

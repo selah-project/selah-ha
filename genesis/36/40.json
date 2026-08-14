@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 36:40",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Kuma waɗannan sunayen shugabannin Esav gundumomi danginsu, wurarensu, da sunayensu: shugaba Timnaʿ, shugaba ʿAlva, shugaba Yetet.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kuma waɗannan"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sunayen"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "shugabannin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "gundumomi danginsu"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "wurarensu"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "da sunayensu"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "shugaba"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Timnaʿ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "shugaba"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "ʿAlva"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "shugaba"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Yetet"
+    }
+  ],
+  "timestamp": "2026-08-12T00:04:50.102959829Z",
+  "model": "glm-5.2"
+}

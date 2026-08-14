@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Ku koma zuwa ga tawaƙi ta, gãne ni zan zuba gare ku ruhina, in sanar da ku magabacina ⟨את⟩ ⟨tare da⟩ ku.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "ku koma"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "zuwa ga tawaƙi ta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gãne ni"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "zan zuba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "gare ku"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhina"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "in sanar da"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ku magabacina"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨tare da⟩",
+      "marks": "ku"
+    }
+  ],
+  "timestamp": "2026-08-13T02:28:32.844109494Z",
+  "model": "glm-5.2"
+}

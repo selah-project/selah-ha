@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma na ce musu: Idan yana da kyau a idanenu, ku bani ⟨את⟩ albashi na; kuma idan ba haka ba, ku daina. Kuma suka auna ⟨את⟩ albashi na — talatin ⟨na⟩ azurfa.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Kuma na ce"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yana da kyau"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "a idanenu"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ku bani"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "albashi na"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "ku daina"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "Kuma suka auna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "albashi na"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "albashi na"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "talatin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "azurfa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:05:58.898310570Z",
+  "model": "glm-5.2"
+}

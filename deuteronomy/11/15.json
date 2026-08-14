@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "kuma in bā ciyawa cikin gona ku ga dabbobin ku, kuma ku ci kuma ku shā ×gamsa×,",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "kuma in bā"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ciyawa"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "cikin gona ku"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "ga dabbobin ku"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "kuma ku ci"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "kuma ku shā ×gamsa×"
+    }
+  ],
+  "timestamp": "2026-08-12T05:08:27.286484178Z",
+  "model": "glm-5.2"
+}

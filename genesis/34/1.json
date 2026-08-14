@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Kuma Dinah ɗiyar Le'a, wadda ta haifa wa Ya'aƙub, ta fita don ta ga 'ya'yan ƙasar.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "kuma ta fita"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɗiyar"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Le'a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wadda"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ta haifa"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "wa Ya'aƙub"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "don ta ga"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    }
+  ],
+  "timestamp": "2026-08-12T00:06:23.266118697Z",
+  "model": "glm-5.2"
+}

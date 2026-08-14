@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 23:5",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma Yahweh, Elohim ku, Shi ne za ta kora su daga gaban ku, kuma za ya kore su daga gaban ku, kuma za ku gaji ⟨את⟩ ƙasarsu, kamar yadda Yahweh, Elohim ku, ya faɗa muku.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Kuma Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Shi ne"
+    },
+    {
+      "surface": "יהדפם",
+      "gloss": "za ta kora su"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "daga gaban ku"
+    },
+    {
+      "surface": "והוריש",
+      "gloss": "kuma za ya kore su"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "daga gaban ku"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "kuma za ku gaji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasarsu"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ƙasarsu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ku"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "muku"
+    }
+  ],
+  "timestamp": "2026-08-12T07:07:49.886419523Z",
+  "model": "glm-5.2"
+}

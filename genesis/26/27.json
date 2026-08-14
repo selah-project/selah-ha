@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Sa'an nan kuma Yitsḥaq ya ce musu, \"Don me kuka zo a wurina, alhali kuwa kun tsanata min, kuka kore ni ⟨את⟩ daga cikinku?\"",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֤אמֶר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אֲלֵהֶם֙",
+      "gloss": "musu"
+    },
+    {
+      "surface": "יִצְחָ֔ק",
+      "gloss": "Yitsḥaq"
+    },
+    {
+      "surface": "מַדּ֖וּעַ",
+      "gloss": "don me"
+    },
+    {
+      "surface": "בָּאתֶ֣ם",
+      "gloss": "kuka zo"
+    },
+    {
+      "surface": "אֵלָ֑י",
+      "gloss": "a wurina"
+    },
+    {
+      "surface": "וְאַתֶּם֙",
+      "gloss": "alhali kuwa"
+    },
+    {
+      "surface": "שְׂנֵאתֶ֣ם",
+      "gloss": "kun tsanata"
+    },
+    {
+      "surface": "אֹתִ֔י",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "וַתְּשַׁלְּח֖וּנִי",
+      "gloss": "kuka kore ni"
+    },
+    {
+      "surface": "מֵאִתְּכֶֽם",
+      "gloss": "⟨את⟩ daga cikinku"
+    }
+  ],
+  "timestamp": "2026-08-11T23:47:42.850177046Z",
+  "model": "glm-5.2"
+}

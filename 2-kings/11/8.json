@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 11:8",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma ku kewaye ⟨da⟩ sarki a kewaye, kowane mutum da makaminsa a hannunsa; kuma duk wanda ya zo tsakanin layuka a kashe shi, kuma ku kasance ⟨tare da⟩ ⟨את⟩ sarki a fitarsa da kuma shigarsa.",
+  "tokens": [
+    {
+      "surface": "והקפתם",
+      "gloss": "Kuma ku kewaye"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a kewaye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "da makaminsa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "a hannunsa"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "kuma duk wanda ya zo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "השדרות",
+      "gloss": "layuka"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a kashe shi"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kuma ku kasance"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨tare da⟩ ⟨את⟩",
+      "marks": "sarki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "a fitarsa"
+    },
+    {
+      "surface": "ובבאו",
+      "gloss": "da kuma shigarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:18:14.892022909Z",
+  "model": "glm-5.2"
+}

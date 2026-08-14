@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ya aikata sharri a idanin Yahweh; sai dai ba kamar mahaifinsa da kuma mahaifiyarsa ba, kuma ya cire ⟨את⟩ tsintsin Ba'al da mahaifinsa ya yi.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "Kuma ya aikata"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sharri"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רק",
+      "gloss": "sai dai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "kamar mahaifinsa"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "da kuma mahaifiyarsa"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "kuma ya cire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsintsin"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "tsintsin"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Ba'al"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "mahaifinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T11:55:49.631778929Z",
+  "model": "glm-5.2"
+}

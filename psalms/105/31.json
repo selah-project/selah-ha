@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Ya faɗi magana, kuma ɗanɗano ya zo da ḥajar-cizo a duk iyakokinsu.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ya faɗi magana"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kuma ya zo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ɗanɗano"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "da ḥajar-cizo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "iyakokinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:32:38.418730378Z",
+  "model": "glm-5.2"
+}

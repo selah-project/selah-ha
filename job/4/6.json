@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Bã haka bã ⟨ce⟩ tõrɔɗarka ta kasance dogararka, fatararka, da kuma cikakken hanya ta tafiyarka?",
+  "tokens": [
+    {
+      "surface": "הֲלֹ֣א",
+      "gloss": "bã haka bã"
+    },
+    {
+      "surface": "יִ֭רְאָתְךָ",
+      "gloss": "tõrɔɗarka"
+    },
+    {
+      "surface": "כִּסְלָתֶ֑ךָ",
+      "gloss": "ta kasance dogararka"
+    },
+    {
+      "surface": "תִּ֝קְוָתְךָ֗",
+      "gloss": "fatararka"
+    },
+    {
+      "surface": "וְתֹ֣ם",
+      "gloss": "da kuma cikakken"
+    },
+    {
+      "surface": "דְּרָכֶֽיךָ",
+      "gloss": "hanya ta tafiyarka"
+    }
+  ],
+  "timestamp": "2026-08-12T21:38:16.329847988Z",
+  "model": "glm-5.2"
+}

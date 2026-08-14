@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma wannan ita ⟨ce⟩ maras-tsarkinsa a cikin gudānsa: idan jikinsa ya gudā ⟨את⟩ gudānsa, ko idan jikinsa ya ɗeƙe daga gudānsa, maras-tsarkinsa shi ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Kuma wannan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ita ⟨ce⟩"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "maras-tsarkinsa"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "a cikin gudānsa"
+    },
+    {
+      "surface": "רר",
+      "gloss": "ya gudā"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jikinsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gudānsa"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "gudānsa"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "ya ɗeƙe"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jikinsa"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "daga gudānsa"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "maras-tsarkinsa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi ⟨ne⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T02:21:08.930010697Z",
+  "model": "glm-5.2"
+}

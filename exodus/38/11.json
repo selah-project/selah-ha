@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 38:11",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Kuma a ƙwarters arewa, ɗari cikin dogaro; ginandinsu ashirin, da ƙafafun su ashirin, tagulla; da kugiyan ginannai da zobensu, azurfa.",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "Kuma a ƙwarters"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "arewa"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "cikin dogaro"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "ginandinsu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "da ƙafafun su"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tagulla"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "da kugiyan"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "na ginannai"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "da zobensu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "azurfa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:32:00.683552813Z",
+  "model": "glm-5.2"
+}

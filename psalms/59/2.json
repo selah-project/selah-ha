@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 59,
+  "translation": "Tsallake ni daga maƙiyata, Elohim na; ka ɗauke ni sama daga masu tashi a kansa.",
+  "tokens": [
+    {
+      "surface": "הַצִּילֵ֖נִי",
+      "gloss": "Tsallake ni"
+    },
+    {
+      "surface": "מֵאֹיְבַ֥י",
+      "gloss": "daga maƙiyata"
+    },
+    {
+      "surface": "אֱלֹהָ֑י",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "מִּמִתְקוֹמְמַ֥י",
+      "gloss": "daga masu tashi a kansa"
+    },
+    {
+      "surface": "תְּשַׂגְּבֵֽנִי",
+      "gloss": "ka ɗauke ni sama"
+    }
+  ],
+  "timestamp": "2026-08-12T19:53:35.864233088Z",
+  "model": "glm-5.2"
+}

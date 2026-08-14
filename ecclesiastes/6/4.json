@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "⟨Domin⟩ a cikin hebel ya zo, kuma a cikin duhu zai tafi, kuma a cikin duhu sunansa za a rufe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨domin⟩"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "a cikin hebel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ya zo"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "kuma a cikin duhu"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "zai tafi"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "kuma a cikin duhu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "za a rufe"
+    }
+  ],
+  "timestamp": "2026-08-12T22:48:51.714395024Z",
+  "model": "glm-5.2"
+}

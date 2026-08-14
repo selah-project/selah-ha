@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "A kiranina, ka amsa ni, Elohim na adalata; a cikin daɗaɗɗen nan ka faɗa min; ka nuna mini alheri, ka kuma sauraren addu'ata.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "a kiranina"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ka amsa ni"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "na adalata"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "a cikin daɗaɗɗen nan"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "ka faɗa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ka nuna mini alheri"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ka kuma sauraren"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "addu'ata"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:29.014819597Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma su kiyaye ⟨את⟩ duka kayan Tentin Taro, da ⟨את⟩ aikin tsaron ƴan Isra'ila, don yin ⟨את⟩ aikin Mazaunin.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Kuma su kiyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka kayan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kayan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tentin"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Taro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "aikin tsaron"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "aikin tsaron"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "don yin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aikin"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mazaunin"
+    }
+  ],
+  "timestamp": "2026-08-12T03:18:35.940456478Z",
+  "model": "glm-5.2"
+}

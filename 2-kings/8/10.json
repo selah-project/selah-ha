@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Sai Elisha ya ce masa: \"Ka tafi, ka ce: Lallai za ka rayu.\" Amma Yahweh ya nuna min cewa lallai zai mutu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ka tafi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka ce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lallai"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "za ka rayu"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "rayu"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "ya nuna min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lallai zai mutu"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zai mutu"
+    }
+  ],
+  "timestamp": "2026-08-12T12:12:15.975312317Z",
+  "model": "glm-5.2"
+}

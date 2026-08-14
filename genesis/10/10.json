@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma farkon mulkinsa ya kasante Bavel da Erek da Akad da Kalneh, a ƙasar Shinar.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Kuma ya kasance"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "faron"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "mulkinsa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "da Erek"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "da Akad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "da Kalneh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinar"
+    }
+  ],
+  "timestamp": "2026-08-11T23:29:16.739069688Z",
+  "model": "glm-5.2"
+}

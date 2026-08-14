@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 38:30",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Kuma daga baya ɗan'uwansa wanda yana da ⟨zaren ja⟩ a hannunsa, shi na biyu, ya fito, kuma ⟨aka⟩ kira sunansa Zerach.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "kuma daga baya"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ya fito"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ɗan'uwansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hannunsa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "shi na biyu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kuma aka kira"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerach"
+    }
+  ],
+  "timestamp": "2026-08-12T00:08:27.521046778Z",
+  "model": "glm-5.2"
+}

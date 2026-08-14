@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 2:17",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma zunubi ⟨na⟩ yaran ya kasance babba sosai ⟨a gaban⟩ Yahweh, domin mutane sun raina ⟨את⟩ hadayar Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "zunubi"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "⟨na⟩ yaran"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "babba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨a gaban⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "sun raina"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadayar"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "hadayar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T08:19:34.467647379Z",
+  "model": "glm-5.2"
+}

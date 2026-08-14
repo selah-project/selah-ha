@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 60,
+  "translation": "Tashi, haskaka, domin haskenka ⟨ya⟩ zo, kuma darajar Yahweh ⟨a⟩ kanki ta haskaka.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Tashi"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "haskaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "בא",
+      "gloss": "zo"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "haskenka"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "kuma daraja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "⟨a⟩ kanki"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ta haskaka"
+    }
+  ],
+  "timestamp": "2026-08-12T14:41:03.356105457Z",
+  "model": "glm-5.2"
+}

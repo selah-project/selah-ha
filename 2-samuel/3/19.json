@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 3:19",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma Avner ya yi magana ⟨kuma⟩ a cikin kunnuwan Binyamin, kuma Avner ya tafi ⟨kuma⟩ ya yi magana a cikin kunnuwan Dawida a Hevron ⟨game da⟩ ⟨את⟩ dukkan abin da yake kyauta a idonun Yisra'el, kuma a idonun dukkan gidan Binyamin.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Kuma Avner ya yi magana"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨kuma⟩"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "a cikin kunnuwan"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "kuma ya tafi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨kuma⟩"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ya yi magana"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "a cikin kunnuwan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "a Hevron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan abin da yake kyauta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yake kyauta"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idonun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "kuma a idonun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    }
+  ],
+  "timestamp": "2026-08-12T09:50:12.693163514Z",
+  "model": "glm-5.2"
+}

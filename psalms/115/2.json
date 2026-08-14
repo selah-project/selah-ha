@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 115,
+  "translation": "Don me al'ummomi za su faɗa, \"Ina yanzu Elohim nasu?\"",
+  "tokens": [
+    {
+      "surface": "לָמָּה",
+      "gloss": "Don me"
+    },
+    {
+      "surface": "יֹאמְרוּ",
+      "gloss": "za su faɗa"
+    },
+    {
+      "surface": "הַגּוֹיִם",
+      "gloss": "al'ummomi"
+    },
+    {
+      "surface": "אַיֵּה",
+      "gloss": "Ina"
+    },
+    {
+      "surface": "נָא",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "אֱלֹהֵיהֶם",
+      "gloss": "Elohim nasu"
+    }
+  ],
+  "timestamp": "2026-08-13T02:27:46.826755209Z",
+  "model": "glm-5.2"
+}

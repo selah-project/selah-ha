@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 29:23",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Suka kusantar da ⟨את⟩ kura'n zunubi a gaban sarki da taron jama'a, suka dora hannayensu a kansu.",
+  "tokens": [
+    {
+      "surface": "ויגישו",
+      "gloss": "suka kusantar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kura'n zunubi"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "kura'n"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "zunubi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "והקהל",
+      "gloss": "da taron jama'a"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "suka dora"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hannayensu"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "a kansu"
+    }
+  ],
+  "timestamp": "2026-08-13T02:55:20.718849169Z",
+  "model": "glm-5.2"
+}

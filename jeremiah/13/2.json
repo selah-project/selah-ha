@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Sai na saya ⟨אֵת⟩ izuwa mai ɗaure a cikin kalmar Yahweh, kuma na sa ⟨a⟩ ƙuguyata.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "Sai na saya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izuwa mai ɗaure"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "izuwa mai ɗaure"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "a cikin kalmar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "kuma na sa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "ƙuguyata"
+    }
+  ],
+  "timestamp": "2026-08-12T15:25:14.002042133Z",
+  "model": "glm-5.2"
+}

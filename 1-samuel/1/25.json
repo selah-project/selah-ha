@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma suka yanka ⟨את⟩ sauron da ⟨את⟩ yaron, suka kawo shi zuwa ʿEli.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "Kuma suka yanka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sauron"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sauron"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "suka kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaron"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "yaron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ʿEli"
+    }
+  ],
+  "timestamp": "2026-08-12T08:22:52.141664821Z",
+  "model": "glm-5.2"
+}

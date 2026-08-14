@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma Segub ya haifa ⟨את⟩ Yair, kuma yana da garuruwa ashirin da uku a ƙasar Gilad.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "kuma Segub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yair"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma yana da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨a shi⟩"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "da uku"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "garuruwa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-08-12T23:57:29.062625038Z",
+  "model": "glm-5.2"
+}

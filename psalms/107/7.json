@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Kuma Ya shiryar da su a hanya madaidaiciya, ⟨don⟩ tafiya zuwa gari na zama.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "Kuma Ya shiryar da su"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "a hanya"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "madaidaiciya"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "⟨don⟩ tafiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "gari"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "na zama"
+    }
+  ],
+  "timestamp": "2026-08-12T20:32:54.706658849Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 22:10",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Sarkin Yisra'el da Yehoshafat sarkin Yehuda suna zaune, kowane ⟨mutum⟩ a kan kujerar sarauta sa, ⟨suna⟩ sanya tufafin ⟨sarauta⟩, a gogarriyar wajen ƙofar kofar Shomron; kuma duk annabawa suna annabta a gaban su.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Sai sarkin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "da Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "suna zaune"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kujerar sarauta sa"
+    },
+    {
+      "surface": "מלבשים",
+      "gloss": "suna sanya"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "tufafi"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "a gogarriyar wajen"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kofar"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ƙofar"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma duk"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "annabawa"
+    },
+    {
+      "surface": "מתנבאים",
+      "gloss": "suna annabta"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "a gaban su"
+    }
+  ],
+  "timestamp": "2026-08-12T11:51:03.733449043Z",
+  "model": "glm-5.2"
+}

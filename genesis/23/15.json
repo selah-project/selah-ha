@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Adonai, saurare ni: ƙasa ⟨ce⟩ mai daraja ɗari huɗu na sikeli na azurfa; a tsakanina da kai, me ⟨ne⟩ haka? Sai kuma ⟨ka⟩ binne ⟨את⟩ matattuwa.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "saurare ni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "huɗu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "na sikeli"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "na azurfa"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "a tsakanina"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "da kai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "me"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matattuwa"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "matattuwa"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "binne"
+    }
+  ],
+  "timestamp": "2026-08-11T23:41:40.566573682Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Shin ⟨za ka⟩ tsorata ganyen da iska ke tururi, kuma ⟨את⟩ busasshen dannono kina bin sa?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "Shin"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "da iska ke tururi"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "za ka tsorata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩"
+    },
+    {
+      "surface": "קש",
+      "gloss": "busasshen dannono"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "busasshen"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "kina bin sa"
+    }
+  ],
+  "timestamp": "2026-08-12T21:50:43.130104834Z",
+  "model": "glm-5.2"
+}

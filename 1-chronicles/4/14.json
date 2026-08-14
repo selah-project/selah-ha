@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma Mʻonotay ya haifu da ⟨את⟩ ʻOfra, kuma Sraya ya haifu da ⟨את⟩ Yoʼav, uban Gai-Ḥarashim; domin maharaba ⟨suke⟩.",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "Kuma Mʻonotay"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifu da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ʻOfra"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "ʻOfra"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "kuma Sraya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifu da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoʼav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoʼav"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uban"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "Gai"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "-Ḥarashim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "maharaba"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨suke⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T00:00:13.291911655Z",
+  "model": "glm-5.2"
+}

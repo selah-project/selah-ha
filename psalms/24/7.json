@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Ɗauku, ku ƙofofi, kawunanku, ku kuma a ɗaukaka, ku ƙofofin har abada, sai Sarkin ɗaukaka Ya shigo.",
+  "tokens": [
+    {
+      "surface": "שְׂא֤וּ",
+      "gloss": "Ɗauku"
+    },
+    {
+      "surface": "שְׁעָרִ֨ים",
+      "gloss": "ku ƙofofi"
+    },
+    {
+      "surface": "רָאשֵׁיכֶ֗ם",
+      "gloss": "kawunanku"
+    },
+    {
+      "surface": "וְֽ֭הִנָּשְׂאוּ",
+      "gloss": "ku kuma a ɗaukaka"
+    },
+    {
+      "surface": "פִּתְחֵ֣י",
+      "gloss": "ku ƙofofin"
+    },
+    {
+      "surface": "עוֹלָ֑ם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "וְ֝יָבֹ֗א",
+      "gloss": "sai...Ya shigo"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "Sarkin"
+    },
+    {
+      "surface": "הַכָּבֽוֹד",
+      "gloss": "ɗaukaka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:30:29.306464642Z",
+  "model": "glm-5.2"
+}

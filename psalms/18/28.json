@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Gaskiya Kai ga mutane matalauta kanã tseratarwa, kuma idanu masu girma kanã kankara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gaskiya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "עני",
+      "gloss": "matalauta"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "kanã tseratarwa"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "kuma idanu"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "masu girma"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "kanã kankara"
+    }
+  ],
+  "timestamp": "2026-08-12T19:24:42.843686891Z",
+  "model": "glm-5.2"
+}

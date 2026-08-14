@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 6:22",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma ga mutanen biyu masu leƙen asiri ⟨את⟩ ⟨akan⟩ ƙasar, Yahoshua ya ce: \"Ku shiga gidan matar mahaukaciyar, kuma ku fitar daga can ⟨את⟩ matar da ⟨את⟩ dukan abin da nata, kamar yadda kuka rantsu mata.\"",
+  "tokens": [
+    {
+      "surface": "ולשנים",
+      "gloss": "Kuma ga ... biyu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "המרגלים",
+      "gloss": "masu leƙen asiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨akan⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahoshua"
+    },
+    {
+      "surface": "באו",
+      "gloss": "Ku shiga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "matar"
+    },
+    {
+      "surface": "הזונה",
+      "gloss": "mahaukaciyar"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "kuma ku fitar"
+    },
+    {
+      "surface": "משם",
+      "gloss": "daga can"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matar"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "matar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "dukan abin da nata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "לה",
+      "gloss": "nata"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "נשבעתם",
+      "gloss": "kuka rantsu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mata"
+    }
+  ],
+  "timestamp": "2026-08-12T06:20:42.377505282Z",
+  "model": "glm-5.2"
+}

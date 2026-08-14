@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 143,
+  "translation": "Gaggōna amsa ni, Yahweh, rūhī tā ƙare, kada ka ɓuya fuskarka daga gare ni, in kada in zama kamar waɗanda suke sauka cikin rijiya.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Gaggōna"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "amsa ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "tā ƙare"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "rūhī"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ka ɓuya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuskarka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daga gare ni"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "in kada in zama kamar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "waɗanda suke sauka"
+    },
+    {
+      "surface": "בור",
+      "gloss": "cikin rijiya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:56:10.434547092Z",
+  "model": "glm-5.2"
+}

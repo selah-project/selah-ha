@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ⟨babban⟩ gidan ya rufe shi da itãcen beroshim, kuma ya rufe shi da zinariya mai kyau, kuma ya sanya a kansa ƙirjin dabino da sarkaƙƙiya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gidan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "babba"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "ya rufe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "itaça"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "beroshim"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "kuma ya rufe shi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zinariya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mai kyau"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kuma ya sanya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "ƙirjin dabino"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "da sarkaƙƙiya"
+    }
+  ],
+  "timestamp": "2026-08-13T00:42:19.975899072Z",
+  "model": "glm-5.2"
+}

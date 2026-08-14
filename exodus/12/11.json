@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma kamar haka za ku ci shi: a sunnanku an dati, takalmanku a ƙafafunku, sandarku a hannunku; kuma za ku ci shi da gaggawa — shi ⟨ne⟩ Pesah na Yahweh.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "Kuma kamar haka"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "za ku ci"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shì"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "a sunnanku"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "an dati"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "takalmanku"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "a ƙafafunku"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "sandarku"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "a hannunku"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "kuma za ku ci"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shì"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "da gaggawa"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T00:42:34.080814195Z",
+  "model": "glm-5.2"
+}

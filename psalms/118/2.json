@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 118:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 118,
+  "translation": "Ya ce ⟨ku ce⟩ Yisra'el: domin har abada chesed ⟨nasa⟩.",
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "Ya ce ⟨ku ce⟩"
+    },
+    {
+      "surface": "נא",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed ɗinSa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:40:24.069304588Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 4:4",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma ka shiga, ka rufe ⟨ɗayan⟩ ƙofar domin kanka da kuma domin ɗiyanka, kuma ka zuba a kan dukkan wadannan kayan aiki, amma ⟨ɗayan⟩ da ya cika, ka tura ⟨bango⟩.\"",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "Kuma ka shiga"
+    },
+    {
+      "surface": "וסגרת",
+      "gloss": "ka rufe"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ƙofar"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "domin kanka"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "da kuma domin"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ɗiyanka"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "kuma ka zuba"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "wadan nan kayan aiki"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "והמלא",
+      "gloss": "amman ⟨ɗayan⟩ da ya cika"
+    },
+    {
+      "surface": "תסיעי",
+      "gloss": "ka tura ⟨bango⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T12:01:31.263598113Z",
+  "model": "glm-5.2"
+}

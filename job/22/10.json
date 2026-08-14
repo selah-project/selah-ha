@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 22:10",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Saboda haka kangaru suna kewaye da kai, kuma tsoro na ɗan lokaci yana dambe da kai.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כֵּ֭ן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "סְבִיבוֹתֶ֣יךָ",
+      "gloss": "kewaye da kai"
+    },
+    {
+      "surface": "פַחִ֑ים",
+      "gloss": "kangaru"
+    },
+    {
+      "surface": "וִֽ֝יבַהֶלְךָ",
+      "gloss": "kuma yana dambe da kai"
+    },
+    {
+      "surface": "פַּ֣חַד",
+      "gloss": "tsoro"
+    },
+    {
+      "surface": "פִּתְאֹֽם",
+      "gloss": "na ɗan lokaci"
+    }
+  ],
+  "timestamp": "2026-08-12T21:58:23.075838271Z",
+  "model": "glm-5.2"
+}

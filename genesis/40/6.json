@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma Yosef ya zo wurinsu da safe, ya duba ⟨את⟩ su, kuma gani, ⟨suna⟩ cikin baƙin ciki.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Kuma ya zo"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "wurinsu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "da safe"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ya duba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "kuma gani"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "cikin baƙin ciki"
+    }
+  ],
+  "timestamp": "2026-08-12T00:10:07.584593993Z",
+  "model": "glm-5.2"
+}

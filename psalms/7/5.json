@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Idan na sãƙa wa mai sulhuntãwa ãva, kuma na 'yanttsara ĩwãnan ĩfakaraina gãre shi bã da dalĩli ba,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "na sãƙa wa"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "mai sulhuntãwa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ãva"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "kuma na 'yanttsara"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ĩfakaraina"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "bã da dalĩli ba"
+    }
+  ],
+  "timestamp": "2026-08-12T19:17:23.147614597Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Daga ƙa'idojinka na sami fahimta; saboda haka na ƙi kowane hanya ta ƙarya.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "daga ƙa'idojinka"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "na sami fahimta"
+    },
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "na ƙi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowace"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ta ƙarya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:43:20.731648599Z",
+  "model": "glm-5.2"
+}

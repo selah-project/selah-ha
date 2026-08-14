@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kuma za ka sa jeri biyu, shida ⟨a cikin⟩ kowane jeri, a kan teburin tsarkake, a gaban Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "kuma za ka sa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "su (jeri biyu)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "jeri biyu"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "jeri"
+    },
+    {
+      "surface": "שש",
+      "gloss": "shida"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "a cikin kowane jeri"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "teburin"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "tsarkake"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T02:48:48.721270012Z",
+  "model": "glm-5.2"
+}

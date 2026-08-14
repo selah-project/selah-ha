@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Yahweh, ka shiryar da ni cikin adalçinka saboda masu adawa da ni; ka maida hanya gaba gari.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ka shiryar da ni"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "cikin adalcinka"
+    },
+    {
+      "surface": "למען",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "masu adawa da ni"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "ka maida ⟨tsaye⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gaba gari"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "hanya"
+    }
+  ],
+  "timestamp": "2026-08-12T19:12:53.497980460Z",
+  "model": "glm-5.2"
+}

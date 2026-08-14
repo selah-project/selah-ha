@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 24:3",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Idan mutum na ƙarshe ya ƙi ta, ya rubuta mata takardar saki, ya bada ⟨a cikin⟩ hannun ta, ya kore ta daga gidan sa, ko kuma idan mutum na ƙarshe ya mutu, wanda ya riqi ta ⟨ga kansa⟩ ⟨a matsayin⟩ mata.",
+  "tokens": [
+    {
+      "surface": "ושנאה",
+      "gloss": "ya ƙi ta"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "na ƙarshe"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "ya rubuta"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mata"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "takardar"
+    },
+    {
+      "surface": "כריתת",
+      "gloss": "saki"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ya bada"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "a hannun ta"
+    },
+    {
+      "surface": "ושלחה",
+      "gloss": "ya kore ta"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "daga gidan sa"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "idan"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ya mutu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "na ƙarshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "ya riqi ta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ga kansa"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "a matsayin mata"
+    }
+  ],
+  "timestamp": "2026-08-12T05:35:54.285682114Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma mutumin Elkanah ya haura, duka gidansa, don yin hadaya ga Yahweh ⟨את⟩ hadayar kwanaki da ⟨את⟩ alkawarinsa.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "kuma ya haura"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gidansa"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "don yin hadaya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadayar kwanaki"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "hadayar"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "alkawarinsa"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "alkawarinsa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:00:01.574362692Z",
+  "model": "glm-5.2"
+}

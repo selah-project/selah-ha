@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma ku kula don aikatawa kamar yadda Yahweh Elohiminku ya umurce ⟨את⟩ ku, kada ku juya dama ko hagu.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Kuma ku kula"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "don aikatawa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminku"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku",
+      "marks": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "ku juya"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "dama"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "ko hagu"
+    }
+  ],
+  "timestamp": "2026-08-12T05:03:45.358613250Z",
+  "model": "glm-5.2"
+}

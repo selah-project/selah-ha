@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma ta ba shi ⟨את⟩ Bilhah baiwar ta ⟨don⟩ zama mata, kuma Yaʻaqov ya shiga wajen ta.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "kuma ta ba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilhah"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilhah"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "baiwar ta"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "⟨don⟩ zama mata"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kuma ya shiga"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "wajen ta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaʻaqov"
+    }
+  ],
+  "timestamp": "2026-08-11T23:55:47.898231984Z",
+  "model": "glm-5.2"
+}

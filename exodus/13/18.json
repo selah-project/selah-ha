@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Elohim ya koma da ⟨את⟩ mutanen ta hanyar jeji, Tekun Reed. Kuma da suka shirya, 'ya'ban Isra'il sun hau daga ƙasar Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ya koma da"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ta hanyar"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "jeji"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Tekun"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Reed"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "da suka shirya"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "sun hau"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'ban"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'il"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:47:50.184081095Z",
+  "model": "glm-5.2"
+}

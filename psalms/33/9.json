@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Domin ⟨shi⟩ ya faɗa, sai ⟨ya⟩ kasance; ⟨shi⟩ ya umarta, sai ⟨ya⟩ tsaya.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "ה֣וּא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "אָמַ֣ר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "וַיֶּ֑הִי",
+      "gloss": "sai ya kasance"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "צִ֝וָּ֗ה",
+      "gloss": "ya umarta"
+    },
+    {
+      "surface": "וַֽיַּעֲמֹֽד",
+      "gloss": "sai ya tsaya"
+    }
+  ],
+  "timestamp": "2026-08-12T19:34:13.306631265Z",
+  "model": "glm-5.2"
+}

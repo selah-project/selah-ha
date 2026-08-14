@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma suka riƙi ⟨את⟩ ʾiyoyinsu ⟨ga⟩ kansu ⟨a matsayin⟩ mata, kuma ⟨את⟩ ʾiyoyinsu suka baiwa ɗa'yansu; kuma suka bauta wa ⟨את⟩ allolinsu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Kuma suka riƙi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ʾiyoyinsu"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ʾiyoyinsu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨ga⟩ kansu"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "⟨a matsayin⟩ mata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "ʾiyoyinsu"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ʾiyoyinsu"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "suka baiwa"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ɗa'yansu"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "kuma suka bauta wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allolinsu"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "allolinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T07:11:44.558389456Z",
+  "model": "glm-5.2"
+}

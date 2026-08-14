@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma ya ce masa: \"Haka Yiftaχ ya faɗa: Ba Israʾel ya riƙi ⟨את⟩ ƙasar Moʾav ba, kuma ⟨ba⟩ ⟨את⟩ ƙasar ɗan ʿAmmon ba;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Haka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftaχ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ya riƙi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israʾel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moʾav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ʿAmmon"
+    }
+  ],
+  "timestamp": "2026-08-12T07:50:39.125447053Z",
+  "model": "glm-5.2"
+}

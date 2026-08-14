@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 2:4",
+  "book": "zephaniah",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Gama Gaza za a bar shi, kuma Ashkelon zai zama fili; Ashdod za su kore shi a tsakayar rana, kuma Ekron za a tushe shi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gama"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "za a bar shi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zai zama"
+    },
+    {
+      "surface": "ואשקלון",
+      "gloss": "kuma Ashkelon"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "fili"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "a tsakayar rana"
+    },
+    {
+      "surface": "יגרשוה",
+      "gloss": "za su kore shi"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "kuma Ekron"
+    },
+    {
+      "surface": "תעקר",
+      "gloss": "za a tushe shi"
+    }
+  ],
+  "timestamp": "2026-08-12T18:53:05.604972019Z",
+  "model": "glm-5.2"
+}

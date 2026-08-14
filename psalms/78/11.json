@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Kuma suka manta da ayyukan⟨Sa⟩, da kuma mu'ujizan⟨Sa⟩ da Ya nuna musu.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "Kuma suka manta"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "da ayyukan⟨Sa⟩"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "da kuma mu'ujizan⟨Sa⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "Ya nuna musu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:08:36.540650654Z",
+  "model": "glm-5.2"
+}

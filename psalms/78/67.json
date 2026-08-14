@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Kuma ya ƙi ⟨ya ƙi⟩ tantanin Yosef, kuma a cikin kabilar Efrayim bai zaɓa ba.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "Kuma ya ƙi"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "tantanin"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "kuma a cikin kabilar"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bai"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "zaɓa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:10:10.492802277Z",
+  "model": "glm-5.2"
+}

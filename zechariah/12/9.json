@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 12:9",
+  "book": "zechariah",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma ⟨za a kasance⟩ a rana ⟨ta⟩, ni ⟨zãn⟩ in nemi hallaka ⟨את⟩ dukkan al'ummomin da suke zuwa a kan Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Kuma ⟨za a kashe⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨ta⟩"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ni ⟨zãn⟩ in nemi"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "hallaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan al'ummomin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "al'ummomin"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "da suke zuwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-13T02:22:36.040465535Z",
+  "model": "glm-5.2"
+}

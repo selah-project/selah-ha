@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Yahweh yana talauntarwa kuma yana arintarwa, yana kaskantarwa, eh, kuma yana ɗaukaka.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מוֹרִ֣ישׁ",
+      "gloss": "yana talauntarwa"
+    },
+    {
+      "surface": "וּמַעֲשִׁ֑יר",
+      "gloss": "kuma yana arintarwa"
+    },
+    {
+      "surface": "מַשְׁפִּ֖יל",
+      "gloss": "yana kaskantarwa"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "eh"
+    },
+    {
+      "surface": "מְרוֹמֵֽם",
+      "gloss": "kuma yana ɗaukaka"
+    }
+  ],
+  "timestamp": "2026-08-12T08:21:01.546111745Z",
+  "model": "glm-5.2"
+}

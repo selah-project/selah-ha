@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Sai Saul ya saurāra sautun Yehonatan, kuma Saul ya rantsuwa: «Da rai na Yahweh, ⟨ba⟩ za a kashe ⟨shi⟩ ba.»",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ya saurāra"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sautun"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ya rantsuwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "da rai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ba⟩"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "za a kashe ⟨shi⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T09:18:28.567967835Z",
+  "model": "glm-5.2"
+}

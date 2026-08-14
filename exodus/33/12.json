@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 33:12",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Kuma Mosheh ya ce wa Yahweh: Ga kai, kai ce mini, 'Ka ɗauko ⟨את⟩ wannan jama'a,' amma ba ka sanar da ni ⟨את⟩ wanda za ka aiko tare da ni; alhali kuwa kai ka faɗa, 'Na san ka da suna,' kuma ka samu ⟨naˈɗauko⟩ gafara a idona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka ce"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mini"
+    },
+    {
+      "surface": "העל",
+      "gloss": "ka ɗauko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan jama'a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "amma kai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הודעתני",
+      "gloss": "ka sanar da ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "za ka aiko"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "tare da ni"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ka faɗa"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "na san ka"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "da suna"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "ka samu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "gafara"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idona"
+    }
+  ],
+  "timestamp": "2026-08-12T01:22:24.079350572Z",
+  "model": "glm-5.2"
+}

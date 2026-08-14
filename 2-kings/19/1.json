@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma ya kasance, a saurararka ⟨ne⟩ Sarki Chizkiyahu ⟨ya⟩ fasa ⟨את⟩ tufafinsa, kuma ya rufe ⟨kai⟩ da shāƙi, kuma ya shiga gidan Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "a saurararka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Sarki"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "kuma ⟨ya⟩ fasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tufafinsa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "tufafinsa"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "kuma ya rufe ⟨kai⟩"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "da shāƙi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kuma ya shiga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T12:38:07.827688811Z",
+  "model": "glm-5.2"
+}

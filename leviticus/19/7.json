@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma idan tabbas za a ci ⟨shi⟩ a rana ta uku, abin gurgunci ne, ba za a yarda da shi ba.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "tabbas za a ci"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "za a ci"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ta uku"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "abin gurgunci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "za a yarda da shi ba"
+    }
+  ],
+  "timestamp": "2026-08-12T02:24:45.848763818Z",
+  "model": "glm-5.2"
+}

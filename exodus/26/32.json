@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 26:32",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma za ka sa ⟨את⟩ ta ⟨a⟩ kan ginshiƙai huɗu na itacen shiṭṭah, guntu da zinariya, ƙugayensu zinariya, ⟨a⟩ kan ƙafafu huɗu na azurfa.",
+  "tokens": [
+    {
+      "surface": "וְנָתַתָּה",
+      "gloss": "Kuma za ka sa"
+    },
+    {
+      "surface": "אֹתָהּ",
+      "gloss": "⟨את⟩",
+      "marks": "ta (katanga)"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "אַרְבָּעָה",
+      "gloss": "huɗu"
+    },
+    {
+      "surface": "עַמּוּדֵי",
+      "gloss": "ginshiƙai na"
+    },
+    {
+      "surface": "שִׁטִּים",
+      "gloss": "shiṭṭah"
+    },
+    {
+      "surface": "מְצֻפִּים",
+      "gloss": "guntu da"
+    },
+    {
+      "surface": "זָהָב",
+      "gloss": "zinariya"
+    },
+    {
+      "surface": "וָוֵיהֶם",
+      "gloss": "ƙugayensu"
+    },
+    {
+      "surface": "זָהָב",
+      "gloss": "zinariya"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "אַרְבָּעָה",
+      "gloss": "huɗu"
+    },
+    {
+      "surface": "אַדְנֵי",
+      "gloss": "ƙafafu na"
+    },
+    {
+      "surface": "כָּסֶף",
+      "gloss": "azurfa"
+    }
+  ],
+  "timestamp": "2026-08-13T23:58:04.315804521Z",
+  "model": "glm-5.2"
+}

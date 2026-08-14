@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 40:9",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ya auna ⟨את⟩ ɗakin shigar ⟨na⟩ ƙofar, ƙafaffu takwas; kuma ginshƙansa, ƙafaffu biyu; kuma ɗakin shigar ⟨na⟩ ƙofar ⟨yana⟩ daga cikin gida.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "kuma ya auna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗakin shigar"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ɗakin shigar"
+    },
+    {
+      "surface": "השער",
+      "gloss": "⟨na⟩ ƙofar"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ƙafaffu takwas"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ƙafaffu"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "kuma ginshƙansa"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ƙafaffu"
+    },
+    {
+      "surface": "ואלם",
+      "gloss": "kuma ɗakin shigar"
+    },
+    {
+      "surface": "השער",
+      "gloss": "⟨na⟩ ƙofar"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "daga cikin gida"
+    }
+  ],
+  "timestamp": "2026-08-12T17:57:21.623587960Z",
+  "model": "glm-5.2"
+}

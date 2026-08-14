@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 5:16",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "\"Ba a baiwa bayinka baza, kuma ana cewa mana: Ku yi tubali! Kuma ga, bayinka ana duka, kuma laifin mutanenka ne.\"",
+  "tokens": [
+    {
+      "surface": "תבן",
+      "gloss": "baza"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Ba a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "baiwa"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "bayinka"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "kuma tubali"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ana cewa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ku yi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "Kuma ga"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "bayinka"
+    },
+    {
+      "surface": "מכים",
+      "gloss": "ana duka"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "kuma laifin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mutanenka ne"
+    }
+  ],
+  "timestamp": "2026-08-12T00:35:48.985634548Z",
+  "model": "glm-5.2"
+}

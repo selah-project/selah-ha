@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 78,
+  "translation": "Kuma ya shiryar da su cikin aminci, kuma ba su ji tsoro ba, ⟨kuma⟩ teku ta rufe ⟨את⟩ maƙiyansu.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "kuma ya shiryar da su"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "cikin aminci"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "su ji tsoro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "maƙiyansu"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "maƙiyansu"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ta rufe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "teku"
+    }
+  ],
+  "timestamp": "2026-08-12T20:09:56.046219363Z",
+  "model": "glm-5.2"
+}

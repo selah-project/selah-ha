@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 73:27",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 73,
+  "translation": "Dōm, ga shi, waɗanda suke nīsa daga gare ka zã su halaka; Kun halaka duka wanda ya yi sāmunā daga gare ka.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Dōm"
+    },
+    {
+      "surface": "הִנֵּה",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "רְחֵקֶיךָ",
+      "gloss": "waɗanda suke nīsa daga gare ka"
+    },
+    {
+      "surface": "יֹאבֵדוּ",
+      "gloss": "zã su halaka"
+    },
+    {
+      "surface": "הִצְמַתָּה",
+      "gloss": "Kun halaka"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "זוֹנֶה",
+      "gloss": "wanda ya yi sāmunā"
+    },
+    {
+      "surface": "מִמֶּךָּ",
+      "gloss": "daga gare ka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:07:48.758316840Z",
+  "model": "glm-5.2"
+}

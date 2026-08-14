@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 33:16",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 33,
+  "translation": "Kuma ya shirya ⟨את⟩ daban na Yahweh, kuma ya yanka kankani a kansa, gundumin sulhu da godiya, kuma ya ce wa Yehuda su bauta wa ⟨את⟩ Yahweh, Elohim na Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "Kuma ya shirya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daban"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "daban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "kuma ya yanka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "kankani"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "gundumin sulhu"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "da godiya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "wa Yehuda"
+    },
+    {
+      "surface": "לעבוד",
+      "gloss": "su bauta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-13T02:58:20.174226900Z",
+  "model": "glm-5.2"
+}

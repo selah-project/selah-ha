@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Kuma ya zo, ya yi wa ⟨את⟩ ƙasar Mitsrayim mugun nufi: waɗanda ⟨a ke⟩ ga mutuwa ⟨a je⟩ ga mutuwa, kuma waɗanda ⟨a ke⟩ ga bauta ⟨a je⟩ ga bauta, kuma waɗanda ⟨a ke⟩ ga takobi ⟨a je⟩ ga takobi.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "kuma ya zo"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ya yi wa mugun nufi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ga mutuwa"
+    },
+    {
+      "surface": "למות",
+      "gloss": "⟨a je⟩ ga mutuwa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kuma waɗanda"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "ga bauta"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "⟨a je⟩ ga bauta"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kuma waɗanda"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ga takobi"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "⟨a je⟩ ga takobi"
+    }
+  ],
+  "timestamp": "2026-08-12T16:23:52.320355008Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Haran ya mutu a gaban Terach ubaninsa, a ƙasar haihuwarsa, a Ur na Kasdaiyawa.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "kuma ya mutu"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "פני",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubaninsa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "haihuwarsa"
+    },
+    {
+      "surface": "באור",
+      "gloss": "a Ur"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "na Kasdaiyawa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:29:33.009737856Z",
+  "model": "glm-5.2"
+}

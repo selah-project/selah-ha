@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "Ba a bisa ⟨את⟩ hadayarka zan yi maka lakabi ba, kuma ƙorafkina suna gareNi kullum.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "על",
+      "gloss": "a bisa"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "hadayarka"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "zan yi maka lakadi"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "kuma ƙorafkina"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "suna gareNi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kullum"
+    }
+  ],
+  "timestamp": "2026-08-12T19:47:06.797276921Z",
+  "model": "glm-5.2"
+}

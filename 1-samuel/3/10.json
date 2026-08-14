@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Sai Yahweh ya zo, ya tsaya, ya kira kamar karon farko da karon farko: \"Shemu'el, Shemu'el!\" Sai Shemu'el ya faɗi: \"Ka yi magana, domin bayinKa yana sauraro.\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Sai ya zo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "ya tsaya"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ya kira"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "kamar karon"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "a karon"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "farko"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sai Shemu'el"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya faɗi: Ka yi magana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yana sauraro"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bayinKa"
+    }
+  ],
+  "timestamp": "2026-08-12T08:33:33.710413670Z",
+  "model": "glm-5.2"
+}

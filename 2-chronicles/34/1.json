@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 34:1",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Da ɗan shekaru takwas Yoshiyahu ⟨a cikin⟩ mulkinsa, kuma shekaru talatin da ɗaya ya yi mulki a Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "בֶּן",
+      "gloss": "Da"
+    },
+    {
+      "surface": "שְׁמוֹנֶ֥ה",
+      "gloss": "takwas"
+    },
+    {
+      "surface": "שָׁנִ֖ים",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "יֹאשִׁיָּ֣הוּ",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "בְמָלְכ֑וֹ",
+      "gloss": "a cikin mulkinsa"
+    },
+    {
+      "surface": "וּשְׁלֹשִׁ֤ים",
+      "gloss": "kuma talatin"
+    },
+    {
+      "surface": "וְאַחַת֙",
+      "gloss": "da ɗaya"
+    },
+    {
+      "surface": "שָׁנָ֔ה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "מָלַ֖ךְ",
+      "gloss": "ya yi mulki"
+    },
+    {
+      "surface": "בִּירוּשָׁלִָֽם",
+      "gloss": "a Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-13T03:12:03.116573945Z",
+  "model": "glm-5.2"
+}

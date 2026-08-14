@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Amma ⟨a⟩ Natan annabi, da Benayahu, da ⟨את⟩ jaruman, da ⟨את⟩ Shelomoh ɗan'uwansa, ba ya kira ba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨amma a⟩ ⟨את⟩",
+      "marks": "Natan annabi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabi"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "da Benayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "jaruman"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "jaruman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Shelomoh ɗan'uwansa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ɗan'uwansa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ya kira ba"
+    }
+  ],
+  "timestamp": "2026-08-12T10:45:53.619886905Z",
+  "model": "glm-5.2"
+}

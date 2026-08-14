@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 39:1",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Kuma daga shudi da jajaye da tsatsa-bugun-ja, sun yi kayan aiki na sauƙaƙe don bauta a cikin wurin tsarki, kuma suka yi ⟨את⟩ kayan tsarki waɗanda ⟨ke⟩ na Aharon, kamar yadda Yahweh ya umurci ⟨את⟩ Mosheh.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "kuma daga"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "shudi"
+    },
+    {
+      "surface": "והארגמן",
+      "gloss": "da jajaye"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "da tsatsa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "bugun-ja"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kayan aiki"
+    },
+    {
+      "surface": "שרד",
+      "gloss": "na sauƙaƙe"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "don bauta"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "a cikin wurin tsarki"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "kuma suka yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kayan tsarki"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kayan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tsarki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-13T01:47:41.332135781Z",
+  "model": "glm-5.2"
+}

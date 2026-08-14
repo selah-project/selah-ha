@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 5:14",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Saboda haka, haka Yahweh, Elohim na yaƙin, ya faɗa: saboda maganar ku, ga ⟨ne⟩ nã sanya kalmomi na a bakinka ⟨don su zama⟩ wuta, kuma mutãnen nan itace, kuma ⟨ta⟩ sha shi.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Saboda haka"
+    },
+    {
+      "surface": "כה",
+      "gloss": "haka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "yaƙin"
+    },
+    {
+      "surface": "יען",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "דברכם",
+      "gloss": "maganar ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalmar"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kalmar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nã sanya"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalmomi na"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "a bakinka"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "kuma mutãnen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "itace"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "kuma ⟨ta⟩ sha shi"
+    }
+  ],
+  "timestamp": "2026-08-12T15:03:47.325842323Z",
+  "model": "glm-5.2"
+}

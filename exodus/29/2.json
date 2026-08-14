@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 29:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Da gurasar marasa yisti, da guntuwan gurasar marasa yisti da aka gauraya da man shanu, da siraran gurasar marasa yisti da aka shafa da man shanu — garin alkama za ka yi.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "Da gurasar"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "marasa yisti"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "da guntuwan gurasar"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "marasa yisti"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "da aka gauraya"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "da man shanu"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "da siraran gurasar"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "marasa yisti"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "da aka shafa"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "da man shanu"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "garin"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "alkama"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "za ka yi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    }
+  ],
+  "timestamp": "2026-08-12T01:17:40.021197059Z",
+  "model": "glm-5.2"
+}

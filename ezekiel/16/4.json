@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma game da haihuwar ka, a rana da aka haifa ka, an ba ka ⟨את⟩ ba, ba a yanke wuyar ka, kuma da ruwa ba a wanka ka don tsabta, kuma ba a shafa gishiri ⟨a⟩ ka, kuma ba a nade ka da tawuli.",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "Kuma game da haihuwar ka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rana"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "da aka haifa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "a yanke"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "wuyar ka"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "kuma da ruwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "a wanka ka"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "don tsabta"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "kuma ba a shafa gishiri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "⟨a⟩ ka"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "kuma ba a nade ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "da tawuli"
+    }
+  ],
+  "timestamp": "2026-08-12T17:05:53.798110264Z",
+  "model": "glm-5.2"
+}

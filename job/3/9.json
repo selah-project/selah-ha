@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 3:9",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Taurarin alƙwarinta su yi duhu, ya jira haske amma babu, kuma kada ⟨a ganin⟩ gan gefen sahhara.",
+  "tokens": [
+    {
+      "surface": "יחשכו",
+      "gloss": "su yi duhu"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "Taurarin"
+    },
+    {
+      "surface": "נשפו",
+      "gloss": "alƙwarinta"
+    },
+    {
+      "surface": "יקו",
+      "gloss": "ya jira"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "haske"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "amma babu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "gan"
+    },
+    {
+      "surface": "בעפעפי",
+      "gloss": "gefen"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "sahhara"
+    }
+  ],
+  "timestamp": "2026-08-12T21:38:16.157179150Z",
+  "model": "glm-5.2"
+}

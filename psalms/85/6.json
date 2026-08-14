@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 85,
+  "translation": "Har abadada za ⟨ka⟩ yi fushi cikin mu? Za ⟨ka⟩ ciqa fushinka tsawon ƙarni da ƙarni?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Har abadada"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "za ⟨ka⟩ yi fushi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "cikin mu"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "Za ⟨ka⟩ ciqa"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "fushinka"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "tsawon ƙarni"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "da ƙarni"
+    }
+  ],
+  "timestamp": "2026-08-12T20:15:20.280560301Z",
+  "model": "glm-5.2"
+}

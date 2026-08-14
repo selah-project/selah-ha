@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Shi ⟨ne⟩ ya gina ⟨את⟩ ƙofar Bayt Yahweh, ⟨ta⟩ sama, kuma a cikin ganuwar Haʿopel ya gina da yawa.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Shi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ya gina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙofar"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ƙofar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bayt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "sama"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "kuma a cikin ganuwar"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Haʿopel"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ya gina"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "da yawa"
+    }
+  ],
+  "timestamp": "2026-08-13T03:11:53.996033644Z",
+  "model": "glm-5.2"
+}

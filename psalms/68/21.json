@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 68:21",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 68,
+  "translation": "Ha-El ⟨ne⟩ ga mu, El na ⟨don⟩ ceto, kuma ga Yahweh, Adonai, ⟨akwai⟩ hanyoyin fita na mutuwa.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Ha-El"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ga mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "למושעות",
+      "gloss": "na ceto"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "kuma ga Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "למות",
+      "gloss": "na mutuwa"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "hanyoyin fita"
+    }
+  ],
+  "timestamp": "2026-08-12T19:59:23.046441036Z",
+  "model": "glm-5.2"
+}

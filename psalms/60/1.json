@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 60,
+  "translation": "Ga ⟨ga⟩ wanda ke jagorantar waƙa, bisa ga Shushan-Eduth, miktam na Dawuda, don koyarwa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga wanda ke jagorantar waƙa"
+    },
+    {
+      "surface": "על",
+      "gloss": "bisa ga"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduth"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na Dawuda"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "don koyarwa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:55:20.443101821Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma Aharon ya kusantar da ⟨את⟩ sāgon zunubin da nasa, ya yi gafara dominsa da ⟨ne⟩ domin gidansa.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "kuma ya kusantar da"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sāgon zunubin"
+    },
+    {
+      "surface": "פר",
+      "gloss": "sāgo"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "zunubin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nasa"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ya yi gafara"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "dominsa"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "kuma domin"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gidansa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:28:32.618999925Z",
+  "model": "glm-5.2"
+}

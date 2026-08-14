@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 19:2",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma Izebel ta aiki manzo zuwa Eliyahu, in ce: \"Haka Elohim ya yi min, kuma haka ya ƙara, lalle nan da gobe da wannan lokaci zan sanya ⟨את⟩ raiñka kamar raiña ɗaya daga cikinsu.\"",
+  "tokens": [
+    {
+      "surface": "ותשלח",
+      "gloss": "kuma ta aiki"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "manzo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "in ce"
+    },
+    {
+      "surface": "כה",
+      "gloss": "haka"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "ya yi min"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "kuma haka"
+    },
+    {
+      "surface": "יוספון",
+      "gloss": "ya ƙara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lalle"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "da wannan lokaci"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "nan da gobe"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "zan sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raiñka"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "raiñka"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "kamar raiña"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "daga cikinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T11:39:46.535972840Z",
+  "model": "glm-5.2"
+}

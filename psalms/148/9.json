@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 148,
+  "translation": "Duwatsu da dukan tudai, itatu 'ya'yan itace da dukan itatu sedar",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da dukan"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "tudai"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "itatu"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "'ya'yan itace"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da dukan"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "itatu sedar"
+    }
+  ],
+  "timestamp": "2026-08-12T20:57:39.254736578Z",
+  "model": "glm-5.2"
+}

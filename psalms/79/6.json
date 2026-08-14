@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 79,
+  "translation": "Yi zubar da fushinka a kan al'ummomin da ba su san ka, kuma a kan mulƙan da ba su kãra sunanka.",
+  "tokens": [
+    {
+      "surface": "שְׁפֹ֤ךְ",
+      "gloss": "yi zubar"
+    },
+    {
+      "surface": "חֲמָתְךָ֨",
+      "gloss": "da fushinka"
+    },
+    {
+      "surface": "אֶֽל",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הַגּוֹיִם֮",
+      "gloss": "al'ummomin"
+    },
+    {
+      "surface": "אֲשֶׁ֪ר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יְדָ֫ע֥וּךָ",
+      "gloss": "su sani ka"
+    },
+    {
+      "surface": "וְעַ֥ל",
+      "gloss": "kuma a kan"
+    },
+    {
+      "surface": "מַמְלָכ֑וֹת",
+      "gloss": "mulƙan"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "da"
+    },
+    {
+      "surface": "בְּ֝שִׁמְךָ֗",
+      "gloss": "sunanka"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "קָרָֽאוּ",
+      "gloss": "su kãra"
+    }
+  ],
+  "timestamp": "2026-08-12T20:13:51.597143255Z",
+  "model": "glm-5.2"
+}

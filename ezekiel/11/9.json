@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Ni zan fitar da ku daga cikinta, kuma zan maka ⟨את⟩ ⟨a⟩ hannun baƙi, kuma zan yi ⟨a⟩ cikinku hukunce-hukunce.",
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "kuma zan fitar da"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ku"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "daga cikinta"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "kuma zan maka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ku"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨a⟩ hannun"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "baƙi"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "kuma zan yi"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "⟨a⟩ cikinku"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "hukunce-hukunce"
+    }
+  ],
+  "timestamp": "2026-08-13T03:05:54.493332886Z",
+  "model": "glm-5.2"
+}

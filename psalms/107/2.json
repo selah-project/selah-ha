@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Sukan faɗa waɗanda aka ceto na Yahweh, waɗanda ⟨shi⟩ ya ceto su daga hannun ⟨maƙiyi⟩,",
+  "tokens": [
+    {
+      "surface": "יֹ֭אמְרוּ",
+      "gloss": "Sukan faɗa"
+    },
+    {
+      "surface": "גְּאוּלֵ֣י",
+      "gloss": "waɗanda aka ceto na"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "גְּאָלָ֗ם",
+      "gloss": "ya ceto su"
+    },
+    {
+      "surface": "מִיַּד",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "צָֽר",
+      "gloss": "⟨maƙiyi⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:33:14.340893808Z",
+  "model": "glm-5.2"
+}

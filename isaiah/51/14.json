@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 51,
+  "translation": "Da sauri fursuna mai tafiya za a 'yanta shi, kuma ba zai mutu ba ⟨yaje⟩ ramin, kuma ba za a rage masa gurasarsa ba.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "da sauri"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "fursuna mai tafiya"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "za a 'yanta shi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zai mutu"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "⟨yaje⟩ ramin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "za a rage"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "gurasarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T14:27:53.281014651Z",
+  "model": "glm-5.2"
+}

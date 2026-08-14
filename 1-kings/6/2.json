@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 6:2",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma gidan da Sarki Shelomoh ya gina wa Yahweh, tsawonsa mita shida na kamu, faɗinsa mita ashirin, tsayinsa mita talatin na kamu.",
+  "tokens": [
+    {
+      "surface": "וְהַבַּ֗יִת",
+      "gloss": "Kuma gidan"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "da"
+    },
+    {
+      "surface": "בָּנָ֜ה",
+      "gloss": "ya gina"
+    },
+    {
+      "surface": "הַמֶּ֤לֶךְ",
+      "gloss": "Sarki"
+    },
+    {
+      "surface": "שְׁלֹמֹה֙",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לַֽיהוָ֔ה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "שִׁשִּׁ֥ים",
+      "gloss": "shida"
+    },
+    {
+      "surface": "אַמָּ֥ה",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "אָרְכּוֹ֖",
+      "gloss": "tsawonsa"
+    },
+    {
+      "surface": "וְעֶשְׂרִ֥ים",
+      "gloss": "da ashirin"
+    },
+    {
+      "surface": "רָחְבּ֑וֹ",
+      "gloss": "faɗinsa"
+    },
+    {
+      "surface": "וּשְׁלֹשִׁ֥ים",
+      "gloss": "da talatin"
+    },
+    {
+      "surface": "אַמָּ֖ה",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "קוֹמָתֽוֹ",
+      "gloss": "tsayinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T11:01:10.336868810Z",
+  "model": "glm-5.2"
+}

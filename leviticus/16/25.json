@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma ⟨ne⟩ zai ƙone shugulan ⟨את⟩ kabewar zuwa hadaya a saman bagadan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kabewar"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "shugulan"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "kabewar"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "zai ƙone"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "zuwa hadaya a saman bagadan"
+    }
+  ],
+  "timestamp": "2026-08-12T02:33:17.386757286Z",
+  "model": "glm-5.2"
+}

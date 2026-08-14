@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Cikin makiyayi na ciyawa ⟨ya⟩ sa ni in kwanta; kusa da ruwan nutsuwa ⟨ya⟩ jagoranta ni.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "Cikin makiyayi"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "na ciyawa"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "⟨ya⟩ sa ni in kwanta"
+    },
+    {
+      "surface": "על",
+      "gloss": "kusa da"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "nutsuwa"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "⟨ya⟩ jagoranta ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:28:29.781084922Z",
+  "model": "glm-5.2"
+}

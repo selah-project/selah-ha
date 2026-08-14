@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 17:19",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Ya Yahweh, saboda bāwinginka, kuma a cikin zuciyarka, ka aikata ⟨את⟩ dukan wannan girman, don sanar da dukan manyan abubuwan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bāwinginka"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "kuma a cikin zuciyarka"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ka aikata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "wannan girman"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "להדיע",
+      "gloss": "don sanar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "manyuƙan abubuwan"
+    }
+  ],
+  "timestamp": "2026-08-13T02:40:25.285183704Z",
+  "model": "glm-5.2"
+}

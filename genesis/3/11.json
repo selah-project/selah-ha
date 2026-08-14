@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ya ce, \"Wane ya gaya maka cewa tsirara ⟨ke⟩? Shin, daga ⟨itacen⟩ da na ka wajaba ka kada ka ci daga gare shi, ka ci?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wane"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ya gaya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "tsirara"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ke"
+    },
+    {
+      "surface": "המן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "⟨itacen⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "na ka wajaba"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kada ka ci"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare shi"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "ka ci"
+    }
+  ],
+  "timestamp": "2026-08-13T01:43:55.310390695Z",
+  "model": "glm-5.2"
+}

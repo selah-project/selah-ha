@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Ba za su ga ⟨את⟩ ƙasar da na rantsuwa ga ubanninsu ba, kuma duk wadanda ke raina ba za su gan ta ba.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "⟨ba⟩"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "za su ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "na rantsuwa"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "ga ubanninsu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma duk"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "wadanda ke raina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "za su gan ta"
+    }
+  ],
+  "timestamp": "2026-08-12T03:58:47.433276208Z",
+  "model": "glm-5.2"
+}

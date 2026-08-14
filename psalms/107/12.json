@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Sai ya tona zuciyarsu da wahala, sun buɗe, kuma ba a cikin ⟨wani⟩ mai taimako.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "Sai ya tona"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "da wahala"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "zuciyarsu"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "sun buɗe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma ba a cikin"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mai taimako"
+    }
+  ],
+  "timestamp": "2026-08-12T20:32:38.486441822Z",
+  "model": "glm-5.2"
+}

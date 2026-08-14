@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 42:17",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Za a janyo su baya, za su ji kunya ta ɓata, masu dogaro da ⟨את⟩ siffar-ƙaka, masu cewa wa gwanton narari, \"Ku ⟨ne⟩ Elohim mu.\"",
+  "tokens": [
+    {
+      "surface": "נָסֹ֤גוּ",
+      "gloss": "za a janyo su baya"
+    },
+    {
+      "surface": "אָחוֹר֙",
+      "gloss": "baya"
+    },
+    {
+      "surface": "יֵבֹ֣שׁוּ",
+      "gloss": "za su ji kunya"
+    },
+    {
+      "surface": "בֹ֔שֶׁת",
+      "gloss": "ta ɓata"
+    },
+    {
+      "surface": "הַבֹּטְחִ֖ים",
+      "gloss": "masu dogaro"
+    },
+    {
+      "surface": "בַּפָּ֑סֶל",
+      "gloss": "da siffar-ƙaka"
+    },
+    {
+      "surface": "הָאֹמְרִ֥ים",
+      "gloss": "masu cewa"
+    },
+    {
+      "surface": "לְמַסֵּכָ֖ה",
+      "gloss": "wa gwanton narari"
+    },
+    {
+      "surface": "אַתֶּ֥ם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אֱלֹהֵֽינוּ",
+      "gloss": "Elohim mu"
+    }
+  ],
+  "timestamp": "2026-08-12T14:07:44.550673478Z",
+  "model": "glm-5.2"
+}

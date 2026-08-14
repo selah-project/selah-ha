@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Yā matāmā, ⟨ga⟩ masu ƙa'-id-di ne waɗanda suke yin ƙa'idojin annīfa, kuma masu rubūtu ne waɗanda suka rubūta ɡwammace.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Yā matāmā"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "masu ƙa'iddi"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "ƙa'idojin"
+    },
+    {
+      "surface": "און",
+      "gloss": "annīfa"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "kuma masu rubūtu"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ɡwammace"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "suka rubūta"
+    }
+  ],
+  "timestamp": "2026-08-12T13:15:45.144231732Z",
+  "model": "glm-5.2"
+}

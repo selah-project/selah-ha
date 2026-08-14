@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 91,
+  "translation": "Duba za su faɗo dubu ⟨mutane⟩ a gefenka, da goma dubu a damanka; amma ⟨bala'i⟩ ba za ya kusanta kai ba.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "za su faɗo"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "a gefenka"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "da goma dubu"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "a damanka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "za ya kusanta"
+    }
+  ],
+  "timestamp": "2026-08-12T20:21:07.551051319Z",
+  "model": "glm-5.2"
+}

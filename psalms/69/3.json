@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Na yi nutsuwa cikin dũtsen laka, kuma bãbu wuri a tsaye; na shiga cikin zurfin ruwa, kuma igiyar ruwa ta rũde ni.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Na yi nutsuwa"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "cikin dũtsen laka"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "cikin zurfin"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma bãbu"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "wuri a tsaye"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "na shiga"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "cikin zurfin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "kuma igiyar ruwa"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "ta rũde ni"
+    }
+  ],
+  "timestamp": "2026-08-12T20:00:18.106809867Z",
+  "model": "glm-5.2"
+}

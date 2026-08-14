@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma masu tawali'u za su gaji ƙasa, kuma su ji daɗin yalwa ⟨na⟩ salaam.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "Kuma masu tawali'u"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "za su gaji"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "kuma su ji daɗin"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "רב",
+      "gloss": "yalwa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salaam"
+    }
+  ],
+  "timestamp": "2026-08-12T19:38:22.872040432Z",
+  "model": "glm-5.2"
+}

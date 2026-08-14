@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 4:10",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Ranar da ka tsaya a gaban Yahweh, Elohim-naka, a Horev, a lokacin da Yahweh ya ce mini, Tara mini ⟨את⟩ jama'ar, kuma in sa su ji ⟨את⟩ kalamina, domin su koya su tsare ⟨את⟩ ni, dukan kwanakin da suke rai a ƙasa, ⟨don⟩ su koya wa ƴaƴansu.",
+  "tokens": [
+    {
+      "surface": "י֗וֹם",
+      "gloss": "ranar"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עָמַ֜דְתָּ",
+      "gloss": "ka tsaya"
+    },
+    {
+      "surface": "לִפְנֵ֨י",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ֮",
+      "gloss": "Elohim-naka"
+    },
+    {
+      "surface": "בְּחֹרֵב֒",
+      "gloss": "a Horev"
+    },
+    {
+      "surface": "בֶּאֱמֹ֨ר",
+      "gloss": "a lokacin da...ya ce"
+    },
+    {
+      "surface": "יְהוָ֜ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֵלַ֗י",
+      "gloss": "mini"
+    },
+    {
+      "surface": "הַקְהֶל",
+      "gloss": "Tara"
+    },
+    {
+      "surface": "לִי֙",
+      "gloss": "mini"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "jama'ar"
+    },
+    {
+      "surface": "הָעָ֔ם",
+      "gloss": "jama'ar"
+    },
+    {
+      "surface": "וְאַשְׁמִעֵ֖ם",
+      "gloss": "kuma in sa su ji"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kalamina"
+    },
+    {
+      "surface": "דְּבָרָ֑י",
+      "gloss": "kalamina"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יִלְמְד֜וּן",
+      "gloss": "su koya"
+    },
+    {
+      "surface": "לְיִרְאָ֣ה",
+      "gloss": "su tsare"
+    },
+    {
+      "surface": "אֹתִ֗י",
+      "gloss": "⟨את⟩ ni"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "הַיָּמִים֙",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הֵ֤ם",
+      "gloss": "suke"
+    },
+    {
+      "surface": "חַיִּים֙",
+      "gloss": "rai"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הָ֣אֲדָמָ֔ה",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ƴaƴansu"
+    },
+    {
+      "surface": "בְּנֵיהֶ֖ם",
+      "gloss": "ƴaƴansu"
+    },
+    {
+      "surface": "יְלַמֵּדֽוּן",
+      "gloss": "su koya wa"
+    }
+  ],
+  "timestamp": "2026-08-12T04:59:35.350741852Z",
+  "model": "glm-5.2"
+}

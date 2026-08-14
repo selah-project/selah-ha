@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Həbel həbalim, ⟨ce⟩ Qohelet ya faɗa; həbel həbalim, ⟨dukan⟩ ⟨abu⟩ həbel ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "הֲבֵל",
+      "gloss": "Həbel"
+    },
+    {
+      "surface": "הֲבָלִים",
+      "gloss": "həbalim"
+    },
+    {
+      "surface": "אָמַר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "קֹהֶלֶת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "הֲבֵל",
+      "gloss": "həbel"
+    },
+    {
+      "surface": "הֲבָלִים",
+      "gloss": "həbalim"
+    },
+    {
+      "surface": "הַכֹּל",
+      "gloss": "⟨dukan⟩ ⟨abu⟩"
+    },
+    {
+      "surface": "הָבֶל",
+      "gloss": "həbel ⟨ne⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T22:40:50.430181677Z",
+  "model": "glm-5.2"
+}

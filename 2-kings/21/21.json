@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 21:21",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma ya tafi a duk ⟨a⟩ hanyar da ubansa ya tafi, kuma ya bauta wa ⟨את⟩ gumaka da ubansa ya bauta wa, kuma ya lallasa gare ⟨su⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "⟨a⟩ hanyar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ya tafi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubansa"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "kuma ya bauta wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gumaka"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "gumaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ya bauta wa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubansa"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "kuma ya lallasa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "gare ⟨su⟩"
+    }
+  ],
+  "timestamp": "2026-08-13T02:06:47.059516724Z",
+  "model": "glm-5.2"
+}

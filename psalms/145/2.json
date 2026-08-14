@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 145,
+  "translation": "Kullum niƙa girmama ka, kuma niƙa yabo sunanka, har abada, har abada.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Kullum"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kullum"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "niƙa girmama ka"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "kuma niƙa yabo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sunanka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-12T20:58:15.171843530Z",
+  "model": "glm-5.2"
+}

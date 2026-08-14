@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Ama ni, a cikin tsarkin na zan tafi; ka fanshe ni, kuma ka nuna mini alheri.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ama ni"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "a cikin tsarkin na"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "zan tafi"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "ka fanshe ni"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "kuma ka nuna mini alheri"
+    }
+  ],
+  "timestamp": "2026-08-12T19:29:20.783394844Z",
+  "model": "glm-5.2"
+}

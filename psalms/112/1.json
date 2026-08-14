@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 112,
+  "translation": "Ku yi ĩƙaYah! Na da farin ciki mutumin da ke jin tsoron ⟨את⟩ Yahweh, a cikin umarninSa yana nishaɗi sosai.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Ku yi ĩƙa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Na da farin ciki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "da ke jin tsoron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "a cikin umarninSa"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yana nishaɗi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    }
+  ],
+  "timestamp": "2026-08-12T20:37:08.320378720Z",
+  "model": "glm-5.2"
+}

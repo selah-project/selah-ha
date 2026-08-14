@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 51:3",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 51,
+  "translation": "Domin Yahweh ya ta'azantar da Tziyon, ya ta'azantar da dukkan rugujewarta, kuma ya sanya hamgidanta kamar ⟨.Eden⟩, da jejin karkararta kamar gonar Yahweh; farin ciki da murna za a samu a cikinta, gudunawa da muryar waƙa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "ya ta'azantar da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "ya ta'azantar da"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "חרבתיה",
+      "gloss": "rugujewarta"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kuma ya sanya"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "hamgidanta"
+    },
+    {
+      "surface": "כעדן",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "וערבתה",
+      "gloss": "da jejin karkararta"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "kamar gonar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "farin ciki"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "da murna"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "za a samu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a cikinta"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "gudunawa"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "da muryar"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "waƙa"
+    }
+  ],
+  "timestamp": "2026-08-12T14:29:16.103786886Z",
+  "model": "glm-5.2"
+}

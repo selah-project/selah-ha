@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Yahweh zai yi musu kamar yadda ya yi wa Sihon da Og, sarakkeen Amori, da ƙasarsu, waɗanda ya halaka ⟨את⟩ su.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "zai yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "wa Sihon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "da Og"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sarakkeen"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amori"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "da ƙasarsu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "ya halaka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su"
+    }
+  ],
+  "timestamp": "2026-08-12T05:55:09.936847044Z",
+  "model": "glm-5.2"
+}

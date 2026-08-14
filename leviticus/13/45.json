@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 13:45",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma ɗan cutar tsāro'in, wanda cikinsa akwai ālar, tufafinsa za su zama guntattu, kuma kansa zai kasance a buɗe, kuma akan gwandansa zai rufe, kuma \"Ba-tsarki, ba-tsarki!\" zai kira.",
+  "tokens": [
+    {
+      "surface": "והצרוע",
+      "gloss": "Kuma ɗan cutar tsāro'in"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "cikinsa"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ālar"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "tufafinsa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "za su zama"
+    },
+    {
+      "surface": "פרמים",
+      "gloss": "guntattu"
+    },
+    {
+      "surface": "וראשו",
+      "gloss": "kuma kansa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zai kasance"
+    },
+    {
+      "surface": "פרוע",
+      "gloss": "a buɗe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kuma akan"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "gwandansa"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "zai rufe"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "kuma \"Ba-tsarki"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ba-tsarki!\""
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "zai kira"
+    }
+  ],
+  "timestamp": "2026-08-12T02:10:47.470089114Z",
+  "model": "glm-5.2"
+}

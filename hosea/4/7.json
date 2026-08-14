@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Da yawa suka yawaita, haka suka yi mini zunubi; girman su ni zan canza shi zuwa wulakanci.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "Da yawa suka yawaita"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "suka yi zunubi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mini"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "girman su"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "zuwa wulakanci"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "ni zan canza shi"
+    }
+  ],
+  "timestamp": "2026-08-12T18:10:29.090299022Z",
+  "model": "glm-5.2"
+}

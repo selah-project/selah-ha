@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 135,
+  "translation": "Domi Yahweh zai yi shari'a ga mutanensa, kuma game da bayinsa zai nemi gafara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domi"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "zai yi shari'a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ga mutanensa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kuma game da"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bayinsa"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "zai nemi gafara"
+    }
+  ],
+  "timestamp": "2026-08-12T20:50:54.375217474Z",
+  "model": "glm-5.2"
+}

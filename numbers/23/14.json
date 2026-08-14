@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 23:14",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma ya kai shi filin Tsophim, zuwa kansa ⟨na⟩ Pisgah, kuma ya gina salla gumaka, kuma ya miƙa ĩnaƙãya da ramaki a kan gurbar hadaya.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "Kuma ya kai shi"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "filin"
+    },
+    {
+      "surface": "צפים",
+      "gloss": "Tsophim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "Pisgah"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "kuma ya gina"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "salla"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "gumaka"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kuma ya miƙa"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ĩnaƙãya"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "da ramaki"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "a kan gurbar hadaya"
+    }
+  ],
+  "timestamp": "2026-08-12T04:23:28.484741521Z",
+  "model": "glm-5.2"
+}

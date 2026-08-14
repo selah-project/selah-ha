@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 39:31",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Kuma suka saka a kansa igiyar tekhelet, don a saka shi a kan rawanin daga sama, kamar yadda Yahweh ya umurci ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "saka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "igiyar"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "don a saka"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "rawanin"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "daga sama"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umurci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-12T01:41:31.191143849Z",
+  "model": "glm-5.2"
+}

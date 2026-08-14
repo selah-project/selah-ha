@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 45:13",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Kuma ku faɗa wa ubana ⟨את⟩ duka girma na a Mitsrayim, da ⟨את⟩ duka abin da kuka gani, ku gaggaura, ku sauka da ⟨את⟩ ubana zuwa nan.",
+  "tokens": [
+    {
+      "surface": "והגדתם",
+      "gloss": "ku faɗa"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "wa ubana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka girma na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "girmana"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "a Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "duka abin da kuka gani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "kuka gani"
+    },
+    {
+      "surface": "ומהרתם",
+      "gloss": "ku gaggaura"
+    },
+    {
+      "surface": "והורדתם",
+      "gloss": "ku sauka da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubana"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubana"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zuwa nan"
+    }
+  ],
+  "timestamp": "2026-08-12T00:22:00.400689436Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma Avraham ya tashi da sassafe zuwa wurin da ya tsaya a can ⟨a gaban⟩ ⟨את⟩ fuskar Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Kuma ya tashi da sassafe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "da safe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "wurin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ya tsaya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuskar"
+    },
+    {
+      "surface": "פני",
+      "gloss": "a gaban fuskar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T23:39:02.011431661Z",
+  "model": "glm-5.2"
+}

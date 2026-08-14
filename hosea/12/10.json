@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma ni, ni Yahweh, Elohim ka, tun daga ƙasar Mitsrayim; har yanzu zan mayar da ka zama cikin ayari, kamar kwanakin lokacin taro.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Kuma ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ka"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "tun daga ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "har yanzu"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "zan mayar da ka zama"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "cikin ayari"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kamar kwanakin"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "lokarin taro"
+    }
+  ],
+  "timestamp": "2026-08-12T18:16:51.073197847Z",
+  "model": "glm-5.2"
+}

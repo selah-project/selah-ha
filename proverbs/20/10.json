@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Dutse ⟨da⟩ dutse, efa ⟨da⟩ efa, abin ƙyama ne ga Yahweh, dukansu biyu.",
+  "tokens": [
+    {
+      "surface": "אֶ֣בֶן",
+      "gloss": "Dutse"
+    },
+    {
+      "surface": "וָ֭אֶבֶן",
+      "gloss": "⟨da⟩ dutse"
+    },
+    {
+      "surface": "אֵיפָ֣ה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "וְאֵיפָ֑ה",
+      "gloss": "⟨da⟩ efa"
+    },
+    {
+      "surface": "תּוֹעֲבַ֥ת",
+      "gloss": "abin ƙyama"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "dukansu"
+    },
+    {
+      "surface": "שְׁנֵיהֶֽם",
+      "gloss": "biyu"
+    }
+  ],
+  "timestamp": "2026-08-12T21:20:57.386500314Z",
+  "model": "glm-5.2"
+}

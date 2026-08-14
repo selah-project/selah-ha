@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Hasken ƙafafuwa ⟨ne⟩ kalmarka, da hasken hanyata.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "hasken ƙafafuwa"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "⟨an haɗa⟩"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "kalmarka"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "da hasken"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "hanyata"
+    }
+  ],
+  "timestamp": "2026-08-12T20:43:03.474064291Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Ta kuma ce wa uwargidanta, \"Ina so ubangijina ya kasance a gaban annabin da ke cikin Shomeron! Sa'an nan zai tsarkake shi daga malfarsa.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ta kuma ce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "uwargidanta"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "inã so"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ubangijina"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabín"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da ke"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "cikin Shomeron"
+    },
+    {
+      "surface": "אז",
+      "gloss": "sa'an nan"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "zai tsarkake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "daga malfarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:04:30.021225640Z",
+  "model": "glm-5.2"
+}

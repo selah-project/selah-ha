@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 9:1",
+  "book": "amos",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Na ga ⟨את⟩ Adonai tsaye a kan bagadin, kuma Ya ce: Duka babban kofa, kuma ƙofofin su su girgiza, kuma ka nutsu ⟨su⟩ a kan kan su duka, kuma na ƙarshe ⟨daga⟩ ⟨su⟩ da takobi zan kashe. Wanda ya gudu daga cikinsu ba zai gudu ba, kuma wanda ya tsere daga cikinsu ba za a tsira ba.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Na ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "tsaye"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bagadin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma Ya ce"
+    },
+    {
+      "surface": "הך",
+      "gloss": "Duka"
+    },
+    {
+      "surface": "הכפתור",
+      "gloss": "babban kofa"
+    },
+    {
+      "surface": "וירעשו",
+      "gloss": "kuma su girgiza"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "ƙofofin"
+    },
+    {
+      "surface": "ובצעם",
+      "gloss": "kuma ka nutsu"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "a kan kan"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "su duka"
+    },
+    {
+      "surface": "ואחריתם",
+      "gloss": "kuma na ƙarshe"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "da takobi"
+    },
+    {
+      "surface": "אהרג",
+      "gloss": "zan kashe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "zai gudu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "daga cikinsu"
+    },
+    {
+      "surface": "נס",
+      "gloss": "fita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "zai tsira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "daga cikinsu"
+    },
+    {
+      "surface": "פליט",
+      "gloss": "wanda ya tsere"
+    }
+  ],
+  "timestamp": "2026-08-12T18:29:35.098613619Z",
+  "model": "glm-5.2"
+}

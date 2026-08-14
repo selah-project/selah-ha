@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 27:42",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma aka gaya wa Ribka ⟨את⟩ kalmomin Esav ɗanta baban, sai ta aiko ta kira Yaakov ɗanta karamin, ta ce masa, \"Ga shi, Esav ɗan'uwanka yana neman mafarka a kanku, don ya kashe ka.\"",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Kuma aka gaya wa"
+    },
+    {
+      "surface": "לרבקה",
+      "gloss": "Ribka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalmomin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ɗanta"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "baban"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "sai ta aiko"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ta kira"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ɗanta"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "karamin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ta ce"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ga shi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ɗan'uwanka"
+    },
+    {
+      "surface": "מתנחם",
+      "gloss": "yana neman mafarka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a kanku"
+    },
+    {
+      "surface": "להרגך",
+      "gloss": "don ya kashe ka"
+    }
+  ],
+  "timestamp": "2026-08-11T23:52:27.734539282Z",
+  "model": "glm-5.2"
+}

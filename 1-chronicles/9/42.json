@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma Achaz ya haifa ⟨את⟩ Yarʼa, kuma Yarʼa ya haifa ⟨את⟩ Alemet da ⟨את⟩ Azmavet da ⟨את⟩ Zimri, kuma Zimri ya haifa ⟨את⟩ Motza.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Kuma Achaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarʼa"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Yarʼa"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "kuma Yarʼa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Azmavet"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Zimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "kuma Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Motza"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motza"
+    }
+  ],
+  "timestamp": "2026-08-13T00:07:44.807467973Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 130,
+  "translation": "rayuwata ⟨ga⟩ Adonai, daga masu tsaron dare ⟨suna neman⟩ asuba — masu tsaron dare ⟨suna neman⟩ asuba.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "rayuwata"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "⟨ga⟩ Adonai"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "daga masu tsaron dare"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "⟨suna neman⟩ asuba"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "masu tsaron dare"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "⟨suna neman⟩ asuba"
+    }
+  ],
+  "timestamp": "2026-08-13T02:27:37.884132192Z",
+  "model": "glm-5.2"
+}

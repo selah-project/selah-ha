@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Shin, El yana ɓata shari'a? Ko kuwa Shaddai yana ɓata adalci?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Shin, El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "yana ɓata"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "shari'a"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ko kuwa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "yana ɓata"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adalci"
+    }
+  ],
+  "timestamp": "2026-08-12T21:45:22.639509330Z",
+  "model": "glm-5.2"
+}

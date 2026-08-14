@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "A can suna jin tsoro babban tsoro, domin Elohim yana cikin ƙarni na masu adalci.",
+  "tokens": [
+    {
+      "surface": "שָׁ֤ם",
+      "gloss": "A can"
+    },
+    {
+      "surface": "פָּ֣חֲדוּ",
+      "gloss": "suna jin tsoro"
+    },
+    {
+      "surface": "פָ֑חַד",
+      "gloss": "babban tsoro"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אֱ֝לֹהִ֗ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בְּד֣וֹר",
+      "gloss": "yana cikin ƙarni"
+    },
+    {
+      "surface": "צַדִּֽיק",
+      "gloss": "na masu adalci"
+    }
+  ],
+  "timestamp": "2026-08-12T19:20:33.711438147Z",
+  "model": "glm-5.2"
+}

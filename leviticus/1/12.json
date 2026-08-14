@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "kuma ya tsaga ⟨shin⟩ zuwa guntansa, da ⟨את⟩ kansa da ⟨את⟩ kitse tasa, kuma kohen ya shirya ⟨su⟩ a kan itacen da ke a kan wutar da ke a kan ⟨altar ɗin⟩.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "kuma ya tsaga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨shin⟩",
+      "marks": "shin (dabbar hadayar)"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "zuwa guntansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kansa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "kitse tasa"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "kitse tasa"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "kuma ya shirya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨su⟩",
+      "marks": "su (guntan, kai, kitse)"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "itacen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da ke"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "האש",
+      "gloss": "wutar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da ke"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar ɗin"
+    }
+  ],
+  "timestamp": "2026-08-12T01:45:05.936808233Z",
+  "model": "glm-5.2"
+}

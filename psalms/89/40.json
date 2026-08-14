@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Ka soke alkawarin bāranka, ka ɓata tsawonsa a ƙasa.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "ka soke"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alkawarin"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bāranka"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "ka ɓata"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "a ƙasa"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "tsawonsa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:15:46.723814821Z",
+  "model": "glm-5.2"
+}

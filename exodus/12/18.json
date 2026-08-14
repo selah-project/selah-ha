@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 12:18",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "A cikin ⟨watan⟩ na farko, a ran goma sha huɗu na watan, da yamma, kuna cin burodi marasa yisti, har zuwa ran ashirin da ɗaya na watan, da yamma.",
+  "tokens": [
+    {
+      "surface": "בראשן",
+      "gloss": "A cikin na farko"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "a cikin huɗu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "goma"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ran"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "na watan"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "da yamma"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kuna cin"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "burodi marasa yisti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ran"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ashirin da"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "na watan"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "da yamma"
+    }
+  ],
+  "timestamp": "2026-08-13T01:45:53.394380742Z",
+  "model": "glm-5.2"
+}

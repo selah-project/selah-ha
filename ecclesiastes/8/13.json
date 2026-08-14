@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma ⟨babu⟩ kyauta ga mugun, kuma ba zai tsawaita kwanaki kamar inuwa ba, wanda ba ya tsoron ⟨tun daga⟩ gaban Elohim.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "kuma kyauta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zai kasance"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ga mugun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "zai tsawaita"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwanaki"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "kamar inuwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ba shi"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "tsoron"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T22:50:16.566528458Z",
+  "model": "glm-5.2"
+}

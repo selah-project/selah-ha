@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Hanãna ta ta amsa kalmarka, dõmin dukan umurninka adalci ⟨ne⟩.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "ta amsa"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "Hanãna ta"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "kalmarka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dõmin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "umurninka"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adalci"
+    }
+  ],
+  "timestamp": "2026-08-12T20:44:26.659933365Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Ku zo, ku ci ⟨a cikin⟩ buroshina, kuma ku sha giya da na gauraya.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Ku zo"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "ku ci"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "⟨a cikin⟩ buroshina"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "kuma ku sha"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "giya"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "da na gauraya"
+    }
+  ],
+  "timestamp": "2026-08-12T21:09:28.045631084Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Kuma ku yi auratayya da mu, ⟨את⟩ mu — 'ya'yanku mata ku ba mu, kuma ⟨את⟩ 'ya'yanmu mata ku ɗauki ku.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "kuma ku yi auratayya"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "mu"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "'ya'yanku mata"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ku ba"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "'ya'yanmu mata"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "'ya'yanmu mata"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ku ɗauka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-08-12T00:02:58.662821924Z",
+  "model": "glm-5.2"
+}

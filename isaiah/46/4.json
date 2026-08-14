@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 46,
+  "translation": "Kuma har zuwa tsufa ni ⟨ne⟩ shima, kuma har zuwa farin gashi ni zan ɗauka; ni na yi, kuma ni zan ɗauka, kuma ni zan ɗauka, kuma ni zan tsallaka.",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "kuma har zuwa"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "tsufa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shima"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kuma har zuwa"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "farin gashi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "zan ɗauka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "na yi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "zan ɗauka"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "zan ɗauka"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "kuma ni zan tsallaka"
+    }
+  ],
+  "timestamp": "2026-08-12T14:13:38.216379248Z",
+  "model": "glm-5.2"
+}

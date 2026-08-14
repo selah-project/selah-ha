@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 11:3",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma suka ce, mutum ɗaya ga wajensa: Ku zo, mu buɗe tubali, mu ƙone su sosai. Kuma tubal ya zama musu duwatsu, kuma ƙafanya ta kasance musu lenti.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Kuma suka ce"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "wajensa"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "Ku zo"
+    },
+    {
+      "surface": "נלבנה",
+      "gloss": "mu buɗe tubali"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "su"
+    },
+    {
+      "surface": "ונשרפה",
+      "gloss": "mu ƙone"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "Kuma ta kasance"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "הלבנה",
+      "gloss": "tubal"
+    },
+    {
+      "surface": "לאבן",
+      "gloss": "duwatsu"
+    },
+    {
+      "surface": "והחמר",
+      "gloss": "kuma ƙafanya"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ta kasance"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "לחמר",
+      "gloss": "lenti"
+    }
+  ],
+  "timestamp": "2026-08-11T23:31:37.265584243Z",
+  "model": "glm-5.2"
+}

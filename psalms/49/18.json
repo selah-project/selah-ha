@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 49,
+  "translation": "domin ba a cikin mutuwarsa ⟨za⟩ ya ɗauki komai; ba za ta sauka bayansa ba ɗaukakarsa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "a cikin mutuwarsa"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "za ya ɗauki"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "komai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "za ta sauka"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "bayansa"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ɗaukakarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:48:18.970128129Z",
+  "model": "glm-5.2"
+}

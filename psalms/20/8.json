@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "⟨Wasu⟩ suna dogaro da motocin yaki, ⟨kuma⟩ ⟨wasu⟩ suna dogaro da dawakai, amma mu muna tunatar da sunan Yahweh Elohim mu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "wasu"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "suna dogaro da motocin yaki"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "kuma wasu"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "suna dogaro da dawakai"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "amma mu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "muna tunatar da sunan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:26:51.438934994Z",
+  "model": "glm-5.2"
+}

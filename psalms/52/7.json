@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 52,
+  "translation": "Haka kuma El zai rushe ka har abada, zai kama ka, ya tsire ka daga tanti, kuma ya tona tushen ka daga ƙasar masu rai. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Haka kuma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "zai rushe ka"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "zai kama ka"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "ya tsire ka"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "daga tanti"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "ya tona tushen ka"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "masu rai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T19:51:19.176429967Z",
+  "model": "glm-5.2"
+}

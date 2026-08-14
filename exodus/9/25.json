@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma gobarar hagari ta buge duka ƙasar Mitsrayim ⟨את⟩ duka abin da yake a cikin gona, daga mutum har zuwa dabba; kuma ⟨את⟩ duka ciyawa ta gona gobarar hagari ta buge, kuma ⟨את⟩ duka itacen gona ta ƙasƙare.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "kuma ya buge"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "gobarar hagari"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a duka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a cikin gona"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "daga mutum"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "dabba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "duka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ciyawa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ta gona"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ta buge"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "gobarar hagari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "duka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "itacen"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "gona"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ta ƙasƙare"
+    }
+  ],
+  "timestamp": "2026-08-12T00:39:44.740529841Z",
+  "model": "glm-5.2"
+}

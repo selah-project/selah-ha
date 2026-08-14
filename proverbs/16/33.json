@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "A cikinuya ana jefa ⟨את⟩ kuri'an, amma daga Yahweh ⟨ne⟩ dukkan hukuncinsa.",
+  "tokens": [
+    {
+      "surface": "בַּ֭חֵיק",
+      "gloss": "a cikinuya"
+    },
+    {
+      "surface": "יוּטַ֣ל",
+      "gloss": "ana jefa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kuri'an"
+    },
+    {
+      "surface": "הַגּוֹרָ֑ל",
+      "gloss": "kuri'an"
+    },
+    {
+      "surface": "וּ֝מֵיְהוָ֗ה",
+      "gloss": "amma daga Yahweh"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "מִשְׁפָּטֽוֹ",
+      "gloss": "hukuncinsa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:29:11.583624Z",
+  "model": "glm-5.2"
+}

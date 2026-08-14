@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Kuma Yahweh ya yi magana da Aharon, yana cewa:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kuma ya yi magana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:04:58.488874944Z",
+  "model": "glm-5.2"
+}

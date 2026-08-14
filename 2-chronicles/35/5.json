@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 35:5",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Kuma ku tsaya a cikin tsattsarkan wuri a cikin ƙungiyoyin gidajen ubanni don ga 'yan'uwanku, ɗiyen jama'a, da kuma sashe na gida na uba ga ⟨mazaunan⟩ Lewiyawa.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "kuma ku tsaya"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "a cikin tsattsarkan wuri"
+    },
+    {
+      "surface": "לפלגות",
+      "gloss": "a cikin ƙungiyoyin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidajen"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ubanna"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "don ga 'yan'uwanku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jama'a"
+    },
+    {
+      "surface": "וחלקת",
+      "gloss": "da kuma sashe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "na gida"
+    },
+    {
+      "surface": "אב",
+      "gloss": "na uba"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ga Lewiyawa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:59:50.196653290Z",
+  "model": "glm-5.2"
+}

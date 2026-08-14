@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Duk ⟨koɗaya⟩ koguna suna tafiya zuwa ⟨ta⟩ teku, kuma ⟨ta⟩ teku ba ⟨ta⟩ cika ba; zuwa wajen da ⟨koɗaya⟩ koguna suke tafiya, canne su ⟨suna⟩ komawa ⟨don⟩ tafiya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "koguna"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "suna tafiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "tekun"
+    },
+    {
+      "surface": "והים",
+      "gloss": "kuma tekun"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ba ⟨ta⟩"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "cika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "wajen"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "da koguna"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "suke tafiya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "canne"
+    },
+    {
+      "surface": "הם",
+      "gloss": "su"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "⟨suna⟩ komawa"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "⟨don⟩ tafiya"
+    }
+  ],
+  "timestamp": "2026-08-12T22:41:51.962400142Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Daga bakin yara kanana da shan nono ka kafa ƙarfi, saboda adawarka, don ka shirya maƙiyi da mai rama!",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "Daga bakin"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "yara kanana"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "da shan nono"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "ka kafa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ƙarfi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "adawarka"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "don ka shirya"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "maƙiyi"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "da mai rama"
+    }
+  ],
+  "timestamp": "2026-08-13T02:22:45.532994574Z",
+  "model": "glm-5.2"
+}

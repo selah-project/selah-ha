@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 111,
+  "translation": "Suna ɗaukar nauyi har abada, har har abada; ana yin su cikin gaskiya da daidaito.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "Suna ɗaukar nauyi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har har abada"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "ana yin su"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "cikin gaskiya"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "da daidaito"
+    }
+  ],
+  "timestamp": "2026-08-12T20:36:27.647060190Z",
+  "model": "glm-5.2"
+}

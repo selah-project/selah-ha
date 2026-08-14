@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 135,
+  "translation": "Domin ni na san cewa Yahweh yana da girma, kuma Adonainu ⟨yake⟩ sama da duka elohim.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אֲנִ֣י",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יָ֭דַעְתִּי",
+      "gloss": "na san"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "גָד֣וֹל",
+      "gloss": "yana da girma"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וַ֝אֲדֹנֵ֗ינוּ",
+      "gloss": "kuma Adonainu"
+    },
+    {
+      "surface": "מִכָּל",
+      "gloss": "sama da duka"
+    },
+    {
+      "surface": "אֱלֹהִֽים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T20:51:45.878017159Z",
+  "model": "glm-5.2"
+}

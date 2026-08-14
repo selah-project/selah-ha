@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Dukan aikin mutum ⟨yake⟩ don bakĩsa, kuma rai ba ya cikewa.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "עֲמַ֥ל",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "הָאָדָ֖ם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "לְפִ֑יהוּ",
+      "gloss": "don bakĩsa"
+    },
+    {
+      "surface": "וְגַם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "הַנֶּ֖פֶשׁ",
+      "gloss": "rai"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תִמָּלֵֽא",
+      "gloss": "ya cikewa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:47:26.887374730Z",
+  "model": "glm-5.2"
+}

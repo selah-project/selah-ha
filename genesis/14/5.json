@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 14:5",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma a cikin shekara ta goma sha huɗu, Kedarlaʿomer ya zo, da sarakunan da ⟨את⟩ ⟨suke⟩ tare da shi, sukaka wa ⟨את⟩ Refa'im a Ashtarot־Karnayim, da ⟨את⟩ Zuzim a Ham, da ⟨את⟩ Emim a Shaweh Qiryatayim.",
+  "tokens": [
+    {
+      "surface": "ובארבע",
+      "gloss": "Kuma a cikin shekara ta goma sha huɗu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "goma sha huɗu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ya zo"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedarlaʿomer"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "da sarakunan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨suke⟩ tare da shi"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "sukaka wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Refa'im"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refa'im"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "a Ashtarot־"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "Karnayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Zuzim"
+    },
+    {
+      "surface": "הזוזים",
+      "gloss": "Zuzim"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "a Ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Emim"
+    },
+    {
+      "surface": "האימים",
+      "gloss": "Emim"
+    },
+    {
+      "surface": "בשוה",
+      "gloss": "a Shaweh"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Qiryatayim"
+    }
+  ],
+  "timestamp": "2026-08-13T03:01:29.721091865Z",
+  "model": "glm-5.2"
+}

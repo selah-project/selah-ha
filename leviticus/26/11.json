@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma Zan sa mazaunina cikinku, kuma ba zan ƙi ⟨nufsi⟩ ⟨את⟩ ku ba.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Kuma Zan sa"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "mazaunina"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "cikinku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba zan ƙi"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "ɓata"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨nufsi⟩"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku",
+      "marks": "ku"
+    }
+  ],
+  "timestamp": "2026-08-12T02:57:54.646764789Z",
+  "model": "glm-5.2"
+}

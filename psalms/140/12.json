@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 140,
+  "translation": "Mutumin harshe, ba zai tabbatar ba a ƙasa; mutumin tashin hankali, mugunta za ta farautar shi ⟨har⟩ a kori ⟨shi⟩.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Mutumin"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "harshe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba zai"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "tabbatar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tashin hankali"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mugunta"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "za ta farautar shi"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "⟨har⟩ a kori ⟨shi⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:53:39.718634407Z",
+  "model": "glm-5.2"
+}

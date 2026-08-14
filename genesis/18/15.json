@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma Sarah ta ƙaryata, tana cewa, Ba na from ciki ba; gama tana ji tsoro. Kuma ⟨shi⟩ ya faɗa, A'a, lalle ⟨kai⟩ ka yi from ciki.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "Kuma ta ƙaryata"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tana cewa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "na yi from ciki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gama"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "tana ji tsoro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya faɗa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "A'a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lalle"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "ka yi from ciki"
+    }
+  ],
+  "timestamp": "2026-08-11T23:36:10.242116793Z",
+  "model": "glm-5.2"
+}

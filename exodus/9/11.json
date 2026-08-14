@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 9:11",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma ba su iya tsayawa ba masu yin sihiri gaban Moshe saboda ciwon, domin ciwon ya kasance a cikin masu yin sihiri da kuma a cikin dukan Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "suka iya"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "masu yin sihiri"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "tsayawa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "ciwon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "ciwon"
+    },
+    {
+      "surface": "בחרטמם",
+      "gloss": "a cikin masu yin sihiri"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "da kuma a cikin dukan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:38:26.386747147Z",
+  "model": "glm-5.2"
+}

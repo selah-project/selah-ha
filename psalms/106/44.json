@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Amma Ya duba cikin damuwarsu, a lokacin da Ji ⟨את⟩ kurumlar su.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Amma Ya duba"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "cikin damuwarsu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨su⟩"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "a lokacin da Ji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurumlar su"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "kurumlar su"
+    }
+  ],
+  "timestamp": "2026-08-12T20:31:22.207642564Z",
+  "model": "glm-5.2"
+}

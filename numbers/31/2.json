@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "“Ka rama ramuwar fara'ar banan Yisra'el daga ⟨את⟩ Midyanawa; daga baya za a tura ka zuwa ga mutanenka.”",
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "Ka rama"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "ramuwar fara'ar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "banan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Midyanawa"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "Midyanawa"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "daga baya"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "za a tura ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "mutanenka"
+    }
+  ],
+  "timestamp": "2026-08-13T01:52:52.056377088Z",
+  "model": "glm-5.2"
+}

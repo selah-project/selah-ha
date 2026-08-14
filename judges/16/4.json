@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 16:4",
+  "book": "judges",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma ⟨a haka⟩ ya faru a baya ⟨cewa⟩ ya ƙaunaci mace a cikin kwaryar Soreq, sunanta Delilah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ⟨a haka⟩ ya faru"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "a baya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨cewa⟩"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "ya ƙaunaci"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mace"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "a cikin kwaryar"
+    },
+    {
+      "surface": "שרק",
+      "gloss": "Soreq"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "sunanta"
+    },
+    {
+      "surface": "דלילה",
+      "gloss": "Delilah"
+    }
+  ],
+  "timestamp": "2026-08-12T08:04:00.171771544Z",
+  "model": "glm-5.2"
+}

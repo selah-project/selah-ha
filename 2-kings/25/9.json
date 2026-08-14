@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma ya ƙone ⟨את⟩ gidan Yahweh da ⟨את⟩ gidan sarki, da ⟨את⟩ dukkan gidajen Yerushalaim, da ⟨את⟩ kowane babban gida, ya ƙone ⟨da⟩ wuta.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "kuma ya ƙone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukka"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "gidajen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kowane"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gida"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "babba"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ya ƙone"
+    },
+    {
+      "surface": "באש",
+      "gloss": "wuta"
+    }
+  ],
+  "timestamp": "2026-08-13T02:06:07.866183682Z",
+  "model": "glm-5.2"
+}

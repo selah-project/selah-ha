@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 73,
+  "translation": "Suna yi wa izgili, kuma suna magana da mugunyar danniya, daga sama suna magana.",
+  "tokens": [
+    {
+      "surface": "יָמִ֤יקוּ",
+      "gloss": "Suna yi wa izgili"
+    },
+    {
+      "surface": "וִידַבְּר֣וּ",
+      "gloss": "kuma suna magana"
+    },
+    {
+      "surface": "בְרָ֣ע",
+      "gloss": "da mugunyar"
+    },
+    {
+      "surface": "עֹ֑שֶׁק",
+      "gloss": "danniya"
+    },
+    {
+      "surface": "מִמָּר֥וֹם",
+      "gloss": "daga sama"
+    },
+    {
+      "surface": "יְדַבֵּֽרוּ",
+      "gloss": "suna magana"
+    }
+  ],
+  "timestamp": "2026-08-12T20:06:10.776687991Z",
+  "model": "glm-5.2"
+}

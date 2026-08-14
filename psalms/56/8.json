@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 56,
+  "translation": "Don laifuffka, ku 'yantar da su? A cikin fushinka, sa ƙasashen ƙasashe su faɗi, ya Elohim!",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Don"
+    },
+    {
+      "surface": "און",
+      "gloss": "laifuffka"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ku 'yantar da su"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨su⟩"
+    },
+    {
+      "surface": "באף",
+      "gloss": "A cikin fushinka"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ƙasashen ƙasashe"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "sa ... su faɗi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    }
+  ],
+  "timestamp": "2026-08-13T02:26:04.306464854Z",
+  "model": "glm-5.2"
+}

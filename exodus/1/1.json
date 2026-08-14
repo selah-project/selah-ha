@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma waɗannan sunayen ɗiyan Yisra'el, masu zuwa Mitsrayim, ⟨ne⟩; ⟨את⟩ Ya'akuɓ, kowane mutum da gidansa, sun zo.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kuma waɗannan"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sunayen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "masu zuwa"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ya'akuɓ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akuɓ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kowane mutum"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "da gidansa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sun zo"
+    }
+  ],
+  "timestamp": "2026-08-12T00:30:06.058193191Z",
+  "model": "glm-5.2"
+}

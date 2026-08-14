@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "An wuce girbi, an ƙare bazara, kuma mu ba a tsirmu.",
+  "tokens": [
+    {
+      "surface": "עָבַר",
+      "gloss": "An wuce"
+    },
+    {
+      "surface": "קָצִיר",
+      "gloss": "girbi"
+    },
+    {
+      "surface": "כָּלָה",
+      "gloss": "an ƙare"
+    },
+    {
+      "surface": "קַיִץ",
+      "gloss": "bazara"
+    },
+    {
+      "surface": "וַאֲנַחְנוּ",
+      "gloss": "kuma mu"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נוֹשָׁעְנוּ",
+      "gloss": "a tsirmu"
+    }
+  ],
+  "timestamp": "2026-08-12T15:14:07.568690993Z",
+  "model": "glm-5.2"
+}

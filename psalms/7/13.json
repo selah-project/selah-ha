@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Idan ⟨bã⟩ ya kōma, shĩ yanke kaifar takobinsa; bābinsa ya daɗe, ⟨kuma⟩ ya shirya shi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bã"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ya kōma"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "takobinsa"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "yanke kaifar"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "bābinsa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ya daɗe"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "ya shirya shi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:14:26.990175199Z",
+  "model": "glm-5.2"
+}

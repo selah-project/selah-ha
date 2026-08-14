@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 103,
+  "translation": "Ku gaisa Yahweh, dukkan ayyukansa, a dukkan wuraren mulkinsa; raina, ka gaisa ⟨את⟩ Yahweh!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Ku gaisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ayyukansa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "a dukkan"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "wuraren"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "mulkinsa"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "ka gaisa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "raina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T20:24:53.253105589Z",
+  "model": "glm-5.2"
+}

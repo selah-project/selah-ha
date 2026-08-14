@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Tana tattara abincinta a rani, tana ajiye shitu a lokacin girbi, ⟨don⟩ abincinta.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "tana tattara"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "a rani"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "abincinta"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "tana ajiye ⟨shitu⟩"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "a lokacin girbi"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "abincinta"
+    }
+  ],
+  "timestamp": "2026-08-12T21:06:54.404353061Z",
+  "model": "glm-5.2"
+}

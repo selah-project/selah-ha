@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 89,
+  "translation": "Idan ɗiyansa suka watsi ⟨da⟩ torah na, kuma a cikin ɗokokina ba su tafi ⟨ba⟩,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "suka watsi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɗiyansa"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "torah na"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "kuma a cikin ɗokokina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "su tafi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:18:22.918594502Z",
+  "model": "glm-5.2"
+}

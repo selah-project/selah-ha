@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Sai Hatak ya zo, ya faɗa wa Ester ⟨את⟩ kalamomin Mordekai.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "sai ya zo"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatak"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "wa Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalamomin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalamomin"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    }
+  ],
+  "timestamp": "2026-08-12T22:51:43.609356970Z",
+  "model": "glm-5.2"
+}

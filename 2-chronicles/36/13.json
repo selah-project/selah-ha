@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 36:13",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Kuma ⟨shi⟩ ma a kan sarkin Nebukadnetstsar ya tada tawaye, wanda ya rantsar da shi a cikin Elohim, ⟨amma⟩ ya yi wuya ⟨ga⟩ wuyansa, kuma ya ƙarfafa zuciyasa, ⟨don kada⟩ ya koma zuwa Yahweh, Elohin Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kuma ma"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "a kan sarkin"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnetstsar"
+    },
+    {
+      "surface": "מרד",
+      "gloss": "ya tada tawaye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "השביעו",
+      "gloss": "ya rantsar da shi"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "a cikin Elohim"
+    },
+    {
+      "surface": "ויקש",
+      "gloss": "ya yi wuya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuyansa"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "wuyansa"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "kuma ya ƙarfafa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuciyasa"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "zuciyasa"
+    },
+    {
+      "surface": "משוב",
+      "gloss": "don kada ya koma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-13T03:13:14.671850678Z",
+  "model": "glm-5.2"
+}

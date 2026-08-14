@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Sai Ester ta faɗa wa Hatak, ta umurce shi ⟨a ce⟩ ga Mordekai:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ta faɗa"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "wa Hatak"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "ta umurce shi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a ce⟩ ga"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    }
+  ],
+  "timestamp": "2026-08-12T22:51:43.609567896Z",
+  "model": "glm-5.2"
+}

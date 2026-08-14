@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Efrayim — kamar tsuntsu za su tashi girmankansu; ba haihuwa ba, kuma ba ciki ba, kuma ba ciki dauke da ciki ba!",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "kamar tsuntsu"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "za su tashi"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "girmankansu"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "ba haihuwa ba"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "kuma ba ciki ba"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "kuma ba ciki dauke da ciki ba"
+    }
+  ],
+  "timestamp": "2026-08-13T02:20:57.505818061Z",
+  "model": "glm-5.2"
+}

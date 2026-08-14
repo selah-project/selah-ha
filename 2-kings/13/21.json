@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 13:21",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma ⟨ya faru⟩ ⟨da⟩ su suna binne mutum, sai gani, sun ga ⟨את⟩ ƙungiyar mahara, suka jefa ⟨את⟩ mutumin cikin kabarin Elisha, sai ya tafi ya dawo, mutumin ya taɓa ƙashin Elisha, ya rayu, ya tashi a ƙafafunsa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ⟨ya faru⟩"
+    },
+    {
+      "surface": "הם",
+      "gloss": "su"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "suna binne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sai gani"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "sun ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙungiyar mahara"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "ƙungiyar mahara"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "suka jefa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutumin"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "cikin kabarin"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "sai ya tafi"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "ya dawo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "בעצמות",
+      "gloss": "ya taɓa ƙashin"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "ya rayu"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ya tishi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ƙafafunsa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:22:43.592108917Z",
+  "model": "glm-5.2"
+}

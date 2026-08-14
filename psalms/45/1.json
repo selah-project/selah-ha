@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Ga shugaban mawaƙa, akan Shoshannim; ga ɗiyen Korach; maskil; waƙar ƙauna.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ga shugaban mawaƙa"
+    },
+    {
+      "surface": "על",
+      "gloss": "akan"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ga ɗiyen"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "waƙar"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "ƙauna"
+    }
+  ],
+  "timestamp": "2026-08-13T03:08:18.453227833Z",
+  "model": "glm-5.2"
+}

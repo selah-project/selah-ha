@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Duk cikin garuruwan filayen, da duk Gil'ad, da duk Bashan, har zuwa Salchah da Edre'i, garuruwan masarautar Og a Bashan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Duk"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "garuruwan"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "filayen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da duk"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da duk"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salchah"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "da Edre'i"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "garuruwan"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "masarautar"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "a Bashan"
+    }
+  ],
+  "timestamp": "2026-08-12T04:55:53.631247015Z",
+  "model": "glm-5.2"
+}

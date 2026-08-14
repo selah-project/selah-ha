@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 54,
+  "translation": "Elohim, ka ji addu'ata, ka bã kunãfãnu ga kalmomin bakina.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ka ji"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "addu'ata"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ka bã kunãfãnu"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ga kalmomin"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bakina"
+    }
+  ],
+  "timestamp": "2026-08-12T19:49:00.522044478Z",
+  "model": "glm-5.2"
+}

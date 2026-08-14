@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma Mosheh ya yiwa ⟨את⟩ al'umma umarni a rãn ⟨ta⟩ wancan, ⟨cewa⟩:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "kuma ya yiwa umarni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al'umma"
+    },
+    {
+      "surface": "העם",
+      "gloss": "al'umma"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rãn"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wancan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "cewa"
+    }
+  ],
+  "timestamp": "2026-08-12T05:41:02.151845840Z",
+  "model": "glm-5.2"
+}

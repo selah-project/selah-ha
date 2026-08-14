@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dimnah da ⟨את⟩ makiyayinta, ⟨את⟩ Nahalal da ⟨את⟩ makiyayinta, garuruwa huɗu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dimnah"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "Dimnah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "makiyayinta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "makiyayinta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahalal"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "makiyayinta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "makiyayinta"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "garuruwa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "huɗu"
+    }
+  ],
+  "timestamp": "2026-08-12T07:03:04.304363485Z",
+  "model": "glm-5.2"
+}

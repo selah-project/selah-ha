@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Shem ya rayu bayan haifar da ⟨את⟩ Arpakshad shekaru ɗari biyar, ya haifa ɗa da ƴƴa.",
+  "tokens": [
+    {
+      "surface": "וַֽיְחִי",
+      "gloss": "kuma ya rayu"
+    },
+    {
+      "surface": "שֵׁם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "אַחֲרֵי",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "הוֹלִידוֹ",
+      "gloss": "haifar da"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakshad"
+    },
+    {
+      "surface": "אַרְפַּכְשָׁד",
+      "gloss": "Arpakshad"
+    },
+    {
+      "surface": "חֲמֵשׁ",
+      "gloss": "biyar"
+    },
+    {
+      "surface": "מֵאוֹת",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "שָׁנָה",
+      "gloss": "shekaru"
+    },
+    {
+      "surface": "וַיּוֹלֶד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "בָּנִים",
+      "gloss": "ɗa"
+    },
+    {
+      "surface": "וּבָנֽוֹת",
+      "gloss": "kuma ƴƴa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:29:52.571199529Z",
+  "model": "glm-5.2"
+}

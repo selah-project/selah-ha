@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 2:25",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "'Ya'yan Qiryat־Arim, Kefirah, da Be'erot, ɗari bakwai da arba'in da uku.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "'Ya'yan"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "Arim"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "Kefirah"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "da Be'erot"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bakwai"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ɗari"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "da arba'in"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "da uku"
+    }
+  ],
+  "timestamp": "2026-08-13T02:36:36.930306072Z",
+  "model": "glm-5.2"
+}

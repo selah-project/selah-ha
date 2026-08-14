@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 9:5",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Sai suka yi ⟨את⟩ abin da Moshe ya umarta, zuwa gaban Ɓatan Taro, sai duka taron suka kusanta suka tsaya a gaban Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "sukaɗau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin da Moshe ya umarta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umarta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "gaban"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ɓan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Taro"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "suka kusanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "taron"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "suka tsaya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T02:01:27.076157032Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "An sanya wãya a cikin manyan wuraren girma, waɗannan su ma da yawa, kuma masu arziki a cikin ƙasƙanci suna zaune.",
+  "tokens": [
+    {
+      "surface": "נִתַּ֣ן",
+      "gloss": "an sanya"
+    },
+    {
+      "surface": "הַסֶּ֔כֶל",
+      "gloss": "wãya"
+    },
+    {
+      "surface": "בַּמְּרוֹמִ֖ים",
+      "gloss": "a cikin manyan wurare"
+    },
+    {
+      "surface": "רַבִּ֑ים",
+      "gloss": "masu yawa"
+    },
+    {
+      "surface": "וַעֲשִׁירִ֖ים",
+      "gloss": "kuma masu arziki"
+    },
+    {
+      "surface": "בַּשֵּׁ֥פֶל",
+      "gloss": "a cikin ƙasƙanci"
+    },
+    {
+      "surface": "יֵשֵֽׁבוּ",
+      "gloss": "suna zaune"
+    }
+  ],
+  "timestamp": "2026-08-12T22:45:32.399041266Z",
+  "model": "glm-5.2"
+}

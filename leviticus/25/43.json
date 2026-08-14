@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 25:43",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "kada ka bauta shi da tauri, amma ka tsārata daga Elohim ka.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תִרְדֶּ֥ה",
+      "gloss": "ka bauta"
+    },
+    {
+      "surface": "ב֖וֹ",
+      "gloss": "shi"
+    },
+    {
+      "surface": "בְּפָ֑רֶךְ",
+      "gloss": "da tauri"
+    },
+    {
+      "surface": "וְיָרֵ֖אתָ",
+      "gloss": "amma ka tsārata"
+    },
+    {
+      "surface": "מֵאֱלֹהֶֽיךָ",
+      "gloss": "daga Elohim ka"
+    }
+  ],
+  "timestamp": "2026-08-12T02:54:43.565981647Z",
+  "model": "glm-5.2"
+}

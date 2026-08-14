@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Yi gaggawa don taimako na, Adonai, ceton ni.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "Yi gaggawa"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "don taimako na"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "ceton ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:39:50.051926427Z",
+  "model": "glm-5.2"
+}

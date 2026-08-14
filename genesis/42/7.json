@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Kuma Yusufu ya ga ⟨את⟩ ɗan'uwansa, sai ya gane su, ya kuma nuna musu a bãɓe, ya yi musu magana da tauri, ya ce musu, 'Daga ina kuke zuwa?' Kuma suka ce, 'Daga ƙasar Kena'an, don sayen abinci.'",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Kuma ya ga"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusufu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗan'uwansa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ɗan'uwansa"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "sai ya gane su"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "ya kuma nuna musu a bãɓe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "gare su"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ya yi musu magana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "da tauri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "Daga ina"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "kuke zuwa"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Kuma suka ce"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "Daga ƙasar"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "don sayen"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "abinci"
+    }
+  ],
+  "timestamp": "2026-08-12T00:15:10.287175643Z",
+  "model": "glm-5.2"
+}

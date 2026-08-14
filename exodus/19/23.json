@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 19:23",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma Mosheh ya ce wa Yahweh: \"Mutanen ba za su iya hawa zuwa Dutsen Sinǎi ba, domin Kai ka shaida a gare mu, ka ce: 'Ka ƙayyade ⟨את⟩ dutsen, ka tsarkake shi.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "za su iya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Mutanen"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Dutsen"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinǎi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "העדתה",
+      "gloss": "ka shaida"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a gare mu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka ce"
+    },
+    {
+      "surface": "הגבל",
+      "gloss": "Ka ƙayyade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dutsen"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "dutsen"
+    },
+    {
+      "surface": "וקדשתו",
+      "gloss": "ka tsarkake shi"
+    }
+  ],
+  "timestamp": "2026-08-12T00:53:23.513038833Z",
+  "model": "glm-5.2"
+}

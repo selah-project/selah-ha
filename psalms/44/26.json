@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Dõmin rãyanmu ta yi ƙasa a wajen ƙura, cikiyarmu ta manne a ƙasa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dõmin"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "ta yi ƙasa"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "a wajen ƙura"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "rãyanmu"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "ta manne"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "a ƙasa"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "cikiyarmu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:44:26.414827504Z",
+  "model": "glm-5.2"
+}

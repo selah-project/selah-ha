@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma ƙasa ba ta iya ɗaukar ⟨su⟩ su zauna tare, domin dukiyarsu ta yawaita, kuma ba su iya zama tare.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kuma ba"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ta iya ɗaukar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasa (su)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "su zauna"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "dukiyarsu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ta yawaita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "su iya"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "zama"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tare"
+    }
+  ],
+  "timestamp": "2026-08-11T23:32:51.081827216Z",
+  "model": "glm-5.2"
+}

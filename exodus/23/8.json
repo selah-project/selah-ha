@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma cin hancikka kada ka karɓa, domin cin hancikka yana hurlantar da masu basira, kuma yana lalata maganganun masu adalci.",
+  "tokens": [
+    {
+      "surface": "וְשֹׁ֖חַד",
+      "gloss": "Kuma cin hancikka"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תִקָּ֑ח",
+      "gloss": "ka karɓa"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הַשֹּׁ֨חַד֙",
+      "gloss": "cin hancikka"
+    },
+    {
+      "surface": "יְעַוֵּ֣ר",
+      "gloss": "yana hurlantar da"
+    },
+    {
+      "surface": "פִּקְחִ֔ים",
+      "gloss": "masu basira"
+    },
+    {
+      "surface": "וִֽיסַלֵּ֖ף",
+      "gloss": "kuma yana lalata"
+    },
+    {
+      "surface": "דִּבְרֵ֥י",
+      "gloss": "maganganun"
+    },
+    {
+      "surface": "צַדִּיקִֽים",
+      "gloss": "masu adalci"
+    }
+  ],
+  "timestamp": "2026-08-12T00:58:51.128075779Z",
+  "model": "glm-5.2"
+}

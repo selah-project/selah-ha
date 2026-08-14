@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Shin zaki za ta yi kara a cikin daji, idan ba shi da ⟨abin⟩ ganima? Shin za su yi kagara daga cikin ɗakinsa, idan ba ya kama ⟨komai⟩ ba?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "za ta yi kara"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "zaki"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "a cikin daji"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "idan ba shi da ⟨abin⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "za su yi"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "kagara"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "kuka daga"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "cikin ɗakinsa"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "idan ba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "kama"
+    }
+  ],
+  "timestamp": "2026-08-12T18:26:51.342262991Z",
+  "model": "glm-5.2"
+}

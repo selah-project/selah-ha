@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "A cikin hannunka na mika rũhiyata; Kai ka fanshi ⟨את⟩ ni, Yahweh, El na gaskiya.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "A cikin hannunka"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "na mika"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "rũhiyata"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "Ka fanshi"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "na gaskiya"
+    }
+  ],
+  "timestamp": "2026-08-12T19:33:03.923207650Z",
+  "model": "glm-5.2"
+}

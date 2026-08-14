@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 17:3",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma Yahweh ya kasance tare da Yehoshaphat, domin ya tafiya a hanyoyin Dawuda ubansa na farko, kuma ba ya nema ⟨zuwa⟩ Ba'alai.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshaphat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ya tafiya"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "a hanyoyin"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubansa"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "na farko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ya nema"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "⟨zuwa⟩ Ba'alai"
+    }
+  ],
+  "timestamp": "2026-08-13T02:46:58.906893258Z",
+  "model": "glm-5.2"
+}

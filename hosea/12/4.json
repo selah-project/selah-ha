@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "A cikin ciki ya kama ⟨את⟩ ɗan'uwansa da ƙafar, kuma a cikin ƙarfinsa ya yi yaƙi da ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "a cikin ciki"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ya kama da ƙafar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗan'uwansa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ɗan'uwansa"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "kuma a cikin ƙarfinsa"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ya yi yaƙi da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T18:18:41.324723932Z",
+  "model": "glm-5.2"
+}

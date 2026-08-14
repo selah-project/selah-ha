@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 1:9",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Haka kuma Vashti ⟨sarauniya⟩ ta yi biki ⟨na⟩ mata a cikin fadar ⟨mulki⟩ mallakin ⟨sarkin⟩ Achashverosh.",
+  "tokens": [
+    {
+      "surface": "גַּ֚ם",
+      "gloss": "haka kuma"
+    },
+    {
+      "surface": "וַשְׁתִּ֣י",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "הַמַּלְכָּ֔ה",
+      "gloss": "⟨sarauniya⟩"
+    },
+    {
+      "surface": "עָשְׂתָ֖ה",
+      "gloss": "ta yi"
+    },
+    {
+      "surface": "מִשְׁתֵּ֣ה",
+      "gloss": "biki"
+    },
+    {
+      "surface": "נָשִׁ֑ים",
+      "gloss": "mata"
+    },
+    {
+      "surface": "בֵּ֚ית",
+      "gloss": "a cikin fadar"
+    },
+    {
+      "surface": "הַמַּלְכ֔וּת",
+      "gloss": "⟨mulki⟩"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "mallakin"
+    },
+    {
+      "surface": "לַמֶּ֥לֶךְ",
+      "gloss": "⟨sarkin⟩"
+    },
+    {
+      "surface": "אֲחַשְׁוֵרֽוֹשׁ",
+      "gloss": "Achashverosh"
+    }
+  ],
+  "timestamp": "2026-08-12T22:53:15.042601162Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma Yahweh ya ce wa Mosheh: \"Ba zai saurare ku ba Paroh, domin yawaita al'ojina a ƙasar Mitsrayim.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "zai saurare"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "למען",
+      "gloss": "domin"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "yawaita"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "al'ojina"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:37:27.398994427Z",
+  "model": "glm-5.2"
+}

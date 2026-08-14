@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma sarkin Mitsrayim ya ce wa ungozomin 'Yan Ibraniyawa — wanda sunan ɗayansu Shifrah, kuma sunan ta ta biyu Puah:",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֨אמֶר֙",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "מִצְרַ֔יִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לַֽמְיַלְּדֹ֖ת",
+      "gloss": "wa ungozomin"
+    },
+    {
+      "surface": "הָֽעִבְרִיֹּ֑ת",
+      "gloss": "'Yan Ibraniyawa"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "שֵׁ֤ם",
+      "gloss": "sunan"
+    },
+    {
+      "surface": "הָֽאַחַת֙",
+      "gloss": "ɗayansu"
+    },
+    {
+      "surface": "שִׁפְרָ֔ה",
+      "gloss": "Shifrah"
+    },
+    {
+      "surface": "וְשֵׁ֥ם",
+      "gloss": "kuma sunan"
+    },
+    {
+      "surface": "הַשֵּׁנִ֖ית",
+      "gloss": "ta ta biyu"
+    },
+    {
+      "surface": "פּוּעָֽה",
+      "gloss": "Puah"
+    }
+  ],
+  "timestamp": "2026-08-12T00:29:28.524428042Z",
+  "model": "glm-5.2"
+}

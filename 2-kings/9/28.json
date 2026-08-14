@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Kuma bayin sa suka sa shi ⟨a kai⟩ ⟨את⟩ shi, suka kai shi Yerushalaim; suka binne shi ⟨את⟩ shi a cikin kabarinsa tare da mu'abbaninsa, a cikin birnin Dawuda.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "suka sa shi a kai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi",
+      "marks": "bayin sa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bayin sa"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "suka kai shi Yerushalaim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "suka binne shi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi",
+      "marks": "kabarinsa"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "a cikin kabarinsa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "mu'abbaninsa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a cikin birnin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    }
+  ],
+  "timestamp": "2026-08-12T12:14:37.957109190Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Lokaci ⟨don⟩ haihuwa, da kuma lokaci ⟨don⟩ mutuwa; lokaci ⟨don⟩ shuka, da kuma lokaci ⟨don⟩ fitar ⟨abin⟩ ⟨da aka shuka⟩.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "lokaci"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "⟨don⟩ haihuwa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "da kuma lokaci"
+    },
+    {
+      "surface": "למות",
+      "gloss": "⟨don⟩ mutuwa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "lokaci"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "⟨don⟩ shuka"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "da kuma lokaci"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "⟨don⟩ fitar"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "abin da aka shuka"
+    }
+  ],
+  "timestamp": "2026-08-12T22:42:57.762545614Z",
+  "model": "glm-5.2"
+}

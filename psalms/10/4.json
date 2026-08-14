@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Mugun, a cikin taurin kai, ba ya neman ⟨Shi⟩; babu Elohim a duk shirye-shiryensa.",
+  "tokens": [
+    {
+      "surface": "רָשָׁ֗ע",
+      "gloss": "mugun"
+    },
+    {
+      "surface": "כְּגֹ֣בַהּ",
+      "gloss": "a cikin taurin"
+    },
+    {
+      "surface": "אַ֭פּוֹ",
+      "gloss": "kai"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יִדְרֹ֑שׁ",
+      "gloss": "ya neman"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "אֱ֝לֹהִ֗ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "מְזִמּוֹתָֽיו",
+      "gloss": "shirye-shiryensa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:20:57.168676982Z",
+  "model": "glm-5.2"
+}

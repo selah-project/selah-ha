@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 7:21",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Don me ba za ka ɗauke ⟨את⟩ tawayata ba, kuma ka wuce da ⟨את⟩ laifinata? Dõmin yanzu zan kwanta a ƙura, kuma za ka neme ni, amma ba ni ⟨ba⟩.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "za ka ɗauke"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "tawayata"
+    },
+    {
+      "surface": "ותעביר",
+      "gloss": "kuma ka wuce da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laifinata"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "laifinata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "a ƙura"
+    },
+    {
+      "surface": "אשכב",
+      "gloss": "zan kwanta"
+    },
+    {
+      "surface": "ושחרתני",
+      "gloss": "kuma za ka neme ni"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "amma ba ni"
+    }
+  ],
+  "timestamp": "2026-08-12T21:41:07.907517046Z",
+  "model": "glm-5.2"
+}

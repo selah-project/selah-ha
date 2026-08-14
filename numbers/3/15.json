@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Ƙidaya ⟨את⟩ ƴa'ƴan Lɛwi, a gidãjen ubanninsu, a danginsu; duk namiji daga ɗan wata har sama, ka ƙira su.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "Ƙidaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴa'ƴan Lɛwi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ƴa'ƴan"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lɛwi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "a gidãjen"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ubanninsu"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "a danginsu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "namiji"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "daga ɗan"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "har sama"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "ka ƙira su"
+    }
+  ],
+  "timestamp": "2026-08-12T03:18:33.748355280Z",
+  "model": "glm-5.2"
+}

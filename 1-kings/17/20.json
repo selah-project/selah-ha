@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 17:20",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma ya kira Yahweh, kuma ya ce, \"Yahweh, Elohim na! Shin, har ma a kan bazawarar da nake zama tare da ita, ka munana, don kashe ⟨את⟩ ɗanta?\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Kuma ya kira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "Shin, har ma"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "האלמנה",
+      "gloss": "bazawarar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "nake zama"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "tare da ita"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "ka munana"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "don kashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗanta"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ɗanta"
+    }
+  ],
+  "timestamp": "2026-08-12T11:35:05.922783825Z",
+  "model": "glm-5.2"
+}

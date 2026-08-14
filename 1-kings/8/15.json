@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Ya ce: Albarka ⟨ta kasance⟩ ga Yahweh, Elohim na Yisra'el, wanda ya yi magana da bakinsa ga ⟨את⟩ Dawida ubana, kuma da hannunsa ya cika, yana cewa:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "albarka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya yi magana"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "da bakinsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubana"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "kuma da hannunsa"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ya cika"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    }
+  ],
+  "timestamp": "2026-08-12T11:08:56.073954709Z",
+  "model": "glm-5.2"
+}

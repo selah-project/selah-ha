@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Nagari Ka aikatawa da bārinka, ya Yahweh, kamar kalmarka.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "nagari"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Ka aikatawa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "da"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bārinka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "kamar kalmarka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:45:17.570025788Z",
+  "model": "glm-5.2"
+}

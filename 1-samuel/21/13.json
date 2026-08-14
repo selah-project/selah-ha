@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma Dawuda ya sa ⟨את⟩ waɗannan kalmomi a cikin zuciyarsa, kuma ya ji tsoron sosai daga gaban Akish, sarkin Gati.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Kuma ya sa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waɗannan kalmomi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kalmomi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "a cikin zuciyarsa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "kuma ya ji tsoron"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "daga gaban"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gati"
+    }
+  ],
+  "timestamp": "2026-08-12T09:27:10.287530398Z",
+  "model": "glm-5.2"
+}

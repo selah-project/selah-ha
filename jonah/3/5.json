@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma mutanen Ninewa sun yi imani da Elohim, suka yada yunwa, suka sa tufagin guna, daga babansu har zuwa ƙaraminsu.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "suka yi imani"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninewa"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "da Elohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "suka yada"
+    },
+    {
+      "surface": "צום",
+      "gloss": "yunwa"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "suka sa"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "tufagin guna"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "daga babansu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "ƙaraminsu"
+    }
+  ],
+  "timestamp": "2026-08-12T18:40:14.030726728Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma ɗa ɗaya ga Aḥimelek ɗan Aḥituv ya tsira, sunansa Avyatar; ya gudu bayan Dawida.",
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "kuma ya tsira"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "ga Aḥimelek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗan"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Aḥituv"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "sunansa"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avyatar"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ya gudu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    }
+  ],
+  "timestamp": "2026-08-12T09:28:02.555369477Z",
+  "model": "glm-5.2"
+}

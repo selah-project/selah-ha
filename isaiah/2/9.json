@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma mutum ya yi lankwasa, kuma mutum ya kaskanta — don haka kada ka gafarta musu.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "kuma ya yi lankwasa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "kuma ya kaskanta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "don haka kada"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ka gafarta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "musu"
+    }
+  ],
+  "timestamp": "2026-08-12T12:53:53.643329846Z",
+  "model": "glm-5.2"
+}

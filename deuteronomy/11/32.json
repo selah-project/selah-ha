@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma kuna kula da yin ⟨את⟩ dukkan ƙa'idoji da ⟨את⟩ hukunce-hukuncen da ni nake sa gaban ku yau.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Kuma kuna kula da"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan ƙa'idoji"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ƙa'idoji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "hukunce-hukuncen"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukunce-hukuncen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nake sa"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "gaban ku"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    }
+  ],
+  "timestamp": "2026-08-12T05:12:49.520029753Z",
+  "model": "glm-5.2"
+}

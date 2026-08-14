@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Suka dauki ⟨את⟩ rigar Yośef, suka yanka ⟨את⟩ bunsen akuya, suka nutsa ⟨את⟩ rigar cikin jini.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "suka dauki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rigar Yośef"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "rigar"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yośef"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "suka yanka"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "bunsen"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "akuya"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "suka nutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rigar"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "rigar"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "cikin jini"
+    }
+  ],
+  "timestamp": "2026-08-12T00:09:02.598848019Z",
+  "model": "glm-5.2"
+}

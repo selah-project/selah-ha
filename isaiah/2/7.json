@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma ƙasarsa ta cika da azurfa da zinari, kuma babu ƙarshen taskokinsa; kuma ƙasarsa ta cika da dawakai, kuma babu ƙarshen motocin yakin sa.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "Kuma ta cika"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ƙasarsa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "da azurfa"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "da zinari"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ƙarshen"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "taskokinsa"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "kuma ta cika"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ƙasarsa"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "da dawakai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ƙarshen"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "motocin yakin sa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:54:38.770246320Z",
+  "model": "glm-5.2"
+}

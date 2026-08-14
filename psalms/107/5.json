@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Su ne masu yunwa, kuma masu ƙishirwa, ransu ⟨tana⟩ cikinsu tana ɓacinƙarawa.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "masu yunwa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "masu ƙishirwa"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ransu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "cikinsu"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "tana ɓacinƙarawa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:32:54.706225585Z",
+  "model": "glm-5.2"
+}

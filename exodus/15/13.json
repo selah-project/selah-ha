@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 15:13",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Ka nuna ⟨ne⟩ jagora cikin chesedka ga mutanen da ka fansar ⟨su⟩; ka kai su cikin ƙarfinka zuwa mazañarka ta tsarki.",
+  "tokens": [
+    {
+      "surface": "נָחִ֥יתָ",
+      "gloss": "ka nuna jagora"
+    },
+    {
+      "surface": "בְחַסְדְּךָ֖",
+      "gloss": "cikin chesedka"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "ga mutane"
+    },
+    {
+      "surface": "ז֣וּ",
+      "gloss": "da"
+    },
+    {
+      "surface": "גָּאָ֑לְתָּ",
+      "gloss": "ka fansar"
+    },
+    {
+      "surface": "נֵהַ֥לְתָּ",
+      "gloss": "ka kai su"
+    },
+    {
+      "surface": "בְעָזְּךָ֖",
+      "gloss": "cikin ƙarfinka"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "נְוֵ֥ה",
+      "gloss": "mazañar"
+    },
+    {
+      "surface": "קָדְשֶֽׁךָ",
+      "gloss": "tsarkinka"
+    }
+  ],
+  "timestamp": "2026-08-12T00:47:02.559907151Z",
+  "model": "glm-5.2"
+}

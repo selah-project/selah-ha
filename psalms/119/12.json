@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Albarka ⟨ne⟩ kai, Yahweh; koya mini dokokinka.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Albarka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "koya mini"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dokokinka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:42:09.173043025Z",
+  "model": "glm-5.2"
+}

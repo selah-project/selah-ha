@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Kuma kai za ka koma, kuma za ka saurari muryar Yahweh, kuma za ka yi ⟨את⟩ dukkan umarnin Sa, waɗanda ni ina umurtar ka da su yau.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kuma kai"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "za ka koma"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "kuma za ka saurari"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "kuma za ka yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan umarnin Sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "umarnin Sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ina umurtar ka da su"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    }
+  ],
+  "timestamp": "2026-08-12T05:52:43.156002678Z",
+  "model": "glm-5.2"
+}

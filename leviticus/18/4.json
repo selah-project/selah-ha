@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "⟨את⟩ hukunce-hukuncen na ku aiwatar, ⟨את⟩ dokokina ku kiyaye, don tafiya a cikinsu; Ni ne Yahweh, Elohim ku.”",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukunce-hukuncen na"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukunce-hukuncen na"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ku aiwatar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dokokina"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "dokokina"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ku kiyaye"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "don tafiya"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "a cikinsu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ku"
+    }
+  ],
+  "timestamp": "2026-08-12T02:27:52.031159095Z",
+  "model": "glm-5.2"
+}

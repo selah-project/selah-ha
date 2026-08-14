@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 66,
+  "translation": "Ƙorarran dabobi masu kitso zan miƙa maka, tare da turaren rãƙuma; zan yi shanu da gemãƙu. Selah.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "ƙorarran dabobi"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "masu kitso"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "zan miƙa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "turaren"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "rãƙuma"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "zan yi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "da"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "gemãƙu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-12T19:58:14.980392676Z",
+  "model": "glm-5.2"
+}

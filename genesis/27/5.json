@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 27:5",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma Ribka ⟨tana⟩ sauraro lokacin da Yitsḥak ke magana da Ɛsawu ɗan'nsa, sai Ɛsawu ya je gona ya fara farautar wasa don ya kawo.",
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "kuma Ribka"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "sauraro"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "lokacin da ... ke magana"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsḥak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ɛsawu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɗan'nsa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "sai ... ya je"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ɛsawu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "gona"
+    },
+    {
+      "surface": "לצוד",
+      "gloss": "ya fara farautar"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "wasa"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "don ya kawo"
+    }
+  ],
+  "timestamp": "2026-08-11T23:50:37.469720961Z",
+  "model": "glm-5.2"
+}

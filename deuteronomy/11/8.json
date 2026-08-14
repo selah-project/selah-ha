@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 11:8",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Don haka kula da ⟨את⟩ duka umarnin da nake umurtar ku da shi yau, domin ku ƙarfafa, kuma ku zo ku mallaki ⟨את⟩ ƙasar da kuke wucewa can don mallakarta.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "kula da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "umarnin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "umurtar ku da shi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "למען",
+      "gloss": "domin"
+    },
+    {
+      "surface": "תחזקו",
+      "gloss": "ku ƙarfafa"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "kuma ku zo"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ku mallaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ke wucewa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "can"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "domin mallakarta"
+    }
+  ],
+  "timestamp": "2026-08-12T05:09:04.907754267Z",
+  "model": "glm-5.2"
+}

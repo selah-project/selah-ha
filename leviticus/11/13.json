@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Kuma ⟨את⟩ waɗannan ku ƙi su daga tsuntsayen sama; ba za a ci su ba, abin ƙyama ne su: ⟨את⟩ giyar eagle da ⟨את⟩ giyar bearded vulture da ⟨את⟩ giyar osprey.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "waɗannan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "ku ƙi su"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "tsuntayen sama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "za a ci su"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "abin ƙyama"
+    },
+    {
+      "surface": "הם",
+      "gloss": "su"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giyar eagle"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "giyar eagle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "giyar bearded vulture"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "giyar bearded vulture"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "giyar osprey"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "giyar osprey"
+    }
+  ],
+  "timestamp": "2026-08-12T01:59:25.336516050Z",
+  "model": "glm-5.2"
+}

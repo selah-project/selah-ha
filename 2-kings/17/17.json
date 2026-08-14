@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 17:17",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma suka sa ⟨את⟩ 'ya'yan su maza da ⟨את⟩ 'ya'yan su mata su wuce cikin wuta, kuma suka yanka kisa, kuma suka yin duba, kuma suka sayar da kansu don yana mugun aya a idanun Yahweh, don tada fushinsa.",
+  "tokens": [
+    {
+      "surface": "ויעבירו",
+      "gloss": "Kuma suka sa su wuce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'ya'yan su maza"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "'ya'yan su maza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "'ya'yan su mata"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "'ya'yan su mata"
+    },
+    {
+      "surface": "באש",
+      "gloss": "cikin wuta"
+    },
+    {
+      "surface": "ויקסמו",
+      "gloss": "kuma suka yanka kisa"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "kisa"
+    },
+    {
+      "surface": "וינחשו",
+      "gloss": "kuma suka yin duba"
+    },
+    {
+      "surface": "ויתמכרו",
+      "gloss": "kuma suka sayar da kansu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "don yana"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mugun aya"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להכעיסו",
+      "gloss": "don tada fushinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T12:34:11.715813496Z",
+  "model": "glm-5.2"
+}

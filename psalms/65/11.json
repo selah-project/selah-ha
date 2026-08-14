@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 65:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 65,
+  "translation": "Layukan noman da ke nuni, kuma ka sa ruwa ya sauka a cikin kwazazzabai; da ruwan sama mai yawa ka sanya laushi tsiro, ka albarkaci tsire-tsire.",
+  "tokens": [
+    {
+      "surface": "תלמיה",
+      "gloss": "layukan noman"
+    },
+    {
+      "surface": "רוה",
+      "gloss": "ka shayar"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ka sa ya sauka"
+    },
+    {
+      "surface": "גדודיה",
+      "gloss": "a cikin kwazazzabai"
+    },
+    {
+      "surface": "ברביבים",
+      "gloss": "da ruwan sama mai yawa"
+    },
+    {
+      "surface": "תמגגנה",
+      "gloss": "ka sanya laushi"
+    },
+    {
+      "surface": "צמחה",
+      "gloss": "tsiro"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "ka albarkaci"
+    }
+  ],
+  "timestamp": "2026-08-12T19:56:17.545876314Z",
+  "model": "glm-5.2"
+}

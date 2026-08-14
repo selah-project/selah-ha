@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 138,
+  "translation": "Domin Yahweh yana da tsayi, amma ƙarami ⟨ne⟩ yake gani, kuma mai girman kai daga nesa yana sane da shi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "רם",
+      "gloss": "yana da tsayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "amma ƙarami"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "yake gani"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "kuma mai girman kai"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "daga nesa"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "yana sane da shi"
+    }
+  ],
+  "timestamp": "2026-08-12T20:55:49.697488192Z",
+  "model": "glm-5.2"
+}

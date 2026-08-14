@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 6:22",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma ⟨את⟩ duka gidan ya rufe da zinariya, har an cika duka gidan; kuma duka ⟨ne⟩ bagaden da ke cikin ɗakin ciki ya rufe da zinariya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Kuma ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka",
+      "marks": "duka gidan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "ya rufe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "da zinariya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "תם",
+      "gloss": "an cika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma duka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bagaden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da ke"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "cikin ɗakin ciki"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "ya rufe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "da zinariya"
+    }
+  ],
+  "timestamp": "2026-08-12T10:59:50.159186753Z",
+  "model": "glm-5.2"
+}

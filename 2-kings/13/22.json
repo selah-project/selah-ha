@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma Chaza'el sarkin Aram ya dannƙa ⟨את⟩ Isra'il, dukan kwanakin Yaho'ahaz.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Kuma Chaza'el"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ya dannƙa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isra'il"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'il"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwanakin"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yaho'ahaz"
+    }
+  ],
+  "timestamp": "2026-08-12T12:22:43.592312596Z",
+  "model": "glm-5.2"
+}

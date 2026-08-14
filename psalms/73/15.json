@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 73,
+  "translation": "Da na faɗa, zan faɗa haka, ga, ga zuriyar ƴaƴanka, na yi maka awaye.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "da"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "na faɗa"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "zan faɗa\/zan ruwaito"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "haka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga"
+    },
+    {
+      "surface": "דור",
+      "gloss": "zuriya\/ƙarni"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ƴaƴanka"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "na yi awaye\/na yi muna"
+    }
+  ],
+  "timestamp": "2026-08-12T20:05:06.173486778Z",
+  "model": "glm-5.2"
+}

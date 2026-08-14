@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Kuma suka yi ⟨את⟩ riguna na linan, aikin saka, don Aharon da ⟨ga⟩ ƴaƴansa.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Kuma suka yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riguna"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "riguna"
+    },
+    {
+      "surface": "שש",
+      "gloss": "na linan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aikin"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "saka"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "don Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "da ƴaƴansa"
+    }
+  ],
+  "timestamp": "2026-08-12T01:40:07.473491447Z",
+  "model": "glm-5.2"
+}

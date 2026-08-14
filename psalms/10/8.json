@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Yana zauna a cikin maharan ƙauyuka; a cikin asirice yana kashe marar laifi; idanuwansa suna kula da marar taimako a asirice.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "yana zauna"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "a cikin maharan"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "ƙauyuka"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "a cikin asirice"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "yana kashe"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "marar laifi"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "idanuwansa"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "marar taimako"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "suna kula a asirice"
+    }
+  ],
+  "timestamp": "2026-08-12T19:20:34.087230138Z",
+  "model": "glm-5.2"
+}

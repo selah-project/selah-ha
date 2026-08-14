@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 5:2",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma waɗanda suka ɓalle sun shiga zurfi wajen yin kisa, kuma ni ina matsayin azabtarwa ne ga duka su.",
+  "tokens": [
+    {
+      "surface": "ושחטה",
+      "gloss": "kuma yin kisa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "waɗanda suka ɓalle"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "sun shiga zurfi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "azabtarwa"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "ga duka su"
+    }
+  ],
+  "timestamp": "2026-08-12T18:14:20.943351761Z",
+  "model": "glm-5.2"
+}

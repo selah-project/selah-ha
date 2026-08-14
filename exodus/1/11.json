@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Sai suka sāmi shugabannin tilastawa aiki a kansu, don su dame shi da nauyansu; kuma ya gina biranen ajiya na Par'o, ⟨את⟩ Pitom da ⟨את⟩ Ra'amses.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Sai suka sāmi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kansa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "shugabannin"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "tilastawa aiki"
+    },
+    {
+      "surface": "למען",
+      "gloss": "don"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "dame shi"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "da nauyansu"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "kuma ya gina"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "biranen"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "ajiya"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "na Par'o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitom"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Ra'amses"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Ra'amses"
+    }
+  ],
+  "timestamp": "2026-08-12T00:28:39.624636375Z",
+  "model": "glm-5.2"
+}

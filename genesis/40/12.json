@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Yūsufu ya kuma ce masa: Wannan fassararsa ⟨ne⟩; reshena uku kwana uku ⟨suka kasance⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya kuma ce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yūsufu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Wannan"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "fassararsa"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "uku"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "reshena"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "uku"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨suna kasancewa⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T00:10:31.910243808Z",
+  "model": "glm-5.2"
+}

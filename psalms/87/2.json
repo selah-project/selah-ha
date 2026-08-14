@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 87,
+  "translation": "Yahweh yana ƙaunatar da ƙofofin Tsiyon, fiye da duka mazaunan Ya'ƙub.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "yana ƙaunatar da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "ƙofofin"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "fiye da duka"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'ƙub"
+    }
+  ],
+  "timestamp": "2026-08-12T20:18:11.749877588Z",
+  "model": "glm-5.2"
+}

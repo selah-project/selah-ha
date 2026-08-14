@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 139,
+  "translation": "Na gode maka, domin na riga in yi tsoro da al'ajabi, an ban da mamaki; aikoki naka suna mamaki, ⟨kuma⟩ rana ta na san ⟨hakan⟩ sosai.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "na gode maka"
+    },
+    {
+      "surface": "על",
+      "gloss": "domin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ce⟩"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "na riga in yi tsoro"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "na ban da mamaki"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "suna mamaki"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "aikoki naka"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "rana ta"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "na san"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    }
+  ],
+  "timestamp": "2026-08-12T20:53:42.978523318Z",
+  "model": "glm-5.2"
+}

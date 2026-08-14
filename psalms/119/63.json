@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Abokina ne na duk waɗanda suke tsoron ka, da waɗanda suke kiyaye dokokinka.",
+  "tokens": [
+    {
+      "surface": "חָבֵ֣ר",
+      "gloss": "abokina"
+    },
+    {
+      "surface": "אָ֭נִי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "na duk"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "יְרֵא֑וּךָ",
+      "gloss": "suke tsoron ka"
+    },
+    {
+      "surface": "וּ֝לְשֹׁמְרֵ֗י",
+      "gloss": "da waɗanda suke kiyaye"
+    },
+    {
+      "surface": "פִּקּוּדֶֽיךָ",
+      "gloss": "dokokinka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:42:48.328444952Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 46,
+  "translation": "Ga wanene za ku kwatanta Ni, kuma ku daidaita ⟨Ni⟩, kuma ku kafa Ni a matsayi ɗaya, mu kuma mu yi kama?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "Ga wanene"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "za ku kwatanta Ni"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "kuma ku daidaita"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "kuma ku kafa Ni a matsayi ɗaya"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "mu kuma mu yi kama"
+    }
+  ],
+  "timestamp": "2026-08-12T14:16:35.711023878Z",
+  "model": "glm-5.2"
+}

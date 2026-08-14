@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Idanunsu su yi duhu ⟨domin⟩ kada su gani, kuma ɗiyansu kullum su girgiza.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "su yi duhu"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "idãnensu"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "⟨domin⟩ kada su gani"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "kuma ɗiyansu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kullum"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "su girgiza"
+    }
+  ],
+  "timestamp": "2026-08-12T19:58:58.935757859Z",
+  "model": "glm-5.2"
+}

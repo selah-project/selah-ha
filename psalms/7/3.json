@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "domin ba a tsage rayuwata kamar zaki, ana tona guntunta, ba kowa ⟨ya⟩ kuɓuta ⟨ba⟩.",
+  "tokens": [
+    {
+      "surface": "פֶּן",
+      "gloss": "domin ba"
+    },
+    {
+      "surface": "יִטְרֹ֣ף",
+      "gloss": "a tsage"
+    },
+    {
+      "surface": "כְּאַרְיֵ֣ה",
+      "gloss": "kamar zaki"
+    },
+    {
+      "surface": "נַפְשִׁ֑י",
+      "gloss": "rayuwata"
+    },
+    {
+      "surface": "פֹּ֝רֵ֗ק",
+      "gloss": "ana tona guntunta"
+    },
+    {
+      "surface": "וְאֵ֣ין",
+      "gloss": "ba kowa"
+    },
+    {
+      "surface": "מַצִּֽיל",
+      "gloss": "kuɓuta"
+    }
+  ],
+  "timestamp": "2026-08-13T02:22:56.583314912Z",
+  "model": "glm-5.2"
+}

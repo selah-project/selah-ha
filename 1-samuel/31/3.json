@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 31:3",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Kuma yaƙin ya yi nauyi ⟨a kan⟩ Sha'ul, kuma maharba su same shi — mutane masu baka — kuma ya ji rauni mai yawa daga maharba.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "Kuma ya yi nauyi"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "yaƙin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a kan⟩"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "kuma su same shi"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "maharba"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "masu baka"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "kuma ya ji rauni"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mai yawa"
+    },
+    {
+      "surface": "מהמורים",
+      "gloss": "daga maharba"
+    }
+  ],
+  "timestamp": "2026-08-12T09:48:45.175509550Z",
+  "model": "glm-5.2"
+}

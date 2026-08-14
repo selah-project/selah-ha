@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "kuma zuwa ƙofar Ahali-Mahawara ba zai kawo shi ba don yin ⟨את⟩ shi ga Yahweh, kuma ⟨za⟩ a yanke wannan mutumin daga cikin mutanensa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kuma zuwa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ƙofar"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ahali"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Mahawara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "zai kawo shi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "don yin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ga Yahweh"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "kuma ⟨za⟩ a yanke"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "daga cikin mutanensa"
+    }
+  ],
+  "timestamp": "2026-08-12T02:29:38.735253541Z",
+  "model": "glm-5.2"
+}

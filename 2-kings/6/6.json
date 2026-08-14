@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma mutumin ⟨na⟩ Elohim ya ce, \"Ina ya fada?\" Kuma ⟨Elisha⟩ ya nuna masa ⟨את⟩ wuri, kuma ya yanke gatari, ya jefar da ita can, kuma ƙarfen ya yi iyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mutumin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Ina"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ya fada"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "ya nuna masa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuri"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "wuri"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "ya yanke"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "gatari"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ya jefar da ita"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "can"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ya yi iyo"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ƙarfen"
+    }
+  ],
+  "timestamp": "2026-08-12T12:04:40.914710732Z",
+  "model": "glm-5.2"
+}

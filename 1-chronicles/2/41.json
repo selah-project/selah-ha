@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma Shallum ya haifa ⟨את⟩ Yekamjah, kuma Yekamjah ya haifa ⟨את⟩ Elishama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Kuma Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekamjah"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Yekamjah"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "kuma Yekamjah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ya haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elishama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    }
+  ],
+  "timestamp": "2026-08-12T23:54:59.640651907Z",
+  "model": "glm-5.2"
+}

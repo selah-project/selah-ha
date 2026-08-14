@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Kai, Ka umurci ⟨ce⟩ a kiyaye dokõkinKa da ƙwazazzabo.",
+  "tokens": [
+    {
+      "surface": "אַ֭תָּה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "צִוִּ֥יתָה",
+      "gloss": "Ka umurci"
+    },
+    {
+      "surface": "פִקֻּדֶ֗יךָ",
+      "gloss": "dokõkinKa"
+    },
+    {
+      "surface": "לִשְׁמֹ֥ר",
+      "gloss": "a kiyaye"
+    },
+    {
+      "surface": "מְאֹֽד",
+      "gloss": "da ƙwazazzabo"
+    }
+  ],
+  "timestamp": "2026-08-12T20:41:45.995195883Z",
+  "model": "glm-5.2"
+}

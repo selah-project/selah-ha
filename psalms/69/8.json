@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 69,
+  "translation": "Dōmin gare ka nā ɗauki zāgi, kunya ta rufe fuskata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "dōmin"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "gare ka"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "nā ɗauki"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "zāgi"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "ta rufe"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "kunya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskata"
+    }
+  ],
+  "timestamp": "2026-08-12T19:59:42.610371551Z",
+  "model": "glm-5.2"
+}

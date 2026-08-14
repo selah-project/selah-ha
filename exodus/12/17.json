@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 12:17",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma kuna kiyaye ⟨את⟩ burodi marasa yisti, domin a cikin wannan rana ⟨kanta⟩ ne na fitar da ⟨את⟩ jama'arku daga ƙasar Mitsrayim, saboda haka kuna kiyaye ⟨את⟩ wannan rana ga tsiranku a matsayin ka'adar har abada.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "kuma kuna kiyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "burodi marasa yisti"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "burodi marasa yisti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "a cikin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "na fitar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jama'arku"
+    },
+    {
+      "surface": "צבאותיכם",
+      "gloss": "jama'arku"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "kuna kiyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannan rana"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "ga tsiranku"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "a matsayin ka'adar"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-13T01:45:53.393901141Z",
+  "model": "glm-5.2"
+}

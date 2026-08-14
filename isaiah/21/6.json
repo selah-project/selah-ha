@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 21:6",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Domin haka ne Adonai ya faɗa min: Ka tafi, ka tsayar da mai tsaro, abin da ya ga ya tabbatar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "כה",
+      "gloss": "haka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ka tafi"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "ka tsayar da"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "mai tsaro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ya ga"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ya tabbatar"
+    }
+  ],
+  "timestamp": "2026-08-12T13:25:21.769034778Z",
+  "model": "glm-5.2"
+}

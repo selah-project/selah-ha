@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Yahweh na sojoji ya rantsa, ⟨cewa⟩: 'Hakĩka, kamar yadda na yi shawarar, haka ya kasance; kuma kamar yadda na yi shiri, shi ne zai tashi.'",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ya rantsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "na sojoji"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨cewa⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hakĩka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨tabbas⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "na yi shawarar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "kuma kamar yadda"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "na yi shiri"
+    },
+    {
+      "surface": "היא",
+      "gloss": "shi ne"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "zai tashi"
+    }
+  ],
+  "timestamp": "2026-08-12T13:14:00.637700061Z",
+  "model": "glm-5.2"
+}

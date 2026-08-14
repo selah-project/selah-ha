@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Zucīyā ta ɓāɓe, razana ta tsorata ni. ⟨את⟩ yāsts̄en sha'awatā ya sanya min girgijē.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "ta ɓāɓe"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "zucīyā"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "razana"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "ya tsorata ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yāsts̄en sha'awatā"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "yāsts̄en"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "sha'awatā"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ya sanya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "girgijē"
+    }
+  ],
+  "timestamp": "2026-08-12T13:26:51.197010255Z",
+  "model": "glm-5.2"
+}

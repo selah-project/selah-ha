@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma a ranar da take daidai wannan, Yahweh ya fitar da ⟨את⟩ ɗaliban Isra'ila daga ƙasar Mitsrayim a cikin rundunoninsu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ⟨ya kasance⟩"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "da take daidai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ranar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ya fitar da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗaliban Isra'ila"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗaliban"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daga ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "a cikin"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "rundunoninsu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:44:02.894075583Z",
+  "model": "glm-5.2"
+}

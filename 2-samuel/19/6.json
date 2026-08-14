@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 19:6",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Kuma Yoav ya shigo wa sarki cikin gida, kuma ya ce: \"Ka bacinna yau ⟨את⟩ fuskokin dukkan bayin ka, masu ceton ⟨את⟩ rai nka yau, da ⟨את⟩ rayukan yayan ka da 'yayan ka, da rayukan matan ka, da rayukan ƙwankwaran ka.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kuma ya shigo"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "cikin gida"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce"
+    },
+    {
+      "surface": "הבשת",
+      "gloss": "ka bacinna"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuskokin"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fuskokin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "bayin ka"
+    },
+    {
+      "surface": "הממלטים",
+      "gloss": "masi ceton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rai nka"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "rai nka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "rayukan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rayukan"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "yayan ka"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "da 'yayan ka"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "da rayukan"
+    },
+    {
+      "surface": "נשיך",
+      "gloss": "matan ka"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "da rayukan"
+    },
+    {
+      "surface": "פלגשיך",
+      "gloss": "ƙwankwaran ka"
+    }
+  ],
+  "timestamp": "2026-08-12T10:37:07.613699494Z",
+  "model": "glm-5.2"
+}

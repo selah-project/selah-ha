@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 119:26",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Hanyoyina na gaya maka, kuma ka amsa ni; ka koya mini dokõkinka.",
+  "tokens": [
+    {
+      "surface": "דְּרָכַ֣י",
+      "gloss": "hanyoyina"
+    },
+    {
+      "surface": "סִפַּרְתִּ֥י",
+      "gloss": "na gaya wa"
+    },
+    {
+      "surface": "וַתַּעֲנֵ֗נִי",
+      "gloss": "ka amsa ni"
+    },
+    {
+      "surface": "לַמְּדֵ֥נִי",
+      "gloss": "ka koya mini"
+    },
+    {
+      "surface": "חֻקֶּֽיךָ",
+      "gloss": "dokõkinka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:41:27.741528033Z",
+  "model": "glm-5.2"
+}

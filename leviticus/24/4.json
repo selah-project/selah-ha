@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "A kan Mastalar Tsaffar ⟨Zinari⟩ zai shirya ⟨את⟩ fitilu, a gaban Yahweh har abada.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "A kan"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "Mastalar"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "Tsaffar"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "zai shirya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fitilu"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "fitilu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "har abada"
+    }
+  ],
+  "timestamp": "2026-08-12T02:52:23.856173939Z",
+  "model": "glm-5.2"
+}

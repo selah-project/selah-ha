@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 36,
+  "translation": "Kuma waɗannan ɗiya sunayen Shobal ne: Alvan da Manahat da Ebal, Shefo da Onam.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kuma waɗannan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiya sunayen"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shobal"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "Alvan"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "da Manahat"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "da Ebal"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "Shefo"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "da Onam"
+    }
+  ],
+  "timestamp": "2026-08-12T00:06:02.471385548Z",
+  "model": "glm-5.2"
+}

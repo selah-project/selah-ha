@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 3:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma malaʼika Yahweh ya bayyana gare shi cikin wutar lile daga tsakkin ⟨da⟩ ciyawa, kuma ya dūba, sai gani, ⟨cikak⟩ ciyawa tana konewa da wuta, amma ciyawa ba a cinye ⟨ta⟩ ba.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Kuma ya bayyana"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaʼika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gare shi"
+    },
+    {
+      "surface": "בלבת",
+      "gloss": "cikin lile"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wutar"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "daga tsakkin"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "ciyawa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "kuma ya dūba"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sai gani"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "ciyawa"
+    },
+    {
+      "surface": "בער",
+      "gloss": "tana konewa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "da wuta"
+    },
+    {
+      "surface": "והסנה",
+      "gloss": "amma ciyawa"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ba a"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "cinye"
+    }
+  ],
+  "timestamp": "2026-08-12T00:30:53.477536110Z",
+  "model": "glm-5.2"
+}

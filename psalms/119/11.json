@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "A cikin zuciyata na ɓoye maganarka, domin kada laifi in yi maka.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "A cikin zuciyata"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "na ɓoye"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "maganarka"
+    },
+    {
+      "surface": "למען",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "laifi in yi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:42:09.172897681Z",
+  "model": "glm-5.2"
+}

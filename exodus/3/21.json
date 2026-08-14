@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma Ni zan bawa ⟨את⟩ alherin wannan mutãnen a idanun Mitsrayim, kuma zã a kasance, a lõkacin da kuke tafiya, bã zã ku tafi babu komai ba.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Kuma Ni zan bawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alherin"
+    },
+    {
+      "surface": "חן",
+      "gloss": "alherin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutãnen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a idanun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kuma zã a kasance"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a lõkacin da"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "kuke tafiya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bã"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "za ku tafi"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "babu komai"
+    }
+  ],
+  "timestamp": "2026-08-12T00:30:55.628055372Z",
+  "model": "glm-5.2"
+}

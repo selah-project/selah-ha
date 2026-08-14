@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Kuma Yahweh ya albarkaci ⟨את⟩ ƙarshen Iyob fiye da farkonsa, kuma yana da shi goma sha huɗu dubu tumaki, da dubu shida rakuma, da dubu ɗaya na bijimai, da dubu ɗaya jaƙanyi.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Kuma Yahweh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ya albarkaci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙarshen"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ƙarshen"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "fiye da farkonsa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma yana da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "huɗu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "goma sha"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "tumaki"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "da"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dubu shida"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "rakuma"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "da dubu ɗaya"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "na"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bijimai"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "da dubu ɗaya"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "jaƙanyi"
+    }
+  ],
+  "timestamp": "2026-08-12T22:22:33.814419517Z",
+  "model": "glm-5.2"
+}

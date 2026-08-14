@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 63,
+  "translation": "Haka zan yi maka albarka a cikin rayuwata; a cikin sunanka zan ɗauka ⟨ga⟩ hannaye na.",
+  "tokens": [
+    {
+      "surface": "כֵּ֣ן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "אֲבָרֶכְכָ֣",
+      "gloss": "zan yi maka albarka"
+    },
+    {
+      "surface": "בְחַיָּ֑י",
+      "gloss": "a cikin rayuwata"
+    },
+    {
+      "surface": "בְּ֝שִׁמְכָּ",
+      "gloss": "a cikin sunanka"
+    },
+    {
+      "surface": "אֶשָּׂ֥א",
+      "gloss": "zan ɗauka"
+    },
+    {
+      "surface": "כַפָּֽי",
+      "gloss": "hannaye na"
+    }
+  ],
+  "timestamp": "2026-08-12T19:57:18.793806989Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Amma ba su saurara ba, kuma ba su juyar da ⟨את⟩ kunne su ba, suka taurara ⟨את⟩ wuyansu, domin kada su saurara, da kuma kada su ɗauki tsawatarwa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Amma ba"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "suka saurara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "suka juyar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kunne su"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "kunne su"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "suka taurara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuyansu"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "wuyansu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "domin kada"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "saurara"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "da kuma kada"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "su ɗauki"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tsawatarwa"
+    }
+  ],
+  "timestamp": "2026-08-12T15:29:14.206487583Z",
+  "model": "glm-5.2"
+}

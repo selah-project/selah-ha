@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 95,
+  "translation": "Ku zo, mu rera wa Yahweh, mu yi kāra ga Dutsen ceto ⟨na⟩ mu.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Ku zo"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "mu rera wa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "mu yi kāra"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ga Dutsen"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "ceto ⟨na⟩ mu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:23:06.341863921Z",
+  "model": "glm-5.2"
+}

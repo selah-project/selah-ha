@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 106:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 106,
+  "translation": "Wuta ta ƙara ƙonewa a cikin taronsu, wutar lailai ta yanka mugaye.",
+  "tokens": [
+    {
+      "surface": "וַתִּבְעַר",
+      "gloss": "ta ƙara ƙonewa"
+    },
+    {
+      "surface": "אֵ֥שׁ",
+      "gloss": "Wuta"
+    },
+    {
+      "surface": "בַּעֲדָתָ֑ם",
+      "gloss": "a cikin taronsu"
+    },
+    {
+      "surface": "לֶ֝הָבָ֗ה",
+      "gloss": "wutar lailai"
+    },
+    {
+      "surface": "תְּלַהֵ֥ט",
+      "gloss": "ta yanka"
+    },
+    {
+      "surface": "רְשָׁעִֽים",
+      "gloss": "mugaye"
+    }
+  ],
+  "timestamp": "2026-08-12T20:32:19.514647031Z",
+  "model": "glm-5.2"
+}

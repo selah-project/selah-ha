@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 21:25",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Amma ba a taɓa wani kamar Ahab ba, wanda ya sayar da kansa don yin muguwar ⟨a gaban⟩ Yahweh, wanda Izebel matarsa ta ƙara tona masa.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "amma\/gaskiya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a taɓa"
+    },
+    {
+      "surface": "כאחאב",
+      "gloss": "kamar Ahab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "התמכר",
+      "gloss": "ya sayar da kansa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "don yin"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "muguwar"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "⟨a gaban⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "הסתה",
+      "gloss": "ta ƙara tona masa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Izebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "matarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T11:48:44.820967386Z",
+  "model": "glm-5.2"
+}

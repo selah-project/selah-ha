@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Sai ta yi ciki, ta haifi ɗa, kuma ta ce, \"Elohim ya cire ⟨את⟩ raina.\"",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "sai ta yi ciki"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ta haifi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɗa"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "kuma ta ce"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ya cire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raina"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "raina"
+    }
+  ],
+  "timestamp": "2026-08-11T23:52:59.556793228Z",
+  "model": "glm-5.2"
+}

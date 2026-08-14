@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 101,
+  "translation": "Ba zai zauna a cikin tsakiyar gidana ⟨wanda yake⟩ aikata zagi; mai magana da ƙarya, ba za a tsayar da shi ba a gaban idanuna.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "zai zauna"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "a cikin tsakiyar"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "gidana"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wanda yake aikata"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "zagi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mai magana"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "da ƙarya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "za a tsayar da shi"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "idanuna"
+    }
+  ],
+  "timestamp": "2026-08-12T20:26:47.646079660Z",
+  "model": "glm-5.2"
+}

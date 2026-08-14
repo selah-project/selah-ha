@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 68,
+  "translation": "Elohim yana sanya waɗanda ke kaɗai su zauna a gida, yana fitar da fursunoni cikin wadata; amma ƴan tawaye sun zauna a ƙasa mai bushewa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "yana sanya su zauna"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "waɗanda ke kaɗai"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "a gida"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "yana fitar da"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "fursunoni"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "cikin wadata"
+    },
+    {
+      "surface": "אך",
+      "gloss": "amma"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "ƴan tawaye"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "sun zauna"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "a ƙasa mai bushewa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:01:34.473236986Z",
+  "model": "glm-5.2"
+}

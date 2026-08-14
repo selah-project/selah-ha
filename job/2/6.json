@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Yahweh ya ce wa ha-Satan: \"Ga shi, yana cikin hannunka; sai ka tsare ⟨את⟩ ransa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-Satan"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "ga shi"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "cikin hannunka"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ransa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ransa"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ka tsare"
+    }
+  ],
+  "timestamp": "2026-08-12T21:40:12.014968048Z",
+  "model": "glm-5.2"
+}

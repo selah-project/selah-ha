@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma duka mutanen ƙasa sun murna, kuma birnin ya nutsu, kuma ⟨את⟩ Athaliah suka kashe da takobi.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "kuma sun murna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "kuma birnin"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "ya nutsu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Athaliah"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Athaliah"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "suka kashe"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "da takobi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:50:35.264229864Z",
+  "model": "glm-5.2"
+}

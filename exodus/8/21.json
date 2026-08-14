@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Sai Paroh ya kira Moshe da Aharon, ya ce: \"Ku tafi, ku yi hadaya ga Elohim naku a ƙasar.\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Sai ya kira"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "da Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ku tafi"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "ku yi hadaya"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "ga Elohim naku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a ƙasar"
+    }
+  ],
+  "timestamp": "2026-08-12T00:38:55.339164057Z",
+  "model": "glm-5.2"
+}

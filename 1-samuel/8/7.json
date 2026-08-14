@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 8,
+  "translation": "Kuma Yahweh ya ce wa Shemu'el, \"Ka saurari muryar mutane a duk abin da za su faɗa maka; domin ba ⟨את⟩ kai suka ƙi ba, amma ⟨את⟩ ni suka ƙi, in ina mulkinsu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Ka saurari"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "za su faɗa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "saka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kai"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "suka ƙi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "suka ƙi"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "in ina mulki"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nsu"
+    }
+  ],
+  "timestamp": "2026-08-12T08:43:02.880711173Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma ni da kaina zan yi ⟨את⟩ ƙasar da ba a da ba, kuma maƙiyanku da ke zaune a cikinta za su yi mamaki saboda shi.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "Kuma zan yi da ba a da ba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni da kaina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙasar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "kuma za su yi mamaki"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "saboda shi"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "maƙiyanku"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "da ke zaune"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a cikinta"
+    }
+  ],
+  "timestamp": "2026-08-12T03:02:48.274843529Z",
+  "model": "glm-5.2"
+}

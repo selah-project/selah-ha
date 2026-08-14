@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 5:17",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Dukansu an jera su cikin zuriya a cikin kwanakin Yotam sarkin Yahuda, da kuma a cikin kwanakin Yarov'am sarkin Yisra'el.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "dukansu"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "an jera su cikin zuriya"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "a cikin kwanakin"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "da kuma a cikin kwanakin"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarov'am"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-13T00:01:39.299695016Z",
+  "model": "glm-5.2"
+}

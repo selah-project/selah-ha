@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma za ka yi ƙugiyoyin ƙarfe tagulla hamsin, kuma za ka shigar da ⟨את⟩ ƙugiyoyin a cikin madaurai, kuma za ka haɗa ⟨את⟩ tashan ⟨don⟩ ya kasance ⟨guda ɗaya⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "kuma za ka yi"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "ƙugiyoyin"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ƙarfe tagulla"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "hamsin"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "kuma za ka shigar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙugiyoyin"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "ƙugiyoyin"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "a cikin madaurai"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "kuma za ka haɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta dā"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ta dā"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kuma ya kasance"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "guda ɗaya"
+    }
+  ],
+  "timestamp": "2026-08-12T01:07:36.750284939Z",
+  "model": "glm-5.2"
+}

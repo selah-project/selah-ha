@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 107:21",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 107,
+  "translation": "Su gudɗa ⟨ga⟩ Yahweh chesed ⟨da⟩, da kuma abin ciyawarsa ⟨ga⟩ ƴaƴan adam!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "su gudɗa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨ga⟩ Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed ⟨da⟩"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "da kuma abin ciyawarsa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨ga⟩ ƴaƴan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    }
+  ],
+  "timestamp": "2026-08-12T20:32:55.895084342Z",
+  "model": "glm-5.2"
+}

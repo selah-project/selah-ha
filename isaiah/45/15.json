@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 45,
+  "translation": "Lalle Kai Kai ne El Mai Ɓoye Kai, Elohin Isra'ila Mai Ceto.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "lalle"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "Mai Ɓoye Kai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "Mai Ceto"
+    }
+  ],
+  "timestamp": "2026-08-12T14:13:56.862901658Z",
+  "model": "glm-5.2"
+}

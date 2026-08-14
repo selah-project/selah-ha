@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Mägunãwa da yawa sun lalata gonat ina itaceNa, sun treads ⟨את⟩ yankinNa; sun saka ⟨את⟩ yankin sha'awaNa ya zama jeji mai hamɓa.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "mägunãwa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "da yawa"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "sun lalata"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "gonat ina itaceNa"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "sun treads"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yankinNa"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "yankinNa"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "sun saka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yankin sha'awaNa"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "yankin"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "sha'awaNa"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "ya zama jeji"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "mai hamɓa"
+    }
+  ],
+  "timestamp": "2026-08-12T15:18:59.447365759Z",
+  "model": "glm-5.2"
+}

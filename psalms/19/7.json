@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 19,
+  "translation": "Daga ƙarshen sama ⟨ne⟩ tafiyarsa, kuma zagayensa har zuwa ƙarshensu; kuma babu abin da aka ɓoye daga zafinsa.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Daga ƙarshen"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sama"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "tafiyarsa"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "kuma zagayensa"
+    },
+    {
+      "surface": "על",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "ƙarshensu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "abin da aka ɓoye"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "daga zafinsa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:26:43.766337609Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 32,
+  "translation": "Sai Ya'akuɓ ya ji tsoro sosai, kuma damuwa ta damu shi; kuma ya raba ⟨את⟩ mutanen da ⟨את⟩ ⟨suke⟩ tare da shi, da ⟨את⟩ garken tumaki, da ⟨את⟩ shanu, da rakuma, zuwa sansani biyu.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "Sai ya ji tsoro"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akuɓ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "kuma damuwa ta damu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "kuma ya raba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨suke⟩ tare da shi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "garken tumaki"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "garken tumaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "shanu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "da rakuma"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "zuwa biyu"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "sansani"
+    }
+  ],
+  "timestamp": "2026-08-12T00:01:57.595868855Z",
+  "model": "glm-5.2"
+}

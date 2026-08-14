@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma ya yanka ⟨את⟩ tsuntsun guda ɗaya ⟨a cikin⟩ tukwanar yumbu a kan ruwa mai rai.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "Kuma ya yanka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsuntsun guda ɗaya"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "tsuntsun"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "guda ɗaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a cikin⟩"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "tukwanar"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "yumbu"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ruwa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "mai rai"
+    }
+  ],
+  "timestamp": "2026-08-12T02:13:08.368556380Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "Kuma ya ɗaɗe ⟨את⟩ motocinsa, ya kuma ⟨את⟩ mutãnensa tãɗe da shi.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "ya ɗaɗe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motocinsa"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "motocinsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "mutãnensa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mutãnensa"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ya tãɗe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "da shi"
+    }
+  ],
+  "timestamp": "2026-08-13T01:45:35.183541119Z",
+  "model": "glm-5.2"
+}

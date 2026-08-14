@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Su ma ⟨את⟩ Sarkin Dawida ya keɓe wa Yahweh, tare da azurfa da zinariyan da ya ɗauka daga dukkan ƙasashe — daga Edom kuma daga Moab da ƴan Ammon kuma daga Falisawa kuma daga Amalek.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Su ma"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kayan"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "ya keɓe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Sarkin"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "azurfa"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "da zinariyan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ya ɗauka"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "daga dukkan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ƙasashe"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "daga Edom"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "kuma daga Moab"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "da ƴan"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "kuma daga Falisawa"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "kuma daga Amalek"
+    }
+  ],
+  "timestamp": "2026-08-13T00:22:18.415933334Z",
+  "model": "glm-5.2"
+}

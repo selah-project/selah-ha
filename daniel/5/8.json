@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 5:8",
+  "book": "daniel",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Sa'an nan duk ma'abũta hikima na sarki sun shiga, amma ba su iya karanta rubutun, ⟨ko⟩ bayyana fassararsa wa sarki ba.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Sa'an nan"
+    },
+    {
+      "surface": "עללין",
+      "gloss": "sun shiga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "חכימי",
+      "gloss": "ma'abũta hikima"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "na sarki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "כהלין",
+      "gloss": "su iya"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "karanta rubutun"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "karanta"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "⟨ko⟩ bayyana fassararsa"
+    },
+    {
+      "surface": "להודעה",
+      "gloss": "bayyana"
+    },
+    {
+      "surface": "למלכא",
+      "gloss": "wa sarki"
+    }
+  ],
+  "timestamp": "2026-08-12T23:08:05.767204298Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 29:28",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma Ya'aƙub ya yi haka, kuma ya cika mako na wannan; kuma ya bã shi ⟨את⟩ Rakhel 'yarsa, ⟨don⟩ zama matarsa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aƙub"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "kuma ya cika"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "mako"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "na wannan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kuma ya bã shi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rakhel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rakhel"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "'yarsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨don⟩"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "zama matarsa"
+    }
+  ],
+  "timestamp": "2026-08-11T23:52:33.668353737Z",
+  "model": "glm-5.2"
+}

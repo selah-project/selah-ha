@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 24:14",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Kada ka danniya ma'aikacin yiwa, matalauci ⟨kuma⟩ mai buƙata, daga cikin ƙan'annka ko daga cikin baƙin da ke kasarka, ⟨kuma⟩ a cikin ƙofofinka.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תַעֲשֹׁק",
+      "gloss": "ka danniya"
+    },
+    {
+      "surface": "שָׂכִיר",
+      "gloss": "ma'aikacin yiwa"
+    },
+    {
+      "surface": "עָנִי",
+      "gloss": "matalauci"
+    },
+    {
+      "surface": "וְאֶבְיוֹן",
+      "gloss": "mai buƙata"
+    },
+    {
+      "surface": "מֵאַחֶיךָ",
+      "gloss": "daga cikin ƙan'annka"
+    },
+    {
+      "surface": "אוֹ",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מִגֵּרְךָ",
+      "gloss": "daga cikin baƙin"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "da ke"
+    },
+    {
+      "surface": "בְּאַרְצְךָ",
+      "gloss": "kasarka"
+    },
+    {
+      "surface": "בִּשְׁעָרֶיךָ",
+      "gloss": "a cikin ƙofofinka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:35:21.789843230Z",
+  "model": "glm-5.2"
+}

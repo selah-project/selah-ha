@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Buƙatar zuciyarsa ka ba shi, kuma buƙatar lebbansa ba ka hana shi ⟨ko kaɗan⟩. Sela.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "buƙatar"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "zuciyarsa"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ka ba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "shi"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "kuma buƙatar"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "lebbansa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "mנעת",
+      "gloss": "ka hana"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-12T19:27:32.984800248Z",
+  "model": "glm-5.2"
+}

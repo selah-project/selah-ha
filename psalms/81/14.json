@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 81,
+  "translation": "Da da gaske mutana Na suna sauraro Ni, Yisra'el a cikin hanyoyi Na yana tafiya!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "da da gaske"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mutana Na"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "suna sauraro"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "a cikin hanyoyi Na"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "yana tafiya"
+    }
+  ],
+  "timestamp": "2026-08-12T20:12:11.485227929Z",
+  "model": "glm-5.2"
+}

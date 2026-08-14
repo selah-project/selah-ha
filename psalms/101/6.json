@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 101,
+  "translation": "Idanuna ⟨sunã⟩ a kan masu aminci na ƙasa, ⟨don⟩ su zauna tare da ni; mai tafiya a cikin hanyar da ba ta da laifi, ⟨shĩ⟩ zai bauta min.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "idanuna"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "a kan masu aminci"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "na ƙasa"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "don zauna"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "tare da ni"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mai tafiya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "a cikin hanyar"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "da ba ta da laifi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shĩ"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "zai bauta min"
+    }
+  ],
+  "timestamp": "2026-08-12T20:26:47.645935057Z",
+  "model": "glm-5.2"
+}

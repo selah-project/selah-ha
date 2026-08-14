@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Domin ba zai daina kasancewa ba mai talauci daga tsakanin ƙasar; saboda haka ni nake umartar ka, ina cewa: Lallai ka buɗe ⟨את⟩ hannunka ga ɗan'uwanka, ga matalaucinka, da kuma ga mai talaucinka, a ƙasarka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "zai daina kasancewa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "mai talauci"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "daga tsakanin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nake umartar ka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ina cewa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lallai ka buɗe"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ka buɗe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannunka"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hannunka"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ga ɗan'uwanka"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "ga matalaucinka"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "da kuma ga mai talaucinka"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "a ƙasarka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:21:41.214743876Z",
+  "model": "glm-5.2"
+}

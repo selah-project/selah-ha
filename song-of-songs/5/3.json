@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Na cire ⟨את⟩ rigata; yaya zan sake sa ta? Na wanke ⟨את⟩} ƙafafuna; yaya zan sake gurɓata su?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "na cire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rigata"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "rigata"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "yaya"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "zan sake sa ta"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "na wanke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙafafuna"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ƙafafuna"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "yaya"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "zan sake gurɓata su"
+    }
+  ],
+  "timestamp": "2026-08-12T22:24:34.801711850Z",
+  "model": "glm-5.2"
+}

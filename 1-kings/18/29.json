@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 18:29",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Kuma ⟨ya zo⟩ yayi da zarra ta tsakani, suka annabta har lokacin haɗaka hadayar yamma, amma babu sauti, kuma babu mai amsa, kuma babu mai sauraro.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ⟨ya zo⟩"
+    },
+    {
+      "surface": "כעבר",
+      "gloss": "yayi da zarra"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "ta tsakani"
+    },
+    {
+      "surface": "ויתנבאו",
+      "gloss": "suka annabta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "lokacin haɗaka"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "hadayar yamma"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "amma babu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "mai amsa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma babu"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "mai sauraro"
+    }
+  ],
+  "timestamp": "2026-08-12T11:40:50.056217686Z",
+  "model": "glm-5.2"
+}

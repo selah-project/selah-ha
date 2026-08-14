@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 15:2",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Sa'an nan Dawida ya ce: \"Babu ⟨ɗaukar⟩ ⟨את⟩ akwatin Elohim sai Liewa, domin Yahweh ne ya zaɓa su don ⟨ɗaukar⟩ ⟨את⟩ akwatin Yahweh da kuma bauta Mas har abada.\"",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Sa'an nan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Babu"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "⟨ɗaukar⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sai"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Liewa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "בם",
+      "gloss": "su"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ya zaɓa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "don ⟨ɗaukar⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwatin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "akwatin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולשרתו",
+      "gloss": "da kuma bauta Mas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abada"
+    }
+  ],
+  "timestamp": "2026-08-13T02:39:57.037431817Z",
+  "model": "glm-5.2"
+}

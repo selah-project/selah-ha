@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 132,
+  "translation": "May coci ⟨na⟩ gunki su sa tawali'u, kuma masu gaskiyarka su rerãna.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "coci ⟨na⟩ gunki"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "su sa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tawali'u"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "kuma masu gaskiyarka"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "su rerãna"
+    }
+  ],
+  "timestamp": "2026-08-12T20:48:12.722221510Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "kuma girman Yisra'el yana yada shaida ⟨a⟩ fuskar sa, kuma Yisra'el da Efrayim suna tauruwa cikin laifinsu — ya taura ma Yehuda tare da su.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "kuma yana yada shaida"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "girman"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "⟨a⟩ fuskar sa"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "kuma Yisra'el"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "da Efrayim"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "suna tauruwa"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "cikin laifinsu"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "ya taura"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "tare da su"
+    }
+  ],
+  "timestamp": "2026-08-12T18:11:28.779266515Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 87,
+  "translation": "Zan tuna ⟨da⟩ Rahav da Bavel a masu sanina; ga, Pelishet da Tzor, tare da Kush; wannan an haifa shi a can.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Zan tuna"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "⟨da⟩ Rahav"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "da Bavel"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "a masu sanina"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ga"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelishet"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "da Tzor"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "an haifa shi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    }
+  ],
+  "timestamp": "2026-08-12T20:18:11.750169089Z",
+  "model": "glm-5.2"
+}

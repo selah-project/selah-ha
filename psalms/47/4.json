@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "⟨Ya⟩ dorawa al'ummai a ƙarƙashinmu, da kuma kabilun a ƙarƙashin ƙafafunmu.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "⟨Ya⟩ dorawa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "al'ummai"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "a ƙarƙashinmu"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "da kuma kabilun"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a ƙarƙashin"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "ƙafafunmu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:46:50.978374678Z",
+  "model": "glm-5.2"
+}

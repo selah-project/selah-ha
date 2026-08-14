@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 13:22",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Kuma Avshalom bai yi magana da Amnon ba, don mugunta ko don nagarta, domin Avshalom ya ƙi ⟨את⟩ Amnon, saboda abin da ya cutar da ⟨את⟩ Tamar ƙanwarsa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kuma ba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yi magana"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "da"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "למרע",
+      "gloss": "don mugunta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "don nagarta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ya ƙi"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "על",
+      "gloss": "saboda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "abin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ya cutar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ƙanwarsa"
+    }
+  ],
+  "timestamp": "2026-08-12T10:12:38.099863901Z",
+  "model": "glm-5.2"
+}

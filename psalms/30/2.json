@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Da ni in ɗaukaka ka, Yahweh, domin ka ja ni, kuma ba ka bari aƙiyaina su yi murna a kan ni.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "Da ni in ɗaukaka ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "ka ja ni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba ka bari"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "su yi murna"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "aƙiyaina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a kan ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:33:02.666930080Z",
+  "model": "glm-5.2"
+}

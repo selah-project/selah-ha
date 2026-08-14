@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Don rarrabe tsakanin mara tsarki da tsarkakke, da tsakanin dabbar da za a ci da dabbar ⟨da⟩ ba za a ci ba.",
+  "tokens": [
+    {
+      "surface": "לְהַבְדִּ֕יל",
+      "gloss": "don rarrabe"
+    },
+    {
+      "surface": "בֵּ֥ין",
+      "gloss": "tsakanin"
+    },
+    {
+      "surface": "הַטָּמֵ֖א",
+      "gloss": "mara tsarki"
+    },
+    {
+      "surface": "וּבֵ֣ין",
+      "gloss": "da"
+    },
+    {
+      "surface": "הַטָּהֹ֑ר",
+      "gloss": "tsarkakke"
+    },
+    {
+      "surface": "וּבֵ֤ין",
+      "gloss": "da tsakanin"
+    },
+    {
+      "surface": "הַֽחַיָּה֙",
+      "gloss": "dabbar"
+    },
+    {
+      "surface": "הַֽנֶּאֱכֶ֔לֶת",
+      "gloss": "da za a ci"
+    },
+    {
+      "surface": "וּבֵין֙",
+      "gloss": "da"
+    },
+    {
+      "surface": "הַֽחַיָּ֔ה",
+      "gloss": "dabbar"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תֵאָכֵֽל",
+      "gloss": "za a ci ba"
+    }
+  ],
+  "timestamp": "2026-08-12T01:58:49.319496370Z",
+  "model": "glm-5.2"
+}

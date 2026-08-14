@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 50,
+  "translation": "‘Ya’yansa suka yi masa haka, kamar yadda ya umarce su.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "‘ya’yansa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ya umarce su"
+    }
+  ],
+  "timestamp": "2026-08-12T00:28:16.667728260Z",
+  "model": "glm-5.2"
+}

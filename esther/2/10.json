@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Ba ta faɗa ba Esita ⟨את⟩ mutanenta da ⟨את⟩ asalinta, domin Mardokayai ya umarce ta da kada ta faɗa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ta faɗa"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutanenta"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "mutanenta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "asalinta"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "asalinta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mardokayai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ya umarce"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "ta faɗa"
+    }
+  ],
+  "timestamp": "2026-08-12T22:53:24.003089921Z",
+  "model": "glm-5.2"
+}

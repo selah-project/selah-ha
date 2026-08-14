@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Suka ji mazaunan Yavesh-Gilad ⟨abin⟩ ⟨את⟩ abin da Pelishtiyawa suka wa Shaul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "suka ji"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mazaunan Yavesh-Gilad ⟨abin⟩"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mazaunan"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abin da Pelishtiyawa suka wa Shaul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "suka wa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtiyawa"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-08-12T09:51:10.966717339Z",
+  "model": "glm-5.2"
+}

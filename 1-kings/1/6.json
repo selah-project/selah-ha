@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "kuma uban sa ba ya tursasa shi dukkan kwanakin sa, ⟨yana cewa⟩, \"Don me ka yi haka?\" kuma shi kyakkyawar siffa ne sosai, kuma ⟨uhun⟩ ta haife shi bayan Avshalom.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "ya tursasa shi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "daga kwanakan sa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨yana cewa⟩"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "don me"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "haka"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ka yi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kyakkyawa"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "siffa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "(uhun) ta haife"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-12T10:45:55.615405937Z",
+  "model": "glm-5.2"
+}

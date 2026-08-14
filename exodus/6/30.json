@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma Mosheh ya faɗa a gaban Yahweh, cewa, \"Ga, ni ⟨ne⟩ maras kaciya a leɓe, yaya Paroh zai saurare ni?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya faɗa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a gaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Ga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "maras kaciya"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "a leɓe"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "kuma yaya"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "zai saurare"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-12T00:32:01.632163627Z",
+  "model": "glm-5.2"
+}

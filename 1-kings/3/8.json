@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "\"Bawanka kuma yana tsakanin jama'arka da ka zaɓa, al'umma mai yawa waɗanda ba za a iya lissafa su ko ƙidaya su ba saboda yawa.\"",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "Bawanka kuma"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "yana tsakanin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jama'arka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "ka zaɓa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "al'umma"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mai yawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "za a iya lissafa su"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ƙidaya su"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "saboda yawa"
+    }
+  ],
+  "timestamp": "2026-08-12T10:57:09.739342522Z",
+  "model": "glm-5.2"
+}

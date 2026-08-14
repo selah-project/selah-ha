@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 31:6",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 31,
+  "translation": "Ku bai wa mai halaka shinkafa, da giya ga masu goron rai.",
+  "tokens": [
+    {
+      "surface": "תְּנוּ",
+      "gloss": "Ku ba"
+    },
+    {
+      "surface": "שֵׁכָ֣ר",
+      "gloss": "shinkafa"
+    },
+    {
+      "surface": "לְאוֹבֵ֑ד",
+      "gloss": "mai halaka"
+    },
+    {
+      "surface": "וְ֝יַיִן",
+      "gloss": "da giya"
+    },
+    {
+      "surface": "לְמָ֣רֵי",
+      "gloss": "masu"
+    },
+    {
+      "surface": "נָֽפֶשׁ",
+      "gloss": "goron rai"
+    }
+  ],
+  "timestamp": "2026-08-12T21:36:23.081762291Z",
+  "model": "glm-5.2"
+}

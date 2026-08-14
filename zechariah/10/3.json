@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 10:3",
+  "book": "zechariah",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "A kan makiyaya fushina ta ƙaru, kuma a kan ƙwarai zan yi lissabi; domin Yahweh Sebaot ya ziyarci ⟨את⟩ garken sa, ⟨את⟩ gidan Yahuda, kuma ya sanya ⟨את⟩ su kamar dokin mulkin sa a yaƙi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "makiyaya"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ta ƙaru"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "fushina"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kuma a kan"
+    },
+    {
+      "surface": "העתודים",
+      "gloss": "ƙwarai"
+    },
+    {
+      "surface": "אפקוד",
+      "gloss": "zan yi lissabi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ya ziyarci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garken sa"
+    },
+    {
+      "surface": "עדרו",
+      "gloss": "garken sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidan Yahuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gidan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "kuma ya sanya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ su",
+      "marks": "dokin mulkin sa"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "kamar dokin"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "mulkin sa"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "a yaƙi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:08:57.537217438Z",
+  "model": "glm-5.2"
+}

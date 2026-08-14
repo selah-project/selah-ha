@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 46,
+  "translation": "Al'ummomi suna tada guruji, masarautu suna girgiza; ⟨shi⟩ ya yi murya, ƙasa tana narkewa.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "suna tada guruji"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "al'ummomi"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "suna girgiza"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "masarautu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨shi⟩ ya yi"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "murya"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "tana narkewa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ƙasa"
+    }
+  ],
+  "timestamp": "2026-08-12T19:47:57.050917115Z",
+  "model": "glm-5.2"
+}

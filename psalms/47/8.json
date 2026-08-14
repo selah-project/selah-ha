@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Domin sarkin dukkan ƙasa ⟨ne⟩ Elohim, ku rera da fahimta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ƙasa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ku rera"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "da fahimta"
+    }
+  ],
+  "timestamp": "2026-08-12T19:47:00.630510344Z",
+  "model": "glm-5.2"
+}

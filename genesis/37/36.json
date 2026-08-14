@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Kuma Midaniyawa sun sayar da shi ⟨את⟩ zuwa Mitsrayim, ga Potifar, bawan Par'o, shugaban masu yankan gunga.",
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "Kuma Midaniyawa"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "sun sayar da shi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shì"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "ga Potifar"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "bawan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "שר",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "masu yankan gunga"
+    }
+  ],
+  "timestamp": "2026-08-12T00:07:38.446839480Z",
+  "model": "glm-5.2"
+}

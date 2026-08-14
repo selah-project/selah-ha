@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 9:16",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Idan na kira, kuma ⟨ya⟩ amsa ni, ba zan gaskarta cewa ⟨ya⟩ saurara muryata ba.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "idan"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "na kira"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "kuma ⟨ya⟩ amsa ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אאמין",
+      "gloss": "zan gaskarta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "⟨ya⟩ saurara"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "muryata"
+    }
+  ],
+  "timestamp": "2026-08-12T21:45:23.254601400Z",
+  "model": "glm-5.2"
+}

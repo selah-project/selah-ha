@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 83,
+  "translation": "Assur ma anã tare da su, sun kasance ⟨ne⟩ jĩyar mãsu ĩmãni ga ʼyaʼyan Lutu. Sela.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אַשּׁוּר",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "נִלְוָה",
+      "gloss": "anã tare"
+    },
+    {
+      "surface": "עִמָּם",
+      "gloss": "da su"
+    },
+    {
+      "surface": "הָיוּ",
+      "gloss": "sun kasance"
+    },
+    {
+      "surface": "זְרוֹעַ",
+      "gloss": "jĩyar mãsu ĩmãni"
+    },
+    {
+      "surface": "לִבְנֵי",
+      "gloss": "ga ʼyaʼyan"
+    },
+    {
+      "surface": "לוֹט",
+      "gloss": "Lutu"
+    },
+    {
+      "surface": "סֶלָה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-12T20:11:26.492832205Z",
+  "model": "glm-5.2"
+}

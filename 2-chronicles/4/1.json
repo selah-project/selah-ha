@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma ya yi salla ⟨ne⟩ na tagulla, tsayin ⟨mitsarin⟩ shi ⟨ya kasance⟩ cubit guda ashirin, faɗin ⟨mitsarin⟩ shi kuma cubit ashirin, tsayinsa kuma cubit goma.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kuma ya yi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "salla"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tagulla"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ashirin"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "tsayinsa"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "kuma ashirin"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "faɗinsa"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "kuma goma"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "tsayinsa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:42:31.527135626Z",
+  "model": "glm-5.2"
+}

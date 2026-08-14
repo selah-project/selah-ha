@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma Moshe ya kururu zuwa Yahweh, yana cewa: Me zan yi wa wannan jama'a? Ɗan kaɗan, kuma za su jife ni da duwatsu!",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "kuma ya kururu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yana cewa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "me"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "zan yi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "wa jama'a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "har yanzu"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ɗan kaɗan"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "kuma za su jife ni da duwatsu"
+    }
+  ],
+  "timestamp": "2026-08-13T03:02:35.576949732Z",
+  "model": "glm-5.2"
+}

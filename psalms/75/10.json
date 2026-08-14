@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 75,
+  "translation": "Kuma ni, zan faɗa har abãda; zan rã̄wa wa Elohim na Ya'ƙũb.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "zan faɗa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "har abãda"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "zan rã̄wa wa"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim na"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'ƙũb"
+    }
+  ],
+  "timestamp": "2026-08-12T20:04:20.297736205Z",
+  "model": "glm-5.2"
+}

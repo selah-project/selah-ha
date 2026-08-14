@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma ya jefi duwatsu a ⟨את⟩ Dawuda, da ⟨את⟩ dukan bayin sarki Dawuda; kuma dukan mutanen da dukan jarumai sun kasance a dama gare shi da hagu gare shi.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "Kuma ya jefi duwatsu"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "da duwatsu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawuda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "dukan bayin sarki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bayin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma duka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma duka"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "jarumai"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "a dama gare shi"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "da hagu gare shi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:02:34.491894045Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma ⟨ya faru⟩ a lokacin da sarki ya ji ⟨את⟩ kalmomin littafin Torah, ya tsaga ⟨את⟩ tufafinsa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨ya faru⟩ a lokacin"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "da"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalmomin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ya ji kalmomin"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "littafin"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ya tsaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tufafinsa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "tufafinsa"
+    }
+  ],
+  "timestamp": "2026-08-13T02:06:55.707803364Z",
+  "model": "glm-5.2"
+}

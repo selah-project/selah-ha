@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma masu haihuwa sun ji tsoron ⟨את⟩ Elohim, kuma ba su yi kamar yadda sarkin Mitsrayim ya faɗa musu ba, suka raya ⟨את⟩ yaran maza.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "kuma sun ji tsoron"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "masu haihuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "suka yi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "musu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "sukaya raya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaran maza"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "yaran maza"
+    }
+  ],
+  "timestamp": "2026-08-12T00:30:08.943254372Z",
+  "model": "glm-5.2"
+}

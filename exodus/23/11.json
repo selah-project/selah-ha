@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 23:11",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "amma shekara ta bakwai za ka bar ta ta huta kuma za ka bar ⟨ta⟩, kuma matalauta ⟨na⟩ mutanenka za su ci, kuma abin da suka bari dabba ⟨ta⟩ dãji za ta ci; haka za ka yi wa gonar inabarka ⟨da⟩ man zaitun naka.",
+  "tokens": [
+    {
+      "surface": "והשביעת",
+      "gloss": "amma ta bakwai"
+    },
+    {
+      "surface": "תשמטנה",
+      "gloss": "za ka bar ta ta huta"
+    },
+    {
+      "surface": "ונטשתה",
+      "gloss": "kuma za ka bar"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "kuma za su ci"
+    },
+    {
+      "surface": "אביני",
+      "gloss": "matalauta"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mutanenka"
+    },
+    {
+      "surface": "ויתרם",
+      "gloss": "kuma abin da suka bari"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "za ta ci"
+    },
+    {
+      "surface": "חית",
+      "gloss": "dabba"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dãji"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "za ka yi"
+    },
+    {
+      "surface": "לכרמך",
+      "gloss": "wa gonar inabarka"
+    },
+    {
+      "surface": "לזיתך",
+      "gloss": "man zaitun naka"
+    }
+  ],
+  "timestamp": "2026-08-12T00:59:04.915280196Z",
+  "model": "glm-5.2"
+}

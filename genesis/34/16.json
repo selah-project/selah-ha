@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "sa'an nan za mu bayar da ⟨את⟩ 'ya'yan mu muku, kuma ⟨את⟩ 'ya'yan ku za mu ɗauka mu dawo da mu; kuma za mu zauna ⟨את⟩ ⟨tare⟩ da ku, mu kuma mu zama mutane ɗaya.\"",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "sa'an nan za mu bayar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'ya'yan mu"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "'ya'yan mu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "muku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "'ya'yan ku"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "'ya'yan ku"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "za mu ɗauka"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "kuma za mu zauna"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨tare⟩ da ku"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "mu kuma mu zama"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "mutane"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ɗaya"
+    }
+  ],
+  "timestamp": "2026-08-12T00:06:45.165934040Z",
+  "model": "glm-5.2"
+}

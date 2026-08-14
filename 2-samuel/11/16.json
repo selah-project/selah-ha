@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Sai ya samu, yayin da Yoʼav ke kallon birnin, ya sanya ⟨את⟩ Uriya a wuri ⟨da⟩ ya sani cewa mutanen maza masu ƙarfi suna can.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Sai ya samu"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "yayin da yake kallon"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoʼav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "birnin"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ya sanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "wuri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ya sani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "maza masu ƙarfi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "suna can"
+    }
+  ],
+  "timestamp": "2026-08-13T02:02:30.760617728Z",
+  "model": "glm-5.2"
+}

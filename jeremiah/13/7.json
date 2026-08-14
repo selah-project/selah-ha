@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 13:7",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 13,
+  "translation": "Don haka na tafi Perath, na haƙa, kuma na ɗauki ⟨את⟩ gadon daga wajen da na ɓoye shi can, sai gani, an lalata gadon, ba ya amfani da kome.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "don haka na tafi"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "Perath"
+    },
+    {
+      "surface": "ואחפר",
+      "gloss": "na haƙa"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "kuma na ɗauki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gadon"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "gadon"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "wajen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "טמנתיו",
+      "gloss": "na ɓoye shi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "can"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sai gani"
+    },
+    {
+      "surface": "נשחת",
+      "gloss": "an lalata"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "gadon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "ya amfani"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "da kome"
+    }
+  ],
+  "timestamp": "2026-08-13T02:12:04.114994448Z",
+  "model": "glm-5.2"
+}

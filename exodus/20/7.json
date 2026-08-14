@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 20,
+  "translation": "Kada ka ɗauki ⟨את⟩ sunan Yahweh, Elohiminka, da banza; domin Yahweh ba zai bar ⟨ba a tuhuma⟩ ⟨את⟩ wanda ya ɗauki ⟨את⟩ sunanSa da banza.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Kada"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ka ɗauki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sunan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminka"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "da banza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba zai"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "bar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ya ɗauki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunanSa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sunanSa"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "da banza"
+    }
+  ],
+  "timestamp": "2026-08-12T00:51:14.061009116Z",
+  "model": "glm-5.2"
+}

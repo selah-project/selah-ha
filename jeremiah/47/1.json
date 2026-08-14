@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "Mutumin da ⟨ya kasance⟩ kalmar Yahweh ⟨ta zuwa⟩ Yirmeyahu annabi, game da Filistim, a gaban da Paroh ya yi ⟨את⟩ Gaza.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mutumin da"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalmar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ta zuwa"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "game da"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistim"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "a gaban da"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ya yi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    }
+  ],
+  "timestamp": "2026-08-12T16:27:38.181317799Z",
+  "model": "glm-5.2"
+}

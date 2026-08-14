@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma su riƙe daga jinin, kuma su sa a kan ƙofofin biyu da a kan lintel, a kan gidajen da za su ci ⟨את⟩ shi a cikinsu.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Kuma su riƙe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "jinin"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "kuma su sa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "ƙofofin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "da a kan"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "lintel"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "gidajen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "za su ci"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "a cikinsu"
+    }
+  ],
+  "timestamp": "2026-08-13T01:45:04.100880788Z",
+  "model": "glm-5.2"
+}

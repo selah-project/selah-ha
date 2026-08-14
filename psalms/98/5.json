@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 98,
+  "translation": "Ku rera wa Yahweh da kinori, da kinori da ⟨da⟩ muryar waka.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Ku rera"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "da kinori"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "da kinori"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "da ⟨da⟩ muryar"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "waka"
+    }
+  ],
+  "timestamp": "2026-08-12T20:24:44.462350379Z",
+  "model": "glm-5.2"
+}

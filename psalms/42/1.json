@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 42,
+  "translation": "Ga shugaban mawaka. Masƙila ga 'ya'yan Qorach.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ga shugaban mawaka"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "masƙila"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ga 'ya'yan"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorach"
+    }
+  ],
+  "timestamp": "2026-08-13T02:24:24.462927007Z",
+  "model": "glm-5.2"
+}

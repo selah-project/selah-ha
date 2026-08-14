@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Sai Bat-Sheva ta yi litsa, ta kuma yi gaisuwar mulki ga sarki, sai sarki ya ce, me kake buƙata?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "Sai ta yi litsa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "ta kuma yi gaisuwar mulki"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ga sarki"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sai ya ce"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "מה",
+      "gloss": "me"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kake buƙata"
+    }
+  ],
+  "timestamp": "2026-08-12T10:46:47.971731720Z",
+  "model": "glm-5.2"
+}

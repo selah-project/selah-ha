@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Donene ⟨ke⟩ ɓoye fuskarka, ⟨kana⟩ manta da talaucinmu da matsin lamunmu?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Donene"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuskarka"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ɓoye ⟨ke⟩"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "⟨kana⟩ manta"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "da talaucinmu"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "da matsin lamunmu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:44:26.414621180Z",
+  "model": "glm-5.2"
+}

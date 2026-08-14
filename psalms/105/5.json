@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 105,
+  "translation": "Ku tuna da abin ban sha'awar Sa, wanda Ya yi, alamun Sa da hukunce-hukuncen bakin Sa.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Ku tuna da"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "abin ban sha'awar Sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ya yi"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "alamun Sa"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "da hukunce-hukuncen"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "bakin Sa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:29:48.092479291Z",
+  "model": "glm-5.2"
+}

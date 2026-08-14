@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Na ɗanƙara, kuma an lallasa ni ⟨har⟩ gwiwa; na kuka kuka daga gudun zuciyata.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "na ɗanƙara"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "kuma an lallasa ni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨har⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gwiwa"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "na kuka kuka"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "daga gudun"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "zuciyata"
+    }
+  ],
+  "timestamp": "2026-08-12T19:40:00.604844957Z",
+  "model": "glm-5.2"
+}

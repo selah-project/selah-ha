@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Da ⟨את⟩ Kibtsayim da ⟨את⟩ mahaɗanta, da ⟨את⟩ Bet־Horon da ⟨את⟩ mahaɗanta; birane huɗu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Kibtsayim"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kibtsayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "mahaɗanta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mahaɗanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Bet־Horon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "mahaɗanta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mahaɗanta"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "birane"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "huɗu"
+    }
+  ],
+  "timestamp": "2026-08-12T06:57:47.371966248Z",
+  "model": "glm-5.2"
+}

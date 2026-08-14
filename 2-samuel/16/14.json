@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Kuma sarki ya zo, da dukan mutanen da ⟨suke⟩ ⟨את⟩ tare da shi, sun gajiyu, kuma ya natsu a can.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kuma ya zo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "da dukan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "tare da shi"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "sun gajiyu"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "kuma ya natsu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a can"
+    }
+  ],
+  "timestamp": "2026-08-12T10:25:11.744547031Z",
+  "model": "glm-5.2"
+}

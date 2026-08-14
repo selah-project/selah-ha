@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 43,
+  "translation": "Idan zaka aika ⟨את⟩ ɗan'uwannu ⟨את⟩ mu, za mu sauka kuma mu say maka abinci.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "aika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗan'uwannu"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ɗan'uwannu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "mu"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "za mu sauka"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "kuma mu say"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "abinci"
+    }
+  ],
+  "timestamp": "2026-08-12T00:16:47.669674005Z",
+  "model": "glm-5.2"
+}

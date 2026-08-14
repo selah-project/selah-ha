@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Dawuda ya yi magana da Yahweh ⟨את⟩ kalmomin waƙar wannan, a rãwar da Yahweh ya tsĩre shi daga hannun dukkan maƙiyansa, kuma daga hannun Shaul.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ya yi magana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "da Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalmomin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalmomin"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "waƙar"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a rãwar"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "da ya tsĩre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ shi"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "daga hannun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "maƙiyansa"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "kuma daga hannun"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-08-12T10:32:13.713899336Z",
+  "model": "glm-5.2"
+}

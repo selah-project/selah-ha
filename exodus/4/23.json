@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Kuma na ce maka, ka saki ⟨את⟩ ɗana domin ya bauta min, kuma ka ƙi sakin sa; gani, ni ina kashe ⟨את⟩ ɗanka, farkon haihuwarka.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Kuma na ce"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maka"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ka saki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗana"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "domin ya bauta min"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "kuma ka ƙi"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "sakin sa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gani"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ina kashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗanka"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ɗanka"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "farkon haihuwarka"
+    }
+  ],
+  "timestamp": "2026-08-12T00:33:12.511362801Z",
+  "model": "glm-5.2"
+}

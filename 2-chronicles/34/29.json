@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Kuma sarki ya aika, ya tattara ⟨את⟩ dukkan tsofaffin Yehuda da Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Kuma ya aika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ya tattara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "tsofaffin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "da Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-13T03:13:16.740960924Z",
+  "model": "glm-5.2"
+}

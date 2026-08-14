@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 38,
+  "translation": "Kuma na kasance kamar mutum wanda bā sa ji, kuma bābu a bakinsa gargaɗi.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Kuma na kasance"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "kamar mutum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bā"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sa ji"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kuma bābu"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "a bakinsa"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "gargaɗi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:40:51.617458475Z",
+  "model": "glm-5.2"
+}

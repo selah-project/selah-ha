@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma ƙura ta koma a kasa kamar yadda take, kuma ruhu ya koma zuwa Elohim wanda Ya ba shi.",
+  "tokens": [
+    {
+      "surface": "וְיָשֹׁ֧ב",
+      "gloss": "ta koma"
+    },
+    {
+      "surface": "הֶעָפָ֛ר",
+      "gloss": "ƙura"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הָאָ֖רֶץ",
+      "gloss": "kasa"
+    },
+    {
+      "surface": "כְּשֶׁהָיָ֑ה",
+      "gloss": "kamar yadda take"
+    },
+    {
+      "surface": "וְהָר֣וּחַ",
+      "gloss": "kuma ruhu"
+    },
+    {
+      "surface": "תָּשׁ֔וּב",
+      "gloss": "ya koma"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "הָאֱלֹהִ֖ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "נְתָנָֽהּ",
+      "gloss": "Ya ba shi"
+    }
+  ],
+  "timestamp": "2026-08-12T22:51:26.881806352Z",
+  "model": "glm-5.2"
+}

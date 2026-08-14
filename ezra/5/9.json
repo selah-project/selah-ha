@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 5:9",
+  "book": "ezra",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Sa'an nan muka tambaye shugabanni waɗannan, kuma kamar haka muka ce musu, \"Wane ya ba ku umarni ⟨na⟩ gina wannan gida, da kuma kammala wannan bango?\"",
+  "tokens": [
+    {
+      "surface": "אֱדַ֗יִן",
+      "gloss": "sa'an nan"
+    },
+    {
+      "surface": "שְׁאֵ֨לְנָא֙",
+      "gloss": "muka tambaye"
+    },
+    {
+      "surface": "לְשָׂבַיָּ֣א",
+      "gloss": "shugabanni"
+    },
+    {
+      "surface": "אִלֵּ֔ךְ",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "כְּנֵ֖מָא",
+      "gloss": "kamar haka"
+    },
+    {
+      "surface": "אֲמַ֣רְנָא",
+      "gloss": "muka ce"
+    },
+    {
+      "surface": "לְּהֹ֑ם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "מַן",
+      "gloss": "wane"
+    },
+    {
+      "surface": "שָׂ֨ם",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "לְכֹ֜ם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "טְעֵ֗ם",
+      "gloss": "umarni"
+    },
+    {
+      "surface": "בַּיְתָ֤א",
+      "gloss": "gida"
+    },
+    {
+      "surface": "דְנָ֖ה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "לְמִבְנְיָ֔ה",
+      "gloss": "⟨na⟩ gina"
+    },
+    {
+      "surface": "וְאֻשַּׁרְנָ֥א",
+      "gloss": "bango"
+    },
+    {
+      "surface": "דְנָ֖ה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "לְשַׁכְלָלָֽה",
+      "gloss": "kammala"
+    }
+  ],
+  "timestamp": "2026-08-12T23:27:33.249796678Z",
+  "model": "glm-5.2"
+}

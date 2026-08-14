@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Duk ⟨את⟩ biranen da kuke bayarwa wa Lewiyawa, arba'in da takwas birane ne — ⟨את⟩ ⟨su da⟩ ⟨את⟩ filayensu.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "הֶעָרִים",
+      "gloss": "biranen"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "da"
+    },
+    {
+      "surface": "תִּתְּנוּ",
+      "gloss": "kuke bayarwa"
+    },
+    {
+      "surface": "לַלְוִיִּם",
+      "gloss": "wa Lewiyawa"
+    },
+    {
+      "surface": "אַרְבָּעִים",
+      "gloss": "arba'in"
+    },
+    {
+      "surface": "וּשְׁמֹנֶה",
+      "gloss": "da takwas"
+    },
+    {
+      "surface": "עִיר",
+      "gloss": "birane"
+    },
+    {
+      "surface": "אֶתְהֶן",
+      "gloss": "⟨את⟩ ⟨su da⟩",
+      "marks": "filayensu"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "filayensu"
+    },
+    {
+      "surface": "מִגְרְשֵׁיהֶן",
+      "gloss": "filayensu"
+    }
+  ],
+  "timestamp": "2026-08-12T04:47:12.090857616Z",
+  "model": "glm-5.2"
+}

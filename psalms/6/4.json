@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 6,
+  "translation": "Kuma raina ta firgita sosai; kai ⟨ne⟩, Yahweh, har yaushe?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Kuma raina"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "ta firgita"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "har"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "yaushe"
+    }
+  ],
+  "timestamp": "2026-08-12T19:16:14.602570443Z",
+  "model": "glm-5.2"
+}

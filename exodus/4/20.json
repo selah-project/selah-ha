@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 4,
+  "translation": "Sai Moshe ya riƙa ⟨את⟩ matarsa da ⟨את⟩ ɗiyansa, ya sa su hau kan jakin, ya koma ƙasar Mitsrayim. Kuma Moshe ya riƙa ⟨את⟩ sandar Elohim a cikin hannunsa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ya riƙa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matarsa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "matarsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɗiyansa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɗiyansa"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "ya sa su hau"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "jakın"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ya koma"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ya riƙa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandar"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sandar"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "a cikin hannunsa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:33:35.085430183Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 3:7",
+  "book": "micah",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma masu gani za su ji kunya, masu tafsiri za su ruɗe, kuma dukansu za su rufe ⟨ne⟩ leɓunsu, domin babu ⟨da⟩ amsa daga Elohim.",
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "za su ji kunya"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "masu gani"
+    },
+    {
+      "surface": "וחפרו",
+      "gloss": "za su ruɗe"
+    },
+    {
+      "surface": "הקסמים",
+      "gloss": "masu tafsiri"
+    },
+    {
+      "surface": "ועטו",
+      "gloss": "za su rufe"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "leɓunsu"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "dukansu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "amsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "daga Elohim"
+    }
+  ],
+  "timestamp": "2026-08-12T18:40:45.090439119Z",
+  "model": "glm-5.2"
+}

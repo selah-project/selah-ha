@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 3:15",
+  "book": "ruth",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ya ce mata: «Ka bada wando da kake sawa, ka riƙe shi.» Kuma ta riƙe shi, kuma ya auna shida sha'ir, sa'an nan ya aje masa, kuma ya shiga ⟨a⟩ cikin gari.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kuma ya ce mata"
+    },
+    {
+      "surface": "הבי",
+      "gloss": "ka bada"
+    },
+    {
+      "surface": "המטפחת",
+      "gloss": "wando"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kake sawa"
+    },
+    {
+      "surface": "ואחזי",
+      "gloss": "ka riƙe shi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨a cikinsa⟩"
+    },
+    {
+      "surface": "ותאחז",
+      "gloss": "kuma ta riƙe shi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨a cikinsa⟩"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "kuma ya auna"
+    },
+    {
+      "surface": "שש",
+      "gloss": "shida"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "sha'ir"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "sa'an nan ya aje masa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨a⟩ masa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kuma ya shiga"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨a⟩ cikin gari"
+    }
+  ],
+  "timestamp": "2026-08-12T22:29:01.918316832Z",
+  "model": "glm-5.2"
+}

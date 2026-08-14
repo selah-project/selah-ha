@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Ni zan amsa maka da kalmomi, da ⟨את⟩ abokanka ⟨waɗanda suke⟩ tare da kai.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "zan amsa maka"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "da kalmomi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abokanka"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "abokanka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tare da kai"
+    }
+  ],
+  "timestamp": "2026-08-12T22:12:30.815368505Z",
+  "model": "glm-5.2"
+}

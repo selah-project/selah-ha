@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 29,
+  "translation": "Kuma Ya'aƙub ya bauta don Rakhel shekara bakwai; kuma a idanunsa ⟨sun kasance⟩ kamar ƙananan kwana, saboda ƙaunarsa ⟨ga⟩ ⟨את⟩ ta.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "Kuma ya bauta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aƙub"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "don Rakhel"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bakwai"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "kuma suka kasance"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "a idanunsa"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "kamar kwana"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "ƙananan"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "saboda ƙaunarsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ta (Rakhel)"
+    }
+  ],
+  "timestamp": "2026-08-13T01:43:24.145016851Z",
+  "model": "glm-5.2"
+}

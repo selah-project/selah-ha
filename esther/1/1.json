@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma ⟨ya faru⟩ a cikin kwanakin Achashverosh — shi ne Achashverosh, sarkin da ke mulki daga Hodu har zuwa Kush — larduna guda sha bakwai da dari.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kuma ⟨ya faru⟩"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "a cikin kwanakin"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi ne"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "daga Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har zuwa"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "guda sha bakwai"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "da dari"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": ""
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "larduna"
+    }
+  ],
+  "timestamp": "2026-08-12T22:54:29.967335331Z",
+  "model": "glm-5.2"
+}

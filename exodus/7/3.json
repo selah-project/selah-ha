@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma ni zai kwantar da ⟨את⟩ zuciyar Paroh, kuma zan yawaita ⟨את⟩ alamomi na da ⟨את⟩ abin koyi na cikin ƙasar Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kuma ni"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "zai kwantar da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuciyar Paroh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zuciyar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "kuma zan yawaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alamomi na"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "alamomi na"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kuma ⟨את⟩",
+      "marks": "abin koyi na"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "abin koyi na"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "cikin ƙasar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-12T00:36:41.986495250Z",
+  "model": "glm-5.2"
+}

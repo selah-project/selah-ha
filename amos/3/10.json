@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "Kuma ba su san yin abin da yake da kyau ba, nan ne maganar Yahweh, waɗanda ke ajiye tashin hankali da fashi a cikin fadojinsu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "suk san"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "yin"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "abin da yake da kyau"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nan ne maganar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "waɗanda ke ajiye"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tashin hankali"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "da fashi"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "a cikin fadojinsu"
+    }
+  ],
+  "timestamp": "2026-08-12T18:25:26.951976230Z",
+  "model": "glm-5.2"
+}

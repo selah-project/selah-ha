@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 97,
+  "translation": "Tsiyon ta ji ta kuma yi murna, 'ya'yan mata na Yehuda sun yi murna ⟨saboda⟩ hukuncinka, Yahweh.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "ta ji"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "ta kuma yi murna"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "sun yi murna"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "'ya'yan mata"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "⟨saboda⟩"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukuncinka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T20:23:44.934217619Z",
+  "model": "glm-5.2"
+}

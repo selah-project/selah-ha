@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "Kuma ⟨ya faru⟩ a baya da waɗannan abubuwa, Elohim ya jarraba ⟨את⟩ Avraham, ya kuma ce masa, \"Avraham!\" kuma ya ce, \"Ina nan.\"",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֗י",
+      "gloss": "Kuma ⟨ya faru⟩"
+    },
+    {
+      "surface": "אַחַר֙",
+      "gloss": "a baya"
+    },
+    {
+      "surface": "הַדְּבָרִ֣ים",
+      "gloss": "abubuwa"
+    },
+    {
+      "surface": "הָאֵ֔לֶּה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "וְהָ֣אֱלֹהִ֔ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נִסָּ֖ה",
+      "gloss": "ya jarraba"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אַבְרָהָ֑ם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וַיֹּ֣אמֶר",
+      "gloss": "ya kuma ce"
+    },
+    {
+      "surface": "אֵלָ֔יו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "אַבְרָהָ֖ם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וַיֹּ֥אמֶר",
+      "gloss": "ya kuma ce"
+    },
+    {
+      "surface": "הִנֵּֽנִי",
+      "gloss": "Ina nan"
+    }
+  ],
+  "timestamp": "2026-08-13T04:03:14.410493053Z",
+  "model": "glm-5.2"
+}

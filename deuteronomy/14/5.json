@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 14,
+  "translation": "adius, da gazelle, da yachmur, da aqqo, da dishon, da te'o, da zamer.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "adius"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "da gazelle"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "da yachmur"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "da aqqo"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "da dishon"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "da te'o"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "da zamer"
+    }
+  ],
+  "timestamp": "2026-08-12T05:20:58.969226727Z",
+  "model": "glm-5.2"
+}

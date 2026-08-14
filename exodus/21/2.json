@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Idan ka sayi ⟨bawa⟩ Baturiyawa, shekara shida zai yi aiki, kuma a cikin ⟨shekara ta⟩ bakwai zai fita kyauta domin kome.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Idan"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "ka sayi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "bawa"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Baturiyawa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "shida"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "shekara"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "zai yi aiki"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "kuma a cikin bakwai"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "zai fita"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "kyauta"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "domin kome"
+    }
+  ],
+  "timestamp": "2026-08-12T01:03:39.263726826Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 79,
+  "translation": "Mun zama mutunciya ga maƙwabtanmu, izgili da kaskanci ga waɗanda suke kewaye da mu.",
+  "tokens": [
+    {
+      "surface": "הָיִ֣ינוּ",
+      "gloss": "Mun zama"
+    },
+    {
+      "surface": "חֶ֭רְפָּה",
+      "gloss": "mutunciya"
+    },
+    {
+      "surface": "לִשְׁכֵנֵ֑ינוּ",
+      "gloss": "ga maƙwabtanmu"
+    },
+    {
+      "surface": "לַ֥עַג",
+      "gloss": "izgili"
+    },
+    {
+      "surface": "וָ֝קֶ֗לֶס",
+      "gloss": "da kaskanci"
+    },
+    {
+      "surface": "לִסְבִיבוֹתֵֽינוּ",
+      "gloss": "ga waɗanda suke kewaye da mu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:13:48.656845149Z",
+  "model": "glm-5.2"
+}

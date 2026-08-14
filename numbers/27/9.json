@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 27,
+  "translation": "Kuma idan ba ⟨akwai⟩ masa ɗiya ba, to ku ba ⟨את⟩ gado⟨nsa⟩ ga ƴan'uwansa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ba akwai"
+    },
+    {
+      "surface": "לו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɗiya"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ku ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadonsa"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "kado"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ga ƴan'uwansa"
+    }
+  ],
+  "timestamp": "2026-08-12T04:31:24.806221857Z",
+  "model": "glm-5.2"
+}

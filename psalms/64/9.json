@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 64,
+  "translation": "Kuma sun sa shi ya taɓawa, a kansu ⟨ne⟩ harshensu; duk wanda yake kallonsu zai gudu ⟨daga gaba⟩.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "Kuma sun sa shi ya taɓawa"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "a kansu"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "harshensu"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "zai gudu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wanda yake kallonsu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "su"
+    }
+  ],
+  "timestamp": "2026-08-12T19:54:50.980076383Z",
+  "model": "glm-5.2"
+}

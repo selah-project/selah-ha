@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 12:17",
+  "book": "jeremiah",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma idan ba za su ji ba, to, ni zan tsage ⟨את⟩ wannan al'ummar nan, in tsage ⟨kã shiga⟩ in halaka, ⟨shanãwar⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "וְאִ֖ם",
+      "gloss": "Kuma idan"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יִשְׁמָ֑עוּ",
+      "gloss": "za su ji"
+    },
+    {
+      "surface": "וְנָ֨תַשְׁתִּ֜י",
+      "gloss": "to, ni zan tsage"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "wannan al'ummar nan"
+    },
+    {
+      "surface": "הַגּ֥וֹי",
+      "gloss": "al'ummar"
+    },
+    {
+      "surface": "הַה֛וּא",
+      "gloss": "wannan nan"
+    },
+    {
+      "surface": "נָת֥וֹשׁ",
+      "gloss": "in tsage"
+    },
+    {
+      "surface": "וְאַבֵּ֖ד",
+      "gloss": "in halaka"
+    },
+    {
+      "surface": "נְאֻ֥ם",
+      "gloss": "⟨shanãwar⟩"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T15:18:06.569812291Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 25,
+  "translation": "Kuma Ni zan umurta ⟨את⟩ albarkata a gare ku a shekara ta shida, kuma ⟨ta⟩ yi ⟨את⟩ amfanin ⟨na⟩ shekara uku.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "Kuma Ni zan umurta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "albarkata"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "albarkata"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a gare ku"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "a shekara"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "ta shida"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "kuma ⟨ta⟩ yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amfanin"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "amfanin"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "⟨na⟩ uku"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "shekara"
+    }
+  ],
+  "timestamp": "2026-08-12T02:51:28.356246533Z",
+  "model": "glm-5.2"
+}

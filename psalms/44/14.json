@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Kana sanya mu ⟨a⟩ zagi ga makwabtanmu, kalaman izgili da ba'a ga waɗanda suke a kewayenmu.",
+  "tokens": [
+    {
+      "surface": "תְּשִׂימֵ֣נוּ",
+      "gloss": "Kana sanya mu"
+    },
+    {
+      "surface": "חֶ֭רְפָּה",
+      "gloss": "⟨a⟩ zagi"
+    },
+    {
+      "surface": "לִשְׁכֵנֵ֑ינוּ",
+      "gloss": "ga makwabtanmu"
+    },
+    {
+      "surface": "לַ֥עַג",
+      "gloss": "kalaman izgili"
+    },
+    {
+      "surface": "וָ֝קֶ֗לֶס",
+      "gloss": "da ba'a"
+    },
+    {
+      "surface": "לִסְבִיבוֹתֵֽינוּ",
+      "gloss": "ga waɗanda suke a kewayenmu"
+    }
+  ],
+  "timestamp": "2026-08-12T19:44:45.849939255Z",
+  "model": "glm-5.2"
+}

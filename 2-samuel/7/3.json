@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma Natan ya ce wa sarki: \"Tafi, ka dukana dukkan abin da yake a cikin zuciyarka, domin Yahweh yana tare da kai.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "yake a cikin zuciyarka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tafi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ka dukana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yana tare da kai"
+    }
+  ],
+  "timestamp": "2026-08-12T10:00:30.238131973Z",
+  "model": "glm-5.2"
+}

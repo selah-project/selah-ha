@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 115,
+  "translation": "Amma mu, za mu albarkaci Yah, daga yanzu har har abada. Praise Yah!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Amma mu"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "za mu albarkaci"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "daga yanzu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "har"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "har abada"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Praise"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-12T20:38:00.027850268Z",
+  "model": "glm-5.2"
+}

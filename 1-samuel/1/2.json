@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma yana da mata biyu; sunan ɗaya Hana, kuma sunan ⟨ta⟩ ta biyu Penina; kuma ga Penina ⟨akwai⟩ yara, kuma ga Hana babu yara.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "Kuma yana da"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "biyu"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mata"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sunan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ɗaya"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "kuma sunan"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ta biyu"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuma ⟨akwai⟩"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "ga Penina"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "yara"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "kuma ga Hana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "babu"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "yara"
+    }
+  ],
+  "timestamp": "2026-08-12T08:22:09.388430499Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Amma idan akwai mummunan lodi, to ka bayar da rai a madadin rai.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "amma idan"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "mummunan lodi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akwai"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ka bayar da"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rai"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a madadin"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "rai"
+    }
+  ],
+  "timestamp": "2026-08-12T00:59:54.260512901Z",
+  "model": "glm-5.2"
+}

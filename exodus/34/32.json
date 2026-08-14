@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 34,
+  "translation": "Kuma bayan haka, dukkan 'ya'yan Isira'ilu sun kusanto, kuma ya yi musu umarni da ⟨את⟩ duk abin da Yahweh ya faɗa ⟨את⟩ Tare-da shi a dutsen Sinay.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Kuma bayan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "sun kusanto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isira'ilu"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "kuma ya yi musu umarni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya faɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ Tare-da shi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a dutsen"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    }
+  ],
+  "timestamp": "2026-08-12T01:22:17.359394562Z",
+  "model": "glm-5.2"
+}

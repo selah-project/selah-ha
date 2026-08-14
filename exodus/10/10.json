@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 10,
+  "translation": "Ya ce musu: Yahweh ya kasance tare da ku, kamar yadda nake tura ku da ⟨את⟩ jariranku; ku duba, cewa ⟨cuta⟩ tana gaban ku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "musu"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ya kasance"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kamar haka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "tare da ku"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "nake tura"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jariranku"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "da jariranku"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ku duba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "cuta"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "tana gaban"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-08-12T00:43:02.812022553Z",
+  "model": "glm-5.2"
+}

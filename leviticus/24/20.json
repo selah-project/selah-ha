@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "ƙasƙa ⟨a maimakon⟩ ƙasƙa, ido ⟨a maimakon⟩ ido, haƙori ⟨a maimakon⟩ haƙori; kamar yadda ya saka lahani a cikin mutum, haka za a saka a cikin shi.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ƙasƙa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨a maimakon⟩"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ƙasƙa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ido"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨a maimakon⟩"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ido"
+    },
+    {
+      "surface": "שן",
+      "gloss": "haƙori"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨a maimakon⟩"
+    },
+    {
+      "surface": "שן",
+      "gloss": "haƙori"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamar yadda"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ya saka"
+    },
+    {
+      "surface": "מום",
+      "gloss": "lahani"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "a cikin mutum"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "za a saka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a cikin shi"
+    }
+  ],
+  "timestamp": "2026-08-12T02:49:55.574323920Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma Shemuël ya ce: \"Ku tattara ⟨את⟩ duka Isra'ila zuwa Mitspa, kuma zan yi addu'a saboda ku zuwa ga Yahweh.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "Ku tattara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duka Isra'ila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "duka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "zuwa Mitspa"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "kuma zan yi addu'a"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "saboda ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zuwa ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-12T08:43:43.710196791Z",
+  "model": "glm-5.2"
+}

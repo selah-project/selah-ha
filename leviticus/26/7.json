@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Kuma za ku bin ⟨את⟩ maƙiyanku, kuma za su faɗa gaban ku ⟨a⟩ ga takobi.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "kuma za ku bi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maƙiyanku"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "maƙiyanku"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "kuma za su faɗa"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "gaban ku"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ga takobi"
+    }
+  ],
+  "timestamp": "2026-08-12T02:58:40.398127749Z",
+  "model": "glm-5.2"
+}

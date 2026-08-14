@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 7:2",
+  "book": "nehemiah",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "kuma na umurta ⟨את⟩ Chanani ɗan'uwana, da ⟨את⟩ Chananyah, shugaban kagara, a kan Yerushalaim; domin shi ⟨ne⟩ kamar mutumin gaskiya, kuma yana tsoron ⟨את⟩ Elohim, fiye da daɗi da yawa.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "kuma na umurta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chanani"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Chanani"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ɗan'uwana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Chananyah"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Chananyah"
+    },
+    {
+      "surface": "שר",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "kagara"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "shi"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "kamar mutumin"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "gaskiya"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "kuma yana tsoron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "fiye da daɗi da yawa"
+    }
+  ],
+  "timestamp": "2026-08-12T23:43:10.929768230Z",
+  "model": "glm-5.2"
+}

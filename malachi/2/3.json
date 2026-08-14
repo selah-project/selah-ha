@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Ga ni ina zagin ⟨a⟩ gare ku ⟨את⟩ zuriyar ku, kuma zan watsa takarda a kan fuskokin ku, takardar bukukuwan ku, kuma ⟨shi⟩ zai ɗauke ku zuwa gare shi.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Ga ni"
+    },
+    {
+      "surface": "גער",
+      "gloss": "ina zagin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a gare ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuriyar ku"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "zuriyar ku"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "kuma zan watsa"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "takarda"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "fuskokin ku"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "takardar"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "bukukuwan ku"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "kuma zai ɗauke"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "zuwa gare shi"
+    }
+  ],
+  "timestamp": "2026-08-12T19:10:38.181864365Z",
+  "model": "glm-5.2"
+}

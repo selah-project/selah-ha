@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 3,
+  "translation": "A rana nan nã tõƙar da ⟨a kan⟩ Eli ⟨את⟩ dukan abin da na faɗa game da gidansa; farawa da kammalawa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "A rana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nan"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "nã tõƙar da"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a kan⟩"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "na faɗa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "game da"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gidansa"
+    },
+    {
+      "surface": "החל",
+      "gloss": "farawa"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "da kammalawa"
+    }
+  ],
+  "timestamp": "2026-08-12T08:33:33.710713037Z",
+  "model": "glm-5.2"
+}

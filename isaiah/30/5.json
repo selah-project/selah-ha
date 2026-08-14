@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "ha",
+  "chapter": 30,
+  "translation": "Duka ⟨sun kasance⟩ masu wari a kan wata al'uma, ba za su amfanar da su ba, ba don taimako kuma ba don amfani, amma don kunya, har ma don zagi.”",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Duka"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "masu wari"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wata al'uma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "za su amfanar da su"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "don taimako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "don amfani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amma"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "don kunya"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "har ma"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "don zagi"
+    }
+  ],
+  "timestamp": "2026-08-12T13:49:14.637584524Z",
+  "model": "glm-5.2"
+}

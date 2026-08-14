@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Kuma ƙanwarsa HaMoleketh ta haifa ⟨את⟩ Ishod da ⟨את⟩ Aviezer da ⟨את⟩ Machlah.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "Kuma ƙanwarsa"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "HaMoleketh"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ta haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ishod"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ishod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Aviezer"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Aviezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "da ⟨את⟩",
+      "marks": "Machlah"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Machlah"
+    }
+  ],
+  "timestamp": "2026-08-13T00:05:20.482687548Z",
+  "model": "glm-5.2"
+}

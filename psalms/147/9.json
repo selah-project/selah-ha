@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 147,
+  "translation": "Yana bai wa dabbobin abincinsu, ga 'ya'yan ungulu ⟨da⟩ suke kira.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Yana bai wa"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "ga dabbobin"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "abincinsu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ga 'ya'yan"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ungulu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "suke kira"
+    }
+  ],
+  "timestamp": "2026-08-12T20:58:00.724854252Z",
+  "model": "glm-5.2"
+}

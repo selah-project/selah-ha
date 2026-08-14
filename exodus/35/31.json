@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Kuma ya cika ⟨את⟩ shi da ruhun Elohim, da hikima, da fahimta, da ilmi, da kowane aiki.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Kuma ya cika"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "da ruhun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "da hikima"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "da fahimta"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "da ilmi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "da kowane"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "aiki"
+    }
+  ],
+  "timestamp": "2026-08-12T01:29:50.790348503Z",
+  "model": "glm-5.2"
+}

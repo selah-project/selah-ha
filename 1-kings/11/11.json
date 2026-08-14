@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 11:11",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Sai Yahweh ya ce wa Shelomo, \"Domin an yi wannan tare da kai, kuma ba ka kiyaye alkawarina da dokokaina da na umarce ka ba, lalle zan tsaga, zan tsaga ⟨את⟩ mulki daga kanku, kuma in ba shi ga bawanka.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Sai ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "wa Shelomo"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Domin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "an yi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tare da kai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma ba"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ka kiyaye"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "alkawarina"
+    },
+    {
+      "surface": "וחקתי",
+      "gloss": "da dokokaina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "na umarce ka"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ba"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "zan tsaga"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "zan tsaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mulki"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mulki"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "daga kanku"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "kuma in ba shi"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ga bawanka"
+    }
+  ],
+  "timestamp": "2026-08-12T11:17:24.318675857Z",
+  "model": "glm-5.2"
+}

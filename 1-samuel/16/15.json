@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Bawan Shaul suka ce masa: Ga shi ⟨kowanne⟩, ruhu muguwa na Elohim yana tsoratar da kai.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Bawan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "masa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ga shi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨kowanne⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "muguwa"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "yana tsoratar da kai"
+    }
+  ],
+  "timestamp": "2026-08-12T09:02:00.130763894Z",
+  "model": "glm-5.2"
+}

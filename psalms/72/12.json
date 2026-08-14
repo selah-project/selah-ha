@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 72,
+  "translation": "Domin shi zai ceto matalauci mai kururuwa, da miskini wanda ba shi da wanda ya taimaka⟨shi⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "shi zai ceto"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "matalauci"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "mai kururuwa"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "da miskini"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "wanda ba shi da"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "wanda ya taimaka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨shi⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T20:01:50.272957654Z",
+  "model": "glm-5.2"
+}

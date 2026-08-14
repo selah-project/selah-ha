@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 39:3",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 39,
+  "translation": "Kuma ubangijinsa ya ga cēwa Yahweh ⟨ne⟩ tare da shi, ⟨את⟩, kuma duk abin da ⟨shī⟩ yake yi, Yahweh yana mai nasara a hannunsa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Kuma ya ga"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ubangijinsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cēwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kuma duk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abin da"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨shī⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yake yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "yana mai nasara"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "a hannunsa"
+    }
+  ],
+  "timestamp": "2026-08-12T00:13:02.771314608Z",
+  "model": "glm-5.2"
+}

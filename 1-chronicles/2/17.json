@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "ha",
+  "chapter": 2,
+  "translation": "Kuma Avigayil ta haifa ⟨את⟩ Amasa, kuma mahaifin Amasa ⟨ne⟩ Yeter ⟨dan⟩ Isma'ila.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Kuma Avigayil"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ta haifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "kuma mahaifin"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "⟨dan⟩ Isma'ila"
+    }
+  ],
+  "timestamp": "2026-08-12T23:57:07.511707543Z",
+  "model": "glm-5.2"
+}

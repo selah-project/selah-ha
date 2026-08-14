@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 23,
+  "translation": "Kuma idan ka guje yiwa ∙gara, ba za a kasance da zunubi a cikinka ba.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "kuma idan"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "ka guje"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "yiwa ∙gara",
+      "marks": "gara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba za a"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kasance da"
+    },
+    {
+      "surface": "בך",
+      "gloss": "a cikinka"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "zunubi"
+    }
+  ],
+  "timestamp": "2026-08-13T01:55:21.241270082Z",
+  "model": "glm-5.2"
+}

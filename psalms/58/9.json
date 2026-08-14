@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 58,
+  "translation": "Kamar kuda da ke narkewa, ⟨za⟩ ci gaba da tafiya; kamar haihuwar da ba ta kammala ta wata, wadda ba ta ga rana.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "narkewa"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ci gaba da tafiya"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "haihuwar da ba ta kammala"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ta wata"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ta ga"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "rana"
+    }
+  ],
+  "timestamp": "2026-08-12T19:52:39.644271282Z",
+  "model": "glm-5.2"
+}

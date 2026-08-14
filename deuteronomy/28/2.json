@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 28:2",
+  "book": "deuteronomy",
+  "lang": "ha",
+  "chapter": 28,
+  "translation": "Kuma dukkan albarkar nan za su zo a kanku, kuma za su same ku, idan ka saurari muryar Yahweh, Elohim naka.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "Kuma za su zo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "a kanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dukkan"
+    },
+    {
+      "surface": "הברכות",
+      "gloss": "albarkar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nan"
+    },
+    {
+      "surface": "והשיגך",
+      "gloss": "kuma za su same ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "idan"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ka saurari"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "muryar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim naka"
+    }
+  ],
+  "timestamp": "2026-08-12T05:44:25.081530202Z",
+  "model": "glm-5.2"
+}

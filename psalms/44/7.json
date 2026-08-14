@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 44,
+  "translation": "Domi ba a cikin baka na nake dogaro, kuma takobina ba zai ceta ni ba.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Domi"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בְּקַשְׁתִּי",
+      "gloss": "a cikin baka na"
+    },
+    {
+      "surface": "אֶבְטַח",
+      "gloss": "nake dogaro"
+    },
+    {
+      "surface": "וְחַרְבִּי",
+      "gloss": "kuma takobina"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תוֹשִׁיעֵנִי",
+      "gloss": "zai ceta ni"
+    }
+  ],
+  "timestamp": "2026-08-12T19:43:36.451222308Z",
+  "model": "glm-5.2"
+}

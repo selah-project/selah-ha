@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "ha",
+  "chapter": 7,
+  "translation": "Yahweh ya ce wa Yehoshu'a: Tashi, don me kai ⟨kana⟩ faɗuwa a kan fuskarka?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ya ce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshu'a"
+    },
+    {
+      "surface": "קם",
+      "gloss": "Tashi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kai"
+    },
+    {
+      "surface": "למה",
+      "gloss": "don me"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kai"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "⟨kana⟩ faɗuwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuskarka"
+    }
+  ],
+  "timestamp": "2026-08-12T06:20:33.631733077Z",
+  "model": "glm-5.2"
+}

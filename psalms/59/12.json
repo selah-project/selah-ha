@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 59,
+  "translation": "Kada ka kashe ⟨su⟩, domin mutanena za su manta; girgiza ⟨su⟩ da ƙarfinka, kuma ka sauke ⟨su⟩, garkuwarmu ⟨ne⟩ Adonai.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "ka kashe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "domin"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "za su manta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mutanena"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "girgiza"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "da ƙarfinka"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "kuma ka sauke"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "garkuwarmu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-08-12T19:54:19.663827912Z",
+  "model": "glm-5.2"
+}

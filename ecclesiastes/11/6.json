@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "ha",
+  "chapter": 11,
+  "translation": "Da safe ka shuka ⟨את⟩ irinka, kuma da yamma kada ka saukar da hannunka, domin ba ka sani wane zai yi nasara, ⟨ko⟩ wannan ko wannan, ko kuma duka biyu daidai suna kyau.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "da safe"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ka shuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "irinka"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "irinka"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "kuma da yamma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ka saukar da"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hannunka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ba ka"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "sani"
+    },
+    {
+      "surface": "אי",
+      "gloss": "wane"
+    },
+    {
+      "surface": "זה",
+      "gloss": "zai"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "yi nasara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "או",
+      "gloss": "ko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wannan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ko kuma"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "duka biyu"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "daidai"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "suna kyau"
+    }
+  ],
+  "timestamp": "2026-08-13T02:36:34.498262194Z",
+  "model": "glm-5.2"
+}

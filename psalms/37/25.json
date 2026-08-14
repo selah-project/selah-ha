@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Yaro nake, kuma dattijo na zama, amma ba na ganin ⟨an⟩ barin tsattsafi, kuma zuriyarsa ⟨in⟩ neman burodi.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "yaro"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nake"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "na zama dattijo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "amma ba"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "na ganin"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsattsafi"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "⟨an⟩ barin"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "kuma zuriyarsa"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "⟨in⟩ neman"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "burodi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:24:27.792436308Z",
+  "model": "glm-5.2"
+}

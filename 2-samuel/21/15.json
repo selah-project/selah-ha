@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 21,
+  "translation": "Kuma aka sake samun yƙin Fulisdiyawa da Isra'ila, Dawuda kuma ya sauka, shi da bayinsa tare da shi, suka yaƙi ⟨את⟩ ⟨da⟩ Fulisdiyawa, Dawuda kuma ya gaji.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "kuma aka sake samun"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sake"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "yƙin"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "Fulisdiyawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨da⟩",
+      "marks": "Isra'ila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ya sauka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "kuma shi da bayinsa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tare da shi"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "suka yaƙi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨da⟩",
+      "marks": "Fulisdiyawa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Fulisdiyawa"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "ya gaji"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    }
+  ],
+  "timestamp": "2026-08-12T10:34:25.835665771Z",
+  "model": "glm-5.2"
+}

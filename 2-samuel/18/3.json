@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 18:3",
+  "book": "2-samuel",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Amma mutanen suka ce, \"Ba za ka fita ba, domin idan muka gudu, ba za su sa ⟨ra'ayi⟩ ⟨a⟩ mu ba, kuma ko da rabin mu ya mutu, ba za su sa ⟨ra'ayi⟩ ⟨a⟩ mu ba; domin yanzu kamar mu ne dubu goma, saboda haka yanzu ya fi kyau ka kasance mu ⟨daga⟩ cikin birni don taimako.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "suka ce"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "za ka fita ba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "idam"
+    },
+    {
+      "surface": "נס",
+      "gloss": "muka gudu"
+    },
+    {
+      "surface": "ננוס",
+      "gloss": "(gudu)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "za su sa"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "⟨a⟩ mu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ra'ayi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kuma ko da"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ya mutu"
+    },
+    {
+      "surface": "חצינו",
+      "gloss": "rabin mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "za su sa"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "⟨a⟩ mu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ra'ayi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "yanzu"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "kamar mu ne"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "goma"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "saboda haka yanzu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ya fi kyau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ka kasance"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "⟨daga⟩ cikin birni"
+    },
+    {
+      "surface": "לעזיר",
+      "gloss": "don taimako"
+    }
+  ],
+  "timestamp": "2026-08-12T10:29:50.149447219Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 37,
+  "translation": "Mugun yana kallo a mai adalci, kuma yana neman kashe shi.",
+  "tokens": [
+    {
+      "surface": "צוֹפֶה",
+      "gloss": "yana kallo"
+    },
+    {
+      "surface": "רָשָׁע",
+      "gloss": "mugun"
+    },
+    {
+      "surface": "לַצַּדִּיק",
+      "gloss": "a mai adalci"
+    },
+    {
+      "surface": "וּמְבַקֵּשׁ",
+      "gloss": "kuma yana neman"
+    },
+    {
+      "surface": "לַהֲמִיתוֹ",
+      "gloss": "kashe shi"
+    }
+  ],
+  "timestamp": "2026-08-13T02:24:15.719245823Z",
+  "model": "glm-5.2"
+}

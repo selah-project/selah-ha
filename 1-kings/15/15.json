@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 15,
+  "translation": "Kuma ya kawo ⟨את⟩ abubuwan tsarkakar ubansa, da abin da ya tsarkaka, zuwa cikin Bet Yahweh, azurfa, da zinari, da kayan aiki.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kuma ya kawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abubuwan tsarkakar"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "abubuwan tsarkakar"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubansa"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "da abin da ya tsarkaka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "zuwa cikin Bet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "azurfa"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "da zinari"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "da kayan aiki"
+    }
+  ],
+  "timestamp": "2026-08-12T11:32:33.752457021Z",
+  "model": "glm-5.2"
+}

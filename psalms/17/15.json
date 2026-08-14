@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Ni, a cikin adalci, zan ga fuskarka; zan gamsu, a farken safe, da sifarka.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "a cikin adalci"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "zan ga"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fuskarka"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "zan gamsu"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "a farken safe"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "da sifarka"
+    }
+  ],
+  "timestamp": "2026-08-12T19:20:12.933366711Z",
+  "model": "glm-5.2"
+}

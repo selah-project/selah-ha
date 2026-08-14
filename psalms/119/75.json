@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 119,
+  "translation": "Na sani, Yahweh, cewa adālci ⟨ne⟩ hukuncinka, kuma da aminci ka lata ni.",
+  "tokens": [
+    {
+      "surface": "יָדַ֣עְתִּי",
+      "gloss": "na sani"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "צֶ֣דֶק",
+      "gloss": "adālci"
+    },
+    {
+      "surface": "מִשְׁפָּטֶ֑יךָ",
+      "gloss": "hukuncinka"
+    },
+    {
+      "surface": "וֶ֝אֱמוּנָ֗ה",
+      "gloss": "kuma da aminci"
+    },
+    {
+      "surface": "עִנִּיתָֽנִי",
+      "gloss": "ka lata ni"
+    }
+  ],
+  "timestamp": "2026-08-12T20:43:36.760263023Z",
+  "model": "glm-5.2"
+}

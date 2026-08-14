@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 41,
+  "translation": "Kuma shanu masu ƙwararan jiki da masu muniyar siffa sun ci ⟨את⟩ shanu guda bakwai na farko, masu ƙwariwar jiki.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "Kuma suka ci"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "masu ƙwararan jiki"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "da masu muniyar siffa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shanu guda bakwai na farko, masu ƙwariwar jiki"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "guda bakwai"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "na farko"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "masu ƙwariwar jiki"
+    }
+  ],
+  "timestamp": "2026-08-12T00:12:41.193427142Z",
+  "model": "glm-5.2"
+}

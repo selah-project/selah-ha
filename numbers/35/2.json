@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 35:2",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 35,
+  "translation": "Ka yi wa ⟨את⟩ ɗiyan Yisra'el umarni, kuma su bai wa Lewiyawa daga gado na mallakarsu, birane don zama; kuma kuna bai wa Lewiyawa mahaɗa birane, waɗanda ke kewaye da su.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "ka yi wa umarni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗiyan Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗiyan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "kuma su bai wa"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Lewiyawa"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "daga gado"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "na mallakarsu"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "birane"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "don zama"
+    },
+    {
+      "surface": "ומגרש",
+      "gloss": "kuma mahaɗa"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "birane"
+    },
+    {
+      "surface": "סביבתיהם",
+      "gloss": "waɗanda ke kewaye da su"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "kuna bai wa"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Lewiyawa"
+    }
+  ],
+  "timestamp": "2026-08-13T01:53:39.576707719Z",
+  "model": "glm-5.2"
+}

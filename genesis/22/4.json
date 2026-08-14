@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 22,
+  "translation": "A rana ta uku Avraham ya ɗaukaka ⟨את⟩ idanuwansa, ya ga ⟨את⟩ wurin daga nesa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "A rana"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ta uku"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ya ɗaukaka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idanuwansa"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "idanuwansa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ya ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wurin"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "wurin"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "daga nesa"
+    }
+  ],
+  "timestamp": "2026-08-13T03:01:24.203125186Z",
+  "model": "glm-5.2"
+}

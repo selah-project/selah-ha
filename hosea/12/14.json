@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "ha",
+  "chapter": 12,
+  "translation": "Kuma da annabi Yahweh ya ɗauko ⟨את⟩ Isra'ila daga Mitsrayim, kuma da annabi ⟨an tsare shi⟩.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "kuma da annabi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya ɗauko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isra'ila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'ila"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "daga Mitsrayim"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "kuma da annabi"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "⟨an tsare shi⟩"
+    }
+  ],
+  "timestamp": "2026-08-12T18:15:56.589467337Z",
+  "model": "glm-5.2"
+}

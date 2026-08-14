@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "ha",
+  "chapter": 24,
+  "translation": "Mutum mai hikima ⟨ne⟩ mai ƙarfi, kuma mutum ilimi yana ƙarfafa ƙarfi.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mai hikima"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "mai ƙarfi"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kuma mutum"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ilimi"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "yana ƙarfafa"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ƙarfi"
+    }
+  ],
+  "timestamp": "2026-08-12T21:28:20.548673736Z",
+  "model": "glm-5.2"
+}

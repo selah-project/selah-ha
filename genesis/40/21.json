@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 40,
+  "translation": "Kuma ya mayar ⟨את⟩ shugaban masu ba da abin sha zuwa kan aikin ba da abin sha, kuma ya bada kofin a kan ƙafar Paroh.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Kuma ya mayar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shugaban"
+    },
+    {
+      "surface": "שר",
+      "gloss": "shugaban"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "masu ba da abin sha"
+    },
+    {
+      "surface": "על",
+      "gloss": "zuwa kan"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "aikin ba da abin sha"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kuma ya bada"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kofin"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kan"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ƙafar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-12T00:08:17.057876516Z",
+  "model": "glm-5.2"
+}

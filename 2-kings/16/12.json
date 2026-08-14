@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "ha",
+  "chapter": 16,
+  "translation": "Sai sarki ya iso daga Dameshek, kuma sarki ya ga ⟨את⟩ madibacin, sai sarki ya kusanta zuwa ⟨ga⟩ madibacin, kuma ya haura a kai.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ya iso"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "daga Dameshek"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ya ga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madibacin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madibacin"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "ya kusanta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sarki"
+    },
+    {
+      "surface": "על",
+      "gloss": "zuwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madibacin"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ya haura"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "a kai"
+    }
+  ],
+  "timestamp": "2026-08-12T12:29:57.101189070Z",
+  "model": "glm-5.2"
+}

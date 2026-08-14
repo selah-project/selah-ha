@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 120,
+  "translation": "Dãdarãwar sha'aninta ce rãyana taƙẽ a tãre da ƙĩyan zwãlun; kullum suna ƙẽshẽwa a kansa.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "dãdarãwar sha'ani"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "taƙẽ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "gare shi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "rãyana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tãre da"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ƙĩyan zwãlun"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "zwãlu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:46:42.211563536Z",
+  "model": "glm-5.2"
+}

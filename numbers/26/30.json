@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 26,
+  "translation": "Waɗannan 'ya'yan Gil'ad: na I'ezer, iyalin I'ezeri; na Helek, iyalin Helki.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "waɗannan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "'ya'yan"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "I'ezer"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "iyalin"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "I'ezeri"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "na Helek"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "iyalin"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "Helki"
+    }
+  ],
+  "timestamp": "2026-08-12T04:28:21.901590101Z",
+  "model": "glm-5.2"
+}

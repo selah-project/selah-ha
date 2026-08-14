@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 116,
+  "translation": "Domin ka tsallaka raina daga mutuwa, ⟨את⟩ idonuwana daga hawaye, ⟨את⟩ ƙafata daga faduwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "domin"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "ka tsallaka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "raina"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "daga mutuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idonuwana"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "idonuwana"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daga"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "hawaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƙafata"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ƙafata"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "daga faduwa"
+    }
+  ],
+  "timestamp": "2026-08-12T20:40:42.497928221Z",
+  "model": "glm-5.2"
+}

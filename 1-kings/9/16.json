@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Paroh, sarkin Mitsrayim, ya hau ya kama ⟨את⟩ Gezer, kuma ya ƙone shi da wuta, ⟨את⟩ kuma Kena'ani da yake zaune a cikin birnin ya kashe, kuma ya bã ta a matsayin sadaki ga 'yarsa, matar Sulaiman.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sarkin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ya hau"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ya kama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "kuma ya ƙone shi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "da wuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ kuma",
+      "marks": "Kena'ani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kena'ani"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "da yake zaune"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a cikin birnin"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ya kashe"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "kuma ya bã ta"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "a matsayin sadaki"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "ga 'yarsa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "matar"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sulaiman"
+    }
+  ],
+  "timestamp": "2026-08-13T02:03:48.741628880Z",
+  "model": "glm-5.2"
+}

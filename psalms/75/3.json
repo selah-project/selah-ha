@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 75,
+  "translation": "Dāmin dā na riƙe lōkacin taro, ni nā kanāda da daidaito.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dāmin dā"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "na riƙe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "lōkacin taro"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "da daidaito"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "nā kanāda"
+    }
+  ],
+  "timestamp": "2026-08-12T20:07:42.802942212Z",
+  "model": "glm-5.2"
+}

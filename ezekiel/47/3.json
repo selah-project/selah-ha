@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 47:3",
+  "book": "ezekiel",
+  "lang": "ha",
+  "chapter": 47,
+  "translation": "A lokacin da ⟨ga⟩ mutumin ya fita gabas, kuma da igiya ⟨a⟩ hannunsa, ya auna dubu da ⟨da⟩ gomaɗin ƙafar, ya kuma sa ni in tsallaka ruwan, ruwan ⟨na⟩ ɗigari.",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "A lokacin da ya fita"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ga mutumin"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "gabas"
+    },
+    {
+      "surface": "וקו",
+      "gloss": "kuma da igiya"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "a hannunsa"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "ya auna"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "da gomaɗin ƙafar"
+    },
+    {
+      "surface": "ויעברני",
+      "gloss": "ya kuma sa ni in tsallaka"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "אפסים",
+      "gloss": "na ɗigari"
+    }
+  ],
+  "timestamp": "2026-08-12T18:06:56.780034046Z",
+  "model": "glm-5.2"
+}

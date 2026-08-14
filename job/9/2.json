@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "ha",
+  "chapter": 9,
+  "translation": "Gaskiya na san cewa haka ⟨ne⟩, amma ta yaya mutum zai zama mai adalci tare da El?",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "gaskiya"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "na san"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cewa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haka"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "amma ta yaya"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "zai zama mai adalci"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tare da"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-13T02:31:17.422166430Z",
+  "model": "glm-5.2"
+}

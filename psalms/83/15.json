@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 83,
+  "translation": "Kamar wuta da ke ƙone daji, da kama da wutar da ke tona duwatsu!",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "Kamar wuta"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "da ke ƙone"
+    },
+    {
+      "surface": "יער",
+      "gloss": "daji"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "da kama da wutar"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "da ke tona"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "duwatsu"
+    }
+  ],
+  "timestamp": "2026-08-12T20:12:28.183547459Z",
+  "model": "glm-5.2"
+}

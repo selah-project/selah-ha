@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "ha",
+  "chapter": 17,
+  "translation": "Kuma ni zan yawaita ⟨את⟩ kai sosai, har da kwarai, kuma na sanya ka zuwa al'ummai, sarakuna kuwa za su fita daga gare ka.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "Kuma zan yawaita"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kai"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "sosai"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "har da kwarai"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "kuma na sanya ka"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "zuwa al'ummai"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "sarakuna kuwa"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "daga gare ka"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "za su fita"
+    }
+  ],
+  "timestamp": "2026-08-11T23:35:49.967417668Z",
+  "model": "glm-5.2"
+}

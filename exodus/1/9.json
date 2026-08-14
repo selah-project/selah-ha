@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "ha",
+  "chapter": 1,
+  "translation": "Kuma ya ce wa mutanensa: \"Ga, mutanen da suke ɗaya'ya'wan Yisra'ela sun fi yawa kuma sun fi ƙarfi daga gare mu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kuma ya ce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mutanensa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mutanen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɗaya'ya'wan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'ela"
+    },
+    {
+      "surface": "רב",
+      "gloss": "sun fi yawa"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "kuma sun fi ƙarfi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daga gare mu"
+    }
+  ],
+  "timestamp": "2026-08-12T00:28:39.624195951Z",
+  "model": "glm-5.2"
+}

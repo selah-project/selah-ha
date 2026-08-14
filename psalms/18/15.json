@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "ha",
+  "chapter": 18,
+  "translation": "Ya aiko kibiranSa, Ya watse su,Walkiya yawa, Ya dame su.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ya aiko"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "kibiranSa"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "Ya watse su"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "walkiya"
+    },
+    {
+      "surface": "רב",
+      "gloss": "yawa"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "Ya dame su"
+    }
+  ],
+  "timestamp": "2026-08-13T02:23:41.440573166Z",
+  "model": "glm-5.2"
+}
