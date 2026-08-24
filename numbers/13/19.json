@@ -5,85 +5,85 @@
   "book": "numbers",
   "lang": "ha",
   "chapter": 13,
-  "translation": "Kuma yadda ⟨ce⟩ ƙasar da ⟨suj> yake zaune a cikinta, ko tana da kyau ne ko muguwa; kuma yadda ⟨ce⟩ garuruwan da ⟨suj> yake zaune a cikinsu, ko a cikin sansani ne ko a cikin katanga.",
+  "translation": "Kuma kace ƙasar da ⟨ce⟩ suna zaune a ciki — ko mai kyau ce ko kuma mai cuta; kuma kace garuruwan da suke zaune a cikinsu — ko a sansani ne ko kuma a katanga.",
   "tokens": [
     {
-      "surface": "וּמָ֣ה",
-      "gloss": "Kuma yadda"
+      "surface": "ומה",
+      "gloss": "kuma kace"
     },
     {
-      "surface": "הָאָ֗רֶץ",
+      "surface": "הארץ",
       "gloss": "ƙasar"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "da"
     },
     {
-      "surface": "הוּא֙",
-      "gloss": "shi"
-    },
-    {
-      "surface": "יֹשֵׁ֣ב",
-      "gloss": "yake zaune"
-    },
-    {
-      "surface": "בָּ֔הּ",
-      "gloss": "a cikinta"
-    },
-    {
-      "surface": "הֲטוֹבָ֥ה",
-      "gloss": "ko tana da kyau"
-    },
-    {
-      "surface": "הִ֖וא",
+      "surface": "הוא",
       "gloss": "⟨ce⟩"
     },
     {
-      "surface": "אִם",
-      "gloss": "ko"
+      "surface": "ישב",
+      "gloss": "suna zaune"
     },
     {
-      "surface": "רָעָ֑ה",
-      "gloss": "muguwa"
+      "surface": "בה",
+      "gloss": "a ciki"
     },
     {
-      "surface": "וּמָ֣ה",
-      "gloss": "kuma yadda"
+      "surface": "הטובה",
+      "gloss": "ko mai kyau ce"
     },
     {
-      "surface": "הֶֽעָרִ֗ים",
+      "surface": "הוא",
+      "gloss": "⟨ce⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ko kuma"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mai cuta"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "kuma kace"
+    },
+    {
+      "surface": "הערים",
       "gloss": "garuruwan"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "da"
     },
     {
-      "surface": "הוּא֙",
-      "gloss": "shi"
+      "surface": "הוא",
+      "gloss": "⟨suke⟩"
     },
     {
-      "surface": "יוֹשֵׁ֣ב",
-      "gloss": "yake zaune"
+      "surface": "יושב",
+      "gloss": "suke zaune"
     },
     {
-      "surface": "בָּהֵ֔נָּה",
+      "surface": "בהנה",
       "gloss": "a cikinsu"
     },
     {
-      "surface": "הַבְּמַֽחֲנִ֖ים",
-      "gloss": "ko a cikin sansani"
+      "surface": "הבמחנים",
+      "gloss": "a sansani"
     },
     {
-      "surface": "אִ֥ם",
-      "gloss": "ko"
+      "surface": "אם",
+      "gloss": "ko kuma"
     },
     {
-      "surface": "בְּמִבְצָרִֽים",
-      "gloss": "a cikin katanga"
+      "surface": "במבצרים",
+      "gloss": "a katanga"
     }
   ],
-  "timestamp": "2026-08-14T00:20:15.849077095Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:34:43.702388429Z",
+  "model": "glm-5.3"
 }

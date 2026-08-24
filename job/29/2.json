@@ -5,15 +5,15 @@
   "book": "job",
   "lang": "ha",
   "chapter": 29,
-  "translation": "Wa ya ba ni ⟨a koma⟩ kamar watannin ዳንኩን da suka wuce, kamar kwanakin da Eloah ke tsare ni?",
+  "translation": "Wa ya sa ba a mayar da ni kamar watannin farko, kamar kwanakin da Eloah yake kiyaye ni?",
   "tokens": [
     {
       "surface": "מי",
-      "gloss": "Wa"
+      "gloss": "wa"
     },
     {
       "surface": "יתנני",
-      "gloss": "ya ba ni"
+      "gloss": "ya sa ba a mayar da ni"
     },
     {
       "surface": "כירחי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "קדם",
-      "gloss": "da suka wuce"
+      "gloss": "farko"
     },
     {
       "surface": "כימי",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "ישמרני",
-      "gloss": "ke tsare ni"
+      "gloss": "yake kiyaye ni"
     }
   ],
-  "timestamp": "2026-08-12T22:05:18.667679115Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:34:42.341498040Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "hosea",
   "lang": "ha",
   "chapter": 10,
-  "translation": "Saboda ወጥሬ-ስጋ na Bet־Aven mazaunan Shomeron za su firgita; domin mutanensa za su yi makoki gare shi, da kuma firistocin sa da ke murna gare shi, saboda daukakarsa, domin ya gudanẽba daga gare shi.",
+  "translation": "Saboda kifersan Bet-Aven mazaunan Shomeron za su ji tsoro; domin mutanensa za su yi koka a kansa, kuma limaman sa ⟨za⟩ yi farin ciki a kansa saboda girman kamasansa, domin ya ƙaura ⟨daga⟩ gare shi.",
   "tokens": [
     {
       "surface": "לעגלות",
-      "gloss": "Saboda ወጥሬ-ስጋ"
+      "gloss": "saboda kifersan"
     },
     {
       "surface": "בית",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יגורו",
-      "gloss": "za su firgita"
+      "gloss": "za su ji tsoro"
     },
     {
       "surface": "שכן",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "אבל",
-      "gloss": "za su yi makoki"
+      "gloss": "za su yi koka"
     },
     {
       "surface": "עליו",
-      "gloss": "gare shi"
+      "gloss": "a kansa"
     },
     {
       "surface": "עמו",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "וכמריו",
-      "gloss": "da kuma firistocin sa"
+      "gloss": "kuma limaman sa"
     },
     {
       "surface": "עליו",
-      "gloss": "gare shi"
+      "gloss": "a kansa"
     },
     {
       "surface": "יגילו",
-      "gloss": "da ke murna"
+      "gloss": "za yi farin ciki"
     },
     {
       "surface": "על",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "כבודו",
-      "gloss": "daukakarsa"
+      "gloss": "girman kamasansa"
     },
     {
       "surface": "כי",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "גלה",
-      "gloss": "ya gudanẽba"
+      "gloss": "ya ƙaura"
     },
     {
       "surface": "ממנו",
-      "gloss": "daga gare shi"
+      "gloss": "gare shi"
     }
   ],
-  "timestamp": "2026-08-12T18:20:38.401324133Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:35:01.078817796Z",
+  "model": "glm-5.3"
 }

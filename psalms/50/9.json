@@ -5,33 +5,33 @@
   "book": "psalms",
   "lang": "ha",
   "chapter": 50,
-  "translation": "Ba zan dauko ba daga cikin gidanka ጤnāsa, ⟨ko⟩ daga cikin garkenka awaki maza.",
+  "translation": "Ba zan ɗauki babban sa daga gidanka ba, ko bunsuru daga garkunka.",
   "tokens": [
     {
-      "surface": "לֹא",
-      "gloss": "ba"
+      "surface": "לא",
+      "gloss": "Ba"
     },
     {
-      "surface": "אֶקַּח",
-      "gloss": "zan dauko"
+      "surface": "אקח",
+      "gloss": "za (ɗauki)"
     },
     {
-      "surface": "מִבֵּיתְךָ",
-      "gloss": "daga cikin gidanka"
+      "surface": "מביתך",
+      "gloss": "daga gidanka"
     },
     {
-      "surface": "פָּר",
-      "gloss": "sa"
+      "surface": "פר",
+      "gloss": "babban sa"
     },
     {
-      "surface": "מִמִּכְלְאֹתֶיךָ",
-      "gloss": "daga cikin garkenka"
+      "surface": "ממכלאתיך",
+      "gloss": "daga garkunka"
     },
     {
-      "surface": "עַתּוּדִים",
-      "gloss": "awaki maza"
+      "surface": "עתודים",
+      "gloss": "bunsuru"
     }
   ],
-  "timestamp": "2026-08-12T19:46:16.792308860Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:34:34.404663158Z",
+  "model": "glm-5.3"
 }

@@ -5,23 +5,24 @@
   "book": "leviticus",
   "lang": "ha",
   "chapter": 7,
-  "translation": "Kuma duk ወman shan ⟨את⟩ dukkan kitse nsa zai kawo daga gare shi; ⟨את⟩ wutsiyar dabino da ⟨את⟩ kitse ⟨da⟩ ke rufewa ⟨את⟩ ciki.",
+  "translation": "Kuma ⟨את⟩ duka kitse sa zai gabatar daga gare shi: ⟨את⟩ wutsiyar kitse, da ⟨את⟩ kitsen da ke rufe ⟨את⟩ ciki.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Kuma ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "duka kitse sa"
     },
     {
       "surface": "כל",
-      "gloss": "duk"
+      "gloss": "duka"
     },
     {
       "surface": "חלבו",
-      "gloss": "kitse nsa"
+      "gloss": "kitse sa"
     },
     {
       "surface": "יקריב",
-      "gloss": "zai kawo"
+      "gloss": "zai gabatar"
     },
     {
       "surface": "ממנו",
@@ -30,23 +31,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wutsiyar dabino"
+      "marks": "wutsiyar kitse"
     },
     {
       "surface": "האליה",
-      "gloss": "wutsiyar dabino"
+      "gloss": "wutsiyar kitse"
     },
     {
       "surface": "ואת",
-      "gloss": "da ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "kitsen"
     },
     {
       "surface": "החלב",
-      "gloss": "kitse"
+      "gloss": "kitsen"
     },
     {
       "surface": "המכסה",
-      "gloss": "⟨da⟩ ke rufewa"
+      "gloss": "da ke rufe"
     },
     {
       "surface": "את",
@@ -58,6 +60,6 @@
       "gloss": "ciki"
     }
   ],
-  "timestamp": "2026-08-12T01:51:17.393511970Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:35:16.583101005Z",
+  "model": "glm-5.3"
 }

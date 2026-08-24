@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ha",
   "chapter": 96,
-  "translation": "A gaban Yahweh, domin ⟨ya⟩ zo, domin ⟨ya⟩ zo don ya yi shari'a ⟨ga⟩ ƙasa; ⟨ya⟩ yi wa ⟨ד⟩ tebel shari'a cikin adalci, kuma ⟨ga⟩ mutane cikin amincinsa.",
+  "translation": "A gaban Yahweh, domin ⟨ya⟩ zo, domin ⟨ya⟩ zo domin ya yi shari'a ⟨ga⟩ ƙasa; zai yi shari'a ⟨ga⟩ duniya da adalci, kuma ⟨ga⟩ al'ummai da amincinsa.",
   "tokens": [
     {
       "surface": "לפני",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לשפט",
-      "gloss": "don ya yi shari'a"
+      "gloss": "domin ya yi shari'a"
     },
     {
       "surface": "הארץ",
@@ -41,25 +41,25 @@
     },
     {
       "surface": "ישפט",
-      "gloss": "⟨ya⟩ yi shari'a"
+      "gloss": "zai yi shari'a"
     },
     {
       "surface": "תבל",
-      "gloss": "tebel"
+      "gloss": "duniya"
     },
     {
       "surface": "בצדק",
-      "gloss": "cikin adalci"
+      "gloss": "da adalci"
     },
     {
       "surface": "ועמים",
-      "gloss": "kuma mutane"
+      "gloss": "kuma ⟨ga⟩ al'ummai"
     },
     {
       "surface": "באמונתו",
-      "gloss": "cikin amincinsa"
+      "gloss": "da amincinsa"
     }
   ],
-  "timestamp": "2026-08-13T23:57:12.712332510Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:34:32.921117986Z",
+  "model": "glm-5.3"
 }

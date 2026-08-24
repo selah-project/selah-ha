@@ -5,61 +5,66 @@
   "book": "isaiah",
   "lang": "ha",
   "chapter": 63,
-  "translation": "Kamar dabbobi da ke sauka cikin kwari, Ruhun Yahweh ya sa shi ya hutã; kamar haka ka shiriya ⟨א⟩ al'arka, don ka yi maka suna mai ɗaukaka.",
+  "translation": "Kamar shanun da ke sauka cikin ƙwarin, Ruhun Yahweh ya ba shi hushi; kamar haka ka jagoranci ⟨את⟩ jama'arka, domin ka yi wa kanka sunan girma.",
   "tokens": [
     {
-      "surface": "כַּבְּהֵמָה֙",
-      "gloss": "kamar dabbobi"
+      "surface": "כבהמה",
+      "gloss": "Kamar shanun"
     },
     {
-      "surface": "בַּבִּקְעָ֣ה",
-      "gloss": "cikin kwari"
+      "surface": "בבקעה",
+      "gloss": "cikin ƙwarin"
     },
     {
-      "surface": "תֵרֵ֔ד",
+      "surface": "תרד",
       "gloss": "sauka"
     },
     {
-      "surface": "ר֥וּחַ",
+      "surface": "רוח",
       "gloss": "Ruhun"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "תְּנִיחֶ֑נּוּ",
-      "gloss": "ya sa shi ya hutã"
+      "surface": "תניחנו",
+      "gloss": "ya ba shi hushi"
     },
     {
-      "surface": "כֵּ֚ן",
+      "surface": "כן",
       "gloss": "kamar haka"
     },
     {
-      "surface": "נִהַ֣גְתָּ",
-      "gloss": "ka shiriya"
+      "surface": "נהגת",
+      "gloss": "ka jagoranci"
     },
     {
-      "surface": "עַמְּךָ֔",
-      "gloss": "⟨א⟩ al'arka"
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jama'arka"
     },
     {
-      "surface": "לַעֲשׂ֥וֹת",
-      "gloss": "don ka yi"
+      "surface": "עמך",
+      "gloss": "jama'arka"
     },
     {
-      "surface": "לְךָ֖",
-      "gloss": "maka"
+      "surface": "לעשות",
+      "gloss": "domin ka yi"
     },
     {
-      "surface": "שֵׁ֥ם",
+      "surface": "לך",
+      "gloss": "wa kanka"
+    },
+    {
+      "surface": "שם",
       "gloss": "suna"
     },
     {
-      "surface": "תִּפְאָֽרֶת",
-      "gloss": "mai ɗaukaka"
+      "surface": "תפארת",
+      "gloss": "girma"
     }
   ],
-  "timestamp": "2026-08-14T00:19:23.182825990Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:34:32.945206238Z",
+  "model": "glm-5.3"
 }

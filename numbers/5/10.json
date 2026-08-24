@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "ha",
+  "chapter": 5,
+  "translation": "Kuma kowane mutum, ⟨את⟩ abubuwan tsarkakensa na ⟨nasa⟩ ne; abin da kowane mutum ya baiwa kohen, na ⟨shī⟩ ne.",
+  "tokens": [
+    {
+      "surface": "וְאִ֥ישׁ",
+      "gloss": "Kuma kowane mutum"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "abubuwan tsarkakensa"
+    },
+    {
+      "surface": "קֳדָשָׁ֖יו",
+      "gloss": "abubuwan tsarkakensa"
+    },
+    {
+      "surface": "ל֣וֹ",
+      "gloss": "na"
+    },
+    {
+      "surface": "יִהְי֑וּ",
+      "gloss": "suna"
+    },
+    {
+      "surface": "אִ֛ישׁ",
+      "gloss": "mutum"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wanda"
+    },
+    {
+      "surface": "יִתֵּ֥ן",
+      "gloss": "ya baiwa"
+    },
+    {
+      "surface": "לַכֹּהֵ֖ן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ל֥וֹ",
+      "gloss": "na"
+    },
+    {
+      "surface": "יִהְיֶֽה",
+      "gloss": "shi"
+    }
+  ],
+  "timestamp": "2026-08-14T01:00:06.233496733Z",
+  "model": "glm-5.2"
+}

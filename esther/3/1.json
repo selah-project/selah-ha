@@ -5,15 +5,15 @@
   "book": "esther",
   "lang": "ha",
   "chapter": 3,
-  "translation": "A bayan waɗannan abubuwan, sarki Achashverosh ya ɗaukaka ⟨את⟩ Haman ɗan Hammedata ɗan Agag, kuma ya faɗaɗa shi, kuma ya sanya kujerar sa sama da dukkan ዐ masu shugabanci ⟨da⟩ suke tare ⟨da⟩ shi.",
+  "translation": "A waɗannan abubuwan baɗa, Sarki Achashverosh ya ɗaga Haman ɗan Hamdata ɗan Agagi, ya ɗąkƙama shi, kuma ya sanya kujerarsa sama da duk sarakinan da ke tare da shi.",
   "tokens": [
     {
       "surface": "אחר",
-      "gloss": "a bayan"
+      "gloss": "A waɗannan abubuwan baɗa"
     },
     {
       "surface": "הדברים",
-      "gloss": "waɗannan abubuwan"
+      "gloss": "abubuwan"
     },
     {
       "surface": "האלה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "גדל",
-      "gloss": "ya ɗaukaka"
+      "gloss": "ya ɗaga"
     },
     {
       "surface": "המלך",
-      "gloss": "sarki"
+      "gloss": "Sarki"
     },
     {
       "surface": "אחשורוש",
@@ -46,28 +46,28 @@
     },
     {
       "surface": "המדתא",
-      "gloss": "Hammedata"
+      "gloss": "Hamdata"
     },
     {
       "surface": "האגגי",
-      "gloss": "ɗan Agag"
+      "gloss": "ɗan Agagi"
     },
     {
       "surface": "וינשאהו",
-      "gloss": "kuma ya faɗaɗa shi"
+      "gloss": "ya ɗąkƙama shi"
     },
     {
       "surface": "וישם",
-      "gloss": "kuma ya sanya"
+      "gloss": "ya sanya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kujerar sa"
+      "marks": "kujerarsa"
     },
     {
       "surface": "כסאו",
-      "gloss": "kujerar sa"
+      "gloss": "kujerarsa"
     },
     {
       "surface": "מעל",
@@ -75,21 +75,21 @@
     },
     {
       "surface": "כל",
-      "gloss": "dukkan"
+      "gloss": "duk"
     },
     {
       "surface": "השרים",
-      "gloss": "masu shugabanci"
+      "gloss": "sarakinan"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨da⟩ suke"
+      "gloss": "da ke"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ tare ⟨da⟩ shi"
+      "gloss": "tare da ⟨את⟩"
     }
   ],
-  "timestamp": "2026-08-13T02:36:32.682525497Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:34:56.301958584Z",
+  "model": "glm-5.3"
 }

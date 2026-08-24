@@ -5,89 +5,89 @@
   "book": "ezekiel",
   "lang": "ha",
   "chapter": 41,
-  "translation": "⟨The⟩ altar, ganye, tsayi ⟨na⟩ uku ƙafãnu, kuma tsayinsa ⟨na⟩ biyu ƙafãnu, kuma ƙauƙabansa suna nasa, kuma tsayinsa da bangonsa, ganye ne, kuma ya yi magana da ni, wannan shine teburin da yake a gaban Yahweh.",
+  "translation": "Dutsen ⟨ne⟩ hadaya, itace ne, tsayinsa ƙafa uku, kuma tsawonsa ƙafa biyu; ƙuƙusensa, da tsawonsa, da ganuwarsa, itace ne; kuma ya yi mini magana: Wannan shi ne teburin da yake gaban Yahweh.",
   "tokens": [
     {
-      "surface": "הַמִּזְבֵּ֡חַ",
-      "gloss": "⟨The⟩ altar"
+      "surface": "המזבח",
+      "gloss": "dutsen hadaya"
     },
     {
-      "surface": "עֵץ",
-      "gloss": "ganye"
+      "surface": "עץ",
+      "gloss": "itace"
     },
     {
-      "surface": "שָׁלוֹשׁ",
+      "surface": "שלוש",
       "gloss": "uku"
     },
     {
-      "surface": "אַמּ֨וֹת",
-      "gloss": "ƙafãnu"
+      "surface": "אמות",
+      "gloss": "ƙafa"
     },
     {
-      "surface": "גָּבֹ֜הַּ",
-      "gloss": "tsayi"
+      "surface": "גבה",
+      "gloss": "tsayinsa"
     },
     {
-      "surface": "וְאָרְכּ֣וֹ",
-      "gloss": "kuma tsayinsa"
+      "surface": "וארכו",
+      "gloss": "kuma tsawonsa"
     },
     {
-      "surface": "שְׁתַּֽיִם",
+      "surface": "שתים",
       "gloss": "biyu"
     },
     {
-      "surface": "אַמּ֗וֹת",
-      "gloss": "ƙafãnu"
+      "surface": "אמות",
+      "gloss": "ƙafa"
     },
     {
-      "surface": "וּמִקְצֹֽעוֹתָיו֙",
-      "gloss": "kuma ƙauƙabansa"
+      "surface": "ומקצעותיו",
+      "gloss": "ƙuƙusensa"
     },
     {
-      "surface": "ל֔וֹ",
-      "gloss": "suna nasa"
+      "surface": "לו",
+      "gloss": "nasa"
     },
     {
-      "surface": "וְאָרְכּ֥וֹ",
-      "gloss": "kuma tsayinsa"
+      "surface": "וארכו",
+      "gloss": "da tsawonsa"
     },
     {
-      "surface": "וְקִֽירֹתָיו֖",
-      "gloss": "da bangonsa"
+      "surface": "וקירתיו",
+      "gloss": "da ganuwarsa"
     },
     {
-      "surface": "עֵץ",
-      "gloss": "ganye"
+      "surface": "עץ",
+      "gloss": "itace"
     },
     {
-      "surface": "וַיְדַבֵּ֣ר",
-      "gloss": "kuma ya yi magana"
+      "surface": "וידבר",
+      "gloss": "kuma ya yi mini magana"
     },
     {
-      "surface": "אֵלַ֔י",
-      "gloss": "da ni"
+      "surface": "אלי",
+      "gloss": "gare ni"
     },
     {
-      "surface": "זֶ֚ה",
+      "surface": "זה",
       "gloss": "wannan"
     },
     {
-      "surface": "הַשֻּׁלְחָ֔ן",
+      "surface": "השלחן",
       "gloss": "teburin"
     },
     {
-      "surface": "אֲשֶׁ֖ר",
+      "surface": "אשר",
       "gloss": "da"
     },
     {
-      "surface": "לִפְנֵ֥י",
-      "gloss": "yake a gaban"
+      "surface": "לפני",
+      "gloss": "gaban"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-12T17:54:50.552917314Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:35:06.337171652Z",
+  "model": "glm-5.3"
 }

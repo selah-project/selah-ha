@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ha",
   "chapter": 14,
-  "translation": "Kuma ya tsarkake ⟨את⟩ gida da jinin tsuntsun, da ruwan mai rai, da tsuntsun da yake rai, da itacen ዐaraz, da sha'awa, da (zaren) ዐazuba.",
+  "translation": "Kuma ya ɗauƙe laifin ⟨את⟩ gidа da jinin tsuntsu, da ruwan rai, da tsuntsun rai, da itacen arziƙi, da ɓaɓɓaƙin jаɓɓa, da jаn ɗiyar tola.",
   "tokens": [
     {
       "surface": "וחטא",
-      "gloss": "Kuma ya tsarkake"
+      "gloss": "kuma ya ɗauƙe laifin"
     },
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "הצפור",
-      "gloss": "tsuntsun"
+      "gloss": "tsuntsu"
     },
     {
       "surface": "ובמים",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "החיים",
-      "gloss": "mai rai"
+      "gloss": "rai"
     },
     {
       "surface": "ובצפר",
-      "gloss": "da tsuntun"
+      "gloss": "da tsuntsun"
     },
     {
       "surface": "החיה",
-      "gloss": "da yake rai"
+      "gloss": "rai"
     },
     {
       "surface": "ובעץ",
@@ -50,21 +50,21 @@
     },
     {
       "surface": "הארז",
-      "gloss": "ዐaraz"
+      "gloss": "arziƙi"
     },
     {
       "surface": "ובאזב",
-      "gloss": "da sha'awa"
+      "gloss": "da ɓaɓɓaƙin jаɓɓa"
     },
     {
       "surface": "ובשני",
-      "gloss": "da (zaren)"
+      "gloss": "da jаn"
     },
     {
       "surface": "התולעת",
-      "gloss": "ዐazuba"
+      "gloss": "ɗiyar tola"
     }
   ],
-  "timestamp": "2026-08-12T02:13:08.369018765Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:35:08.117913874Z",
+  "model": "glm-5.3"
 }

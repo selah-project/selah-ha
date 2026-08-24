@@ -5,11 +5,11 @@
   "book": "hosea",
   "lang": "ha",
   "chapter": 1,
-  "translation": "Kuma zai faru a rana ⟨ta⟩ wancan, in nã କାଟ ⟨את⟩ baka na Yisra'el a cikin ƙasar Yizre'el.",
+  "translation": "Kuma za ta faru a rana ⟨ta⟩ nan, in ⟨na⟩ ƙasa ⟨את⟩ baka ta Isra'ila a ƙwarin Yizre'el.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Kuma zai faru"
+      "gloss": "za ta faru"
     },
     {
       "surface": "ביום",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "ta wancan"
+      "gloss": "⟨ta⟩ nan"
     },
     {
       "surface": "ושברתי",
-      "gloss": "in na ƙarye"
+      "gloss": "in ƙasa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "baka"
+      "marks": "baka ta Isra'ila"
     },
     {
       "surface": "קשת",
@@ -34,17 +34,17 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Isra'ila"
     },
     {
       "surface": "בעמק",
-      "gloss": "a cikin ƙasar"
+      "gloss": "a ƙwarin"
     },
     {
       "surface": "יזרעאל",
       "gloss": "Yizre'el"
     }
   ],
-  "timestamp": "2026-08-12T18:12:33.221571786Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:34:55.760359416Z",
+  "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "ezra",
   "lang": "ha",
   "chapter": 2,
-  "translation": "Da ƙarfin su, sun bada taskar aikin, zinari ደርክሞኒ sita dubu da dubu ɗaya, da azurfa mina biyar dubu, da ƙwanningon kohanim ɗari.",
+  "translation": "Dangane da ƙarfinsu, sun ba da gudummawa ga taskar aikin: zinariya — darkomonai sittin da dubu ɗaya, da azurfa — manai dubu biyar, da ƙwatan malamai ɗari.",
   "tokens": [
     {
       "surface": "ככחם",
-      "gloss": "da ƙarfin su"
+      "gloss": "dangane da ƙarfinsu"
     },
     {
       "surface": "נתנו",
-      "gloss": "sun bada"
+      "gloss": "sun ba da gudummawa"
     },
     {
       "surface": "לאוצר",
-      "gloss": "taskar"
+      "gloss": "ga taskar"
     },
     {
       "surface": "המלאכה",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "זהב",
-      "gloss": "zinari"
+      "gloss": "zinariya"
     },
     {
       "surface": "דרכמונים",
-      "gloss": "darkemoni"
+      "gloss": "darkomonai"
     },
     {
       "surface": "שש",
-      "gloss": "shida"
+      "gloss": "sittin"
     },
     {
       "surface": "רבאות",
-      "gloss": "dubu"
+      "gloss": "dubu (rabbai)"
     },
     {
       "surface": "ואלף",
@@ -49,29 +49,29 @@
     },
     {
       "surface": "מנים",
-      "gloss": "mina"
+      "gloss": "manai"
     },
     {
       "surface": "חמשת",
-      "gloss": "biyar"
+      "gloss": "dubu biyar"
     },
     {
       "surface": "אלפים",
       "gloss": "dubu"
     },
     {
-      "surface": "וכתנת",
-      "gloss": "da ƙwanningon"
+      "surface": "וככתנת",
+      "gloss": "da ƙwatan"
     },
     {
       "surface": "כהנים",
-      "gloss": "kohanim"
+      "gloss": "malamai"
     },
     {
       "surface": "מאה",
       "gloss": "ɗari"
     }
   ],
-  "timestamp": "2026-08-12T23:24:15.592629594Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:34:46.253578295Z",
+  "model": "glm-5.3"
 }

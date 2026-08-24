@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ha",
   "chapter": 98,
-  "translation": "A gaban Yahweh, domin ⟨ya⟩ zo ya yi shari'a ⟨ga⟩ ƙasa; ⟨zai⟩ yi wa amfanin duniya shari'a da adalci, kuma ⟨לאת⟩ al'ummai da maida gaskiya.",
+  "translation": "A gaban Yahweh, domin ⟨ya⟩ zo don ya yi shari'a a ⟨kan⟩ ƙasa; zai yi shari'a ga ⟨mazaunan⟩ duniya da adalci, kuma ga al'ummomi da madaidaiciya.",
   "tokens": [
     {
       "surface": "לפני",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "בא",
-      "gloss": "⟨ya⟩ zo"
+      "gloss": "ya zo"
     },
     {
       "surface": "לשפט",
-      "gloss": "ya yi shari'a ⟨ga⟩"
+      "gloss": "don ya yi shari'a"
     },
     {
       "surface": "הארץ",
@@ -33,12 +33,11 @@
     },
     {
       "surface": "ישפט",
-      "gloss": "⟨zai⟩ yi wa shari'a"
+      "gloss": "zai yi shari'a"
     },
     {
       "surface": "תבל",
-      "gloss": "amfanin duniya",
-      "marks": "amfanin duniya"
+      "gloss": "duniya"
     },
     {
       "surface": "בצדק",
@@ -46,14 +45,13 @@
     },
     {
       "surface": "ועמים",
-      "gloss": "kuma ⟨לאת⟩ al'ummai",
-      "marks": "al'ummai"
+      "gloss": "kuma al'ummomi"
     },
     {
       "surface": "במישרים",
-      "gloss": "da maida gaskiya"
+      "gloss": "da madaidaiciya"
     }
   ],
-  "timestamp": "2026-08-14T00:21:33.733497590Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:34:34.188250695Z",
+  "model": "glm-5.3"
 }

@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "ha",
   "chapter": 14,
-  "translation": "Kuma ya riƙi ⟨את⟩ itacen ዐaraz da ⟨את⟩ sha'awa da ⟨את⟩ (zaren) ዐazuba da ⟨את⟩ tsuntsun da yake rai, kuma ya nutsa ⟨את⟩ ⟨su⟩ a cikin jinin tsuntun da aka yanka, da a cikin ruwan mai rai, kuma ya ja ⟨a⟩ gida sau bakwai.",
+  "translation": "Kuma ya ɗauki ⟨את⟩ itacen arziƙi, da ⟨את⟩ ɓaɓɓaƙin jаɓɓa, da ⟨את⟩ jаn ɗiyar tola, da ⟨את⟩ tsuntsun rai, kuma ya shimfiɗa su cikin jinin tsuntsun da aka yanka, da kuma cikin ruwan rai, kuma ya tоshe a kan gidа sau bakwai.",
   "tokens": [
     {
       "surface": "ולקח",
-      "gloss": "Kuma ya riƙi"
+      "gloss": "kuma ya ɗauki"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "itacen ዐaraz"
+      "marks": "itacen arziƙi"
     },
     {
       "surface": "עץ",
@@ -22,34 +22,34 @@
     },
     {
       "surface": "הארז",
-      "gloss": "ዐaraz"
+      "gloss": "arziƙi"
     },
     {
       "surface": "ואת",
-      "gloss": "da ⟨את⟩",
-      "marks": "sha'awa"
+      "gloss": "⟨את⟩",
+      "marks": "ɓaɓɓaƙin jаɓɓa"
     },
     {
       "surface": "האזב",
-      "gloss": "sha'awa"
+      "gloss": "ɓaɓɓaƙin jаɓɓa"
     },
     {
       "surface": "ואת",
-      "gloss": "da ⟨את⟩",
-      "marks": "(zaren) ዐazuba"
+      "gloss": "⟨את⟩",
+      "marks": "jаn ɗiyar tola"
     },
     {
       "surface": "שני",
-      "gloss": "(zaren)"
+      "gloss": "jаn"
     },
     {
       "surface": "התולעת",
-      "gloss": "ዐazuba"
+      "gloss": "ɗiyar tola"
     },
     {
       "surface": "ואת",
-      "gloss": "da ⟨את⟩",
-      "marks": "tsuntsun da yake rai"
+      "gloss": "⟨את⟩",
+      "marks": "tsuntsun rai"
     },
     {
       "surface": "הצפר",
@@ -57,24 +57,24 @@
     },
     {
       "surface": "החיה",
-      "gloss": "da yake rai"
+      "gloss": "rai"
     },
     {
       "surface": "וטבל",
-      "gloss": "kuma ya nutsa"
+      "gloss": "kuma ya shimfiɗa"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨su⟩",
-      "marks": "a cikin jinin tsuntun da aka yanka"
+      "gloss": "⟨את⟩",
+      "marks": "su (abubuwan)"
     },
     {
       "surface": "בדם",
-      "gloss": "a cikin jinin"
+      "gloss": "cikin jinin"
     },
     {
       "surface": "הצפר",
-      "gloss": "tsuntun"
+      "gloss": "tsuntsun"
     },
     {
       "surface": "השחוטה",
@@ -82,19 +82,19 @@
     },
     {
       "surface": "ובמים",
-      "gloss": "da a cikin ruwan"
+      "gloss": "da kuma cikin ruwan"
     },
     {
       "surface": "החיים",
-      "gloss": "mai rai"
+      "gloss": "rai"
     },
     {
       "surface": "והזה",
-      "gloss": "kuma ya ja"
+      "gloss": "kuma ya toshe"
     },
     {
       "surface": "אל",
-      "gloss": "⟨a⟩"
+      "gloss": "a kan"
     },
     {
       "surface": "הבית",
@@ -109,6 +109,6 @@
       "gloss": ""
     }
   ],
-  "timestamp": "2026-08-12T02:13:08.368835827Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:35:08.117524994Z",
+  "model": "glm-5.3"
 }

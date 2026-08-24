@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "ha",
   "chapter": 27,
-  "translation": "Kuma a kan shanun da ke kiwo a cikin ⟨The⟩ Sharon, ⟨akwai⟩ Shitrai ɗan Sharon; kuma a kan shanun da ke cikin ƙwari, ⟨akwai⟩ Shaphat ɗan Adlai.",
+  "translation": "Kuma a kan shanun da ke kiwo a cikin Sharon, Shitrai ɗan Sharon ⟨ne⟩; kuma a kan shanun da ke cikin ƙuururai, Shaphat ɗan Adlai ⟨ne⟩.",
   "tokens": [
     {
       "surface": "ועל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "בעמקים",
-      "gloss": "da ke cikin ƙwari"
+      "gloss": "a cikin ƙuururai"
     },
     {
       "surface": "שפט",
@@ -56,6 +56,6 @@
       "gloss": "Adlai"
     }
   ],
-  "timestamp": "2026-08-13T00:35:47.212763865Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:34:47.147490238Z",
+  "model": "glm-5.3"
 }

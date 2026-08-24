@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "ha",
   "chapter": 25,
-  "translation": "Kuma Yisra'el ya zauna a Shittim, kuma mutãne suka fara yi ዘንድ karuwanci aƙwai sunã nufi 'ya'yan mata na Mo'ab.",
+  "translation": "Kuma Yisra'ila ya zauna a Shittim, kuma mutanen suka fara yin zina ⟨tare⟩ da 'ya'yan mata na Moab.",
   "tokens": [
     {
       "surface": "וישב",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisra'ila"
     },
     {
       "surface": "בשטים",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "העם",
-      "gloss": "mutãne"
+      "gloss": "mutanen"
     },
     {
       "surface": "לזנות",
-      "gloss": "yi karuwanci"
+      "gloss": "yin zina"
     },
     {
       "surface": "אל",
-      "gloss": "aƙwai sunã nufi"
+      "gloss": "⟨tare⟩ da"
     },
     {
       "surface": "בנות",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "מואב",
-      "gloss": "Mo'ab"
+      "gloss": "na Moab"
     }
   ],
-  "timestamp": "2026-08-12T04:24:29.973266139Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:34:40.629493750Z",
+  "model": "glm-5.3"
 }

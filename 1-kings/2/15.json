@@ -5,19 +5,20 @@
   "book": "1-kings",
   "lang": "ha",
   "chapter": 2,
-  "translation": "Sai ya ce, Kai kana san cewa ni ዋንድ mulki yayi, kuma dukkansu Isra'ila suka juya fuskokinsu gare ni in yi sarki, amma mulkin ya koma ⟨kuma⟩ ya zama na ɗan'uwana, domin daga Yahweh ya kasance gare shi.",
+  "translation": "Ya ce: ⟨את⟩ kai ka san cewa mulki nawa ne, kuma duk Isra'ila suka sanya fuskokinsu ⟨a⟩ gare ni in zama sarki; sai mulkin ya juya, ya zama ⟨na⟩ ɗan'uwana, domin daga Yahweh ⟨ne⟩ ya kasance nasa.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "sai ya ce"
+      "gloss": "Ya ce"
     },
     {
       "surface": "את",
-      "gloss": "Kai"
+      "gloss": "⟨את⟩",
+      "marks": "kai ka san"
     },
     {
       "surface": "ידעת",
-      "gloss": "kana san"
+      "gloss": "ka san"
     },
     {
       "surface": "כי",
@@ -25,11 +26,11 @@
     },
     {
       "surface": "לי",
-      "gloss": "ni"
+      "gloss": "nawa"
     },
     {
       "surface": "היתה",
-      "gloss": "yayi"
+      "gloss": "ya kasance"
     },
     {
       "surface": "המלוכה",
@@ -37,15 +38,15 @@
     },
     {
       "surface": "ועלי",
-      "gloss": "kuma gare ni"
+      "gloss": "kuma a gare ni"
     },
     {
       "surface": "שמו",
-      "gloss": "suka"
+      "gloss": "suka sanya"
     },
     {
       "surface": "כל",
-      "gloss": "dukkansu"
+      "gloss": "duk"
     },
     {
       "surface": "ישראל",
@@ -57,15 +58,15 @@
     },
     {
       "surface": "למלך",
-      "gloss": "in yi sarki"
+      "gloss": "in zama sarki"
     },
     {
       "surface": "ותסב",
-      "gloss": "ya koma"
+      "gloss": "sai mulkin ya juya"
     },
     {
       "surface": "המלוכה",
-      "gloss": "mulki"
+      "gloss": "mulkin"
     },
     {
       "surface": "ותהי",
@@ -89,9 +90,9 @@
     },
     {
       "surface": "לו",
-      "gloss": "gare shi"
+      "gloss": "nasa"
     }
   ],
-  "timestamp": "2026-08-12T10:52:51.670321726Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:34:56.510094246Z",
+  "model": "glm-5.3"
 }
