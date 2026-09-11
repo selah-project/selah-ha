@@ -60,3 +60,8 @@ rikodin buɗaɗɗe da shaida. Ƙungiyar kulawa tana bincika shawara
 da Ibrananci, dokoki, tushe da haɗin kalmomi — tana iya karɓa,
 tana iya warwarewa tare da kai, tana iya jiran ƙarin hujja, ko
 ta ƙi da dalili. Bincika rubutun, ba mutumin ba.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
